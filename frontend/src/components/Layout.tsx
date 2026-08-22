@@ -392,6 +392,19 @@ const Layout = () => {
                       Help & Support
                     </button>
                     
+                    {!isPremium && (
+                      <button 
+                        onClick={() => {
+                          setUserMenuOpen(false);
+                          navigate('/payment');
+                        }}
+                        className="w-full px-4 py-2 text-sm text-indigo-600 dark:text-indigo-400 hover:bg-indigo-50 dark:hover:bg-indigo-900/20 flex items-center gap-3 font-medium transition-colors"
+                      >
+                        <Sparkles className="w-4 h-4" />
+                        Upgrade to Premium
+                      </button>
+                    )}
+                    
                     <hr className="my-1 dark:border-gray-700" />
                     
                     <button

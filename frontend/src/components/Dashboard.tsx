@@ -5,6 +5,7 @@ import { LogOut, X } from 'lucide-react';
 
 // Import the wizard component (put it in the same folder or adjust path)
 import TextbookToQuizWizard from './TextbookToQuizWizard';
+import SubscriptionStatus from './SubscriptionStatus';
 
 const API_BASE = import.meta.env.VITE_API_URL || '/api';
 type TextbookProgress = {
@@ -129,6 +130,9 @@ const CombinedDashboard = () => {
           <span className="font-semibold">Logout</span>
         </button>
       </header>
+
+      {/* Subscription Status */}
+      <SubscriptionStatus />
 
       {/* HERO + STATS — 3 equal cards in one row */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
