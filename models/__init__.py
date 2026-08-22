@@ -49,6 +49,7 @@ from models.MessageRead import MessageRead
 from models.TextHighlight import TextHighlight
 from models.StudyBookmark import StudyBookmark
 from models.EvaluationConfig import EvaluationConfig
+from models.PaymentVerification import PaymentVerification
 
 # ESLCE Integration Models
 from models.EslceSubject import EslceSubject
