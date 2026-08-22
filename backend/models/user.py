@@ -31,6 +31,9 @@ class user(Base):
     # ✅ NEW FIELDS FOR PASSWORD RESET
     reset_token = Column(String(64), nullable=True)
     reset_token_expiry = Column(DateTime, nullable=True)
+
+    # ✅ PAYMENT
+    is_paid = Column(Boolean, server_default='false')
     
     def __repr__(self):
         return f"<User {self.Email}>"

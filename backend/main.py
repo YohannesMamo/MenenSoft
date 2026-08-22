@@ -23,7 +23,7 @@ from routes import contact
 # Import models and routes
 import models
 from routes import auth, quiz, student, textbooks, study, exams, quizzes, questions, profile, dashboard, students, chat, highlights, eslce, evaluation
-from routes import evaluation_sms
+from routes import evaluation_sms, payments
 # Initialize app
 app = FastAPI(title="MERP Student Assistant API", version="1.0.0")
 
@@ -70,8 +70,8 @@ sio = socketio.AsyncServer(
         "http://localhost:5173",
         "http://localhost:3000",
         "http://127.0.0.1:5173",
-        "https://menen-oshd-app.pxxl.click",
-        "https://menen-oshd-api.pxxl.click",
+        "https://menen-oshs-app.pxxl.click",
+        "https://menen-oshs-api.pxxl.click",
     ]
 )
 socket_app = socketio.ASGIApp(sio, app)
@@ -89,8 +89,8 @@ app.add_middleware(
         "http://localhost:8000",
         "http://127.0.0.1:5173",
         "http://127.0.0.1:3000",
-        "https://menen-oshd-app.pxxl.click",
-        "https://menen-oshd-api.pxxl.click",
+        "https://menen-oshs-app.pxxl.click",
+        "https://menen-oshs-api.pxxl.click",
     ],
     allow_credentials=True,
     allow_methods=["*"],
@@ -116,6 +116,7 @@ app.include_router(contact.router)
 app.include_router(eslce.router, prefix="/api/eslce", tags=["ESLCE"])
 app.include_router(evaluation.router, tags=["Evaluation"])
 app.include_router(evaluation_sms.router, tags=["Evaluation SMS"])
+app.include_router(payments.router, prefix="/api/payments", tags=["Payments"])
 
 # ==================== ROOT ENDPOINT ====================
 

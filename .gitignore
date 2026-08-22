@@ -45,3 +45,5 @@ backend/Textbooks/
 frontend/vite.config.js
 frontend/server/
 New folder/
+backend/package.json
+backend/package-lock.json

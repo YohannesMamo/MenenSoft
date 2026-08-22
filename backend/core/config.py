@@ -8,6 +8,10 @@ class Settings(BaseSettings):
     BACKEND_URL: str = "http://localhost:8000"
     TEXTBOOKS_PATH: str = "Textbooks"
 
+    VERIFIER_API_KEY: str = ""
+    VERIFIER_BASE_URL: str = "https://verifyapi.leulzenebe.pro"
+    VERIFIER_TIMEOUT: int = 15
+
     class Config:
         env_file = ".env"
         extra = "ignore"
