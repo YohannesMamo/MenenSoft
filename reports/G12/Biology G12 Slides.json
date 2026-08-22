@@ -1,0 +1,3479 @@
+[
+  {
+    "chapter": "Chapter 1: Applications of Biology",
+    "slides": [
+      {
+        "slide_number": 1,
+        "title": "Unit 1 Overview - Applications of Biology",
+        "key_points": [
+          "Biology helps us understand all living organisms from bacteria to blue whales",
+          "Applications include disease control, pest management, drug discovery, and genetic engineering",
+          "Biology provides understanding of evolution, extinction rates, and conservation",
+          "Practical applications include hand washing, domestication, and traditional fermentation",
+          "Biotechnology combines biology and technology for human benefit"
+        ],
+        "keywords": [
+          "Biotechnology",
+          "Genetic engineering",
+          "Conservation"
+        ],
+        "notes": "This unit explores how biological knowledge is applied in daily life, from disease control to food production and environmental conservation."
+      },
+      {
+        "slide_number": 2,
+        "title": "1.1 Conservation of Natural Resources",
+        "key_points": [
+          "Conservation: Careful maintenance and wise use of natural resources to prevent them from disappearing",
+          "Natural resources: Physical supplies from nature including soil, water, air, plants, animals, and energy",
+          "Renewable resources: Can be used, reused, and replaced when managed carefully",
+          "Non-renewable resources: Finite resources not replaced at same speed they are used",
+          "Ethiopia's natural resources include gold, platinum, potash, limestone, natural gas, coal, lakes, waterfalls, timber, coffee, and diverse species"
+        ],
+        "keywords": [
+          "Natural resources",
+          "Renewable",
+          "Non-renewable",
+          "Extinct",
+          "Conservation"
+        ],
+        "notes": "Natural resources are classified as renewable or non-renewable. Renewable resources (sun, wind, water, biomass) can be used repeatedly when managed well. Non-renewable resources (metals, fossil fuels) are finite and must be used sparingly. Biologists play a key role in conserving species and their habitats."
+      },
+      {
+        "slide_number": 3,
+        "title": "1.1 Conservation Strategies and Importance",
+        "key_points": [
+          "Conservation prevents disappearance of resources and protects biodiversity",
+          "Biologists conserve species and save them from extinction through preservation of natural habitats, zoos, and seed banks",
+          "Coppicing and planting trees to replace those cut down ensures sustainable forest management",
+          "Using renewable energy sources reduces dependence on non-renewable resources",
+          "Ethiopia's renewable resources include Coffee (Coffea arabica), Walia Ibex (Capra walie), and Ethiopian Bush crow (Zavattariornis stresemanni)"
+        ],
+        "keywords": [
+          "Conservation biology",
+          "Biodiversity",
+          "Sustainable management",
+          "Habitat preservation"
+        ],
+        "notes": "Conservation is protecting and preserving our natural environment so that non-renewable resources are used sparingly, and renewable resources are appropriately managed. Without careful management, even renewable resources can be lost."
+      },
+      {
+        "slide_number": 4,
+        "title": "1.2 Food and Nutrition Security",
+        "key_points": [
+          "Food security: State where all people have physical, social, and economic access to sufficient, safe, and nutritious food at all times",
+          "Food insecurity is often rooted in poverty and causes long-term impacts on development",
+          "Nutrition security: Access to sufficient, safe, nutritious foods, safe water, adequate sanitation, health care, and knowledge of proper practices",
+          "Food security requires: enough food available, capacity to buy quality food, and no barriers to access food",
+          "Biology produces high-nutrient staple crops and develops new products to combat malnutrition"
+        ],
+        "keywords": [
+          "Food security",
+          "Nutrition security",
+          "Food insecurity",
+          "Malnutrition"
+        ],
+        "notes": "Prolonged undernourishment stunts growth, slows cognitive development, and increases susceptibility to illness. Food security is ensured only when food is available, accessible, and affordable for all."
+      },
+      {
+        "slide_number": 5,
+        "title": "1.2 Understanding Food Insecurity",
+        "key_points": [
+          "Food insecurity is often rooted in poverty",
+          "Long-term impacts on families, communities, and countries to develop and prosper",
+          "Types of malnutrition: Stunting (too short for age), Wasting (too thin for height), Over nutrition (too fat for height and age), Micronutrient deficiencies",
+          "Prolonged undernourishment stunts growth, slows cognitive development, and increases susceptibility to illness",
+          "Biotechnologists design manufacturing processes for consistent food flavor, color, and texture in large quantities"
+        ],
+        "keywords": [
+          "Stunting",
+          "Wasting",
+          "Over nutrition",
+          "Micronutrient deficiencies"
+        ],
+        "notes": "Food and nutrition insecurity have severe consequences on human development, particularly in children. Biology plays a key role in addressing these challenges through improved crop production and food processing."
+      },
+      {
+        "slide_number": 6,
+        "title": "1.3 Conscious Citizens and Sustainable Development",
+        "key_points": [
+          "Conscious citizen: Person who places value on being fully human while connecting with a higher purpose",
+          "Biology expands awareness of social, global, and environmental conditions",
+          "Conscious citizens assume personal responsibility and commit to positive impact",
+          "Biotechnology facilitates sustainable development initiatives",
+          "Conscious citizen biologists develop innovative, cost-effective bio-based technologies"
+        ],
+        "keywords": [
+          "Conscious citizen",
+          "Sustainable development",
+          "Biotechnology",
+          "Ethical decision making"
+        ],
+        "notes": "A conscious citizen values human life and relationship with all living things, taking responsibility for transforming skills into action through ethical decision-making to improve life on the planet."
+      },
+      {
+        "slide_number": 7,
+        "title": "1.3 Sustainable Development Model",
+        "key_points": [
+          "Three dimensions of sustainability: Economic, Social, and Environmental",
+          "Conscious global biologists in Ethiopia involved in protecting, managing, and monitoring existing resources",
+          "Activities include: analyzing soil, water, and air for pollution; finding ways to clean up pollution",
+          "Identifying, recording, and monitoring plants and animals",
+          "Developing technologies that consume fewer resources, incorporate recycling, reduce waste"
+        ],
+        "keywords": [
+          "Economic sustainability",
+          "Social sustainability",
+          "Environmental sustainability",
+          "Resource management"
+        ],
+        "notes": "Sustainable development involves balancing economic, social, and environmental needs. Biology empowers citizens to develop innovative technologies that support a greener earth and improved food production."
+      },
+      {
+        "slide_number": 8,
+        "title": "1.4 Introduction to Biotechnology",
+        "key_points": [
+          "Biotechnology: Application of technologies using living organisms or their products for human benefit",
+          "Genetically Modified Organisms (GMOs): Received genetic material via recombinant DNA technology",
+          "Transgenic organism: Received genetic material from a different species",
+          "Transgene: Gene from one species introduced into another species",
+          "Crops can be modified to increase yields and obtain novel products"
+        ],
+        "keywords": [
+          "Biotechnology",
+          "GMOs",
+          "Transgenic organism",
+          "Transgene",
+          "Recombinant DNA"
+        ],
+        "notes": "Biotechnology can be used in food processing, agriculture, medicine, and environmental protection. GMOs have been developed for improved traits and disease resistance."
+      },
+      {
+        "slide_number": 9,
+        "title": "1.4 Food Processing and Production",
+        "key_points": [
+          "Single-cell protein (SCP): Produced from waste materials like molasses, petroleum by-products, agricultural wastes",
+          "Pruteen: Produced by Methylophilus methylotrophus bacteria",
+          "Mycoprotein: Produced from Fusarium venenatum fungus, used as meat substitute",
+          "Spirulina: Cyanobacterium harvested from lakes, used as nutrient source",
+          "Vitamins produced via fermentation: Vitamin C, Vitamin B12, Vitamin B2",
+          "Dairy products: Cultured buttermilk (Streptococcus cremoris), Yogurt (Streptococcus thermophilus and Lactobacillus bulgaricus)"
+        ],
+        "keywords": [
+          "Single-cell protein",
+          "Spirulina",
+          "Fermentation",
+          "Dairy products",
+          "Vitamins"
+        ],
+        "notes": "Microorganisms are essential in food production, from SCP to dairy products. Fermentation processes produce various foods and beverages with specific flavors and textures."
+      },
+      {
+        "slide_number": 10,
+        "title": "1.4 Beer, Wine, and Bread Production",
+        "key_points": [
+          "Beer and wine: Made by fermenting sugary juices using Saccharomyces strains",
+          "Beer making: Malted barley, hops, Saccharomyces fermentation produces ethyl alcohol, CO2, amyl and isoamyl alcohols, acetic and butyric acids",
+          "Wine making: Juice treated with sulfur dioxide, Saccharomyces added, fermentation produces ethyl alcohol and other flavor compounds",
+          "Spirits (whiskey, gin, rum): Made by fermenting various foods and distilling the product",
+          "Bread making: Saccharomyces cerevisiae used for leavening (CO2 production), flavor, and dough conditioning",
+          "Lactic acid bacteria contribute to rye and sourdough bread flavors"
+        ],
+        "keywords": [
+          "Saccharomyces",
+          "Fermentation",
+          "Leavening",
+          "Distillation",
+          "Ethyl alcohol"
+        ],
+        "notes": "Yeast strains of Saccharomyces are the fermenters for all alcoholic beverages. Bread making uses yeast for leavening and flavor, with lactic acid bacteria contributing to specialty breads."
+      },
+      {
+        "slide_number": 11,
+        "title": "1.4 Traditional Ethiopian Fermentation",
+        "key_points": [
+          "Injera: Traditional Ethiopian fermented flatbread",
+          "Areki: Traditional Ethiopian spirit",
+          "Tej: Traditional Ethiopian honey wine",
+          "Tella: Traditional Ethiopian beer",
+          "Back slopping: Using a small amount of previous fermentation as starter culture",
+          "Yeast and lactic acid bacteria are important in traditional fermentation"
+        ],
+        "keywords": [
+          "Injera",
+          "Areki",
+          "Tej",
+          "Tella",
+          "Back slopping",
+          "Starter culture"
+        ],
+        "notes": "Ethiopian traditional fermented products include injera, areki, tej, and tella. These products rely on microorganisms for their unique flavors and textures."
+      },
+      {
+        "slide_number": 12,
+        "title": "1.5 Genetic Engineering",
+        "key_points": [
+          "Genetic engineering: Process of transferring DNA from one organism into another",
+          "Results in genetic modification and production of transgenic organisms",
+          "Applications: Pharmaceuticals, gene therapy, transgenic plants and animals",
+          "Animal breeding: Selecting for superior traits in growth rate, egg, meat, milk, or wool production",
+          "Transgenic animals: Enhanced prolificacy, feed utilization, growth rate, carcass composition, milk production, disease resistance"
+        ],
+        "keywords": [
+          "Genetic engineering",
+          "Transgenic animals",
+          "Animal breeding",
+          "Gene transfer",
+          "Livestock improvement"
+        ],
+        "notes": "Genetic engineering has revolutionized livestock production through selective breeding and transgenic technology. Gene transfer is a relatively rapid way of altering the genome of domestic livestock."
+      },
+      {
+        "slide_number": 13,
+        "title": "1.5 Tissue Culture",
+        "key_points": [
+          "Tissue culture: Method of propagating plants quickly and in large quantity from fragments of tissue",
+          "Fragments of tissue transferred to artificial environment where they can survive and function",
+          "Cultured tissue may consist of single cell, population of cells, or whole/part of an organ",
+          "Plants produced: Palm trees, orchids, bananas, carrots",
+          "Advantages: Large quantity of food with desired quality in small area",
+          "Important for producing disease-free, high-quality planting material"
+        ],
+        "keywords": [
+          "Tissue culture",
+          "Plant propagation",
+          "Disease-free plants",
+          "Artificial environment"
+        ],
+        "notes": "Tissue culture is an important biotechnology for developing countries, allowing rapid production of uniform, disease-free plants in relatively little area."
+      },
+      {
+        "slide_number": 14,
+        "title": "1.6 Health and Wellbeing - Antibiotics",
+        "key_points": [
+          "Human drugs produced via transgenic bacteria: Insulin, growth hormone, tissue plasminogen activator",
+          "Antibiotics: Complex organic compounds synthesized by microorganisms",
+          "Major sources: Bacteria or fungi from soil",
+          "Penicillin: Produced by Penicillium fungus, discovered by Alexander Fleming in 1928",
+          "Streptomycin: Produced by Streptomyces (Actinomycete)",
+          "Antibiotics can be bacteriostatic (stop reproduction) or bacteriocidal (kill bacteria)"
+        ],
+        "keywords": [
+          "Antibiotics",
+          "Penicillin",
+          "Streptomycin",
+          "Bacteriostatic",
+          "Bacteriocidal",
+          "Actinomycetes"
+        ],
+        "notes": "Antibiotics are produced by microorganisms and attack bacteria by disrupting cell wall production or interfering with protein synthesis. Animal cells are not damaged because they lack cell walls."
+      },
+      {
+        "slide_number": 15,
+        "title": "1.6 Biosensors and Forensic Science",
+        "key_points": [
+          "Biosensors: Devices linking living microorganisms (or their enzymes) with electrodes",
+          "Biological reactions converted into electrical currents",
+          "Applications: Measure specific components in beer, monitor pollutants, detect flavor compounds",
+          "Detect: Glucose, acetic acid, glutamic acid, ethanol, biochemical oxygen demand, pathogens, herbicides, toxins, proteins, DNA",
+          "Forensic Science: Examines evidence using blood, saliva, hair, and DNA analysis",
+          "Fingerprints: Unique to each individual, do not change throughout life"
+        ],
+        "keywords": [
+          "Biosensors",
+          "Bioelectronics",
+          "Forensic science",
+          "DNA analysis",
+          "VNTR"
+        ],
+        "notes": "Biosensors are rapidly developing biotechnology tools for detecting various substances. Forensic science uses DNA analysis and fingerprints to investigate crimes and determine paternity."
+      },
+      {
+        "slide_number": 16,
+        "title": "1.6 Forensic DNA Analysis",
+        "key_points": [
+          "PCR (Polymerase Chain Reaction): Used as forensic science tool",
+          "Variable Number of Tandem Repeat (VNTR) loci analysis",
+          "Odds of two random individuals sharing same genetic pattern: ~1 in 10 billion",
+          "Used for: Crime investigation, paternity testing",
+          "Gel electrophoresis results show DNA patterns of suspects",
+          "Bioinformatics widely acceptable in forensic science"
+        ],
+        "keywords": [
+          "PCR",
+          "VNTR",
+          "Gel electrophoresis",
+          "DNA profiling",
+          "Paternity testing"
+        ],
+        "notes": "DNA analysis in forensic science has become more reliable and easier with computational tools. It is used to identify criminals and determine paternity with high accuracy."
+      },
+      {
+        "slide_number": 17,
+        "title": "1.6 Biomining (Microbiological Mining)",
+        "key_points": [
+          "Biohydrometallurgy: Use of microbes to extract metals from ores",
+          "Thiobacillus ferrooxidans: Chemolithotrophic acidophilic bacterium that oxidizes sulfur",
+          "Converts copper sulfide to water-soluble form",
+          "Also oxidizes iron from iron sulfide",
+          "Combinations of T. ferrooxidans and T. thiooxidans degrade copper and iron ores more rapidly",
+          "Leptospirillum ferrooxidans and T. organoparus degrade pyrite (FeS2) and chalcopyrite (CuFeS2)"
+        ],
+        "keywords": [
+          "Biomining",
+          "Biohydrometallurgy",
+          "Thiobacillus ferrooxidans",
+          "Sulfide oxidation",
+          "Leaching"
+        ],
+        "notes": "Biomining uses bacteria to extract metals from low-grade ores. Thiobacillus ferrooxidans oxidizes sulfur in sulfide minerals, releasing pure metals like copper, zinc, lead, and uranium."
+      },
+      {
+        "slide_number": 18,
+        "title": "1.6 Environmental Applications - Solid Waste and Wastewater",
+        "key_points": [
+          "Solid waste treatment: Composting and landfill",
+          "Biodegradable material decomposed by fungi, bacteria, and actinomycetes to produce CO2, water, and humus",
+          "Landfills generate methane from anaerobic decomposition, used as fuel",
+          "Wastewater treatment: Removes undesirable substances and hazardous microorganisms",
+          "Primary treatment: Physical removal of floating objects and sedimentation",
+          "Secondary treatment: Microbial oxidation (trickling filter or activated sludge process)",
+          "Reduces Biochemical Oxygen Demand (BOD)"
+        ],
+        "keywords": [
+          "Composting",
+          "Landfill",
+          "Wastewater treatment",
+          "BOD",
+          "Activated sludge",
+          "Humus"
+        ],
+        "notes": "Wastewater treatment is fundamental to developed societies, reducing waterborne diseases. Secondary treatment involves microbial oxidation to substantially reduce BOD."
+      },
+      {
+        "slide_number": 19,
+        "title": "1.6 Bioremediation",
+        "key_points": [
+          "Bioremediation: Use of living organisms or their products for detoxification and degradation of environmental pollutants",
+          "Also known as biodegradation",
+          "Genetically engineered bacteria metabolically breakdown toxic pollutants into harmless compounds",
+          "Mercury resistant bacteria: Process metallic mercury into nontoxic compound",
+          "Biotransformation: Enzymes modify toxic pollutant by altering its structure",
+          "Heavy metals often rendered less toxic by oxidation or reduction reactions"
+        ],
+        "keywords": [
+          "Bioremediation",
+          "Biodegradation",
+          "Biotransformation",
+          "Genetically engineered bacteria",
+          "Environmental pollution"
+        ],
+        "notes": "Bioremediation uses microorganisms to clean up environmental pollutants. Genetically engineered bacteria can break down toxic pollutants into harmless compounds, making this an effective waste treatment process."
+      },
+      {
+        "slide_number": 20,
+        "title": "1.6 Biofuels and Biogas",
+        "key_points": [
+          "Biofuels: Fuel (chiefly ethanol) obtained by fermentation of plant material",
+          "Crop residues: Cellulose and hemicellulose (polymers of glucose, xylose, mannose, galactose, arabinose)",
+          "Saccharomyces cerevisiae engineered to ferment xylose",
+          "E. coli strain expressing Zymomonas mobilis genes ferments all sugars",
+          "Biogas: Combustible gas from anaerobic breakdown of organic matter",
+          "Three communities of anaerobic microbes: Eubacteria (first two groups) and Methanogens (Archaea)",
+          "Methanogens produce methane: CO2 + 4H2 → CH4 + 2H2O and CH3COOH → CH4 + CO2"
+        ],
+        "keywords": [
+          "Biofuels",
+          "Biogas",
+          "Methanogens",
+          "Cellulose",
+          "Hemicellulose",
+          "Anaerobic digestion"
+        ],
+        "notes": "Biofuels and biogas are renewable energy sources produced by microorganisms. Biogas is mostly methane and can be used for cooking and lighting, with slurry left for soil conditioner."
+      },
+      {
+        "slide_number": 21,
+        "title": "1.7 Industrial Applications of Enzymes",
+        "key_points": [
+          "Enzymes produced by commercial fermentation using Aspergillus (fungi) or Bacillus (bacteria)",
+          "Selected organisms are non-pathogenic and do not produce antibiotics",
+          "Extracellular enzymes: Filtered from feedstock",
+          "Intracellular enzymes: Organisms crushed and enzymes extracted",
+          "Proteases: Washing powders, cheese manufacture, tenderising meat",
+          "Lipases: Flavor enhancer in cheese, washing powders for fatty stains",
+          "Pectinases: Clarification of fruit juices",
+          "Amylases: Production of glucose from starch"
+        ],
+        "keywords": [
+          "Enzymes",
+          "Fermentation",
+          "Proteases",
+          "Lipases",
+          "Pectinases",
+          "Amylases"
+        ],
+        "notes": "Enzymes have various commercial applications in food, textile, and cleaning industries. Biological washing powders contain proteases and lipases that work at lower temperatures."
+      },
+      {
+        "slide_number": 22,
+        "title": "1.8 Agricultural Applications - Biopesticides",
+        "key_points": [
+          "Biopesticides: Biological agents to kill susceptible insects",
+          "Bacteria: Bacillus thuringiensis (wide variety of crops), Bacillus popilliae (Japanese beetle larvae)",
+          "Pseudomonas fluorescens: Contains toxin-producing gene from B. thuringiensis, used on maize",
+          "Viruses: Nuclear polyhedrosis virus (NPV), Granulosis virus (GV), Cytoplasmic polyhedrosis virus (CPV)",
+          "Fungi: Beauveria bassiana (Colorado potato beetle), Metarhizium anisopliae (sugarcane froghopper)",
+          "Verticillium lecanii and Entomophthora spp. (aphids)"
+        ],
+        "keywords": [
+          "Biopesticides",
+          "Bacillus thuringiensis",
+          "NPV",
+          "Bioinsecticides",
+          "Biological control"
+        ],
+        "notes": "Biopesticides use bacteria, fungi, and viruses to control pests. They are considered harmless to humans and reduce the need for chemical pesticides."
+      },
+      {
+        "slide_number": 23,
+        "title": "1.8 Ti Plasmid and Transgenic Crops",
+        "key_points": [
+          "Ti plasmid: Tumor-inducing plasmid of Agrobacterium tumefaciens",
+          "Used as vector to introduce transgenes into plants",
+          "Glyphosate resistance gene inserted into Ti plasmid with antibiotic resistance gene",
+          "Construct re-inserted into A. tumefaciens bacterium",
+          "Plant cells exposed to transgenic bacterium and cultured on antibiotic plate",
+          "Only cells that took up plasmid grow (others killed by antibiotic)",
+          "Insect-resistant crops: Maize (corn borer), Cotton (boll weevil)",
+          "BT-Cotton: Bacillus thuringiensis genes inserted for insect resistance"
+        ],
+        "keywords": [
+          "Ti plasmid",
+          "Agrobacterium tumefaciens",
+          "Transgenic crops",
+          "BT-Cotton",
+          "Glyphosate resistance"
+        ],
+        "notes": "Agrobacterium tumefaciens is used as a vector to introduce genes into plants. Insect-resistant crops like BT-Cotton produce proteins toxic to insects, improving yield."
+      },
+      {
+        "slide_number": 24,
+        "title": "1.8 Transgenic Plants and Animals",
+        "key_points": [
+          "Transgenic plants: Received recombinant DNA from other species",
+          "Traits: Disease resistance, herbicide/pesticide resistance, better nutritional value, better shelf life",
+          "Transgenic animals: Modified to express recombinant DNA",
+          "Human proteins expressed in milk of transgenic sheep and goats",
+          "Some proteins expressed in eggs of chickens",
+          "Mice used for expressing and studying recombinant genes and mutations",
+          "Extensive testing required for ecological stability"
+        ],
+        "keywords": [
+          "Transgenic plants",
+          "Transgenic animals",
+          "Recombinant DNA",
+          "Disease resistance",
+          "Herbicide resistance"
+        ],
+        "notes": "Transgenic plants and animals are closely monitored by government agencies to ensure they are fit for human consumption and do not endanger other plant and animal life."
+      },
+      {
+        "slide_number": 25,
+        "title": "1.8 Cloning",
+        "key_points": [
+          "Cloning: Method of producing identical copies of genes, cells, or organisms",
+          "Products of cloning called a clone",
+          "Clone: Group of genetically identical organisms or cells",
+          "Produced either by asexual reproduction or artificially by cloning techniques",
+          "Main advantage: Large numbers of plants or animals with desirable characteristics",
+          "First successful reproductive cloning of adult: Dolly the sheep",
+          "Dolly cloned using somatic cell nuclear transfer"
+        ],
+        "keywords": [
+          "Cloning",
+          "Clone",
+          "Dolly the sheep",
+          "Somatic cell nuclear transfer",
+          "Genetically identical"
+        ],
+        "notes": "Cloning produces identical copies of organisms with desirable characteristics. Dolly the sheep was the first successfully cloned mammal from an adult cell."
+      },
+      {
+        "slide_number": 26,
+        "title": "1.9 Biological Warfare",
+        "key_points": [
+          "Biological warfare (BW): Use of biological toxins or infectious agents",
+          "Agents: Bacteria, viruses, and fungi",
+          "Intent: Kill or incapacitate humans, animals, or plants as an act of war",
+          "Biological weapons include any microorganism or toxin found in nature",
+          "Bioterrorism: From hoax to actual use of biological weapons",
+          "Agents may be used for isolated assassination or mass casualties",
+          "Contamination creates long-term threat to population"
+        ],
+        "keywords": [
+          "Biological warfare",
+          "Bioterrorism",
+          "Biological toxins",
+          "Infectious agents",
+          "Biological weapons"
+        ],
+        "notes": "Biological warfare is the use of biological toxins or infectious agents to harm people, animals, or plants. There are concerns that terrorist groups may acquire these destructive agents."
+      },
+      {
+        "slide_number": 27,
+        "title": "Chapter 1 Summary",
+        "key_points": [
+          "Biotechnology: Application of scientific knowledge to produce biological products",
+          "Yeasts, moulds, and bacteria are important industrial microorganisms",
+          "Fermentation: Process by which sugar is converted into alcohol and CO2 by yeast",
+          "Tissue culture: Propagating plants from tissue fragments in artificial environment",
+          "Genetic engineering: Transfer of genes from one organism to an unrelated species",
+          "Wastewater treatment: Removal of undesirable substances and hazardous microorganisms",
+          "Biogas: Produced by methanogenic bacteria from waste matter",
+          "Transgenic plants: Obtained using Agrobacterium tumefaciens plasmid",
+          "Bioremediation: Using living organisms to decrease environmental pollutants"
+        ],
+        "keywords": [
+          "Fermentation",
+          "Genetic engineering",
+          "Tissue culture",
+          "Biogas",
+          "Bioremediation",
+          "Transgenic organisms"
+        ],
+        "notes": "Chapter 1 covers the diverse applications of biology in food processing, agriculture, medicine, environmental management, and industry. Biotechnology plays a central role in these applications."
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 2: Microorganisms",
+    "slides": [
+      {
+        "slide_number": 28,
+        "title": "Unit 2 Overview - Microorganisms",
+        "key_points": [
+          "Microbiology: Study of microbes, which can only be observed with microscopes",
+          "Microorganisms include: Fungi, Bacteria, Algae, Protozoa, and Viruses",
+          "Some eukaryotic microorganisms are visible without magnification",
+          "Based on evolutionary lines, organisms grouped into three domains: Bacteria, Archaea, and Eukarya",
+          "Microorganisms play roles as producers and decomposers"
+        ],
+        "keywords": [
+          "Microbiology",
+          "Microbes",
+          "Bacteria",
+          "Archaea",
+          "Eukarya"
+        ],
+        "notes": "Microorganisms are very diverse and found in all three domains of life. They include both prokaryotes (Bacteria and Archaea) and eukaryotes (fungi, algae, protozoa)."
+      },
+      {
+        "slide_number": 29,
+        "title": "2.1 Eubacteria - Introduction",
+        "key_points": [
+          "Eubacteria: 'True bacteria' - relatively simple in structure",
+          "Prokaryotic, unicellular organisms",
+          "No nuclear membrane, mitochondria, Golgi bodies, or endoplasmic reticulum",
+          "Reproduce by asexual division",
+          "Omnipresent: Found in soil, air, and water",
+          "Cell bears thick rigid cell wall (peptidoglycan) outside plasma membrane",
+          "Mode of nutrition: Autotrophic or heterotrophic (parasitic, saprophytic, symbiotic)"
+        ],
+        "keywords": [
+          "Eubacteria",
+          "Prokaryotic",
+          "Peptidoglycan",
+          "Autotrophs",
+          "Heterotrophs",
+          "Omnipresent"
+        ],
+        "notes": "Eubacteria are true bacteria with simple cellular structure. They lack membrane-bound organelles and have a peptidoglycan cell wall. They are found everywhere on Earth."
+      },
+      {
+        "slide_number": 30,
+        "title": "2.1 Bacterial Cell Structure",
+        "key_points": [
+          "Bacteria studied under electron microscope due to minute size",
+          "Structures external to cell wall: Flagella, Pili, Glycocalyx (capsule/slime layer)",
+          "Structures internal to cell wall: Cell membrane, Cytoplasmic matrix",
+          "Cytoplasmic matrix contains: Ribosomes, Inclusions, Nucleoid/Chromosome, Actin cytoskeleton",
+          "Some bacteria form endospores for survival",
+          "Eukaryotic microbes: Have complex membranous organelles, nucleus, cytoskeleton"
+        ],
+        "keywords": [
+          "Flagella",
+          "Pili",
+          "Glycocalyx",
+          "Nucleoid",
+          "Endospores",
+          "Cytoskeleton"
+        ],
+        "notes": "Bacterial cells have external appendages, a cell envelope, and internal structures. Eukaryotic microbes have complex organelles and a cytoskeleton for shape and movement."
+      },
+      {
+        "slide_number": 31,
+        "title": "2.1 Bacterial Shapes",
+        "key_points": [
+          "Bacteria classified based on: Cell shape, Nature of multi-cell aggregates, Motility, Spore formation, Gram stain reaction",
+          "Three main shapes:",
+          "- Cocci (spherical)",
+          "- Bacilli (rod-shaped)",
+          "- Spirochaetes (spiral or corkscrew-shaped)",
+          "- Comma: Vibrio cholerae",
+          "Clustering patterns: Diplococci, Streptococci, Staphylococci, Sarcinae"
+        ],
+        "keywords": [
+          "Cocci",
+          "Bacilli",
+          "Spirochaetes",
+          "Vibrio",
+          "Gram stain"
+        ],
+        "notes": "Bacterial morphology is important for classification. Bacteria can be grouped by their shape and how they cluster together, which helps in identifying species."
+      },
+      {
+        "slide_number": 32,
+        "title": "2.1 Gram Staining",
+        "key_points": [
+          "Gram-positive: Retain purple crystal violet stain",
+          "Thick peptidoglycan layer in cell wall",
+          "Examples: Staphylococcus, Streptococcus, Listeria",
+          "Gram-negative: Lose crystal violet stain, take red counterstain",
+          "Thin peptidoglycan layer and outer membrane",
+          "Gram staining process: Heat fix → Crystal violet → Gram's iodine → Decolorization → Counterstain (Safranin)",
+          "Differential staining distinguishes organisms based on staining properties"
+        ],
+        "keywords": [
+          "Gram-positive",
+          "Gram-negative",
+          "Crystal violet",
+          "Safranin",
+          "Differential staining",
+          "Peptidoglycan"
+        ],
+        "notes": "Gram staining is a fundamental technique for distinguishing bacteria based on cell wall composition. The difference in staining is due to the thickness of the peptidoglycan layer."
+      },
+      {
+        "slide_number": 33,
+        "title": "2.1 Nutritional Types of Bacteria",
+        "key_points": [
+          "Autotrophs: Obtain carbon from inorganic CO2",
+          "Photoautotrophs: Energy from sunlight",
+          "Chemoautotrophs: Energy from inorganic chemicals",
+          "Heterotrophs: Obtain carbon from organic molecules",
+          "Photoheterotrophs: Energy from sunlight",
+          "Chemoheterotrophs: Energy from organic molecules",
+          "Phototrophs: Light as energy source",
+          "Chemotrophs: Energy from oxidation of chemical compounds",
+          "Lithotrophs: Use reduced inorganic substances as electron source",
+          "Organotrophs: Extract electrons from reduced organic compounds"
+        ],
+        "keywords": [
+          "Autotrophs",
+          "Heterotrophs",
+          "Phototrophs",
+          "Chemotrophs",
+          "Lithotrophs",
+          "Organotrophs"
+        ],
+        "notes": "Bacteria have evolved various nutritional strategies to acquire energy and nutrients. Most bacteria studied are either photolithoautotrophic or chemoorganoheterotrophic."
+      },
+      {
+        "slide_number": 34,
+        "title": "2.1 Reproduction in Bacteria",
+        "key_points": [
+          "Asexual reproduction: Binary fission",
+          "Process: Chromosome replicates → DNA molecules separate → Cell divides at midcell",
+          "Results in two genetically identical daughter cells",
+          "Sexual reproduction (Genetic recombination): Conjugation",
+          "Conjugation: Two cells of different mating types come together",
+          "F+ (donor) cells: Have F factor (fertility) DNA sequence",
+          "F- (recipient) cells: Receive DNA through conjugation bridge",
+          "Sex pili: Long hair-like extensions that recognize and bind to F- cells"
+        ],
+        "keywords": [
+          "Binary fission",
+          "Conjugation",
+          "F factor",
+          "Sex pili",
+          "Genetic recombination"
+        ],
+        "notes": "Most bacteria reproduce by binary fission, an asexual process. Genetic variation can occur through conjugation, where DNA is transferred between cells through a sex pilus."
+      },
+      {
+        "slide_number": 35,
+        "title": "2.1 Common Bacterial Diseases",
+        "key_points": [
+          "Pertussis: Bordetella pertussis (Gram-negative rod) - Upper respiratory tract - Airborne",
+          "Meningococcal Meningitis: Neisseria meningitidis (Gram-negative diplococcus) - Meninges - Airborne",
+          "Tuberculosis: Mycobacterium tuberculosis (Acid-fast) - Lungs, bones - Airborne",
+          "Typhoid Fever: Salmonella typhi (Gram-negative rod) - Intestine, blood - Food/water",
+          "Cholera: Vibrio cholerae (Gram-negative rod) - Intestine - Food/water",
+          "Tetanus: Clostridium tetani (Gram-positive spore-forming anaerobic rod) - Nerves - Soil",
+          "Syphilis: Treponema pallidum (Spirochete) - Skin, cardiovascular - Sexual",
+          "Gonorrhea: Neisseria gonorrhoeae (Gram-negative diplococcus) - Urethra, cervix - Sexual",
+          "Leprosy: Mycobacterium leprae (Acid-fast) - Skin, bones, peripheral nerves - Contact"
+        ],
+        "keywords": [
+          "Pathogen",
+          "Infectious disease",
+          "Transmission",
+          "Gram staining",
+          "Acid-fast"
+        ],
+        "notes": "Bacteria cause a wide range of diseases in humans. Understanding the causative agent and mode of transmission is essential for prevention and treatment."
+      },
+      {
+        "slide_number": 36,
+        "title": "2.2 Archaea",
+        "key_points": [
+          "Archaea: Unicellular, microscopic, prokaryotic organisms",
+          "Lack membrane-bound nucleus and organelles",
+          "Cell walls lack true peptidoglycan",
+          "Cell membrane lipids have branched hydrocarbon chains",
+          "Many found in extreme environments",
+          "Three major groups: Methanogens, Extreme Halophiles, Extreme Thermophiles",
+          "Methanogens: Strictly anaerobic, degrade organic molecules to methane",
+          "Extreme Halophiles: Obligate aerobes, grow in highly saline environments",
+          "Extreme Thermophiles (Hyperthermophiles): Found near volcanic vents, optimum temperatures >80°C"
+        ],
+        "keywords": [
+          "Archaea",
+          "Methanogens",
+          "Halophiles",
+          "Thermophiles",
+          "Hyperthermophiles"
+        ],
+        "notes": "Archaea are distinct from bacteria in their evolutionary history, genetics, metabolism, and cell wall/membrane composition. They thrive in extreme environments."
+      },
+      {
+        "slide_number": 37,
+        "title": "2.2 Beneficial Aspects of Archaea",
+        "key_points": [
+          "Source of enzymes for detergents: Maintain activity at higher temperature and pH",
+          "Proteases and lipases: Used as detergent additives to increase stain removal",
+          "Bioremediation potential: Help clean contaminated sites",
+          "Thermus aquaticus: Source of enzyme used in Polymerase Chain Reaction (PCR)",
+          "Physical factors affecting microbial growth:",
+          "- Solutes and water activity, pH, temperature, oxygen level, pressure, radiation"
+        ],
+        "keywords": [
+          "Thermus aquaticus",
+          "PCR",
+          "Bioremediation",
+          "Extremophiles",
+          "Enzymes"
+        ],
+        "notes": "Archaean enzymes have commercial uses in detergents. Thermus aquaticus is essential for PCR, a fundamental molecular biology technique."
+      },
+      {
+        "slide_number": 38,
+        "title": "2.3 Fungi - Introduction",
+        "key_points": [
+          "Fungi: Eukaryotic organisms, spore-bearing, absorptive nutrition, lack chlorophyll",
+          "Reproduce sexually and asexually",
+          "Mycology: Scientific study of fungi",
+          "Mycotoxicology: Study of fungal toxins",
+          "Mycoses: Diseases caused by fungi",
+          "All fungi are eukaryotic",
+          "Most are filamentous (composed of hyphae forming mycelium)",
+          "Some are unicellular (e.g., yeasts)",
+          "Cell wall composed primarily of chitin and glucans",
+          "All are chemoheterotrophic (use pre-existing organic sources)"
+        ],
+        "keywords": [
+          "Fungi",
+          "Mycology",
+          "Hyphae",
+          "Mycelium",
+          "Chitin",
+          "Mycoses"
+        ],
+        "notes": "Fungi are eukaryotic organisms that absorb nutrients from their environment. They play important roles in decomposition and form symbiotic relationships with plants."
+      },
+      {
+        "slide_number": 39,
+        "title": "2.3 Fungal Characteristics and Ecology",
+        "key_points": [
+          "Nutritional categories: Saprophytic, Parasitic, Symbiotic",
+          "Found in cool, dark, moist places with decaying material",
+          "Saprobes: Decompose organic matter",
+          "Mycorrhizal associations: Mutualistic relationships with plant roots",
+          "Lichens: Symbiotic relationship between fungus and photosynthetic organism (alga or cyanobacterium)",
+          "Photosynthetic organism provides energy and carbohydrates",
+          "Fungus supplies minerals and protection"
+        ],
+        "keywords": [
+          "Saprobes",
+          "Mycorrhizae",
+          "Lichens",
+          "Symbiosis",
+          "Decomposition"
+        ],
+        "notes": "Fungi have colonized nearly all environments and form various ecological relationships. They are essential for nutrient cycling and form mutualistic associations with plants and algae."
+      },
+      {
+        "slide_number": 40,
+        "title": "2.3 Classification of Fungi",
+        "key_points": [
+          "Five major groups (current classification):",
+          "Zygomycota: Sporangial fungi (e.g., Rhizopus, Mucor)",
+          "Ascomycota: Ascospore-producing fungi (e.g., Saccharomyces cerevisiae)",
+          "Basidiomycota: Basidia-producing fungi (e.g., Rusts, Smuts)",
+          "Chytridiomycota: Zoospore-producing fungi (e.g., Allomyces, Water molds)",
+          "Glomeromycota: Mycorrhizal fungi",
+          "Ethiopian traditional fermented foods: Enjera, Kocho, Bulla, Tej, Shameta"
+        ],
+        "keywords": [
+          "Zygomycota",
+          "Ascomycota",
+          "Basidiomycota",
+          "Chytridiomycota",
+          "Glomeromycota"
+        ],
+        "notes": "Fungi are classified into five major groups based on their reproductive structures and life cycles. Some fungi are important in Ethiopian traditional fermentation."
+      },
+      {
+        "slide_number": 41,
+        "title": "2.3 Reproduction in Fungi",
+        "key_points": [
+          "Sporulation: Process of spore formation",
+          "Occurs in fruiting bodies (asexual or sexual structures)",
+          "Asexual reproduction:",
+          "- Sporangiospores: Produced in sporangia",
+          "- Conidia: Produced on conidiophores",
+          "- Arthrospores: Formed by fragmentation of hyphae",
+          "- Budding: In yeasts, producing blastospores",
+          "Sexual reproduction:",
+          "- Opposite mating types fuse",
+          "- Heterokaryon: Cell with genetically dissimilar nuclei",
+          "- Nuclei fuse (diploid cell formed)",
+          "- Meiosis returns to haploid state",
+          "- Results in visible fruiting bodies (e.g., mushrooms)"
+        ],
+        "keywords": [
+          "Sporulation",
+          "Sporangiospores",
+          "Conidia",
+          "Arthrospores",
+          "Budding",
+          "Heterokaryon"
+        ],
+        "notes": "Fungi reproduce both asexually and sexually. Asexual reproduction produces genetically identical spores, while sexual reproduction creates genetic variation."
+      },
+      {
+        "slide_number": 42,
+        "title": "2.3 Economic Importance of Fungi - Benefits",
+        "key_points": [
+          "Beneficial aspects:",
+          "Decomposers: Recycle carbon and other elements",
+          "Food: Edible mushrooms (Basidiomycetes)",
+          "Fermentation: Essential for bread, wine, beer, cheese production",
+          "Traditional Ethiopian foods: Enjera, Tela(Farsoo), Tej(Dadhii), Bulla",
+          "Commercial production: Organic acids (citric, gallic), drugs (ergometrine, cortisone)",
+          "Antibiotics: Penicillin, griseofulvin",
+          "Immunosuppressive drug: Cyclosporin",
+          "Research tools: Studying complex eukaryotic events (cancer, aging)"
+        ],
+        "keywords": [
+          "Decomposers",
+          "Fermentation",
+          "Antibiotics",
+          "Traditional fermentation",
+          "Organic acids"
+        ],
+        "notes": "Fungi are economically important as decomposers, food sources, and for producing fermented foods, organic acids, antibiotics, and drugs. They are also valuable research tools."
+      },
+      {
+        "slide_number": 43,
+        "title": "2.3 Economic Importance of Fungi - Harmful Aspects",
+        "key_points": [
+          "Major cause of plant diseases: Over 5,000 species attack crops",
+          "Deterioration of manufactured goods: Fabrics, leather, electrical insulation",
+          "Spoilage of agricultural produce: Vegetables, fruits, cereals",
+          "Mycotoxicoses: Ingestion of fungal toxins",
+          "- Aflatoxins: Produced by Aspergillus flavus and A. parasiticus",
+          " Carcinogenic, especially in liver",
+          " Contaminate peanuts, grains, cereals, corn, rice",
+          "- Ergotism: Caused by Claviceps purpurea (ascomycete fungus)",
+          " Produces sclerotium containing alkaloids (ergot)",
+          " Mycetismus: Mushroom poisoning",
+          "Superficial fungal infections: Dermatomycoses/Tineas (ringworm, athlete's foot)"
+        ],
+        "keywords": [
+          "Aflatoxins",
+          "Ergotism",
+          "Mycotoxicoses",
+          "Dermatomycoses",
+          "Tinea"
+        ],
+        "notes": "Fungi cause significant economic losses through plant diseases, spoilage of goods, and mycotoxin contamination. They also cause various superficial infections in humans."
+      },
+      {
+        "slide_number": 44,
+        "title": "2.3 Superficial Fungal Infections",
+        "key_points": [
+          "Superficial mycoses: Infections of hair, fingernails, toenails, and outermost skin layers",
+          "Caused by Trichophyton, Epidermophyton, and Microsporum",
+          "Referred to as tineas or 'ringworm'",
+          "Types: Tinea corporis (ringworm), Tinea pedis (athlete's foot), Tinea capitis (scalp), Tinea barbae (beard), Tinea unguium (nails)",
+          "Transmission: Direct human contact, animal-human contact, or indirectly on inanimate objects",
+          "Prevention: Regular disinfection of showers and wardrobes"
+        ],
+        "keywords": [
+          "Dermatophytes",
+          "Tinea",
+          "Ringworm",
+          "Athlete's foot",
+          "Transmission"
+        ],
+        "notes": "Superficial fungal infections are common and transmitted through contact. Prevention involves good hygiene and avoiding sharing personal items."
+      },
+      {
+        "slide_number": 45,
+        "title": "2.4 Protozoa",
+        "key_points": [
+          "Protozoa: Unicellular, eukaryotic, chemoorganotrophic protists",
+          "Characteristics:",
+          "- Unicellular, eukaryotic, aerobic",
+          "- Lack cell wall",
+          "- May be free-living or parasitic",
+          "- Locomotion: Pseudopodia, flagella, cilia, direct cell movements",
+          "- Nutrition: Autotrophic, heterotrophic, or saprozoic",
+          "- Reproduction: Asexual (fission, budding, cysts) and sexual (conjugation or syngamy)",
+          "Classification: Amebae, Flagellates, Ciliates, Sporozoa"
+        ],
+        "keywords": [
+          "Protozoa",
+          "Pseudopodia",
+          "Flagella",
+          "Cilia",
+          "Cyst"
+        ],
+        "notes": "Protozoa are unicellular eukaryotes that can be free-living or parasitic. They reproduce both asexually and sexually and are classified based on their means of locomotion."
+      },
+      {
+        "slide_number": 46,
+        "title": "2.4 Classification of Protozoa",
+        "key_points": [
+          "Ciliates: Move via cilia, reproduce by transverse fission and conjugation, have micronuclei and macronuclei",
+          "Examples: Balantidium coli, Paramecium, Stentor, Tetrahymena, Vorticella",
+          "Amebae: Move via pseudopodia, reproduce by binary fission",
+          "Examples: Amoeba, Naegleria, Entamoeba histolytica",
+          "Flagellates: Move via flagella, reproduce by binary fission",
+          "Examples: Chlamydomonas, Giardia lamblia, Trichomonas, Trypanosoma",
+          "Sporozoa: Generally non-motile, reproduce by multiple fission",
+          "Examples: Plasmodium, Toxoplasma gondii, Cryptosporidium"
+        ],
+        "keywords": [
+          "Ciliates",
+          "Amebae",
+          "Flagellates",
+          "Sporozoa",
+          "Micronuclei",
+          "Macronuclei"
+        ],
+        "notes": "Protozoa are classified into four groups based on their means of movement and reproductive methods. Ciliates have both micronuclei and macronuclei."
+      },
+      {
+        "slide_number": 47,
+        "title": "2.4 Reproduction in Protozoa",
+        "key_points": [
+          "Asexual reproduction:",
+          "- Fission: Cell divides evenly to form two new cells",
+          "- Budding: Cell divides unevenly",
+          "- Multiple fission (schizogony): Nucleus divides multiple times before cell divides",
+          "Sexual reproduction (Ciliates):",
+          "- Conjugation: Two individuals exchange haploid micronuclei",
+          "- Genetic variation results without reproduction",
+          "Binary fission: Asexual reproduction during which macronucleus disintegrates and new one forms",
+          "Macronucleus controls everyday cell functions"
+        ],
+        "keywords": [
+          "Binary fission",
+          "Schizogony",
+          "Conjugation",
+          "Micronuclei",
+          "Macronucleus"
+        ],
+        "notes": "Protozoa reproduce asexually through fission, budding, or multiple fission. Sexual reproduction occurs through conjugation, especially in ciliates, where genetic material is exchanged."
+      },
+      {
+        "slide_number": 48,
+        "title": "2.4 Common Diseases Caused by Protozoa",
+        "key_points": [
+          "Amoebiasis: Entamoeba histolytica (Intestine, liver) - Ingestion of contaminated food/water",
+          "Giardiasis: Giardia lamblia (Intestine) - Ingestion of contaminated water",
+          "Trichomoniasis: Trichomonas vaginalis (Urogenital organs) - Sexual contact",
+          "African sickness (Sleeping sickness): Trypanosoma brucei (Blood, brain) - Tsetse fly vector",
+          "Leishmaniasis (Kala-azar): Leishmania donovani (White blood cells, skin, intestine) - Sand fly vector",
+          "Malaria: Plasmodium spp. (Liver, red blood cells) - Anopheles mosquito vector",
+          "Toxoplasmosis: Toxoplasma gondii (Blood, eye) - Domestic cats, food"
+        ],
+        "keywords": [
+          "Malaria",
+          "Trypanosomiasis",
+          "Amoebiasis",
+          "Leishmaniasis",
+          "Toxoplasmosis"
+        ],
+        "notes": "Protozoa cause some of the most important human diseases, many of which are transmitted by insect vectors. Malaria is one of the most serious protozoan diseases worldwide."
+      },
+      {
+        "slide_number": 49,
+        "title": "2.5 Viruses - Introduction",
+        "key_points": [
+          "Virus: Very small, non-cellular parasite of cells",
+          "Genome: Composed of either DNA or RNA, enclosed in protein coat",
+          "No cellular organelles, cannot carry out metabolic processes",
+          "Must enter other cells to reproduce",
+          "Obligate intracellular parasites",
+          "Most can only be seen with electron microscope",
+          "Lack chemical machinery for generating energy and synthesizing large molecules",
+          "Must find appropriate host cell to replicate"
+        ],
+        "keywords": [
+          "Virus",
+          "Genome",
+          "Capsid",
+          "Obligate intracellular parasite",
+          "Virion"
+        ],
+        "notes": "Viruses are acellular infectious agents that require a host cell to replicate. They are composed of nucleic acid and a protein coat, and cannot carry out metabolic processes independently."
+      },
+      {
+        "slide_number": 50,
+        "title": "2.5 Characteristics and Structure of Viruses",
+        "key_points": [
+          "Characteristics:",
+          "- Inner core of nucleic acid surrounded by protein coat",
+          "- Cannot be grown on artificial cell-free media",
+          "- No cellular organization (no cell wall, membrane, or organelles)",
+          "- Obligate intracellular parasites",
+          "- Unaffected by antibacterial antibiotics",
+          "- Inert (nucleoprotein) filterable agents",
+          "- Occupies space between living and non-living",
+          "Structure:",
+          "- Core: Nucleic acid (DNA or RNA) - Genome",
+          "- Capsid: Protein coat surrounding core",
+          "- Nucleocapsid: Combined core and capsid",
+          "- Envelope: Glycoprotein and phospholipid bilayer (in some viruses)"
+        ],
+        "keywords": [
+          "Genome",
+          "Capsid",
+          "Nucleocapsid",
+          "Envelope",
+          "Obligate parasite"
+        ],
+        "notes": "Viruses have a simple structure of nucleic acid core and protein coat. Some viruses have an outer envelope. They lack the machinery for protein synthesis and must hijack host cells."
+      },
+      {
+        "slide_number": 51,
+        "title": "2.5 Viral Symmetry and Classification",
+        "key_points": [
+          "Viral Symmetry:",
+          "Helical: Protein subunits assemble in helix around genome (Tobacco Mosaic Virus, Sendai virus)",
+          "Icosahedral: 20-sided polyhedral structure (Papovavirus, Picornavirus, Adenovirus, Toga virus)",
+          "Complex: Complicated structures (Pox virus, Bacteriophages)",
+          "Classification:",
+          "Based on type of nucleic acid (DNA virus or RNA virus)",
+          "DNA viruses: Mostly double-stranded, replicate in nucleus",
+          "RNA viruses: Mostly single-stranded, replicate in cytoplasm",
+          "Retrovirus: RNA virus with reverse transcriptase (HIV)",
+          "Bacteriophage: Virus that infects bacteria"
+        ],
+        "keywords": [
+          "Helical",
+          "Icosahedral",
+          "Complex",
+          "DNA virus",
+          "RNA virus",
+          "Retrovirus",
+          "Bacteriophage"
+        ],
+        "notes": "Viruses have three main shapes: helical, icosahedral, and complex. They are classified based on their nucleic acid type and replication strategy."
+      },
+      {
+        "slide_number": 52,
+        "title": "2.5 Viral Replication - Lytic Cycle",
+        "key_points": [
+          "Five steps in replication: Adsorption, Penetration, Synthesis, Maturation, Release",
+          "Lytic Cycle (Virulent phages):",
+          "1. Adsorption: Attachment of virus to host cell",
+          "2. Penetration: Entry of viral genome into host cell",
+          "3. Synthesis: Viral components produced using host machinery",
+          "4. Maturation: Assembly of new virions",
+          "5. Release: Lysis of host cell, releasing new phages",
+          "Enzyme lysozyme breaks down cell wall, allowing viruses to escape",
+          "T4 phages: Example of virulent (lytic) phages"
+        ],
+        "keywords": [
+          "Adsorption",
+          "Penetration",
+          "Synthesis",
+          "Maturation",
+          "Release",
+          "Lysis"
+        ],
+        "notes": "The lytic cycle results in the destruction of the host cell and release of new phage particles. This is characteristic of virulent phages that infect bacteria."
+      },
+      {
+        "slide_number": 53,
+        "title": "2.5 Viral Replication - Lysogenic Cycle",
+        "key_points": [
+          "Lysogenic Cycle (Temperate phages):",
+          "Viral DNA integrates into host genome (prophage)",
+          "Prophage replicates along with host DNA",
+          "Host cell divides normally without lysis",
+          "Under certain conditions, prophage may enter lytic cycle (induction)",
+          "Lysogenic bacterium: Carries prophage within its genome",
+          "Lysogenic vs Lytic:",
+          "- Lytic: DNA doesn't integrate, host DNA hydrolyzed, no prophage stage, fast",
+          "- Lysogenic: DNA integrates, host DNA not hydrolyzed, prophage stage, slow"
+        ],
+        "keywords": [
+          "Prophage",
+          "Temperate phage",
+          "Lysogeny",
+          "Induction",
+          "Lysogenic bacterium"
+        ],
+        "notes": "Temperate phages integrate into the host chromosome as a prophage and replicate with it. Under certain conditions, they may enter the lytic cycle and cause cell lysis."
+      },
+      {
+        "slide_number": 54,
+        "title": "2.5 Common Viral Diseases",
+        "key_points": [
+          "Mumps: Mumps virus - Swollen salivary glands - Droplet contact - Vaccine",
+          "Measles (Rubeola): Measles virus - Cough, fever, rash - Droplet contact - Vaccine",
+          "Rabies: Rabies virus - Fever, paralysis, hydrophobia - Bite from rabid animals - Avoid rabid animals",
+          "Polio: Polio virus - Often no symptoms - Fecal-oral route - Polio vaccine",
+          "Common cold (Rhinitis): Rhinoviruses, Adenoviruses - Sneezing, sore throat - Respiratory droplets - Good hygiene",
+          "Chickenpox (Varicella): Varicella-zoster virus - Fever, itchy rash - Droplet contact - Chickenpox vaccine"
+        ],
+        "keywords": [
+          "Viral diseases",
+          "Mumps",
+          "Measles",
+          "Rabies",
+          "Polio",
+          "Chickenpox"
+        ],
+        "notes": "Viruses cause many common and serious diseases in humans. Vaccination and good hygiene are important prevention methods."
+      },
+      {
+        "slide_number": 55,
+        "title": "2.6 Normal Microbiota",
+        "key_points": [
+          "Normal microbiota: Population of microorganisms routinely found on healthy individuals",
+          "Resident microbiota: Microbes that inhabit body sites for extended periods",
+          "Transient microbiota: Temporary occupants",
+          "Protective roles:",
+          "1. Cover binding sites that pathogens might use",
+          "2. Consume available nutrients",
+          "3. Produce compounds toxic to other bacteria",
+          "4. Stimulate adaptive immune system",
+          "Disruption (e.g., by antibiotics) can allow pathogens to cause disease",
+          "Example: Oral antibiotics can cause overgrowth of Clostridium difficile (antibiotic-associated diarrhea)"
+        ],
+        "keywords": [
+          "Normal microbiota",
+          "Resident microbiota",
+          "Transient microbiota",
+          "Immune system",
+          "Clostridium difficile"
+        ],
+        "notes": "The normal microbiota protects against pathogens and stimulates the immune system. Understanding its role helps explain infections when it is disrupted by factors like antibiotics."
+      },
+      {
+        "slide_number": 56,
+        "title": "2.6 Koch's Postulates",
+        "key_points": [
+          "Germ Theory of Disease: Diseases caused by microorganisms",
+          "Koch's Postulates: Rigorous criteria to link specific microorganism to specific disease",
+          "1. Disease-causing organism must always be present in diseased animals, not in healthy ones",
+          "2. Organism must be cultivated in pure culture away from animal body",
+          "3. Isolated organism must cause disease when inoculated into healthy susceptible animals",
+          "4. Organism must be isolated from newly infected animals and cultured again, same as original"
+        ],
+        "keywords": [
+          "Koch's postulates",
+          "Germ theory",
+          "Pure culture",
+          "Pathogen",
+          "Disease causation"
+        ],
+        "notes": "Koch's postulates provide a framework for proving that a specific microorganism causes a specific disease. They have been fundamental in medical microbiology."
+      },
+      {
+        "slide_number": 57,
+        "title": "2.7 Modes of Disease Transmission",
+        "key_points": [
+          "Four main routes in healthcare settings: Contact, Droplet, Airborne, Common vehicle",
+          "Droplet infection: Respiratory diseases (Common cold, 'flu, pneumonia)",
+          "Drinking contaminated water: Cholera, typhoid fever",
+          "Eating contaminated food: Salmonellosis, typhoid fever, listeriosis, botulism",
+          "Direct Contact: Athlete's foot, ringworm",
+          "Sexual intercourse: Candidiasis, syphilis, AIDS, gonorrhoea",
+          "Blood-to-blood contact: AIDS, hepatitis B",
+          "Animal vectors: Malaria (mosquitoes), sleeping sickness (tsetse flies)"
+        ],
+        "keywords": [
+          "Transmission",
+          "Droplet",
+          "Vector-borne",
+          "Contact",
+          "Foodborne"
+        ],
+        "notes": "Understanding disease transmission routes is essential for prevention and control of infectious diseases in healthcare and community settings."
+      },
+      {
+        "slide_number": 58,
+        "title": "2.8 Uses of Microorganisms",
+        "key_points": [
+          "Agriculture: Organic matter decomposition, humus formation, nitrogen fixation",
+          "Nitrogen fixation: Only bacteria can convert atmospheric nitrogen to usable form",
+          "Sewage treatment: Anaerobic bacteria reduce sludge volume, produce methane gas",
+          "Bioremediation: Microorganisms degrade environmental contaminants",
+          "Food production: Lactic acid bacteria produce yogurt, pickles, cheeses, sausages",
+          "Medicine: Production of human insulin using recombinant DNA technology",
+          "Health: E. coli aids digestion and synthesizes vitamins (biotin, vitamin K, folic acid)"
+        ],
+        "keywords": [
+          "Nitrogen fixation",
+          "Bioremediation",
+          "Lactic acid bacteria",
+          "Human insulin",
+          "Recombinant DNA"
+        ],
+        "notes": "Microorganisms have diverse applications in agriculture, waste treatment, medicine, and food production. They are essential for nutrient cycling and human health."
+      },
+      {
+        "slide_number": 59,
+        "title": "2.8 The Carbon, Nitrogen, and Phosphorus Cycles",
+        "key_points": [
+          "Carbon cycle:",
+          "- Carbon fixation by primary producers (photosynthesis)",
+          "- Respiration and fermentation release CO2",
+          "- Methanogenesis: CO2 reduced to methane by archaea",
+          "- Methane oxidation: Methane oxidized to CO2",
+          "Nitrogen cycle:",
+          "- Nitrogen fixation: Rhizobia form symbiosis with legumes in root nodules",
+          "Phosphorus cycle:",
+          "- Organic P in soils (microbial origin)",
+          "- Inorganic P (orthophosphates) mostly as aluminum, iron, or calcium compounds"
+        ],
+        "keywords": [
+          "Carbon cycle",
+          "Nitrogen fixation",
+          "Rhizobia",
+          "Methanogenesis",
+          "Phosphorus cycle"
+        ],
+        "notes": "Microorganisms are essential for biogeochemical cycles. They convert elements into forms usable by plants and animals and are responsible for decomposition and nutrient recycling."
+      },
+      {
+        "slide_number": 60,
+        "title": "2.9 Controlling Microorganisms",
+        "key_points": [
+          "Sterilization: Freed of all living microorganisms (vegetative and spore state)",
+          "Germicide (Microbicide): Any chemical agent that kills pathogenic microorganisms",
+          "Disinfection: Destroys or removes pathogenic organisms (not endospores) from inanimate objects",
+          "Antisepsis: Application of chemical agents to living tissue to destroy or inhibit vegetative pathogens",
+          "Sanitization: Mechanical removal of microorganisms (reduces contaminants)",
+          "Preservation: Prevents microbial spoilage of susceptible products",
+          "Decontamination: Removal or reduction of microorganisms contaminating an object"
+        ],
+        "keywords": [
+          "Sterilization",
+          "Disinfection",
+          "Antisepsis",
+          "Sanitization",
+          "Preservation"
+        ],
+        "notes": "Various terms describe different levels of microbial control. Sterilization is the most absolute, while sanitization reduces contaminants to safe levels."
+      },
+      {
+        "slide_number": 61,
+        "title": "2.9 Physical Methods of Sterilization",
+        "key_points": [
+          "Pasteurization: Antimicrobial treatment for liquids",
+          "- Low-temperature: 61.5°C, 30 minutes; 71°C, 15 seconds",
+          "- High-temperature: Brief exposure to 80-85°C",
+          "- Uperization: 150°C for 2.5 seconds",
+          "Dry heat sterilization:",
+          "- Flaming: Holding in flame until red hot",
+          "- Incineration: Burning to ashes (for infectious waste)",
+          "- Hot air oven: 160-180°C for 2 hours",
+          "Moist heat sterilization (Autoclaving):",
+          "- 121°C, 15 minutes, one atmosphere pressure",
+          "- 134°C, 3 minutes, two atmospheres pressure",
+          "Intermittent sterilization (Tyndallization):",
+          "- 100°C for 20 minutes on three consecutive days"
+        ],
+        "keywords": [
+          "Pasteurization",
+          "Autoclaving",
+          "Dry heat",
+          "Tyndallization",
+          "Incineration"
+        ],
+        "notes": "Heat is a simple and effective method for sterilization and disinfection. Different methods are used depending on the material and required level of sterilization."
+      },
+      {
+        "slide_number": 62,
+        "title": "2.10 Bacterial Isolation Techniques",
+        "key_points": [
+          "Microorganisms isolated from food, soil, water, or other materials",
+          "Process:",
+          "1. Sample collection from desired sites",
+          "2. Serial dilution: Separating microorganisms on artificial media",
+          "3. Purification: Each isolate purified on new media",
+          "4. Characterization: Morphological characteristics (shape, gram nature, arrangement, motility)",
+          "5. Biochemical characterization: Testing enzymatic activities",
+          "6. Molecular techniques: Further identification"
+        ],
+        "keywords": [
+          "Isolation",
+          "Serial dilution",
+          "Pure culture",
+          "Morphological characterization",
+          "Biochemical characterization"
+        ],
+        "notes": "Isolating microorganisms involves collecting samples, diluting them, and growing them on artificial media. Characterization includes morphological and biochemical tests, with molecular techniques for final identification."
+      },
+      {
+        "slide_number": 63,
+        "title": "2.11 Renowned Microbiologists in Ethiopia",
+        "key_points": [
+          "Activity: Search for and study the works of renowned microbiologists/parasitologists in Ethiopia",
+          "Evaluate the contribution of their research to the world of science"
+        ],
+        "keywords": [
+          "Ethiopian microbiologists",
+          "Research contributions",
+          "Parasitology"
+        ],
+        "notes": "This section encourages students to research and appreciate the contributions of Ethiopian scientists in the field of microbiology and parasitology."
+      },
+      {
+        "slide_number": 64,
+        "title": "Chapter 2 Summary",
+        "key_points": [
+          "Microorganisms found in all three domains: Archaea, Bacteria, and Eukarya",
+          "Archaea and Bacteria are prokaryotes (lack cellular nucleus)",
+          "Archaea differ from bacteria in evolutionary history, genetics, metabolism, and cell wall/membrane composition",
+          "Eukaryotes studied in microbiology: Algae, Protozoa, Fungi, Helminths",
+          "Algae: Plant-like, unicellular or multicellular, derive energy via photosynthesis",
+          "Protozoa: Unicellular, complex cell structures, most are motile",
+          "Microscopic fungi: Molds and yeasts",
+          "Helminths: Multicellular parasitic worms (eggs and larvae are often microscopic)",
+          "Viruses: Acellular, require a host to reproduce"
+        ],
+        "keywords": [
+          "Archaea",
+          "Bacteria",
+          "Eukarya",
+          "Protozoa",
+          "Fungi",
+          "Viruses"
+        ],
+        "notes": "Chapter 2 provides a comprehensive overview of microorganisms, their characteristics, classification, reproduction, and importance. It covers bacteria, archaea, fungi, protozoa, viruses, and normal microbiota."
+      }
+    ]
+  }
+]
+[
+  {
+    "chapter": "Chapter 3: Energy Transformation",
+    "slides": [
+      {
+        "slide_number": 65,
+        "title": "Unit 3 Overview - Energy Transformation",
+        "key_points": [
+          "Living cells require energy for macromolecule assembly, transport, and genetic transmission",
+          "Metabolism: Enzyme-mediated chemical reactions in living matter",
+          "Energy transformations occur through catabolic and anabolic reactions",
+          "Photosynthesis: Converts light energy to chemical energy stored in sugars",
+          "Cellular respiration: Harvests energy from glucose to produce ATP",
+          "ATP (Adenosine Triphosphate) is the energy currency of cells"
+        ],
+        "keywords": [
+          "Metabolism",
+          "Photosynthesis",
+          "Cellular respiration",
+          "ATP",
+          "Energy transformation"
+        ],
+        "notes": "This unit explores how cells extract energy from their environment and use it to carry out life activities. Energy transformations are essential for movement, growth, development, and reproduction."
+      },
+      {
+        "slide_number": 66,
+        "title": "3.1 Cellular Metabolism",
+        "key_points": [
+          "Metabolism: Sum of all chemical reactions within each cell of an organism",
+          "Catabolism: Breakdown of complex molecules to release energy",
+          "- Exergonic (energy-releasing) reaction",
+          "- Occurs during cellular respiration",
+          "Anabolism: Synthesis of complex molecules from simpler ones",
+          "- Endergonic (energy-absorbing) reaction",
+          "- Occurs during photosynthesis",
+          "Catabolic pathways provide energy needed for anabolic pathways",
+          "Cells produce energy for vital processes and synthesize new organic materials"
+        ],
+        "keywords": [
+          "Metabolism",
+          "Catabolism",
+          "Anabolism",
+          "Exergonic",
+          "Endergonic"
+        ],
+        "notes": "Cellular metabolism consists of catabolic reactions that break down nutrients to release energy and anabolic reactions that use energy to build larger molecules. These processes are interconnected and essential for life."
+      },
+      {
+        "slide_number": 67,
+        "title": "3.2 Introduction to Photosynthesis",
+        "key_points": [
+          "Photosynthesis: Series of chemical reactions using light energy to assemble CO2 into glucose and other carbohydrates",
+          "Chemical equation: 6 CO2 + 12 H2O --(light, chlorophyll)--> C6H12O6 + 6 O2 + 6 H2O",
+          "Provides food for plants and energy, raw materials, and oxygen for heterotrophs",
+          "Primary source of atmospheric oxygen",
+          "Contributes to the carbon cycle and symbiotic relationships",
+          "Photoautotrophs: Plants, multicellular algae, some protists, Cyanobacteria, Purple sulfur bacteria"
+        ],
+        "keywords": [
+          "Photosynthesis",
+          "Photoautotrophs",
+          "Chlorophyll",
+          "Carbon dioxide",
+          "Oxygen"
+        ],
+        "notes": "Photosynthesis is the fundamental process by which solar energy is converted to chemical energy. It is the primary source of food and oxygen for most life on Earth."
+      },
+      {
+        "slide_number": 68,
+        "title": "3.2 External and Internal Structure of Leaf",
+        "key_points": [
+          "Leaf has three main parts: Leaf base, leaf lamina, and petiole",
+          "Epidermis: Continuous layer on outside, one cell thick, provides protection",
+          "Cuticle: Waxy coating that helps retain water and protect from drying out",
+          "Stomata: Pores allowing entry of CO2 for photosynthesis",
+          "Mesophyll: Specialised parenchyma cells between lower and upper epidermis",
+          "- Palisade mesophyll: Near upper surface, more chloroplasts",
+          "- Spongy mesophyll: Many large air spaces between cells"
+        ],
+        "keywords": [
+          "Epidermis",
+          "Cuticle",
+          "Stomata",
+          "Mesophyll",
+          "Palisade",
+          "Spongy"
+        ],
+        "notes": "Leaves are specialized organs for photosynthesis. Their flat shape maximizes surface area for light absorption, and internal structures optimize gas exchange and light capture."
+      },
+      {
+        "slide_number": 69,
+        "title": "3.2 Structure of Chloroplast",
+        "key_points": [
+          "Chloroplasts: Highest density in mesophyll cells of leaves",
+          "Double membrane: Outer and inner membrane",
+          "Stroma: Fluid-filled matrix where light-independent reactions (Calvin cycle) occur",
+          "Thylakoids: Disk-shaped compartments, contain photosynthetic pigments",
+          "Grana: Stacks of up to 100 thylakoids",
+          "Thylakoid lumen: Interior of thylakoid, site of light-dependent reactions",
+          "Intergranal lamellae: Tubular extensions joining thylakoids in adjacent grana"
+        ],
+        "keywords": [
+          "Chloroplast",
+          "Stroma",
+          "Thylakoids",
+          "Grana",
+          "Thylakoid lumen"
+        ],
+        "notes": "Chloroplasts are the organelles where photosynthesis occurs. They have internal membranes (thylakoids) that contain chlorophyll for light absorption and a fluid matrix (stroma) for carbon fixation."
+      },
+      {
+        "slide_number": 70,
+        "title": "3.2 Photosynthetic Pigments",
+        "key_points": [
+          "Pigments: Chemical compounds that absorb certain wavelengths of visible light",
+          "Chlorophylls: Greenish pigments containing porphyrin ring",
+          "- Chlorophyll a: Found in all plants, algae, cyanobacteria",
+          "- Chlorophyll b: Found in green algae and plants",
+          "- Chlorophyll c: Found in Chromista and dinoflagellates",
+          "Carotenoids: Red, orange, or yellow pigments (accessory pigments)",
+          "- Carotene: Gives carrots their color",
+          "- Fucoxanthin: Brown pigment in brown algae and diatoms",
+          "Phycobilins: Water-soluble pigments in Cyanobacteria and Rhodophyta"
+        ],
+        "keywords": [
+          "Pigments",
+          "Chlorophyll a",
+          "Chlorophyll b",
+          "Carotenoids",
+          "Phycobilins"
+        ],
+        "notes": "Photosynthetic pigments absorb light energy of specific wavelengths. Different pigments absorb different parts of the spectrum, allowing plants to capture more solar energy."
+      },
+      {
+        "slide_number": 71,
+        "title": "3.2 Absorption Spectrum",
+        "key_points": [
+          "Absorption spectrum: Graph showing absorption at different wavelengths",
+          "Chlorophyll a: Absorbs violet-blue and reddish orange-red wavelengths",
+          "Chlorophyll b: Absorbs mostly blue and yellow light",
+          "Neither absorbs green light (reflected, so leaves appear green)",
+          "Carotenoids: Absorb in blue-green region of the spectrum",
+          "Transfer absorbed energy to (bacterio)chlorophylls",
+          "Only absorbed light (largely blue and red) is useful in photosynthesis"
+        ],
+        "keywords": [
+          "Absorption spectrum",
+          "Wavelength",
+          "Chlorophyll a",
+          "Chlorophyll b",
+          "Carotenoids"
+        ],
+        "notes": "The absorption spectrum shows which wavelengths of light are absorbed by different pigments. Chlorophyll a and b absorb blue and red light, while green light is reflected."
+      },
+      {
+        "slide_number": 72,
+        "title": "3.2 Light-Dependent Reactions - Non-cyclic Photophosphorylation",
+        "key_points": [
+          "Occur in thylakoid membranes (grana)",
+          "Use photosystem II (P680) and photosystem I (P700)",
+          "Electrons from water used to reduce NADP+ to NADPH",
+          "ATP generated via chemiosmosis",
+          "Oxygen released as by-product (photolysis of water)",
+          "Products: O2, NADPH, ATP",
+          "Photolysis: 2H2O → O2 + 4H+ + 4e-",
+          "Electrons pass through electron transport chain (plastoquinone, cytochromes, plastocyanin)"
+        ],
+        "keywords": [
+          "Non-cyclic photophosphorylation",
+          "Photosystem II",
+          "Photosystem I",
+          "NADPH",
+          "Photolysis"
+        ],
+        "notes": "Non-cyclic photophosphorylation involves both photosystems and produces ATP, NADPH, and O2. It is the primary pathway for generating energy carriers for the Calvin cycle."
+      },
+      {
+        "slide_number": 73,
+        "title": "3.2 Light-Dependent Reactions - Cyclic Photophosphorylation",
+        "key_points": [
+          "Uses only Photosystem I (P700)",
+          "Electrons are cycled back to the photosystem",
+          "Only ATP produced; no NADPH or O2 generated",
+          "Provides additional ATP needed for the Calvin cycle",
+          "Comparison:",
+          "- Non-cyclic: First electron donor = Water, Last electron acceptor = NADP, Products = ATP + NADPH + O2",
+          "- Cyclic: First electron donor = Photosystem I (P700), Last electron acceptor = Photosystem I, Products = ATP only"
+        ],
+        "keywords": [
+          "Cyclic photophosphorylation",
+          "Photosystem I",
+          "ATP",
+          "Electron cycle"
+        ],
+        "notes": "Cyclic photophosphorylation produces only ATP. It occurs when the cell needs extra ATP to drive the Calvin cycle, without producing NADPH."
+      },
+      {
+        "slide_number": 74,
+        "title": "3.2 Calvin Cycle (Light-Independent Reactions)",
+        "key_points": [
+          "Occurs in stroma of chloroplast",
+          "Uses ATP and NADPH from light-dependent reactions",
+          "Three stages: Fixation, Reduction, Regeneration",
+          "Fixation: CO2 combines with RuBP (5-carbon) → 3-PGA (3-carbon)",
+          "- Catalyzed by Rubisco",
+          "Reduction: ATP and NADPH convert 3-PGA to G3P",
+          "Regeneration: Some G3P forms glucose, others recycled to RuBP",
+          "Requires 12 NADPH2 and 18 ATPs to fix 6CO2 into one hexose sugar"
+        ],
+        "keywords": [
+          "Calvin cycle",
+          "Rubisco",
+          "RuBP",
+          "3-PGA",
+          "G3P",
+          "Carbon fixation"
+        ],
+        "notes": "The Calvin cycle fixes CO2 into carbohydrates using energy from ATP and NADPH. It consists of three stages: fixation, reduction, and regeneration of the CO2 acceptor."
+      },
+      {
+        "slide_number": 75,
+        "title": "3.2 C3, C4, and CAM Plants",
+        "key_points": [
+          "C3 Plants: First product is 3-carbon compound (PGA)",
+          "- Examples: Wheat, rye, oats, orchard grass",
+          "- ~95% of plants on Earth",
+          "C4 Plants: First product is 4-carbon compound (oxaloacetic acid)",
+          "- Examples: Maize, sugarcane, sorghum",
+          "- Fix CO2 using PEP carboxylase in mesophyll cells",
+          "- Reduce photorespiration by spatial separation",
+          "CAM Plants: Stomata open at night, close during day",
+          "- Examples: Cacti, succulents",
+          "- Reduce water loss by temporal separation"
+        ],
+        "keywords": [
+          "C3 plants",
+          "C4 plants",
+          "CAM plants",
+          "Photorespiration",
+          "PEP carboxylase"
+        ],
+        "notes": "Plants have evolved different carbon fixation pathways to adapt to different environments. C4 and CAM plants minimize photorespiration and water loss."
+      },
+      {
+        "slide_number": 76,
+        "title": "3.2 Photorespiration",
+        "key_points": [
+          "Photorespiration: Oxidation of organic compounds by oxygen in presence of light",
+          "RuBisco combines with O2 instead of CO2",
+          "Releases CO2 but does not produce ATP",
+          "Considered wasteful process",
+          "Occurs in C3 plants (common), reduced in C4 plants, absent in CAM plants",
+          "Substrate: Glycolate",
+          "Also called photosynthetic C-oxidation cycle or glycolate pathway",
+          "CO2 compensation point: CO2 concentration where uptake equals release"
+        ],
+        "keywords": [
+          "Photorespiration",
+          "RuBisco",
+          "CO2 compensation point",
+          "Glycolate pathway"
+        ],
+        "notes": "Photorespiration is a wasteful process where RuBisco uses O2 instead of CO2. C4 and CAM plants have evolved mechanisms to minimize this process."
+      },
+      {
+        "slide_number": 77,
+        "title": "3.3 Contributions of Photosynthesis",
+        "key_points": [
+          "Primary source of oxygen in the atmosphere",
+          "All food comes directly or indirectly from photosynthesis",
+          "Fossil fuels represent remains of organisms that relied on photosynthesis",
+          "Carbon, oxygen, and hydrogen atoms are recycled through photosynthesis",
+          "Removes CO2 from atmosphere (inhibits global warming)",
+          "Provides energy for life through food chains",
+          "Oxygen produced is used for aerobic respiration and ozone formation"
+        ],
+        "keywords": [
+          "Oxygen production",
+          "Carbon cycle",
+          "Food source",
+          "Fossil fuels",
+          "Global warming"
+        ],
+        "notes": "Photosynthesis is essential for life on Earth. It produces oxygen, is the basis of food chains, and helps regulate atmospheric CO2 levels."
+      },
+      {
+        "slide_number": 78,
+        "title": "3.4 Introduction to Cellular Respiration",
+        "key_points": [
+          "Cellular respiration: Process by which cells produce energy (ATP) from glucose",
+          "ATP (Adenosine Triphosphate): Energy currency of the cell",
+          "ATP structure: Adenine + Ribose + 3 phosphate groups",
+          "Hydrolysis of ATP releases energy: ATP → ADP + Pi + energy",
+          "Coupled reactions: Energy from exothermic reactions drives endothermic reactions",
+          "Example: ATP hydrolysis + muscle contraction",
+          "ATP can be recycled: AMP ↔ ADP ↔ ATP"
+        ],
+        "keywords": [
+          "ATP",
+          "Cellular respiration",
+          "Coupled reactions",
+          "Hydrolysis",
+          "Phosphorylation"
+        ],
+        "notes": "Cellular respiration releases energy from glucose and stores it in ATP molecules. ATP is the universal energy currency that powers cellular processes."
+      },
+      {
+        "slide_number": 79,
+        "title": "3.4 Stages of Aerobic Respiration",
+        "key_points": [
+          "Four stages: Glycolysis, Pyruvate Oxidation, Krebs Cycle, Oxidative Phosphorylation",
+          "Glycolysis: Cytoplasm, no oxygen required",
+          "Pyruvate oxidation: Mitochondrial matrix",
+          "Krebs cycle: Mitochondrial matrix",
+          "Oxidative phosphorylation: Inner mitochondrial membrane",
+          "Summary equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP",
+          "Prokaryotes: All stages in cytoplasm",
+          "Eukaryotes: Glycolysis in cytoplasm, rest in mitochondria"
+        ],
+        "keywords": [
+          "Glycolysis",
+          "Krebs cycle",
+          "Oxidative phosphorylation",
+          "Mitochondria",
+          "Aerobic respiration"
+        ],
+        "notes": "Aerobic respiration has four stages that occur in different cellular locations. It produces more ATP than anaerobic processes."
+      },
+      {
+        "slide_number": 80,
+        "title": "3.4 Glycolysis",
+        "key_points": [
+          "Occurs in cytosol, anaerobic condition",
+          "Common pathway for both aerobic and anaerobic respiration",
+          "Glucose (6C) → 2 Pyruvate (3C)",
+          "Three phases: Energy investment, Cleavage, Energy liberation",
+          "Energy investment: 2 ATP used",
+          "Energy liberation: 4 ATP produced, 2 NADH produced",
+          "Net yield: 2 ATP, 2 NADH",
+          "Net reaction: Glucose + 2ADP + 2NAD+ + 2Pi → 2Pyruvate + 2ATP + 2NADH + 2H+ + 2H2O"
+        ],
+        "keywords": [
+          "Glycolysis",
+          "Pyruvate",
+          "NADH",
+          "Substrate-level phosphorylation",
+          "ATP"
+        ],
+        "notes": "Glycolysis is the first stage of glucose breakdown. It produces a net gain of 2 ATP and 2 NADH, which can be used in later stages of respiration."
+      },
+      {
+        "slide_number": 81,
+        "title": "3.4 Pyruvate Oxidation (Link Reaction)",
+        "key_points": [
+          "Occurs in mitochondrial matrix",
+          "Pyruvate (3C) → Acetyl CoA (2C)",
+          "Three-step process:",
+          "Step 1: Carboxyl group removed → CO2 released",
+          "Step 2: Hydroxyethyl group oxidized → NADH produced",
+          "Step 3: Acetyl group transferred to CoA → Acetyl CoA formed",
+          "Overall: 2Pyruvate + 2NAD+ + 2CoA → 2Acetyl-CoA + 2NADH + 2H+ + 2CO2"
+        ],
+        "keywords": [
+          "Pyruvate oxidation",
+          "Acetyl CoA",
+          "NADH",
+          "CO2",
+          "Link reaction"
+        ],
+        "notes": "Pyruvate oxidation links glycolysis to the Krebs cycle. It converts pyruvate to Acetyl CoA, releasing CO2 and producing NADH."
+      },
+      {
+        "slide_number": 82,
+        "title": "3.4 Krebs Cycle (Citric Acid Cycle)",
+        "key_points": [
+          "Occurs in mitochondrial matrix",
+          "Acetyl CoA (2C) combines with OAA (4C) → Citric acid (6C)",
+          "Series of reactions release energy and CO2",
+          "For each Acetyl CoA: 3 NADH, 1 FADH2, 1 GTP/ATP, 2 CO2",
+          "For 2 Acetyl CoA (from one glucose): 6 NADH, 2 FADH2, 2 ATP, 4 CO2",
+          "Regenerates OAA (4C) for next cycle",
+          "Also called Citric Acid Cycle"
+        ],
+        "keywords": [
+          "Krebs cycle",
+          "Citric acid cycle",
+          "NADH",
+          "FADH2",
+          "OAA"
+        ],
+        "notes": "The Krebs cycle completes the oxidation of glucose, producing energy carriers (NADH, FADH2) and releasing CO2. It runs twice for each glucose molecule."
+      },
+      {
+        "slide_number": 83,
+        "title": "3.4 Oxidative Phosphorylation",
+        "key_points": [
+          "Occurs in inner mitochondrial membrane",
+          "Major source of ATP in aerobic organisms (26 out of 30 ATP)",
+          "Three major steps:",
+          "1. Electron transfer through electron transport chain (ETC)",
+          "2. Generation of proton gradient across inner membrane",
+          "3. ATP synthesis via ATP synthase (chemiosmosis)",
+          "ETC complexes: FMN, Coenzyme Q, Cytochromes",
+          "NADH: 3 ATP per molecule",
+          "FADH2: 2 ATP per molecule"
+        ],
+        "keywords": [
+          "Oxidative phosphorylation",
+          "Electron transport chain",
+          "Chemiosmosis",
+          "ATP synthase",
+          "Proton gradient"
+        ],
+        "notes": "Oxidative phosphorylation is the most productive stage of cellular respiration. It uses the energy from electrons to create a proton gradient that drives ATP synthesis."
+      },
+      {
+        "slide_number": 84,
+        "title": "3.4 Energy Yield from Glucose",
+        "key_points": [
+          "Total yield: 6 NADH, 2 FADH2, 2 ATP",
+          "From one glucose: 2 NADH (glycolysis), 2 NADH (pyruvate oxidation), 6 NADH (Krebs), 2 FADH2 (Krebs), 2 ATP (substrate-level)",
+          "NADH: ~3 ATP each → ~18 ATP total",
+          "FADH2: ~2 ATP each → ~4 ATP total",
+          "Substrate-level ATP: 4 ATP (2 from glycolysis + 2 from Krebs)",
+          "Total theoretical yield: ~36-38 ATP per glucose",
+          "Actual yield: ~30-34 ATP"
+        ],
+        "keywords": [
+          "ATP yield",
+          "NADH",
+          "FADH2",
+          "Substrate-level phosphorylation",
+          "Energy budget"
+        ],
+        "notes": "The complete oxidation of one glucose molecule yields approximately 36-38 ATP. This high efficiency makes aerobic respiration the preferred energy pathway for most organisms."
+      },
+      {
+        "slide_number": 85,
+        "title": "3.4 Energy from Non-Carbohydrate Sources",
+        "key_points": [
+          "Proteins: Digested to amino acids, deaminated, enter glycolysis or Krebs cycle",
+          "- Deamination: Removal of amino group → ammonia/urea",
+          "Fats: Digested to glycerol and fatty acids",
+          "- Glycerol → G3P (enters glycolysis)",
+          "- Fatty acids → Acetyl CoA via beta oxidation",
+          "- Beta oxidation: Breaks fatty acids to 2-carbon fragments",
+          "Fats produce more than twice as much ATP per gram as carbohydrates",
+          "Excess amino acids cannot be stored; deaminated and used for energy"
+        ],
+        "keywords": [
+          "Deamination",
+          "Beta oxidation",
+          "Fatty acids",
+          "Amino acids",
+          "Glycerol"
+        ],
+        "notes": "Cells can use proteins and fats for energy when carbohydrates are unavailable. Fats are particularly energy-rich, storing more energy per gram than carbohydrates."
+      },
+      {
+        "slide_number": 86,
+        "title": "3.4 Fermentation (Anaerobic Respiration)",
+        "key_points": [
+          "Occurs in absence of oxygen",
+          "Recycles NAD+ from NADH to allow glycolysis to continue",
+          "Only glycolysis occurs: Net yield 2 ATP",
+          "Alcohol fermentation (yeast):",
+          "- Pyruvate → Acetaldehyde + CO2",
+          "- Acetaldehyde + NADH → Ethanol + NAD+",
+          "Lactic acid fermentation (muscles, bacteria):",
+          "- Pyruvate + NADH → Lactic acid + NAD+",
+          "Facultative anaerobes: Can undergo fermentation when oxygen is absent"
+        ],
+        "keywords": [
+          "Fermentation",
+          "Alcohol fermentation",
+          "Lactic acid fermentation",
+          "Facultative anaerobes",
+          "NADH"
+        ],
+        "notes": "Fermentation allows glycolysis to continue in the absence of oxygen by regenerating NAD+. It produces only 2 ATP per glucose and produces either ethanol or lactic acid as by-products."
+      },
+      {
+        "slide_number": 87,
+        "title": "Chapter 3 Summary",
+        "key_points": [
+          "Metabolism: Sum of chemical reactions; includes catabolism (breakdown) and anabolism (synthesis)",
+          "Photosynthesis: Light reactions in grana, Calvin cycle in stroma",
+          "Light reactions: Produce ATP, NADPH, and O2",
+          "Calvin cycle: Fixes CO2 into carbohydrates",
+          "C3, C4, and CAM plants: Different adaptations for carbon fixation",
+          "Cellular respiration: Glycolysis → Pyruvate oxidation → Krebs cycle → Oxidative phosphorylation",
+          "Fermentation: Anaerobic, produces 2 ATP per glucose",
+          "ATP is the energy currency of cells"
+        ],
+        "keywords": [
+          "Metabolism",
+          "Photosynthesis",
+          "Cellular respiration",
+          "ATP",
+          "Fermentation"
+        ],
+        "notes": "Chapter 3 covers the processes by which cells transform energy. Photosynthesis captures energy from sunlight, while cellular respiration releases energy from glucose to produce ATP."
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 4: Evolution",
+    "slides": [
+      {
+        "slide_number": 88,
+        "title": "Unit 4 Overview - Evolution",
+        "key_points": [
+          "Evolution: Change in genetic composition of population over successive generations",
+          "Caused by meiosis, hybridization, natural selection, or mutation",
+          "Leads to divergence of populations and origin of new species",
+          "Various theories explain the origin of life on Earth",
+          "Evidence for evolution comes from multiple scientific fields"
+        ],
+        "keywords": [
+          "Evolution",
+          "Genetic composition",
+          "Speciation",
+          "Natural selection",
+          "Common ancestor"
+        ],
+        "notes": "This unit explores the definition of evolution, various theories of origin of life, evidence supporting evolution, and mechanisms driving evolutionary change."
+      },
+      {
+        "slide_number": 89,
+        "title": "4.1 Theories of Origin of Life - Special Creation and Spontaneous Generation",
+        "key_points": [
+          "Special Creationism: Life created by supernatural or divine force",
+          "- Linked to different religious interpretations",
+          "- Not supported by scientific evidence",
+          "Spontaneous Generation (Abiogenesis): Life arises spontaneously from non-living matter",
+          "- Disproved by experiments:",
+          "- Francesco Redi (1668): Maggots from fly eggs, not rotting meat",
+          "- Lazzaro Spallanzani: Sealed flasks remained sterile",
+          "- Louis Pasteur: Swan-neck flasks disproved theory"
+        ],
+        "keywords": [
+          "Special creation",
+          "Spontaneous generation",
+          "Abiogenesis",
+          "Pasteur",
+          "Redi"
+        ],
+        "notes": "Early theories of life's origin include special creation and spontaneous generation. Pasteur's swan-neck flask experiments conclusively disproved spontaneous generation."
+      },
+      {
+        "slide_number": 90,
+        "title": "4.1 Theories of Origin of Life - Eternity, Cosmozoan, and Biochemical",
+        "key_points": [
+          "Eternity of Life: Life has always existed, no beginning or end",
+          "- Linked to steady-state theory of the universe",
+          "Cosmozoan Theory (Panspermia): Life brought to Earth from elsewhere",
+          "- Richter (1865): Spores from meteorites",
+          "- Helmholz (1884): Protoplasm from meteorites",
+          "Biochemical Origin (Oparin-Haldane Theory):",
+          "- Organic molecules from inorganic materials in reducing atmosphere",
+          "- Energy from UV radiation",
+          "- Coacervate droplets (pre-cells) formed",
+          "- Miller-Urey experiment: Produced amino acids from simple gases"
+        ],
+        "keywords": [
+          "Eternity of life",
+          "Panspermia",
+          "Cosmozoan",
+          "Biochemical origin",
+          "Oparin-Haldane",
+          "Miller-Urey"
+        ],
+        "notes": "The biochemical origin theory is supported by experimental evidence. The Miller-Urey experiment showed that organic molecules could form spontaneously under conditions thought to exist on early Earth."
+      },
+      {
+        "slide_number": 91,
+        "title": "4.1 Early Life and Autotrophs",
+        "key_points": [
+          "First organisms: Prokaryotes (~4 billion years ago)",
+          "Likely had RNA as genetic material",
+          "Gave rise to three lines: Archaebacteria, Eubacteria, Eukaryotes",
+          "Shift from reducing atmosphere to oxygen atmosphere (~2.4 billion years ago)",
+          "Chemoautotrophs: Energy from inorganic chemicals, CO2 as carbon source",
+          "- Found in extreme environments",
+          "Photoautotrophs: Light energy, CO2 for photosynthesis",
+          "- Cyanobacteria responsible for oxygen increase"
+        ],
+        "keywords": [
+          "Prokaryotes",
+          "Chemoautotrophs",
+          "Photoautotrophs",
+          "Reducing atmosphere",
+          "Cyanobacteria"
+        ],
+        "notes": "Early life consisted of prokaryotes that evolved into three domains. The evolution of photosynthesis by cyanobacteria led to the oxygenation of Earth's atmosphere."
+      },
+      {
+        "slide_number": 92,
+        "title": "4.1 Lamarckism",
+        "key_points": [
+          "Jean-Baptiste Lamarck (1744-1829)",
+          "Theory of Inheritance of Acquired Characters (1809)",
+          "Four postulates:",
+          "1. New Needs: Environmental changes create new needs",
+          "2. Use and Disuse: Organs used more become larger/developed; organs not used become reduced",
+          "3. Inheritance of Acquired Characters: Favorable acquired traits passed to offspring",
+          "4. Speciation: Accumulation of new characters leads to new species",
+          "Example: Giraffe neck elongation",
+          "Significance: First comprehensive theory of evolution"
+        ],
+        "keywords": [
+          "Lamarckism",
+          "Inheritance of acquired characteristics",
+          "Use and disuse",
+          "Speciation"
+        ],
+        "notes": "Lamarck proposed that organisms can pass on traits acquired during their lifetime. This theory has been disproved by genetics, as acquired characteristics are not inherited."
+      },
+      {
+        "slide_number": 93,
+        "title": "4.1 Darwinism (Theory of Natural Selection)",
+        "key_points": [
+          "Charles Darwin (1809-1882)",
+          "Voyage on HMS Beagle: Galapagos Islands finches",
+          "Influenced by Alfred Russell Wallace and Charles Lyell",
+          "Basic Postulates:",
+          "1. Geometric increase: More offspring produced than can survive",
+          "2. Struggle for existence: Competition for limited resources",
+          "3. Variation: No two individuals are exactly alike",
+          "4. Natural selection: Advantageous variations survive and reproduce",
+          "5. Origin of species: Accumulation of variations leads to new species",
+          "'Descent with modification'"
+        ],
+        "keywords": [
+          "Darwinism",
+          "Natural selection",
+          "Survival of the fittest",
+          "Descent with modification",
+          "Galapagos finches"
+        ],
+        "notes": "Darwin's theory of natural selection explains how species evolve through the differential survival and reproduction of individuals with advantageous traits. This is the driving force of evolution."
+      },
+      {
+        "slide_number": 94,
+        "title": "4.1 Neo-Darwinism",
+        "key_points": [
+          "Modern synthesis: Combines Darwin's theory with genetics",
+          "Incorporates knowledge of genes, alleles, and gene pools",
+          "Gene pool: All alleles available in a population",
+          "Postulates of Neo-Darwinism:",
+          "1. Genetic variability: Mutations create new alleles",
+          "2. Natural selection: Acts on phenotype, affects allele frequencies",
+          "3. Reproductive isolation: Prevents gene flow between populations",
+          "Explains evolution in terms of changes in allele frequencies"
+        ],
+        "keywords": [
+          "Neo-Darwinism",
+          "Gene pool",
+          "Allele frequency",
+          "Genetic variability",
+          "Reproductive isolation"
+        ],
+        "notes": "Neo-Darwinism integrates Darwin's theory of natural selection with genetics. It explains evolution as changes in allele frequencies within populations over time."
+      },
+      {
+        "slide_number": 95,
+        "title": "4.1 Evidence for Evolution - Comparative Anatomy",
+        "key_points": [
+          "Homologous structures: Same basic anatomy, different function",
+          "- Indicate common evolutionary origin",
+          "- Example: Forelimbs of mammals (human arm, whale flipper, bat wing, cat leg)",
+          "- Pentadactyl limb: Five digits in all",
+          "Analogous structures: Same function, different anatomy",
+          "- Indicate different evolutionary origins",
+          "- Example: Wings of birds, bats, and insects",
+          "Vestigial organs: No longer in use",
+          "- Example: Human tailbone (coccyx), appendix"
+        ],
+        "keywords": [
+          "Homologous structures",
+          "Analogous structures",
+          "Pentadactyl limb",
+          "Vestigial organs",
+          "Common ancestor"
+        ],
+        "notes": "Comparative anatomy provides evidence for evolution. Homologous structures indicate common ancestry, while analogous structures show convergent evolution."
+      },
+      {
+        "slide_number": 96,
+        "title": "4.1 Evidence for Evolution - Embryology and Fossils",
+        "key_points": [
+          "Embryology: Similarities in embryonic development",
+          "- Vertebrate embryos have gill slits and tails early in development",
+          "- Indicates common ancestor",
+          "Fossils: Preserved remains or impressions of once-living organisms",
+          "- Types: Bones, teeth, footprints, burrows, coprolites",
+          "- Stratigraphy: Relative dating from rock layers (strata)",
+          "- Radiometric dating: Absolute dating using radioactive isotopes",
+          "- Half-life: Time for half of radioactive atoms to decay"
+        ],
+        "keywords": [
+          "Embryology",
+          "Fossils",
+          "Stratigraphy",
+          "Radiometric dating",
+          "Half-life"
+        ],
+        "notes": "Comparative embryology and the fossil record provide strong evidence for evolution. Fossils show how organisms have changed over time, and dating methods determine their ages."
+      },
+      {
+        "slide_number": 97,
+        "title": "4.1 Evidence for Evolution - Biochemistry",
+        "key_points": [
+          "Comparing DNA, RNA, and proteins between species",
+          "More closely related species share more similar sequences",
+          "Humans share 98% of DNA with chimpanzees",
+          "Hemoglobin comparisons:",
+          "- Lamprey: One polypeptide chain",
+          "- Most animals: Four chains",
+          "- Differences in amino acid sequences indicate divergence",
+          "Molecular clock: Rate of mutation in genes is relatively constant"
+        ],
+        "keywords": [
+          "Biochemical evidence",
+          "DNA comparison",
+          "Hemoglobin",
+          "Molecular clock",
+          "Phylogenetic tree"
+        ],
+        "notes": "Comparing DNA and proteins provides molecular evidence for evolution. The degree of similarity reflects the relatedness of organisms and their divergence from common ancestors."
+      },
+      {
+        "slide_number": 98,
+        "title": "4.1 Types of Natural Selection",
+        "key_points": [
+          "Directional Selection: Favors one extreme phenotype",
+          "- Population average shifts towards that extreme",
+          "- Example: Antibiotic resistance in bacteria",
+          "Stabilizing Selection: Favors intermediate phenotypes",
+          "- Selects against extremes, reduces variation",
+          "- Example: Human birth weight",
+          "Disruptive Selection: Favors both extremes",
+          "- Selects against intermediate, leads to two distinct groups",
+          "- Example: Birds with very large or very small beaks",
+          "Antibiotic resistance: Modern example of natural selection"
+        ],
+        "keywords": [
+          "Directional selection",
+          "Stabilizing selection",
+          "Disruptive selection",
+          "Antibiotic resistance",
+          "Phenotype"
+        ],
+        "notes": "Natural selection can act in different ways on populations. Directional, stabilizing, and disruptive selection each have different effects on phenotype distributions."
+      },
+      {
+        "slide_number": 99,
+        "title": "4.1 Patterns of Evolution",
+        "key_points": [
+          "Divergent Evolution: Two species become increasingly different",
+          "- Example: Pentadactyl limb in different mammals",
+          "- Responsible for current diversity of life",
+          "Convergent Evolution: Unrelated species evolve similar traits",
+          "- Example: Wings of birds and insects",
+          "- Due to similar environmental pressures",
+          "Parallel Evolution: Unrelated species evolve in similar ways",
+          "- Without occupying the same niche"
+        ],
+        "keywords": [
+          "Divergent evolution",
+          "Convergent evolution",
+          "Parallel evolution",
+          "Adaptive radiation",
+          "Selection pressures"
+        ],
+        "notes": "Different patterns of evolution occur depending on environmental pressures and relationships between species. Divergent evolution creates diversity, while convergent evolution creates similarities."
+      },
+      {
+        "slide_number": 100,
+        "title": "4.1 Speciation",
+        "key_points": [
+          "Allopatric Speciation: Geographic isolation",
+          "- Physical barrier separates populations",
+          "- Populations evolve independently",
+          "- Example: Galapagos finches",
+          "Sympatric Speciation: No geographic isolation",
+          "- New species evolves within same area",
+          "- Often due to reproductive isolation",
+          "- Example: Polyploidy in plants",
+          "Key factors: Isolation, mutation, selection pressures, reproductive isolation"
+        ],
+        "keywords": [
+          "Allopatric speciation",
+          "Sympatric speciation",
+          "Geographic isolation",
+          "Polyploidy",
+          "Reproductive isolation"
+        ],
+        "notes": "Speciation occurs when populations become reproductively isolated. Allopatric speciation involves geographic separation, while sympatric speciation occurs without it."
+      },
+      {
+        "slide_number": 101,
+        "title": "4.1 Reproductive Isolating Mechanisms",
+        "key_points": [
+          "Prezygotic Barriers (prevent fertilization):",
+          "- Ecological/Habitat isolation: Different habitats",
+          "- Temporal isolation: Different reproductive times",
+          "- Behavioral isolation: Different courtship behaviors",
+          "- Mechanical isolation: Incompatible reproductive structures",
+          "- Gametic isolation: Gametes incompatible",
+          "Postzygotic Barriers (prevent viable/fertile offspring):",
+          "- Hybrid inviability: Embryo dies early",
+          "- Hybrid sterility: Hybrid survives but infertile (e.g., mules)",
+          "- Hybrid breakdown: Second-generation hybrids weak/sterile"
+        ],
+        "keywords": [
+          "Prezygotic barriers",
+          "Postzygotic barriers",
+          "Hybrid inviability",
+          "Hybrid sterility",
+          "Reproductive isolation"
+        ],
+        "notes": "Reproductive isolating mechanisms prevent gene flow between species. Prezygotic barriers act before fertilization, while postzygotic barriers act after fertilization."
+      },
+      {
+        "slide_number": 102,
+        "title": "4.1 Human Evolution - Key Concepts",
+        "key_points": [
+          "Humans and chimpanzees evolved from common ancestor (~6 million years ago)",
+          "Hominin: Any member of genus Homo",
+          "Hominid: Includes Homo and other related species",
+          "Key traits: Bipedalism evolved before large brain",
+          "Important fossils:",
+          "- Lucy (Australopithecus afarensis): 3.2 million years, bipedal, small brain",
+          "- Ardi (Ardipithecus ramidus): 4.4 million years, mixed bipedal/arboreal",
+          "Both found in Ethiopia (cradle of mankind)"
+        ],
+        "keywords": [
+          "Hominin",
+          "Hominid",
+          "Bipedalism",
+          "Lucy",
+          "Ardi"
+        ],
+        "notes": "Human evolution is traced through fossil evidence in Africa. Lucy and Ardi are important fossils that show bipedalism evolved before large brains."
+      },
+      {
+        "slide_number": 103,
+        "title": "4.1 Brain Size and Human Migration",
+        "key_points": [
+          "Brain size increased during human evolution",
+          "- Australopithecus: 0.7-1.0% of body mass",
+          "- Modern humans: 1.8-2.3% of body mass",
+          "- Human brain uses 25% of resting energy",
+          "Larger brain enables: Planning, tool use, communication",
+          "Modern humans (Homo sapiens): Appeared in Africa (~300,000 years ago)",
+          "Migration out of Africa: Started ~120,000 years ago",
+          "Adaptations to different environments:",
+          "- Shorter, squatter body shape (cold climates)",
+          "- Increased adipose tissue (insulation)"
+        ],
+        "keywords": [
+          "Brain size",
+          "Homo sapiens",
+          "Migration",
+          "Adaptation",
+          "Energy consumption"
+        ],
+        "notes": "Human evolution is characterized by increasing brain size and migration out of Africa. Different populations adapted to local environments through natural selection."
+      },
+      {
+        "slide_number": 104,
+        "title": "4.1 Mutation - Types and Causes",
+        "key_points": [
+          "Mutation: Permanent change in DNA base sequence",
+          "Ultimate source of new genetic variation",
+          "Point Mutations (affect single nucleotide):",
+          "- Silent: No change in amino acid",
+          "- Missense: Changes amino acid",
+          "- Nonsense: Creates premature stop codon",
+          "Frameshift Mutations (often more severe):",
+          "- Addition/Insertion: Extra nucleotides added",
+          "- Deletion: Nucleotides removed",
+          "Chromosomal Mutations (affect large segments):",
+          "- Inversion, Deletion, Duplication, Translocation"
+        ],
+        "keywords": [
+          "Mutation",
+          "Point mutation",
+          "Frameshift mutation",
+          "Chromosomal mutation",
+          "Mutagen"
+        ],
+        "notes": "Mutations are changes in DNA that create genetic variation. They can be small (point mutations) or large (chromosomal mutations) and can have various effects on protein function."
+      },
+      {
+        "slide_number": 105,
+        "title": "4.1 Genetic Drift and Gene Flow",
+        "key_points": [
+          "Genetic drift: Random changes in allele frequencies",
+          "- Most significant in small populations",
+          "- Bottleneck effect: Population size reduced by catastrophe",
+          "- Founder effect: Small group colonizes new area",
+          "Gene flow (Migration): Movement of alleles between populations",
+          "- Immigration: New alleles introduced",
+          "- Emigration: Alleles removed",
+          "Horizontal gene transfer: Genes between different species (common in bacteria)"
+        ],
+        "keywords": [
+          "Genetic drift",
+          "Bottleneck effect",
+          "Founder effect",
+          "Gene flow",
+          "Migration"
+        ],
+        "notes": "Genetic drift and gene flow are mechanisms of evolution. Drift is random and affects small populations, while gene flow transfers alleles between populations."
+      },
+      {
+        "slide_number": 106,
+        "title": "4.1 Hardy-Weinberg Equilibrium",
+        "key_points": [
+          "Theoretical state where allele frequencies do not change",
+          "Five conditions required:",
+          "1. No mutations",
+          "2. Random mating",
+          "3. No natural selection",
+          "4. Extremely large population size",
+          "5. No gene flow",
+          "Equations:",
+          "- Allele frequencies: p + q = 1",
+          "- Genotype frequencies: p2 + 2pq + q2 = 1",
+          "p = frequency of dominant allele, q = frequency of recessive allele",
+          "p2 = frequency of dominant homozygotes, 2pq = frequency of heterozygotes, q2 = frequency of recessive homozygotes"
+        ],
+        "keywords": [
+          "Hardy-Weinberg equilibrium",
+          "Allele frequency",
+          "Genotype frequency",
+          "p + q = 1",
+          "p2 + 2pq + q2 = 1"
+        ],
+        "notes": "Hardy-Weinberg equilibrium is a model that describes conditions under which evolution does not occur. It provides a baseline for measuring evolutionary change."
+      },
+      {
+        "slide_number": 107,
+        "title": "4.1 Causes of Species Extinction",
+        "key_points": [
+          "Anthropogenic effects: Human activities",
+          "- Habitat destruction, deforestation",
+          "- Pollution, greenhouse gas emissions",
+          "- Overexploitation (hunting, fishing)",
+          "- Introduction of invasive species",
+          "Natural disasters:",
+          "- Volcanic eruptions, asteroid impacts",
+          "- Floods, climate changes",
+          "Mitigation: Conservation, habitat protection, sustainable resource use"
+        ],
+        "keywords": [
+          "Extinction",
+          "Anthropogenic",
+          "Habitat destruction",
+          "Climate change",
+          "Conservation"
+        ],
+        "notes": "Species extinction is caused by both human activities and natural events. Conservation efforts are essential to prevent further loss of biodiversity."
+      },
+      {
+        "slide_number": 108,
+        "title": "Chapter 4 Summary",
+        "key_points": [
+          "Evolution: Change in genetic composition of populations",
+          "Theories of origin: Special creation, Spontaneous generation, Eternity, Cosmozoan, Biochemical",
+          "Evidence: Comparative anatomy (homologous/analogous structures), Embryology, Fossils, Biochemistry",
+          "Natural selection: Directional, Stabilizing, Disruptive",
+          "Speciation: Allopatric and Sympatric",
+          "Human evolution: Key fossils (Lucy, Ardi), bipedalism, brain size",
+          "Mutation, Genetic drift, Gene flow",
+          "Hardy-Weinberg equilibrium: Conditions for no evolution"
+        ],
+        "keywords": [
+          "Evolution",
+          "Natural selection",
+          "Speciation",
+          "Genetic drift",
+          "Hardy-Weinberg"
+        ],
+        "notes": "Chapter 4 covers the theory of evolution, evidence supporting it, mechanisms driving it, and the origin of species. It emphasizes the importance of natural selection and genetic variation."
+      }
+    ]
+  }
+]
+[
+  {
+    "chapter": "Chapter 5: Human Body System",
+    "slides": [
+      {
+        "slide_number": 109,
+        "title": "Unit 5 Overview - Human Body Systems",
+        "key_points": [
+          "Two main coordination systems: Nervous system and Endocrine system",
+          "Nervous system: Uses nerve cells to pass electrical impulses",
+          "- Stimulates target cells by secreting neurotransmitters",
+          "- Rapid, short-duration responses",
+          "Endocrine system: Produces hormones transported in blood plasma",
+          "- Target cells have specific receptors",
+          "- Slower, longer-lasting responses"
+        ],
+        "keywords": [
+          "Nervous system",
+          "Endocrine system",
+          "Neurotransmitters",
+          "Hormones",
+          "Coordination"
+        ],
+        "notes": "The nervous and endocrine systems work together to coordinate body functions. The nervous system provides rapid responses, while the endocrine system provides slower, longer-lasting control."
+      },
+      {
+        "slide_number": 110,
+        "title": "5.1 The Nervous System - Overview",
+        "key_points": [
+          "Central Nervous System (CNS): Brain and spinal cord",
+          "Peripheral Nervous System (PNS): Nerves outside CNS",
+          "Three functions:",
+          "1. Sensory input: Receptors detect stimuli, send signals to CNS",
+          "2. Information processing: Integration of input in CNS",
+          "3. Motor output: Signals from CNS to muscles, glands, organs",
+          "Neurons: Basic structural and functional units"
+        ],
+        "keywords": [
+          "Central nervous system",
+          "Peripheral nervous system",
+          "Sensory input",
+          "Motor output",
+          "Integration"
+        ],
+        "notes": "The nervous system is divided into the CNS (brain and spinal cord) and PNS (all other nerves). It performs sensory, integrative, and motor functions."
+      },
+      {
+        "slide_number": 111,
+        "title": "5.1 Neurons - Structure and Function",
+        "key_points": [
+          "Neurons: Basic structural and functional units of nervous system",
+          "Three parts:",
+          "1. Cell body (Soma): Contains nucleus, organelles",
+          "2. Dendrites: Receive signals from other neurons or sensory receptors",
+          "3. Axon: Transmits signals away from cell body",
+          "Myelin sheath: Fatty insulation, speeds up impulse transmission",
+          "- Formed by Schwann cells in PNS",
+          "Nodes of Ranvier: Gaps in myelin sheath",
+          "Grey matter: Cell bodies (CNS)",
+          "White matter: Myelinated axons (CNS)"
+        ],
+        "keywords": [
+          "Neuron",
+          "Cell body",
+          "Dendrites",
+          "Axon",
+          "Myelin sheath",
+          "Nodes of Ranvier"
+        ],
+        "notes": "Neurons are specialized cells that receive, conduct, and transmit signals. Their structure supports their function, with dendrites receiving signals and axons transmitting them."
+      },
+      {
+        "slide_number": 112,
+        "title": "5.1 Types of Neurons",
+        "key_points": [
+          "Sensory (Afferent) Neurons: Carry impulses from receptors to CNS",
+          "- Long dendrite, short axon",
+          "- Respond to physical and chemical stimuli (sound, touch, heat, light)",
+          "Motor (Efferent) Neurons: Carry impulses from CNS to effectors",
+          "- Long axon, short dendrites",
+          "- Control voluntary and involuntary movements",
+          "Interneurons (Association Neurons): Found entirely in CNS",
+          "- Pass signals from sensory to motor neurons",
+          "- Integrate functions"
+        ],
+        "keywords": [
+          "Sensory neurons",
+          "Motor neurons",
+          "Interneurons",
+          "Afferent",
+          "Efferent"
+        ],
+        "notes": "Neurons are classified by function into sensory, motor, and interneurons. Sensory neurons bring information to the CNS, motor neurons send commands out, and interneurons process information."
+      },
+      {
+        "slide_number": 113,
+        "title": "5.1 The Nerve Impulse - Resting Potential",
+        "key_points": [
+          "Resting potential: When axon is not conducting impulse",
+          "- Membrane polarized: Outside positive, inside negative (~-65 mV)",
+          "- Na+ concentration: 16x higher outside",
+          "- K+ concentration: 25x higher inside",
+          "- Membrane more permeable to K+ than Na+",
+          "Na-K pump: Actively transports",
+          "- 3 Na+ out, 2 K+ in (uses ATP)",
+          "Result: Accumulation of positive ions outside"
+        ],
+        "keywords": [
+          "Resting potential",
+          "Polarization",
+          "Na-K pump",
+          "Ion channels",
+          "Membrane potential"
+        ],
+        "notes": "The resting potential is maintained by differential ion concentrations and the Na-K pump. The inside of the neuron is negative relative to the outside due to K+ leakage."
+      },
+      {
+        "slide_number": 114,
+        "title": "5.1 The Nerve Impulse - Action Potential",
+        "key_points": [
+          "Action potential: Rapid change in polarity during impulse transmission",
+          "Depolarization:",
+          "- Voltage-gated Na+ channels open",
+          "- Na+ rushes into cell",
+          "- Inside becomes positive (+40 mV)",
+          "- Lasts ~3 milliseconds",
+          "Repolarization:",
+          "- Na+ channels close, K+ channels open",
+          "- K+ rushes out of cell",
+          "- Inside becomes negative again",
+          "Na-K pump restores ion concentrations",
+          "All-or-nothing response: Threshold must be reached"
+        ],
+        "keywords": [
+          "Action potential",
+          "Depolarization",
+          "Repolarization",
+          "Threshold",
+          "Voltage-gated channels"
+        ],
+        "notes": "An action potential is a rapid, all-or-nothing electrical signal. It is generated when a stimulus reaches threshold, causing a wave of depolarization and repolarization."
+      },
+      {
+        "slide_number": 115,
+        "title": "5.1 Synaptic Transmission",
+        "key_points": [
+          "Synapse: Junction between two neurons or neuron and effector",
+          "Synaptic cleft: Space between presynaptic and postsynaptic neurons",
+          "Process:",
+          "1. Action potential arrives at presynaptic terminal",
+          "2. Voltage-gated Ca2+ channels open",
+          "3. Calcium enters axon terminal",
+          "4. Synaptic vesicles fuse with membrane",
+          "5. Neurotransmitters released by exocytosis",
+          "6. Neurotransmitters bind to receptors on postsynaptic membrane",
+          "7. Generates new signal",
+          "Acetylcholinesterase: Breaks down acetylcholine to stop signal"
+        ],
+        "keywords": [
+          "Synapse",
+          "Synaptic cleft",
+          "Neurotransmitter",
+          "Acetylcholine",
+          "Exocytosis"
+        ],
+        "notes": "Synaptic transmission converts an electrical signal into a chemical signal. Neurotransmitters are released from the presynaptic neuron and bind to receptors on the postsynaptic neuron."
+      },
+      {
+        "slide_number": 116,
+        "title": "5.1 Neurotransmitters",
+        "key_points": [
+          "Neurotransmitters: Chemical messengers of the nervous system",
+          "Transmit messages between neurons or from neurons to muscles",
+          "Excitatory transmitters: Promote generation of action potential",
+          "- Example: Glutamate",
+          "Inhibitory transmitters: Prevent generation of action potential",
+          "- Example: GABA",
+          "Acetylcholine (ACh): Abundant neurotransmitter",
+          "- Found in both CNS and PNS",
+          "- Effects depend on receptor type",
+          "Neurotransmitters are removed from synaptic cleft by enzymes"
+        ],
+        "keywords": [
+          "Neurotransmitters",
+          "Excitatory",
+          "Inhibitory",
+          "Acetylcholine",
+          "Receptors"
+        ],
+        "notes": "Neurotransmitters are chemical messengers that transmit signals across synapses. They can be excitatory or inhibitory depending on the receptor they bind to."
+      },
+      {
+        "slide_number": 117,
+        "title": "5.1 Types of Nervous System",
+        "key_points": [
+          "Central Nervous System (CNS):",
+          "- Brain: Cerebrum, Cerebellum, Brainstem (Medulla oblongata, Pons, Midbrain)",
+          "- Spinal cord: Tubular structure, grey matter inside, white matter outside",
+          "Peripheral Nervous System (PNS):",
+          "- Afferent division: Sensory signals to CNS",
+          "- Efferent division: Motor signals from CNS",
+          "- Somatic nervous system: Voluntary control",
+          "- Autonomic nervous system: Involuntary control"
+        ],
+        "keywords": [
+          "Cerebrum",
+          "Cerebellum",
+          "Brainstem",
+          "Afferent division",
+          "Efferent division"
+        ],
+        "notes": "The nervous system is organized into the CNS (processing center) and PNS (communication network). The PNS is further divided into somatic and autonomic systems."
+      },
+      {
+        "slide_number": 118,
+        "title": "5.1 The Brain - Structure and Function",
+        "key_points": [
+          "Cerebrum: Largest part, right and left hemispheres",
+          "- Higher functions: Vision, hearing, speech, reasoning, emotions, learning, movement",
+          "Cerebellum: Posture, balance, coordinated movements",
+          "- Smooth, coordinated voluntary movements",
+          "Brainstem (Medulla oblongata, Pons, Midbrain):",
+          "- Regulates heartbeat, breathing, blood pressure",
+          "- Reflex centers for vomiting, coughing, sneezing, swallowing",
+          "Hypothalamus: Homeostatic control",
+          "- Regulates thirst, appetite, body temperature, sex drive",
+          "Thalamus: Sensory relay station"
+        ],
+        "keywords": [
+          "Cerebrum",
+          "Cerebellum",
+          "Brainstem",
+          "Hypothalamus",
+          "Thalamus"
+        ],
+        "notes": "The brain is organized into regions with specialized functions. The cerebrum handles higher functions, the cerebellum controls coordination, and the brainstem regulates vital functions."
+      },
+      {
+        "slide_number": 119,
+        "title": "5.1 Protection of the CNS",
+        "key_points": [
+          "Four major protective features:",
+          "1. Bony structures: Cranium (skull) and vertebral column",
+          "2. Meninges: Three protective and nourishing membranes",
+          "- Dura mater: Outermost, tough fibrous layer",
+          "- Arachnoid mater: Middle, delicate serous membrane",
+          "- Pia mater: Innermost, clings to brain surface",
+          "3. Cerebrospinal fluid (CSF): Cushioning, nutrient exchange",
+          "4. Blood-brain barrier: Selective protection"
+        ],
+        "keywords": [
+          "Meninges",
+          "Dura mater",
+          "Arachnoid mater",
+          "Pia mater",
+          "Cerebrospinal fluid"
+        ],
+        "notes": "The CNS is protected by bone, membranes (meninges), cerebrospinal fluid, and the blood-brain barrier. These structures protect the delicate neural tissue from injury."
+      },
+      {
+        "slide_number": 120,
+        "title": "5.1 The Spinal Cord",
+        "key_points": [
+          "Tubular structure extending from brainstem",
+          "Enclosed and protected by vertebrae",
+          "Grey matter: Located in middle (cell bodies)",
+          "White matter: Located outside (myelinated axons)",
+          "Spinal nerves: 31 pairs",
+          "- Carry signals between spinal cord and body",
+          "Cranial nerves: 12 pairs",
+          "- Connect brain to head, neck, body trunk",
+          "Dorsal root: Sensory (afferent) fibers enter",
+          "Ventral root: Motor (efferent) fibers exit"
+        ],
+        "keywords": [
+          "Spinal cord",
+          "Spinal nerves",
+          "Cranial nerves",
+          "Dorsal root",
+          "Ventral root"
+        ],
+        "notes": "The spinal cord is the main pathway for information between the brain and the body. It contains both sensory and motor nerve fibers."
+      },
+      {
+        "slide_number": 121,
+        "title": "5.1 Autonomic Nervous System",
+        "key_points": [
+          "Autonomic nervous system: Regulates involuntary body functions",
+          "Blood flow, heartbeat, digestion, breathing",
+          "Two branches:",
+          "Sympathetic Division (Fight or flight):",
+          "- Accelerates heart rate, increases breathing rate",
+          "- Boosts blood flow to muscles, activates sweating",
+          "- Dilates pupils",
+          "Parasympathetic Division (Rest and digest):",
+          "- Slows heart rate, slows breathing",
+          "- Reduces blood flow to muscles, constricts pupils",
+          "- Promotes digestion and normal body functions"
+        ],
+        "keywords": [
+          "Autonomic nervous system",
+          "Sympathetic division",
+          "Parasympathetic division",
+          "Fight or flight",
+          "Rest and digest"
+        ],
+        "notes": "The autonomic nervous system controls involuntary functions. The sympathetic system prepares the body for action, while the parasympathetic system maintains normal resting functions."
+      },
+      {
+        "slide_number": 122,
+        "title": "5.1 Reflex Action",
+        "key_points": [
+          "Reflex action: Rapid, automatic, involuntary response",
+          "Does not require conscious thought",
+          "Reflex arc: Pathway of neurons involved",
+          "Five essential parts:",
+          "1. Receptor: Detects stimulus, generates impulse",
+          "2. Sensory neuron: Transmits impulse to CNS",
+          "3. CNS: Contains synapses (interneurons may be involved)",
+          "4. Motor neuron: Transmits impulse from CNS",
+          "5. Effector: Performs characteristic action",
+          "Example: Patellar (knee-jerk) reflex",
+          "- Tap on patellar tendon → quadriceps contracts"
+        ],
+        "keywords": [
+          "Reflex action",
+          "Reflex arc",
+          "Receptor",
+          "Effector",
+          "Knee-jerk reflex"
+        ],
+        "notes": "Reflexes are automatic, rapid responses that protect the body from harm. The reflex arc is a simple neural pathway that bypasses conscious thought for faster responses."
+      },
+      {
+        "slide_number": 123,
+        "title": "5.1 Drug Abuse",
+        "key_points": [
+          "Drug: Substance that changes mental or physical state",
+          "Drug abuse: Use of substance to excess and/or dependence",
+          "Drug dependence: Using drug repeatedly, becoming addicted",
+          "Addiction: Biochemical changes in brain, compulsive use",
+          "Nicotine: Highly addictive, releases dopamine",
+          "Alcohol: Depressant, causes alcohol use disorder (AUD)",
+          "Khat: Stimulant, contains cathinone, leads to dependence",
+          "Cannabis: Contains THC, mild hallucinogen",
+          "- Affects memory, emotion, motivation"
+        ],
+        "keywords": [
+          "Drug abuse",
+          "Addiction",
+          "Dependence",
+          "Dopamine",
+          "Withdrawal symptoms"
+        ],
+        "notes": "Drug abuse leads to addiction and harmful health effects. Common drugs of abuse in Ethiopia include alcohol, khat, and tobacco. Cannabis is illegal."
+      },
+      {
+        "slide_number": 124,
+        "title": "5.2 Sense Organs - Skin",
+        "key_points": [
+          "Skin: Largest organ, surface area ~20 square feet",
+          "Functions: Protection, sensation, waterproofing, excretion, temperature regulation",
+          "Three layers:",
+          "Epidermis: Outermost, dead cells, keratin, waterproof barrier",
+          "- Keratinocytes: Produce keratin (hair, nails, skin)",
+          "- Melanocytes: Produce melanin (pigment)",
+          "Dermis: Middle layer, blood vessels, hair follicles, sweat glands, sensory receptors",
+          "- Collagen and elastin: Support and elasticity",
+          "Hypodermis: Fatty tissue, insulation, energy storage"
+        ],
+        "keywords": [
+          "Epidermis",
+          "Dermis",
+          "Hypodermis",
+          "Keratin",
+          "Melanin"
+        ],
+        "notes": "The skin is the largest organ with multiple functions. It has three layers: epidermis (protective barrier), dermis (sensory and blood supply), and hypodermis (fat storage)."
+      },
+      {
+        "slide_number": 125,
+        "title": "5.2 Sense Organs - Tongue and Nose",
+        "key_points": [
+          "Tongue: Muscular organ, covered with papillae",
+          "- Taste buds: Collections of nerve-like cells",
+          "- Five basic tastes: Sweet, sour, bitter, salty, umami",
+          "- Taste receptors spread across entire tongue",
+          "Nose: Sense organ of smell (olfaction)",
+          "- Olfactory receptors in upper nasal cavity",
+          "- Air passes through mucus to olfactory bulb",
+          "- Molecules fit into nerve cells like puzzle pieces",
+          "- Signals sent to brain via olfactory nerve"
+        ],
+        "keywords": [
+          "Taste buds",
+          "Umami",
+          "Olfaction",
+          "Olfactory bulb",
+          "Papillae"
+        ],
+        "notes": "The tongue detects five basic tastes through taste buds, while the nose detects smells through olfactory receptors. Both senses require chemicals to dissolve in liquid for detection."
+      },
+      {
+        "slide_number": 126,
+        "title": "5.2 Sense Organs - The Eye (External)",
+        "key_points": [
+          "External structures:",
+          "Eyebrows: Prevent perspiration, shade from sunlight",
+          "Eyelids: Protect eye, distribute tears, limit light",
+          "Eyelashes: Filter dust and dirt",
+          "Conjunctiva: Thin, transparent membrane",
+          "- Palpebral conjunctiva: Lines inside eyelids",
+          "- Bulbar conjunctiva: Covers anterior eye",
+          "Lacrimal apparatus: Produces and drains tears",
+          "- Lacrimal gland: Produces tears (upper outer corner)",
+          "Extraocular muscles: Control eye movement",
+          "- 4 rectus muscles (straight movement), 2 oblique muscles (diagonal movement)"
+        ],
+        "keywords": [
+          "Conjunctiva",
+          "Lacrimal apparatus",
+          "Extraocular muscles",
+          "Palpebral fissure",
+          "Caruncle"
+        ],
+        "notes": "The eye has various external structures that protect it and enable its function. The lacrimal apparatus produces tears for lubrication, and muscles control eye movement."
+      },
+      {
+        "slide_number": 127,
+        "title": "5.2 The Eye (Internal Structure)",
+        "key_points": [
+          "Sclera: Outer white layer, protective covering",
+          "Cornea: Transparent front part, refracts light",
+          "Choroid: Middle layer, blood vessels nourish retina",
+          "Retina: Inner layer, light-sensitive cells (rods and cones)",
+          "Rods: Dim light, black and white vision",
+          "Cones: Bright light, color vision",
+          "Iris: Colored part, controls pupil size",
+          "Pupil: Opening in iris, controls light entry",
+          "Lens: Biconvex, focuses light on retina",
+          "Ciliary muscles: Change lens shape (accommodation)",
+          "Optic nerve: Transmits impulses to brain"
+        ],
+        "keywords": [
+          "Sclera",
+          "Cornea",
+          "Retina",
+          "Rods",
+          "Cones",
+          "Lens"
+        ],
+        "notes": "The eye has internal structures that work together to focus light on the retina. The retina contains photoreceptors (rods and cones) that convert light into neural signals."
+      },
+      {
+        "slide_number": 128,
+        "title": "5.2 The Eye - Accommodation and Pupil Reflex",
+        "key_points": [
+          "Accommodation: Lens shape changes for focusing",
+          "- Near objects: Lens becomes more convex (bulges)",
+          "- Distant objects: Lens becomes flatter",
+          "Pupil Reflex: Controls light entry",
+          "- Dim light: Radial muscles contract → Pupil dilates (widens)",
+          "- Bright light: Circular muscles contract → Pupil constricts (narrows)",
+          "Fovea centralis: Point of sharpest vision, high cone concentration",
+          "Blind spot: Optic nerve leaves eye, no photoreceptors"
+        ],
+        "keywords": [
+          "Accommodation",
+          "Dilation",
+          "Constriction",
+          "Fovea",
+          "Blind spot"
+        ],
+        "notes": "The eye adjusts focus through accommodation and controls light entry through the pupil reflex. The fovea provides the sharpest vision."
+      },
+      {
+        "slide_number": 129,
+        "title": "5.2 The Ear - Structure",
+        "key_points": [
+          "Three regions: Outer ear, Middle ear, Inner ear",
+          "Outer ear:",
+          "- Pinna (auricle): Collects sound waves",
+          "- Ear canal: Directs sound to eardrum",
+          "- Eardrum (tympanum): Vibrates to sound",
+          "Middle ear:",
+          "- Three ossicles: Malleus (hammer), Incus (anvil), Stapes (stirrup)",
+          "- Eustachian tube: Connects to throat, equalizes pressure",
+          "Inner ear:",
+          "- Cochlea: Coiled tube for hearing",
+          "- Semicircular canals: Balance"
+        ],
+        "keywords": [
+          "Pinna",
+          "Eardrum",
+          "Ossicles",
+          "Cochlea",
+          "Semicircular canals"
+        ],
+        "notes": "The ear is divided into three regions: the outer ear collects sound, the middle ear transmits vibrations, and the inner ear contains structures for hearing and balance."
+      },
+      {
+        "slide_number": 130,
+        "title": "5.2 The Ear - Mechanism of Hearing and Balance",
+        "key_points": [
+          "Mechanism of Hearing:",
+          "1. Pinna collects sound waves → Ear canal",
+          "2. Sound waves hit eardrum → Vibrates",
+          "3. Ossicles transmit and amplify vibrations",
+          "4. Stapes vibrates oval window",
+          "5. Fluid in cochlea moves",
+          "6. Hair cells (sensory cells) in cochlea stimulated",
+          "7. Nerve impulses sent via auditory nerve to brain",
+          "Mechanism of Balance:",
+          "- Semicircular canals contain fluid and hair cells",
+          "- Head movement causes fluid movement",
+          "- Hair cells stimulated → Impulses to brain",
+          "- Brain interprets direction and speed"
+        ],
+        "keywords": [
+          "Cochlea",
+          "Auditory nerve",
+          "Semicircular canals",
+          "Ampullae",
+          "Hair cells"
+        ],
+        "notes": "The ear detects sound through vibrations transmitted through the outer, middle, and inner ear. Balance is maintained by the semicircular canals and utricle/saccule."
+      },
+      {
+        "slide_number": 131,
+        "title": "5.2 Endocrine System - Introduction",
+        "key_points": [
+          "Endocrine system: Cells, tissues, and organs that secrete hormones",
+          "Hormones: Regulatory chemicals secreted into blood",
+          "- Carried throughout body, affect target cells with receptors",
+          "Endocrine glands: Ductless glands, secrete directly into blood",
+          "Exocrine glands: Release secretions through ducts",
+          "- Examples: Sweat glands, salivary glands, sebaceous glands",
+          "Target cells: Have specific receptors for particular hormones"
+        ],
+        "keywords": [
+          "Endocrine system",
+          "Hormones",
+          "Target cells",
+          "Endocrine glands",
+          "Exocrine glands"
+        ],
+        "notes": "The endocrine system uses hormones as chemical messengers. Hormones are secreted into the bloodstream and affect specific target cells with appropriate receptors."
+      },
+      {
+        "slide_number": 132,
+        "title": "5.2 Pituitary Gland",
+        "key_points": [
+          "Pituitary gland: 'Master gland' controls other endocrine glands",
+          "Located in brain, size of a pea",
+          "Anterior Pituitary (Adenohypophysis):",
+          "- Growth Hormone (GH): Promotes growth",
+          "- ACTH: Stimulates adrenal cortex",
+          "- TSH: Stimulates thyroid gland",
+          "- Prolactin: Stimulates milk production",
+          "- FSH and LH: Control gonads",
+          "Posterior Pituitary (Neurohypophysis):",
+          "- ADH (Vasopressin): Controls water reabsorption",
+          "- Oxytocin: Uterine contractions, milk release"
+        ],
+        "keywords": [
+          "Pituitary gland",
+          "Growth hormone",
+          "ADH",
+          "Oxytocin",
+          "Master gland"
+        ],
+        "notes": "The pituitary gland is the master controller of the endocrine system. It produces hormones that regulate other glands and has anterior and posterior lobes."
+      },
+      {
+        "slide_number": 133,
+        "title": "5.2 Thyroid and Parathyroid Glands",
+        "key_points": [
+          "Thyroid Gland: Butterfly-shaped, inferior to larynx",
+          "- Produces thyroxine (T4) and triiodothyronine (T3): Regulate metabolic rate",
+          "- Requires iodine",
+          "- Calcitonin: Lowers blood calcium",
+          "Thyroid disorders:",
+          "- Hypothyroidism: Goiter, cretinism, myxedema",
+          "- Hyperthyroidism: Graves' disease",
+          "Parathyroid Glands: Four glands on posterior thyroid",
+          "- Parathyroid Hormone (PTH): Raises blood calcium",
+          "- Hyposecretion: Tetany",
+          "- Hypersecretion: Osteitis fibrosa cystica"
+        ],
+        "keywords": [
+          "Thyroid gland",
+          "Thyroxine",
+          "Parathyroid hormone",
+          "Goiter",
+          "Calcitonin"
+        ],
+        "notes": "The thyroid and parathyroid glands regulate metabolism and blood calcium levels. Iodine deficiency can cause goiter, a common problem in some regions."
+      },
+      {
+        "slide_number": 134,
+        "title": "5.2 Adrenal Glands",
+        "key_points": [
+          "Adrenal glands: Located on top of kidneys",
+          "Adrenal Cortex (outer portion):",
+          "- Mineralocorticoids (Aldosterone): Salt and water balance",
+          "- Glucocorticoids (Cortisol): Metabolism, stress response, immune suppression",
+          "Adrenal Medulla (inner portion):",
+          "- Epinephrine (Adrenaline): Fight or flight response",
+          "- Norepinephrine: Vasoconstriction",
+          "Effects of adrenaline:",
+          "- Increases heart rate, blood pressure, blood sugar",
+          "- Dilates bronchioles, dilates pupils",
+          "- Directs blood to muscles"
+        ],
+        "keywords": [
+          "Adrenal glands",
+          "Adrenaline",
+          "Cortisol",
+          "Aldosterone",
+          "Fight or flight"
+        ],
+        "notes": "The adrenal glands have two parts: the cortex produces steroid hormones for metabolism and stress response, while the medulla produces adrenaline for emergency responses."
+      },
+      {
+        "slide_number": 135,
+        "title": "5.2 Pancreas and Blood Sugar Regulation",
+        "key_points": [
+          "Pancreas: Both exocrine (digestive) and endocrine function",
+          "Islets of Langerhans: Endocrine portion (1% of mass)",
+          "Alpha (α) cells: Secrete glucagon (raises blood glucose)",
+          "- Stimulates glycogen breakdown in liver",
+          "Beta (β) cells: Secrete insulin (lowers blood glucose)",
+          "- Promotes glucose uptake and storage as glycogen",
+          "Type 1 Diabetes: No insulin produced (autoimmune)",
+          "Type 2 Diabetes: Insulin resistance (often linked to obesity)"
+        ],
+        "keywords": [
+          "Pancreas",
+          "Insulin",
+          "Glucagon",
+          "Islets of Langerhans",
+          "Diabetes"
+        ],
+        "notes": "The pancreas regulates blood glucose through insulin and glucagon. Diabetes occurs when insulin production is insufficient or cells become resistant to insulin."
+      },
+      {
+        "slide_number": 136,
+        "title": "5.2 Gonads (Ovaries and Testes)",
+        "key_points": [
+          "Ovaries: Female gonads",
+          "- Estrogen: Female secondary sex characteristics, maturation of eggs",
+          "- Progesterone: Prepares uterus for pregnancy, regulates menstrual cycle",
+          "Testes: Male gonads",
+          "- Testosterone: Male secondary sex characteristics, sperm maturation",
+          "Puberty: Triggered by FSH and LH from pituitary",
+          "- Girls: 8-14 years, boys: 9-15 years",
+          "FSH stimulates gonads to produce sex hormones"
+        ],
+        "keywords": [
+          "Ovaries",
+          "Testes",
+          "Estrogen",
+          "Progesterone",
+          "Testosterone"
+        ],
+        "notes": "The gonads produce sex hormones that control reproductive development and function. Puberty is initiated by hormones from the pituitary gland."
+      },
+      {
+        "slide_number": 137,
+        "title": "5.2 Pineal and Thymus Glands",
+        "key_points": [
+          "Pineal Gland: Located in cerebrum",
+          "- Produces melatonin",
+          "- Regulates circadian rhythms (sleep-wake cycles)",
+          "- Melatonin secretion suppressed by bright light",
+          "- Levels increase at night",
+          "- Decreases with age (affects sleep patterns)",
+          "Thymus Gland: Located between lungs",
+          "- Diminishes with age",
+          "- Produces thymosin",
+          "- Affects production and maturation of lymphocytes",
+          "- Important for immune system development"
+        ],
+        "keywords": [
+          "Pineal gland",
+          "Melatonin",
+          "Circadian rhythms",
+          "Thymus gland",
+          "Thymosin"
+        ],
+        "notes": "The pineal gland regulates daily rhythms through melatonin. The thymus gland is important for immune system development and produces hormones for lymphocyte maturation."
+      },
+      {
+        "slide_number": 138,
+        "title": "5.3 Homeostasis - Kidney Structure",
+        "key_points": [
+          "Homeostasis: Maintenance of constant internal environment",
+          "Kidneys: Bean-shaped organs, filter blood, produce urine",
+          "Three regions:",
+          "- Cortex (outer): Contains nephrons",
+          "- Medulla (middle): Concentrates urine",
+          "- Renal pelvis: Collects urine → Ureter → Bladder",
+          "Nephron: Functional unit of kidney",
+          "- Bowman's capsule: Ultrafiltration of blood",
+          "- Glomerulus: Knot of blood vessels in Bowman's capsule"
+        ],
+        "keywords": [
+          "Homeostasis",
+          "Kidney",
+          "Nephron",
+          "Bowman's capsule",
+          "Glomerulus"
+        ],
+        "notes": "The kidneys maintain homeostasis by filtering blood, removing waste, and regulating water and salt balance. The nephron is the functional unit where filtration and reabsorption occur."
+      },
+      {
+        "slide_number": 139,
+        "title": "5.3 Kidney Function - Ultrafiltration and Reabsorption",
+        "key_points": [
+          "Ultrafiltration: Blood filtered in Bowman's capsule",
+          "- Pressure from wider afferent arteriole",
+          "- Blood cells and proteins remain in blood",
+          "- Water, salts, glucose, urea forced out",
+          "Proximal convoluted tubule:",
+          "- All glucose reabsorbed (active transport)",
+          "- 67% sodium ions, 80% water reabsorbed",
+          "Loop of Henle: Concentrates urine",
+          "Distal convoluted tubule:",
+          "- Water balance under ADH control",
+          "- Ammonium ions and drugs secreted",
+          "Collecting duct: Collects urine"
+        ],
+        "keywords": [
+          "Ultrafiltration",
+          "Reabsorption",
+          "Proximal convoluted tubule",
+          "Loop of Henle",
+          "Collecting duct"
+        ],
+        "notes": "The kidney filters blood through ultrafiltration in Bowman's capsule and selectively reabsorbs needed substances. Water balance is regulated by ADH in the distal tubule."
+      },
+      {
+        "slide_number": 140,
+        "title": "5.3 Osmoregulation",
+        "key_points": [
+          "Osmoregulation: Control of water and salt balance",
+          "ADH (Antidiuretic Hormone): Regulates water reabsorption",
+          "- Produced by hypothalamus, released by posterior pituitary",
+          "Low water (high salt concentration):",
+          "- Osmoreceptors detect → ADH released",
+          "- Kidneys more permeable → More water reabsorbed",
+          "- Small volume, concentrated urine produced",
+          "High water (low salt concentration):",
+          "- Less ADH released",
+          "- Kidneys less permeable → Less water reabsorbed",
+          "- Large volume, dilute urine produced",
+          "Example of negative feedback"
+        ],
+        "keywords": [
+          "Osmoregulation",
+          "ADH",
+          "Negative feedback",
+          "Osmoreceptors",
+          "Urine concentration"
+        ],
+        "notes": "Osmoregulation maintains water and salt balance through ADH. When water is low, more ADH is released to conserve water; when water is high, less ADH is released."
+      },
+      {
+        "slide_number": 141,
+        "title": "5.3 Thermoregulation",
+        "key_points": [
+          "Core body temperature maintained at ~37°C",
+          "Heat Loss Mechanisms (when hot):",
+          "- Sweating: Evaporation cools body",
+          "- Vasodilation: Blood vessels widen, increase heat loss",
+          "- Hairs lie flat: Reduce insulation",
+          "Heat Gain Mechanisms (when cold):",
+          "- Shivering: Muscle activity generates heat",
+          "- Vasoconstriction: Blood vessels narrow, reduce heat loss",
+          "- Hairs stand up: Trap insulating air layer",
+          "- Increased metabolic rate"
+        ],
+        "keywords": [
+          "Thermoregulation",
+          "Vasodilation",
+          "Vasoconstriction",
+          "Sweating",
+          "Shivering"
+        ],
+        "notes": "Thermoregulation maintains core body temperature through various mechanisms. The body can adjust heat loss or gain through blood flow, sweating, shivering, and hair position."
+      },
+      {
+        "slide_number": 142,
+        "title": "5.3 Chemical Regulation - Liver",
+        "key_points": [
+          "Liver: Largest internal organ (~5% of body mass)",
+          "Functions in homeostasis:",
+          "- Blood glucose regulation (stores glycogen, converts to glucose)",
+          "- Protein metabolism: Deamination of excess amino acids",
+          " Deamination: Removes amino group → ammonia → urea",
+          "- Fat and cholesterol balance",
+          "- Detoxification: Breaks down toxins (alcohol, drugs)",
+          "- Bile production: Emulsifies fats",
+          "- Breakdown of worn-out red blood cells (hemoglobin)",
+          "- Temperature control (heat generation)"
+        ],
+        "keywords": [
+          "Liver",
+          "Deamination",
+          "Glycogen",
+          "Detoxification",
+          "Bile"
+        ],
+        "notes": "The liver has numerous roles in maintaining homeostasis. It regulates blood sugar, metabolizes proteins, detoxifies substances, and produces bile for fat digestion."
+      },
+      {
+        "slide_number": 143,
+        "title": "5.3 Chemical Regulation - Respiratory Chemoreceptors",
+        "key_points": [
+          "Chemoreceptors: Monitor blood pH (CO2 levels)",
+          "Central chemoreceptors:",
+          "- Located on ventrolateral surface of medulla oblongata",
+          "- Detect changes in pH of spinal fluid",
+          "- Can be desensitized by chronic hypoxia",
+          "Peripheral chemoreceptors:",
+          "- Aortic body: Detects O2 and CO2 changes (not pH)",
+          "- Carotid body: Detects O2, CO2, and pH changes",
+          "- Do not desensitize but have less impact on respiratory rate",
+          "Response: Changes in ventilation rate to maintain O2, CO2, and H+ balance"
+        ],
+        "keywords": [
+          "Chemoreceptors",
+          "pH balance",
+          "Medulla oblongata",
+          "Carotid body",
+          "Aortic body"
+        ],
+        "notes": "Chemoreceptors monitor blood pH and CO2 levels to regulate breathing. Central chemoreceptors detect pH changes in spinal fluid, while peripheral chemoreceptors detect changes in blood."
+      },
+      {
+        "slide_number": 144,
+        "title": "Chapter 5 Summary",
+        "key_points": [
+          "Nervous system: CNS (brain, spinal cord) and PNS (somatic, autonomic)",
+          "Neurons: Structure, types (sensory, motor, interneurons)",
+          "Nerve impulse: Resting potential, action potential (depolarization, repolarization)",
+          "Synapse: Neurotransmitter transmission",
+          "Reflex arc: Rapid, automatic response",
+          "Sense organs: Skin, tongue, nose, eye, ear",
+          "Endocrine system: Glands, hormones, target cells",
+          "Major glands: Pituitary, thyroid, parathyroid, adrenal, pancreas, gonads",
+          "Homeostasis: Kidney (osmoregulation), temperature regulation, liver functions"
+        ],
+        "keywords": [
+          "Nervous system",
+          "Endocrine system",
+          "Homeostasis",
+          "Sense organs",
+          "Hormones"
+        ],
+        "notes": "Chapter 5 covers the human body systems responsible for coordination, sensation, and maintaining a constant internal environment. It emphasizes the integration of nervous and endocrine control."
+      }
+    ]
+  },
+  {
+    "chapter": "Chapter 6: Climate Change",
+    "slides": [
+      {
+        "slide_number": 145,
+        "title": "Unit 6 Overview - Climate Change",
+        "key_points": [
+          "Climate change: Global phenomenon characterized by changes in temperature, precipitation, and wind",
+          "Long-term change in the state of the atmosphere over decades or longer",
+          "Caused by both natural and anthropogenic factors",
+          "Human activities: Burning fossil fuels, deforestation, farming livestock",
+          "Increased atmospheric CO2 by more than 40% since 1970",
+          "Greenhouse gases (GHGs): Trap heat in atmosphere"
+        ],
+        "keywords": [
+          "Climate change",
+          "Anthropogenic",
+          "Greenhouse gases",
+          "CO2",
+          "Fossil fuels"
+        ],
+        "notes": "Climate change is a long-term alteration in global climate patterns, primarily driven by human activities that increase greenhouse gas concentrations in the atmosphere."
+      },
+      {
+        "slide_number": 146,
+        "title": "6.1 Causes of Climate Change - Greenhouse Effect",
+        "key_points": [
+          "Greenhouse effect: Natural process where GHGs trap some of the sun's heat",
+          "- Keeps Earth's temperature at average 14°C",
+          "- Without greenhouse effect: -18°C (too cold for life)",
+          "Major GHGs: Water vapour, CO2, Methane (CH4), Nitrous Oxide (N2O)",
+          "HFCs, PFCs, SF6: Industrial GHGs",
+          "Since Industrial Revolution: Human activities added large quantities of GHGs",
+          "- GHGs act like blanket, trapping heat",
+          "- When concentration too high: Earth's temperature rises"
+        ],
+        "keywords": [
+          "Greenhouse effect",
+          "Carbon dioxide",
+          "Methane",
+          "Nitrous oxide",
+          "Industrial Revolution"
+        ],
+        "notes": "The greenhouse effect is natural and necessary for life. Human activities have enhanced this effect by releasing large amounts of GHGs, causing global warming."
+      },
+      {
+        "slide_number": 147,
+        "title": "6.1 Sources of Greenhouse Gases",
+        "key_points": [
+          "Carbon dioxide (CO2): Major GHG, responsible for ~2/3 of warming",
+          "- Sources: Fossil fuel combustion, deforestation",
+          "Methane (CH4): More potent per molecule but less abundant",
+          "- Sources: Landfills, rice paddies, cattle/sheep digestion",
+          "Nitrous Oxide (N2O): Fertilizer, animal waste",
+          "HFCs: Semiconductor manufacturing, industrial processes",
+          "PFCs: HFCs + aluminum smelting",
+          "SF6: Electrical transmission, magnesium/aluminum production",
+          "CO2 level 2019: >40% higher than 19th century"
+        ],
+        "keywords": [
+          "Carbon dioxide",
+          "Methane",
+          "Nitrous oxide",
+          "Fossil fuels",
+          "Deforestation"
+        ],
+        "notes": "Different GHGs come from various sources. CO2 is the most significant GHG due to its abundance and long lifetime in the atmosphere."
+      },
+      {
+        "slide_number": 148,
+        "title": "6.2 Effects of Climate Change",
+        "key_points": [
+          "Direct consequences:",
+          "- Rising maximum temperatures",
+          "- Rising sea levels",
+          "- Higher ocean temperatures",
+          "- Increased heavy precipitation/shrinking glaciers",
+          "- Thawing permafrost",
+          "Indirect consequences:",
+          "- Increased hunger and water crises (especially developing countries)",
+          "- Health risks (heat waves)",
+          "- Economic crises",
+          "- Spread of pests and pathogens",
+          "- Loss of biodiversity",
+          "- Ocean acidification"
+        ],
+        "keywords": [
+          "Sea level rise",
+          "Glacier melting",
+          "Biodiversity loss",
+          "Ocean acidification",
+          "Extreme weather"
+        ],
+        "notes": "Climate change has both direct and indirect consequences affecting human health, food security, water resources, ecosystems, and the global economy."
+      },
+      {
+        "slide_number": 149,
+        "title": "6.2 Effects on Biodiversity",
+        "key_points": [
+          "Biodiversity: Provides ~40% of world's economy",
+          "- Greater food security, economic development, pharmaceuticals",
+          "Climate change affecting habitats:",
+          "- Species must adapt or migrate",
+          "- Likely to become dominant driver of biodiversity loss by end of century",
+          "Combined effects:",
+          "- Climate change + Land use change + Invasive species",
+          "- Limit migration capability → Accelerate species loss"
+        ],
+        "keywords": [
+          "Biodiversity",
+          "Habitat loss",
+          "Species extinction",
+          "Migration",
+          "Ecosystem services"
+        ],
+        "notes": "Climate change threatens biodiversity by altering habitats. Species may be unable to adapt or migrate fast enough to keep pace with changing conditions."
+      },
+      {
+        "slide_number": 150,
+        "title": "6.2 Effects on Agriculture and Forests",
+        "key_points": [
+          "Agriculture:",
+          "- Disrupts food availability, reduces access to food",
+          "- Affects food quality",
+          "- Temperature increases, precipitation changes, extreme weather",
+          "- Water availability reductions",
+          "- Results in reduced agricultural productivity",
+          "Forests:",
+          "- Alter frequency/intensity of disturbances",
+          "- Pest outbreaks, invasive species, wildfires, storms",
+          "- Reduce forest productivity",
+          "- Change distribution of tree species",
+          "- Warm temperatures + drought → Wildfires"
+        ],
+        "keywords": [
+          "Agriculture",
+          "Food security",
+          "Forest productivity",
+          "Wildfires",
+          "Drought"
+        ],
+        "notes": "Agriculture and forests are severely impacted by climate change. Food production is threatened, and forests face increased disturbances, reducing their productivity and ecological function."
+      },
+      {
+        "slide_number": 151,
+        "title": "6.2 Natural Disasters and Human Health",
+        "key_points": [
+          "Natural disasters increased by climate change:",
+          "- Floods, droughts, wildfires, hurricanes",
+          "- More water vapor → More powerful storms",
+          "Melting ice and rising seas:",
+          "- Thermal expansion + melting glaciers",
+          "- Flooding and erosion of coastal areas",
+          "Human health impacts:",
+          "- Increase in heat-related deaths",
+          "- Decrease in cold-related deaths in some regions",
+          "- Changes in spread of waterborne illnesses and disease vectors"
+        ],
+        "keywords": [
+          "Natural disasters",
+          "Flooding",
+          "Drought",
+          "Health impacts",
+          "Disease vectors"
+        ],
+        "notes": "Climate change increases the frequency and intensity of natural disasters and affects human health. Rising sea levels threaten coastal communities, and changes in disease spread affect public health."
+      },
+      {
+        "slide_number": 152,
+        "title": "6.3 International Conventions - UNFCCC and Kyoto Protocol",
+        "key_points": [
+          "UNFCCC (1992): United Nations Framework Convention on Climate Change",
+          "- International treaty: 197 Parties including Ethiopia",
+          "- Objective: Prevent dangerous man-made interference with climate system",
+          "Kyoto Protocol (1997):",
+          "- Operationalizes UNFCCC",
+          "- Legally binding for industrialized countries to reduce GHG emissions",
+          "- Target: 5% below 1990 levels by 2008-2012",
+          "- Developing countries encouraged to adopt greener growth",
+          "- Offered market mechanisms (carbon trading)"
+        ],
+        "keywords": [
+          "UNFCCC",
+          "Kyoto Protocol",
+          "Greenhouse gas reduction",
+          "Industrialized countries",
+          "Carbon trading"
+        ],
+        "notes": "The UNFCCC is the main international treaty on climate change. The Kyoto Protocol was the first legally binding agreement requiring industrialized nations to reduce GHG emissions."
+      },
+      {
+        "slide_number": 153,
+        "title": "6.3 Paris Agreement and Ethiopia's Response",
+        "key_points": [
+          "Paris Agreement (2015):",
+          "- All 195 UNFCCC countries pledged to reduce GHG emissions",
+          "- Key provisions:",
+          "  * Limit global temperature increase to well below 2°C, pursue 1.5°C",
+          "  * Increase adaptation and climate resilience",
+          "  * Make finance flows consistent with low GHG emissions",
+          "Ethiopia's Response:",
+          "- CRGE Strategy (2011): Climate Resilient Green Economy",
+          "- Green Legacy Initiative (GLI 2019): Plant 20 billion seedlings in 4 years",
+          "- GERD: Hydroelectric dam on Blue Nile, 5.15 GW capacity"
+        ],
+        "keywords": [
+          "Paris Agreement",
+          "CRGE",
+          "Green Legacy Initiative",
+          "GERD",
+          "Climate resilience"
+        ],
+        "notes": "The Paris Agreement is a landmark international accord to combat climate change. Ethiopia has responded with ambitious initiatives including the Green Legacy Initiative and GERD."
+      },
+      {
+        "slide_number": 154,
+        "title": "Chapter 6 Summary",
+        "key_points": [
+          "Climate change: Long-term transformation of Earth's climate",
+          "Caused by natural and anthropogenic factors, especially GHG emissions",
+          "Major GHGs: CO2, CH4, N2O, HFCs, PFCs, SF6",
+          "Effects: Rising temperatures, sea level rise, biodiversity loss, agriculture impacts",
+          "Natural disasters: Floods, droughts, wildfires, storms",
+          "International conventions: UNFCCC, Kyoto Protocol, Paris Agreement",
+          "Ethiopia's initiatives: CRGE, Green Legacy Initiative, GERD"
+        ],
+        "keywords": [
+          "Climate change",
+          "Greenhouse gases",
+          "Biodiversity",
+          "International conventions",
+          "Mitigation"
+        ],
+        "notes": "Chapter 6 explores climate change, its causes, effects, and international responses. It emphasizes the need for global cooperation and national initiatives to mitigate impacts."
+      }
+    ]
+  }
+]

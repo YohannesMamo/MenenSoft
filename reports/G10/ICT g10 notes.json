@@ -1,0 +1,810 @@
+{
+  "subject": "Information Technology",
+  "grade": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Organization of Files",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Unit Overview",
+          "summary": "This section provides a brief introduction to the unit. It connects the previous knowledge from Grade 9 (basic file management) to the advanced concepts that will be covered in this unit, such as file types, extensions, drivers, paths, file conversion, saving, deleting, backup, recovery, storage drives, and importing/exporting files.",
+          "detailed_notes": "The unit builds upon the foundational knowledge of files, folders, and drives learned in Grade 9. It aims to equip students with a more comprehensive understanding of file management, including how to organize files using a directory structure, understand file extensions, convert files between different formats, and implement essential practices like backup and recovery. The overview sets the stage for exploring the technical and practical aspects of managing digital information effectively.",
+          "keywords": []
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "File Management",
+          "summary": "File management is the process of organizing and keeping track of files and folders on a computer. It is essential for easy retrieval of information and efficient computer use. This section contrasts traditional paper-based filing systems with modern digital file management. It defines key concepts such as files, folders (directories), and disk drives, and discusses the importance of organizing files to control access and improve efficiency.",
+          "detailed_notes": "Before computers, data was managed using physical systems like filing cabinets, which were cumbersome and slow. In a computer, a file is the basic storage unit for programs and data. These files are organized into folders (also known as directories), which can contain other folders, creating a hierarchical structure. A disk drive is the hardware that reads, writes, and modifies data on a storage disk. File management is the act of creating this organized structure. It involves naming files and folders, creating a logical hierarchy, and controlling access, especially when multiple users are involved. Good file management ensures that information can be located quickly, efficiently, and securely.",
+          "keywords": [
+            {
+              "term": "File management",
+              "definition": "The process and act of creating an organized structure in which you store information for easy retrieval."
+            },
+            {
+              "term": "Folder (directory)",
+              "definition": "A virtual storage space used to store and organize computer files."
+            },
+            {
+              "term": "Disk drive",
+              "definition": "A technology that enables the reading, writing, deleting, and modifying of data on a computer storage disk."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Storage Drives",
+          "summary": "A computer drive is hardware used to read and store information. Each drive is assigned a unique letter (e.g., C:) to identify it. This section differentiates between physical hard drives (like HDDs) and cloud-based drives (like OneDrive and Google Drive). It also clarifies the difference between a 'drive' (the hardware) and a 'driver' (software that enables communication with the hardware).",
+          "detailed_notes": "A drive is a physical piece of hardware, such as a hard disk drive (HDD), used for persistent data storage. In Windows, drives are identified by letters (e.g., C: for the main hard drive, D: for a secondary drive, E: for a CD/DVD drive). Cloud drives are an alternative form of storage where data is stored on remote servers accessed over the Internet. It is important not to confuse a 'drive' with a 'driver'; a driver is a software component that allows the operating system to communicate with a hardware device like a drive. The C: drive typically holds the operating system and installed software, while other drives may be used for storing user data or reading media.",
+          "keywords": [
+            {
+              "term": "Computer drive",
+              "definition": "A piece of hardware that is used to read and store information on the computer and it is usually not easily removed as a disk."
+            },
+            {
+              "term": "Cloud drive",
+              "definition": "A web-based service that provides storage space on a remote server, accessed over the Internet."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "File Name Extension",
+          "summary": "A file name extension is a three- or four-letter suffix at the end of a file name, following a period. It indicates the file type and the application associated with it (e.g., .docx for Word, .jpg for images). The operating system uses extensions to determine which program should open the file. The use and length of extensions vary depending on the operating system.",
+          "detailed_notes": "File extensions are crucial for identifying file types. For example, .docx indicates a Word document, .xlsx is for Excel spreadsheets, .jpg is for image files, and .mp3 is for audio files. When a user double-clicks a file, the operating system looks up the extension and opens the associated application. Different operating systems have different rules; for instance, Windows typically uses 3-4 character extensions (e.g., .docx, .exe), while DOS used 3 characters (.doc, .xls). Unix-based systems often make extensions optional, relying on other metadata.",
+          "keywords": [
+            {
+              "term": "Operating system (OS)",
+              "definition": "A program that manages a computer's resources, especially the allocation of those resources among other programs. Typical resources include the central processing unit (CPU), computer memory, file storage, input/output (I/O) devices, and network connections."
+            },
+            {
+              "term": "Filename extension",
+              "definition": "A suffix added to the name of a computer file to indicate the encoding convention or file format of its contents."
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "File Directory Structure",
+          "summary": "The directory structure is how an operating system organizes files, typically in a hierarchical tree. The top-level folder is the root directory. A path is the address to a file, specifying the route through folders. There are two types of paths: absolute (starting from the root) and relative (starting from the current working directory).",
+          "detailed_notes": "Files are organized in a tree-like structure with a root directory at the top. A directory (or folder) can contain subdirectories, creating a hierarchy. To find a file, one follows a path. An absolute pathname gives the full location from the root directory (e.g., C:/Users/Sarah/Music/Click.mp3). A relative pathname gives the location relative to the current directory (e.g., if in C:/Users/Sarah, the relative path to the file is 'Music/Click.mp3'). This system allows for multiple files with the same name as long as they are in different directories, as their absolute paths are unique.",
+          "keywords": [
+            {
+              "term": "Directory structure",
+              "definition": "The way an operating system shows its system and other types of files to the computer user."
+            },
+            {
+              "term": "Path",
+              "definition": "A list beginning with a drive letter that tells which folders or files to open."
+            },
+            {
+              "term": "Absolute pathname",
+              "definition": "The path given from the root directory to the file."
+            },
+            {
+              "term": "Relative pathname",
+              "definition": "The path referenced relative to the current directory."
+            }
+          ]
+        },
+        {
+          "section_number": "1.6",
+          "section_title": "File Conversion",
+          "summary": "File conversion is the process of changing a file from one format to another (e.g., .doc to .pdf). This is necessary when a file created in one application needs to be used in another. A file converter is software that facilitates this process.",
+          "detailed_notes": "There are many different file formats for documents, images, and other data. If you create a file in one program, you might need to use it in another program that doesn't support the original format. File conversion allows you to change the file's format. For example, you can convert a Microsoft Word document (.docx) to a PDF (.pdf) for easier sharing and viewing. This process is typically done using a file converter, which can be a standalone program or a feature within another application.",
+          "keywords": [
+            {
+              "term": "File conversion",
+              "definition": "The process of taking a file of one format and changing it into another."
+            },
+            {
+              "term": "File converter",
+              "definition": "The software that converts a document from one file type to another."
+            }
+          ]
+        },
+        {
+          "section_number": "1.7",
+          "section_title": "File Importing and Exporting",
+          "summary": "File importing is the process of bringing data from an external file into a program (e.g., importing a CSV file into Excel). File exporting is the opposite, where data is taken from a program and saved to a file (e.g., exporting a Word document as a PDF).",
+          "detailed_notes": "Import and Export are common file operations. Importing involves taking a file created elsewhere and opening it within a specific application. For instance, you might import a Comma-Separated Values (CSV) file into a spreadsheet program. Exporting is the process of saving data from an application into a different file format. For example, you can export notes from OneNote as a Word (.doc) file. While 'Save As' can also change a file's format, the terms 'import' and 'export' are often used to emphasize moving data between different applications or systems.",
+          "keywords": [
+            {
+              "term": "File import",
+              "definition": "The process of moving a file or data used in one program to another. When you import a file, you are bringing in information from a file into a program."
+            },
+            {
+              "term": "File export",
+              "definition": "The process of moving information from a program into a file. When you are exporting, you are taking information from a program and putting it into a file."
+            }
+          ]
+        },
+        {
+          "section_number": "1.8",
+          "section_title": "Saving and Opening Files",
+          "summary": "Files can be saved in different formats, usually by using the 'Save As' command and selecting a different file type from a list. When opening a file, it will typically open in its default associated program, but you can often choose to open it with a different program.",
+          "detailed_notes": "To save a file in a different format, you use the 'Save As' or 'Export' option in most programs. This allows you to choose the desired file type from a drop-down menu. Be aware that converting a file this way may result in loss of some features or formatting, so it's a good practice to keep the original version. Conversely, when opening a file, the operating system will usually launch the default application associated with its file extension. However, you can often right-click a file and select 'Open with' to choose a different program.",
+          "keywords": []
+        },
+        {
+          "section_number": "1.9",
+          "section_title": "File Backup and Recovery",
+          "summary": "Backup is the process of creating copies of important data to protect against loss. Recovery is the process of restoring this backed-up data to its original or a new location. This is a critical process for preventing data loss from hardware failure, software corruption, or malicious attacks.",
+          "detailed_notes": "Backup and recovery are essential for data protection. A backup is a digital copy of important information, stored separately from the original data (e.g., on an external drive or the cloud). The purpose of a backup is to have a way to recover data in case of a primary data failure, which could be caused by hardware or software issues, data corruption, human error, or a cyberattack. Recovery, also known as restoring, is the process of copying this backup data from its secondary storage location and bringing it back into use.",
+          "keywords": [
+            {
+              "term": "Backup and recovery",
+              "definition": "The process of creating and storing copies of data that can be used to protect individuals and organizations against data loss."
+            },
+            {
+              "term": "Restoring",
+              "definition": "The process of copying backed-up data from a secondary location and returning it to its original or a new device."
+            }
+          ]
+        },
+        {
+          "section_number": "1.10",
+          "section_title": "File Compression",
+          "summary": "File compression, also known as zipping, reduces the logical size of a file or folder to save disk space and make it faster to transmit over a network. Compressed files are archived in a format like .zip or .rar and can be extracted or unzipped to restore the original files.",
+          "detailed_notes": "File compression makes files smaller. This is useful for saving storage space and for speeding up the transfer of files over the internet or a network. In Windows, you can compress a file or folder by right-clicking it, selecting 'Send to', and choosing 'Compressed (zipped) folder'. This creates a new folder with the same name, containing the compressed data. To use the files again, you need to 'unzip' or 'extract' them by right-clicking the zipped folder and selecting 'Extract All'. Common compression tools include WinRAR, WinZip, and 7zip.",
+          "keywords": []
+        },
+        {
+          "section_number": "1.11",
+          "section_title": "Deleting a File",
+          "summary": "File deletion is the removal of a file from the file system. In Windows, files are temporarily moved to the Recycle Bin, allowing for easy recovery. Deleting a file frees up disk space, removes duplication, or eliminates sensitive information. Files can also be permanently deleted by holding the Shift key while pressing Delete.",
+          "detailed_notes": "Deleting a file removes it from its original location. In Windows, when you delete a file (by right-clicking and selecting 'Delete' or pressing the Delete key), it is not immediately erased from the hard drive. Instead, it is sent to the Recycle Bin, a temporary storage space. This is a safety net that allows users to recover files if they were deleted by mistake. To permanently delete a file without sending it to the Recycle Bin, you can select the file and press Shift + Delete. This should be used with caution as the file is not easily recoverable.",
+          "keywords": []
+        },
+        {
+          "section_number": "1.12",
+          "section_title": "Restoring Deleted File",
+          "summary": "Data restoration is the process of recovering deleted files. Files that have been sent to the Recycle Bin can be easily restored to their original location. However, files are unrecoverable if they have been permanently deleted (Shift + Delete) or if the Recycle Bin has been emptied.",
+          "detailed_notes": "Restoring a deleted file is the process of recovering it. If a file was sent to the Recycle Bin, you can simply open the Recycle Bin, right-click the file, and select 'Restore' to return it to its original location. This will make the file disappear from the Recycle Bin. However, this is only possible if the file has not been permanently deleted. If the user used Shift + Delete, or if the Recycle Bin has been emptied, the files are permanently removed and typically cannot be restored using standard operating system tools.",
+          "keywords": [
+            {
+              "term": "Data restore",
+              "definition": "The process of copying backup data from secondary storage and reinstating it to its original or a new location. Restoration is performed to return data that has been lost, stolen, or damaged to its original condition or to move data to a new location."
+            }
+          ]
+        },
+        {
+          "section_number": "1.13",
+          "section_title": "Unit Summary",
+          "summary": "This section provides a recap of the entire unit on file organization. It summarizes concepts like files, folders, extensions, directory structures, file paths (absolute and relative), file conversion, importing/exporting, backup/recovery, compression, and deletion/restoration. It reinforces the importance of these concepts in managing computer data efficiently and safely.",
+          "detailed_notes": "The summary revisits the core concepts: a file is a basic storage unit, a folder organizes files, and extensions identify file types. The importance of the file system structure and paths for locating files is highlighted. File operations like conversion, import, export, saving, opening, backup, recovery, compression, deletion, and restoration are all essential aspects of file management. The summary emphasizes that effective file management is key to data organization, protection, and efficient computer use.",
+          "keywords": []
+        },
+        {
+          "section_number": "1.14",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section contains a series of questions and exercises designed to assess the student's understanding of the unit. The review includes true/false statements, multiple-choice questions, and discussion questions covering all the topics from the unit.",
+          "detailed_notes": "The review exercise is structured into three parts. Part I consists of true or false statements to test basic comprehension of concepts. Part II includes multiple-choice questions that require a deeper understanding of file management terms and functions. Part III contains discussion questions that require students to explain concepts in detail, solve practical problems based on directory structures, and demonstrate their ability to apply the knowledge learned in the unit.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Computer Network",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Unit Overview",
+          "summary": "This section recaps the definition of a computer network (interconnection of devices for communication) and its fundamental components (devices, media, messages, protocols) from Grade 9. It introduces the topics to be covered in this unit, which include transmission media, telecommunications, mobile and cellular communications, satellite networks, data communication, and Internet protocols.",
+          "detailed_notes": "The unit aims to deepen students' understanding of networking. It begins by establishing the core concept of a network and its components. The unit will then explore the various physical pathways (transmission media) that data travels on. It will delve into the broader context of telecommunications, including mobile and satellite technologies, and will conclude with a focus on the rules and addressing systems (Internet Protocols) that govern how data is transmitted across networks.",
+          "keywords": []
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Network Media (Transmission Media)",
+          "summary": "Transmission media are the physical pathways (wired) or space (wireless) through which data is sent from one location to another. Guided media include cables like twisted-pair, coaxial, and fiber-optic. Unguided media include radio waves, microwaves, and infrared. Each type has different characteristics, such as bandwidth, distance, and cost.",
+          "detailed_notes": "The transmission medium is crucial for data communication. Guided media provide a physical conduit, including twisted-pair cable (UTP and STP), coaxial cable, and fiber-optic cable. UTP is common for Ethernet networks, using RJ45 connectors. Coaxial cable has a central conductor and shield, ideal for television signals. Fiber-optic uses light pulses for high-speed, long-distance transmission. Unguided media (wireless) transmit through free space, using radio waves (omnidirectional), microwaves (unidirectional), and infrared (short-range). Each type is suited to different applications based on factors like distance, speed, and interference.",
+          "keywords": [
+            {
+              "term": "Signal",
+              "definition": "An electric or electromagnetic form of data that passes over transmission media."
+            },
+            {
+              "term": "Wire",
+              "definition": "A long thin piece of metal that is used to fasten things or to carry electric current."
+            },
+            {
+              "term": "RJ45",
+              "definition": "Stands for Registered Jack 45, a common connector for UTP cables."
+            },
+            {
+              "term": "Electromagnetic (EM) waves",
+              "definition": "Waves that are created as a result of vibrations between electric and magnetic fields."
+            },
+            {
+              "term": "RF (Radiofrequency)",
+              "definition": "Any frequency within the electromagnetic spectrum associated with radio wave propagation."
+            },
+            {
+              "term": "Ethernet",
+              "definition": "The traditional technology for connecting devices in a wired local area network (LAN) or wide area network (WAN)."
+            },
+            {
+              "term": "Unshielded twisted-pair (UTP)",
+              "definition": "A ubiquitous type of copper cabling used in telephone wiring and local area networks (LANs)."
+            },
+            {
+              "term": "Coax (Coaxial)",
+              "definition": "A type of cable used to transmit data, the internet, video, and voice communications."
+            },
+            {
+              "term": "Omnidirectional antenna",
+              "definition": "A wireless transmitting or receiving antenna that radiates or intercepts radio-frequency (RF) electromagnetic fields equally well in all horizontal directions in a flat, two-dimensional (2D) geometric plane."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Telecommunications Network",
+          "summary": "Telecommunications refers to long-distance communication (voice, data, etc.) over networks. A telecommunications system is a collection of hardware, software, media, networks, and protocols. It uses signals (analog or digital) and components like modems to convert between these signal types. It is crucial for business and everyday life.",
+          "detailed_notes": "Telecommunications involves the transfer of various types of information (voice, data, text, images, video) over long distances. A typical telecommunications system comprises hardware, communications media, networks, processors, software, providers, protocols, and applications. The system can transmit both analog signals (continuous waves, like sound) and digital signals (discrete pulses, 1s and 0s). A modem is a key device that modulates digital signals to analog for transmission over phone lines and demodulates them back to digital on the receiving end. Telecommunications is vital for modern business, education, and personal communication, enabling rapid information exchange globally.",
+          "keywords": [
+            {
+              "term": "Telecommunications",
+              "definition": "All types of long-distance communication that use common carriers, telephone, radio, and television for the exchange of information in any form over networks."
+            },
+            {
+              "term": "Telecommunications system",
+              "definition": "A collection of compatible hardware and software arranged to communicate information from one location to another."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Mobile Communications",
+          "summary": "Mobile communication allows users to communicate without physical connections. It includes technologies like Bluetooth (short-range) and Wireless LANs (WLANs or Wi-Fi) that enable devices to connect to a network without wires, providing mobility and flexibility.",
+          "detailed_notes": "Mobile communications is a broad term encompassing technologies that enable wireless connectivity. Bluetooth is a short-range technology used to replace cables between devices, like connecting a headset to a phone, operating at 2.4 GHz. A Wireless Local Area Network (WLAN), often using Wi-Fi (IEEE 802.11 standard), allows devices to connect to a network without physical cables. An Access Point (AP) is needed to bridge the wireless network to the wired network. WLANs offer flexibility and mobility, allowing users to move within a coverage area while maintaining a network connection.",
+          "keywords": [
+            {
+              "term": "Mobility",
+              "definition": "The ability to move freely."
+            },
+            {
+              "term": "Bluetooth",
+              "definition": "A wireless technology that uses a radio frequency to share data over a short distance, eliminating the need for wires."
+            },
+            {
+              "term": "RF (Radio Frequency) energy",
+              "definition": "Electromagnetic fields, radio waves, microwaves, and wireless signals are referred to as radio frequency (RF) energy."
+            },
+            {
+              "term": "Wireless local area network (WLAN)",
+              "definition": "A term used to refer to wireless digital signals to connect computers and other devices."
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Cellular Networks",
+          "summary": "A cellular network divides a service area into small regions called cells, each served by a base station. A Mobile Switching Center (MSC) coordinates communication among base stations. The network has evolved through generations (1G to 5G), with each generation offering higher data speeds and more capabilities.",
+          "detailed_notes": "Cellular networks provide mobile communication by dividing geographic areas into 'cells', each with its own base station and antenna. A Mobile Switching Center (MSC) coordinates all the base stations, managing calls and billing. The network is designed to seamlessly hand off a call from one base station to another as the user moves. The generations include 1G (analog), 2G (digital), 3G (mobile broadband), and 4G (high-speed broadband). 4G, including LTE, offers data rates up to 100 Mbps for mobile users. 5G is the latest standard, promising even higher speeds, ultra-low latency, and massive connectivity.",
+          "keywords": [
+            {
+              "term": "Cellular network",
+              "definition": "A network technology that facilitates mobile device communication over areas comprised of cells and transceivers, also known as base stations or cell sites."
+            },
+            {
+              "term": "Base station",
+              "definition": "A fixed transceiver that is the main communication point for one or more wireless mobile client devices."
+            },
+            {
+              "term": "Cell",
+              "definition": "A small geographic unit in a cellular system."
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Satellite Networks",
+          "summary": "A satellite network uses satellites orbiting the Earth to provide communication between points on the ground. It consists of satellites, earth stations, and transponders. Satellites can be in Geostationary (GEO), Medium-Earth (MEO), or Low-Earth (LEO) orbits, each with different characteristics. The section also covers data communication basics and transmission modes.",
+          "detailed_notes": "Satellite networks are vital for global communication. A transponder on a satellite receives signals from an earth station (uplink) and retransmits them back to another earth station (downlink). The type of orbit defines the satellite's function: GEO satellites are stationary above the equator, providing continuous coverage for a large area; MEO and LEO satellites orbit closer to Earth, reducing latency and requiring more satellites for global coverage. This section also introduces data communication, a subset of telecommunications. The effectiveness of a data communication system depends on delivery, accuracy, timeliness, and jitter. Data can be transmitted in three modes: Simplex (one-way), Half-Duplex (two-way but not simultaneous), and Full-Duplex (simultaneous two-way).",
+          "keywords": [
+            {
+              "term": "Satellite",
+              "definition": "A self-contained communication system with the ability to receive signals from Earth and to retransmit those signals back with the use of a transponder - an integrated receiver and transmitter of radio signals."
+            },
+            {
+              "term": "Satellite network",
+              "definition": "The orientation of various elements that establish communication through various nodes from one point of the earth to another."
+            },
+            {
+              "term": "Orbit",
+              "definition": "A regular, repeating path that one object in space takes around another one."
+            }
+          ]
+        },
+        {
+          "section_number": "2.7",
+          "section_title": "Internet Protocol",
+          "summary": "The Internet Protocol (IP) is the set of rules that governs how data is sent over the internet. An IP address is a unique numerical identifier assigned to every device on a network. IP addresses are available in two versions: IPv4 (32-bit, written as four decimal numbers) and IPv6 (128-bit). IPv4 addresses are divided into classes (A, B, C, D, E) based on network size. A network mask is used to distinguish the network portion of the address from the host portion.",
+          "detailed_notes": "IP is the fundamental protocol for internetworking. Every device on a network needs a unique IP address to communicate. IPv4 addresses are 32-bit numbers, typically written in dotted decimal notation (e.g., 192.0.2.146). IPv6 was developed to overcome the address shortage of IPv4. IP addresses are categorized into classes (A, B, C, D, E) which define the default network and host portions. Class A, B, and C are used for host addresses. A network mask (or subnet mask) is used to identify which part of the IP address is the network address and which part is the host address, allowing routers to direct traffic efficiently. For example, a Class C address has a default mask of 255.255.255.0.",
+          "keywords": [
+            {
+              "term": "IP address",
+              "definition": "A unique address that identifies a device on the internet or a local network."
+            },
+            {
+              "term": "Netmask (Network mask)",
+              "definition": "A shorthand for referring to ranges of consecutive IP addresses in the Internet Protocol, used for defining networking rules."
+            }
+          ]
+        },
+        {
+          "section_number": "2.8",
+          "section_title": "Unit Summary",
+          "summary": "This section summarizes the entire unit on computer networks. It reviews the classification of transmission media (guided and unguided), the characteristics of different cables (twisted-pair, coaxial, fiber-optic), wireless technologies (Bluetooth, WLAN), cellular networks (1G-5G), satellite networks, and the fundamental role of IP addresses in networking.",
+          "detailed_notes": "The summary encapsulates the key takeaways from the unit. It reiterates that the transmission medium can be anything that carries information. It distinguishes between guided media (cables) and unguided media (wireless). It highlights the rapid growth of wireless technologies and their importance. It defines telecommunications as the electronic transmission of information over distances and explains the components of a data communication system. Finally, it restates the critical function of IP addresses as unique identifiers for devices on any network.",
+          "keywords": []
+        },
+        {
+          "section_number": "2.9",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section provides a comprehensive review of the unit. It includes true/false questions to test knowledge of key facts, multiple-choice questions to assess understanding of concepts, and discussion questions that require critical thinking and explanation of networking principles, media types, and protocols.",
+          "detailed_notes": "The review exercise is designed to evaluate a student's grasp of computer networking concepts. Part I with true/false statements tests basic recall of facts about media, signals, and network functions. Part II uses multiple-choice questions to assess understanding of specific topics, such as the properties of different cables, wireless communication uses, and network architectures. Part III requires short answer and descriptive answers, asking students to define terms, differentiate between concepts, and explain the role of various network components like access points, base stations, and different types of orbits.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Application Software",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Unit Overview",
+          "summary": "This section provides an overview of the unit, which covers advanced topics in three key application software areas: Word Processing (creating tables, inserting pictures, formatting page numbers), Spreadsheets (formulas, functions, data management, charts, cell formatting), and PowerPoint Presentations (animations, transitions, slide master).",
+          "detailed_notes": "Building on Grade 9 knowledge, this unit delves into more advanced features of Microsoft Office applications. In Word, students will learn to create and format tables, insert and manipulate various graphics, and control page numbering. In Excel, the focus is on performing calculations using formulas and functions, managing and analyzing data through sorting and filtering, visualizing data with charts, and applying professional formatting. In PowerPoint, students will learn to enhance presentations with animations and transitions, and to use the slide master for consistent design and layout.",
+          "keywords": []
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Word Processing",
+          "summary": "This section focuses on Microsoft Word, covering creating tables via various methods (dragging, dialog box, drawing, quick tables), formatting tables (applying styles, resizing rows/columns, inserting/deleting rows/columns), inserting pictures and other graphics (clip art, shapes, screenshots), and formatting page numbers. These features are essential for creating professional and well-organized documents.",
+          "detailed_notes": "This is a comprehensive section on Microsoft Word. Creating a table can be done in four ways: dragging to select rows/columns, using the Insert Table dialog box for precise control, using the Draw Table tool for custom layouts, and using Quick Tables for pre-formatted templates. Formatting a table involves applying pre-designed styles to improve its appearance, and manually adjusting row height and column width. Rows and columns can be inserted or deleted using the insert control feature or right-click menus. Word allows insertion of various illustrations, including pictures from files, screenshots, and clip art, to enhance a document. Shapes can also be added and customized. The section also explains how to insert and customize page numbers, placing them in headers, footers, or margins.",
+          "keywords": [
+            {
+              "term": "Microsoft Word",
+              "definition": "A word processing application that allows you to create a variety of documents including letters and resumes."
+            },
+            {
+              "term": "Table",
+              "definition": "An arrangement of data made up of horizontal rows and vertical columns."
+            },
+            {
+              "term": "Cell",
+              "definition": "The intersection of a row and column in a table."
+            },
+            {
+              "term": "Quick Tables",
+              "definition": "Built-in preformatted tables such as calendars and tabular lists which you can insert and use in your documents."
+            },
+            {
+              "term": "Clip Art",
+              "definition": "Pre-defined images available for use in documents."
+            },
+            {
+              "term": "Picture tools format tab",
+              "definition": "Appears whenever you insert a picture into a document or select an existing picture within the document."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Spreadsheet",
+          "summary": "This section covers advanced spreadsheet topics using Microsoft Excel. It explains formulas and the order of operations, introduces functions (SUM, AVERAGE, etc.), and shows how to work with data by freezing panes, splitting sheets, sorting, and filtering. It also covers creating and customizing charts and applying various formatting effects to cells (font, alignment, borders, fill colors, cell styles).",
+          "detailed_notes": "This section explores the powerful capabilities of Excel. It differentiates between a formula (a user-defined calculation) and a function (a pre-built formula). It stresses the importance of the order of operations (parentheses, exponents, multiplication/division, addition/subtraction) when writing complex formulas. Working with data includes techniques like freezing rows/columns for easy viewing while scrolling, and using the Split command to compare different parts of a worksheet. Sorting organizes data alphabetically or numerically, while filtering narrows down data to show only specific information. Charts are a key tool for visualizing data, and the section covers how to create various chart types (bar, pie, line) and customize their layout and style. Finally, it details cell formatting options, including changing fonts, colors, alignment, adding borders, fill colors, and using pre-defined cell styles.",
+          "keywords": [
+            {
+              "term": "Spreadsheet",
+              "definition": "A computer application for the organization, analysis, and storage of data in tabular form."
+            },
+            {
+              "term": "Worksheet",
+              "definition": "The table of data (text and numbers) displayed in a spreadsheet program."
+            },
+            {
+              "term": "Formula",
+              "definition": "A mathematical expression used in a spreadsheet to perform calculations, always beginning with an equal sign (=)."
+            },
+            {
+              "term": "Function",
+              "definition": "A predefined formula that performs calculations using specific values in a particular order."
+            },
+            {
+              "term": "Chart",
+              "definition": "A powerful tool that allows you to visually display data in a variety of different chart formats."
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "PowerPoint Presentation",
+          "summary": "This section covers advanced PowerPoint features, focusing on using animations and transitions to enhance presentations. It explains the difference between slide transitions (effects between slides) and animations (effects on elements within a slide). It also introduces the Slide Master, a powerful tool for managing a consistent look and feel across the entire presentation.",
+          "detailed_notes": "PowerPoint is used to create visual presentations. This section explains how to use animation features to make presentations more dynamic and engaging. Slide transitions are animated effects that occur when moving from one slide to the next, while animations apply to individual items on a slide (e.g., bullet points appearing one by one). The section emphasizes that overusing different animation effects can be distracting. A key feature is the Slide Master, which is the top slide in a hierarchy. Changes made to the Slide Master (like adding a logo, setting fonts, and background styles) are applied to all slides in the presentation, ensuring a professional and consistent layout.",
+          "keywords": [
+            {
+              "term": "PowerPoint (ppt)",
+              "definition": "A graphical presentation program used to organize and present information."
+            },
+            {
+              "term": "Transitions",
+              "definition": "Animated effects that occur when you move from one slide to another."
+            },
+            {
+              "term": "Slide master",
+              "definition": "A top slide in a hierarchy of slides that stores information about the theme and slide layouts of a presentation."
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Unit Summary",
+          "summary": "This summary recaps the key learning points from the entire unit on application software. It covers the advanced features of Word, Excel, and PowerPoint. It emphasizes the importance of these tools for creating and organizing professional documents, performing data analysis, and delivering effective presentations.",
+          "detailed_notes": "The summary consolidates the key concepts of the unit. It reiterates that Word processing involves creating, editing, and formatting documents, and highlights the specific features covered (tables, formatting). For spreadsheets, it reinforces the difference between formulas and functions, and highlights data management and visualization tools. For PowerPoint, it underscores the use of transitions and animations, and the crucial role of the Slide Master for creating uniform presentations.",
+          "keywords": []
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section includes a set of questions to test understanding of the unit. It features true/false questions, multiple-choice questions, and practical exercises to assess the student's ability to apply the software skills learned.",
+          "detailed_notes": "The review exercise is designed to evaluate proficiency in application software. Part I contains true/false statements that test knowledge of software functions and definitions. Part II uses multiple-choice questions to assess understanding of specific features in Word, Excel, and PowerPoint. Part III contains practical tasks and discussion questions that require students to demonstrate their ability to perform actions like creating tables, using formulas and functions, creating charts, and applying slide masters.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Image Processing and Multimedia",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Unit Overview",
+          "summary": "This section provides an overview of the unit, which builds upon Grade 9 knowledge of image processing. It introduces the core concepts of multimedia, its components, file formats, production, authoring tools, and editing techniques, including computer animation.",
+          "detailed_notes": "The unit expands the scope from image processing to the broader field of multimedia. It will cover the basics of multimedia, including its definition and components (text, audio, graphics, video, animation). Students will learn about different multimedia file formats and the multimedia production process. The unit will then explore multimedia authoring and its tools, followed by an in-depth look at multimedia editing, including working with text, images, and digital movies. Finally, it touches upon computer animation.",
+          "keywords": []
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Basics of Multimedia",
+          "summary": "Multimedia is the interactive combination of text, audio, video, graphics, and animation to present information. It is important in many areas, including education (virtual learning), entertainment, public places, collaboration (virtual meetings), and healthcare (telemedicine, virtual surgery). The five main components are text, graphics, audio, video, and animation.",
+          "detailed_notes": "Multimedia combines multiple forms of content to create a powerful and engaging experience. Its importance spans various fields: in education, it enhances learning through virtual learning and interactive programs; in entertainment, it provides diverse media on demand; in public spaces, it is used in interactive kiosks; in collaboration, it enables virtual meetings; and in healthcare, it facilitates telemedicine and virtual surgery. Each component serves a specific purpose. Text provides core information, graphics clarify concepts, audio adds sound effects and music, video shows moving images, and animation brings graphics to life. A multimedia computer system requires specific hardware (CPU, RAM, monitor, video/sound cards, CD-ROM) and software.",
+          "keywords": [
+            {
+              "term": "2D animation",
+              "definition": "The art of creating movement in a two-dimensional space."
+            },
+            {
+              "term": "3D animation",
+              "definition": "Describes animating objects that appear in a three-dimensional space. They can be rotated and moved like real objects."
+            },
+            {
+              "term": "Virtual reality (VR)",
+              "definition": "A special kind of graphical user interface that presents a computer-generated immersive, three-dimensional, interactive environment."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Multimedia File Formats",
+          "summary": "A file format is the structure for storing or encoding data. Multimedia file formats are categorized by type: sound (WAV, MIDI, WMA), image (TIFF, JPEG, GIF, PNG, BMP), and video (AVI, MPEG).",
+          "detailed_notes": "Different types of multimedia content are stored in specific file formats. Sound files include WAV (standard Windows format), MIDI (for musical instruments), and WMA (Windows Media Audio). Image formats include TIFF (high-quality raster image), JPEG (common for photographs), GIF (supports animation and transparency), PNG (supports transparency), and BMP (standard Windows bitmap). Video formats include AVI (a standard multimedia container format) and MPEG (standard for digital video compression). Each format has its own strengths and is suitable for different purposes.",
+          "keywords": []
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Multimedia Production",
+          "summary": "Multimedia production is the process of creating a story or presentation using imagery, text, audio, and graphics. It is a complex process involving a team of specialists, including a production manager, content specialist, scriptwriter, text editor, multimedia architect, computer graphic artist, audio/video specialist, and computer programmer.",
+          "detailed_notes": "Multimedia production is a collaborative effort that begins with gathering content and ends with the integration of all elements into a cohesive presentation. The team's roles are well-defined: the production manager oversees the entire project, the content specialist researches the subject matter, the scriptwriter envisions the 3D environment, the text editor refines text, the multimedia architect integrates all multimedia elements, the graphic artist creates visual elements, the audio/video specialist records and edits sound and video, and the programmer writes code.",
+          "keywords": [
+            {
+              "term": "Multimedia production",
+              "definition": "Any sort of production that uses imagery and a combination of text, audio, and graphics to tell a story."
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Multimedia Authoring and Authoring Tools",
+          "summary": "Multimedia authoring is the process of assembling different media types into a single, interactive presentation using authoring tools. Tools like Macromedia Flash allow users to create multimedia projects by combining graphic, text, and animation elements. The process involves stages of analysis, design, development, evaluation, and distribution.",
+          "detailed_notes": "Authoring is the process of creating interactive multimedia applications. The fundamental stages are analysis (defining the project), design (creating a storyboard), development (building a prototype), evaluation (testing and refining), and distribution (packaging and releasing). Authoring tools like Macromedia Flash provide an integrated environment for this task. In Flash, users work with a timeline, layers, and a toolbox to create and manipulate elements. Projects can be as simple as drawing a shape and filling it with color, or as complex as creating an animation by moving objects across frames. Icons are the graphical elements (text, images, sound) that make up a multimedia project.",
+          "keywords": [
+            {
+              "term": "Multimedia authoring",
+              "definition": "The process of assembling different types of media contents like text, audio, image, animations, and video as a single stream of information with the help of various software tools available in the market."
+            },
+            {
+              "term": "Multimedia authoring tools",
+              "definition": "Give an integrated environment for joining different elements of a multimedia production together."
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "Multimedia Editing",
+          "summary": "Multimedia editing involves the creation and manipulation of digital audio-visual files. This includes inserting, editing, and formatting text, working with images and graphics, adding page transitions, and using motion icons. The section also covers working with sound and digital movies, including importing, changing playback speed, and turning sound off. It concludes with an overview of film editing, including trimming clips and changing speed/duration.",
+          "detailed_notes": "This practical section focuses on using software to edit multimedia. Text can be inserted and formatted using the properties tool panel in tools like Flash. Images can be imported or pasted, and then transformed using tools like Free Transform. Adobe Premiere Elements is introduced as a tool for editing digital movies. Transitions are effects applied between video clips. Motion icons in Flash are used to animate objects by following a guide layer. The process of creating a motion tween involves creating a graphic symbol, adding a motion guide, and then setting keyframes for the object to follow the path. For audio, sound files can be imported and their playback speed adjusted. Film editing basics include trimming video clips to remove unwanted parts and changing the speed and duration of a clip to create slow-motion or fast-motion effects. Freezing a frame captures a single image from a video clip. The section concludes by differentiating multimedia from hypermedia.",
+          "keywords": [
+            {
+              "term": "Multimedia authoring",
+              "definition": "Involves collating, structuring, and presenting information in the form of digital multimedia, which can incorporate text, audio, and still and moving images."
+            },
+            {
+              "term": "Multimedia authoring tools",
+              "definition": "Tools that are used for creating various types of multimedia applications."
+            },
+            {
+              "term": "Display icons",
+              "definition": "Icons that display some images or graphics."
+            },
+            {
+              "term": "Wait icon",
+              "definition": "Provides a way to pause or delay any onscreen action. Delay can be a set time interval or may require a mouse click to continue."
+            },
+            {
+              "term": "Multimedia library",
+              "definition": "Contains visual and audio elements (icons) required for developing new multimedia content."
+            }
+          ]
+        },
+        {
+          "section_number": "4.7",
+          "section_title": "Unit Summary",
+          "summary": "This summary recaps the unit on Image Processing and Multimedia. It restates the definition and importance of multimedia, the process of multimedia authoring and the tools involved, the various file formats, the concept of multimedia editing, and the definition and importance of computer animation.",
+          "detailed_notes": "The summary highlights the multifaceted nature of multimedia. It reiterates that multimedia is an engaging and interactive way to present information. The process of authoring involves collating and structuring various media types into a final application. Authoring tools make this easier by providing a framework for linking and editing elements. The summary also mentions the prevalence of multimedia in education, training, marketing, and entertainment. Finally, it defines computer animation as the art of creating moving images using computers.",
+          "keywords": []
+        },
+        {
+          "section_number": "4.8",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section provides a review of the unit through true/false, multiple-choice, and discussion questions. It covers all major topics, including the definition and components of multimedia, authoring stages and tools, file formats, and the role of multimedia editing and animation.",
+          "detailed_notes": "The review exercise tests comprehension of multimedia concepts. Part I contains true/false statements on the components and definitions of multimedia. Part II uses multiple-choice questions to assess knowledge of specific terms, tools, and applications. Part III includes discussion questions that require students to define key terms, explain processes like multimedia authoring and editing, and identify screen elements in a software environment like Macromedia Flash.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Information and Computer Security",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Unit Overview",
+          "summary": "This section builds upon Grade 9 knowledge of information security. It introduces advanced concepts such as the definition of information and computer security, their impact on society, privacy and security issues, threat prevention strategies (technical and non-technical), and the broader field of cybersecurity.",
+          "detailed_notes": "The unit expands the understanding of security risks associated with using computers and networks. It will cover the importance of information security, the various types of threats, and the impact of security breaches on individuals and society. Students will learn about the core concepts of privacy, data security, and the tools and strategies used to prevent and mitigate threats. Finally, the unit introduces the field of cyber security, encompassing technologies and practices to protect systems and data from cyber-attacks.",
+          "keywords": []
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Information and Computer Security",
+          "summary": "Information security (InfoSec) is the practice of defending information from unauthorized access or destruction. Computer security (cyber security) is the application of these principles to computing devices and networks. The primary goals of security are to protect hardware, software, and information from theft, damage, or disruption.",
+          "detailed_notes": "Security is a critical aspect of information technology. Information security, or InfoSec, is the overarching practice of protecting data in all its forms. Computer security (often called cyber security) is the practical application of InfoSec principles specifically to computers, smartphones, networks, and the Internet. The core reasons for securing IT facilities are to prevent theft or damage to hardware, protect information from theft or damage, and ensure the uninterrupted availability of services. Activity 5.1 reinforces these concepts by asking students to think about the consequences of insecure systems.",
+          "keywords": [
+            {
+              "term": "Hacker",
+              "definition": "A person who uses computers to gain unauthorized access to data."
+            },
+            {
+              "term": "Information security (InfoSec)",
+              "definition": "The practice of defending information from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording, or destruction."
+            },
+            {
+              "term": "Computer security",
+              "definition": "Concerned with information security as applied to computing devices such as computers, smart phones, and computer networks such as private and public networks, including the whole Internet."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Impact of Information and Computer Security on Society",
+          "summary": "Information and computer security risks arise from both intentional and unintentional misuse of computers and networks. These risks can lead to loss of data, hardware damage, and breaches of privacy. Understanding these risks is crucial for all computer users.",
+          "detailed_notes": "The risks to information and computer security are pervasive. They can stem from deliberate malicious acts (like hacking) or from unintentional errors. The consequences can be severe, including the loss or corruption of hardware, software, and confidential data. Students and users must be aware of these risks and know how to respond in different situations to protect themselves and their organizations.",
+          "keywords": [
+            {
+              "term": "Information and computer security risks",
+              "definition": "Arise from intentional or unintentional misuse of computers, network resources, and the Internet. These risks may result in the loss of or damage to computer hardware, software, confidential information, and data integrity as well as network and Internet availability."
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Privacy and Security",
+          "summary": "Privacy is about an individual's right to control their personal information. Data privacy focuses on the proper handling and usage of personal data. Security, on the other hand, is concerned with the technical measures used to protect that data from unauthorized access or breaches.",
+          "detailed_notes": "While related, privacy and security are distinct concepts. Privacy is a right concerning a person's personal information—how it's collected, used, and managed. Data privacy is about the rights of individuals regarding their personal data. Security is about the policies, methods, and tools used to protect that data from unauthorized access, breaches, and other threats. For example, a company has a security responsibility to protect customer data from hackers and a privacy responsibility to use that data only in ways the customer has agreed to.",
+          "keywords": [
+            {
+              "term": "Privacy",
+              "definition": "Concerned with safeguarding and respecting people's rights to manage their personal data in a broader sense."
+            },
+            {
+              "term": "Security",
+              "definition": "Concerned with information leaks caused by malware infections and data breaches."
+            },
+            {
+              "term": "Data privacy (information privacy)",
+              "definition": "Concerned with proper handling, processing, storage, and usage of personal information."
+            },
+            {
+              "term": "Data security",
+              "definition": "Concerned with policies, methods, and means to secure personal data."
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Computer Security Threats",
+          "summary": "A security threat is a malicious act aimed at corrupting, stealing, or disrupting data or systems. Common threats include malware like computer viruses, worms, Trojan horses, spyware, adware, and ransomware.",
+          "detailed_notes": "A security threat is any event that could lead to a breach of computer security. Common types of threats are forms of malware. A computer virus is a malicious program that replicates itself and infects other files. A computer worm is self-replicating and spreads across networks. A Trojan horse disguises itself as legitimate software. Spyware secretly monitors user activity, while adware displays unwanted advertisements. Ransomware encrypts files and demands payment for their release. Understanding these threats is the first step in defending against them.",
+          "keywords": [
+            {
+              "term": "Security threat",
+              "definition": "A malicious act that aims to corrupt or steal data or disrupt a school's computer network or organization's systems."
+            },
+            {
+              "term": "Computer virus",
+              "definition": "A malicious program which replicates itself and infects the files and programs of your PC and can make them non-functional."
+            },
+            {
+              "term": "Computer worm",
+              "definition": "A self-replicating computer program that spreads malicious codes using computer networks."
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Threat Prevention Strategies",
+          "summary": "Threat prevention strategies are categorized into technical and non-technical. Technical strategies include taking data backups, installing protective devices (UPS), using antivirus/antispyware, firewalls, encrypting data, and managing user accounts. Non-technical strategies focus on physical security and data protection methods.",
+          "detailed_notes": "Preventing threats requires a multi-layered approach. Technical prevention strategies involve using software and hardware tools. Data backup creates copies for recovery. Uninterruptible Power Supplies (UPS) protect against power loss. Antivirus and antispyware software scan for and remove malware. Firewalls act as a barrier to block unauthorized network traffic. Encryption scrambles data to protect it from being read if intercepted. User accounts, with different levels of privilege (Administrator, Standard, Guest), limit what users can do on a system. Non-technical strategies are physical measures, like keeping computers in secure locations and safely storing data.",
+          "keywords": [
+            {
+              "term": "Cloud backup",
+              "definition": "The service in which data and applications on a business's servers are backed up and stored on a remote server."
+            },
+            {
+              "term": "Spyware",
+              "definition": "Any software that installs itself on your computer and starts covertly monitoring your online behavior without your knowledge or permission."
+            },
+            {
+              "term": "Malware",
+              "definition": "A file or code, typically delivered over a network, that infects, explores, steals, or conducts any behavior an attacker wants virtually."
+            }
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Cyber Security",
+          "summary": "Cyber security is the application of technologies, processes, and controls to protect systems, networks, and data from cyber-attacks. The goal is to reduce risk and protect against unauthorized exploitation. Common cyber security categories include network security, information security, operational security, and end-user education. Common prevention mechanisms include using strong passwords, securing computers, being cautious on social media, and installing updates.",
+          "detailed_notes": "Cybersecurity is a critical field that protects all aspects of our digital lives. It aims to prevent cyber-attacks, which can cause everything from electrical shutdowns to theft of sensitive data. Cybersecurity is divided into categories like network security (protecting network infrastructure), information security (protecting data), and operational security (protecting daily processes). A key part of cybersecurity is end-user education. Individuals can practice cyber hygiene by using strong, unique passwords, keeping their systems updated, being careful on social media, and securing their mobile devices. Reporting suspected crimes to the authorities is also a crucial step.",
+          "keywords": []
+        },
+        {
+          "section_number": "5.8",
+          "section_title": "Unit Summary",
+          "summary": "This summary recaps the unit on Information and Computer Security. It covers the definitions and goals of InfoSec and computer security, the distinction between privacy and security, the nature of security threats, and the various strategies (technical and non-technical) for prevention. It also introduces the importance of cyber security.",
+          "detailed_notes": "The summary revisits the essential concepts. Information security is about protecting data, while computer security applies this to devices and networks. Security controls aim to provide confidentiality, integrity, and availability. Privacy is about individual rights over data, while security is about protecting data. Threats can be intentional or accidental. Prevention involves tools like antivirus software and firewalls, alongside practices like user account management and physical security. Finally, cyber security is defined as the broad practice of defending systems and data from malicious attacks.",
+          "keywords": []
+        },
+        {
+          "section_number": "5.9",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section reviews the unit through true/false, multiple-choice, and discussion questions. It covers the key concepts of security, privacy, threats, and prevention strategies.",
+          "detailed_notes": "The review exercise is structured to test understanding of security concepts. Part I uses true/false statements to check basic knowledge of InfoSec, threats, and cyber security. Part II uses multiple-choice questions to assess understanding of specific tools (firewalls, antivirus) and concepts (confidentiality, integrity, availability). Part III includes short-answer and discussion questions that require students to define terms, describe the elements of security, list threats, and explain the importance of practices like taking backups.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Fundamentals of Programming",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Unit Overview",
+          "summary": "This section builds upon Grade 9 knowledge of problem-solving. It introduces the concept of algorithms as a step-by-step method for solving problems, which is fundamental to computer programming. The unit will cover the definition, characteristics, and representation of algorithms, and provide an introduction to Integrated Development Environments (IDEs).",
+          "detailed_notes": "The unit aims to transition students from general problem-solving to computational problem-solving. An algorithm is a precise sequence of steps to solve a problem. The unit will define algorithms, explain their key characteristics, show how they are represented (flowcharts and pseudocode), and introduce the professional environment where programs are written and tested (IDEs).",
+          "keywords": []
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Basics of Algorithm",
+          "summary": "An algorithm is a step-by-step process for solving a computational problem. It is language-independent and provides a clear procedure to follow. The problem-solving approach in computing involves analyzing the problem, breaking it down, designing an algorithm, expressing it, and then coding it into a program.",
+          "detailed_notes": "Algorithms are the core of programming. They simplify the process of writing code by providing a well-defined plan. The typical problem-solving steps in computing are: 1) Analyze the problem, 2) Break down the solution into small tasks, 3) Prepare an algorithm, 4) Express the algorithm precisely, 5) Design a computer program, 6) Feed the program into a computer, and 7) Execute the program to get output. For example, calculating the sum of two numbers is a simple algorithm that involves taking input (two numbers), processing (addition), and producing output (the sum).",
+          "keywords": []
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Definition of Algorithm",
+          "summary": "An algorithm is a precise, step-by-step method for solving a problem. It is a sequence of unambiguous instructions that can be carried out to achieve a required result. An algorithm is language-independent, meaning it can be implemented in any programming language.",
+          "detailed_notes": "An algorithm is a well-defined procedure. It is like a recipe: a set of instructions to follow to get a specific result. Key definitions describe it as a set of rules for calculation, a finite step-by-step procedure, or a sequence of steps that transforms input into output. An algorithm must be clear and unambiguous. A program is an algorithm that has been written in a specific programming language that a computer can execute.",
+          "keywords": [
+            {
+              "term": "Algorithm",
+              "definition": "A precise method of solving a problem consisting of a sequence of unambiguous, step-by-step instructions."
+            },
+            {
+              "term": "Program",
+              "definition": "A set of instructions written to carry out a particular task so that a computer can follow them."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Characteristics of Algorithm",
+          "summary": "An algorithm must have clear and unambiguous steps, well-defined inputs and outputs, must be finite (terminates), feasible with current resources, and language-independent. Using an algorithm makes problem-solving easier but can be time-consuming to design.",
+          "detailed_notes": "The characteristics of an algorithm ensure its quality and reliability. It must be 'Clear and unambiguous' (only one meaning), have 'Well-defined inputs' and 'Well-defined outputs'. It must be 'Finite' (have an end), 'Feasible' (practical with available resources), and 'Language-independent' (can be coded in any language). Using algorithms has advantages like making problem-solving easier and providing a stepwise representation. However, they can be time-consuming to write, and representing complex branching and looping structures can be difficult.",
+          "keywords": [
+            {
+              "term": "Algorithm",
+              "definition": "A precise method of solving a problem. It consists of a sequence of unambiguous, step-by-step instructions."
+            },
+            {
+              "term": "Program",
+              "definition": "A set of instructions written to carry out a particular task so that a computer can follow them."
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Algorithm Representation",
+          "summary": "Algorithms can be represented in two main ways: flowcharts and pseudocode. A flowchart is a graphical representation using symbols to show the steps and flow of control. Pseudocode is a textual description of the algorithm using structured English-like statements. Both methods are used to design and plan programs.",
+          "detailed_notes": "This section explains the tools used to design an algorithm. A 'Flowchart' is a visual diagram that uses standard symbols (like ovals for start/end, parallelograms for input/output, rectangles for processing, diamonds for decisions, and arrows for flow lines) to represent the steps of a process. 'Pseudocode' is a way to write the algorithm in a structured English-like format that is easier to understand than code but more precise than natural language. For example, a pseudocode for finding the sum of two numbers might be 'START, READ A, READ B, COMPUTE C = A + B, PRINT C, END'. The section also introduces the concept of a loop, which is a sequence of instructions repeated until a condition is met, and includes its four parts: initialization, computation, test, and increment.",
+          "keywords": [
+            {
+              "term": "Flowchart",
+              "definition": "A graphical or a schematic representation of the major steps of work in a process."
+            },
+            {
+              "term": "Pseudocode",
+              "definition": "A program design aid that serves the function of a flowchart in expressing the detailed logic of a program."
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Integrated Development Environment (IDE)",
+          "summary": "An Integrated Development Environment (IDE) is an application that provides all the tools a programmer needs to write, compile, test, and debug software in one place. It typically includes a code editor, a compiler or interpreter, and a debugger. IDEs increase developer productivity through faster setup, integrated tasks, and standardization.",
+          "detailed_notes": "This section introduces the software environment used by programmers. An IDE (Integrated Development Environment) is a powerful application that combines common programming tasks. Its core features include a 'Code Editor' (a specialized text editor for writing source code), a 'Compiler' or interpreter (to translate the code into a language the computer can execute), and a 'Debugger' (to find and fix errors). The benefits of IDEs are numerous: they allow for 'Faster setup' by integrating all tools, they make 'Faster development tasks' easier by providing instant feedback, they promote 'Continual learning' for developers, and they 'Standardize' the development process. The section also lists examples of common IDEs, such as Eclipse and NetBeans, and mentions IDEs designed for specific tasks like mobile or web development.",
+          "keywords": [
+            {
+              "term": "Integrated Development Environment (IDE)",
+              "definition": "An application that facilitates application development. IDEs are designed to encompass all programming tasks in one application."
+            },
+            {
+              "term": "Code editor",
+              "definition": "A text editor designed for writing and editing source code."
+            },
+            {
+              "term": "Text editor",
+              "definition": "A tool in IDEs designed to write and manipulate source code."
+            },
+            {
+              "term": "Compiler",
+              "definition": "A tool that transforms source code written in a human-readable or writable language into a form executable by a computer."
+            }
+          ]
+        },
+        {
+          "section_number": "6.7",
+          "section_title": "Unit Summary",
+          "summary": "This unit summary highlights the main tools for good programming: algorithms, flowcharts, and pseudocode. An algorithm is a precise, step-by-step method. Flowcharts and pseudocode are its two main representations. The unit also introduced the concept of an IDE, a key environment for software development, and discussed its benefits and various types.",
+          "detailed_notes": "The summary reinforces the core concepts of the unit. It stresses that using these tools leads to better program design with fewer errors. An algorithm is defined as a sequence of steps. A flowchart is a visual representation, while pseudocode is a text-based representation. An IDE brings together all the essential tools for programming (code editor, compiler, debugger) into a single interface. The main benefit of an IDE is improved developer productivity through faster setup, integrated tasks, and a standardized workflow. Examples of popular IDEs like Eclipse and NetBeans are mentioned.",
+          "keywords": []
+        },
+        {
+          "section_number": "6.8",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section tests the student's understanding of programming fundamentals. It includes true/false questions, multiple-choice questions, and discussion questions focusing on algorithms, flowcharts, pseudocode, and IDEs.",
+          "detailed_notes": "The review exercise covers the unit's core topics. Part I consists of true/false statements on algorithm characteristics and representation. Part II uses multiple-choice questions to assess knowledge of algorithm properties, flowchart symbols, and IDE components. Part III contains descriptive questions requiring students to define algorithms, discuss flowcharts, explain pseudocode, and draw flowcharts for specific problems.",
+          "keywords": []
+        }
+      ]
+    }
+  ]
+}

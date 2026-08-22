@@ -1,0 +1,718 @@
+{
+  "subject": "Agriculture",
+  "grade": "12",
+  "chapters": [
+    {
+      "unit": 1,
+      "unit_title": "Vegetable Crop Production and Management",
+      "sections": [
+        {
+          "section": "1.1. Importance, Problems and Prospects of Vegetable Crop Production in Ethiopia",
+          "section_summary": "This section defines vegetables as herbaceous plants whose edible parts (fruits, seeds, roots, tubers, bulbs, stems, leaves, or flowers) are consumed fresh. It highlights the importance of vegetable production in Ethiopia for household consumption, income generation, employment, and export earnings, noting key crops like pepper, onion, tomato, and cabbage. The section also outlines the significant potential for vegetable production in Ethiopia due to favorable climate, abundant land and water, and government support. However, it identifies major constraints such as inadequate knowledge of improved methods, low consumption, high input costs, poor management, and limited processing facilities.",
+          "detailed_notes": "Vegetables are defined as herbaceous plants (no persistent woody stems) with various growth cycles (annuals, biennials, perennials) and growth habits (viny, shrubby, tree). They are harvested fresh, are seasonal, perishable, bulky, and require intensive management. Important crops include pepper, Ethiopian mustard, onion, tomato, potato, chili, carrot, garlic, and cabbage. Smallholder farmers (average landholding of 0.9 ha) produce mainly for consumption, while commercial farms produce for the market. Over 6.7 million households are involved in vegetable production, contributing to the national economy through exports to the Middle East, Europe, and neighboring countries. Vegetables offer higher value, shorter growth cycles, and higher productivity compared to cereals, increasing employment and household income. Public awareness of their nutritional benefits (vitamins A, C, thiamine, niacin, folic acid, beta-carotene, iron, zinc, iodine) is rising, reducing hidden hunger (micronutrient deficiency). Ethiopia's potential is vast due to diverse climates (ranging from 126 m below sea level to 4620 m above sea level, including humid tropics and alpine climates), vast land, water, and labor resources. Despite this, production is low due to constraints like inadequate knowledge of improved methods, low consumption, high input costs (fertilizers, improved seeds, pesticides), poor management, small processing facilities, and poor infrastructure.",
+          "keywords": [
+            {"keyword": "Herbaceous", "definition": "Plants that have no persistent woody stems above the ground."},
+            {"keyword": "Smallholder farmers", "definition": "Farmers that own an average landholding size of 0.9 hectare."},
+            {"keyword": "Hidden hunger", "definition": "Micronutrient deficiency associated with the deficiency of essential vitamins and minerals."},
+            {"keyword": "Agro ecology", "definition": "Relationships organisms have among themselves and with the surrounding physical environment in agriculture."},
+            {"keyword": "Alpine Climate", "definition": "Climate of high mountain regions/highlands."},
+            {"keyword": "Humid tropics", "definition": "Regions with relatively high temperature throughout the year and where rainfall exceeds evapotranspiration for 75% of the year."}
+          ]
+        },
+        {
+          "section": "1.2. Environmental Factors Influencing Vegetable Production",
+          "section_summary": "This section explains how various environmental factors affect vegetable crop production. It details the influence of temperature on physiological processes (photosynthesis, respiration, germination, flowering) and crop suitability. It describes the critical role of water in growth and photosynthesis, and the detrimental effects of both drought and excess moisture. The role of light in photosynthesis and flowering (long-day, short-day, day-neutral plants) is discussed. The section also covers the impact of humidity on disease incidence and plant transpiration, and how altitude affects temperature and rainfall, influencing production. Finally, it addresses the importance of soil type (texture, structure, fertility) and biotic factors (pests, diseases, weeds) in determining crop success.",
+          "detailed_notes": "Environmental factors influencing vegetable production are classified as climatic (temperature, light, precipitation), soil (chemical, physical, nutritional status), topographic, and biotic (insects, diseases, weeds). Temperature affects photosynthesis, respiration, transpiration, germination, flowering, and the shift from vegetative to reproductive growth. Each vegetable has specific minimum, maximum, and optimum temperature ranges; chilling injury occurs below 10.0°C for tropical vegetables. Water constitutes 80-90% of vegetable weight, is vital for germination, photosynthesis, cell division, and turgidity. Water shortage during critical stages like flowering and seed setting reduces yield; excess moisture causes disease, nutrient leaching, and erosion. Light is essential for photosynthesis; long-day plants flower with short nights, short-day plants with long nights, and day-neutral plants are unaffected. High humidity promotes diseases and affects transpiration and stomatal function. Altitude affects temperature (0.6°C decrease per 100m increase) and rainfall, with highlands being more suitable for vegetable production. Soil type, texture, fertility, and structure determine water storage, drainage, compaction, and root growth. Sandy soils drain well but retain little water, while clay soils drain slowly and may cause waterlogging. Biotic factors like bacteria, fungi, nematodes, viruses, weeds, and animals limit productivity; crop selection should consider adaptability and resistance to local pests and diseases.",
+          "keywords": [
+            {"keyword": "Succulent", "definition": "A plant such as a cactus in which the leaves and stem are thick and can store a lot of water."},
+            {"keyword": "Compaction", "definition": "A process in which soil is pressed down and becomes very firm with little space between its particles."},
+            {"keyword": "Pore space", "definition": "The space between soil particles, used for air circulation and water storage. Roots grow into the soil through the pore space."}
+          ]
+        },
+        {
+          "section": "1.3. Classifications of Vegetable Crops",
+          "section_summary": "This section presents different ways to classify vegetables. It categorizes them based on the edible part (root, leafy, flower vegetables). A key classification is based on temperature requirements, dividing them into warm-season (tropical/sub-tropical, e.g., tomato, pepper) and cool-season (temperate, e.g., cabbage, carrot) crops. Vegetables are also classified by their life cycle (phenology) as annuals (complete in one year), biennials (two years), or perennials (more than two years).",
+          "detailed_notes": "Vegetables can be classified by edible part: Root vegetables (carrot, garlic, radish, cassava, sweet potato, beet), Leafy vegetables (cabbage, Swiss chard, celery, lettuce, asparagus), and Flower vegetables (cauliflower, broccoli). Classification based on temperature: Warm-season (tropical/sub-tropical) vegetables are adapted to 18-29°C, cannot tolerate frost, and include cucumber, eggplant, pepper, snap bean, sweet potato, tomato, and watermelon. Cool-season (temperate) vegetables are 'hardy' or 'semi-hardy' plants that can tolerate frost, are often shallow-rooted, and include broccoli, celery, cabbage, garlic, kale, onion, pea, radish, and spinach. Classification based on life cycle: Annuals (spinach, lettuce, beans) complete their lifecycle in a single year. Biennials (carrot, cabbage, beet) require two growing seasons; they produce vegetative parts in the first and reproductive parts in the second, often requiring temperature sensitivity for flowering. Perennials (asparagus, artichoke) grow for more than two growing seasons, up to ten years.",
+          "keywords": []
+        },
+        {
+          "section": "1.4. Types of Vegetable Crop Production Systems",
+          "section_summary": "This section outlines the evolution of vegetable production from primitive gathering to advanced specialized systems. It identifies four main types: gathering of wild vegetables, mixed cropping with cereals, home gardening, and commercial production. Home gardening is common in Ethiopian smallholder systems for household consumption, while commercial production is market-oriented, often near urban centers, and uses intensive inputs.",
+          "detailed_notes": "Vegetable production systems range from primitive to advanced. Gathering of wild vegetables involves collecting edible parts from wild plants like shola, wild mango, moringa, and various weeds like Amaranthus. Mixed cropping involves growing vegetables like Ethiopian mustard, taro, or kale alongside cereal crops like maize or coffee, usually in small amounts on marginal land. Home gardening, common in Ethiopian smallholder systems, involves allocating land near the homestead to grow a variety of vegetables for household consumption and income, often using organic wastes. Commercial vegetable production is market-oriented, concentrated near urban centers, and intensively managed with high inputs (fertilizers, pesticides, irrigation, machinery) to meet market demand.",
+          "keywords": []
+        },
+        {
+          "section": "1.5. Principles of Vegetable Crops Management",
+          "section_summary": "This section details key management principles for successful vegetable production. It covers site selection and management, emphasizing the need to consider land use history, soil properties, water quality, and topography. It highlights the importance of sustainability management through accurate record-keeping of inputs, yields, and soil analysis. The selection of appropriate planting material based on local adaptation, pest resistance, and market demand is stressed. Integrated crop management practices like crop rotation, balanced fertilization, and incorporating organic matter are recommended. The section concludes with the importance of economic water use and the need for careful marketing decisions from the production stage onward.",
+          "detailed_notes": "Management principles include: Site selection and management: considering land use history, soil pollution, water quality, adjacent crops, and topography (gentle slopes preferred; conservation practices for steep slopes). Sustainability management: requires accurate records of yield, varieties, fertilizer types, pesticides, irrigation, soil analysis, techniques, and market information. Planting material: selecting varieties adapted to local conditions, resistant to pests/diseases, and meeting consumer demand; planting at the right time. Integrated crop management: using crop rotation to reduce pests/diseases, avoiding over-reliance on chemicals, chopping crop residues or adding compost to improve fertility, and ensuring balanced nutrient supply to minimize losses. Economic water use: conserving soil moisture, assessing groundwater before irrigation, monitoring irrigation water quality, and storing fertilizers safely to prevent water contamination. Profitability and marketing: marketing decisions should be made before production, considering costs of seeds, fertilizers, pesticides, labor, harvesting, postharvest handling, and pricing to balance market share and returns. Vegetables can be grown as sole or mixed crops.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "unit_title": "Fruit Crops Production and Management",
+      "sections": [
+        {
+          "section": "2.2. Importance, Problems and Prospects of Fruit Crop Production in Ethiopia",
+          "section_summary": "This section discusses the importance of fruit crops as a source of energy, nutrients, and income for households, contributing to food security and foreign currency through exports. It identifies key problems such as the relatively recent introduction of commercial fruit production, limited technical knowledge, lack of marketing infrastructure, and low production in highland areas. However, the prospects are good due to increasing awareness of nutritional benefits, diverse agro-ecologies, ample water resources, cheap labor, proximity to markets, and supportive government policies.",
+          "detailed_notes": "Fruits are an inexpensive source of energy, nutrients, minerals, and vitamins, best consumed fresh. They improve household food security and income, and large-scale production can earn foreign currency through exports. Fruit production enhances natural resource conservation, diversifies the economy, and supports agro-processing industries, reducing unemployment. Major fruits in Ethiopia include pineapples, passion fruits, bananas, avocados, mangoes, citrus fruits, mandarin, papaya, guava, and grapes. Problems include the recent introduction of commercial fruit production (late 1960s-early 1970s), most fruits being wild or recent introductions, lack of management knowledge, and poor production in highlands. Prospects are promising due to increasing nutritional awareness, diverse agro-ecologies, ample water resources, cheap labor, proximity to Middle East and European markets, and attractive government policies.",
+          "keywords": [
+            {"keyword": "Fruit crop", "definition": "A perennial, edible plant cultivated for its true botanical fruit or products derived there from."},
+            {"keyword": "Fruit set", "definition": "Refers to the persistence and development of an ovary after flowering."},
+            {"keyword": "Orchard", "definition": "A farm land allocated for growing fruit crops."},
+            {"keyword": "Asexual propagation", "definition": "A vegetative reproduction or propagation where fertilization is not involved in the production of the crop."},
+            {"keyword": "Chilling injury", "definition": "Injury from prolonged exposure to low, non-freezing temperatures, affecting tropical fruits and resulting in discoloration, pitting, and flesh breakdown."},
+            {"keyword": "Chilling requirement", "definition": "The time of exposure to cool, nonfreezing temperatures during winter, needed for normal bud break and development in the following spring."}
+          ]
+        },
+        {
+          "section": "2.3. Classification of Fruit Crops",
+          "section_summary": "This section classifies fruits based on structure (simple, aggregate, multiple), temperature requirement (tropical, sub-tropical, temperate), ripening response to ethylene (climacteric, non-climacteric), and plant characteristics (tree fruits, small fruits). Simple fruits develop from one ovary, aggregate fruits from multiple ovaries in one flower, and multiple fruits from several flowers. Temperate fruits need cold winters, while tropical fruits do not. Climacteric fruits show a rise in respiration and ethylene production during ripening (e.g., tomato, apple), while non-climacteric fruits do not.",
+          "detailed_notes": "Based on structure: Simple fruits (develop from a single ovary in a single flower; e.g., apple, grape, citrus) further divided into fleshy (pericarp fleshy, e.g., grapes, bananas), dry (pericarp dry, e.g., coconut, peanut), dehiscent (split open when mature, e.g., silique), and indehiscent (do not split open, e.g., pome, sunflower). Aggregate fruits (multiple mature ovaries in a single flower, e.g., strawberry). Multiple fruits (mature ovaries of several flowers united, e.g., pineapple). Based on temperature: Tropical (no freezing temperatures, e.g., banana, pineapple, papaya, mango, guava), Sub-tropical (need some winter chilling, e.g., citrus, figs, olives), Temperate (require cold winter and summer growing season, can survive freezing, e.g., apples, cherries, peaches). Based on ripening/response to ethylene: Climacteric (ripening-associated increase in respiration and ethylene production, e.g., tomato, apple, pear, melon), Non-climacteric (lack ethylene-associated respiratory peak, e.g., grape, orange, pineapple). Based on plant characteristics: Tree fruits (e.g., peach, plum, mango, citrus, avocado, guava, coffee, apple), Small fruits (from shrubs, e.g., blackberry, raspberry, blueberries).",
+          "keywords": []
+        },
+        {
+          "section": "2.4. Principles and Techniques of Fruit Propagation",
+          "section_summary": "This section covers sexual (seed) and asexual (vegetative) propagation methods. Sexual propagation is the easiest and cheapest but leads to genetic variation and a longer juvenile period. It involves seed dormancy and pre-sowing treatments. Asexual propagation, using cuttings, air layering, or grafting, produces clones identical to the parent plant, ensuring uniform fruit quality but requires more skill. Grafting joins a scion (top) to a rootstock (bottom) to combine desirable traits.",
+          "detailed_notes": "Sexual (Seed) Propagation: Involves growing plants from seeds, which have an outer seed coat, endosperm (food reserve), and embryo. Pre-sowing treatments (soaking in hot/cold water, fire/heat, chemicals, alternate wetting/drying) break seed dormancy for uniform germination. Advantages: easiest and least expensive, produce hardy, longer-lived plants, allows propagation of difficult species (e.g., papaya, coconut), rootstocks for grafting, and potentially more resistant plants. Disadvantages: late bearing, no guarantee of genetic purity, large size increases costs, and sex identification is not possible. Asexual (Vegetative) Propagation: Uses plant parts (leaves, stems, roots) from a single mother plant to produce clones. Methods include: Cuttings: apportion of stem/root/leaf is cut and induced to form roots and shoots, producing a new plant identical to the parent. Air Layering: A stem is induced to form adventitious roots while still attached to the parent plant, then detached and planted. Grafting: Joining a scion (upper portion) to a rootstock (root system) so they unite and grow as one. Requires compatible species, intimate contact between cambial regions, and protection from drying.",
+          "keywords": [
+            {"keyword": "Seed dormancy", "definition": "A period during which seed is not growing."},
+            {"keyword": "Viable seed", "definition": "Seed that is capable of germinating under suitable conditions."},
+            {"keyword": "Seedbed", "definition": "An area of land tilled to produce a fine, firm and level soil surface, into which seeds will be sown."},
+            {"keyword": "Cross pollination", "definition": "Pollination of a flower with pollen from another plant of the same species."},
+            {"keyword": "Genetic purity", "definition": "The degree of contamination of seeds caused by undesired genetic varieties or crop species."},
+            {"keyword": "Adventitious root", "definition": "Specialized root that develops from a non-root tissue part of the plant, such as stem, branch or leaves, rather than the main root system."}
+          ]
+        },
+        {
+          "section": "2.5. Establishing a Nursery",
+          "section_summary": "This section outlines the key considerations for establishing a fruit nursery. It emphasizes selecting a site with good soil and water, flat topography, protection from wind, and separation from production fields. It describes the use of polythene bags for raising seedlings to protect the tap root and highlights the importance of discarding seedlings with twisted or poorly developed roots, transplanting only straight ones.",
+          "detailed_notes": "Nursery establishment involves selecting a site with suitable soil (well-drained, fertile, sandy loam with good structure) and reliable water source, flat or gentle topography, protection from strong winds (with windbreaks), and separation from production fields. It should be near the main field for ease of transplanting and have adequate labor. The site should be free from flooding and not shaded by buildings or trees. Seedlings can be raised in nursery beds or polythene bags. Polythene bags are preferred as they protect the tap root, save labor for weeding and watering. Seedlings with twisted or poorly developed roots or stems should be discarded; only those with straight stems and roots should be transplanted to pots or bags.",
+          "keywords": []
+        },
+        {
+          "section": "2.6. Management of Orchards",
+          "section_summary": "This section covers the establishment and management of orchards (land for fruit production). It highlights the importance of careful planning, site selection, and land preparation. Planting spacing is determined by crop type, variety, soil quality, and rainfall. The section also describes irrigation methods (surface vs. pressurized), emphasizing the need to consider water quality and avoid both excessive and insufficient irrigation to optimize yields.",
+          "detailed_notes": "Orchard establishment requires planning and consideration of resources. Site selection is crucial for yield and quality. Land preparation involves preparing holes (e.g., 30x30 cm to 50x50 cm, 80-100 cm deep). Topsoil and subsoil should be separated; topsoil mixed with organic matter (manure, coffee husk) used to fill the hole. Planting distance (spacing) depends on crop type (e.g., mango trees need wider spacing than banana/papaya), variety (canopy spread), propagation method (sexually propagated plants are larger), soil quality, and rainfall. Table 2.1 provides spacing examples (e.g., Mango 10x10 m, 100 trees/ha; Papaya 2.4x3.1 m, 1344 trees/ha). Irrigation: Applying controlled water to land. Consider water quality (salt content), amount, and timing. Avoid excessive irrigation and under-irrigation. Irrigation methods: Surface/Gravity (flood, furrow) - easy, low cost, but requires level land; and Pressurized (sprinkler, drip) - more efficient but costly.",
+          "keywords": []
+        },
+        {
+          "section": "2.7. Factors Influencing the Quality of Fruit Crops During Harvest and Post-harvest",
+          "section_summary": "This section addresses the factors that affect fruit quality from harvest to consumption. It emphasizes the importance of harvesting at the correct stage and time of maturity for optimal quality and storage life. Post-harvest handling steps like pre-cooling, sorting, grading, packaging, and storage under proper temperature and humidity are crucial to minimize water loss, mechanical injury, and disease development.",
+          "detailed_notes": "Fruit quality is determined by harvest stage (maturity), time, and method. Most fruits reach peak eating quality when fully ripened on the tree but are usually picked when nearly ripe. Post-harvest considerations include: Pre-cooling: quickly cool to storage temperature for long-term storage. Sorting and grading: sort by size and quality. Packaging: use packaging that reduces moisture loss and prevents mechanical damage. Storage: clean fruits; store at temperatures near freezing point (depending on fruit type) and relative humidity >90% to minimize water loss. Transportation: handle carefully to prevent mechanical injury, which enhances disease development.",
+          "keywords": []
+        },
+        {
+          "section": "2.8. Floriculture and Landscaping",
+          "section_summary": "This section introduces floriculture (ornamental horticulture), the cultivation of flowering and decorative plants for aesthetic and functional purposes. It notes the recent start but rapid growth of floriculture in Ethiopia as a top export commodity, highlighting opportunities like suitable climate, ample resources, and proximity to markets. Important exported flower crops include roses, chrysanthemums, and lilies, which contribute to foreign currency earnings, job creation, and investment promotion.",
+          "detailed_notes": "Floriculture is a branch of horticulture dealing with cultivation of flowering plants, decorative foliage plants, cacti, orchids, succulents, bonsai, ferns, and landscape gardening (Ornamental Horticulture). Ornamental plants are decorative, showy, and used for aesthetic and functional purposes. In Ethiopia, floriculture is a recent but growing sector and a top export commodity. Opportunities include suitable climate, ample land/water/cheap labor, proximity to Middle East and European markets, and government policy/investment incentives. Importance includes earning foreign currency, diversifying products, creating jobs, encouraging supportive industries, and promoting investment. Major exported flowers: Roses, Poinsettia, Geranium, Chrysanthemum, Lilies, Carnation, Gypsophila, Statice, Hypericum, Freesia.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "unit_title": "Root and Tuber Crops Production and Management",
+      "sections": [
+        {
+          "section": "3.1. Definition of Common Terms",
+          "section_summary": "This section defines key terms related to root and tuber crops. It distinguishes between a 'root' (developed from root tissue), a 'tuber' (developed from stem tissue or rhizome), a 'root crop' (grown for enlarged edible roots, e.g., carrot, cassava), and a 'tuber crop' (crops with swollen underground stems and roots, e.g., potatoes, sweet potatoes). It explains that rhizomes are horizontal stems that send out roots and shoots. It also notes the global importance of these crops as staple energy sources, second only to cereals.",
+          "detailed_notes": "A root is a compact, enlarged storage organ developing from root tissue. A tuber is an enlarged storage organ developing from elongated stem tissue or rhizome. A root crop is grown for its enlarged edible roots (e.g., beet roots, carrot, parsnip, cassava). Tuber crops have swollen underground stems and roots (e.g., potatoes, sweet potatoes, yams). Rhizomes are underground stems that grow horizontally and send out stems and roots from nodes (e.g., ginger). Roots and tubers are plants with edible modified roots (tuberous roots like sweet potato/cassava or fleshy roots like carrot/sugar beet). They yield starchy roots, tubers, rhizomes, corms, and stems. Globally, major crops (potato, sweet potato, cassava, yam) occupy ~53.93 million ha, producing 736.7 million tons annually. In Africa, major ones (enset, cassava, sweet potato, potato, yam) cover ~23 million ha, producing >240 million tons, exceeding cereal production.",
+          "keywords": []
+        },
+        {
+          "section": "3.2. Classification of Root and Tuber Crops",
+          "section_summary": "This section describes the classification and characteristics of major root and tuber crops. It mentions FAO classification by use and lists both indigenous (enset, anchote, Ethiopian potato, yams) and exotic (taro, tania, cassava, potato, sweet potato) species in Ethiopia. It provides detailed descriptions of potato, sweet potato, cassava, cocoyam, taro, and yams, including their origin, growing regions, and uses.",
+          "detailed_notes": "Major root/tuber crops in Ethiopia: Indigenous - enset, anchote, Ethiopian potato, yams; Exotic - taro, tania, cassava, potato, sweet potato. Potato (Solanum tuberosum): seasonal crop in temperate zones, 4th most important food crop globally (368 million tons), provides carbohydrates, potassium, vitamin C. Sweet Potato (Ipomoea batatas): seasonal crop in tropical/subtropical regions, originated in Central America, 'insurance crop' for food security, rich in fiber, minerals, vitamins. Cassava (Manihot esculenta): semi-permanent crop in tropical/subtropical regions, global production ~276 million tons (2013), major producers Nigeria, Thailand, Indonesia, Brazil, DRC, used for diverse products (food, feed, ethanol, starch). Cocoyam (Colocasia esculenta): starchy root vegetable used in South American, African, Caribbean cuisine; nutrient-dense, low in fat, contains fiber, vitamin C, riboflavin, thiamine, iron. Taro (Colocasia esculenta): herbaceous plant of arum family, edible corm, native to SE Asia, staple in Pacific islands, used as vegetable, in puddings/breads, and as poi in Polynesia. Yams (Dioscorea sp.): widely grown in tropics, starchy staple eaten boiled/baked/fried or as 'fufu' in West Africa.",
+          "keywords": []
+        },
+        {
+          "section": "3.3. Importance of Root and Tuber Crops Production",
+          "section_summary": "This section highlights the significant roles of root and tuber crops in food and nutritional security, especially as food gap fillers and drought-resistant security crops in Ethiopia. It also mentions their contribution to income generation, animal feed, and industrial raw materials.",
+          "detailed_notes": "Root and tuber crops are crucial for food and nutritional security, filling food gaps until major crop harvests. Crops like sweet potato are drought-resistant and serve as security food in drought-prone areas. They provide additional income for farmers through surplus sales, improving livelihoods. They are also used as animal feed and as raw materials for various industrial applications.",
+          "keywords": []
+        },
+        {
+          "section": "3.4. Prospects of Root and Tuber Crops Production in Ethiopia",
+          "section_summary": "This section outlines the opportunities for root and tuber crop production in Ethiopia, including a large labor force, water resources, proximity to markets, diverse climate and soil types, and the country's status as the 'water tower of east Africa' with significant irrigation potential.",
+          "detailed_notes": "Ethiopia has strong prospects for root/tuber crop production due to its large labor force, water resources, and proximity to Middle East and other African markets for exports. The country's great variety of climate and soil allows for diverse horticultural crop cultivation. Ethiopia is the 'water tower of east Africa' with ~0.7% covered by water bodies, enhancing irrigation potential.",
+          "keywords": []
+        },
+        {
+          "section": "3.5. Problems of Root and Tuber Crops Production in Ethiopia",
+          "section_summary": "This section identifies major constraints to root/tuber production in Ethiopia. These include poor access to improved seeds and pesticides, unforeseen climate, and pest/disease problems. It also lists policy-related issues (prioritization of cereals), socio-economic problems (high capital costs, lack of market access), and technical constraints (crop bulkiness, low multiplication rates).",
+          "detailed_notes": "Constraints include: Poor access to inputs: lack of improved varieties, quality planting material, pesticides, weak extension, delayed distribution, leading to low yields (e.g., cassava). Disease and pest problems: major pests include aphids, tuber moths, leaf miners, green mite, beetle, butterfly, hornworm, weevil; major diseases include late blight (serious threat), viruses, bacterial wilt. Policy-related problems: government and extension prioritize cereals over roots/tubers; pesticide coverage for roots/tubers is lower than for pulses. Socio-economic problems: production is capital-intensive (bulky seed, high-cost pesticides), limited access to markets, storage, processing, information, and transport. Technical constraints: crop bulkiness, low multiplication rates, phytosanitary restrictions, and dry matter content.",
+          "keywords": []
+        },
+        {
+          "section": "3.6. Root and Tuber Crops Managements and Protection",
+          "section_summary": "This section details management and protection practices for roots/tubers. It covers land preparation, irrigation, fertilization, cultivation/weeding, and pest management. It emphasizes the importance of integrated pest management (IPM) using cultural, mechanical, biological, and chemical control methods.",
+          "detailed_notes": "Management practices: Land preparation according to crop requirements. Irrigation: evaluate water quality, moisture level, and apply based on growth stage, environment, and soil type. Cultivation and fertilizer application: remove weeds before flowering/seed setting, mound soil around stems (earthing up), avoid exposing tubers to sunlight, observe for nutrient deficiency. Pest management: use Integrated Pest Management (IPM) options. Cultural control: crop rotation, weed control, sanitation, resistant varieties, mulching. Mechanical & physical control: traps, handpicking, tillage, seed/seedling treatment. Biological control: use of living organisms to control pests. Chemical control: use of pesticides.",
+          "keywords": []
+        },
+        {
+          "section": "3.7. Harvesting and Post-harvest Handling of Root and Tuber Crops",
+          "section_summary": "This section emphasizes that harvested roots/tubers are living organisms susceptible to post-harvest losses due to physical, chemical, and physiological processes. It highlights that they are more perishable than grains due to higher moisture content and metabolic activity, with losses primarily caused by physiological disorders (moisture loss) and microbial spoilage, unlike grain losses which are mainly from external factors.",
+          "detailed_notes": "Roots and tubers are living organisms, so physical, chemical, and physiological processes continue in storage, leading to postharvest losses. Due to higher moisture content, greater physical damage susceptibility, and higher metabolic activities, they are more perishable than grains. Grain losses are primarily from external factors (insects, rodents, molds), while root/tuber losses are caused by physiological disorders (loss of moisture) and microbial spoilage. Proper handling is needed to reduce these losses.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "unit_title": "Coffee, Tea and Spices Production and Management",
+      "sections": [
+        {
+          "section": "4.1. History, Origin, Production Status and Economic Importance of Coffee, Tea and Spices",
+          "section_summary": "This section provides an overview of the history, origin, production, and economic importance of coffee, tea, and spices. It details the legendary origin of coffee in Ethiopia (Kaffa) and its spread, the history of tea in China and its introduction to Ethiopia, and the ancient trade of spices. It highlights the economic importance of coffee as a major export and livelihood source in Ethiopia, tea as a non-alcoholic beverage and source of foreign currency, and spices for employment, income, and value addition.",
+          "detailed_notes": "Coffee: Name derived from Kaffa; history dates to 850 CE (Kaldi legend). Coffea arabica originates from SW Ethiopian highlands. Major species: Arabica, Robusta, Liberica. Coffee is crucial: cultivated on ~10.3 million ha globally, supports >25 million families, produced/exported by >60 nations, 125 million people depend on it. In Ethiopia, accounts for 25-30% of export earnings and 5% of GDP. Tea: Originated in China (Shen Nung legend), spread via Portuguese in 16th century. Introduced to Ethiopia in 1920s (Empress Zewditu). Camellia sinensis is the tea plant. Global tea production ~2.68-3.1 billion kg. Ethiopia produces ~7,000 tones; consumption low (70 gm/year vs. 1.9 kg/yr in Britain). Economic importance: source of foreign currency, contributes to food security. Spices: Aromatic plant parts used for flavoring/coloring food. Origin traced to ancient Egypt; trade controlled by Arabs, later spread to India, China, Indonesia, America. Indigenous/exotic origins. Global production 12.8 million tons (2018). Ethiopia produces >50 spice crops, potential 200,000 ha, main ones include chili, turmeric, ginger, cumin. Production increased significantly. Economic importance: employment, income ('safety net'), export opportunities, value addition.",
+          "keywords": []
+        },
+        {
+          "section": "4.2. Ecological and Soil Requirements for Coffee, Tea and Spices Production",
+          "section_summary": "This section details the specific ecological and soil requirements for coffee, tea, and various spices. It provides optimal rainfall, temperature, and soil conditions. For instance, Arabica coffee thrives at 18-24°C with 1524-2286 mm rainfall on volcanic red earth/sandy loam soils (pH 5.5-6.5). Tea requires 21-29°C, >1200mm rainfall, and volcanic soils (pH 4.5-5.5). Spices like ginger (28-35°C, heavy rain, humus soil), turmeric (20-30°C, 1000-2000mm, sandy/clay loam), korerima (12-28°C, >1500mm, forest soils pH 5.0-6.5), and pepper (10-40°C, 1250-2000mm, clay/red/sandy loam pH 4.5-6.0) are also detailed.",
+          "detailed_notes": "Coffee: Arabica: optimal rainfall 1524-2286 mm, temp 18-24°C, soil volcanic red earth or sandy loam, well-aerated, free-draining, slightly acidic (pH 5.5-6.5). Robusta: rainfall 1016-2540 mm, temp 24-26°C. Liberica: similar. Tea: moderate to high rainfall (>1200mm, irrigation if less), temp 21-29°C, volcanic origin soils, pH 4.5-5.5. Spices: Ginger: heavy/distributed rainfall, temp 28-35°C, deep well-drained humus soil. Turmeric: rainfall 1000-2000mm, temp 20-30°C, well-drained friable rich sandy/clay loam. Korerima: rainfall >1500mm, temp 12-28°C, well-drained humus-rich forest soil, pH 5.0-6.5. Pepper: rainfall 1250-2000mm, temp 10-40°C, clay/red/sandy loam/lateritic soils, pH 4.5-6.0.",
+          "keywords": []
+        },
+        {
+          "section": "4.3. Propagation, Nursery Establishment and Management of Coffee and Tea Seedling Crops",
+          "section_summary": "This section covers propagation methods for coffee and tea. Coffee can be propagated by seed (sexual) or vegetatively (cuttings, grafting). Seed propagation involves selecting healthy mother trees and processing ripe cherries. Vegetative propagation (cuttings) is faster. Tea can be propagated by seed or vegetatively (stem cuttings). Nursery establishment requires selecting suitable land with water, good drainage, shelter, and transport facilities. Criteria for tea site selection include slope (<55%), soil depth (>100cm), and profile.",
+          "detailed_notes": "Coffee: Propagation by seed: select healthy, vigorous mother trees at least 1 year before; harvest big, healthy red cherries; remove pea berries, broken/infested beans. Vegetative propagation: grafting or cuttings. Cuttings are more efficient for faster production: choose healthy straight branch, cut a 4-5 inch section, plant in potting mix (half perlite/half peat), keep moist. Nursery: raise seedlings in pots/bags to protect taproot, transplant when ready. Tea: Propagation by seed: direct sowing or nursery raising. Vegetative ('clonal') propagation: single-node stem cuttings with one leaf and auxiliary bud; plant in plastic bags under shade, leaving 12mm stem above soil. Advantages: cloning desirable traits, fast/easy/cheap. Disadvantages: weaker fibrous root system vs. taproot from seeds. Nursery site selection: criteria include water, no wind, even slope, shade, transport. Tea site selection: slope (<55%, though 70% acceptable in high erosion risk), soil depth (>100 cm), profile (not >10% gravel). Land preparation: clearance, soil conservation, rehabilitation.",
+          "keywords": []
+        },
+        {
+          "section": "4.4. Field Establishment and Management Practices of Coffee, Tea and Spices",
+          "section_summary": "This section outlines field establishment and management for coffee and tea. Coffee requires land preparation a year in advance, including planting windbreaks, marking rows, and establishing shade trees. Young coffee needs weed control, mulching, and regular watering. Tea management includes mulching to control erosion/moisture, manual weed control (cheeling, sickling), and pruning to maintain plant height (~1.5m) and quality. Plant quality is influenced by bush age, plucking standard, plucking round, and time since pruning.",
+          "detailed_notes": "Coffee: Prepare land at least one year before planting. Procedures: land preparation, plant windbreaks, mark rows, establish shade trees, prepare irrigation. Planting: prepare holes (600x600x600 mm), mix topsoil with farmyard manure (2kg) and TSP (85g), fill with topsoil. Field management: weed control (essential under canopy, use mulch), water plants (2-3 times per week initially, especially June-August planting). Tea: Management practices: Mulching (controls erosion, moisture, weeds), Weed management (manual cheeling/sickling/mulching), Pruning (cutting branches for fruitful growth, keep height ~1.5m). Plant quality factors: bush age, plucking standard, plucking round, time since pruning. Proper management of young tea is an investment. Density: 15,000-16,000 plants/ha. Spacing: min 60 cm between plants, max 100 cm between rows.",
+          "keywords": []
+        },
+        {
+          "section": "4.5. Harvesting and Processing of Coffee, Tea and Spices",
+          "section_summary": "This section details the harvesting and processing methods for coffee, tea, and spices. Coffee cherries are harvested by strip or selective picking. Processing is by dry or wet methods, followed by milling (hulling, polishing, grading/ sorting), roasting, and grinding. Tea is harvested by plucking (manual or mechanical), then processed through withering, rolling, fermentation, and drying. Spices processing involves washing, grading/cleaning, drying, grinding, and packaging.",
+          "detailed_notes": "Coffee: Harvesting: strip picking (all cherries stripped) or selective picking (only red cherries). Processing: Dry method (sun-drying whole cherries) or Wet method (using water to separate and ferment beans). Milling: Hulling (removes parchment), Polishing (removes silver skin), Grading/Sorting (by size, weight, color). Exporting: green coffee shipped. Roasting: transforms green beans to aromatic brown beans, done in importing countries. Grinding: depends on brewing method. Tea: Plucking/Harvesting: manual (selecting first two leaves and new bud) or mechanical; best in morning for quality. Processing: Withering (reduce moisture from 80% to 68-70%), Rolling (damage cell walls, distribute juices), Fermentation (oxidation process, leaves turn copper-red), Drying (stop oxidation, reduce moisture to 2-3% at 100-150°C). Spices: Processing stages: Washing, Grading/Cleaning, Drying, Grinding, Packaging. Drying: sun or powered dryers; quick drying improves microbial quality. Storage: pack quickly in clean plastic sacks to prevent moisture. Grinding: using hammer or disc mill, pass through fine sieve. Packaging: depends on product, market, and climate.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "unit_title": "Introduction to Plant Biotechnology",
+      "sections": [
+        {
+          "section": "5.1. Introduction to Tissue Culture",
+          "section_summary": "This section introduces plant tissue culture (micropropagation), the in vitro technique of growing plant cells, tissues, or organs on an artificial nutrient medium under aseptic conditions. It is based on the principle of totipotency, the ability of a single cell to develop into a whole organism. The process requires specific laboratory conditions and equipment, controlled nutrients, pH, temperature, and plant hormones like auxins (for root development) and cytokinins (for shoot development).",
+          "detailed_notes": "Plant tissue culture (micropropagation) is the technique of growing plant cells, tissues, and organs on an artificial nutrient medium under aseptic (germ-free) conditions. It involves in vitro cultivation of plant parts (seeds, organs, embryos, tissues, single cells, protoplasts). It is based on totipotency, the capacity of a cell to develop into an organism by regeneration. Requires space, an exclusive lab, equipment (vacuum pump, autoclave, culture tubes, flasks, glassware), and controlled conditions (nutrients, pH, temperature, gases, auxins, cytokinins). Auxins stimulate root development; cytokinins stimulate shoot development.",
+          "keywords": [
+            {"keyword": "Culture", "definition": "The term generally used for artificial growth of plant/crop."},
+            {"keyword": "Totipotency", "definition": "The capacity of cell to develop into an organism by regeneration."},
+            {"keyword": "Aseptic condition", "definition": "The absence of germs, such as bacteria, viruses, and other microorganisms that can cause disease."}
+          ]
+        },
+        {
+          "section": "5.2. Types of Crops Produced by Tissue Culture",
+          "section_summary": "This section lists examples of crops that can be produced via tissue culture. It includes medicinal plants (e.g., Aloe, Eucalyptus), ornamental plants (e.g., Rosa, Iris), and agricultural plants (e.g., Asparagus, Potato, Banana, Citrus, Sugarcane). Specific details for Asparagus and Potato are given, noting the use of tissue culture for clonal propagation of desirable traits (e.g., male Asparagus plants for higher yield) and producing disease-free plants (e.g., Potato).",
+          "detailed_notes": "Tissue culturing is used for medicinal plants (Aloe, Eucalyptus, Citrus), ornamental plants (coriander, myrrh, cardamom, chat, caraway, rosa, iris, hyacinth, freesia, begonia), and agricultural plants (asparagus, cucumber, grapevine, banana, alfalfa, citrus, sugarcane, groundnut, potato). Asparagus: perennial, eaten as spears. Propagated by seed gives roughly equal male/female plants. Male plants are higher yielders; tissue culture allows vegetative propagation of male plants. Potato (Solanum tuberosum L.): annual solanaceous plant. Tissue culture used for rapid multiplication of disease-free plants. Disease-free tubers are washed, allowed to sprout, and used for propagation.",
+          "keywords": []
+        },
+        {
+          "section": "5.3. Benefits of Tissue Culture",
+          "section_summary": "This section outlines the advantages of plant tissue culture. These include rapid multiplication of genetically uniform plants (clones), production of plants without seeds/pollinators, regeneration of genetically modified plants, production of pathogen-free plants in sterile containers, germination of difficult seeds, and obtaining virus-free plants ('cleaned stock').",
+          "detailed_notes": "Benefits of tissue culture: Rapid multiplication of genetically uniform plants (clones) with desirable traits. Production of multiples of plants in the absence of seeds or pollinators. Regeneration of whole plants from genetically modified cells. Production of plants in sterile containers, reducing disease/pathogen transmission. Production of plants from seeds with low germination rates (e.g., orchids). Obtaining virus-free plants ('cleaned stock') for rapid multiplication and use in horticulture/agriculture.",
+          "keywords": []
+        },
+        {
+          "section": "5.4. Introduction to Genetic Engineering",
+          "section_summary": "This section defines genetic engineering as the direct manipulation of an organism's genetic material (DNA) to produce desirable traits. It contrasts genetic engineering with conventional breeding. Conventional breeding is limited to closely related species, takes longer, and may transfer undesirable genes. Genetic engineering allows direct transfer of specific genes between distantly related organisms, achieves results faster, and can remove or switch off specific genes.",
+          "detailed_notes": "Genetic engineering (genetic modification) refers to methods used to change the genetic information in an organism to produce a desirable trait. It involves direct genetic modification using DNA recombination. Conventional breeding: limited to exchanging genes between same or closely related species; no guarantee of particular gene combinations; may transfer undesirable genes; takes a long time. Genetic engineering: allows direct transfer of one or a few genes between closely or distantly related organisms; achieves improvement faster; can modify organisms by removing or switching off particular genes.",
+          "keywords": []
+        },
+        {
+          "section": "5.5. Application of Genetic Engineering in Crop Production",
+          "section_summary": "This section describes the applications of genetic engineering in agriculture. Benefits include increased crop yields, reduced pesticide use, enhanced nutrient composition, pest/disease resistance, and improved food security. It provides the example of 'Golden Rice,' which was engineered with genes from daffodils, pea, bacteria, and virus to produce beta-carotene (provitamin A). Transgenic breeding allows gene transfer across taxonomic boundaries and is used for traits like herbicide/insect/viral/bacterial resistance, improved nutrition, and abiotic stress tolerance.",
+          "detailed_notes": "Applications of genetic engineering in crop production: Increased crop yields, reduced costs for food/drug production, reduced need for pesticides, enhanced nutrient composition/food quality, pest/disease resistance, greater food security, medical benefits. Recombinant DNA and transformation allow using genes from any source for crop improvement. Example: 'Golden Rice' - engineered with genes from daffodils, pea, bacterium, and virus to enable rice grains to accumulate beta-carotene (converted to vitamin A). Transgenic breeding enables transfer of genes across taxonomic boundaries, unlike conventional breeding. Applications: herbicide resistance, insect resistance, viral/bacterial/fungal resistance, improved nutritional qualities, abiotic stress tolerance.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "unit_title": "Beef Cattle Production and Management",
+      "sections": [
+        {
+          "section": "6.1. Beef Cattle Breeds and Methods of Selection",
+          "section_summary": "This section introduces beef cattle breeds, distinguishing between tropical (e.g., Boran, Brahman) and temperate breeds (e.g., Hereford, Angus). It defines key traits for selection (weaning weight, dressing percentage, carcass traits, marbling, meat quality) and emphasizes that selection is based on criteria like growth rate, feed intake, disease tolerance, and meat quality. Temperate breeds are known for beef but may require different management than tropical breeds.",
+          "detailed_notes": "Tropical breeds (used for beef): Boran, Africaner, Brahman, Gir, Nelore, Guzerate, Red Sindhi, Indo-Brazilian, Ankole-Watusi; used for crossbreeding. Temperate breeds: Hereford, Angus, Shorthorn, South Devon, Charolais, known for beef. Key terms: Beef (meat from bovines), Fattening/finishing (laying fat/muscle), Beef cattle (breeds for meat), Dual/multi-purpose breed (beef, dairy, work). Selection traits: Birth weight, Pre-weaning weight, Post-weaning weight, Yearling weight, Weaning weight (weight at ~205 days), Dressing percentage (carcass weight/live weight x 100), Carcass weight, Carcass grade (quality, cutability), Carcass fat thickness, Carcass loin-eye-area (muscle area), Carcass tenderness, Marbling (intramuscular fat), Meat quality (compositional quality and palatability). Carcass traits divided into quality (marbling, fat thickness, yield grade) and quantity (live weight, hot carcass weight, dressing percentage). Selection methods: Genetic improvement based on preset objectives (high meat yield, quality meat, fast growth rate, high feed intake, disease/heat tolerance, foraging ability).",
+          "keywords": [
+            {"keyword": "Beef", "definition": "Meat from bovines, especially domestic cattle (cows, bulls, heifers, or steers)."},
+            {"keyword": "Fattening or finishing", "definition": "The laying of fat or muscle."},
+            {"keyword": "Beef cattle", "definition": "Breeds of cattle that have been primarily used to produce meat."},
+            {"keyword": "Dual/multi-purpose breed", "definition": "Breeds selected for both beef, dairy production, work, etc."},
+            {"keyword": "Feedlot", "definition": "A type of animal feeding operation which is used in intensive animal farming, notably beef cattle, but also swine, sheep, chickens, prior to slaughter."}
+          ]
+        },
+        {
+          "section": "6.2. Beef Cattle Feeds and Feeding Methods",
+          "section_summary": "This section discusses feed resources (dry feeds like hay and grains; green feeds like pasture; high moisture feeds like silage) and feeding methods. Nutrient requirements depend on maintenance, reproduction, lactation, and growth. Factors determining nutritional needs include breed, age, weight, level of production, activity, environmental conditions, and physiological status. The availability of feed resources is linked to agroecology, season, and farming system. In Ethiopia, natural pasture, crop residues, and commercial feeds (noug seed cake, cotton seed cake, bran, ground sorghum, maize) are used.",
+          "detailed_notes": "Feed resources: Dry feeds (hay, grains, oilseed meals, straw, stover, corn cobs/husks, soybean hulls, cottonseed hulls, peanut hulls, oat/rice hulls), Green feeds (pasture, green chop), High moisture feeds (high-moisture grain, haylage, wet byproducts, roots/tubers, fresh milk, silage, cactus, enset). Availability depends on agroecology, season, location, farm scale. In Ethiopia: natural pasture, crop residues (maize stover, teff straw, stalker), improved cultivated forage, maize grain. Commercial fatteners use noug/cotton seed cake, faba/lentil bean bran (protein sources), wheat bran, ground sorghum, maize (energy sources). Feeding methods: Nutrient requirements for maintenance, reproduction, lactation, growth. Factors determining requirements: Age/Weight (larger/older animals need more), Breed (heavy-muscled breeds need more), Level of production (heavy milkers need more), Activity (increased activity needs more), Environmental conditions (heat stress decreases intake), Physiological status (pregnancy/lactation alters metabolism).",
+          "keywords": []
+        },
+        {
+          "section": "6.3. Beef Cattle Housing",
+          "section_summary": "This section explains the importance of housing for protecting cattle from environmental stress and predators, making management easier. It details considerations for site selection (location, ventilation, direction), with gable roofs preferred. In Ethiopia, open overhead shelters with enclosures are common, especially in commercial fattening, while medium/small-scale farms often use open enclosures.",
+          "detailed_notes": "Housing protects animals from environmental stresses (solar radiation, rain, wind, predators), enhances performance, and makes management easier (feeding, watering, breeding). Considerations: Location (soil, drainage, road access, proximity to other farms), Ventilation (sufficient air circulation, minimizes heat/humidity stress), Direction (east-west to protect from sun/rain), Roof (gable roof preferred for protection). In Ethiopia, open overhead shelter with enclosures is predominant in commercial fattening; medium/small-scale farms use open enclosures.",
+          "keywords": []
+        },
+        {
+          "section": "6.4. Major Diseases of Beef Cattle and Control Methods",
+          "section_summary": "This section lists major infectious diseases (viral, bacterial) and parasites affecting beef cattle. Viral diseases include Rinderpest, Foot and Mouth Disease (FMD), Rabies, Bovine Viral Diarrhea (BVD). Bacterial diseases include Contagious Bovine Pleuropneumonia (CBPP), Tuberculosis (TB), Anthrax, Blackleg. Protozoal diseases include Trypanosomiasis, Coccidia. Internal parasites (nematodes, tapeworms, liver flukes) and external parasites (flies, ticks, lice, mites) are also discussed. Control strategies involve vaccination, quarantine, disinfection, and integrated parasite management.",
+          "detailed_notes": "Viral Diseases: Rinderpest (RP): acute, highly contagious fatal disease; symptoms: high fever, nasal discharge, erosions, bloody diarrhea; no treatment; prevention: vaccination, destruction of infected animals. Foot and Mouth Disease (FMD): acute, contagious disease of cloven-footed animals; symptoms: vesicles/erosions on muzzle, mouth, feet, teats; no treatment; prevention: vaccination. Rabies: acute infectious viral disease of central nervous system; symptoms: restlessness, aggression, paralysis; no treatment; prevention: vaccination, control source. Bovine Viral Diarrhea (BVD): disease causing erosive stomatitis, gastroenteritis, diarrhea; symptoms: fever, congestion, depression, diarrhea; no treatment; prevention: vaccination. Bacterial Diseases: Contagious Bovine Pleuropneumonia (CBPP): acute/subacute/chronic infectious disease caused by Mycoplasma; symptoms: fever, lack of appetite, cough, breathing difficulty; treatment: Tylosin, danofloxacin; prevention: vaccination. Bovine Tuberculosis (TB): chronic disease caused by Mycobacterium bovis (zoonotic); symptoms: chronic cough, emaciation, lymph node swelling; treatment: antibiotics; no proven prevention. Anthrax: peracute septicemic disease caused by Bacillus anthracis; symptoms: staggering, trembling, sudden death, tarry blood from openings; treatment: antibiotics; prevention: vaccination. Protozoal Diseases: Trypanosomiasis, Coccidia, Cryptosporidium. Internal parasites: Nematodes (round worms), Tapeworms, Liver flukes. External parasites: Horn flies, face flies, stable flies, grubs, ticks, lice, mites. Control strategies: risk-based surveillance, proper diagnosis, vaccines, functional veterinary services, anthelmintic drugs, sanitation/ hygiene, drainage, rotational grazing.",
+          "keywords": []
+        },
+        {
+          "section": "6.5. Meat Production and Processing",
+          "section_summary": "This section covers meat production status in Ethiopia, noting low per capita consumption and productivity compared to global averages. Meat is often from old oxen, culled cows, and surplus bulls. Meat processing involves slaughtering and various physical/chemical treatments (salting, curing, smoking, drying, canning). These processes aim to preserve meat, enhance flavor/color, and ensure safety, using methods like controlling temperature, water activity, and microorganisms.",
+          "detailed_notes": "Meat production in Ethiopia: significant proportion from old oxen (draft), culled cows, surplus bulls. Average live weight: 250 kg, carcass weight: 110 kg, dressing percentage: 44%. Total meat production increased over time but Ethiopia contributes only 0.2% to world total. Low off-take rates, inability to meet international standards, live animal exports. Per capita meat consumption ~8 kg (low vs. 25 kg in developing countries, 77 kg in developed). Meat Processing: starts with slaughtering, stunning, bleeding. Processing steps: Physical/technical processes: cutting, chopping, mixing, tumbling, stuffing, heat treatment, freezing, drying. Chemical/biochemical processes: salting (increases water-holding capacity, preserves by binding water), curing (with NaCl and NaNO2 for red/pink color, preservation), smoking (infiltrates smoke for flavor, color, preservation effect), drying (lowers water activity to halt microbial growth, e.g., 'quanta'), canning (heat sterilization in hermetic container to prevent recontamination; must inactivate Clostridium botulinum to prevent botulism).",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "unit_title": "Sheep and Goat Production and Management",
+      "sections": [
+        {
+          "section": "7.1. Sheep and Goat Breeds and Methods of Selection",
+          "section_summary": "This section describes indigenous and exotic sheep and goat breeds. Indigenous sheep (e.g., Menz, Afar) and goats (e.g., Afar, Arsi-Bale) are well-adapted to local conditions. Exotic breeds (e.g., Awassi, Dorper for sheep; Boer, Anglo-Nubian for goats) are known for superior meat/milk production. Breed selection should be based on performance data and adaptability to the local environment, using indigenous breeds as a base for improvement before introducing exotics.",
+          "detailed_notes": "Key terms: Does (mature female goats), Buck (intact male goats), Ewe (mature adult female sheep), Ram (male sheep aged >12 months), Lamb (sheep under 12 months). Indigenous Sheep Breeds (Ethiopia): ~14-15 breeds: Afar (hardy, small, fat tail), Arsi-Bale, Blackhead Somali, Horro, Menz (prominent coarse wool-bearing, black/dark brown, fat short tail), Washera. Indigenous Goat Breeds: Classified by origin, body size (small/medium/large), ear shape (long/short/lop), function (meat/milk/skin). Important breeds: Afar (meat), Arsi-Bale (twins/multiple kids, meat/milk/skin). Exotic Breeds: Imported for genetic improvement. Awassi sheep (fat-tailed, meat/wool/dairy, high milk, brown/white). Dorper sheep (meat breed developed in South Africa, fast-growing, adapted to dry conditions, black head/white body). Boer goat (South Africa, meat, large, white with red/brown head). Anglo-Nubian goat (dual-purpose meat/milk, developed from Indian/Egyptian breeds, adapted to tropics, large). Selection: Based on performance data from groups raised in the same environment. Comparisons should be realistic for lifetime production, reproduction, mortality, morbidity.",
+          "keywords": [
+            {"keyword": "Does", "definition": "Mature female goats."},
+            {"keyword": "Buck", "definition": "Intact males are called bucks. When male lamb reaches 1 year old, they become known as bucks unless they are castrated."},
+            {"keyword": "Ewe", "definition": "Mature adult female sheep."},
+            {"keyword": "Ram", "definition": "A male sheep aged over 12 months."},
+            {"keyword": "Lamb", "definition": "Sheep under the age of 12 months."}
+          ]
+        },
+        {
+          "section": "7.2. Sheep and Goat Feeds and Feeding",
+          "section_summary": "This section details the feeding habits and feed resources for sheep and goats. Goats are more selective browsers than sheep. Natural grazing is the primary feed source in Ethiopia, supplemented by crop residues and agro-industrial by-products in mixed crop-livestock systems. Nutrient requirements depend on physiological state and function, with specific energy and protein needs for maintenance and milk production.",
+          "detailed_notes": "Sheep and goats have different feeding habits. Goats are more selective, browse more (especially under extensive conditions), and consume a wider variety of feedstuffs than sheep, but this is reduced under intensive management. Feed resources: Predominantly natural grazing lands; little land for pastures/forages (especially in pastoral/agro-pastoral areas). Crop residues and agro-industrial by-products (oilseed cakes, molasses, milling by-products) are important in mixed systems. Table 7.1 lists availability in different systems. Nutrient requirements: depend on physiological state/function (maintenance, growth, reproduction, lactation). Daily nutrient requirements per kg of milk production are given in Table 7.3. Strategies: match production systems to feed resources, use agricultural/industrial by-products efficiently, encourage increased intake.",
+          "keywords": []
+        },
+        {
+          "section": "7.3. Sheep and Goat Housing",
+          "section_summary": "This section covers housing requirements for sheep and goats, emphasizing simple designs that are light, well-ventilated, drained, and clean. Housing types include ground-level housing (common in tropics), stilted housing (for better ventilation and cleaning), and corals (for large flocks). Space requirements vary by housing type (confinement vs. night housing) and animal class. Roof design and wall construction are important for protection and ventilation.",
+          "detailed_notes": "Housing should be light, well ventilated, well drained, protective, and easily cleaned. Design includes floor plan, walls, roofing, feeding/watering troughs, sorting pens, lambing/kidding units, hospital area, dips/spray races, foot baths. Types: Ground level housing (common in tropics, leanto type or single buildings for larger flocks, double cone roofing for ventilation). Stilted housing (floor raised 1.5m, good ventilation, common in high rainfall areas). Corals (used for large flocks under extensive conditions, sloped roof). Space requirements: Table 7.4 provides space requirements for breeding females (1.2 m² in confinement, 0.8 m² for night housing), breeding males (2.0 m², 1.5 m²), young stock (0.8 m², 0.5 m²). Roof: important for protection, should remain cool/watertight; high roof encourages air movement. Walls: partially open in warm climates for ventilation; complete walling to keep out predators.",
+          "keywords": []
+        },
+        {
+          "section": "7.4. Major Diseases of Sheep and Goat and Methods of Controlling the Diseases",
+          "section_summary": "This section identifies major diseases (CCPP, Maedi-visna, RVF, PPR, sheep/goat pox) and parasites (internal: abomasal worms, liver flukes, intestinal worms, protozoa; external: ticks, lice, mites, flies) affecting sheep and goats in Ethiopia. Control strategies include quarantine, vaccination, biological vector control, disinfection of fomites, drenching/spraying, and pasture management. Disease prevention is emphasized as more effective than treatment.",
+          "detailed_notes": "Major diseases: Contagious Caprine Pleuropneumonia (CCPP): per-acute/acute/chronic contagious respiratory disease of goats, prevalent in Rift Valley/lowlands. Maedi-visna: viral disease of sheep (also goats), transmitted via infected colostrum/milk or nasal discharges. Rift Valley Fever (RVF): viral infection, transmitted by mosquitoes, occurs after wet periods. Sheep and goat pox: severe in young animals, spreads by direct contact. Parasites: External: ticks, lice, sheep ked, mites (Psoropticovis, Sarcopticovis), flies. Internal: abomasal worms (nematodes), liver flukes (trematodes), intestinal worms (cestodes), protozoa (coccidia). Control strategies: Quarantine (isolate infected/suspected animals), Vaccination (routine for pasteurellosis, sheep/goat pox, anthrax, PPR), Control biological vectors (insects, birds, rodents), Disinfestation of fomites (equipment), Disease prevention (more effective than cure), Drenching/Spraying (for internal/external parasites, especially in intensive conditions).",
+          "keywords": []
+        },
+        {
+          "section": "7.5. Sheep and Goat Meat and Milk Production and Processing",
+          "section_summary": "This section discusses meat and milk production from sheep and goats. Meat is the most important product in tropical countries, with quality influenced by growth rate, fat distribution, and castration. Slaughtering procedures and safe handling practices are outlined. Milk production is generally low in tropics, but sheep/goat milk has high solids and is easier to digest than cow milk. Processing techniques (pasteurization, cheese, yoghurt, butter, ghee) are similar to cow milk processing.",
+          "detailed_notes": "Meat: Most important product in tropical countries, often used for celebrations. Goat meat: dark color, coarse texture, fat deposited on viscera, male smell. Efficiency: energy 4.7%, protein 9.1%. Criteria: growth rate, total number, efficiency. Quality: fat quantity/distribution important. Growth rate: 20-200 g/day; males grow faster, females get fatter, castration reduces growth/increases fatness. Slaughtering: methods include mechanical (penetrative/non-penetrative captive bolt, firearms) and electrical (head-only, head-to-body). Processing: slaughterhouse, farm, or home. Safe handling: clean animal, hold off feed overnight, clean work area, sanitize hands/knives, don't let hide touch meat, chill carcass at <4°C, age 3-7 days for tenderness, freeze at <0°C for longer storage. Processing methods: salting, curing, fermentation, smoking, chemical preservatives. Milk: Sheep milk production low in tropics (<1 liter/ewe/day is excellent). Goat milk more common. Sheep milk: high solids, concentrated fat/protein. Goat milk: less lactose, smaller fat globules, easier to digest. Processing: receiving, filtering, standardizing, pasteurizing, chilling, packing, storing, distributing. Products: cheese, yoghurt, butter, ghee (sheep/goat).",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "unit_title": "Camel Production and Management",
+      "sections": [
+        {
+          "section": "8.1. Camel Breeds and Selections",
+          "section_summary": "This section describes the two types of camels: one-humped (dromedary, Camelus dromedarius) for hot deserts and two-humped (Bactrian, Camelus bacterianus) for cold deserts. It lists FAO-recognized breeds in Ethiopia (Somali, Afar, Borena). Key traits for selection include body size, growth rate, and work performance for males; age at first calving and milking ability for females.",
+          "detailed_notes": "Two types: Dromedary (one-humped) evolved in hotter arid areas (central/southern Arabia), adapted to Africa, have short/fine/sparse coat, longer limbs, broad feet, trapdoor nostrils for sandstorms. Bactrian (two-humped) evolved in cold deserts of central Asia, have longer hair, shorter/wider skull, reddish-brown coat. Wild Bactrian (Camelus ferus) is critically endangered in China/Mongolia. Ethiopian breeds recognized by FAO: Somali/Ogaden, Ethiopian Dromedary, Afar, Anfi, Borena. Selection: Breeding males: based on body size, growth rate, color, work performance, libido. Breeding females: based on age at first calving, milking ability, udder size/shape, pedigree, growth rate.",
+          "keywords": []
+        },
+        {
+          "section": "8.2. Camel Feeds and Feeding",
+          "section_summary": "This section discusses camel feeding habits as opportunistic browsers that accept a wide range of plants (e.g., acacia, salt bushes). They graze grasses when browse is unavailable. Supplements (protein like groundnut cake, energy like maize, salt) are recommended, especially for lactating camels. Camels are highly resistant to water deprivation, can lose up to 20% body weight, and can drink up to 200 liters in 20 minutes.",
+          "detailed_notes": "Camels are versatile, opportunistic feeders, accepting a wide range of browse species (e.g., camel thorn, acacia, salt bushes). They graze grasses when trees/bushes are not available. Pastoralists migrate in dry season for feed/water. Supplements: protein (groundnut cake) 4kg/day for lactating camels improves milk yield; energy (maize); mineral salt (0.5kg table salt per head at 2-month intervals, especially wet season). Water: highly resistant to deprivation, can lose 20% body weight, drink up to 200 liters in 20 minutes. Water requirement influenced by diet, minerals, ambient temperature, lactation.",
+          "keywords": []
+        },
+        {
+          "section": "8.3. Camel Housing",
+          "section_summary": "This section describes camel housing, primarily categorized as open or closed, depending on age, living environment, and predator protection. In Ethiopia, traditional kraals (enclosures made of thorny bushes) are used to protect animals from predators.",
+          "detailed_notes": "Housing categories: Open and Closed, based on camel age, living environment, material availability, predator exposure. Mature camels: housed in fence around home at night, herded during day. Calves: housed in separate enclosures (wood, thorn bushes). In Ethiopia: traditional kraal (thorny bushes enclosure, roughly circular) protects from predators.",
+          "keywords": [
+            {"keyword": "Kraal", "definition": "An enclosure for cattle or other livestock around the pastoralists' settlement or it is a village surrounded by a fence of thorn bush branches, roughly circular in shape."}
+          ]
+        },
+        {
+          "section": "8.4. Major Diseases of Camel and Methods of Their Control",
+          "section_summary": "This section notes that although camels are disease-resistant, they are susceptible to viral (camel pox, FMD), bacterial (anthrax, brucellosis), and parasitic infections. Control measures include separating sick animals and disinfection.",
+          "detailed_notes": "Camels are resistant to diseases but susceptible to viral (camel pox, FMD), bacterial (anthrax, brucellosis, corynebacteriosis), and parasitic (helminthiasis, hydatidosis, myiasis, mange, ticks) diseases. Major health problems in Ethiopia: Trypanosomiasis, camel pox, contagious erythema, dermatomycosis, pneumonia, mange mite infestations, internal parasites. Control: separate sick animal, disinfect.",
+          "keywords": []
+        },
+        {
+          "section": "8.5. Camel Meat and Milk Production and Processing",
+          "section_summary": "This section describes camel as a multipurpose animal. Meat production is increasing, with dressing percentage 45-55%. Camel meat markets are not well developed in Eastern Africa. Milk is the most important product in arid areas, with high vitamin C content. Ethiopia ranks 4th in camel milk production, with local fermented products like 'dhanaan' (Somali) and 'ititu' (Borana).",
+          "detailed_notes": "Camels are multipurpose (meat, milk, wool, skin, work, leisure). Meat: Adult weight 320-750 kg, dressing percentage 45-55%. Meat quality age-dependent. Production increased at 2.8% rate. Major producers: Sudan, Egypt, KSA, Somalia. Markets/consumption not well developed in Eastern Africa. Low reproductive rate limits efficiency. Milk: Most important product in arid/semi-arid environments. Total dry matter: 12-15%, protein: 2.7-4.5%, fat: 2.9-5.2%, lactose: 5.5%, high vitamin C (2.9 mg/100g). Daily yield: 3.5-20+ liters, annual: 800-4000+ liters. Ethiopia ranks 4th in annual production (~170,000 tons, 2021). Fermented products: 'dhanaan' (Somali region), 'ititu' (Borana zone).",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "unit_title": "Poultry Production and Management",
+      "sections": [
+        {
+          "section": "9.1. Poultry Breeds, Classification and Selection",
+          "section_summary": "This section classifies chicken breeds into pure commercial, hybrid, and local/landraces, and by utility (egg type, meat type, dual purpose, ornamental). It describes indigenous Ethiopian breeds (e.g., Horro, Chefe) which are hardy but low-producing, and exotic breeds used for eggs (Bovans Brown, White Leghorn) or meat (broilers like Babcock). Selection criteria include color, conformation, disease susceptibility, feed consumption, adaptability, productivity, and efficiency.",
+          "detailed_notes": "Categories: pure commercial breeds, hybrid (crossbred), local/landraces. Utility types: Egg type (e.g., Leghorn), Meat type (e.g., synthetic), Dual purpose (e.g., Rhode Island Red), Ornamentals (e.g., Bantam). Indigenous Ethiopian breeds/ecotypes (e.g., Chefe, Gebsima, Horro, Jarso, Kei, Naked neck, Netch, Tepi, Tikur, Tilii): non-descriptive, related to jungle fowl, vary in color/comb/conformation, pronounced broodiness, scavenging habit, resistant to diseases, but slow growth/low production. Exotic breeds: Layers: Bovans Brown (docile, high egg numbers), White Leghorn (efficient white egg layers, little meat). Broilers: Babcock (for fattening), modern broilers (e.g., Babcock) grown for efficient meat production, reach harvest weight fast (5 weeks for 4-5 lbs). Dual purpose: Fayoumi (adapted to hot environments). Selection methods: evaluating color/conformation, disease susceptibility, feed consumption, hardiness, adaptability, productivity, efficiency. Selection/culling of layers based on individual performance (precocity, intensity, persistency of laying) and appearance (physical body make-up/change, physiological change).",
+          "keywords": []
+        },
+        {
+          "section": "9.2. Poultry Feeds and Feeding Methods",
+          "section_summary": "This section covers poultry feed resources and nutrient requirements. Feed resources include crops and by-products (maize, cereal debris), green feeds, and non-conventional (worms, insects). Nutrient requirements vary by type: layer rations require 2750 kcal ME/kg, 16.5% CP; broilers need specific calorie-protein ratios (135:1 for starters, 155:1 for finishers). Average feed consumption for layers is 115-125 gm/head/day.",
+          "detailed_notes": "Feed resources: crops/by-products (maize, cereal debris), green feeds (cabbages, grass, vegetables, weeds, enset by-product, alfalfa), non-conventional (worms, insects). Nutrient requirements: Average feed consumption for chickens up to 8 weeks: 40 gm/head/day; Calorie-protein ratio 135:1. Layers: ME/kg: 2750 kcal, CP: 16.5%, Ca: 3.5%, P: 0.8%; Calorie-protein ratio 170-180:1; Feed consumption 115-125 gm/head/day; FCR 1.8. Broilers: Objective is rapid growth; Calorie-protein ratio: Starters (0-3 weeks) 135:1; Finishers (>3 weeks) 155:1.",
+          "keywords": []
+        },
+        {
+          "section": "9.3. Poultry Housing",
+          "section_summary": "This section explains the purposes of poultry housing (protection from weather/predators, disease reduction, comfort, increased production) and essential features (watertight roof, ventilation, easy cleaning, rodent proof). It describes common types: Open Houses (two open sides, suitable for tropics), Open Front Houses (one open side, for temperate areas), Curtain Houses, Closed Houses, Deep Pit House, and High Rise Houses.",
+          "detailed_notes": "Purposes: protect from rain/wind/predators, reduce disease, provide nests for laying/hatching, increase production/income. Essential features: watertight roof, proper ventilation, easy-to-clean surfaces, rodent-proof. Types: Open Houses (two open sides, large roof overhang, wire mesh sides, suitable for tropical areas). Open Front Houses (one open side, suitable for 15-30°C, indoor/outdoor climate similar). Curtain Houses, Closed Houses, Deep Pit House, High Rise Houses.",
+          "keywords": []
+        },
+        {
+          "section": "9.4. Poultry Incubation and Hatchery Management",
+          "section_summary": "This section describes natural and artificial incubation. Artificial incubation requires precise temperature (37.5-39°C), humidity, ventilation, and sanitation. Factors for good production include temperature, humidity, ventilation, and hygiene. Collection and storage of hatching eggs (at least four times daily) and cleaning/disinfection of incubators are crucial.",
+          "detailed_notes": "Incubation: Natural (by hen) or Artificial (incubator). Artificial incubation requires temperature (37.5-39°C), humidity, ventilation. Hatchery management: Cleaning/disinfection of incubator after each cycle breaks disease cycle. Collection/storage of hatching eggs: collect at least four times a day. Factors for good production: temperature, humidity, ventilation, hygiene.",
+          "keywords": []
+        },
+        {
+          "section": "9.5. Poultry Brooding and Rearing",
+          "section_summary": "This section covers brooding, the critical period (first ~4 weeks in tropics) when chicks need supplementary heat. Methods include natural (by hen) and artificial (using electric, kerosene, or other heat sources). Care during this period is crucial to minimize mortality.",
+          "detailed_notes": "Brooding: critical period from one-day old to about four weeks in tropics; supplementary heat provided for chick comfort; highest mortality risk. Methods: Natural brooding (by hen) or Artificial brooding (heat sources: electric infrared bulbs, kerosene brooders, hot air/water/radiant heat).",
+          "keywords": []
+        },
+        {
+          "section": "9.6. Layers and Broilers Management",
+          "section_summary": "This section details management for layers and broilers. Layers start laying at ~20 weeks, peak after 8 weeks. Key aspects include feeders, drinkers, lighting (16 hours/day), and moving to laying house at 18 weeks. Broilers are raised on the 'all-in, all-out' principle, requiring special care for litter to prevent breast blisters. A small business scenario illustrates the profitability of egg production.",
+          "detailed_notes": "Layers: start laying at ~20 weeks, peak after 8 weeks ('laying percentage'). Management: Feeders, Drinkers (3 cm space/bird, clean cool water), Lighting (16 hrs/day, natural or artificial, 40W bulb at 3m apart, 60W at 5m). Age of moving to laying house: 18 weeks; change ration before first egg. Broilers: 'All-in, all-out' principle (only same-age birds on site). Reared to slaughter weight in 8 weeks, 2 weeks between batches. Litter care critical to prevent breast blisters and down-grading. Small business scenario: 50 layers producing 43 eggs/day; gross income 365.5 ETB/day; production cost 4.70 ETB/egg; net profit ~1143.8 ETB/week.",
+          "keywords": []
+        },
+        {
+          "section": "9.7. Major Diseases of Poultry and Controlling Methods",
+          "section_summary": "This section identifies major poultry diseases (Newcastle, infectious bursal disease, coccidiosis, helminth infestation, Salmonella, Campylobacter) and other issues (feather pecking, cannibalism). Control methods include good hygiene/disinfection, 'All-in-all-out' system, vaccination, anti-coccidial agents, and depopulation/cleaning in serious cases.",
+          "detailed_notes": "Major diseases: Newcastle disease, Infectious bursal disease, Avian coccidiosis, Helminth infestation, Ecto-parasite infestation, Salmonella, Campylobacter infections. Other issues: Feather pecking, Cannibalism. Control methods: good hygiene and disinfection, use 'All-in-all-out' system, vaccination, use anti-coccidial agents, quarantine, depopulation/cleaning/disinfection in serious cases.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "unit_title": "Fishery Production and Management",
+      "sections": [
+        {
+          "section": "10.1. Basic Terms in Aquaculture and Farmed Fish Species in Ethiopia",
+          "section_summary": "This section introduces aquaculture and Ethiopian fish fauna. It describes the diversity of indigenous fish (Nilo-sudanic, East African highland, endemic forms) and economically important families: Cichlidae (tilapias like Oreochromis niloticus), Centropomidae (Nile perch), Claridae (catfish), and Cyprinidae (Barbus, Labeo, carps). Exotic species (e.g., carp) have also been introduced.",
+          "detailed_notes": "Aquaculture: farming of aquatic organisms. Ethiopian fish fauna: mainly bony fish (teleosts); 153 indigenous + 10 exotic species. Forms: Nilo-sudanic (dominant in Nile basin, Omo-Gibe, Baro-Akobo), East African highland (northern Rift Valley lakes, highland lakes, Awash basin), Endemic (38 species, e.g., in Lakes Tana/Chamo). Exotic: carp in Koka/Fincha. Major families: Cichlidae: Oreochromis niloticus (Nile tilapia, 'Qoroso'), Tilapia zilli, T. galilaea. Centropomidae: Lates niloticus (Nile perch, carnivorous). Claridae: Clarias gariepinus (catfish, 'Ambaza', elongated, barbels). Cyprinidae: Barbus ('Nechasa'), Labeo, carp (Common, grass, silver introduced).",
+          "keywords": []
+        },
+        {
+          "section": "10.2. Basic Anatomy of Bony Fishes",
+          "section_summary": "This section describes the basic anatomy of bony fish. They have a bony skeleton, are generally flattened, have five pairs of gills protected by an operculum, a swim bladder, a mouth at/near the snout tip, and are covered with overlapping scales. External features include fins (supported by rays) and the operculum.",
+          "detailed_notes": "Bony fish: have bony skeleton, flattened body, five pairs of gills protected by operculum, mouth at/near snout tip, skin covered with overlapping scales, swim bladder for maintaining depth. External features: fins (supported by bony or soft spines/rays), operculum (gill cover).",
+          "keywords": []
+        },
+        {
+          "section": "10.3. Fish Feeds and Feeding Practices",
+          "section_summary": "This section discusses fish feeding. Fish occupy various trophic categories: detrivorous (feed on decomposing plants), scavengers (decaying animal flesh), plankton feeders, and herbivorous (plant materials). Feeding styles include ram, suction, and manipulating/biting. Food categories include basic, secondary, incidental, and obligatory.",
+          "detailed_notes": "Feeding is crucial for survival, growth, reproduction. Feeding styles: Ram feeding, Suction feeding, Manipulating/Biting. Feeding habits: four categories of food: basic, secondary, incidental, obligatory. Trophic categories: Detrivorous (dead/decomposed plants, e.g., Tilapia, Barbus), Scavengers (decaying animal flesh, e.g., Eel, clarias), Plankton feeders (phyto/zooplankton), Herbivorous (plant materials, algae; have delicate stomach, large intestine; e.g., Tilapia, Barbus).",
+          "keywords": []
+        },
+        {
+          "section": "10.4. Fish Culture Techniques",
+          "section_summary": "This section classifies fish culture based on species (monoculture, polyculture, mono-sex, poly-sex), enclosure (pond, cage, pen), density (intensive, semi-intensive, extensive), and integration (with pig, duck, rice). It highlights the potential of the Grand Ethiopian Renaissance Dam (GERD) for fish farming, estimating it could be six times more productive than Lake Hawassa.",
+          "detailed_notes": "Based on culture: Monoculture (one species), Polyculture (two or more species), Mono-sex culture (one sex of one species), Poly-sex culture (one sex of two or more species). Based on enclosure: Pond (advantages: easier cultivation; disadvantages: productivity not fully utilized), Cage, Pen. Based on density: Intensive, Semi-intensive, Extensive. Based on integration: Pig, Duck, Horticulture crop, Rice paddy. GERD potential: reservoir volume 74 billion m³; potentially six times more productive than Lake Hawassa (1.3 billion m³, 600 tons/year).",
+          "keywords": []
+        },
+        {
+          "section": "10.5. Fish Rearing",
+          "section_summary": "This section covers fish rearing management, including hatching, rearing (grow-out), and harvesting. Optimal conditions for tilapia include dissolved oxygen ~4 mg/L, pH >6.5, temperature ~25°C. Stocking densities affect growth/health, with high densities causing negative impacts and low densities leading to aggression.",
+          "detailed_notes": "Timeline: Hatching (caring for breeding colonies, spawning, egg extraction), Rearing (grow-out from fry/fingerling to market size), Harvesting (selecting/moving to finishing pond). Optimal conditions for tilapia: dissolved oxygen ~4 mg/L (low O2 -> mass death), pH >6.5 (good for algae growth), temperature ~25°C. Stocking density: up to 60 kg/m³, but high density may negatively impact growth/health, low density can cause aggression.",
+          "keywords": []
+        },
+        {
+          "section": "10.6. Fishing Methods",
+          "section_summary": "This section introduces fishing methods, categorizing fishing gears as passive (e.g., long line, gill net) and active (e.g., trawl, seine nets). Major fishing methods include netting, lining, trolling, trawling, and seining.",
+          "detailed_notes": "Fishing gear: Passive (not moved by man/machine, set stationary; e.g., long line, gill net, traps, pots). Active (towed/pulled in water column; e.g., trawl nets, seine nets, dredge nets, lift nets). Major methods: Netting, Lining, Trolling, Trawling, Seining.",
+          "keywords": []
+        },
+        {
+          "section": "10.7. Handling Fish and Fish Products",
+          "section_summary": "This section emphasizes that fish is highly perishable and requires proper handling to minimize losses. Processing stages include preliminary (grading, beheading, gutting) and main (preservation). Preservation methods control temperature, water activity, oxygen, pH, and microbes (chilling, freezing, smoking, drying, salting, canning, fermentation).",
+          "detailed_notes": "Fish is highly perishable; proper handling/processing/distribution needed to improve productivity. Slaughter in fishery abattoir; eviscerate immediately and preserve. Processing stages: Preliminary (grading, slime removal, beheading, scaling, washing, fin cutting, gutting/evisceration, slicing, fillet, grinding, meat-bone separation). Main (preservation). Preservation techniques: Temperature (chilling, refrigeration, freezing), Water activity (smoking, freeze-drying, drying), Oxygen (vacuum pumping), Chemical control (acids), Physical control (microwave, ionizing). Products: Cooked fish, Frozen fish, Dried fish, Smoked fish, Salted fish, Canned fish, Fermented fish.",
+          "keywords": []
+        },
+        {
+          "section": "10.8. Diseases in Aquaculture",
+          "section_summary": "This section lists common pathogens in aquaculture: viral (Channel Catfish Virus Disease - CCVD), bacterial (Motile Aeromonad Septicemia - MAS), water molds, and parasites. These can be obligate or opportunistic pathogens.",
+          "detailed_notes": "Pathogens: viruses (e.g., Channel Catfish Virus Disease - CCVD, a herpesvirus affecting juvenile catfish at >25°C, mortality up to 90%), bacteria (e.g., Motile Aeromonad Septicemia - MAS, common in freshwater/brackish), water molds (fungi), parasites. Some are obligate (require host), others are facultative (opportunistic).",
+          "keywords": []
+        },
+        {
+          "section": "10.9. Indigenous Knowledge in Fish Processing",
+          "section_summary": "This section describes local fish processing in Ethiopia. Most fish is sold fresh, but smoking and drying ('Quanta') are used in remote areas. 'Quanta' is made by filleting, cutting into strips, and sun-drying for 2-3 days. Storage and hygiene issues are common challenges.",
+          "detailed_notes": "Most Ethiopian fish sold fresh, but frozen filets are increasing. Smoking and drying used in remote areas. 'Quanta' (dried fish product) common around Arba-Minch: filleted, cut into strips, hung to dry for 2-3 days, packed in sacks, stored up to a month. Challenges: shortage of cold chains leading to losses; 'Quanta' often prepared in poor hygienic conditions (insufficient drying, stored on bare ground), decreasing quality.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 11,
+      "unit_title": "Apiculture",
+      "sections": [
+        {
+          "section": "11.1. Introduction to Honey Bee Management",
+          "section_summary": "This section introduces apiculture in Ethiopia, highlighting its comparative advantage due to over 7000 melliferous plant species and bimodal rains. Ethiopia has potential to produce 500,000 tons of honey and 50,000 tons of beeswax annually. Apiculture is integral to agriculture, contributing to household income, national economy, and pollination services crucial for many crops (worth ~0.815 billion dollars).",
+          "detailed_notes": "Ethiopia has >7000 melliferous plant species, bimodal rains allowing two harvests/year. Five wild bee species identified. >2 million bee colonies exist. Potential production: 500,000 tons honey, 50,000 tons beeswax per annum. Apiculture contributes to household income and national economy. Pollination services: 33 of 53 cultivated crops (62.2%) depend on biological pollinators; contribution valued at ~0.815 billion dollars (6.24% of agricultural GDP), though often unnoticed.",
+          "keywords": []
+        },
+        {
+          "section": "11.2. Bee Biology and Behavior",
+          "section_summary": "This section covers honey bee biology and behavior. Bees are social insects with a caste system (queen, workers, drones). They undergo complete metamorphosis (egg, larva, pupa, adult). Workers perform age-related tasks (inside hive to foraging). Physical characteristics include two pairs of veined wings, chewing-lapping mouth parts, three body regions (head, thorax, abdomen), and a thin waist. The colony behaves like a super-organism.",
+          "detailed_notes": "Social structure (caste): single reproductive queen, numerous workers (~60,000), small number of drones. Complete metamorphosis: egg -> larva -> pupa -> adult. Worker tasks age-related, from house bee to forager. Physical characteristics: two pairs of thin, veined wings (forewings larger); chewing-lapping mouth parts (proboscis for sucking nectar, mandibles for wax); complete metamorphosis; three body regions (head, thorax, abdomen); constricted waist between thorax and abdomen. Behavior: colony as super-organism, makes decisions almost unanimously; tasks change every few days as bees age.",
+          "keywords": []
+        },
+        {
+          "section": "11.3. Types of Honey Bee Colony",
+          "section_summary": "This section describes the five types of honeybees in Ethiopia (Apis mellifera adansanii, A. m. jemenitica, A. m. monticola, A. m. litorea, A. m. abyssinica) and the members of a colony (workers, queen, drones). Workers are non-reproductive females that perform all foraging, comb building, brood care, and hive cleaning. The queen lays eggs. Drones are males with large eyes and no sting.",
+          "detailed_notes": "Five types in Ethiopia: A. m. adansanii (south/west), A. m. jemenitica (eastern lowlands), A. m. monticola (Southeast Mountain of Bale-Dinsho), A. m. litorea (southwest lowland), A. m. abyssinica (highlands central/west/south). Colony members: Workers (non-reproductive females; smallest; perform all foraging, comb building, wax secretion, nectar to honey conversion, hive cleaning, colony protection). Queen (reproductive; well-developed ovaries; lacks worker glands; sting not barbed). Drones (males; large eyes meeting in front; no sting).",
+          "keywords": []
+        },
+        {
+          "section": "11.4. Management of Honey Bees",
+          "section_summary": "This section describes four beekeeping practices in Ethiopia: traditional forest, traditional backyard, transitional (top-bar hive), and improved/modern (movable-frame hive like Langstroth). Traditional forest beekeeping is the most common, using simple cylindrical hives. Modern hives allow for easier management and higher production.",
+          "detailed_notes": "Beekeeping practices: Traditional forest (several million colonies, simple cylindrical hives), Traditional backyard, Transitional (top-bar hive, single story long box with bars), Improved/Modern (movable-frame hive, precise rectangular boxes placed in tiers, number varied seasonally). Practical movable-frame hive invented by Lorenzo Lorraine Langstroth in 1851 (USA); prototype for Zander, Dadant hives; convenient for handling/management.",
+          "keywords": []
+        },
+        {
+          "section": "11.5. Colony Management and Queen Rearing",
+          "section_summary": "This section covers colony inspection, feeding management, and queen rearing. Beekeepers inspect colonies and provide supplementary feed (sugar syrup, shiro, flour) during dearth periods. Queens are naturally reared when queens age/ill, during swarming, or when missing. Queen rearing techniques are used to produce healthy new queens, often using pheromones.",
+          "detailed_notes": "Colony inspection: safeguarding from natural hazards, observing flight movement. Feeding management: supplementary feed during dearth/starvation periods (sugar syrup, Shiro, barley flour, maize flour, honey, fafa). Hive supers/foundation sheets/queen excluders: used in movable-frame hives. Queen rearing: Natural triggers for new queen: aging/ill queens, swarming, missing queen. Pheromones (chemical produced by queens) direct colony activities. Beekeepers use various techniques to produce healthy new queens.",
+          "keywords": [
+            {"keyword": "Pheromone", "definition": "A chemical substance produced and released into the environment by queens."}
+          ]
+        },
+        {
+          "section": "11.6. Hive Products and Processing",
+          "section_summary": "This section lists hive products: honey (excellent energy source, used for 'Tej' - traditional fermented beverage), beeswax, bee pollen, royal jelly, propolis, and bee venom. Ethiopia produces significant honey but beeswax collection is underutilized.",
+          "detailed_notes": "Products: Honey (simple sugars ready for assimilation; ~85% of marketed honey used for 'Tej' (traditional fermented beverage), 15% consumed at home). Beeswax (underutilized; annual production estimated at 3,658 tons). Other products: bee pollen, royal jelly, propolis, bee venom.",
+          "keywords": []
+        },
+        {
+          "section": "11.7. Bee Diseases, Pests and Predators",
+          "section_summary": "This section identifies bee diseases (chalk brood, nosematosis, amoeba), pests (small hive beetle, bee lice, ants, wax moth), and predators (mice, spiders, snakes, honey badgers, birds). Control methods include mechanical barriers (thorny woods, smooth iron sheets on tree trunks) and hanging hives on smooth-barked trees.",
+          "detailed_notes": "Diseases: chalk brood, nosematosis, amoeba. Pests: small hive beetle, bee lice, ants (Dorylusfulvus), wax moth, mice, spiders, snakes. Predators: honey badgers, birds. Control methods: mechanical barriers (thorny wood around trees, smooth iron sheet on trunks), hanging hives on ficus trees (smooth bark) to prevent climbing.",
+          "keywords": []
+        },
+        {
+          "section": "11.8. Indigenous Knowledge in Apiculture",
+          "section_summary": "This section highlights traditional beekeeping knowledge in Ethiopia. It includes feeding practices (roasted grain flour), swarm control (using queen piping sound), swarm catching (baiting hives), and medicinal uses of honey (e.g., for cough, back pain). Traditional hives and equipment are made from local materials, and harvesting/processing methods involve using smoke and observing bee behavior.",
+          "detailed_notes": "Traditional feeding: supplementary feeds like flour of roasted barley, maize, bean, pea. Traditional swarm control: listening for queen piping sound at night indicates swarming. Traditional swarm catching: baiting hives with honeycomb, body soap, perfume to attract scout bees; hive smoked with barks of Ekebergiacapensi ('sombo'). Medicinal use of honey: Table 11.1 lists types (honey for cough; honey+barley+flax for back pain; honey+coffee for stomach pain; etc.). Traditional hives: made from local materials (wood, clay, pennisetum). Traditional harvesting/processing: use smoke from selected trees (e.g., Olea europaea for brood rearing); observing pollen on bee legs; using a stick to check for brood (milky color) or ripe honey (yellow, sweet taste).",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 12,
+      "unit_title": "Nursery and Plantation Technology",
+      "sections": [
+        {
+          "section": "12.1. Nursery Establishment and Management",
+          "section_summary": "This section outlines nursery establishment, including site inspection, selection, species selection, and preparation. A good nursery site should be open, level, well-drained, have light soil, good water source, accessibility, and be away from pests/diseases. Species selection must fit the site and meet plantation objectives (fuel wood, protection, etc.).",
+          "detailed_notes": "Nursery establishment: Objective: produce high-quality seedlings cost-effectively, environmentally, and socially. Site inspection: climate (temp, rainfall, humidity, wind), soil (depth, texture, pH, drainage), topography, vegetation, other biotic factors (fire, livestock, insects/disease), water availability, distance from nursery, labor availability, distance to market. Site selection: open, level, well-drained, light/loose soil, good water source, accessible to transportation, far from existing pests/diseases. Species selection: choose species suitable for the site, healthy, acceptable growth/yield, meeting plantation objectives. Site preparation: create conditions for rainfall absorption, minimize fire/pest danger, clear site, layout beds, build nursery structure, prepare germination beds.",
+          "keywords": []
+        },
+        {
+          "section": "12.2. Design and Layout of the Nursery",
+          "section_summary": "This section covers nursery design and layout for efficiency and productivity. It includes identifying a suitable location (square/rectangular shape), orientation (division with road network), division into beds (raised or sunken), and establishment of a water supply system.",
+          "detailed_notes": "Design increases efficiency/productivity. Location: square/rectangular ideal to minimize fencing. Orientation: division by road network (3-5m wide) for management/transportation, at end of beds or between every 6-10 beds. Division: roads at bed ends or between every 6-10 beds. Bed preparation: width ~1m, length 5-10m; shade cover for protection from harsh sun. Types: raised or sunken beds. Orientation: towards the sun for photosynthesis. Length variable, width fixed (for weeding/hoeing). Water supply system established after bed preparation.",
+          "keywords": []
+        },
+        {
+          "section": "12.3. Producing Plants from Seeds",
+          "section_summary": "This section details the steps for producing plants from seeds: container selection (clean, with drainage), using quality seed-starting soil (not garden soil), planting at proper depth, wise watering, maintaining moisture, keeping soil warm, fertilizing after true leaves appear, providing sufficient light, circulating air, and hardening off (acclimatizing) before transplanting.",
+          "detailed_notes": "Steps: Container: clean, 2-3 inches deep, drainage holes (plastic pots, cell packs, peat pots, flats, yogurt cups, eggshells). Soil: use sterile seed-starting mix/potting soil (not garden soil, which is heavy, has weed seeds, disease organisms). Planting: cover seeds with soil equal to three times their thickness; some seeds need light (tamp gently). Water: use room-temperature water; keep soil consistently moist but avoid overwatering; don't splash water on leaves. Maintain moisture: cover container to trap moisture before germination; remove cover after sprouting. Temperature: seeds need warm soil (~78°F) to germinate; after germination, air temp slightly below 70°F. Fertilize: half-strength liquid fertilizer weekly after second true leaves; full-strength every other week after 4 weeks. Light: 14-16 hours of direct light per day; avoid full sun (use partial shade) to prevent etiolation (spindly, weak stems). Air: circulate air to prevent disease and strengthen stems. Hardening off: acclimatize seedlings to harsher outdoor conditions before transplanting.",
+          "keywords": [
+            {"keyword": "Acclimation", "definition": "Physiological, anatomical, or morphological adjustment within crops/plants/organisms that improve performance or survival in response to environmental change."},
+            {"keyword": "Etiolation", "definition": "A process in flowering plants grown in partial or a complete absence of light."}
+          ]
+        },
+        {
+          "section": "12.4. Plantation Establishment and Management",
+          "section_summary": "This section explains that plantation success depends on careful establishment and early management (first 12-18 months). Key operations include planting during adequate rainfall, weed control (most important), fertilization, and minimizing negative effects of harvesting (fertility management, erosion control) for sustainable production.",
+          "detailed_notes": "Plantation success depends on establishment/management in early growth stages (first 12-18 months). Plantations from seedlings, stem cuttings, or direct seeding; must be during adequate rainfall; protect from weeds and pests. Weed control is the most important maintenance operation. Fertilization used to increase production. Sustainability: minimize negative effects of harvesting. Fertility management: retain nutrients by allowing harvested trees to dry on site before removal; use nitrogen-fixing plants. Erosion control: minimize soil exposure to erosive forces (rainfall/runoff).",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 13,
+      "unit_title": "Basics of Agro-Forestry Systems and Practices",
+      "sections": [
+        {
+          "section": "13.1. Definition of Agro-forestry, Agro forestry Systems, Practices and Technologies",
+          "section_summary": "This section defines agro-forestry as a land use system combining trees/shrubs with crops and/or livestock. It lists key practices (home gardens, alley cropping, boundary planting, windbreaks, silvopastoral systems) and technologies (improved fallows, Taungya, farm woodlots). These are integrated approaches for more diverse, productive, and sustainable land use.",
+          "detailed_notes": "Agro-forestry: collective name for land use systems/technologies where woody perennials (trees, shrubs, palms, bamboos) are deliberately combined with agricultural crops and/or livestock on the same land, either spatially or temporally. It integrates agricultural and forestry technologies for more diverse, productive, sustainable land-use systems. Suited for marginal land rejuvenation. Practices/technologies: improved fallows; Taungya; home gardens; alley cropping; multipurpose trees/shrubs in farmlands; boundary planting; farm woodlots; orchards/tree gardens; tree plantations; shelterbelts; windbreaks; conservation hedges; fodder banks; live fences; silvopastoral systems; apiculture with trees.",
+          "keywords": []
+        },
+        {
+          "section": "13.2. Significance of Agro Forestry",
+          "section_summary": "This section discusses the multifunctional benefits of agro-forestry. Economic benefits include increased/maintained production, reduced inputs, diversified products (food, fodder, fuelwood), and poverty reduction. Social benefits include improved nutrition, reduced workload (especially for women), and maintained social bonds. Environmental benefits include improved soil fertility, wind protection, land restoration, water conservation, pest control, erosion prevention, biodiversity conservation, and climate change mitigation.",
+          "detailed_notes": "Agro-forestry systems are multifunctional. Economic benefits: increase/maintain productivity, reduce agricultural inputs, diversify production (food, fodder, lumber, fuelwood), reduce rural poverty through increased income/employment. Social benefits: improve health/nutrition, reduce time/effort for obtaining products, help maintain social bonds. Environmental benefits: improve soil fertility, protect from wind, restore degraded lands, improve water conservation, limit pests, prevent soil erosion, contribute to biodiversity conservation and climate-change adaptation/mitigation.",
+          "keywords": []
+        },
+        {
+          "section": "13.3. Classification of Agro Forestry Systems",
+          "section_summary": "This section classifies agro-forestry systems using criteria: structure, function, agro-ecological zones, and socio-economic scales. The three major types are: Agrisilvicultural (crops + trees), Silvopastoral (trees + livestock), and Agro-Silvopastoral (crops + trees + livestock).",
+          "detailed_notes": "Classification criteria: Structure (nature/arrangement of components), Function (role/output), Agro-ecological zones (where applicable), Socio-economic scales/management levels. Three major types: 1. Agrisilvicultural (crops + trees, e.g., alley cropping, home gardens). 2. Silvopastoral (trees + livestock, e.g., alley farming, live fencing). 3. Agro-Silvopastoral (crops + trees + animals, three-way mixture; requires skillful management, sustainable in harsh environments/fragile soils).",
+          "keywords": []
+        },
+        {
+          "section": "13.4. Agro Forestry Species, Their Establishment and Management Methods",
+          "section_summary": "This section describes agro-forestry species, focusing on multipurpose trees (MPTs) for fodder, fuelwood, and fruits. Management methods are divided into aboveground (pruning, thinning, pollarding, lopping, coppicing) and belowground (root pruning) practices. These techniques manage competition and optimize resource utilization.",
+          "detailed_notes": "Agro-forestry species: Refers to woody species, known as 'multipurpose trees' (MPTs). Examples: Leucaena spp, Acacia spp, Casuarina spp, Calliandra calothyrsus. Categories: Fodder trees (e.g., Acacia mangium, A. nilotica, A. tortilis, Albizia lebek), Fuel wood trees (e.g., Acacia mearnsii), Fruit trees (common in home gardens). Management methods: Aboveground practices: Pruning (cutting dead/overgrown branches to balance above/below-ground parts, reduce competition for light/water/nutrients). Thinning (selective removal of trees for firewood/construction, to improve form/value, and reduce root/light competition). Pollarding (cutting crown at >2m above ground beyond cattle reach to stimulate new shoots; objectives: early harvest, produce fodder out of reach, reduce shading, regenerate crown). Lopping (cutting branches/twigs for seasonal needs, encourage new growth, maintain tree hygiene). Coppicing (cutting tree down to stump to allow re-growth for biomass). Belowground management: Root Pruning (via trenching) to separate root systems, reducing belowground competition for water/nutrients.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 14,
+      "unit_title": "Soil and Water Conservation",
+      "sections": [
+        {
+          "section": "14.1. Soil Properties",
+          "section_summary": "This section defines soil as a mixture of minerals, organic matter, and living organisms. Physical properties (texture, structure, consistency, bulk density) and chemical properties (cation exchange capacity, pH) determine its quality and fertility.",
+          "detailed_notes": "Soil: mixture of minerals, organic matter, living organisms. Physical properties: texture (proportion of sand, silt, clay), structure (aggregation of primary particles), consistency (resistance to deformation), bulk density (mass per unit volume). Chemical properties: cation exchange capacity, soil reaction (pH).",
+          "keywords": [
+            {"keyword": "Urbanization", "definition": "The expansion of urban area and conversion of natural physical landscape to town."}
+          ]
+        },
+        {
+          "section": "14.2. Soil Erosion",
+          "section_summary": "This section defines soil erosion as the gradual removal of topsoil by water, wind, or mass movements. It is a degenerative process caused by heavy rainfall, flooding, high winds, and deforestation.",
+          "detailed_notes": "Soil erosion: gradual process where impact of water/wind detaches and removes soil particles, causing soil deterioration. Natural process carrying away topsoil by physical sources (water, wind). Steady, degenerative process of topsoil loss. Caused by heavy rainfall, flooding, high winds, mass movements.",
+          "keywords": []
+        },
+        {
+          "section": "14.3. Major Causes of Soil Erosion",
+          "section_summary": "This section identifies major causes: deforestation and urbanization (exposing soil), overgrazing and agricultural tillage (depleting grass cover, destroying soil structure), excessive use of agrochemicals (imbalancing soil microorganisms), construction/recreational activities, and heavy rainfall/floods.",
+          "detailed_notes": "Major causes: Deforestation/Urbanization (tree removal exposes soil to rain/wind; urbanization expands urban areas). Overgrazing/Agricultural Tillage (overgrazing depletes grass cover, exposes/bares soil; cattle crush/compact soil; tillage fractures soil, disrupts structure, accelerates runoff/erosion). Excessive use of agrochemicals (pesticides/fertilizers imbalance microorganisms, stimulating harmful bacteria, degrading soil). Construction/Recreational activities (buildings/roads prevent normal water circulation). Heavy rainfall/Floods (rain splash clogs pores, reduces infiltration, increases runoff/erosion).",
+          "keywords": []
+        },
+        {
+          "section": "14.4. Negative Impacts of Soil Erosion",
+          "section_summary": "This section discusses the consequences of soil erosion: loss of topsoil, decreased productivity, reduced rooting depth and fertility, lower yields and income, loss of arable land, water quality deterioration, pollution, fish kills, and reservoir siltation.",
+          "detailed_notes": "Negative impacts: Soil erosion reduces productivity of natural ecosystems and agricultural/forest/pasture ecosystems. Decreases rooting depth, soil fertility, organic matter, plant-available water. Leads to decline in productivity, lower yields/income. Results in loss of arable land, deterioration of downstream water quality, pollution of rivers, death of fish, silting up of reservoirs.",
+          "keywords": []
+        },
+        {
+          "section": "14.5. Types of Soil and Water Conservation Practices",
+          "section_summary": "This section describes three types of conservation practices: Biological (conservation tillage, afforestation/reforestation), Physical/Mechanical (bench terraces, fanya-juu), and Agronomic (area enclosure, contour plowing, alley cropping, grass strips).",
+          "detailed_notes": "Types: Biological (using biological methods for protective impact on vegetation): Conservation Tillage (minimum soil disturbance, crop residue management, crop rotation) / Conservation Farming; Afforestation/Reforestation (planting forests, increasing biomass, preventing erosion). Physical/Mechanical: Bench terraces (converting slope into steps with horizontal cultivation area); Level/Graded Fanya-juu ('throw uphill' embankment along contour with basin to reduce runoff/erosion). Agronomic: Area enclosure/controlled grazing (protection system, no livestock/human interference for 2-3 years until natural grass cover); Grass strips (ribbon-like bands of grass along contour to reduce runoff, filter sediments); Contour plowing; Traditional ditches.",
+          "keywords": [
+            {"keyword": "Tillage", "definition": "The mechanical manipulation of the soil for the purpose of crop production affecting significantly the soil characteristics."}
+          ]
+        },
+        {
+          "section": "14.6. Need of Soil and Water Conservation",
+          "section_summary": "This section explains that soil and water conservation measures are essential to control runoff, prevent soil loss and compaction, maintain/improve fertility, conserve/harvest water, reduce nutrient/soil losses, increase productivity, and improve livelihoods.",
+          "detailed_notes": "Soil and water conservation measures are the first line of defense against surface runoff. Purposes: control runoff, prevent soil erosion/compaction; maintain/improve soil fertility; conserve/drain water; harvest excess water; reduce nutrient/soil losses; increase agricultural productivity; conserve water/natural vegetation leads to higher crop/livestock productivity and improved livelihoods.",
+          "keywords": []
+        },
+        {
+          "section": "14.7. Indigenous Knowledge in Soil and Water Conservation",
+          "section_summary": "This section highlights indigenous practices developed by local people to overcome erosion and flooding. Biological measures include mixed cropping, intercropping, crop rotation, indigenous agro-forestry, fallow, alley cropping, minimum tillage, mulching. Mechanical measures include cultivation on ridges, stone barriers, traditional dams/drainage ditches, and terraces (e.g., Konso).",
+          "detailed_notes": "Indigenous biological practices: Mixed cropping, Intercropping, Crop rotation, Indigenous agro-forestry, Fallow, Alley cropping, Minimum tillage, Mulching. Indigenous mechanical practices: Cultivation on ridges/rows, Stone bands/barriers, Traditional dams/water retention ditches, Traditional cut-off drains/drainage systems, Terraces (e.g., Konso people's terraces).",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 15,
+      "unit_title": "Gender and Human Nutrition",
+      "sections": [
+        {
+          "section": "15.1. Basic Gender-Related Terminologies",
+          "section_summary": "This section defines key gender terms: Sex (biological differences), Gender (socially constructed roles and attributes), Gender Equity (fairness), Gender Equality (equal rights/opportunities), Gender Integration (incorporating gender into programs), Gender Mainstreaming (incorporating gender into policies/institutional culture), Women’s Empowerment (improving status and decision-making), Gender Sensitivity (acknowledging differences/inequalities), Gender Responsive (articulating policies addressing specific needs of women/men).",
+          "detailed_notes": "Sex: biological differences between males and females. Gender: economic, social, political, cultural attributes/opportunities associated with being women/men; varies across cultures/time. Gender Equity: process of being fair to women/men, compensating for historical/social disadvantages. Gender Equality: state affording women/men equal enjoyment of human rights, goods, opportunities, resources. Gender Integration: strategies in program assessment/implementation/evaluation to account for gender norms and inequalities. Gender Mainstreaming: process of incorporating gender equality perspective into policies, programs, projects, administrative functions, and institutional culture. Women’s Empowerment: improving status of women to enhance decision-making capacity at all levels, especially regarding sexuality/reproductive health. Gender Sensitivity: acknowledging differences/inequalities between women/men require attention. Gender Responsive: being gender sensitive and articulating policies/initiatives addressing different needs, aspirations, capacities, contributions of women/men.",
+          "keywords": []
+        },
+        {
+          "section": "15.2. Gender Role in Food Production and Consumption",
+          "section_summary": "This section discusses the significant role of women in food production and consumption. Women form about half the agricultural workforce, play a greater role in ensuring nutrition/food safety, and are responsible for processing/preparing food. They contribute labor at every stage of farming (land clearing, weeding, harvesting). Women also play significant roles in livestock/poultry production and off-farm income activities. Gender equality and women's empowerment are linked to strengthening food systems to fight hunger/malnutrition.",
+          "detailed_notes": "Understanding gender roles in agriculture can increase productivity, reduce poverty, improve food production/security. Women: ~half agricultural workforce; agents of change/resilience builders. Greater role in ensuring nutrition, food safety, quality, food processing/preparation. Spend significant income on household food. Bulk of food production labor: land clearing, seedbed preparation, sowing, weeding, harvesting, transportation. Significant roles in livestock/poultry and off-farm income (petty trade, informal labor). Female-headed households contribute more field labor than male-headed. Food systems transformation, climate change, resource depletion challenge agriculture. Promoting gender equality/women's empowerment is inextricably linked to strengthening food systems and fighting hunger/malnutrition.",
+          "keywords": []
+        },
+        {
+          "section": "15.3. Empowering Women in Food Production and Consumption",
+          "section_summary": "This section discusses women's empowerment in food production, including inclusion in decision-making, access to resources, and control over income. Indicators of empowerment include decisions about agricultural production, access to productive resources, control of income, community leadership, and time allocation. Improving women's dietary diversity through better access to food is a key strategy for improving livelihoods and economic productivity.",
+          "detailed_notes": "Women's empowerment in food production: inclusion in decision-making (agriculture production, resources, income); participation of men in household tasks to reduce women's labor. Women's ability to feed children nutritious food is an example of empowerment. Improving women's nutrition outcomes through better access to a more diverse diet is key to improving lives/livelihoods. Dietary diversity: measured by snap-shot of women's consumption of different food items (24 hours to 15 days recall). Five domains of empowerment indicators for food consumption: 1. Decisions about agricultural production (sole/joint decision-making). 2. Access to and decision-making power about productive resources (autonomy). 3. Control of use of income (sole/joint control). 4. Leadership in the community. 5. Time allocation (based on activity log).",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 16,
+      "unit_title": "Safe Food Production and Postharvest Handling",
+      "sections": [
+        {
+          "section": "16.1. Food Safety Hazards and Health Risks",
+          "section_summary": "This section identifies four primary food safety hazards: biological (microorganisms like Salmonella), chemical (harmful substances like mycotoxins, pesticides), physical (foreign objects like hair, plastic), and allergenic. Understanding these risks is crucial for reducing foodborne illness.",
+          "detailed_notes": "Four primary categories: Biological hazards (contamination by microorganisms found in air, food, water, animals, humans; e.g., Salmonella, Norovirus, Campylobacter, E. coli, Listeria, Clostridium perfringens). Chemical hazards (harmful substances naturally present or added intentionally/unintentionally; e.g., mycotoxins, natural toxins, marine toxins, processing-induced chemicals, pesticides). Physical hazards (foreign objects naturally or unnaturally found; natural e.g., stems, bones; unnatural e.g., metal, plastic, wood chips, glass). Allergenic hazards. Regulatory bodies implement laws to minimize risk.",
+          "keywords": []
+        },
+        {
+          "section": "16.2. Source of Food Contaminants",
+          "section_summary": "This section lists major contamination sources: water, air, dust, equipment, sewage, insects, rodents, employees, soil, live animals, external/internal organs of meat animals, diseased animals, chemical mixing, and ingredients.",
+          "detailed_notes": "Major sources: water, air, dust, equipment, sewage, insects, rodents, employees. Raw materials contaminated from soil, live animals, external surface, internal organs of meat animals. Diseased animals (nearly eliminated by healthcare). Chemical sources: accidental mixing of chemicals with foods. Ingredients can contribute to microbial/chemical contamination.",
+          "keywords": []
+        },
+        {
+          "section": "16.3. Food Safety and Nutrition Linkage",
+          "section_summary": "This section explains the link between food safety and nutrition. Clean, safe food is vital to prevent infections that can destroy nutrients and cause diseases (diarrhea, meningitis), making people sick and preventing nutrient absorption. Stale food loses nutrients and is risky for health.",
+          "detailed_notes": "Food safety: handling, storing, preparing food to prevent infection and ensure nutrients are retained. Germs cause diseases and destroy nutrients. Unsafe food/water (exposed to dirt/germs/rotten) is unhealthy. Unsafe food causes infections/diseases (diarrhea, meningitis), weakness, difficulty working/concentrating, and prevents nutrient absorption. Stale foods have lost nutrients and are risky.",
+          "keywords": []
+        },
+        {
+          "section": "16.4. Indigenous Knowledge in Safe Food Production and Postharvest Handling",
+          "section_summary": "This section describes indigenous methods for safe food production and postharvest handling. Farmers use drying, traditional storage structures (above-ground like Gombissa; underground pits), botanicals, wood ash, storing unshelled maize, mixing with sand/dust/other grains, and smoking/washing utensils with plants for milk preservation. These methods aim to reduce post-harvest losses and protect food from contaminants.",
+          "detailed_notes": "Post-harvest losses: major challenge. Farmers use traditional pest management (drying, storage structures). Structures: Gombissa (above-ground cylindrical, bamboo, thatched roof, raised on stones/wooden platform); Underground pits (for sorghum/maize, covered with timber/stone/soil/dung/mud); Gumbi/Kefo. Botanicals: plant chemicals repelling insects (spices, medicinal weeds). Wood ash: used as pesticide against maize storage insects. Storing unshelled maize (husk-covered cobs less infested). Mixing with sand/dust (inert dusts). Mixing with small grain (e.g., teff with maize for protection). Milk preservation: smoking utensils with plants (Olea Africana, Catha edulis); rinsing utensils with plants (Ocimum hardiensem, Thymus serrulatus); soaking herbs (Ruta chalepensis) in milk.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit": 17,
+      "unit_title": "Application of Information and Communication Technologies (ICT) in Agriculture",
+      "sections": [
+        {
+          "section": "17.1. Roles of ICT in Agriculture",
+          "section_summary": "This section discusses the role of ICT in agriculture. It facilitates better access to information, efficiency, and affordability for smallholder farmers. ICT improves business, networking, market access, and provides financial services (e.g., mobile money). It enables electronic-agriculture (E-Agriculture) for improved productivity, resource management, timely weather/technology information. Effective knowledge management is crucial, using scientific research and indigenous knowledge disseminated through various media.",
+          "detailed_notes": "Agriculture is knowledge-intensive; smallholders face constraints (poor market access, low capital/skills, weak information). ICT provides better access/efficiency/affordability. Improves business/networking, access to hidden/reliable markets, innovations (mobile money). Facilitates E-Agriculture: improves productivity/profitability, efficient resource management, timely weather/technology information. Information needs are increasing. ICT improves information flow and connects people; illiteracy may no longer be an excuse for lack of extension. Knowledge management: appropriate knowledge reaches farmers at right time/way. Knowledge from scientific research (universities/institutes) and indigenous knowledge (farmers). Dissemination through written/electronic media (computers, websites, audio-video), radio, TV, publications, exhibitions, cell phones.",
+          "keywords": []
+        },
+        {
+          "section": "17.2. Major Application of ICT in Agriculture",
+          "section_summary": "This section describes major applications of ICT in agriculture. E-Agriculture is an emerging field enhancing rural development through improved information processes. Mobile telephones are increasingly used for extension, market info, weather forecasts, and early warning. Examples of applications include the Ethiopian Commodity Exchange (ECX), iCow (Kenya), AgriNet Uganda, and Esoko (Africa). Emerging technologies like Artificial Intelligence (AI), Data Science, Remote Sensing, and GPS are revolutionizing agriculture.",
+          "detailed_notes": "ICT applications increasing in developing countries. E-Agriculture: emerging field for enhancing agricultural/rural development. Connectivity (internet/mobile) brings market info, financial services, health services to remote areas. Mobile phones are key for information/services (technology, markets, weather, early warning). Growth in Ethiopia: mobile subscribers from 1.2 million (2007) to ~54.3 million (2021). Applications: ECX (Ethiopian Commodity Exchange) - organized market venue for buyers/sellers; iCow (Kenya) - for small-holder dairy farmers; AgriNet Uganda Ltd - real-time markets/marketing info; Esoko (Africa) - advisory services (prices, weather, news/tips). Emerging technologies: Artificial Intelligence (AI), Data Science, Remote Sensing, GPS.",
+          "keywords": []
+        },
+        {
+          "section": "17.3. Challenges and Solutions of ICT in Agriculture",
+          "section_summary": "This section identifies challenges preventing maximum benefit from ICT: Technology (lack of coverage/cost), Capacity (lack of awareness/skills), and Content (lack of relevant, up-to-date information in usable forms/local languages). Solutions include addressing coverage gaps, using intermediaries, capacity development, and creating ecosystems of relevant, tailored information.",
+          "detailed_notes": "Challenges in developing countries: Technology: limited internet/cellular coverage in rural areas, cost remains a barrier (despite rapid growth). Capacity: lack of awareness/skills to use ICT; older people/women at disadvantage. Solutions: use intermediaries, include capacity development from the start. Content: information not in usable forms with modern ICT; lack of clarity on responsibility for creation/mobilization/quality assurance. Needs: develop information according to end-user needs, provide in local languages, simple/interactive/up-to-date/relevant/timely manner.",
+          "keywords": []
+        }
+      ]
+    }
+  ]
+}

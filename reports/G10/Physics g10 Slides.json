@@ -1,0 +1,1842 @@
+{
+  "subject": "Physics",
+  "grade": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Vector Quantities",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Scalars and Vectors",
+          "slides": [
+            {
+              "slide_number": 1,
+              "slide_title": "Scalars and Vectors",
+              "slide_content": {
+                "title": "Introduction to Physical Quantities",
+                "key_points": [
+                  "Physical quantities are used for quantitative description of physical phenomena.",
+                  "They are divided into two main groups: Scalars and Vectors.",
+                  "Understanding the difference is crucial for describing natural phenomena."
+                ]
+              }
+            },
+            {
+              "slide_number": 2,
+              "slide_title": "What are Scalars?",
+              "slide_content": {
+                "title": "Definition and Examples",
+                "definition": "Scalars are physical quantities that are completely specified by a single number and an appropriate unit of measurement. They have only magnitude.",
+                "examples": [
+                  "Length: 1.42 m",
+                  "Mass: 12.21 kg",
+                  "Time: 30 seconds",
+                  "Temperature: 25\u00b0C",
+                  "Speed: 60 km/h",
+                  "Density: 1000 kg/m\u00b3",
+                  "Energy and Power"
+                ]
+              }
+            },
+            {
+              "slide_number": 3,
+              "slide_title": "What are Vectors?",
+              "slide_content": {
+                "title": "Definition and Examples",
+                "definition": "Vectors are physical quantities that require both a magnitude and a direction for their complete description.",
+                "examples": [
+                  "Velocity: 100 km/h, due East",
+                  "Force: 20 N, to the North",
+                  "Displacement: 50 km, Southwest",
+                  "Acceleration, Momentum, Impulse, Weight",
+                  "Electric Field Strength"
+                ],
+                "note": "A statement like 'A train is moving at 100 km/h' lacks direction; it must be specified to be a vector."
+              }
+            },
+            {
+              "slide_number": 4,
+              "slide_title": "Key Differences & Summary",
+              "slide_content": {
+                "title": "Scalar vs. Vector",
+                "comparison": {
+                  "Scalars": "Specified by magnitude only. Examples: Length, Mass, Time, Speed, Energy.",
+                  "Vectors": "Specified by both magnitude and direction. Examples: Velocity, Force, Displacement, Acceleration."
+                },
+                "summary": "In physics, you will deal with both types of quantities. Identifying whether a quantity is a scalar or vector is essential for correctly applying mathematical operations."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Vector Representations",
+          "slides": [
+            {
+              "slide_number": 5,
+              "slide_title": "Vector Representations",
+              "slide_content": {
+                "title": "Algebraic Representation",
+                "description": "Vectors are represented algebraically using symbols.",
+                "examples": [
+                  "A bold letter: A",
+                  "An arrow over the letter: \u2192A",
+                  "Magnitude is shown as |\u2192A| or simply A."
+                ],
+                "note": "A displacement might be represented as S = 50 km, Southwest."
+              }
+            },
+            {
+              "slide_number": 6,
+              "slide_title": "Graphical Representation",
+              "slide_content": {
+                "title": "Representation by Arrow",
+                "description": "Vectors are represented geometrically by an arrow-tipped line segment.",
+                "key_points": [
+                  "Length of the arrow: Represents the magnitude of the vector (drawn to scale).",
+                  "Arrow Head: Indicates the direction of the vector.",
+                  "Initial point is the 'tail', final point is the 'head'."
+                ],
+                "image": "Figure 1.1 Head and tail of a vector."
+              }
+            },
+            {
+              "slide_number": 7,
+              "slide_title": "How to Draw a Vector Graphically",
+              "slide_content": {
+                "title": "Procedures for Drawing Vectors",
+                "steps": [
+                  "1. Decide upon a scale and write it down (e.g., 1 cm = 2 N).",
+                  "2. Determine the length of the arrow representing the vector using the scale.",
+                  "3. Draw the vector as an arrow, making sure you fill in the arrow head.",
+                  "4. Fill in the magnitude of the vector."
+                ],
+                "example": "Draw a vector of 16 km East using a scale of 1 cm = 4 km. The arrow would be 4 cm long pointing East.",
+                "image": "Figure 1.2 A scaled diagram for a vector."
+              }
+            },
+            {
+              "slide_number": 8,
+              "slide_title": "Types of Vectors",
+              "slide_content": {
+                "title": "Different Types of Vectors",
+                "types": [
+                  {
+                    "name": "Zero/Null Vector",
+                    "definition": "A vector with zero magnitude and no direction."
+                  },
+                  {
+                    "name": "Unit Vector",
+                    "definition": "A vector that has a magnitude equal to one."
+                  },
+                  {
+                    "name": "Equal Vectors",
+                    "definition": "Vectors that have the same magnitude and same direction.",
+                    "image": "Figure 1.3 Two equal vectors."
+                  },
+                  {
+                    "name": "Negative Vector",
+                    "definition": "A vector that has the same magnitude but opposite direction to the given vector."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Vector Addition and Subtraction",
+          "slides": [
+            {
+              "slide_number": 9,
+              "slide_title": "Vector Addition and Subtraction",
+              "slide_content": {
+                "title": "Performing Operations with Vectors",
+                "note": "Different mathematical operations can be performed with vectors, but they are not as straightforward as with scalars because direction must be considered.",
+                "key_point": "Scalars and vectors can never be added together. For any two vectors to be added, they must be of the same nature (e.g., two forces or two velocities)."
+              }
+            },
+            {
+              "slide_number": 10,
+              "slide_title": "Addition of Vectors",
+              "slide_content": {
+                "title": "Finding the Resultant",
+                "definition": "The resultant of a number of vectors is the single vector whose effect is the same as the individual vectors acting together.",
+                "equation": "If vectors A and B have a resultant R, it can be represented as R = A + B.",
+                "image": "Figure 1.4 Addition of vectors A and B.",
+                "note": "When adding vectors, the direction of each vector must be taken into account."
+              }
+            },
+            {
+              "slide_number": 11,
+              "slide_title": "Subtraction of Vectors",
+              "slide_content": {
+                "title": "Vector Subtraction Explained",
+                "definition": "Subtraction of vector B from vector A is defined as the addition of -B to A.",
+                "equation": "A - B = A + (-B)",
+                "note": "The negative of a vector has the same magnitude but points in the opposite direction.",
+                "steps": [
+                  "1. Draw the negative of the vector being subtracted (flip its direction).",
+                  "2. Add this new vector to the first vector using the rules of vector addition."
+                ],
+                "images": [
+                  "Figure 1.5 Vector B and the negative of Vector B.",
+                  "Figure 1.6 Subtraction of B from A."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Graphical Method of Vector Addition",
+          "slides": [
+            {
+              "slide_number": 12,
+              "slide_title": "Graphical Method of Vector Addition",
+              "slide_content": {
+                "title": "Overview of Graphical Methods",
+                "description": "This method involves drawing vectors to scale on paper and using a ruler and protractor to determine the resultant vector's magnitude and direction.",
+                "key_concepts": [
+                  "Triangle Method (for two vectors)",
+                  "Parallelogram Method (for two vectors)",
+                  "Polygon Method (for more than two vectors)"
+                ],
+                "general_procedure": [
+                  "Decide on an appropriate scale and record it.",
+                  "Pick a starting point.",
+                  "Draw the first vector with appropriate length and direction.",
+                  "Draw the second and remaining vectors, placing them head-to-tail.",
+                  "Draw the resultant based on the specific rule being used.",
+                  "Measure the length of the resultant and convert to magnitude using the scale.",
+                  "Use a protractor to measure the vector's direction."
+                ]
+              }
+            },
+            {
+              "slide_number": 13,
+              "slide_title": "Triangle Method (Head-to-Tail)",
+              "slide_content": {
+                "title": "Adding Two Vectors",
+                "definition": "When the head of the first vector is joined to the tail of the second vector, and then joining the tail of the first to the head of the second, the resultant is the third side of the triangle.",
+                "steps": [
+                  "1. Draw the first vector (A).",
+                  "2. Place the tail of the second vector (B) at the head of the first.",
+                  "3. Draw the resultant (R) from the tail of A to the head of B."
+                ],
+                "equation": "R = A + B",
+                "images": "Figure 1.7 The triangle rule for the addition of two vectors."
+              }
+            },
+            {
+              "slide_number": 14,
+              "slide_title": "Parallelogram Method",
+              "slide_content": {
+                "title": "Adding Two Vectors from a Common Point",
+                "definition": "When the two vectors are drawn from a common point to form the adjacent sides of a parallelogram, the resultant is the diagonal of the parallelogram.",
+                "steps": [
+                  "1. Translate one vector so that both vectors have their origins at the same point.",
+                  "2. Draw a line parallel to vector A from the head of B, and a line parallel to B from the head of A.",
+                  "3. The diagonal from the origin is the resultant."
+                ],
+                "equation": "R = A + B",
+                "images": "Figure 1.9 The Parallelogram rule for the addition of two vectors."
+              }
+            },
+            {
+              "slide_number": 15,
+              "slide_title": "Polygon Method",
+              "slide_content": {
+                "title": "Adding More Than Two Vectors",
+                "definition": "Place the tail of each successive vector at the head of the previous one. The resultant is drawn from the tail of the first vector to the head of the last vector.",
+                "steps": [
+                  "1. Arrange all vectors in a head-to-tail sequence.",
+                  "2. Draw the resultant vector from the tail of the first vector to the head of the last vector."
+                ],
+                "images": "Figure 1.10 The polygon rule for the addition of vectors."
+              }
+            },
+            {
+              "slide_number": 16,
+              "slide_title": "Special Cases of Vector Addition",
+              "slide_content": {
+                "title": "Same Direction",
+                "scenario": "When vectors A and B are parallel (same direction).",
+                "result": "The magnitude of the resultant R is the sum of the magnitudes. |R| = |A + B|. Direction is the same as the original vectors.",
+                "image": "Figure 1.11 (a)"
+              }
+            },
+            {
+              "slide_number": 17,
+              "slide_title": "Special Cases of Vector Addition",
+              "slide_content": {
+                "title": "Opposite Directions",
+                "scenario": "When vectors A and B are anti-parallel (opposite directions).",
+                "result": "The magnitude of the resultant R is the difference of the magnitudes. |R| = |A - B|. Direction is that of the larger vector.",
+                "image": "Figure 1.11 (b)"
+              }
+            },
+            {
+              "slide_number": 18,
+              "slide_title": "Special Cases of Vector Addition",
+              "slide_content": {
+                "title": "Perpendicular Vectors",
+                "scenario": "When vectors A and B are perpendicular to each other.",
+                "result_magnitude": "The magnitude is found using the Pythagorean theorem: |R| = \u221A(A\u00b2 + B\u00b2).",
+                "result_direction": "The direction is found using \u03b8 = tan\u207b\u00b9(B/A).",
+                "image": "Figure 1.12 Two perpendicular vectors A and B; and its resultant vector R."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Vector Resolution",
+          "slides": [
+            {
+              "slide_number": 19,
+              "slide_title": "Vector Resolution",
+              "slide_content": {
+                "title": "Breaking a Vector into Components",
+                "definition": "The process of breaking a vector into its components is called resolving into components. A single vector can be broken down into a number of vectors that, when added, give the original vector.",
+                "purpose": "To simplify analysis, vectors are often resolved into components along a chosen set of coordinate axes (usually x and y).",
+                "image": "Figure 1.13 The horizontal (Ax) and vertical (Ay) components of vector A."
+              }
+            },
+            {
+              "slide_number": 20,
+              "slide_title": "Graphical Method of Vector Resolution",
+              "slide_content": {
+                "title": "Steps for Graphical Resolution",
+                "steps": [
+                  "1. Select a scale and draw the vector to scale.",
+                  "2. Extend x- and y-axes from the tail of the vector.",
+                  "3. From the arrow head, construct perpendicular lines to the x- and y-axes.",
+                  "4. Draw the x-component (Ax) from the tail to the projection on the x-axis.",
+                  "5. Draw the y-component (Ay) from the tail to the projection on the y-axis.",
+                  "6. Measure the lengths and use the scale to find the magnitudes of the components."
+                ]
+              }
+            },
+            {
+              "slide_number": 21,
+              "slide_title": "Trigonometric Method of Vector Resolution",
+              "slide_content": {
+                "title": "Using Sine, Cosine, and Tangent",
+                "equations": [
+                  "Horizontal component: Ax = A cos \u03b8",
+                  "Vertical component: Ay = A sin \u03b8",
+                  "Magnitude of the original vector: |A| = \u221A(Ax\u00b2 + Ay\u00b2)",
+                  "Direction (angle with x-axis): \u03b8 = tan\u207b\u00b9(Ay/Ax)"
+                ],
+                "note": "Here, \u03b8 is the angle measured counterclockwise from the positive x-axis.",
+                "image": "Figure 1.14 Resolving of resultant displacement."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Uniformly Accelerated Motion",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Position and Displacement",
+          "slides": [
+            {
+              "slide_number": 22,
+              "slide_title": "Position and Displacement",
+              "slide_content": {
+                "title": "Describing the Location of an Object",
+                "key_terms": {
+                  "Frame of Reference": "An arbitrary set of axes from which the position and motion of an object are described.",
+                  "Position": "The location of an object with respect to a reference point in a frame of reference."
+                }
+              }
+            },
+            {
+              "slide_number": 23,
+              "slide_title": "Distance vs. Displacement",
+              "slide_content": {
+                "title": "Two Different Descriptions of Motion",
+                "distance": {
+                  "definition": "Distance is the total length of the path taken by an object in going from its initial position to its final position.",
+                  "type": "Scalar quantity (has only magnitude).",
+                  "image": "Figure 2.1 (dashed line)"
+                },
+                "displacement": {
+                  "definition": "Displacement is the difference between the initial and final position vectors of a body. It is the straight-line distance between the two positions in a specific direction.",
+                  "type": "Vector quantity (has both magnitude and direction).",
+                  "equation": "s = s - s0",
+                  "image": "Figure 2.1 (solid arrow)"
+                }
+              }
+            },
+            {
+              "slide_number": 24,
+              "slide_title": "Distance vs. Displacement Examples",
+              "slide_content": {
+                "title": "Understanding the Difference",
+                "example_1": "For motion from O to A: Distance = 60 km, Displacement = 60 km",
+                "example_2": "For motion from O to A and back to B: Distance = 85 km, Displacement = 35 km",
+                "example_3": "For a round trip from O to A and back to O: Distance = 120 km, Displacement = 0 km",
+                "conclusion": "The magnitude of displacement is not always equal to the distance traveled. It can be less than or equal to the distance. Displacement can be zero even when the distance is not."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Average Velocity and Instantaneous Velocity",
+          "slides": [
+            {
+              "slide_number": 25,
+              "slide_title": "Average Velocity and Instantaneous Velocity",
+              "slide_content": {
+                "title": "Rate of Change of Displacement",
+                "key_terms": {
+                  "Velocity": "The rate of change of displacement. It is a vector quantity.",
+                  "Speed": "The rate of change of distance. It is a scalar quantity."
+                }
+              }
+            },
+            {
+              "slide_number": 26,
+              "slide_title": "Average Velocity",
+              "slide_content": {
+                "title": "Definition and Formula",
+                "definition": "The average velocity of a body is the body's displacement (s) divided by the time interval (t) during which that displacement occurs.",
+                "equation": "v_avg = s / t = (s - s0) / (t - t0)",
+                "si_unit": "m/s (meters per second)",
+                "note": "Average velocity is a vector, so it includes a direction (positive or negative)."
+              }
+            },
+            {
+              "slide_number": 27,
+              "slide_title": "Average Speed",
+              "slide_content": {
+                "title": "Definition and Formula",
+                "definition": "The average speed of an object is obtained by dividing the total distance traveled by the total time taken.",
+                "equation": "v_avg_speed = total distance / total time",
+                "comparison": "Average speed equals the magnitude of average velocity ONLY if the motion is in a straight line without changing direction.",
+                "example": "A car travels 100 km at 50 km/h and 100 km at 100 km/h. Average speed = 200 km / 3 h = 66.7 km/h. The simple average of the speeds (75 km/h) is incorrect."
+              }
+            },
+            {
+              "slide_number": 28,
+              "slide_title": "Instantaneous Velocity",
+              "slide_content": {
+                "title": "Velocity at a Specific Instant",
+                "definition": "The instantaneous velocity indicates how fast a car moves and the direction of motion at each instant of time. It is the rate of change in displacement as change in time approaches zero.",
+                "equation": "v = (s - s0) / (t - t0) as (t - t0) approaches zero.",
+                "example": "The reading of a car's speedometer gives the magnitude of its instantaneous velocity (instantaneous speed)."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Acceleration",
+          "slides": [
+            {
+              "slide_number": 29,
+              "slide_title": "Acceleration",
+              "slide_content": {
+                "title": "Rate of Change of Velocity",
+                "definition": "Acceleration is the quantity that describes the rate of change of velocity in a given time interval.",
+                "key_concept": "Any change in velocity (speeding up, slowing down, or changing direction) is acceleration.",
+                "si_unit": "m/s\u00b2 (meters per second squared)."
+              }
+            },
+            {
+              "slide_number": 30,
+              "slide_title": "Average Acceleration",
+              "slide_content": {
+                "title": "Definition and Formula",
+                "definition": "The magnitude of average acceleration is defined by the change in an object's velocity divided by the time interval in which the change occurs.",
+                "equation": "a_avg = \u0394v / \u0394t = (v - v0) / (t - t0)",
+                "direction": "The direction of average acceleration is the direction of the change in velocity.",
+                "examples": [
+                  "Speeding up: Acceleration is in the same direction as the motion.",
+                  "Slowing down (Deceleration): Acceleration is opposite to the direction of motion."
+                ]
+              }
+            },
+            {
+              "slide_number": 31,
+              "slide_title": "Instantaneous Acceleration",
+              "slide_content": {
+                "title": "Acceleration at a Specific Instant",
+                "definition": "Instantaneous acceleration is the average acceleration at a specific instant in time (or over an infinitesimally small time interval).",
+                "equation": "a = \u0394v / \u0394t as \u0394t approaches 0",
+                "note": "For uniformly accelerated motion, the instantaneous acceleration has the same value as the average acceleration."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Equations of Motion with Constant Acceleration",
+          "slides": [
+            {
+              "slide_number": 32,
+              "slide_title": "Equations of Motion with Constant Acceleration",
+              "slide_content": {
+                "title": "Kinematic Equations",
+                "note": "For uniformly accelerated motion (constant acceleration), a set of equations relates the key kinematic variables.",
+                "variables": [
+                  "v0 = initial velocity",
+                  "v = final velocity",
+                  "a = acceleration (constant)",
+                  "t = time",
+                  "s = displacement"
+                ],
+                "equations": [
+                  "1. v = v0 + a t",
+                  "2. s = v0 t + \u00bd a t\u00b2",
+                  "3. v\u00b2 = v0\u00b2 + 2 a s"
+                ]
+              }
+            },
+            {
+              "slide_number": 33,
+              "slide_title": "Free Fall",
+              "slide_content": {
+                "title": "Motion Under Gravity",
+                "definition": "Free fall is the motion of an object falling freely under the influence of gravity alone, neglecting air resistance.",
+                "key_facts": [
+                  "All objects in free fall near Earth's surface have the same constant acceleration, g.",
+                  "The value of g is approximately 9.8 m/s\u00b2, directed downward.",
+                  "The acceleration due to gravity is independent of the object's mass."
+                ],
+                "modified_equations": "For free fall, replace 'a' with 'g' and 's' with 'h' (height).",
+                "free_fall_equations": [
+                  "v = v0 + g t",
+                  "h = v0 t + \u00bd g t\u00b2",
+                  "v\u00b2 = v0\u00b2 + 2 g h"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Graphical Representation of Uniformly Accelerated Motion",
+          "slides": [
+            {
+              "slide_number": 34,
+              "slide_title": "Graphical Representation of Uniformly Accelerated Motion",
+              "slide_content": {
+                "title": "Position-Time Graph",
+                "description": "For uniformly accelerated motion, the position-time graph is a parabola.",
+                "key_point": "The slope of the tangent at any point on this curve gives the instantaneous velocity at that time.",
+                "image": "Figure 2.8 Position-time graph with constant acceleration."
+              }
+            },
+            {
+              "slide_number": 35,
+              "slide_title": "Graphical Representation of Uniformly Accelerated Motion",
+              "slide_content": {
+                "title": "Velocity-Time Graph",
+                "description": "For uniformly accelerated motion, the velocity-time graph is a straight line.",
+                "key_points": [
+                  "The slope of the line gives the acceleration.",
+                  "The area under the line gives the displacement."
+                ],
+                "image": "Figure 2.10 The velocity-time graph."
+              }
+            },
+            {
+              "slide_number": 36,
+              "slide_title": "Graphical Representation of Uniformly Accelerated Motion",
+              "slide_content": {
+                "title": "Acceleration-Time Graph",
+                "description": "For uniformly accelerated motion, the acceleration-time graph is a straight line parallel to the time axis (since acceleration is constant).",
+                "key_point": "The area under the graph gives the change in velocity.",
+                "image": "Figure 2.15 Acceleration-time graph."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Relative Velocity in One Dimension",
+          "slides": [
+            {
+              "slide_number": 37,
+              "slide_title": "Relative Velocity in One Dimension",
+              "slide_content": {
+                "title": "Velocity with Respect to a Frame of Reference",
+                "definition": "Relative velocity is the velocity of an object with respect to another object or observer (frame of reference).",
+                "key_point": "All velocities are measured relative to a given reference frame (e.g., the ground)."
+              }
+            },
+            {
+              "slide_number": 38,
+              "slide_title": "Calculating Relative Velocity",
+              "slide_content": {
+                "title": "Formulas for One-Dimensional Motion",
+                "equations": [
+                  "Relative velocity of A with respect to B: v_AB = v_A - v_B",
+                  "Relative velocity of B with respect to A: v_BA = v_B - v_A"
+                ],
+                "cases": {
+                  "Same Direction": "Magnitude of relative velocity is the difference in speeds.",
+                  "Opposite Directions": "Magnitude of relative velocity is the sum of the speeds. For example, if A moves right (+v) and B moves left (-v), v_AB = v - (-v) = 2v."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Elasticity and Static Equilibrium of Rigid Body",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Elasticity and Plasticity",
+          "slides": [
+            {
+              "slide_number": 39,
+              "slide_title": "Elasticity and Plasticity",
+              "slide_content": {
+                "title": "Deformation of Solids",
+                "definition": "All solid bodies can be stretched, compressed, or bent when a sufficiently large external force (a deforming force) is applied."
+              }
+            },
+            {
+              "slide_number": 40,
+              "slide_title": "Elasticity",
+              "slide_content": {
+                "title": "Regaining Original Shape",
+                "definition": "Elasticity is the property of a body to regain its original shape and size after the removal of the deforming force.",
+                "examples": "Rubber band, metal spring, steel rope",
+                "note": "This deformation is called elastic deformation.",
+                "image": "Figure 3.1 Helical spring, Figure 3.2 Spring pen."
+              }
+            },
+            {
+              "slide_number": 41,
+              "slide_title": "Plasticity",
+              "slide_content": {
+                "title": "Permanent Deformation",
+                "definition": "Plasticity is the property of a body to retain its deformed shape permanently after the removal of the deforming force.",
+                "examples": "Lump of putty, potter's clay",
+                "note": "This deformation is called plastic deformation. It is permanent and irreversible.",
+                "image": "Figure 3.3 Hammer force applied on a nail."
+              }
+            },
+            {
+              "slide_number": 42,
+              "slide_title": "The Elastic Limit",
+              "slide_content": {
+                "title": "The Threshold of Plasticity",
+                "definition": "The maximum deforming force up to which a body retains its property of elasticity is called the elastic limit of the material.",
+                "key_concept": "All materials are elastic up to a certain deformation. Beyond this limit, they turn plastic.",
+                "example": "Springs lose their springiness if subjected to a large external force and tend to become plastic.",
+                "applications": [
+                  "Metallic parts of machinery are not subjected to stress beyond elastic limit.",
+                  "The thickness of crane ropes is decided based on the elastic limit.",
+                  "Bridges are declared unsafe after long use due to loss of elastic strength."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Density and Specific Gravity",
+          "slides": [
+            {
+              "slide_number": 43,
+              "slide_title": "Density and Specific Gravity",
+              "slide_content": {
+                "title": "Mass per Unit Volume",
+                "definition": "Density is defined as the mass of an object per unit of its volume.",
+                "equation": "\u03c1 = m / V",
+                "si_unit": "kg/m\u00b3",
+                "note": "Density is a characteristic property of a pure substance and determines whether an object sinks or floats."
+              }
+            },
+            {
+              "slide_number": 44,
+              "slide_title": "Specific Gravity",
+              "slide_content": {
+                "title": "Relative Density",
+                "definition": "Specific gravity is the ratio of the density of a given substance to that of a standard substance (usually water at 4\u00b0C).",
+                "equation": "SG = \u03c1_substance / \u03c1_water",
+                "key_concept": "Specific gravity is a unitless quantity.",
+                "note": "Water at 4\u00b0C is used as a standard because it has its highest density at this temperature.",
+                "applications": [
+                  "Geologists use it to determine the mineral content of rock.",
+                  "Used to compare the purity of gems."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Stress and Strain",
+          "slides": [
+            {
+              "slide_number": 45,
+              "slide_title": "Stress and Strain",
+              "slide_content": {
+                "title": "Describing Deformation",
+                "key_terms": {
+                  "Stress": "A quantity that describes the magnitude of forces that cause deformation. It is the force per unit area.",
+                  "Strain": "A quantity that describes the degree of deformation. It is the fractional change in length, volume, or shape."
+                }
+              }
+            },
+            {
+              "slide_number": 46,
+              "slide_title": "Types of Stress",
+              "slide_content": {
+                "title": "Force Per Unit Area",
+                "equation": "Stress = Force / Area = F / A",
+                "si_unit": "N/m\u00b2",
+                "types": {
+                  "Tensile Stress": "When forces pull on an object and cause it to elongate.",
+                  "Compressive Stress": "When forces cause a compression of an object.",
+                  "Bulk Stress (Volume Stress)": "When an object is squeezed from all sides.",
+                  "Shear Stress": "When forces act tangentially to the object's surface."
+                }
+              }
+            },
+            {
+              "slide_number": 47,
+              "slide_title": "Types of Strain",
+              "slide_content": {
+                "title": "Fractional Deformation",
+                "note": "Strain is a dimensionless number.",
+                "types": {
+                  "Tensile/Linear Strain": "\u0394L / L0 (change in length divided by original length).",
+                  "Volumetric Strain": "\u0394V / V0 (change in volume divided by original volume).",
+                  "Shearing Strain": "\u0394x / L0 (tangential displacement divided by original length)."
+                }
+              }
+            },
+            {
+              "slide_number": 48,
+              "slide_title": "Hooke's Law",
+              "slide_content": {
+                "title": "Stress-Strain Relationship",
+                "statement": "Within the elastic limit, stress is directly proportional to corresponding strain.",
+                "equation": "Stress \u221d Strain \u21d2 Stress = k \u00d7 Strain",
+                "key_terms": {
+                  "Modulus of Elasticity (k)": "The constant of proportionality, a measure of elasticity of the substance. It depends on the nature of the material and has the same units as stress."
+                },
+                "note": "A large elastic modulus means the effect of stress is small (stiff material). A small elastic modulus means stress produces large deformation."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "The Young Modulus",
+          "slides": [
+            {
+              "slide_number": 49,
+              "slide_title": "The Young Modulus",
+              "slide_content": {
+                "title": "Elastic Modulus for Tension/Compression",
+                "definition": "The Young Modulus (Y) is the ratio of tensile (or compressive) stress to the longitudinal strain.",
+                "equation": "Y = (F/A) / (\u0394L/L0)",
+                "si_unit": "N/m\u00b2 or Pascal (Pa)",
+                "note": "It is a property of a material that tells us how easily it can stretch and deform. A high Y means the material is stiff and requires a large force to produce a small change in length."
+              }
+            },
+            {
+              "slide_number": 50,
+              "slide_title": "Young Modulus Examples",
+              "slide_content": {
+                "title": "Values for Different Materials",
+                "values": [
+                  "Steel: 20 \u00d7 10\u00b9\u2070 N/m\u00b2",
+                  "Copper: 11 \u00d7 10\u00b9\u2070 N/m\u00b2",
+                  "Aluminum: 7.0 \u00d7 10\u00b9\u2070 N/m\u00b2",
+                  "Glass: (6.5-7.8) \u00d7 10\u00b9\u2070 N/m\u00b2"
+                ],
+                "note": "Steel has the largest value, making it more elastic and preferred in heavy-duty machines and structural designs. The Young Modulus is relevant only for solids."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Static Equilibrium",
+          "slides": [
+            {
+              "slide_number": 51,
+              "slide_title": "Static Equilibrium",
+              "slide_content": {
+                "title": "An Object at Rest",
+                "definition": "Static equilibrium occurs when an object or a system remains at rest and does not tilt nor rotate.",
+                "key_concept": "A system is in static equilibrium if it is at rest and all forces and other factors influencing it are balanced."
+              }
+            },
+            {
+              "slide_number": 52,
+              "slide_title": "First Condition of Equilibrium",
+              "slide_content": {
+                "title": "Zero Net Force",
+                "statement": "For an object to remain in equilibrium, the net force acting upon it in all directions must be zero.",
+                "equation": "F_net = \u03a3F = 0",
+                "component_form": "In two dimensions: \u03a3F_x = 0 and \u03a3F_y = 0",
+                "key_concept": "This condition prevents translational acceleration."
+              }
+            },
+            {
+              "slide_number": 53,
+              "slide_title": "Second Condition of Equilibrium",
+              "slide_content": {
+                "title": "Zero Net Torque",
+                "definition": "A body satisfies the second condition for equilibrium when the resultant torque acting on it is zero.",
+                "equation": "\u03a3\u03c4 = 0",
+                "torque_definition": "Torque is the twisting force that causes an object to rotate. \u03c4 = F r sin \u03b8.",
+                "key_concept": "This condition prevents rotational acceleration."
+              }
+            },
+            {
+              "slide_number": 54,
+              "slide_title": "Examples of Static Equilibrium",
+              "slide_content": {
+                "title": "Everyday Examples",
+                "examples": [
+                  {
+                    "name": "A Book on a Table",
+                    "forces": "Gravity (downward) and Normal Force (upward) are balanced. Net force is zero. No torque acts.",
+                    "image": "Figure 3.11 A book at rest on the top of a table."
+                  },
+                  {
+                    "name": "A Balanced Seesaw",
+                    "forces": "The clockwise torque from one child equals the counterclockwise torque from the other. Net torque is zero.",
+                    "image": "Figure 3.12 A balanced seesaw in static equilibrium."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Static and Current Electricity",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Charges in Nature",
+          "slides": [
+            {
+              "slide_number": 55,
+              "slide_title": "Charges in Nature",
+              "slide_content": {
+                "title": "Two Types of Charge",
+                "key_facts": [
+                  "Positive Charge: Carried by protons.",
+                  "Negative Charge: Carried by electrons.",
+                  "Neutral Objects: Have equal numbers of positive and negative charges.",
+                  "Charged Objects: Have an excess or deficit of electrons."
+                ]
+              }
+            },
+            {
+              "slide_number": 56,
+              "slide_title": "Properties of Charge",
+              "slide_content": {
+                "title": "Unit, Conservation, and Quantization",
+                "si_unit": "Coulomb (C). 1 C = 6.25 \u00d7 10\u00b9\u2078 electrons. Electron charge is e = 1.6 \u00d7 10\u207b\u00b9\u2079 C.",
+                "conservation": "The total electric charge in an isolated system is conserved (neither created nor destroyed, only transferred).",
+                "quantization": "Charge is quantized; it occurs as integer multiples of the elementary charge (e): q = n e."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Methods of Charging a Body",
+          "slides": [
+            {
+              "slide_number": 57,
+              "slide_title": "Methods of Charging a Body",
+              "slide_content": {
+                "title": "Three Ways to Transfer Charge",
+                "methods": [
+                  {
+                    "name": "Charging by Rubbing (Friction)",
+                    "description": "Two different neutral materials are rubbed together, transferring electrons from one to the other. They end up with opposite charges.",
+                    "example": "Rubbing a comb with hair.",
+                    "image": "Figure 4.1"
+                  },
+                  {
+                    "name": "Charging by Conduction (Contact)",
+                    "description": "A charged object touches a neutral object. The neutral object gains the same sign of charge as the charged object, but with a weaker magnitude.",
+                    "image": "Figure 4.2"
+                  },
+                  {
+                    "name": "Charging by Induction",
+                    "description": "A charged object is brought near a neutral conductor without touching it. A grounding wire is used, and then removed. The conductor ends up with a charge opposite to the inducing charge.",
+                    "image": "Figure 4.3"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The Electroscope",
+          "slides": [
+            {
+              "slide_number": 58,
+              "slide_title": "The Electroscope",
+              "slide_content": {
+                "title": "A Device for Detecting Charge",
+                "definition": "An electroscope is a sensitive instrument used to detect the presence and type of electric charge.",
+                "components": "A glass container, a metal rod with a metal plate on top, and two thin gold leaves attached to the bottom of the rod.",
+                "operation": "When a charged object is brought near the plate, charges are induced, causing the leaves to diverge due to repulsion. The divergence indicates the presence of charge.",
+                "image": "Figure 4.4 Charging an electroscope."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Electrical Discharge",
+          "slides": [
+            {
+              "slide_number": 59,
+              "slide_title": "Electrical Discharge",
+              "slide_content": {
+                "title": "Removing Excess Charge",
+                "definition": "Electrical discharge is the process of removing excess electric charges from a charged body. When charges are transferred very quickly, it results in a spark.",
+                "lightning": "A very large electrical discharge caused by induction. Negative charge builds up at the base of a cloud, inducing positive charge on the ground. A path of charged particles forms, and the cloud discharges its electrons to the ground.",
+                "images": "Figure 4.5 Lightning is an atmospheric electrical discharge."
+              }
+            },
+            {
+              "slide_number": 60,
+              "slide_title": "Grounding",
+              "slide_content": {
+                "title": "A Safe Path for Charge",
+                "definition": "Grounding is the process of providing a pathway to drain excess charge into the Earth (which is a donator or receiver of charge).",
+                "example": "Lightning rods: A metal rod connected to a cable that conducts charge into the ground, protecting buildings from damage.",
+                "safety_tips": [
+                  "Take shelter indoors if you see lightning or hear thunder.",
+                  "Avoid high places, open fields, and tall objects.",
+                  "Stay away from bodies of water and metal objects."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Coulomb's Law of Electrostatics",
+          "slides": [
+            {
+              "slide_number": 61,
+              "slide_title": "Coulomb's Law of Electrostatics",
+              "slide_content": {
+                "title": "The Force Between Charges",
+                "statement": "The magnitude of the electrostatic force between two point charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them.",
+                "equation": "F = k |q1 q2| / r\u00b2",
+                "key_terms": {
+                  "k": "Electrostatic constant (9.0 \u00d7 10\u2079 N m\u00b2/C\u00b2)",
+                  "\u03b5\u2080": "Permittivity of free space (8.85 \u00d7 10\u207b\u00b9\u00b2 C\u00b2/N m\u00b2), where k = 1/(4\u03c0\u03b5\u2080)"
+                },
+                "direction": "The force is directed along the line joining the charges. Like charges repel; unlike charges attract.",
+                "images": "Figure 4.6 Attractive and repulsive electrostatic force."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "The Electric Field",
+          "slides": [
+            {
+              "slide_number": 62,
+              "slide_title": "The Electric Field",
+              "slide_content": {
+                "title": "A Region of Force",
+                "definition": "An electric field is a region of space where an electric charge experiences a force.",
+                "test_charge": "A small, positive charge (q0) used to detect an electric field. It must be small so it doesn't disturb the field it's measuring.",
+                "field_strength": "The strength of the electric field (E) at a point is the force per unit charge: E = F / q0.",
+                "direction": "The direction of \u2192E is the direction of the force on a positive test charge.",
+                "si_unit": "N/C (Newton per Coulomb)."
+              }
+            },
+            {
+              "slide_number": 63,
+              "slide_title": "Electric Field Lines",
+              "slide_content": {
+                "title": "Visualizing the Field",
+                "properties": [
+                  "Field lines never intersect.",
+                  "They are perpendicular to the surface of the charge.",
+                  "The number of lines is proportional to the magnitude of the charge.",
+                  "They originate at positive charges and terminate at negative charges.",
+                  "Lines bend together for unlike charges and bend apart for like charges."
+                ],
+                "images": [
+                  "Figure 4.7 Electric field lines from positive and negative charges.",
+                  "Figure 4.8 Electric field lines between similar and opposite charges."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.7",
+          "section_title": "Electric Circuits",
+          "slides": [
+            {
+              "slide_number": 64,
+              "slide_title": "Electric Circuits",
+              "slide_content": {
+                "title": "A Path for Charge Flow",
+                "definition": "An electric circuit is a closed path through which electric charge can flow.",
+                "components": [
+                  "Source of potential difference (e.g., a battery)",
+                  "Conducting wires (e.g., copper wire)",
+                  "Load (e.g., a light bulb, resistor)"
+                ],
+                "key_point": "Charges flow in a closed loop, moving from the negative terminal of the source through the circuit to the positive terminal.",
+                "image": "Figure 4.10 Simple electric circuit."
+              }
+            },
+            {
+              "slide_number": 65,
+              "slide_title": "Open and Closed Circuits",
+              "slide_content": {
+                "title": "The Importance of a Complete Path",
+                "closed_circuit": "A circuit with a complete, unbroken path. Charges flow, and the load works (e.g., a bulb lights up).",
+                "open_circuit": "A circuit with a break (e.g., a switch is open). The path is incomplete, no charges flow, and the load does not work.",
+                "images": "Figure 4.11 (a) Closed circuit (b) Open circuit.",
+                "circuit_diagram_symbols": "Table 4.1 summarizes the symbols for components like batteries, switches, resistors, bulbs, ammeters, and voltmeters."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.8",
+          "section_title": "Current, Voltage, and Ohm's Law",
+          "slides": [
+            {
+              "slide_number": 66,
+              "slide_title": "Current",
+              "slide_content": {
+                "title": "The Rate of Flow of Charge",
+                "definition": "Electric current (I) is the rate of flow of electric charge through a point in a conducting medium.",
+                "equation": "I = \u0394Q / \u0394t",
+                "si_unit": "Ampere (A). 1 A = 1 C/s.",
+                "directions": {
+                  "Conventional Current": "Flow of positive charges from the positive terminal to the negative terminal.",
+                  "Electron Current": "Flow of electrons from the negative terminal to the positive terminal."
+                },
+                "image": "Figure 4.12 Conventional current and electron current."
+              }
+            },
+            {
+              "slide_number": 67,
+              "slide_title": "Voltage",
+              "slide_content": {
+                "title": "The Electric Potential Difference",
+                "definition": "The voltage (V) between two points in a circuit is the work done to move a unit charge from one point to the other.",
+                "equation": "V = W / Q",
+                "si_unit": "Volt (V). 1 V = 1 J/C.",
+                "key_concept": "A battery supplies energy to a circuit by converting chemical energy into electric potential energy, creating a potential difference that drives the current.",
+                "image": "Figure 4.13 Birds on an electric cable."
+              }
+            },
+            {
+              "slide_number": 68,
+              "slide_title": "Ohm's Law",
+              "slide_content": {
+                "title": "The Relationship Between V, I, and R",
+                "statement": "The current through a conductor is proportional to the voltage drop across it.",
+                "equation": "V = I R",
+                "resistance": {
+                  "definition": "Resistance (R) is the opposition to the flow of charge. Its unit is the ohm (\u03a9).",
+                  "equation": "R = V/I"
+                },
+                "factors_affecting_resistance": "Resistance depends on the material's resistivity (\u03c1), length (L), and cross-sectional area (A): R = \u03c1 (L/A).",
+                "images": "Figure 4.14 Current-voltage characteristics of (a) ohmic and (b) non-ohmic materials."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.9",
+          "section_title": "Combination of Resistors in a Circuit",
+          "slides": [
+            {
+              "slide_number": 69,
+              "slide_title": "Resistors in Series",
+              "slide_content": {
+                "title": "Single Path for Current",
+                "characteristics": [
+                  "The current is the same through each resistor.",
+                  "The total voltage is the sum of the individual voltage drops: V = V1 + V2 + V3.",
+                  "The equivalent resistance is the sum of the individual resistances: R_eq = R1 + R2 + R3."
+                ],
+                "image": "Figure 4.16 Series connection of three resistors.",
+                "note": "If one component in a series circuit fails, the entire circuit is open and no current flows."
+              }
+            },
+            {
+              "slide_number": 70,
+              "slide_title": "Resistors in Parallel",
+              "slide_content": {
+                "title": "Multiple Paths for Current",
+                "characteristics": [
+                  "The voltage is the same across each resistor.",
+                  "The total current is the sum of the branch currents: I = I1 + I2 + I3.",
+                  "The reciprocal of the equivalent resistance is the sum of the reciprocals of the individual resistances: 1/R_eq = 1/R1 + 1/R2 + 1/R3."
+                ],
+                "image": "Figure 4.17 Parallel connections of three resistors.",
+                "note": "If one component in a parallel circuit fails, the other branches continue to function."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.10",
+          "section_title": "Voltmeter and Ammeter Connection in a Circuit",
+          "slides": [
+            {
+              "slide_number": 71,
+              "slide_title": "Voltmeter and Ammeter",
+              "slide_content": {
+                "title": "Measuring Electrical Quantities",
+                "voltmeter": {
+                  "function": "Measures voltage.",
+                  "connection": "Connected in parallel with the component whose voltage is to be measured.",
+                  "reason": "Components in parallel have the same voltage. A voltmeter has a high resistance to minimize current draw."
+                },
+                "ammeter": {
+                  "function": "Measures current.",
+                  "connection": "Connected in series with the component whose current is to be measured.",
+                  "reason": "Components in series have the same current. An ammeter has a low resistance to minimize voltage drop."
+                },
+                "image": "Figure 4.21 (a) Ammeter and voltmeter connection in a circuit.",
+                "multimeter": "A device that can measure voltage, current, and resistance."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.11",
+          "section_title": "Electrical Safety in General and Local Context",
+          "slides": [
+            {
+              "slide_number": 72,
+              "slide_title": "Electrical Safety",
+              "slide_content": {
+                "title": "Protecting Ourselves from Electrical Hazards",
+                "body_as_conductor": "The human body is a good conductor. A current of 10 mA can be dangerous, and 100 mA can be fatal.",
+                "safety_devices": [
+                  {
+                    "name": "Fuse/Circuit Breaker",
+                    "function": "Protects against excessive current by melting (fuse) or switching off (breaker) to break the circuit."
+                  },
+                  {
+                    "name": "Grounding Wire (3-prong plug)",
+                    "function": "Provides a safe path for current to flow to Earth in case of a short circuit, preventing shock."
+                  },
+                  {
+                    "name": "Ground-Fault Interrupter (GFCI)",
+                    "function": "Detects small current leaks to ground and shuts off power in milliseconds, protecting against shock."
+                  }
+                ],
+                "safety_tips": [
+                  "Never use appliances with frayed cords.",
+                  "Keep away from water when using electrical appliances.",
+                  "Don't touch power lines."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "4.12",
+          "section_title": "Electric Projects",
+          "slides": [
+            {
+              "slide_number": 73,
+              "slide_title": "Electric Projects",
+              "slide_content": {
+                "title": "Building and Understanding Circuits",
+                "project_1": {
+                  "name": "Series Lamp Circuit",
+                  "observation": "The lamps are dim because the voltage is divided between them. If one lamp burns out, the other also goes out.",
+                  "image": "Figure 4.29 Series circuit."
+                },
+                "project_2": {
+                  "name": "Parallel Lamp Circuit",
+                  "observation": "The lamps are bright because each gets the full voltage. If one lamp burns out, the other remains lit.",
+                  "image": "Figure 4.30 Parallel Circuit."
+                },
+                "project_3": {
+                  "name": "Electric House Project",
+                  "description": "A model house is wired with series, parallel, and combination circuits to power various rooms and features."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Magnetism",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Magnet",
+          "slides": [
+            {
+              "slide_number": 74,
+              "slide_title": "Magnet",
+              "slide_content": {
+                "title": "A Material with a Magnetic Field",
+                "definition": "A magnet is a material or object that produces a magnetic field, which exerts a force on other magnets or ferromagnetic materials (like iron).",
+                "types": {
+                  "Permanent Magnets": "Retain their magnetic properties (e.g., steel, used in speakers and motors).",
+                  "Temporary Magnets": "Lose their magnetism when the inducing field is removed (e.g., iron nails).",
+                  "Electromagnets": "Become magnetic only when an electric current flows through a coil (used in motors and generators)."
+                },
+                "image": "Figure 5.1 Magnets of different shapes."
+              }
+            },
+            {
+              "slide_number": 75,
+              "slide_title": "Properties of Magnets",
+              "slide_content": {
+                "title": "Key Characteristics",
+                "properties": [
+                  "All magnets have two poles: a North pole and a South pole.",
+                  "Like poles repel; unlike poles attract.",
+                  "The force of attraction is strongest at the poles.",
+                  "If a magnet is cut in half, each piece becomes a new magnet with its own N and S poles.",
+                  "A freely suspended magnet aligns itself in a North-South direction."
+                ],
+                "image": "Figure 5.2 Properties of magnetic poles."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Magnetic Field",
+          "slides": [
+            {
+              "slide_number": 76,
+              "slide_title": "Magnetic Field",
+              "slide_content": {
+                "title": "The Region of Magnetic Influence",
+                "definition": "A magnetic field is the region around a magnetic material or moving electric charge within which the force of magnetism acts.",
+                "field_lines": "Imaginary lines used to represent magnetic fields. They show the direction and strength of the field.",
+                "image": "Figure 5.3 Magnetic field lines plot for a bar magnet."
+              }
+            },
+            {
+              "slide_number": 77,
+              "slide_title": "Properties of Magnetic Field Lines",
+              "slide_content": {
+                "title": "Characteristics",
+                "properties": [
+                  "They never intersect.",
+                  "They form closed loops.",
+                  "Outside a magnet, they go from the North pole to the South pole.",
+                  "Inside a magnet, they go from the South pole to the North pole.",
+                  "The density of the lines indicates the field strength (closer = stronger)."
+                ],
+                "comparison": "Magnetic field lines form closed loops, unlike electric field lines which start and end on charges."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "The Earth's Magnetic Field and the Compass",
+          "slides": [
+            {
+              "slide_number": 78,
+              "slide_title": "The Earth's Magnetic Field and the Compass",
+              "slide_content": {
+                "title": "A Planet-Sized Magnet",
+                "earth_field": "The Earth behaves like a giant bar magnet, with its magnetic field generated by the movement of molten iron in its outer core.",
+                "key_point": "The Earth's magnetic South pole is located near its geographic North pole. This is why the North pole of a compass needle points towards the geographic North.",
+                "image": "Figure 5.4 Earth's magnetic field."
+              }
+            },
+            {
+              "slide_number": 79,
+              "slide_title": "The Compass",
+              "slide_content": {
+                "title": "A Navigational Tool",
+                "definition": "A compass is an instrument containing a small, freely rotating magnetized needle that aligns with an external magnetic field.",
+                "function": "The compass needle lines up with the Earth's magnetic field, indicating the direction of magnetic North. This is used for navigation.",
+                "image": "Figure 5.5 Compass.",
+                "note": "Some animals, like birds and sea turtles, also use the Earth's magnetic field to navigate."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Magnetic Field of a Current-Carrying Conductor",
+          "slides": [
+            {
+              "slide_number": 80,
+              "slide_title": "Magnetic Field of a Current-Carrying Conductor",
+              "slide_content": {
+                "title": "Electromagnetism",
+                "key_concept": "A moving charge (current) produces a magnetic field.",
+                "field_shape": "The magnetic field around a long, straight current-carrying wire consists of concentric circles centered on the wire.",
+                "equation": "B = \u03bc\u2080 I / (2\u03c0 d), where:",
+                "variables": "B = magnetic field strength, \u03bc\u2080 = permeability of free space (4\u03c0 \u00d7 10\u207b\u2077 T m/A), I = current, d = distance from the wire.",
+                "image": "Figure 5.6 Magnetic field around a current-carrying wire."
+              }
+            },
+            {
+              "slide_number": 81,
+              "slide_title": "The Right-Hand Rule",
+              "slide_content": {
+                "title": "Determining the Direction of the Field",
+                "rule": "Point your right thumb in the direction of the current. Your fingers curl in the direction of the magnetic field.",
+                "characteristics": [
+                  "The field encircles the conductor.",
+                  "It lies in a plane perpendicular to the conductor.",
+                  "Reversing the current direction reverses the field direction."
+                ],
+                "image": "Figure 5.7 Right-hand rule for a magnetic field around a current-carrying wire."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Magnetic Force on a Moving Charge Placed in a Uniform Magnetic Field",
+          "slides": [
+            {
+              "slide_number": 82,
+              "slide_title": "Magnetic Force on a Moving Charge",
+              "slide_content": {
+                "title": "Force on a Charged Particle in a B-Field",
+                "key_concept": "A moving charged particle experiences a magnetic force in a magnetic field.",
+                "equation": "F = q v B sin \u03b8, where:",
+                "variables": "q = charge, v = speed, B = magnetic field strength, \u03b8 = angle between v and B.",
+                "special_cases": [
+                  "When v is parallel to B (\u03b8 = 0\u00b0), F = 0.",
+                  "When v is perpendicular to B (\u03b8 = 90\u00b0), F is maximum (F = q v B)."
+                ]
+              }
+            },
+            {
+              "slide_number": 83,
+              "slide_title": "Direction of the Magnetic Force",
+              "slide_content": {
+                "title": "The Right-Hand Rule for a Charge",
+                "rule": "Point the thumb of your right hand in the direction of v (for a positive charge), fingers in the direction of B. The palm pushes in the direction of F.",
+                "note": "The force is perpendicular to both v and B, causing the charged particle's path to curve.",
+                "image": "Figure 5.8 Right-hand rule for a magnetic force on a moving charge."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Magnetic Force on a Current-Carrying Wire",
+          "slides": [
+            {
+              "slide_number": 84,
+              "slide_title": "Magnetic Force on a Current-Carrying Wire",
+              "slide_content": {
+                "title": "Force on a Wire in a B-Field",
+                "key_concept": "A current-carrying wire in a magnetic field experiences a force.",
+                "equation": "F = I L B sin \u03b8, where:",
+                "variables": "I = current, L = length of the wire, B = magnetic field strength, \u03b8 = angle between the wire and the field.",
+                "images": [
+                  "Figure 5.9 Current-carrying wire in magnetic field.",
+                  "Figure 5.10 Right-hand rule for a magnetic force on a current-carrying conductor."
+                ],
+                "note": "The force is perpendicular to the plane containing the wire and the field, and is greatest when the wire is perpendicular to the field."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Magnetic Force Between Two Parallel Current-Carrying Wires",
+          "slides": [
+            {
+              "slide_number": 85,
+              "slide_title": "Magnetic Force Between Two Wires",
+              "slide_content": {
+                "title": "Interaction of Two Magnetic Fields",
+                "rule": [
+                  {
+                    "case": "Same Direction Currents",
+                    "result": "The wires attract each other."
+                  },
+                  {
+                    "case": "Opposite Direction Currents",
+                    "result": "The wires repel each other."
+                  }
+                ],
+                "explanation": "Wire 1 creates a magnetic field that exerts a force on Wire 2, and vice versa. The direction of the force depends on the direction of the currents.",
+                "image": "Figure 5.11 Magnetic force between two parallel wires."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "5.8",
+          "section_title": "Applications of Magnetism",
+          "slides": [
+            {
+              "slide_number": 86,
+              "slide_title": "Applications of Magnetism",
+              "slide_content": {
+                "title": "Magnets in Everyday Life and Technology",
+                "applications": [
+                  {
+                    "area": "Health and Medicine",
+                    "examples": "MRI (Magnetic Resonance Imaging) uses powerful magnets to create images of the body. Magnets can also be used for targeted cancer treatment.",
+                    "image": "Figure 5.12 MRI scanning machine."
+                  },
+                  {
+                    "area": "In the Home",
+                    "examples": "Refrigerator magnets, compasses, credit card strips, electric motors (in vacuum cleaners, blenders, washing machines)."
+                  },
+                  {
+                    "area": "Computers and Electronics",
+                    "examples": "Hard drives store data using magnets. Speakers and microphones use magnets to convert electrical signals to sound and vice versa."
+                  },
+                  {
+                    "area": "Industry",
+                    "examples": "Electric generators, magnetic cranes for recycling, sorting machines in mining, and food processing to remove metal bits."
+                  },
+                  {
+                    "area": "Navigation",
+                    "examples": "Compasses, which are essential for navigation at sea and on land.",
+                    "image": "Figure 5.13 Magnetic compass used for navigation."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Electromagnetic Waves and Geometrical Optics",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Electromagnetic (EM) Waves",
+          "slides": [
+            {
+              "slide_number": 87,
+              "slide_title": "Electromagnetic (EM) Waves",
+              "slide_content": {
+                "title": "What are EM Waves?",
+                "definition": "An EM wave is a wave that consists of oscillating electric and magnetic fields, which radiate outward from the source at the speed of light.",
+                "nature": "EM waves are transverse waves, meaning the oscillations are perpendicular to the direction of propagation.",
+                "key_point": "They can travel through empty space (vacuum) as well as through matter.",
+                "image": "Figure 6.1 Electric field and magnetic field in an EM wave.",
+                "radiant_energy": "The energy carried by EM waves, mostly from the Sun, includes infrared (heat), visible light, and ultraviolet waves."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "EM Spectrum",
+          "slides": [
+            {
+              "slide_number": 88,
+              "slide_title": "The Electromagnetic Spectrum",
+              "slide_content": {
+                "title": "The Complete Range of EM Waves",
+                "definition": "The EM spectrum is the complete range of EM wave frequencies and wavelengths.",
+                "key_fact": "All EM waves travel at the same speed in a vacuum (c), but differ in frequency and wavelength.",
+                "types": [
+                  "Radio Waves (lowest frequency, longest wavelength)",
+                  "Microwaves",
+                  "Infrared",
+                  "Visible Light",
+                  "Ultraviolet",
+                  "X-rays",
+                  "Gamma Rays (highest frequency, shortest wavelength, highest energy)"
+                ],
+                "image": "Figure 6.2 The EM spectrum."
+              }
+            },
+            {
+              "slide_number": 89,
+              "slide_title": "EM Spectrum: Uses and Dangers",
+              "slide_content": {
+                "title": "Applications and Hazards",
+                "summary": {
+                  "Radio Waves": "Uses: Communication (radio, TV). Dangers: High doses may cause cancer.",
+                  "Microwaves": "Uses: Cooking (microwave ovens), radar. Dangers: Cataracts, heating body tissues.",
+                  "Infrared": "Uses: Remote controls, heat lamps. Dangers: Heating/overheating.",
+                  "Visible Light": "Uses: Vision. Dangers: Eye damage.",
+                  "Ultraviolet": "Uses: Sterilization, tanning. Dangers: Sunburn, skin cancer.",
+                  "X-rays": "Uses: Medical imaging, security scans. Dangers: Cell damage, cancer.",
+                  "Gamma Rays": "Uses: Radiotherapy (cancer treatment), sterilization. Dangers: Cell damage, mutation."
+                }
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Light as a Wave",
+          "slides": [
+            {
+              "slide_number": 90,
+              "slide_title": "Light as a Wave",
+              "slide_content": {
+                "title": "Properties of Light Waves",
+                "speed": "In a vacuum, all light travels at a constant speed, c = 3.00 \u00d7 10\u2078 m/s.",
+                "medium": "Light can travel in a vacuum and through matter (like air, water, and glass), but it slows down in matter.",
+                "relationship": "The speed, wavelength, and frequency of any EM wave are related by: c = \u03bb f.",
+                "propagation": "Light travels in straight lines from its source. The path of light is represented by a ray (an arrow-tipped straight line).",
+                "image": "Figure 6.5 Light rays from the object to the eyes."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Laws of Reflection & Refraction",
+          "slides": [
+            {
+              "slide_number": 91,
+              "slide_title": "Laws of Reflection",
+              "slide_content": {
+                "title": "Bouncing Back of Light",
+                "law_1": "The angle of incidence (\u03b8i) equals the angle of reflection (\u03b8r).",
+                "law_2": "The incident ray, the reflected ray, and the normal (perpendicular to the surface) all lie in the same plane.",
+                "types": {
+                  "Specular Reflection": "Reflection from a smooth shiny surface, producing parallel reflected rays.",
+                  "Diffuse Reflection": "Reflection from a rough surface, scattering reflected rays in different directions."
+                },
+                "image": "Figure 6.7 (a) Specular and (b) diffuse reflection."
+              }
+            },
+            {
+              "slide_number": 92,
+              "slide_title": "Laws of Refraction",
+              "slide_content": {
+                "title": "Bending of Light",
+                "definition": "Refraction is the bending of light as it passes from one transparent medium to another, caused by a change in its speed.",
+                "key_point": "Light bends towards the normal when entering a denser medium (slower speed), and away from the normal when entering a rarer medium (faster speed).",
+                "snell_law": "n\u2081 sin\u03b8\u2081 = n\u2082 sin\u03b8\u2082 (Snell's Law)",
+                "refractive_index": "n = c/v. It is a measure of how much a material slows down light.",
+                "images": [
+                  "Figure 6.10 Bending of a light ray (a) toward the normal and (b) away from the normal.",
+                  "Figure 6.11 Ray showing the refraction of light."
+                ]
+              }
+            },
+            {
+              "slide_number": 93,
+              "slide_title": "Total Internal Reflection",
+              "slide_content": {
+                "title": "Complete Reflection Inside a Medium",
+                "conditions": [
+                  "Light must travel from a denser medium to a rarer medium (n1 > n2).",
+                  "The angle of incidence in the denser medium must be greater than the critical angle."
+                ],
+                "critical_angle": "The angle of incidence that results in an angle of refraction of 90\u00b0. sin \u03b8c = n2 / n1.",
+                "application": "Optical fibers use total internal reflection to guide light along a cable, used in telecommunications and endoscopes.",
+                "images": [
+                  "Figure 6.12 The critical angle and total internal reflection.",
+                  "Figure 6.13 Light is guided along a fibre."
+                ]
+              }
+            },
+            {
+              "slide_number": 94,
+              "slide_title": "Dispersion of Light",
+              "slide_content": {
+                "title": "Prisms and Rainbows",
+                "definition": "Dispersion is the splitting of white light into its component colors (a spectrum) when it passes through a prism.",
+                "sequence": "The order of colors is VIBGYOR: Violet, Indigo, Blue, Green, Yellow, Orange, Red.",
+                "reason": "Different colors of light bend at different angles because they have different speeds in glass. Violet light bends the most, red the least.",
+                "rainbow": "A rainbow is a natural spectrum caused by the dispersion of sunlight by tiny water droplets in the atmosphere.",
+                "image": "Figure 6.14 Dispersion of white light by a glass prism."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Mirrors and Lenses",
+          "slides": [
+            {
+              "slide_number": 95,
+              "slide_title": "Plane Mirrors",
+              "slide_content": {
+                "title": "Flat Reflective Surfaces",
+                "image_characteristics": [
+                  "The image is virtual (cannot be projected on a screen).",
+                  "The image is upright.",
+                  "The image is the same size as the object.",
+                  "The image is located as far behind the mirror as the object is in front of it.",
+                  "The image is laterally inverted (left and right are swapped)."
+                ],
+                "image": "Figure 6.16 Image formation in the plane mirror."
+              }
+            },
+            {
+              "slide_number": 96,
+              "slide_title": "Spherical Mirrors",
+              "slide_content": {
+                "title": "Concave and Convex Mirrors",
+                "key_terms": {
+                  "Concave Mirror": "Reflective surface curves inward. It converges light rays.",
+                  "Convex Mirror": "Reflective surface curves outward. It diverges light rays."
+                },
+                "definitions": {
+                  "Center of Curvature (C)": "The center of the sphere from which the mirror is made.",
+                  "Radius of Curvature (R)": "The radius of that sphere.",
+                  "Principal Focus (F)": "The point where parallel light rays converge (concave) or appear to diverge from (convex).",
+                  "Focal Length (f)": "The distance from the pole to the focus. R = 2f."
+                },
+                "images": "Figure 6.17 Spherical mirrors."
+              }
+            },
+            {
+              "slide_number": 97,
+              "slide_title": "Image Formation by Mirrors",
+              "slide_content": {
+                "title": "Using Ray Diagrams",
+                "concave_mirror": {
+                  "position_from_C": "Image is real, inverted, and size depends on object position.",
+                  "position_at_F": "Image is highly enlarged and real.",
+                  "position_between_P_and_F": "Image is virtual, enlarged, and upright."
+                },
+                "convex_mirror": "Always produces a virtual, erect, and diminished image, regardless of the object's position.",
+                "images": [
+                  "Figure 6.20 Formation of an image by a concave mirror.",
+                  "Figure 6.21 Formation of an image by a convex mirror."
+                ]
+              }
+            },
+            {
+              "slide_number": 98,
+              "slide_title": "Mirror Formula and Magnification",
+              "slide_content": {
+                "title": "Calculating Image Properties",
+                "mirror_formula": "1/f = 1/u + 1/v, where:",
+                "variables": "f = focal length, u = object distance, v = image distance.",
+                "magnification": "m = h'/h = -v/u, where:",
+                "variables_2": "h = object height, h' = image height.",
+                "sign_conventions": "A table of sign conventions for spherical mirrors is used (Table 6.4)."
+              }
+            },
+            {
+              "slide_number": 99,
+              "slide_title": "Lenses",
+              "slide_content": {
+                "title": "Convex and Concave Lenses",
+                "key_terms": {
+                  "Convex Lens": "Thicker in the middle, converges light rays. Also called a converging lens.",
+                  "Concave Lens": "Thinner in the middle, diverges light rays. Also called a diverging lens."
+                },
+                "ray_diagrams": [
+                  "A ray parallel to the axis passes through the focus (convex) or appears to come from the focus (concave).",
+                  "A ray through the center passes undeviated.",
+                  "A ray through the focus emerges parallel to the axis."
+                ],
+                "images": [
+                  "Figure 6.23 (a) Converging action of a convex lens.",
+                  "Figure 6.24 (b) Diverging action of a concave lens."
+                ]
+              }
+            },
+            {
+              "slide_number": 100,
+              "slide_title": "Image Formation by Lenses",
+              "slide_content": {
+                "title": "Using Ray Diagrams",
+                "convex_lens": {
+                  "object_beyond_2F": "Real, inverted, and diminished.",
+                  "object_at_2F": "Real, inverted, and same size.",
+                  "object_between_F_and_2F": "Real, inverted, and enlarged.",
+                  "object_at_F": "No image (rays emerge parallel).",
+                  "object_between_F_and_O": "Virtual, enlarged, and upright."
+                },
+                "concave_lens": "Always produces a virtual, erect, and diminished image.",
+                "images": [
+                  "Figure 6.25 The position, size and nature of the image formed by a convex lens.",
+                  "Figure 6.26 Image formed by a concave lens."
+                ]
+              }
+            },
+            {
+              "slide_number": 101,
+              "slide_title": "Lens Formula and Magnification",
+              "slide_content": {
+                "title": "Calculations for Lenses",
+                "lens_formula": "1/f = 1/u + 1/v",
+                "magnification": "m = h'/h = -v/u",
+                "sign_conventions": "A table of sign conventions for lenses is used (Table 6.7).",
+                "note": "For a convex lens, f is positive. For a concave lens, f is negative."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Human Eye and Optical Instruments",
+          "slides": [
+            {
+              "slide_number": 102,
+              "slide_title": "The Human Eye",
+              "slide_content": {
+                "title": "A Biological Optical Instrument",
+                "anatomy": [
+                  "Cornea: The transparent bulge at the front, does most of the refraction.",
+                  "Iris: Controls the size of the pupil and the amount of light entering the eye.",
+                  "Lens: Provides fine focusing.",
+                  "Retina: The light-sensitive screen where the image is formed.",
+                  "Optic Nerve: Transmits signals to the brain."
+                ],
+                "image": "Figure 6.28 Basic elements of human eye."
+              }
+            },
+            {
+              "slide_number": 103,
+              "slide_title": "Defects of Vision and Correction",
+              "slide_content": {
+                "title": "Refractive Errors and Their Solutions",
+                "myopia": {
+                  "name": "Myopia (Near-sightedness)",
+                  "description": "Cannot see distant objects clearly; the image forms in front of the retina.",
+                  "correction": "Concave (diverging) lens.",
+                  "image": "Figure 6.29"
+                },
+                "hypermetropia": {
+                  "name": "Hypermetropia (Far-sightedness)",
+                  "description": "Cannot see nearby objects clearly; the image forms behind the retina.",
+                  "correction": "Convex (converging) lens.",
+                  "image": "Figure 6.30"
+                },
+                "presbyopia": {
+                  "name": "Presbyopia",
+                  "description": "Age-related loss of accommodation, making it difficult to focus on close objects.",
+                  "correction": "Bi-focal lenses (concave for distance, convex for near)."
+                }
+              }
+            },
+            {
+              "slide_number": 104,
+              "slide_title": "Optical Instruments",
+              "slide_content": {
+                "title": "Extending Human Vision",
+                "simple_microscope": "A single convex lens used to produce an erect, magnified, virtual image.",
+                "compound_microscope": "Uses an objective lens to form an enlarged real image, which is further magnified by the eyepiece lens.",
+                "refracting_telescope": "Uses a large objective lens to gather light and an eyepiece to magnify the image of distant objects.",
+                "reflecting_telescope": "Uses a large concave mirror to gather light, reflecting it to a secondary mirror and then to the eyepiece.",
+                "images": [
+                  "Figure 6.31 A simple microscope.",
+                  "Figure 6.32 A compound microscope.",
+                  "Figure 6.33 Refracting telescope.",
+                  "Figure 6.34 Reflecting telescopes."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "6.7",
+          "section_title": "Primary Colors of Light and Human Vision",
+          "slides": [
+            {
+              "slide_number": 105,
+              "slide_title": "Primary Colors and Human Vision",
+              "slide_content": {
+                "title": "How We See Color",
+                "retina_cells": [
+                  {
+                    "name": "Rods",
+                    "function": "Sensitive to light intensity (brightness), responsible for black-and-white vision in low light."
+                  },
+                  {
+                    "name": "Cones",
+                    "function": "Responsible for color vision. There are three types, each sensitive to a different range of wavelengths."
+                  }
+                ],
+                "primary_colors": "Red, Green, and Blue. These are the colors to which the three types of cones are most sensitive.",
+                "key_point": "The brain interprets combinations of signals from these three cone types as different colors.",
+                "image": "Figure 6.35 Rod and cone cells in the retina."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "6.8",
+          "section_title": "Color Addition of Light",
+          "slides": [
+            {
+              "slide_number": 106,
+              "slide_title": "Color Addition of Light",
+              "slide_content": {
+                "title": "The Additive Color Model",
+                "definition": "The color produced by mixing different colors of light.",
+                "rules": [
+                  "Red + Green = Yellow",
+                  "Red + Blue = Magenta",
+                  "Blue + Green = Cyan",
+                  "Red + Green + Blue = White",
+                  "Absence of all three = Black"
+                ],
+                "application": "Used in TVs, computer monitors, and digital projectors.",
+                "image": "Figure 6.36 The different combinations of colors produced by the primary colors of light."
+              }
+            }
+          ]
+        },
+        {
+          "section_number": "6.9",
+          "section_title": "Color Subtraction of Light Using Filters",
+          "slides": [
+            {
+              "slide_number": 107,
+              "slide_title": "Color Subtraction of Light",
+              "slide_content": {
+                "title": "The Subtractive Color Model",
+                "definition": "The color of an object is determined by the colors it reflects. The colors it absorbs are 'subtracted' from the incident white light.",
+                "primary_subtractive_colors": "Cyan, Magenta, Yellow.",
+                "rules": [
+                  "Cyan absorbs Red (reflects Blue + Green).",
+                  "Magenta absorbs Green (reflects Red + Blue).",
+                  "Yellow absorbs Blue (reflects Red + Green)."
+                ],
+                "application": "Used in painting, printing, and with color filters.",
+                "images": "Figures 6.38 to 6.43 Color subtraction using filters."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

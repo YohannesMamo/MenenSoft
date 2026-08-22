@@ -1,0 +1,2586 @@
+{
+  "subject": "History",
+  "grade": 11,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "History and Historiography",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "History as an Academic Discipline",
+              "content": [
+                "Definition: History is a branch of knowledge dealing with past human actions, thoughts, sayings, and deeds.",
+                "It is an organized and critical study of the past based on the interpretation of evidence.",
+                "The term 'history' comes from the Greek word 'istoria,' meaning inquiry or knowledge acquired by investigation.",
+                "History covers both prehistory (before writing, c. 4000 B.C.) and history (after writing).",
+                "As an academic discipline, it studies past events and patterns of change and continuity.",
+                "Historians attempt to answer: What happened? When? How? Why? What were the consequences?"
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Uses and Abuses of History",
+              "content": [
+                "Uses of History:",
+                "- Helps us learn from the past achievements and mistakes.",
+                "- Enables understanding of present society and predicting the future.",
+                "- Establishes identity for families, social groups, institutions, and countries.",
+                "- Provides essential intellectual skills for analysis and problem-solving.",
+                "- Helps understand crucial issues and give reasoned responses.",
+                "Abuses of History:",
+                "- Selection from the past to justify the present.",
+                "- Judging the past from present values, which does not give an objective picture."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "History and Other Sciences",
+              "content": [
+                "Differences from Natural Sciences:",
+                "- Natural sciences study the physical world; history studies human societies.",
+                "- History does not conduct controlled experiments.",
+                "- Historians often make value judgments; natural scientists report findings neutrally.",
+                "Similarities to Natural Sciences:",
+                "- Both are concerned with discovery and solving current problems.",
+                "- Both use systematic methods, rigorous checks, use of evidence, and draw conclusions.",
+                "Relationship to Social Sciences:",
+                "- History is categorized under social sciences like anthropology, sociology, and economics.",
+                "- Historians examine every aspect of human life, including economic and social conditions.",
+                "- Differences: Social scientists use experimental data, samples, and theoretical models more regularly."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Historiography",
+              "content": [
+                "Definition: Historiography refers to the history of historical writing and the discipline dealing with its methods.",
+                "It includes the techniques of historical research and documentation.",
+                "Western Historical Tradition:",
+                "- Herodotus (ca. 484-425 B.C.) is regarded as the 'father of history'.",
+                "- Thucydides (ca. 455-400 B.C.) wrote chronologically and critically about the Peloponnesian War.",
+                "Modern Academic History:",
+                "- Developed in the 1800s by the German Historical School.",
+                "- Leopold von Ranke (1795-1886) laid the foundations and is considered the 'father of modern historiography.'"
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Key Elements in the Study of History",
+              "content": [
+                "Sources:",
+                "- Crucial evidence; history cannot be written without sources.",
+                "- Sources include primary and secondary sources.",
+                "Interpretation of Evidence:",
+                "- Must have a clear understanding of the originality and meaning of evidence.",
+                "- Misinterpretation can lead to misrepresentation.",
+                "Presentation:",
+                "- Historical information must be presented based on evidence, in a simple, readable, and attractive way.",
+                "- Emphasis on evidence-based writing gained importance since the 19th century.",
+                "Objectivity:",
+                "- Writing unbiased or undistorted history based on truth.",
+                "- Involves identifying real facts and presenting them without bias.",
+                "- Complete objectivity is impossible, but it is the historian's duty to present reality accurately.",
+                "Historical Methods:",
+                "- Techniques and guidelines for using primary sources and other evidence.",
+                "- Major steps: collection of information, source criticism, interpretation, and objective writing."
+              ]
+            },
+            {
+              "slide_number": 6,
+              "title": "Ethiopian Historiography",
+              "content": [
+                "Indigenous Tradition:",
+                "- Indigenous historical writing since the 14th century, continuing to the early 20th century.",
+                "- Chronicles focused on achievements of emperors; Hagiographers contributed to recorded history.",
+                "- Both sources have limitations and require critical use.",
+                "European Ethiopian Studies:",
+                "- Founded in the late 17th century by German historian Job Ludolf (1624-1704).",
+                "- Ludolf wrote the first modern history of Ethiopia (1684).",
+                "- More Europeans participated in Ethiopian studies after the mid-19th century.",
+                "Challenges in Ethiopian Historiography:",
+                "- Imbalance of sources: Northern Ethiopia had more written sources; southern Ethiopia lacked them.",
+                "- Lack of comprehensiveness: Focused mainly on political history, with few studies on social/cultural history.",
+                "- Lack of objectivity: Chroniclers often had biases; scholars lacked access to pertinent sources.",
+                "Institute of Ethiopian Studies:",
+                "- Established in 1963 at Haile Sellassie I University, changed the focus from the north to the whole country."
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "Sources of History",
+              "content": [
+                "Primary Sources:",
+                "- Direct relation to the event; come directly from the period under study.",
+                "- Examples: Monuments, inscriptions, coins, letters, diaries, memoirs, chronicles, photographs, films, eyewitness accounts.",
+                "Secondary Sources:",
+                "- Do not have a direct relation to the event; historical reconstructions.",
+                "- Examples: Most history books, articles.",
+                "Oral Sources:",
+                "- Can be primary (eyewitness) or secondary (hearsay).",
+                "Source Criticism:",
+                "- Critical examination of both primary and secondary sources.",
+                "- Essential for establishing authenticity (originality).",
+                "- Necessary for a clear and deep understanding of the meaning and essence of evidence."
+              ]
+            },
+            {
+              "slide_number": 8,
+              "title": "Periodization in History",
+              "content": [
+                "Definition: The division of the entire human past into chronologically arranged shorter periods.",
+                "Purpose: Helps understand events in a time frame and simplifies the work of historians.",
+                "Approaches to Periodization:",
+                "- Human Behavior Approach: Savagery (2.5 million-8,000 B.P), Barbarous (8,000-5,000 B.P), Civilization (5,000 B.P - present).",
+                "- Human Tool-Making Approach: Stone Age (2.5 million - 5,000 B.P), Bronze Age (5,000-4,000 B.P), Iron Age (4,000 B.P - present).",
+                "- Human Economic Life Approach: Hunting and Gathering (up to 8,000 B.P), Farming and Animal Husbandry (8,000 B.P - 1750 A.D), Age of Industry (1750 A.D - present).",
+                "History and Prehistory:",
+                "- Divided by the beginning of writing around 4000 B.C.",
+                "- Prehistory: Events before 4000 B.C., overlapped with the Stone Age.",
+                "- History: Events after 4000 B.C.",
+                "Sub-divisions of History:",
+                "- Ancient, Medieval, and Modern (mostly in European history).",
+                "- Periodization varies by region and civilization.",
+                "Ethiopian Periodization:",
+                "- Ancient (c. 1000 B.C. - 1270 A.D), Medieval (1270-1855 A.D), Modern (1855 - present).",
+                "- African Periodization: Pre-colonial, Colonial, Post-colonial."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Origin of Human Beings",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Theories of Origin",
+              "content": [
+                "Creationist View:",
+                "- Belief that the universe, Earth, life, and humans were created by supernatural acts of divine creation.",
+                "- Creationists believe a supernatural force created all life, including humans, in complete physical form.",
+                "Scientific View (Theory of Evolution):",
+                "- Universe and life were created through a process of evolution over millions or billions of years.",
+                "- Simple life forms evolved into complex types over time.",
+                "- Charles Darwin's 'Origin of Species by Natural Selection' (1859) is the most convincing theory.",
+                "- Darwin explained evolution and natural selection as a theoretical explanation.",
+                "The debate between creationists and evolutionists climaxed in the mid-19th century."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Stages of Human Evolution: Hominids",
+              "content": [
+                "Definition: Hominid is a general biological term for members of the family consisting of human beings and extinct prehistoric human-like creatures.",
+                "Key Characteristics: Enlarged brains and the ability to walk upright on two legs (bipedalism).",
+                "Closest Living Relatives: Gorillas and chimpanzees, classified as pongidae.",
+                "Common Ancestor: Humans, gorillas, and chimpanzees all developed from a common ancestor that lived between 8 and 5 million years ago.",
+                "The split between hominids and the line leading to chimpanzees and gorillas occurred millions of years ago."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Australopithecines: The First Humans",
+              "content": [
+                "Name: Australopithecine translates to 'southern ape,' in reference to South Africa where the first fossils were found.",
+                "Evolution: Evolved in Africa around 6 million years ago.",
+                "Distinguishing Traits:",
+                "- Small canine teeth.",
+                "- Bipedalism (walking on two legs).",
+                "Ape-like Characteristics:",
+                "- Brain size: 390 - 550 cc (similar to apes).",
+                "- Body weight: 27-49 kg; Height: 1.1-1.5 m (similar to chimpanzees).",
+                "Fossil Locations: Ethiopia, Tanzania, Kenya, South Africa, Chad.",
+                "Seven Species of Australopithecines:",
+                "- A. anamensis (Kenya, 4.2-3.9 million years ago, 1994).",
+                "- A. afarensis (Ethiopia/Hadar, 3.9-2.9 million years ago, 1974).",
+                "- A. bahrleghazali (Central Africa, 3.5-3 million years ago, 1995).",
+                "- A. aethiopicus (Kenya, 2.9-2.6 million years ago, 1985).",
+                "- A. africanus (Southern Africa, 3-2.5 million years ago, 1924).",
+                "- A. boisei (East Africa, 2.5-1.5 million years ago, 1959).",
+                "- A. robustus (Southern Africa, 2.5-1.5 million years ago, 1938)."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Genus Homo: Homo habilis and Homo erectus",
+              "content": [
+                "Homo habilis (Handy Human):",
+                "- Lived in eastern and southern Africa about 2 million years ago.",
+                "- Made the first stone tools (Oldowan technology), consisting of flakes and cores.",
+                "- Discovered at Olduvai Gorge in Tanzania.",
+                "- A partial skull was unearthed in the lower Omo basin in Ethiopia.",
+                "Homo erectus (Upright Human):",
+                "- Originated in Africa; the earliest hominid to move out of Africa into Asia and Europe.",
+                "- Oldest fossils are about 1.7-1.8 million years old.",
+                "- Had a slightly smaller brain and slightly larger teeth than modern humans; stood over 1.5 m.",
+                "- Made precise stone tools (Acheulian), known as 'hand axes'.",
+                "- Was probably the first hominid to master the use of fire around 1.5 million years ago.",
+                "- Fossil remains have been found in Ethiopia (Lower Omo Basin, Melka-Kunture, Konso-Gardula, Middle Awash, Gedeb), Indonesia, Germany, and China."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Genus Homo: Homo sapiens",
+              "content": [
+                "Archaic Homo sapiens:",
+                "- Evolved from Homo erectus between 300,000 and 600,000 years ago.",
+                "- Occupied much of Africa and Europe.",
+                "- A partial cranium and other bones uncovered at Bodo in Middle Awash.",
+                "- Fossil remains and microlithic stone tools found in Africa and Eurasia.",
+                "Modern Homo sapiens:",
+                "- Include all living humans and fossil populations from at least 100,000 years ago.",
+                "- Oldest dated sites are in Africa, Near East, Middle East, and Europe.",
+                "- A complete skull (Kibish, Lower Omo Basin) and a lower jaw (Porc Epic, near Dire Dawa) have been uncovered.",
+                "- Lived across Africa, Eurasia, and Australia some 35,000 years ago; later spread to the Americas.",
+                "- Led a hunting and gathering way of life."
+              ]
+            },
+            {
+              "slide_number": 6,
+              "title": "Early Cultural Developments: Paleolithic Period",
+              "content": [
+                "The Stone Age (2.5 million to 5,000 years ago):",
+                "- Humans made tools from stone, marking the first technological advance.",
+                "- Tool-making behavior had a profound effect on human evolution.",
+                "Paleolithic (Old Stone Age):",
+                "- Humans discovered fire, learned to live in caves, made clothing, and painted cave walls.",
+                "- People were hunter-gatherers.",
+                "Lower Paleolithic (2.5 million-200,000 B.P):",
+                "- Oldowan technology: 'Direct percussion' flaking, used by Homo habilis.",
+                "- Acheulean technology: 'Hand axe' technology (bifaces), used by Homo erectus.",
+                "Middle Paleolithic (200,000-30,000 B.P):",
+                "- Homo erectus evolved into Homo sapiens.",
+                "- Refinement of tool-making; use of smaller tools (spear points, knives).",
+                "- Gademotta (Ethiopia) is one of the oldest Middle Paleolithic sites in Africa.",
+                "Upper Paleolithic (40,000-10,000 B.P):",
+                "- Standardized blade technology; microliths (small, geometric-shaped blades) became common.",
+                "- Composite tools (arrows and bows).",
+                "- Bone was used for tools; rapid biological and cultural evolution."
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "The Neolithic Revolution",
+              "content": [
+                "Definition: The replacement of hunting-gathering by food production through the domestication of plants and animals.",
+                "Timing: Began after 11,000 years ago, independently in different parts of the world.",
+                "Significance: Considered a turning point in human history.",
+                "Consequences:",
+                "- Sedentary life, villages, and organized societies.",
+                "- Social classes (priests, chieftains, merchants, craftsmen, shepherds).",
+                "- New inventions: hatchet, millstone, pottery.",
+                "- Emergence of sacred places, traditional religions, and first conflicts.",
+                "The Neolithic Revolution in the Ethiopian Region:",
+                "- Evidence of Neolithic culture in Ethiopia and the Horn from 4,000 B.C.",
+                "- Ceramic tradition, polished stone tools, domestication of plants and animals, sedentary life.",
+                "- Sites: Gobedra (camel remains, 2,500 B.C), Lalibela Cave (chickpeas and vegetables, 500 B.C), Lake Beseka (cattle domestication, 2nd millennium B.C).",
+                "- Agricultural tradition in northern Ethiopia existed between 3,000 and 2,000 B.C.",
+                "- Domestication of enset, teff, noog, finger millet, and coffee."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Emergence of States",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Theories of the Emergence of State",
+              "content": [
+                "Definition: Early states emerged when human society organized into families, clans, and tribes.",
+                "Timing: Earliest known states emerged around 6,000 years ago.",
+                "Theories of State Formation:",
+                "1. Divine Right Theory:",
+                "- Religion gave security in the ancient world.",
+                "- Priests mediated between gods and humans and combined religious power with political functions.",
+                "- Kings became representatives of the supreme god on Earth.",
+                "2. War Leadership Theory:",
+                "- Frequent wars led to a need for a permanent war leader.",
+                "- Successful war leaders gained followers and emerged as kings.",
+                "3. Trade Theory:",
+                "- Chiefs along trade routes collected tolls and taxes.",
+                "- Wealthy chiefs gained followers and became kings.",
+                "4. Oriental Despotism Theory:",
+                "- Applied to states where agriculture depended on large-scale irrigation (Egypt, Mesopotamia).",
+                "- Despotic state power was needed to organize labor for irrigation and flood control."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Main Features of the Early States",
+              "content": [
+                "Primary Factor: Development of agriculture.",
+                "- Agriculture provided surplus food, supporting other classes.",
+                "Class Divisions and Specialization:",
+                "- Division into social classes (craftsmen, soldiers, officials).",
+                "- Specialized skills.",
+                "Civilization:",
+                "- Term from Latin for 'citizen' and 'city'.",
+                "- States with cities, literacy, technology, and monumental architecture (e.g., Egypt, Aksum).",
+                "- Developed religion or secular philosophy (e.g., China).",
+                "Divine Rule:",
+                "- Ancient states were seen as divinely created institutions.",
+                "- Emperors were regarded as representatives of gods on Earth.",
+                "- Social position was determined by birth, believed to be god-given and immutable.",
+                "- Kings and their male descendants were considered elected by God to rule."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Ancient Civilizations of Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Ancient Egypt: The Gift of the Nile",
+              "content": [
+                "Herodotus (484-425 B.C.) described Egypt as 'The Gift of the Nile.'",
+                "Significance of the Nile:",
+                "- Annual flood from the Ethiopian highlands provided water and fertile soil.",
+                "- Without the Nile, Egypt would be a desert.",
+                "- Enabled political unity and served as a highway.",
+                "- Trade route for the Mediterranean and the Middle East.",
+                "Two Regions: Upper Egypt (south) and Lower Egypt (north, delta region).",
+                "Unification: King Menes united the two regions around 3,100 B.C. and founded the capital at Memphis.",
+                "Three Main Periods:",
+                "- Old Kingdom (c. 2,686 B.C. - 2,181 B.C.)",
+                "- Middle Kingdom (c. 2040 - 1730 B.C.)",
+                "- New Kingdom (c. 1550 - 1080 B.C.)",
+                "End of Indigenous Rule: Persian conquest in 343 B.C.; conquered by Alexander the Great in 332 B.C.; became a Roman province in 30 B.C."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Egyptian Government and Society",
+              "content": [
+                "The Pharaoh:",
+                "- King of Egypt, considered a god with absolute power.",
+                "- Owned and ruled all the land in the kingdom.",
+                "- Believed to continue functioning in the afterlife.",
+                "- The term 'Pharaoh' means 'great house.'",
+                "Bureaucracy:",
+                "- Strong, centralized state with a system of government.",
+                "- Pharaoh was assisted by a vizier (chief minister).",
+                "- Departments for tax collection, farming, and irrigation.",
+                "- Scribes carried out the vizier's instructions.",
+                "Social Hierarchy:",
+                "1. Pharaoh at the top.",
+                "2. Government officials and religious leaders (high priests and priestesses).",
+                "3. Merchants, scribes, and artisans.",
+                "4. Peasants (farmers), with slaves forming the majority.",
+                "Role of Women:",
+                "- Enjoyed higher status and greater independence than elsewhere.",
+                "- Could inherit property, enter business deals, obtain a divorce.",
+                "- Could work as doctors, manage estates, enter priesthood.",
+                "- Excluded from becoming scribes or holding government jobs."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Egyptian Religion and Achievements",
+              "content": [
+                "Religion:",
+                "- Polytheistic (worshipped many gods and goddesses).",
+                "- Major gods: Amon-Re (the sun god), Osiris (god of the Nile), and Isis.",
+                "- Osiris controlled the annual flood, fertilizing the land.",
+                "Pyramids:",
+                "- Built near Memphis during the Old Kingdom.",
+                "- Oldest and largest stone structures in the world, UNESCO World Heritage sites.",
+                "- The Great Pyramid at Giza was built for Pharaoh Khufu.",
+                "Achievements:",
+                "- Architecture: Pyramids and monuments.",
+                "- Writing system: Hieroglyphics.",
+                "- Medicine, mathematics, calendar, and irrigation agriculture.",
+                "New Kingdom:",
+                "- Queen Hatshepsut (c. 1473-1458 B.C.): Encouraged trade.",
+                "- Thutmose III (1479-1425 B.C.): Expanded Egypt to its greatest extent, conquering Palestine, Syria, Kush, and Nubia.",
+                "Decline:",
+                "- Gradually declined after 1100 B.C.",
+                "- Conquered by Assyrians, Persians, Greeks, and Romans."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Kush-Meroe",
+              "content": [
+                "Nubia:",
+                "- Geographic region from the southern boundary of Egypt to present-day Sudan.",
+                "- Extended south of the sixth cataract of the Nile.",
+                "Relationship with Egypt:",
+                "- Cultural and technological similarities.",
+                "- Adopted Egyptian art, architecture, customs, clothing, and religious practices.",
+                "- Developed a hieroglyphic writing system (not yet translated).",
+                "Kushite Dynasty:",
+                "- Rose to power in the 700s B.C.",
+                "- King Piankhi conquered Egypt and established the 25th Dynasty in 751 B.C.",
+                "Capitals:",
+                "- First period: Napata.",
+                "- Second period: Meroe (became capital around 590 B.C.).",
+                "Meroe:",
+                "- Located on the Nile and trade routes from the Red Sea to the interior.",
+                "- Had access to gold and iron.",
+                "- Became a center for iron production.",
+                "- Prosperity depended on trade: Ivory, slaves, skins, ostrich feathers, ebony, gold.",
+                "Decline:",
+                "- Began in the middle of the 1st century A.D.",
+                "- Due to the rise of a rival empire, Aksum.",
+                "- Aksumite king conquered Meroe in the middle of the 4th century A.D."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Civilizations in Asia",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Mesopotamia: The Land Between Rivers",
+              "content": [
+                "Mesopotamia (c. 2900 B.C.):",
+                "- From Greek, meaning 'between rivers,' between the Tigris and Euphrates rivers.",
+                "- Home to the Sumerians.",
+                "Sumerian City-States:",
+                "- Ruled by absolute kings called lugals.",
+                "- King was a representative of the city-state's chief god.",
+                "- Farmers, priests, officials, soldiers, craftsmen, and traders.",
+                "Significant Features:",
+                "- Sumerians used the plough and became experts in metalworking (bronze).",
+                "- Skills in astronomy and mathematics.",
+                "- Concept of 60 minutes in an hour and 360° in a circle.",
+                "- Developed cuneiform writing (3200-2900 B.C.) using wedge-shaped characters.",
+                "Contributions: Law, arts, and science; laid foundation for modern astronomy."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Babylon and Assyria",
+              "content": [
+                "Babylon:",
+                "- Great city on the Euphrates River, capital of the kingdom of Babylonia.",
+                "- Word means 'gate of the god.'",
+                "- King Hammurabi (r. 1792-1750 B.C.) developed a code of law.",
+                "- Economic laws: Buying, selling, lending at interest, private property.",
+                "- Criminal laws: Harsh and discriminatory across social classes and gender.",
+                "- Hammurabi's Code became a model for later codes.",
+                "Assyria:",
+                "- Called the 'Romans of Asia' for their great conquests.",
+                "- Homeland in northern Iraq.",
+                "- Semitic speakers; capitals: Ashur and Nineveh.",
+                "- The king had absolute power.",
+                "- Efficient, well-organized army: cavalry, chariots, infantry, siege techniques.",
+                "- Used iron weapons.",
+                "Decline:",
+                "- Began after the mid-7th century B.C.",
+                "- Attacked by Medians and Babylonians.",
+                "- Ashur and Nineveh were captured in 612 B.C."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "New Babylon and Persia",
+              "content": [
+                "New Babylonian Empire (626-539 B.C.):",
+                "- Founded by Nabopolassar.",
+                "- Controlled much of the Middle East.",
+                "- Nebuchadnezzar II rebuilt Babylon on a grand scale.",
+                "- Famous for the Hanging Gardens (one of the Seven Wonders of the Ancient World) and the ziggurat (Tower of Babel).",
+                "- Conquered by Persian invaders in 539 B.C.",
+                "Persian Empire:",
+                "- Founded by Cyrus the Great (557-530 B.C.).",
+                "- Largest ancient empire.",
+                "- Emperor was an absolute ruler, representative of the god Ahura Mazda.",
+                "- Divided into provinces called satrapies, governed by satraps.",
+                "- Economy based on farming and trade.",
+                "- Used a gold currency called darics.",
+                "Zoroastrianism:",
+                "- Introduced by Zoroaster (6th century B.C.).",
+                "- Based on two opposing principles: good (Ahura Mazda) and evil (Ahriman).",
+                "End of Empire: Conquered by Alexander the Great in 331 B.C."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "India: The Indus Valley Civilization",
+              "content": [
+                "First Indian Civilization (c. 2500-1500 B.C.):",
+                "- Began in the Indus Valley, started by the Dravidian people.",
+                "- Major cities: Mohenjo-daro and Harappa.",
+                "- Urban planning, good water supply and drainage systems.",
+                "- Baked brick buildings.",
+                "Destruction of the Civilization:",
+                "- Possible causes: environmental degradation, epidemic disease, changes in river course, climatic changes.",
+                "Indo-Aryan Migration:",
+                "- Moved from Northern India and Persia into the interior.",
+                "- Conquered the Dravidians, drove them out of northern India.",
+                "- Established civilized states of ancient and medieval India.",
+                "Hinduism:",
+                "- Developed from the beliefs of the early Indo-Aryans.",
+                "- Basic idea: cycle of rebirths.",
+                "- Salvation can be achieved by giving up material pleasures and seeking spiritual enlightenment under a guru.",
+                "Buddhism:",
+                "- Founded by Siddhartha Gautama (c.563-483 B.C.).",
+                "- Emerged from Hinduism as a reform movement.",
+                "- Taught the 'middle way' to salvation.",
+                "Achievements:",
+                "- Medicine (surgery, herbs).",
+                "- Chemistry (tanning leather, dyeing cloth, soap, cement, glass, steel).",
+                "- Mathematics: Arabic numerals (1, 2, 3...), decimal system, symbol for zero."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "China",
+              "content": [
+                "Shang Dynasty (c.1700-1122 B.C.):",
+                "- Centered in the Huang-He valley.",
+                "- Highly developed society governed by a hereditary class of aristocrats.",
+                "- Achievements: Bronze vessels, horse-drawn chariots, a system of writing.",
+                "- Chinese script: Logographic, includes about 50,000 characters.",
+                "Zhou Dynasty (1122-256 B.C.):",
+                "- Overthrew the Shang.",
+                "- 'Warring States Period' (403-221 B.C.).",
+                "- Chinese literary classics and philosophy emerged.",
+                "Confucianism:",
+                "- Founder: Confucius (551-479 B.C.).",
+                "- Secular philosophy, not a religion.",
+                "- Stressed moral character and responsibility.",
+                "- Five cardinal human relationships.",
+                "- Mencius: Believed people were born good.",
+                "Qin Dynasty (221 B.C.):",
+                "- Established China's first empire under Qin Shi Huang.",
+                "- Used Legalism: emphasis on authority, efficient administration, and strict laws.",
+                "Inventions:",
+                "- Coal, porcelain (chinaware), wheelbarrow, varnish, silk.",
+                "- Paper (c.150 A.D.), printing (from cotton), gunpowder."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Civilizations in Europe",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Ancient Greece",
+              "content": [
+                "Earliest civilization in Europe (c. 2500 B.C.).",
+                "City-States (Polis):",
+                "- Single city functioning as the center of political, economic, and cultural life.",
+                "- Athens and Sparta are the most famous.",
+                "- Form of government: Oligarchy (rule by few).",
+                "Athenian Democracy:",
+                "- Introduced direct democracy (5th century B.C.).",
+                "- All adult male citizens (excluding women and slaves) could attend, speak, and vote in the Assembly.",
+                "- The Assembly passed laws and elected generals.",
+                "Cultural Achievements:",
+                "- Philosophy: Socrates, Plato, Aristotle.",
+                "- Medicine: Hippocrates (Hippocratic Oath).",
+                "- History: Herodotus ('Father of History'), Thucydides.",
+                "- Architecture: The Parthenon.",
+                "- Drama: Aeschylus, Sophocles, Euripides.",
+                "Peloponnesian War (431-404 B.C.):",
+                "- Weakened Athens and other city-states.",
+                "- Paved the way for Macedonian conquest.",
+                "Hellenistic Age (323-30 B.C.):",
+                "- Began after the death of Alexander the Great.",
+                "- Greek culture blended with Asian and African cultures."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Ancient Rome",
+              "content": [
+                "Founding (753 B.C.): Traditional founders, Romulus and Remus.",
+                "Etruscan Rule (7th century B.C.):",
+                "- Built roads, temples, and public buildings.",
+                "- Promoted trade and introduced the citizen assembly.",
+                "- Rome grew into a prosperous city.",
+                "Roman Republic (509 B.C.):",
+                "- Senate was the most powerful body, handling foreign policy, decrees, and the treasury.",
+                "Social Structure:",
+                "- Patricians: Nobles, held important political positions.",
+                "- Equites: Rich non-nobles, landowners and businessmen.",
+                "- Plebeians: Ordinary citizens, small farmers, craftsmen, laborers.",
+                "Slavery:",
+                "- Slaves were often harshly treated.",
+                "- Manumission (enfranchisement) given to skilled slaves to encourage good work.",
+                "Expansion:",
+                "- Controlled most of Italy by 270 B.C.",
+                "- Punic Wars (204-146 B.C.) against Carthage: Rome gained control of the Mediterranean.",
+                "Roman Empire:",
+                "- Julius Caesar became sole ruler, assassinated in 44 B.C.",
+                "- Octavian (Augustus) became the first emperor in 27 B.C.",
+                "- Pax Romana (Roman peace) lasted about 200 years.",
+                "Legacy:",
+                "- Latin language and literature.",
+                "- Roman law, Roman roads, architecture (Forum, Colosseum, aqueducts).",
+                "- Latin alphabet.",
+                "Decline:",
+                "- Split into Western and Eastern Empires in 395 A.D.",
+                "- Western Roman Empire collapsed in 476 A.D.",
+                "- Eastern Empire (Byzantine) survived until 1453."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Civilizations in Latin America",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Maya",
+              "content": [
+                "Earliest in Mesoamerica (300 B.C. - 900 A.D.).",
+                "Cities: Tikal and Calakmul.",
+                "Farming Methods: Slash-and-burn, raised fields.",
+                "Government: City-states, each with its own ruler (usually male).",
+                "Society: Hierarchical (rulers, nobles, merchants, farmers, slaves).",
+                "Contributions:",
+                "- Hieroglyphic writing system.",
+                "- 365-day solar calendar.",
+                "- Numbering system with zero.",
+                "- Astronomy and mathematics.",
+                "Religion: Polytheistic, with pyramids used as temples.",
+                "Decline (c. 900 A.D.): Unknown causes (overpopulation, disease, drought, revolt)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Aztecs",
+              "content": [
+                "Warlike people who entered the valley of Mexico in the 1200s.",
+                "Capital: Tenochtitlan (1325 A.D.).",
+                "Empire: Conquered and collected tribute from neighbors.",
+                "Emperor: Supreme power, appointed officials.",
+                "Roads: Built to link distant outposts to the capital.",
+                "Technology: Floating gardens for farmland.",
+                "Architecture: Pyramid temples and the emperor's palace.",
+                "Achievements:",
+                "- 365-day solar calendar.",
+                "- Astronomy and mathematics.",
+                "- Medicine (herbs, setting bones, dental cavities, steam baths).",
+                "Religion: Polytheistic, human sacrifices."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "The Incas",
+              "content": [
+                "Founded the last great empire in the Andes region (c. 1450 A.D.).",
+                "Emperor: Absolute ruler, considered the 'son of the sun.'",
+                "Government: Efficient system, divided into provinces.",
+                "Technology:",
+                "- Mining (diverted streams and rivers).",
+                "- Medicine (brain surgery, quinine for malaria).",
+                "- Architecture: Perfectly fitted stones, terraced farms.",
+                "- Roads linked the empire.",
+                "Religion: Worshipped Inti (sun god); emperor was his son.",
+                "Writing: No system; used memory and historical records.",
+                "Decline: Weakened by internal power rivalry, easily conquered by Spanish in 1532."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "The Rise and Spread of Christianity",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Rise of Christianity",
+              "content": [
+                "Background: Romans conquered Judea in 63 B.C.",
+                "Judaism: Monotheistic religion; Romans allowed religious freedom.",
+                "Jesus: A Jew whose teachings became the foundation of Christianity.",
+                "- Main duties: 'Love the Lord your God with all your heart' and 'Love your neighbor as yourself.'",
+                "- Emphasized forgiveness.",
+                "- Viewed as a troublemaker by Jewish priests and a revolutionary by Roman authorities.",
+                "- Crucified around 30 A.D.",
+                "Early Christians:",
+                "- Began as Jews in Palestine and Syria.",
+                "- Gentile (non-Jewish) Christians soon outnumbered Jewish Christians.",
+                "Spread:",
+                "- First Christians were Jews in Palestine and Syria; later, Gentiles converted in large numbers.",
+                "- The number of Gentile Christians gradually exceeded Jewish Christians."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Christian Hierarchy and Councils",
+              "content": [
+                "Church Hierarchy:",
+                "- Bishop: Head of a local Christian community.",
+                "- Archbishop: Spiritual authority over bishops and a large area.",
+                "- Patriarch: Spiritual authority over archbishops and bishops of very large regions (patriarchates).",
+                "Five Patriarchates: Rome, Alexandria, Antioch, Constantinople, Jerusalem.",
+                "- Patriarch of Rome (the Pope) claimed leadership over the other patriarchs.",
+                "Monasteries: Established from the mid-3rd century.",
+                "- Monks and nuns lived in communities.",
+                "- Hermits lived alone.",
+                "Church Councils:",
+                "- Approved Church doctrines, condemned heresies.",
+                "- Council of Nicaea (325 A.D.): Established the doctrine of the Holy Trinity.",
+                "- Council of Constantinople (385 A.D.): Confirmed the doctrine of the Holy Trinity."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Spread and Division of Christianity",
+              "content": [
+                "Persecution:",
+                "- Early Christians faced serious persecution from Roman rulers.",
+                "- Refusal to sacrifice to the emperor was seen as political disloyalty.",
+                "Edict of Milan (313 A.D.):",
+                "- Issued by Emperor Constantine.",
+                "- Guaranteed freedom of worship to all inhabitants.",
+                "- Ended the persecution of Christians.",
+                "Official Religion (379-395 A.D.):",
+                "- Emperor Theodosius I declared Christianity the official religion of the Roman Empire.",
+                "- Repressed the practice of other faiths.",
+                "Division of Christianity (1054 A.D.):",
+                "- Western Church: Centered in Rome, led by the Pope.",
+                "- Eastern Church: Centered in Constantinople, led by the Patriarch.",
+                "- Resulted in the Catholic West and Orthodox East."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Languages, Religions and Peoples of Ethiopia and the Horn",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Languages of Ethiopia and the Horn",
+              "content": [
+                "Ethiopia is a mosaic of diverse cultures and languages.",
+                "The region's languages are part of four main super-families.",
+                "1. Afro-Asiatic:",
+                "- Cushitic: Largest family in Ethiopia and the Horn.",
+                "  - Branches: North (Beja), Central (Agaw languages), East (Lowland and Highland), Southern.",
+                "- Omotic: Spoken in the Omo valley (southwestern Ethiopia).",
+                "- Semitic (Ethio-Semitic): Ge'ez, Tigre, Tigrigna, Amharic, Harari.",
+                "2. Nilo-Saharan:",
+                "- Spoken in Benishangul-Gumuz, Gambella, and parts of Tigray and Eritrea.",
+                "- Examples: Anuak, Nuer, Berta, Gumuz, Kunama."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Indigenous Religions of Ethiopia",
+              "content": [
+                "Predate monotheistic religions.",
+                "Features: Belief in a supreme being identified with the sky, and spirits.",
+                "Ceremonies and rituals are unique to each ethnic group.",
+                "Waqefanna (Oromo Religion):",
+                "- Belief in one God, Waqa, who is the creator and source of all life.",
+                "- Numerous divinities called Ayyana are manifestations of Waqa's spirit.",
+                "- Qallu (male) and Qallities (female) are priests.",
+                "- Abba Muda is a spiritual leader; pilgrimage to him is an important practice.",
+                "Other Indigenous Religions:",
+                "- Hadiya: Believe in Waa, a supreme being.",
+                "- Kambata, Guraghe, Walayta, Kafa, Nuer, and Konso also have similar religions."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Judaism and Christianity in Ethiopia",
+              "content": [
+                "Judaism:",
+                "- Believed to have entered Ethiopia as early as the 8th century B.C.",
+                "- Connected to the legend of King Solomon and the Queen of Sheba.",
+                "- The Bete-Israel (Ethiopian Jews) claim descent from Menelik I and Jewish refugees.",
+                "Christianity:",
+                "- Introduced in the 4th century A.D. by Frumentius.",
+                "- King Ezana converted to Christianity.",
+                "- The Nine Saints spread Christianity to the people and introduced monasticism.",
+                "- Transformed the Ge'ez liturgy, translated the Bible, and influenced art and architecture.",
+                "- Unique development: Adopted by the royal court first, then spread to the people."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Islam in Ethiopia",
+              "content": [
+                "Introduction: Islam was introduced peacefully in the 7th century A.D.",
+                "Hijra to Aksum (615 A.D.):",
+                "- Prophet Muhammad sent his followers, including his daughter Fatuma, to Aksum to escape persecution.",
+                "- The Aksumite king warmly welcomed them and offered protection.",
+                "Spread: Islam entered Ethiopia through two main directions:",
+                "- Red Sea coast (Dahlak Islands).",
+                "- Port of Zeila on the Gulf of Aden.",
+                "Expansion:",
+                "- Through the agency of preachers and traders.",
+                "- Spread among pastoral communities in the interior.",
+                "Five Pillars of Islam: Faith, Prayer, Charity, Fasting, Pilgrimage."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Settlement of Peoples of the Region",
+              "content": [
+                "Settlement patterns are a function of long historical processes, shaped by environmental, socio-economic, and political factors.",
+                "Cushitic and Semitic Peoples:",
+                "- Settled between the Red Sea and the Blue Nile.",
+                "- Expanded into Northern, North-Central, North-Eastern, South-Central, and Eastern parts of Ethiopia and the Horn.",
+                "Omotic Peoples:",
+                "- Mostly settled in south-western Ethiopia along the Omo River basin.",
+                "- Some exceptions: Shinasha in Benishangul-Gumuz, South Mao in Wallaga.",
+                "Nilo-Saharan Peoples:",
+                "- Settled largely along the Ethio-Sudanese border.",
+                "- Some groups settled as far as the Southern Omo area."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Pre-Aksumite States and their Geographical Setting",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Land of Punt",
+              "content": [
+                "Earliest known state in the Horn of Africa.",
+                "Known mainly from Egyptian sources describing naval expeditions sent by Pharaohs.",
+                "Trade with Ancient Egypt:",
+                "- Egypt exported: Axes, daggers, swords, knives, sickles, clothes, bracelets, necklaces, beads.",
+                "- Egypt imported from Punt: Myrrh, frankincense, cinnamon, spices, ivory, rhino horn, leopard skins, ostrich feathers and eggs, live monkeys, giraffes, gold, ebony, iron, bronze, cattle, animal fur, medicinal plants.",
+                "Queen Hatshepsut's Expedition (1490-1468 B.C.):",
+                "- Best described and illustrated expedition, documented at her tomb in Dier El Bahri.",
+                "Location: Uncertain.",
+                "- Some scholars suggest northern or northeastern Somalia.",
+                "- Others suggest Northern Ethiopia (due to gold, ebony, and monkeys).",
+                "- Alternative location: Swakim or Massawa to Bab-el-Mandeb."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Da'amat (Damat)",
+              "content": [
+                "First historically known state in Ethiopia (980 B.C. - 400 B.C.).",
+                "Located south of Aksum.",
+                "Capital: Yeha, located 30 kilometers northeast of Aksum.",
+                "Emergence: Probably emerged around 1,000 B.C. as a small commercial center.",
+                "Prosperity: From about 750 to 500 B.C.",
+                "Significance:",
+                "- Made iron tools and weapons.",
+                "- Grew millet.",
+                "- Traded gold, silver, slaves, ivory, and tortoise shells with South Arabian merchants.",
+                "- Location gave good access to both the Red Sea and Yemen.",
+                "Other Cities: Qohaito and Matara (became stops on the trade route between Adulis and Aksum)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "The Aksumite Kingdom",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Rise and Expansion of the Aksumite Kingdom",
+              "content": [
+                "Nucleus formed around 200-100 B.C.",
+                "Expansion: From the Red Sea coast to the Ethiopian plateau, from northern Eritrea to northern Shewa.",
+                "Port: Adulis was the major port on the Red Sea.",
+                "Trade:",
+                "- Exports: Ivory, myrrh, emerald, frankincense, spices, gold, rhino horns, hippo hides, tortoise shells, apes.",
+                "- Imports: Garments, textiles, glassware, jewelry, metallic sheets, tools, oil, wine.",
+                "- Trade partners: Egypt, India, the Roman Empire, Persia, Syria, Ceylon.",
+                "King Zoscales (c.76-89 A.D.): Had good knowledge of Greek.",
+                "Silent Trade:",
+                "- Merchants from Aksum traded with Sasu (Beni Shangul) using signs and gestures."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Aksumite Military and Political Power",
+              "content": [
+                "King Gadarat: Conflict with peoples in South Arabia around 200 A.D.",
+                "King Kaleb (r. 500-535 A.D.):",
+                "- Expanded overseas territories beyond Himyar and Saba (Yemen).",
+                "- Defeated Dhu-Nuwas, a Jewish prince, with help from a Byzantine fleet.",
+                "- Appointed Abreha as governor.",
+                "Aksum was one of the four great powers of the world (Rome, Persia, China).",
+                "Major naval and trading power (1st to 7th centuries).",
+                "Developed shipbuilding technology at Adulis."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Decline of the Aksumite Kingdom",
+              "content": [
+                "Decline began in the late 7th century.",
+                "Internal Factors:",
+                "- Environmental degradation.",
+                "- Decline in agricultural productivity.",
+                "- Plague infestation.",
+                "External Factors:",
+                "- Destruction of Adulis by Arabs (c. 702 A.D.).",
+                "- Loss of control over international trade.",
+                "- Expansion of Arab Muslims, isolation from former partners.",
+                "- Rebellions of the Beja, Agaw, and Queen Bani al Hamwiyah (Yodit)."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Aksumite Contributions",
+              "content": [
+                "Coin Mintage: Technology developed.",
+                "Architecture:",
+                "- Steles: Decorated, half-completed, and megaliths.",
+                "- The longest stele (33 meters) represents a 14-storied building with pre-Christian symbols.",
+                "Art of Writing:",
+                "- Sabean alphabet evolved into Ge'ez script.",
+                "- Ge'ez developed by the 1st century A.D., with 26 consonants written left-to-right.",
+                "Calendar:",
+                "- 12 months of 30 days plus 5 or 6 days (added every 4 years).",
+                "- Ethiopic calendar is 7-8 years behind the Gregorian calendar.",
+                "- First day (Meskerem 1) is usually September 11.",
+                "Numerals:",
+                "- Appeared in the 4th century A.D.",
+                "- Ge'ez uses a numeral system comparable to Hebrew, Arabic, and Greek numerals."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "The Sultanate of Shewa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Sultanate of Shewa",
+              "content": [
+                "One of the earliest Muslim Sultanates in the Ethiopian region.",
+                "Location: Between northeastern Shewa and northern Hararghe.",
+                "First Ruler: Khalid ibn al-Walid (c. 896 A.D.).",
+                "Ruling Dynasty: Makhzumite (claimed descent from a South Arabian clan).",
+                "Capital: Walele (northern Hararghe).",
+                "Relationships:",
+                "- Often at war with the Kingdom of Damot in the southwest.",
+                "- Overthrown by the Walasma dynasty of Ifat in 1285."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Zagwe Dynasty",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Zagwe Dynasty",
+              "content": [
+                "Founded: Around the mid-12th century by Mera Tekle Haymanot.",
+                "Base of Power: Province of Lasta.",
+                "Origin: Mera Tekle Haymanot was a general of the last Aksumite king, Dil Na'od.",
+                "Capital: Adafa near Roha (Lalibela).",
+                "Territory: From the northern highlands to northern Shewa, Lake Tana region to Gojjam.",
+                "Maintained Aksumite traditions.",
+                "Important Export Items: Ivory, spices, slaves.",
+                "Imports: Cotton, linen, silver and copper vessels, newly minted coins.",
+                "Achievements:",
+                "- Paintings, translation of religious works to Ge'ez.",
+                "- Rock-hewn churches of Lalibela.",
+                "- Bete Giyorgis is the best example.",
+                "- Considered some of the finest structures in the Christian world (UNESCO World Heritage Site)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Fall of the Zagwe Dynasty",
+              "content": [
+                "Internal Problems: Issues with royal succession.",
+                "Opposition: Groups claiming descent from the ancient rulers of Aksum considered the Zagwe 'illegitimate rulers.'",
+                "Kibre Negest: A 14th-century book that tells the story of King Solomon and the Queen of Sheba.",
+                "- Used to legitimize the Solomonic dynasty.",
+                "Yekuno-Amlak (r.1270-1285):",
+                "- Claimed descent from the last Aksumite king, Dilna'od.",
+                "- Organized forces, assisted by influential churchmen.",
+                "- Defeated and killed the last Zagwe king, Yetbarek, in 1270.",
+                "This marked the end of the Zagwe period and the restoration of the Solomonic dynasty."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "The Kingdom of Damot",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Kingdom of Damot",
+              "content": [
+                "Location: South of the Abay (Blue Nile) River.",
+                "Powerful State: Forced the Sultanate of Shewa to pay tribute.",
+                "Defeated the armies of the Zagwe dynasty.",
+                "Conquered several Muslim and Christian territories.",
+                "Alliance: The Muslim state of Shewa and the new Christian state under Yekuno Amlak formed an alliance to counter Damot.",
+                "End: Subdued by King Amda Tsiyon in the 14th century.",
+                "Migration: Under pressure from Oromo attacks, some Damot people were forced to move north of the Abay River to southern Gojjam in the late 16th and early 17th centuries."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.7",
+          "section_title": "The Bete-Israel (Ethiopian Jews)",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Bete-Israel",
+              "content": [
+                "Definition: An occupational caste marginalized for their jobs (pottery, blacksmithing, leatherworking).",
+                "Location: Wogera, Quara, Tegede, Welqayt, and Simen.",
+                "Relationship with the Christian Kingdom:",
+                "- Often conflicted with the Christian kingdom.",
+                "- Pressured and revolted against increased religious, economic, and political pressure.",
+                "- Full-scale war under King Yishaq (c. 1413).",
+                "King Yishaq's Decree:",
+                "- 'He who is baptized in the Christian religion may inherit the land of his father; otherwise let him be a Felasi (exile).'",
+                "- Bete-Israel refused, lost inheritance rights, and were forced into handicrafts.",
+                "Religious and Social Life:",
+                "- Maintained a high degree of religious integrity and social self-isolation.",
+                "- Religious texts: Te'ezaza Senbet.",
+                "- Influenced Ethiopian Orthodoxy (Saturday Sabbath, circumcision, dietary rules)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Bete-Israel Resistance and End of Independence",
+              "content": [
+                "Resistance:",
+                "- From Zera Ya'iqob to King Susenyos, they repeatedly tried to maintain independence.",
+                "- Supported rebellious governors, Imam Ahmed, and rebel pretenders.",
+                "End of Independence: Gradually crushed by King Susenyos.",
+                "Survival Strategies:",
+                "- Developed handicrafts (blacksmithing, building).",
+                "- Withdrew to economically marginal areas.",
+                "Their influence on Ethiopian Orthodoxy includes the Saturday Sabbath, circumcision, and dietary rules."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "The European Middle Ages",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Fall of the Western Roman Empire and the Dawn of the Middle Ages",
+              "content": [
+                "Decline of the Western Roman Empire:",
+                "- Internal problems, separation from the Eastern part (395 A.D.), and outside invasions.",
+                "Germanic Tribes:",
+                "- Came from Scandinavia, occupied the northern frontiers.",
+                "- Called 'barbarians' by the Romans.",
+                "- Some adopted Roman civilization (trade, farming, Christianity).",
+                "Invasions:",
+                "- Visigoths in Spain (c. 416 A.D.).",
+                "- Angels, Jutes, and Saxons in Britain (c. 450 A.D.).",
+                "- Franks in Gaul (480s A.D.).",
+                "- Ostrogoths in Italy.",
+                "Consequences:",
+                "- Division of the empire into many Germanic kingdoms.",
+                "- Trade destroyed; people moved to the countryside.",
+                "- Classical culture declined.",
+                "Survival: The Roman Christian Church was the only surviving institution, providing leadership and preserving knowledge."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Eastern Roman (Byzantine) Empire",
+              "content": [
+                "Capital: Constantinople (founded by Emperor Constantine in 330 A.D.).",
+                "Survival: The Eastern Empire lasted another 1,000 years.",
+                "Reasons for Survival:",
+                "- Less open to Germanic attacks.",
+                "- Richer, had more population and fortified cities.",
+                "Emperor Justinian I (r. 527-565 A.D.):",
+                "- Reached the greatest size, conquered Italy, part of Spain, and North Africa.",
+                "- Compiled the Justinian Code.",
+                "- Built the Hagia Sophia.",
+                "Government: Emperor was an absolute ruler.",
+                "Culture: Preserved Greek and Roman traditions, spread Orthodox Christianity.",
+                "The Great Schism (1054 A.D.): Christianity split into the Catholic West and Orthodox East.",
+                "Decline and Fall:",
+                "- After Justinian's death, the empire faced constant invasions.",
+                "- Seljuk Turks defeated the Byzantine army at the Battle of Manzikert (1071 A.D.).",
+                "- The Ottoman Turks conquered Constantinople in 1453."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Main Features of the Middle Ages",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Feudalism and Manorialism",
+              "content": [
+                "Feudalism: A loosely organized system of rule.",
+                "- Powerful local lords divided land (fiefs) among lesser lords (vassals).",
+                "- Vassals gave loyalty and military service.",
+                "Manor: The lord's estate, center of the medieval economy.",
+                "- Self-sufficient, produced almost everything needed.",
+                "Peasants: Most were serfs.",
+                "- Belonged to the lord, could not leave without permission.",
+                "- Owed labor and dues to the lord.",
+                "Demesne: Land controlled directly by the lord.",
+                "Feudal Society: Sharp hierarchy.",
+                "- Privileged upper class: kings, nobles, higher clergy, knights.",
+                "- Unprivileged lower class: peasants, serfs.",
+                "Vassalage: A relationship based on allegiance and military service.",
+                "Knights: Mounted warriors who adopted a code of conduct called chivalry.",
+                "Noble Women: Played active roles in managing the manor and sometimes in defense."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Church and the Revival of Trade",
+              "content": [
+                "The Church:",
+                "- Powerful and influential, Europe was referred to as Christendom.",
+                "- Largest landholder, provided government services.",
+                "- Became more independent, interfered in state affairs.",
+                "Revival of Trade and Towns (11th century):",
+                "- Towns appeared along main trade routes.",
+                "- Peasants left the manors to seek a new life.",
+                "- Craftsmen, merchants, and traders formed a new middle class.",
+                "Guilds: Associations of artisans and merchants.",
+                "- Made rules to protect economic interests and quality of goods.",
+                "- Women were engaged in crafts and trade, sometimes dominating certain guilds.",
+                "Medieval Culture: Art and Learning.",
+                "- Architecture: Romanesque and Gothic styles.",
+                "- Education: Monastic and cathedral schools; seven liberal arts.",
+                "- Universities: Modern universities first developed in Europe in the 1100s."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "The Crusades",
+              "content": [
+                "Definition: Successive expeditions by Western Christians to recapture the Holy Land (Palestine) from Muslims.",
+                "Causes:",
+                "- Seljuk Turks made it difficult for Christian pilgrims to reach Jerusalem.",
+                "- Byzantine emperor Alexius I asked for help.",
+                "- Pope Urban II urged Christians to fight.",
+                "- Motives: Religious zeal, desire for wealth and land, political power.",
+                "The Crusades (1096-1270):",
+                "- Eight major expeditions.",
+                "- First Crusade (1096-1099): Recaptured Jerusalem.",
+                "- Third Crusade (1189-1192): Failed to retake Jerusalem, but Salah al-Din reopened it to pilgrims.",
+                "- Fourth Crusade (1202-1204): Captured and looted Constantinople.",
+                "Impacts of the Crusades:",
+                "- Increased trade, facilitated money economy.",
+                "- Weakened serfdom, strengthened monarchs.",
+                "- Increased curiosity about the East (Marco Polo).",
+                "- Revival of European contacts with the wider world."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The Middle Ages in Asia",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Rise and Expansion of Islam",
+              "content": [
+                "Islam: Religion preached by Muhammed in Arabia in the 7th century A.D.",
+                "Beliefs: One God (Allah), Muhammed is His messenger.",
+                "Quran: The holy scriptures of Islam.",
+                "Hijira (622 A.D.): Muhammed's retreat to Medina, marks the start of the Muslim calendar.",
+                "Caliphs: Successors to Muhammed.",
+                "- First four caliphs: Abu Bakr, Umar, 'Uthman, and Ali.",
+                "Sunni and Shi'ite Split: Disagreement over who should lead the community.",
+                "- Sunnis: 90% of Muslims, follow the way of the Prophet.",
+                "- Shi'ites: Believe Ali was the designated successor.",
+                "Islamic Law: Sharia.",
+                "Expansion: Muslim Arabs expanded outside Arabia, defeating the Byzantine and Persian Empires."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Islamic Empire and Its Legacy",
+              "content": [
+                "Umayyad Caliphate (661-750 A.D.): Capital in Damascus, expanded to North Africa and Spain.",
+                "Abbasid Caliphate (750-1258 A.D.): Capital in Baghdad, golden age of Islamic civilization.",
+                "Legacy:",
+                "- Mathematics: Algebra, Arabic numerals, decimal fractions.",
+                "- Medicine: Hospitals, advances in optics and chemistry.",
+                "- Astronomy: Knew the earth was round.",
+                "- History: Ibn Khaldun set rules for scientific study.",
+                "- Architecture: Domes, arches, and minarets.",
+                "Decline:",
+                "- Internal rebellions, overtaxation.",
+                "- Seljuk Turks controlled Baghdad.",
+                "- Mongols led by Hulagu burned Baghdad in 1258, ending the caliphate."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "The Ottoman Turkish Empire",
+              "content": [
+                "Origins: Turkish-speaking pastoralists from central Asia, converted to Sunni Islam.",
+                "Founder: Osman I (r. 1299-1324).",
+                "Expansion: Spread across Asia Minor and the Balkan region.",
+                "Conquest of Constantinople (1453): Sultan Mehmet II renamed it Istanbul.",
+                "Height of Power: Under Suleiman I (r. 1520-1566).",
+                "Administration:",
+                "- Absolute Sultan, assisted by a grand vizier.",
+                "- Millets: Religious communities, each with its own leader.",
+                "Army:",
+                "- Janissaries: Infantry core, recruited from Christian children.",
+                "- Sipahi: Turkish cavalry, held timars (fiefs).",
+                "Decline: After Suleiman I's death, due to economic and military decline."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "The Dynastic Cycle in China",
+              "content": [
+                "Dynastic Cycle: The belief that the rise, rule, and fall of dynasties was determined by the 'Mandate of Heaven.'",
+                "Mandate of Heaven: The idea that heaven gave the monarch the right to rule.",
+                "Tang Dynasty (618-907 A.D.):",
+                "- Age of prosperity and great cultural accomplishments.",
+                "- Strong government, civil service system.",
+                "Song Dynasty (960-1279 A.D.):",
+                "- Completed the civil service system.",
+                "- Inventions: gunpowder, magnetic compass, movable type.",
+                "Yuan Dynasty (1279-1368):",
+                "- Established by Kublai Khan, a Mongol leader.",
+                "- Welcomed foreigners, including Marco Polo.",
+                "Ming Dynasty (1368-1644):",
+                "- Restored the civil service system and Confucian learning.",
+                "- Naval expeditions to Southeast Asia, India, and Africa.",
+                "Qing Dynasty (1644-1912):",
+                "- Established by the Manchu people.",
+                "- Last Chinese dynasty."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Development of Early Capitalism: 1500-1789",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Development of Towns and Long-Distance Trade",
+              "content": [
+                "Capitalist relations developed between 1000-1500 A.D., accelerating after 1500.",
+                "Towns and cities (1000-1300):",
+                "- Centers of trade, manufacturing, and administration.",
+                "- Provided a market for the sale of goods.",
+                "Long-distance trade:",
+                "- Conducted by merchants of bigger urban centers.",
+                "- Trade in expensive or luxury goods was most profitable.",
+                "Social Changes:",
+                "- Merchants accumulated capital, leading to banks and financial institutions.",
+                "- Rise of the bourgeoisie (richest citizens).",
+                "- Serfdom ended in towns ('City air is free air').",
+                "Political Changes:",
+                "- Some towns gained the right to self-administration.",
+                "- Cities like Venice became independent city-republics."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Age of Explorations and Inception of Globalization",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Motives and Technological Advances for Exploration",
+              "content": [
+                "Motives for Exploration (15th-17th century):",
+                "- High demand for Eastern goods (jewels, porcelain, silk, spices).",
+                "- Ottoman Turks controlled land routes and charged high prices.",
+                "- Tales of fabulous wealth (Marco Polo).",
+                "- Legend of Prester John.",
+                "Technological Advances:",
+                "- Efficient wind-driven sailing ships.",
+                "- Navigation instruments: Compass, quadrant, astrolabe.",
+                "- Knowledge of seasonal wind patterns.",
+                "Henry the Navigator (1394-1460):",
+                "- Portuguese prince who encouraged exploration.",
+                "- Trained explorers, built better ships, opened a school."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Key Explorations and Discoveries",
+              "content": [
+                "Portuguese:",
+                "- Vasco da Gama (1497-98): Opened the 'Cape route' to India.",
+                "Spanish:",
+                "- Christopher Columbus (1492): Reached the Americas.",
+                "- Ferdinand Magellan (1519-22): First to sail around the world.",
+                "French and British:",
+                "- John Cabot (1497): Reached Newfoundland.",
+                "- Henry Hudson (1609): Mapped Manhattan.",
+                "- Samuel de Champlain (1608): Founded Quebec City.",
+                "The 'Columbian Exchange':",
+                "- Exchange of plants, animals, and diseases between the Old and New Worlds.",
+                "- Effects: Population increase, migration of millions of Europeans."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "The Renaissance",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Renaissance: 'Rebirth'",
+              "content": [
+                "Definition: A period of great intellectual and artistic creativity meaning 'rebirth' of classical culture.",
+                "Origin: Began in Italy in the 1400s.",
+                "Reasons for Starting in Italy:",
+                "- Strategic location on the Mediterranean Sea.",
+                "- Centers of banking, commerce, and handicrafts.",
+                "- Wealth from trade and patronage.",
+                "- Connection to classical Roman civilization.",
+                "Key Ideas:",
+                "- Humanism: Emphasis on human reason, dignity, and uniqueness.",
+                "- Secularism: Greater interest in the world than in the afterlife.",
+                "- Application of observation and experience."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Art, Science, and Politics of the Renaissance",
+              "content": [
+                "Art and Architecture:",
+                "- Giotto: Introduced new style with realistic shading.",
+                "- Masaccio: Introduced shadows and realistic effects.",
+                "- High Renaissance: Leonardo da Vinci, Michelangelo, Raphael.",
+                "- Architecture: Classical style (columns, circular arches).",
+                "Intellectual Life:",
+                "- Humanists studied classical literature.",
+                "- Petrarch: 'Father of Humanism.'",
+                "- Writers in vernacular languages (Boccaccio, Shakespeare, Cervantes).",
+                "Science:",
+                "- Copernicus: Earth orbited the sun.",
+                "- Galileo: Strengthened the heliocentric theory.",
+                "Technology:",
+                "- Gutenberg's printing press (c. 1450): Mass production of books.",
+                "Politics:",
+                "- Machiavelli's 'The Prince': 'The end justifies the means.'",
+                "- Reason of state: Rulers justified strong measures to strengthen their state."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.7",
+          "section_title": "The Reformation",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Reformation and Key Figures",
+              "content": [
+                "The Reformation (1517): A religious revolt against the Roman Catholic Church.",
+                "Causes:",
+                "- Renaissance spirit of inquiry.",
+                "- Knowledge of Church corruption.",
+                "- Opposition to church taxes.",
+                "Martin Luther (1483-1546):",
+                "- Condemned the sale of indulgences.",
+                "- Posted the 95 Theses (1517).",
+                "- Denied the Pope's supremacy, proclaimed the Bible as the final authority.",
+                "- Developed the doctrine of justification by faith.",
+                "- Established the Lutheran Church.",
+                "John Calvin (1509-1564):",
+                "- Taught the doctrine of predestination.",
+                "- Calvinism spread to Switzerland, Holland, and Scotland.",
+                "King Henry VIII (r.1509-1547):",
+                "- Established the Anglican Church of England through the Act of Supremacy (1534)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Counter-Reformation and Historical Significance",
+              "content": [
+                "Counter-Reformation: The Catholic Church's response.",
+                "- Council of Trent (1545-1563): Redefined Catholic beliefs, ended the sale of indulgences.",
+                "- Inquisition: A court to punish heretics.",
+                "- Society of Jesus (Jesuits): Founded by Ignatius of Loyola, defended and spread Catholicism.",
+                "Historical Significance:",
+                "- Europe was divided into Catholic south and Protestant north.",
+                "- Strengthened the power of secular rulers.",
+                "- Religious wars and persecution of minorities (Thirty Years War, 1618-1648).",
+                "- Impact on art: Different styles in Catholic and Protestant countries.",
+                "- Stimulated economic growth by creating new needs and reducing church taxes."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.8",
+          "section_title": "The Scientific Revolution and the Enlightenment",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Scientific Revolution",
+              "content": [
+                "The Scientific Revolution (c. 1500-1700): A new way of thinking about the natural world.",
+                "Key Features:",
+                "- Careful observation, experimentation, and scientific reasoning.",
+                "- Improvements in technology challenged long-held theories.",
+                "Astronomy:",
+                "- Copernicus: Challenged the geocentric theory, proposed the heliocentric (sun-centered) theory.",
+                "- Galileo: Using a telescope, proved the earth was not the center of the universe.",
+                "- Isaac Newton: Law of universal gravitation.",
+                "Inventions:",
+                "- Microscope (1590), mercury barometer (1643), thermometer (1714).",
+                "Medicine and Chemistry:",
+                "- Vesalius: Dissected human bodies, published observations.",
+                "- Edward Jenner: Developed a vaccine for smallpox.",
+                "- Robert Boyle: Pioneer in chemistry, Boyle's law."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Enlightenment",
+              "content": [
+                "The Enlightenment (18th century): An intellectual movement stressing reason and the power of individuals.",
+                "Also known as the Age of Reason.",
+                "France was the center of this movement.",
+                "Key Philosophes:",
+                "- John Locke: Natural rights (life, liberty, property).",
+                "- Montesquieu: Separation of powers.",
+                "- Voltaire: Freedom of thought, expression, and religion.",
+                "- Beccaria: Abolishment of torture.",
+                "- Wollstonecraft: Women's equality.",
+                "Core Beliefs:",
+                "- Reason: Truth could be discovered through logical thinking.",
+                "- Nature: What is natural is good and reasonable.",
+                "- Happiness: People should seek well-being on earth.",
+                "- Progress: Society and humankind could improve.",
+                "- Liberty: Called for liberties won in England's Glorious Revolution."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "PEOPLES AND STATES OF AFRICA TO 1500",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Ancient and Medieval African States",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "African Languages",
+              "content": [
+                "Africa is a massive continent with striking linguistic diversity.",
+                "There are between 1,000 and 2,000 languages spoken, about one-third of the world's languages.",
+                "Language Scholars classify African languages into four super-families:",
+                "1. Niger-Congo Languages:",
+                "- The largest language family in Africa.",
+                "- Found in western, central, and southeastern regions.",
+                "- Sub-divided into Bantu and non-Bantu languages.",
+                "- Examples: Swahili, Yoruba, Kirundi, Lingala, Shona, Zulu.",
+                "2. Afro-Asiatic Languages:",
+                "- 200 to 300 languages.",
+                "- Examples: Arabic, Somali, Amharic, Afan Oromo, Berber, Hausa.",
+                "3. Nilo-Saharan Languages:",
+                "- Around 80 languages.",
+                "- Spread through central, eastern, and northeastern Africa.",
+                "- Examples: Lugbara, Zarma, Dholuo.",
+                "4. Khoisan Languages:",
+                "- 40 to 70 languages.",
+                "- Mostly located in southern Africa.",
+                "- Examples: Hadza, Naro."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "North Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Mamluk Egypt",
+              "content": [
+                "Definition: A military aristocracy of Turkish slaves who ruled Egypt from c. 1250 to 1517.",
+                "Rise to Power:",
+                "- Originated from power struggles within the Ayyubid Sultanate.",
+                "- Sultans began to rely on mercenary soldiers (Mamluks) loyal to them.",
+                "- The Mongol invasion and the Sixth Crusade allowed the Mamluks to seize power.",
+                "- They defeated the Crusaders and captured Louis IX.",
+                "Mamluk Rule:",
+                "- Witnessed economic prosperity and greatness.",
+                "- Architecture, craftsmanship, and scholarship flourished.",
+                "- Economy based on active involvement in Trans-Saharan Trade and the Spice Trade.",
+                "End of Rule:",
+                "- Ottoman Turks conquered Egypt in 1516.",
+                "- Marked the end of Mamluk rule; they ruled under Ottoman suzerainty until the rise of Mohammed Ali in 1805."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Spread of Islam to North Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Almoravid and Almohad Movements",
+              "content": [
+                "The Maghreb: Western half of North Africa (Algeria, Tunisia, Morocco, Mauritania).",
+                "The Almoravid Movement (11th century):",
+                "- Began by the Lamtuna nomads.",
+                "- Called for a return to the primitive purity of Islam.",
+                "- Established a political community with strict Islamic principles.",
+                "- Capital: Marrakesh.",
+                "- Conquered Morocco, western Algeria, and parts of Spain.",
+                "The Almohad Movement:",
+                "- Founded by Ibn Tumart, a religious reformer.",
+                "- From the Masmuda Berbers of the Atlas Mountains.",
+                "- Opposed Almoravid practices.",
+                "- Led by Abdul Mumin, they replaced the Almoravids and created an empire.",
+                "- Ruled over the Maghreb and Spain.",
+                "- Their rule ended in 1269 due to internal division and civil war."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "States in West Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Empires of Ghana, Mali, and Songhai",
+              "content": [
+                "West Africa: Stretched from Lake Chad to the Senegal, Gambia, and Niger Rivers.",
+                "Empire of Ghana (c. 4th-11th centuries):",
+                "- Oldest known state in western Sudan.",
+                "- Founded by the Soninke people.",
+                "- Political center: Kumbi Saleh; Economic hub: Awadaghust.",
+                "- Wealth came from controlling the Trans-Saharan trade (gold and salt).",
+                "- Declined after the Almoravid attack in 1076.",
+                "Empire of Mali (1235-1550):",
+                "- Founded by Sundiata Keita.",
+                "- Reached its height under Mansa Musa (r. 1312-1337).",
+                "- Mansa Musa's pilgrimage to Mecca displayed Mali's wealth.",
+                "- Declined due to weak rulers, internal power struggles, and attacks.",
+                "Empire of Songhai (c. 1460s-1591):",
+                "- Largest West African empire.",
+                "- Founded by Sunni Ali, expanded by Askia Muhammad.",
+                "- Timbuktu became a major center of culture and trade.",
+                "- Declined after the Moroccan invasion in 1591."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Kanem-Bornu and the Hausa City-States",
+              "content": [
+                "Kanem-Bornu Empire (c. 9th-19th centuries):",
+                "- Ruled by the Saifuwa dynasty.",
+                "- Controlled the area around Lake Chad.",
+                "- Economy based on Trans-Saharan trade.",
+                "- Reached its height in the 16th century under Mai Idris Alooma.",
+                "Hausa City-States (c. 1000-1815):",
+                "- Established by the Hausa people in what is now northern Nigeria.",
+                "- Major states: Daura, Kano, Katsina, Zazzau, Gobir, Rano, Biram.",
+                "- Emerged as southern terminals of the Trans-Saharan trade.",
+                "- Specialized in different occupations: Kano in trade, Daura in iron working, Zaria in slaves.",
+                "- Were never unified; remained a loose confederation.",
+                "Spread of Islam in West Africa:",
+                "- Linked to trade and commerce with North Africa.",
+                "- Early presence in the Kingdom of Tekrur (c. 850 A.D.).",
+                "- Mansa Musa established many magnificent mosques."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Central and Eastern Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Swahili Coast",
+              "content": [
+                "The Swahili Coast (Zanj Coast): A narrow strip of land from Somalia to Mozambique.",
+                "Home to a unique culture and language: Bantu, African, Arab, and Indian Ocean influences.",
+                "Prominent Settlements: Shungwaya, Malindi, Gedi, Mombasa, and Kilwa.",
+                "City-States: Independent sultanates, sharing a common language (Swahili) and religion (Islam).",
+                "Trade: Across the Indian Ocean, including pottery, silks, and glassware.",
+                "Kilwa: Southernmost major city-state, maintained an outpost at Sofala for trade with Great Zimbabwe.",
+                "Chinese Expeditions: Admiral Zheng He visited Mombasa, Malindi, and Mogadishu.",
+                "Decline: Interaction with the Portuguese (Vasco da Gama) and a decrease in trade led to decline.",
+                "Today: Swahili is the lingua franca of East Africa."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Southern Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Great Zimbabwe and the Khoisan Peoples",
+              "content": [
+                "Great Zimbabwe (900-1500 A.D.):",
+                "- A powerful Bantu kingdom built by the Shona people.",
+                "- 'Zimbabwe' means 'stone house' in the Bantu language.",
+                "- Capital reached its height around 1300 A.D.",
+                "- Economy based on gold resources and trade with coastal cities.",
+                "- Artifacts from India and China show a wide trade network.",
+                "- Decline around 1500 due to overpopulation, civil war, and declining trade.",
+                "The Khoi-Khoi and San:",
+                "- Languages grouped under the Khoisan language family.",
+                "- Khoi-Khoi: Pastoralists, called 'Hottentos' (derogatory) by European settlers.",
+                "- San: Hunter-gatherers, called 'Bushmen' (derogatory).",
+                "- San are distinguished by their short height, yellow/copper skin, and kinky hair."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Relationships and Exchanges among Different Regions of Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Trans-Saharan Caravan Trade",
+              "content": [
+                "The Trans-Saharan trade connected North, West, and East Africa across the Sahara Desert.",
+                "Began on a regular basis during the fourth century.",
+                "Reached its peak during the heyday of the Mali and Songhai Empires (14th-16th centuries).",
+                "Major Trade Routes:",
+                "- North-South, West-East, and Southern routes.",
+                "Pack Animals: Camels were used in the north; donkeys, human porters, and canoes in the south.",
+                "Major Market Centers: Fez, Marrakesh, Timbuktu, Kano, etc.",
+                "Major Gold Fields: Wangara, Bambuk, Bure.",
+                "Trade Commodities:",
+                "- Essential: Salt (from North Africa), Gold (from West Africa), and slaves.",
+                "- Other goods: Cloth, foodstuffs, perfumes, kola nuts, and animal hides."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "AFRICA AND THE OUTSIDE WORLD: 1500-1880s",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Medieval African States",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "North East and West African States",
+              "content": [
+                "North East Africa:",
+                "- Funj Sultanate: Established in Nubia in 1504, converted to Islam, expanded and fought against Ethiopia.",
+                "- Moroccan Sultanate: Rose to power under Ahmad al-Mansur, expanded south against Songhay.",
+                "West Africa:",
+                "- Benin: Empire in southern Nigeria, reached its peak by the late 15th century.",
+                "- Oyo: Yoruba empire that flourished in present-day Nigeria, disintegrated in the 19th century.",
+                "- Dahomey: Independent kingdom (1625), involved in the slave trade.",
+                "- Ashante: Warrior group of the Akan people, united by the Ashantehene (king)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Eastern, Central, and Southern African Kingdoms",
+              "content": [
+                "Eastern Africa:",
+                "- Buganda: Powerful kingdom in the Great Lakes region, flourished under the Kabaka.",
+                "West-Central Africa:",
+                "- Kongo: Emerged in c. 1400, ruled by the Manikongo, heavily involved in the slave trade with Portuguese.",
+                "South-Central Africa:",
+                "- Mutapa (Mwene Mutapa): Successor state of Great Zimbabwe, dominated trade in gold and ivory.",
+                "- Rozwi: Empire established by Changamire, expelled the Portuguese.",
+                "Southern Africa:",
+                "- Zulu Kingdom: Rose under Shaka Zulu (r. 1818-1828), later conquered by British."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Contacts of Africa with the Outside World",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Early European Contacts in Africa",
+              "content": [
+                "Portuguese Exploration:",
+                "- Motivated by the desire for gold and to bypass Arab and Ottoman middlemen.",
+                "- Henry the Navigator sponsored explorations.",
+                "- Portuguese reached the Cape of Good Hope (1497-98).",
+                "West and Central Africa:",
+                "- Established trading posts and sugar plantations.",
+                "- Diogo Cao arrived at the mouth of the Congo River in 1482.",
+                "- Portuguese converted the Manikongo to Catholicism.",
+                "- Queen Nzinga Mbande led anti-colonial resistance in Ndongo for four decades.",
+                "East Africa:",
+                "- Vasco da Gama reached Malindi and Mombasa.",
+                "- Portuguese captured Swahili cities and their trade."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Slavery and Slave Trade in Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Slavery and Slave Trades in Africa",
+              "content": [
+                "Internal Slavery:",
+                "- Slaves were used as domestic servants, agricultural laborers, in gold mining, and in armies.",
+                "- Slaves could be integrated into families and had some rights and privileges.",
+                "Indian Ocean and Mediterranean Slave Trades:",
+                "- Existed long before the Trans-Atlantic trade.",
+                "- Slaves were shipped to the Middle East and India.",
+                "Trans-Atlantic Slave Trade (16th-mid 19th centuries):",
+                "- Driven by European demand for labor in the New World.",
+                "- Three phases: Pirate, Monopolistic, and Free trade.",
+                "- The 'Middle Passage' was a brutal journey across the Atlantic.",
+                "Effects:",
+                "- Extermination of some ethnic groups, expulsion from ancestral lands.",
+                "- Destruction of economies, political instability.",
+                "- Drain of productive potential."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Abolition and Effects of the Slave Trade",
+              "content": [
+                "Abolition of the Slave Trade:",
+                "- African resistance and the Abolitionist Movement.",
+                "- Economic reasons: The slave trade became unprofitable with the Industrial Revolution.",
+                "- Denmark (1803), Britain (1807), USA (1808), Sweden (1813), Netherlands (1814), France (1818) outlawed the trade.",
+                "Effects of the Slave Trade on Africa:",
+                "- Extermination of some small ethnic groups.",
+                "- Political instability (e.g., Yoruba and Wolof).",
+                "- Drain of productive potential and manpower.",
+                "- Disruption of local agriculture.",
+                "- Rise and consolidation of some Guinea states (e.g., Dahomey, Ashante)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "The Legitimate Trade",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Legitimate Trade",
+              "content": [
+                "Definition: The shift to trading in commodities (gum Arabic, groundnuts, palm oil) after the abolition of the slave trade.",
+                "Impact:",
+                "- Benefited a small minority of wealthy rulers and merchants.",
+                "- Did not improve social/economic well-being of the population.",
+                "- Imports (cloth, alcohol, firearms) did not strengthen African economies.",
+                "Escalated European trading competition, leading to the 'Scramble for Africa' in the 1870s and 1880s."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "The White Settlement in South Africa",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "White Settlement in South Africa",
+              "content": [
+                "Background: Dutch East India Company established a settlement at the Cape of Good Hope in 1652.",
+                "Boers: Dutch farmers who settled and expanded into the interior.",
+                "Conflicts: Khoisan-Dutch wars, Xhosa-Boer wars.",
+                "British Takeover: Britain took over the Cape Colony in 1795.",
+                "The Great Trek: Boers moved north across the Vaal and Orange Rivers in the 1830s-40s.",
+                "Result: Four Boer colonies (Cape, Natal, Transvaal, Orange Free).",
+                "Mineral discoveries in the 1860s attracted more white settlers.",
+                "British took control of all four South African colonies by the end of the 19th century."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "European Explorers and Missionaries: 1770-1870",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "European Explorers and Missionaries in Africa",
+              "content": [
+                "Exploration (1770-1870):",
+                "- Motivated by commercial interests and scientific curiosity.",
+                "- Key Explorers:",
+                "  - Richard Burton, John Hanning Speke, James Grant: Traced the source of the White Nile.",
+                "  - Dr. David Livingston: Explored the Zambezi River.",
+                "  - Henry Morton Stanley: Explored the Zaire River.",
+                "Missionaries:",
+                "- Major groups: Anglican CMS, Methodist LMS.",
+                "- Worked to convert Africans and established missions.",
+                "Role in Colonialism:",
+                "- Appealed to their home governments for protection.",
+                "- Helped pave the way for European colonization."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH – MID-16TH CENTURY)",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "The Christian Kingdom under the Restored 'Solomonic' Dynasty (1270s –1550s)",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Restoration of the Solomonic Dynasty",
+              "content": [
+                "Background: The Zagwe Dynasty fell due to opposition from the Amhara region.",
+                "Yikuno Amlak (r. 1270-85): A local ruler in Amhara who founded the new dynasty.",
+                "The Dynasty was called the 'Solomonic' dynasty to justify their legitimacy.",
+                "The legend of the Queen of Sheba and King Solomon was used to show they were the rightful rulers.",
+                "Kibre Negest (Glory of Kings): A 14th-century book that enshrined this legend.",
+                "The claim was generally accepted, and the Solomonic dynasty lasted until 1974."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Features of the Christian Highland Kingdom",
+              "content": [
+                "Territorial Expansion:",
+                "- The kingdom expanded vigorously under King Amde Tsiyon (r. 1314-44).",
+                "- Many Muslim and non-Muslim states were reduced to tributary status.",
+                "Feudal System (Gult System):",
+                "- Kings made land grants to officials in return for military or administrative services.",
+                "- Bale Gult had the right to levy tribute and maintain law and order.",
+                "Mobile Capital:",
+                "- Until 1636, there was no permanent capital.",
+                "- The royal court moved from one district to another to control rebellions and collect supplies.",
+                "Trade:",
+                "- Zeyla trade was controlled by Muslim merchants.",
+                "- Revenue from trade was a source of income for the kings.",
+                "Legitimacy and Succession:",
+                "- The dynasty's legitimacy was based on the Kibre Negest.",
+                "- Power struggles were common, leading to internal instability."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Territorial and Religious Expansion under Amde Tsiyon",
+              "content": [
+                "Amde Tsiyon (r. 1314-44): The most expansionist king of the medieval period.",
+                "Territorial Conquests:",
+                "- Incorporated Damot (1316/17), Gojjam (1323/24), and the Felasha (1332).",
+                "- Defeated the Sultanate of Ifat and reduced it to tributary status.",
+                "- Reduced other Sultanates (Hadya, Fatagar, Dawaro) to tribute.",
+                "Religious Expansion:",
+                "- Christianity expanded into Shewa, Gojjam, and around Lake Tana.",
+                "- Monasticism became dominant in the Ethiopian Orthodox Church."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Power Struggle and the Rise of Adal",
+              "content": [
+                "Succession Problems: Power struggles among Yikuno Amlak's sons were intense (1294-1299).",
+                "Resolution: Amba Gishen (Mountain of Kings) was established to confine all male descendants (except the king's sons).",
+                "This system facilitated smooth successions.",
+                "The Sultanate of Adal:",
+                "- Founded by the Walasma dynasty (c. 1380), centered at Dakar (later Harar).",
+                "- Became a powerful force challenging the Christian kingdom.",
+                "Conflict under Imam Ahmad:",
+                "- Adal's power grew, and under Imam Ahmad, they defeated the Christian kingdom at the Battle of Shimbra Kure (1529).",
+                "The Christian kingdom began to decline."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "The Expansion of Islam and the Emergence of Muslim Sultanates",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Emergence of Muslim Sultanates",
+              "content": [
+                "Spread of Islam:",
+                "- Islam spread peacefully through trade.",
+                "- The port of Zeyla was the most important gateway to the interior.",
+                "Factors:",
+                "- Arab and non-Arab Muslim merchants were agents of expansion.",
+                "- Islam was introduced to Harar, Eastern Shewa, Wollo, Bale, Arsi, etc.",
+                "Major Sultanates: Shewa, Ifat, Fatagar, Dawaro, Darha (Dera), Bali, Hadya, Arababni, Sharkha, and Adal.",
+                "Common Features:",
+                "- Muslim communities.",
+                "- Rulers exercised both religious and political powers.",
+                "- Economy mainly depended on trade."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Sultanate of Ifat and the Walasma Dynasty",
+              "content": [
+                "Sultanate of Ifat:",
+                "- Emerged in the mid-13th century.",
+                "- Ruled by the Walasma dynasty.",
+                "- Attained prominence under Umar Walasma.",
+                "- Subdued the Sultanate of Shewa in 1385.",
+                "- Strategic location allowed them to monopolize the Zeyla trade.",
+                "- Became a tributary state of the Christian kingdom after 1332.",
+                "The Sultanate of Hadya:",
+                "- Occupied the most westerly territory.",
+                "- Original inhabitants are the ancestors of the present-day Hadya.",
+                "- Rulers used the title of Garad.",
+                "- Economy based on mixed farming and trade.",
+                "- Had rich natural resources, became a tributary of the Christian kingdom."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "The Sultanates of Bali, Sharkha, Dawaro, Darha, Fatagar, and Arababni",
+              "content": [
+                "Bali:",
+                "- Most southerly Sultanate, ruled by Garads.",
+                "- Paid tribute to the Christian kingdom.",
+                "Sharkha:",
+                "- Small Sultanate, roughly corresponded with present-day Arsi.",
+                "- Tributary to the Christian kingdom.",
+                "Dawaro:",
+                "- Existed south of Fatagar, roughly corresponded with present-day Arsi.",
+                "Darha (Dera):",
+                "- Very small Sultanate, east of the Awash River.",
+                "Fatagar:",
+                "- Emerged along the Zeyla trade route (mid-13th century).",
+                "- Became a province of the Christian kingdom.",
+                "Arababni:",
+                "- Small Sultanate, known only through the work of al-Ummeri."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "The Sultanate of Adal",
+              "content": [
+                "Founded by the Walasma rulers of Ifat after 1332.",
+                "Centered at Dakar (later Harar) in the southeastern lowlands.",
+                "Rebelled against the Christian kingdom.",
+                "Sa'ad ad-Din II (r. 1387-1403) led a rebellion against King Dawit I.",
+                "The offensive grew strong under Sultan Ahmad Badlay.",
+                "He led successful campaigns against King Zera Ya'ekob.",
+                "Internal weaknesses in the 15th century led to a recovery in the first half of the 16th century.",
+                "Under Imam Ahmad, Adal replaced the Christian kingdom as the dominant power."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Political and Socio-Economic Conditions of the Western, Southern and Central States in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Kingdom of Gojjam and the Gonga People",
+              "content": [
+                "The Kingdom of Gojjam:",
+                "- Located south of Lake Tana.",
+                "- Inhabited by the Agew people.",
+                "- Reduced to tributary status by King Amde Tsiyon.",
+                "The Gonga People:",
+                "- Omotic language speakers (Kafi Noonoo, Shekki Noonoo, etc.).",
+                "- Lived between the Abay and Omo Rivers.",
+                "- Established state systems like Ennarya, Anfillo, Bizamo, Kafa, and Shekka.",
+                "- The kings of Kafa and Shekka used the title Tato.",
+                "Bizamo, Wajj, and Ganz:",
+                "- Bizamo: Inhabited by Omotic speakers, destroyed by the Macha Oromo.",
+                "- Wajj: Around Lake Ziway, reduced to tributary status by Amde Tsiyon.",
+                "- Ganz: Between Wajj and Hadya, ruled by Garads."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Relationship between the Christian Highland Kingdom and the Sultanate of Adal (1520s - 1559)",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Rise of Imam Ahmad",
+              "content": [
+                "Background: Adal was in a state of civil war after the death of Emir Mahfuz (1517).",
+                "Imam Ahmad ibn-Ibrahim al-Ghazi (Gragn) emerged as a powerful leader.",
+                "He united the warring Afar, Somali, and Harari communities.",
+                "His goal: Create an Islamic empire in the Horn of Africa.",
+                "The war was not religious but a continuation of the earlier conflicts over control of the Zeyla trade.",
+                "Battle of Shimbra Kure (1529): Imam Ahmad crushed King Libne Dingil's army.",
+                "This marked the beginning of Adal's supremacy over the Ethiopian region.",
+                "Imam Ahmad conquered Dawaro, Bali, and the southern half of the Ethiopian region."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Involvement of the Portuguese and Ottoman Turks",
+              "content": [
+                "Portuguese Involvement:",
+                "- The Portuguese and Ottomans were rivals over the Red Sea.",
+                "- King Libne Dingil requested Portuguese military assistance.",
+                "- Christovao da Gama arrived with 400 Portuguese soldiers in 1541.",
+                "Ottoman Involvement:",
+                "- Imam Ahmad turned to the Ottoman Turks for help after a defeat.",
+                "- Ottomans sent 900 troops armed with muskets and cannons.",
+                "Battle of Woyna Dega (1543):",
+                "- King Gelawdewos led combined Ethiopian and Portuguese forces.",
+                "- Imam Ahmad was shot and killed, ending Adal's supremacy."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Consequences of the Conflict",
+              "content": [
+                "Material Destruction:",
+                "- Many churches and monasteries were looted and burned.",
+                "- Invaluable religious documents were destroyed.",
+                "Loss of Life:",
+                "- Severe reduction in population in both highlands and lowlands.",
+                "Weakening of the Christian Kingdom:",
+                "- Imperial armies were destroyed.",
+                "- Regional lords began to challenge the authority of the kings.",
+                "Population Movements:",
+                "- Many people were forced to change settlement areas.",
+                "- Led to the intermixing of different ethnic and religious groups.",
+                "Disruption of Trade:",
+                "- The Zeyla trade was disrupted and became unsafe."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Population Movements in the Ethiopian Region",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Movement of Somali, Afar, and Argoba Peoples",
+              "content": [
+                "Factors: Conflicts between Sultanates and the Christian kingdom; natural factors like drought.",
+                "Somali:",
+                "- Moved into the interior of the Horn from coastal areas.",
+                "- Formed a significant part of the army of Adal.",
+                "Afar:",
+                "- Lived in northeastern Ethiopia, Djibouti, and southeastern Eritrea.",
+                "- Moved towards the Middle Awash due to drought and famine.",
+                "Argoba:",
+                "- One of the ancient inhabitants, accepted Islam early.",
+                "- Spread in the region between Southern Wollo and Harar.",
+                "- Agents of trade, Islamic expansion, and Muslim state formations."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Oromo Population Movement: Causes and Directions",
+              "content": [
+                "Oromo: Ancient people of the Ethiopian region and the Horn.",
+                "Language: Afan Oromo (Eastern Lowland Cushitic).",
+                "Causes of the Movement (16th century):",
+                "- Increase in cattle populations led to a shortage of pasture.",
+                "- Young men moved their cattle to the valleys of Middle Awash and the Ganale River.",
+                "- The wars of Imam Ahmad opened the southern frontier of the Christian kingdom.",
+                "Directions and Stages:",
+                "- The Oromo were organized into two confederacies: Borana and Barantu.",
+                "- Borana: Moved to central and southwestern Ethiopia, and northern Kenya.",
+                "- Barantu: Moved northeast to the Awash Valley, Harar, and Wollo."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "The Gadaa System of the Oromo",
+              "content": [
+                "Gadaa System: An indigenous democratic socio-political institution.",
+                "Regulated the political, economic, social, and religious life of the Oromo.",
+                "Based on a cycle of age grades (8-year periods) that members pass through.",
+                "Gadaa Grades: Dabale, Game-Titiko, Game-Gurgudo, Kusa, Raba-Doori, Gada.",
+                "Chaffee (Assembly): The Gadaa government, functioned at local, regional, and central levels.",
+                "Officials:",
+                "- Abbaa Gadaa: Highest authority, first among equals.",
+                "- Abbaa Duulaa: Commander of the army.",
+                "- Haadha Siinqee: Represents women in peacemaking.",
+                "Women's Participation: Through the Siinqee institution.",
+                "Internal and External Factors: The Gadaa system declined over time.",
+                "Moggassa: Adoption of groups in mass.",
+                "Guddifacha: Adoption of individuals."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Consequences of the Oromo Population Movement",
+              "content": [
+                "Contact:",
+                "- Brought the Oromo into contact with various other peoples.",
+                "Destruction of States:",
+                "- Medieval kingdoms and sultanates were destroyed or influenced.",
+                "- The Christian kingdom was restricted to the north of the Abay River.",
+                "- The Sultanate of Adal was reduced to the city of Harar.",
+                "Integration:",
+                "- Communities that accepted the Oromo were treated kindly through the Moggassa system.",
+                "- Those who resisted were harshly treated and forced to flee.",
+                "Socio-Cultural Exchange:",
+                "- Exchange of values and institutions.",
+                "- Several non-Oromo groups adopted the Gadaa system.",
+                "- Oromo adopted Christianity and Islam.",
+                "Changes in Gadaa System:",
+                "- The Gadaa system weakened due to the movement and expansion.",
+                "- Environmental differences and the emergence of powerful war leaders led to its decline."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "Peoples and States of Southern, Western and Eastern Ethiopia",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Southern States: Omotic Peoples",
+              "content": [
+                "The Omotic peoples live on both sides of the Omo River.",
+                "Major economic activities: Sedentary agriculture (enset), pastoralism, and handicrafts.",
+                "Kingdom of Yem:",
+                "- Ruled by Tato (Amno).",
+                "- Administration was hierarchical.",
+                "- Economy based on agriculture (enset).",
+                "Kingdom of Kafa:",
+                "- Ruled by the Minjo dynasty (from c. 1390).",
+                "- Kings used the title Tato.",
+                "- Known for its defense systems (trenches and watchtowers).",
+                "Kingdom of Shekka:",
+                "- Ruled by the Bushasho dynasty.",
+                "- Kings used the title Tato.",
+                "Kingdom of Wolaita:",
+                "- Ruled by the Wolaita Malla dynasty (later Tigre dynasty).",
+                "- Kings used the title Kawo.",
+                "Kingdom of Dawuro:",
+                "- Ruled by the Kawuka dynasty.",
+                "- Kings used the title Kati."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Southern States: Cushitic Peoples and Governance",
+              "content": [
+                "The Sidama, Hadya, Kambata, and others had a Sera-Woma system.",
+                "Sidama:",
+                "- Woma: Village level governance with cultural and ritual leadership.",
+                "- Luwa: Generation-set system (grades rotate every 8 years).",
+                "- Luwa grades: Wawassa, Darara, Mogissa, Hirbora, Fullassa.",
+                "Kambata:",
+                "- Sera: Indigenous governing institution.",
+                "- Hambarcho: Council with seven members representing the seven clans.",
+                "Gedeo:",
+                "- Ballee: Council of elders with a 7-grade, 70-year cycle.",
+                "Konso:",
+                "- Hayyota: Council of elders, no central authority.",
+                "- Tsella: Generation-set system.",
+                "Gurage:",
+                "- Yajoka Qicha (Sabat Bet) and Gordanna Sera (Kestane).",
+                "Silt'e:",
+                "- Ye Silt'e Sera (Malga Sera)."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Western States: The Gibe and Leqa Oromo States",
+              "content": [
+                "In the Gibe Valley, the Oromo transformed from the Gadaa system to a monarchical system.",
+                "Factors for Transformation:",
+                "- Revival of long-distance trade.",
+                "- Spread of Islam.",
+                "- Rise of powerful Abbaa Duulaa (war leaders) who became kings (Mootii).",
+                "The Gibe Monarchies (5 states):",
+                "1. Limmu-Ennarya (earliest), capital at Saqqa.",
+                "2. Gumma, formed around 1810.",
+                "3. Gomma, first to be Islamized.",
+                "4. Jimma-Kakka, capital at Hirmata.",
+                "5. Gera.",
+                "Leqa States:",
+                "- Leqa Naqamtee: Established by Bakaree Godana; his son Moroda Bakaree extended its influence.",
+                "- Leqa Qellam: Unified by Abbaa Duulaa Tulluu."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Western and Eastern States",
+              "content": [
+                "Western States:",
+                "- Benishangul-Gumuz:",
+                "  - Indigenous inhabitants: Berta and Gumuz.",
+                "  - Muslim Sheikhdoms: Assossa, Benishangul, Khomosha.",
+                "- Gambella:",
+                "  - Inhabitants: Nuer, Anywaa, Majang, Opuo, Komo.",
+                "  - Anywaa had an indigenous administrative system (Kwaari and Nyiye).",
+                "Eastern States:",
+                "- Emirate of Harar:",
+                "  - Emir Ali Dawud founded the local dynasty (1647-1662).",
+                "  - Became a center of trade and Islamic learning.",
+                "  - Built the Jugol wall (UNESCO World Heritage Site).",
+                "- Afar:",
+                "  - Sultanates: Aussa, Bidu, Gobaad, Tajura, Rahayito.",
+                "  - Imamate of Aussa was the leading state.",
+                "  - Makabonto: Indigenous court system.",
+                "- Somali:",
+                "  - Inhabit the Ogaden region.",
+                "  - Shir: Council of elders."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Instability versus Consolidation in the Christian Highland Kingdom, 1559-1855",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Shift to the Lake Tana Region",
+              "content": [
+                "Political Center Shifts:",
+                "- From the Shewan highlands to the Lake Tana area under King Minas.",
+                "- This was due to the expansion of the Oromo south of the Abay River.",
+                "Factors for Instability:",
+                "- Continued Oromo expansion.",
+                "- Ottoman Turks occupied Massawa (1557) and advanced into the interior.",
+                "- Rivalry between the monarch and warlords.",
+                "Attempts at Consolidation:",
+                "- The Lake Tana region was agriculturally fertile and important for trade.",
+                "- Permanent structures were built (e.g., Guzara under Sertse Dingil)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Imposition of Catholicism",
+              "content": [
+                "Background: Portugal and the Pope wanted to convert Ethiopia to Catholicism.",
+                "Jesuit Missionaries:",
+                "- Arrived in Ethiopia with the goal of converting the people.",
+                "- Pedro Paez was successful in converting King Susenyos.",
+                "King Susenyos (r. 1607-32):",
+                "- Made Catholicism the official state religion (1622).",
+                "- Harsh measures led to peasant rebellions.",
+                "Fasiledes (r. 1632-1667):",
+                "- Restored Orthodox Christianity.",
+                "- Expelled the Jesuits.",
+                "- Introduced a closed-door policy to prevent foreign interference."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "The Gondarine Period (1636-1769)",
+              "content": [
+                "Fasiledes established Gondar as a permanent capital in 1636.",
+                "Magnificent castles and churches were built.",
+                "Gondar became the center of political, intellectual, religious, and economic life.",
+                "Culture: Church paintings, music, poetry, calligraphy flourished.",
+                "Trade: Gondar controlled trade routes and had a famous market.",
+                "Communities: Muslims, Bete-Israel, and expatriates lived in separate quarters.",
+                "Important Rulers: Fasiledes, Yohannis I, Iyasu I ('the Great'), and later Bekaffa.",
+                "Iyasu I: Revised the Fitha Negest, reorganized taxes and customs.",
+                "Empress Mintiwab:",
+                "- A prominent woman in the politics of the kingdom.",
+                "- Secured power for her son and organized the Quaregnoch faction."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "The Zemene Mesafint (Era of the Warlords, 1769-1855)",
+              "content": [
+                "Definition: A period of weakening central authority and the rise of powerful regional lords.",
+                "Causes:",
+                "- The wars of Imam Ahmad eroded the power of the monarchy.",
+                "- The establishment of a permanent capital (Gondar) led to the neglect of provinces.",
+                "Characteristics:",
+                "- Kings in Gondar were puppets of regional lords.",
+                "- Political disintegration: Tigray, Simien, Dembiya, Begemdir, Lasta, Amhara, Yejju, Wollo, Gojjam, and Shewa.",
+                "- Constant power struggles and civil wars.",
+                "- The Yejju Oromo held the title of Rasbitweded.",
+                "Effects:",
+                "- Decline in agricultural production, stagnation in trade, collapse of handicrafts.",
+                "- Hardship for the peasantry.",
+                "End: The period ended when Kasa Hailu (Tewodros II) defeated the regional lords and was crowned emperor in 1855."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "The Kingdom of Shewa and European Travelers",
+              "content": [
+                "Kingdom of Shewa:",
+                "- Founded by Negasi Kirstos (end of the 17th century).",
+                "- Political centers: Ayne, Doqaqit, Ankober.",
+                "- Remained independent during the Zemene Mesafint.",
+                "- Reached its peak under Nigus Sahle Sellassie (r. 1813-1847).",
+                "European Travelers and Explorers (since 1805):",
+                "- Motives: Adventure, religious zeal (missionaries), scientific research, and trade.",
+                "- Key Travelers: Henry Salt, Samuel Gobat, C.W. Isenburg, Captain W.C. Harris, Walter Plowden.",
+                "Treaties:",
+                "- 1841: Treaty of commerce and friendship between Harris and Sahle Sellassie.",
+                "- 1849: Treaty of friendship between Plowden and Ras Ali II."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 9,
+      "unit_title": "THE AGE OF REVOLUTIONS, 1789 TO 1815",
+      "sections": [
+        {
+          "section_number": "9.1",
+          "section_title": "The Industrial Revolution and its Political, Economic and Social Effects on Europe",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The Industrial Revolution: Causes and Effects",
+              "content": [
+                "The Industrial Revolution (mid-18th century): A shift from manual labor to machine-made goods.",
+                "Agricultural Revolution: Preceded the Industrial Revolution.",
+                "- Wealthy landowners enclosed land, improved farming methods.",
+                "- Seed drill (c. 1701), crop rotation, and livestock breeding increased food production.",
+                "Why in England?",
+                "- Natural resources: Water, coal, iron ore.",
+                "- Expanding economy, banking system.",
+                "- Political stability and favorable laws.",
+                "Key Inventions:",
+                "- Textile: Flying shuttle, spinning jenny, water frame, spinning mule, power loom.",
+                "- Cotton gin (Eli Whitney, 1793).",
+                "- Steam engine (James Watt).",
+                "- Transportation: Steamboat (Robert Fulton), railroads (George Stephenson)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Social and Economic Impacts",
+              "content": [
+                "Positive Effects:",
+                "- Urbanization (city building).",
+                "- Created jobs, increased wealth.",
+                "- Technological progress and invention.",
+                "- Mass production of goods.",
+                "- Healthier diets, better housing, cheaper clothing.",
+                "Negative Effects:",
+                "- Unhealthy working conditions.",
+                "- Air and water pollution.",
+                "- Child labor.",
+                "- Class tensions: Middle class (factory owners) and working class (laborers).",
+                "Responses to Industrialization:",
+                "- Luddite Movement: Workers smashed machines.",
+                "- Laissez-faire: Free market economy (Adam Smith).",
+                "- Socialism: Government should intervene to improve people's lives (Charles Fourier, Saint-Simon).",
+                "- Marxism: Radical type of socialism (Karl Marx and Friedrich Engels)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "9.2",
+          "section_title": "The American War of Independence",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "The American War of Independence: Causes and Course",
+              "content": [
+                "Background: Britain had 13 colonies in North America.",
+                "Immediate Causes:",
+                "- 'Taxation without representation' (Stamp Act of 1765).",
+                "- Boston Tea Party (1773).",
+                "- Intolerable Acts, including closing Boston Harbor.",
+                "The Course of the War:",
+                "- First Continental Congress (1774).",
+                "- Fighting erupted at Lexington and Concord (April 19, 1775).",
+                "- Second Continental Congress, raised army under George Washington.",
+                "- Declaration of Independence (July 4, 1776).",
+                "Why did the colonists win?",
+                "- Stronger motivation.",
+                "- Overconfident British generals.",
+                "- The expense of fighting an overseas war.",
+                "- French assistance from 1778.",
+                "Effects:",
+                "- Liberated American colonies from British rule.",
+                "- Created the United States of America.",
+                "- Influenced the French and Latin American revolutions."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "9.3",
+          "section_title": "The French Revolution",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Causes of the French Revolution",
+              "content": [
+                "Causes of the French Revolution:",
+                "Long-term Causes:",
+                "- Absolutism (divine right of kings).",
+                "- Unjust socio-political system (Old Regime).",
+                "- Influence of Enlightenment philosophes.",
+                "- System of mercantilism.",
+                "Short-term Causes:",
+                "- Poor harvests left peasants with little money for taxes.",
+                "- Influence of successful revolutions (England, America).",
+                "- Bankruptcy (deficit spending).",
+                "- Great Fear, worst famine in memory.",
+                "French Society Divided into Three Estates:",
+                "- First Estate: High-ranking Church members (privileged).",
+                "- Second Estate: Nobility (privileged).",
+                "- Third Estate: Peasants, artisans, city workers, bourgeoisie (unprivileged)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Phases of the French Revolution",
+              "content": [
+                "Phases of the Revolution:",
+                "1. National Assembly (1789-1791):",
+                "- Tennis Court Oath.",
+                "- Storming of the Bastille (July 14, 1789).",
+                "- Abolished feudal privileges.",
+                "- Declaration of the Rights of Man.",
+                "- Constitution of 1791.",
+                "2. Legislative Assembly (1791-1792):",
+                "- War against Austria and Prussia.",
+                "3. The Convention (1792-1795):",
+                "- First French Republic established.",
+                "- Reign of Terror (1793-1794):",
+                "  - Led by the Committee of Public Safety.",
+                "  - 15,000 guillotined.",
+                "  - Ends with Robespierre's fall.",
+                "4. The Directory (1795-1799):",
+                "- A new government."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Key Reforms and Consequences",
+              "content": [
+                "Key Reforms:",
+                "- Abolition of special privileges.",
+                "- Declaration of the Rights of Man: Liberty, equality, fraternity.",
+                "- Equality before the law.",
+                "- Reforms in local government.",
+                "- Taxes based on ability to pay.",
+                "Women in the Revolution:",
+                "- Olympe de Gouges: Declaration of the Rights of Woman.",
+                "- Women gained some rights (inheritance, easier divorce).",
+                "Consequences:",
+                "- Spread of revolutionary ideas.",
+                "- Rise of nationalism.",
+                "The revolution ended with Napoleon's rise to power in 1799."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "9.4",
+          "section_title": "The Period of Napoleon Bonaparte",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Napoleon Bonaparte: Reforms and Empire",
+              "content": [
+                "Napoleon Bonaparte (1769-1821): A French military genius from Corsica.",
+                "Rise to Power: Took power in 1799 as First Consul, declared himself Emperor in 1804.",
+                "Major Reforms:",
+                "- Napoleon Code (1804): Codified French law, emphasized private property.",
+                "- Bank of France (1800).",
+                "- Concordat of 1801: Agreement with the Catholic Church.",
+                "- Educational reforms: State-controlled public education.",
+                "- Rewarded talent (meritocracy).",
+                "Repressive Measures:",
+                "- Severe inequality for women.",
+                "- Banned trade unions.",
+                "- Police state to suppress opposition.",
+                "Napoleon's Empire: Conquered most of Europe.",
+                "- Key Battles: Trafalgar (1805), Leipzig (1813)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Congress of Vienna and Napoleon's Legacy",
+              "content": [
+                "Napoleon's Downfall:",
+                "- Defeated at the Battle of Leipzig (1813).",
+                "- Abdicated in 1814, exiled to Elba.",
+                "- Returned for the 'Hundred Days' in 1815.",
+                "- Finally defeated at the Battle of Waterloo, exiled to St. Helena.",
+                "Congress of Vienna (1814-1815):",
+                "- Key Representatives: Metternich (Austria), Castlereagh (Britain), Alexander I (Russia), Talleyrand (France).",
+                "Principles of Settlement:",
+                "- Legitimacy: Restoring old dynasties.",
+                "- Compensation: Rewarding states that helped defeat Napoleon.",
+                "- Balance of Power: Prevent any one state from dominating Europe.",
+                "Napoleon's Legacy:",
+                "- Positive: Consolidated revolutionary institutions, spread French reforms.",
+                "- Negative: Repressive rule, caused enormous suffering."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

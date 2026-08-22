@@ -1,0 +1,1775 @@
+{
+  "subject": "Chemistry",
+  "grade": 10,
+  "textbook": "GR10CHEMISTRY.pdf",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Chemical Reactions and Stoichiometry",
+      "sections": [
+        {
+          "section": "1.1 Introduction",
+          "summary": "This section introduces the concept of chemical change as opposed to physical change. A physical change does not form a new substance, while a chemical change results in the formation of one or more new substances with different chemical compositions. A chemical reaction is the process where reactants are converted into products. Characteristics of chemical reactions include the formation of new substances, production of heat or light, color change, and temperature change. The study of the quantitative relationships in chemical reactions is called stoichiometry.",
+          "notes": "Change is the law of nature. Chemical changes occur due to chemical reactions. A chemical reaction is a process in which reacting substances (reactants) are converted into new substances (products). The characteristics of products are completely different from those of reactants. A chemical reaction is represented by a chemical equation. The quantitative study of reactants and products is reaction's stoichiometry.",
+          "keywords": [
+            {
+              "term": "Chemical Reaction",
+              "definition": "The process in which reacting substances, called reactants, are converted into new substances, called products."
+            },
+            {
+              "term": "Physical Change",
+              "definition": "A change that does not involve the formation of a new substance with a new chemical composition."
+            },
+            {
+              "term": "Chemical Change",
+              "definition": "A change which results in the formation of one or more new substances with new chemical compositions."
+            },
+            {
+              "term": "Reactants",
+              "definition": "The starting substances in a chemical reaction."
+            },
+            {
+              "term": "Products",
+              "definition": "The new substances formed in a chemical reaction."
+            }
+          ]
+        },
+        {
+          "section": "1.2 Chemical Equations",
+          "summary": "A chemical equation is a shorthand representation of a chemical reaction using symbols and formulas. Reactants are on the left and products on the right, separated by an arrow. Steps include writing a word equation, converting to symbols/formulas, and balancing. The physical states of substances can be indicated by (s), (l), (g), or (aq). A balanced equation must represent a true reaction, use correct formulas, and obey the Law of Conservation of Mass. Balancing can be done via Inspection, LCM, or Algebraic methods.",
+          "notes": "A chemical equation uses chemical symbols to show what happens during a reaction. Reactants are written on the left side and products on the right side of the equation. An arrow (→) is placed between them. Steps to write a chemical equation: 1. Write a word equation. 2. Write the symbols and formulas for the reactants and products. 3. Balance the equation. The equation must represent a true reaction, have correct formulas, and be balanced. The Law of Conservation of Mass states that atoms are neither created nor destroyed in a chemical reaction. Balancing ensures the number of atoms of each element is the same on both sides of the equation.",
+          "keywords": [
+            {
+              "term": "Chemical Equation",
+              "definition": "A shorthand representation of an actual chemical reaction in terms of chemical symbols and formulas."
+            },
+            {
+              "term": "Word Equation",
+              "definition": "A chemical equation stated in words, e.g., Hydrogen + Nitrogen → Ammonia."
+            },
+            {
+              "term": "Law of Conservation of Mass",
+              "definition": "The law stating that atoms are neither created nor destroyed during a chemical reaction."
+            },
+            {
+              "term": "Inspection Method",
+              "definition": "A method of balancing chemical equations by trial and error, also known as hit and trial method."
+            },
+            {
+              "term": "LCM Method",
+              "definition": "A method of balancing chemical equations by taking the Least Common Multiple of the total valency of reactants and products."
+            },
+            {
+              "term": "Algebraic Method",
+              "definition": "A method of balancing chemical equations by assigning algebraic variables as stoichiometric coefficients to each species."
+            },
+            {
+              "term": "Diatomic Molecules",
+              "definition": "Elements that exist as two-atom molecules, e.g., H₂, N₂, O₂, F₂, Cl₂, Br₂, I₂."
+            }
+          ]
+        },
+        {
+          "section": "1.3 Types of Chemical Reactions",
+          "summary": "Chemical reactions can be classified into four basic types: combination, decomposition, single displacement, and double displacement. Combination reactions involve two reactants forming a single product. Decomposition reactions involve a single compound breaking down into two or more simpler substances. Single displacement reactions involve one element displacing another from a compound. Double displacement reactions involve the exchange of ions between two compounds to form two new compounds.",
+          "notes": "Different elements and compounds react in different ways to produce new substances. The four basic types of chemical reactions are combinations, decompositions, single displacement, and double displacement reactions. Combination (synthesis): A + B → AB. Decomposition (analysis): AB → A + B. Single displacement: A + BC → BA + C (metal) or A + BC → AC + B (non-metal). Double displacement (metathesis): AB + CD → AD + CB.",
+          "keywords": [
+            {
+              "term": "Combination Reaction",
+              "definition": "A reaction in which two or more substances react to form a single compound."
+            },
+            {
+              "term": "Decomposition Reaction",
+              "definition": "A reaction in which a single compound breaks down into two or more elements or simpler compounds."
+            },
+            {
+              "term": "Single Displacement Reaction",
+              "definition": "A reaction in which one element displaces another element from its compound."
+            },
+            {
+              "term": "Double Displacement Reaction",
+              "definition": "A reaction in which two compounds react by exchanging ions to form two new compounds."
+            },
+            {
+              "term": "Synthesis",
+              "definition": "Another name for a combination reaction."
+            },
+            {
+              "term": "Metathesis",
+              "definition": "Another name for a double displacement reaction."
+            },
+            {
+              "term": "Thermal Decomposition",
+              "definition": "A decomposition reaction carried out using heat."
+            },
+            {
+              "term": "Precipitate",
+              "definition": "An insoluble solid formed in a double displacement reaction."
+            }
+          ]
+        },
+        {
+          "section": "1.4 Oxidation and Reduction Reactions",
+          "summary": "Redox reactions involve the transfer of electrons. Oxidation is the loss of electrons (or an increase in oxidation number), and reduction is the gain of electrons (or a decrease in oxidation number). Oxidation numbers help track electron transfer. The oxidizing agent is reduced, and the reducing agent is oxidized. Redox reactions can be balanced using the oxidation-number-change method. Neutralization and double displacement reactions are examples of non-redox reactions.",
+          "notes": "Oxidation: loss of electrons, increase in oxidation number. Reduction: gain of electrons, decrease in oxidation number. Redox reactions involve electron transfer. Oxidizing agent: causes oxidation, is reduced. Reducing agent: causes reduction, is oxidized. Oxidation number rules: 1. Uncombined elements: 0. 2. Monatomic ions: charge. 3. Oxygen: usually -2 (except peroxides -1, superoxides -1/2, OF₂ +2). 4. Hydrogen: +1 (except metal hydrides -1). 5. Sum of oxidation numbers in neutral compound = 0. 6. Sum in polyatomic ion = charge. 7. Group IA: +1, Group IIA: +2. 8. More electronegative element assigned negative oxidation number.",
+          "keywords": [
+            {
+              "term": "Oxidation",
+              "definition": "The loss of one or more electrons by an atom, or an increase in oxidation number."
+            },
+            {
+              "term": "Reduction",
+              "definition": "The gain of one or more electrons by an atom, or a decrease in oxidation number."
+            },
+            {
+              "term": "Redox Reaction",
+              "definition": "A reaction in which electrons are transferred from one atom to another."
+            },
+            {
+              "term": "Oxidation Number (State)",
+              "definition": "The number of electrons that an atom appears to have gained or lost when combined with other atoms."
+            },
+            {
+              "term": "Oxidizing Agent",
+              "definition": "A substance that gains electrons and causes oxidation; it is reduced in the reaction."
+            },
+            {
+              "term": "Reducing Agent",
+              "definition": "A substance that loses electrons and causes reduction; it is oxidized in the reaction."
+            },
+            {
+              "term": "Non-redox Reaction",
+              "definition": "A chemical reaction where the oxidation states of elements remain unchanged."
+            },
+            {
+              "term": "Disproportionation Reaction",
+              "definition": "A reaction where a substance is simultaneously oxidized and reduced."
+            }
+          ]
+        },
+        {
+          "section": "1.5 Molecular and Formula Masses, the Mole Concept and Chemical Formulas",
+          "summary": "Molecular mass is the sum of atomic masses in a molecule. Formula mass is the sum for an ionic compound's formula unit. The mole is the SI unit for amount of substance, containing Avogadro's number of entities. Molar mass is the mass of one mole of a substance. Empirical formula is the simplest whole-number ratio of atoms; molecular formula is the actual number of atoms. Percent composition is the mass percentage of each element in a compound.",
+          "notes": "Molecular Mass (MM): sum of masses of all atoms in a molecule. Formula Mass (FM): sum of atomic masses of all atoms in a formula unit (used for ionic compounds). Mole: amount of substance containing 6.022 x 10²³ entities (Avogadro's number). Molar Mass: mass of one mole of a substance (g/mol). Empirical Formula: simplest whole-number ratio of atoms in a compound. Molecular Formula: exact number of atoms of each element in a molecule. Percent Composition by mass: (mass of element in compound / molar mass of compound) x 100%.",
+          "keywords": [
+            {
+              "term": "Molecular Mass (MM)",
+              "definition": "The sum of the masses of all the atoms present in a molecule."
+            },
+            {
+              "term": "Formula Mass (FM)",
+              "definition": "The sum of the atomic masses of all atoms present in the formula unit of a compound."
+            },
+            {
+              "term": "Mole",
+              "definition": "The amount of a substance that contains the same number of entities as there are atoms in exactly 12g of carbon-12."
+            },
+            {
+              "term": "Avogadro's Number",
+              "definition": "The number of particles in one mole of a substance, approximately 6.022 x 10²³."
+            },
+            {
+              "term": "Molar Mass",
+              "definition": "The mass of one mole of a substance, expressed in grams per mole (g/mol)."
+            },
+            {
+              "term": "Empirical Formula",
+              "definition": "The formula of a substance written with the smallest whole-number ratio of subscripts."
+            },
+            {
+              "term": "Molecular Formula",
+              "definition": "The actual formula that tells the exact number of atoms of different elements present in a molecule."
+            },
+            {
+              "term": "Percent Composition",
+              "definition": "The percentage by mass of each element present in a compound."
+            }
+          ]
+        },
+        {
+          "section": "1.6 Stoichiometry",
+          "summary": "Stoichiometry is the study of the quantitative relationships between reactants and products in a chemical reaction. It involves calculations based on balanced equations, using mole ratios. Stoichiometric problems include mass-mass, mass-volume, and volume-volume relationships. Limiting reactants determine the maximum product yield, and excess reactants remain unconsumed. Theoretical yield is calculated from stoichiometry, while actual yield is measured experimentally. Percentage yield compares actual to theoretical yield.",
+          "notes": "Stoichiometry is based on the Law of Conservation of Mass. Mole ratios are derived from coefficients in balanced equations. Steps for mass-mass problems: 1. Balance equation. 2. Convert given mass to moles. 3. Use mole ratio to find moles of desired substance. 4. Convert moles to mass. For gases at STP (0°C, 1 atm), 1 mole occupies 22.4 L (Molar Volume). Avogadro's Law: equal volumes of gases at same T and P contain equal number of molecules. Limiting Reactant: completely consumed first, determines product yield. Excess Reactant: present in greater quantity than needed. Theoretical Yield: calculated maximum product amount. Actual Yield: experimentally obtained product amount. Percentage Yield = (Actual Yield / Theoretical Yield) x 100%.",
+          "keywords": [
+            {
+              "term": "Stoichiometry",
+              "definition": "The study of the quantitative composition of substances and the relationships between reactants and products in chemical reactions."
+            },
+            {
+              "term": "Mole Ratio",
+              "definition": "The ratio of the number of moles of any two substances in a balanced chemical equation."
+            },
+            {
+              "term": "Limiting Reactant",
+              "definition": "The reactant that is completely consumed first in a reaction, limiting the amount of product formed."
+            },
+            {
+              "term": "Excess Reactant",
+              "definition": "The reactant that is present in a quantity greater than necessary to react with the limiting reactant."
+            },
+            {
+              "term": "Theoretical Yield",
+              "definition": "The calculated amount of product that would be obtained if the reaction proceeds completely."
+            },
+            {
+              "term": "Actual Yield",
+              "definition": "The measured amount of product obtained in a chemical reaction."
+            },
+            {
+              "term": "Percentage Yield",
+              "definition": "The ratio of the actual yield to the theoretical yield, multiplied by 100."
+            },
+            {
+              "term": "Molar Volume",
+              "definition": "The volume occupied by one mole of any gas at STP, which is 22.4 L."
+            },
+            {
+              "term": "Avogadro's Law",
+              "definition": "The law stating that equal volumes of different gases, under the same conditions of temperature and pressure, contain equal numbers of molecules."
+            },
+            {
+              "term": "STP",
+              "definition": "Standard Temperature and Pressure, defined as 0°C and 1 atm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Solutions",
+      "sections": [
+        {
+          "section": "2.1 Heterogeneous and Homogeneous Mixtures",
+          "summary": "Mixtures are combinations of two or more substances where each retains its own properties. They are classified as homogeneous (uniform composition, e.g., solutions) or heterogeneous (non-uniform composition, e.g., suspensions). Solutions are homogeneous mixtures of a solute dissolved in a solvent. Colloids are heterogeneous mixtures with particle sizes between solutions and suspensions, and they show the Tyndall effect. Suspensions are heterogeneous mixtures with large particles that settle over time.",
+          "notes": "Mixtures: components keep their own properties, can be separated physically, and have variable proportions. Homogeneous mixtures: uniform composition throughout (solutions). Heterogeneous mixtures: physically distinct parts (suspensions, colloids). Solutions: homogeneous mixture of solute and solvent. Solvent: major component. Solute: minor component. Types of solutions: gaseous, liquid, solid. Colloids: particle size 1-100 nm, show Tyndall effect. Suspensions: large particles, settle upon standing.",
+          "keywords": [
+            {
+              "term": "Mixture",
+              "definition": "A combination of two or more substances in which the individual substances keep their own properties."
+            },
+            {
+              "term": "Homogeneous Mixture",
+              "definition": "A mixture in which the composition is uniform throughout."
+            },
+            {
+              "term": "Heterogeneous Mixture",
+              "definition": "A mixture that consists of physically distinct parts, each with different properties."
+            },
+            {
+              "term": "Solution",
+              "definition": "A homogeneous mixture of a solute dissolved in a solvent."
+            },
+            {
+              "term": "Solute",
+              "definition": "The substance that is dissolved in a solution, usually the minor component."
+            },
+            {
+              "term": "Solvent",
+              "definition": "The substance that dissolves the solute in a solution, usually the major component."
+            },
+            {
+              "term": "Colloid",
+              "definition": "A heterogeneous mixture in which particles of one or more substances are suspended uniformly throughout another substance."
+            },
+            {
+              "term": "Suspension",
+              "definition": "A heterogeneous mixture in which solid particles are spread throughout a liquid without dissolving."
+            },
+            {
+              "term": "Tyndall Effect",
+              "definition": "The scattering of a beam of light by colloidal particles, making the path of the light visible."
+            }
+          ]
+        },
+        {
+          "section": "2.2 The Solution Process",
+          "summary": "Dissolution involves breaking solute-solute and solvent-solvent attractions and forming solute-solvent interactions. The rule 'like dissolves like' is based on similar intermolecular forces. Ionic compounds dissolve in water due to ion-dipole forces. Solubility rules help predict if a salt will dissolve. The rate of dissolution depends on surface area, temperature, and stirring. Energy changes during dissolution can be endothermic (absorbing heat) or exothermic (releasing heat). The heat of solution is the total enthalpy change.",
+          "notes": "Dissolution steps: 1. Breaking solute-solute forces. 2. Breaking solvent-solvent forces. 3. Forming solute-solvent interactions. 'Like dissolves like' means substances with similar intermolecular forces dissolve in each other. Hydrogen bonding is a strong dipole-dipole interaction. Ion-dipole forces are important for dissolving ionic compounds in water. Solubility rules: All Group 1A and NH₄⁺ salts soluble. All acetates, nitrates, perchlorates soluble. Most chlorides, bromides, iodides soluble (except Ag⁺, Pb²⁺, Cu²⁺, Hg₂²⁺). Most sulfates soluble (except Ba²⁺, Sr²⁺, Pb²⁺, Ca²⁺, Ag⁺, Hg²⁺). Carbonates, sulfides, oxides, phosphates are insoluble (except with Group 1A and NH₄⁺). Rate of dissolution: increases with surface area, temperature, and stirring. Heat of Solution: energy change during dissolution. Endothermic: absorbs heat (ΔH > 0). Exothermic: releases heat (ΔH < 0).",
+          "keywords": [
+            {
+              "term": "Dissolution",
+              "definition": "The process through which a solute dissolves in a solvent to produce a solution."
+            },
+            {
+              "term": "Hydration",
+              "definition": "Solvation in water, where water molecules surround and interact with solute particles."
+            },
+            {
+              "term": "Hydration Energy",
+              "definition": "The energy released when solute molecules or ions are solvated by water molecules."
+            },
+            {
+              "term": "Heat of Solution (Enthalpy of Solution)",
+              "definition": "The amount of heat released or absorbed during the dissolution process."
+            },
+            {
+              "term": "Lattice Energy",
+              "definition": "The energy required to separate ions in an ionic solid and break up the crystal lattice."
+            },
+            {
+              "term": "Solvation Energy",
+              "definition": "The energy released when solute particles are completely surrounded by solvent molecules."
+            },
+            {
+              "term": "Miscible",
+              "definition": "Describes two liquids that can mix together in any proportion to form a homogeneous solution."
+            },
+            {
+              "term": "Immiscible",
+              "definition": "Describes two liquids that do not mix and form separate layers."
+            },
+            {
+              "term": "Electrolyte",
+              "definition": "A substance that conducts electricity in aqueous solution or molten state because it dissociates into ions."
+            },
+            {
+              "term": "Nonelectrolyte",
+              "definition": "A substance that does not conduct electricity in aqueous solution because it does not dissociate into ions."
+            }
+          ]
+        },
+        {
+          "section": "2.3 Solubility as an Equilibrium Process",
+          "summary": "Solubility is the maximum amount of solute that dissolves in a solvent at a given temperature. Saturated solutions are in equilibrium with undissolved solute, where dissolution and recrystallization rates are equal. Unsaturated solutions can dissolve more solute. Supersaturated solutions contain more dissolved solute than normal, a metastable state. Factors affecting solubility include temperature (usually increases for solids, decreases for gases) and pressure (increases for gases, Henry's Law).",
+          "notes": "Solubility: max amount of solute in a given volume of solvent at a given temperature. Saturated solution: contains maximum dissolved solute, in equilibrium with undissolved solid. Unsaturated: can dissolve more solute. Supersaturated: contains more dissolved solute than normal, unstable, crystallizes on addition of a seed crystal. Factors affecting solubility: 1. Inter-particle forces ('like dissolves like'). 2. Temperature: solid solubility usually increases with temperature; gas solubility decreases with temperature. 3. Pressure: affects gas solubility (Henry's Law).",
+          "keywords": [
+            {
+              "term": "Solubility",
+              "definition": "The maximum amount of a substance that can be dissolved in a given volume of solvent at a given temperature."
+            },
+            {
+              "term": "Saturated Solution",
+              "definition": "A solution that contains the maximum amount of dissolved solute at a given temperature and is in equilibrium with undissolved solute."
+            },
+            {
+              "term": "Unsaturated Solution",
+              "definition": "A solution that contains less solute than the maximum amount that can be dissolved."
+            },
+            {
+              "term": "Supersaturated Solution",
+              "definition": "A solution that contains more dissolved solute than the normal saturation point."
+            },
+            {
+              "term": "Recrystallization",
+              "definition": "The process of dissolved solute returning to the solid state."
+            },
+            {
+              "term": "Henry's Law",
+              "definition": "A law stating that the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the solution."
+            },
+            {
+              "term": "Solution Equilibrium",
+              "definition": "The physical state in which the opposing processes of dissolution and recrystallization occur at the same rate."
+            }
+          ]
+        },
+        {
+          "section": "2.4 Ways of Expressing Concentration of Solution",
+          "summary": "Concentration expresses the amount of solute relative to the amount of solution or solvent. Common units include percent by mass (w/w), percent by volume (v/v), parts per million (ppm), parts per billion (ppb), mole fraction, molarity (M, moles solute per liter solution), molality (m, moles solute per kg solvent), and normality (N, gram equivalents solute per liter solution). Interconversion between units is possible using density and molar masses.",
+          "notes": "Mass Percentage (w/w) = (mass of solute / mass of solution) x 100%. Volume Percentage (v/v) = (volume of solute / volume of solution) x 100%. ppm = (mass of solute / mass of solution) x 10⁶. ppb = (mass of solute / mass of solution) x 10⁹. Mole Fraction (X) = moles of component / total moles. Molarity (M) = moles of solute / liters of solution. Molality (m) = moles of solute / kg of solvent. Normality (N) = number of gram equivalents of solute / liter of solution. Equivalent weight = molar mass / z, where z is number of H⁺, OH⁻, electrons, or charge. N = M x z.",
+          "keywords": [
+            {
+              "term": "Concentration",
+              "definition": "The relative quantity of a solute against a total quantity of solution or solvent."
+            },
+            {
+              "term": "Mass Percentage",
+              "definition": "The mass of solute divided by the mass of solution, multiplied by 100%."
+            },
+            {
+              "term": "ppm (Parts Per Million)",
+              "definition": "The mass of solute divided by the mass of solution, multiplied by 10⁶."
+            },
+            {
+              "term": "ppb (Parts Per Billion)",
+              "definition": "The mass of solute divided by the mass of solution, multiplied by 10⁹."
+            },
+            {
+              "term": "Mole Fraction",
+              "definition": "The moles of a component substance divided by the total moles of the solution."
+            },
+            {
+              "term": "Molarity (M)",
+              "definition": "The number of moles of solute present in exactly 1 liter of solution."
+            },
+            {
+              "term": "Molality (m)",
+              "definition": "The number of moles of solute dissolved in exactly 1 kilogram of solvent."
+            },
+            {
+              "term": "Normality (N)",
+              "definition": "The number of gram equivalents of solute per liter of solution."
+            },
+            {
+              "term": "Equivalent Weight",
+              "definition": "The molar mass of a substance divided by its valence factor (z) in a specific reaction."
+            }
+          ]
+        },
+        {
+          "section": "2.5 Preparation of Solutions",
+          "summary": "Solutions can be prepared from solid solutes by calculating the required mass, weighing it, dissolving in a volumetric flask, and diluting to the mark. For liquid solutes, volume is calculated using density. Dilution involves adding solvent to a concentrated solution to decrease its concentration. The dilution formula is M₁V₁ = M₂V₂. Safety precautions, especially for acid dilution (add acid to water), are emphasized.",
+          "notes": "Stock solutions: prepared from pure compounds. Steps for solid solute: 1. Calculate mass required. 2. Weigh the solid. 3. Dissolve in a beaker with less than final volume of solvent. 4. Transfer to volumetric flask. 5. Dilute to mark with solvent. 6. Cap and label. Dilution: preparing a less concentrated solution from a more concentrated one by adding more solvent. Formula: M₁V₁ = M₂V₂. Safety: Always add concentrated acid to water, not water to acid, to prevent violent splattering.",
+          "keywords": [
+            {
+              "term": "Stock Solution",
+              "definition": "A concentrated solution that is stored and later diluted for use."
+            },
+            {
+              "term": "Dilution",
+              "definition": "The procedure for preparing a less concentrated solution from a more concentrated one by adding solvent."
+            },
+            {
+              "term": "Volumetric Flask",
+              "definition": "A piece of laboratory glassware used to prepare solutions of precise volume."
+            }
+          ]
+        },
+        {
+          "section": "2.6 Solution Stoichiometry",
+          "summary": "Stoichiometry problems involving solutions require converting volume and molarity to moles using the relationship moles = M x V. This allows for mole-mass and mole-volume calculations in reactions occurring in solution.",
+          "notes": "For reactions in solution, the amount of a reactant or product can be calculated using its molarity and volume: moles = M x V. Follow general stoichiometry steps: 1. Balance equation. 2. Find moles of one substance from volume and molarity. 3. Relate to stoichiometrically equivalent amount of another substance. 4. Convert to desired units.",
+          "keywords": [
+            {
+              "term": "Solution Stoichiometry",
+              "definition": "Stoichiometric calculations that involve reactions occurring in solution, using molarity and volume to determine moles."
+            }
+          ]
+        },
+        {
+          "section": "2.7 Describing Reactions in Solution",
+          "summary": "Reactions in solution can be described using molecular equations, complete ionic equations, and net ionic equations. Spectator ions are ions that appear on both sides of the equation and do not participate in the reaction. Net ionic equations show only the species that actually react, providing insight into the essential chemical change.",
+          "notes": "Molecular equation: reactants and products written as if they were molecular substances. Complete ionic equation: all soluble strong electrolytes written as ions. Spectator ions: ions that do not participate in the reaction and appear on both sides. Net ionic equation: removes spectator ions, showing only the reacting species.",
+          "keywords": [
+            {
+              "term": "Molecular Equation",
+              "definition": "A chemical equation in which reactants and products are written as if they were molecular substances."
+            },
+            {
+              "term": "Ionic Equation",
+              "definition": "A chemical equation in which soluble strong electrolytes are written as separate ions."
+            },
+            {
+              "term": "Net Ionic Equation",
+              "definition": "An ionic equation from which spectator ions have been removed."
+            },
+            {
+              "term": "Spectator Ions",
+              "definition": "Ions that appear on both sides of a complete ionic equation and do not participate in the chemical reaction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Important Inorganic Compounds",
+      "sections": [
+        {
+          "section": "3.1 Introduction",
+          "summary": "Inorganic compounds are compounds that do not contain carbon, except for simpler carbon compounds like oxides, carbonates, and carbides. They are generally found in nonliving things and are classified into four groups: oxides, acids, bases, and salts.",
+          "notes": "Inorganic compounds are those that do not contain carbon, except simple compounds like CO₂, CaCO₃, and SiC. They are of mineral origin and found in nonliving things. Inorganic compounds are classified into oxides, acids, bases, and salts.",
+          "keywords": [
+            {
+              "term": "Inorganic Compound",
+              "definition": "A compound that does not contain carbon, except simpler compounds like oxides, carbonates, and carbides."
+            }
+          ]
+        },
+        {
+          "section": "3.2 Oxides",
+          "summary": "Oxides are binary compounds of oxygen with another element. They are classified as acidic (non-metal oxides), basic (metal oxides), amphoteric (react with both acids and bases), neutral (no acidic or basic properties), and peroxides (contain O-O bond, oxidation state -1). Acidic oxides form acids with water, basic oxides form bases with water, and amphoteric oxides show both properties.",
+          "notes": "Oxides: binary compounds containing oxygen and any other element. Classification: Acidic oxides: non-metal oxides, form acids with water (e.g., CO₂, SO₂). Basic oxides: metal oxides, form bases with water (e.g., Na₂O, CaO). Amphoteric oxides: react with both acids and bases (e.g., Al₂O₃, ZnO). Neutral oxides: neither acidic nor basic (e.g., CO, N₂O). Peroxides: contain O-O bond, oxygen oxidation state -1 (e.g., H₂O₂, Na₂O₂). Peroxides are oxidizing agents.",
+          "keywords": [
+            {
+              "term": "Oxide",
+              "definition": "A binary compound containing oxygen and any other element."
+            },
+            {
+              "term": "Acidic Oxide (Acid Anhydride)",
+              "definition": "An oxide that dissolves in water to form an acid or reacts with a base to form a salt."
+            },
+            {
+              "term": "Basic Oxide (Basic Anhydride)",
+              "definition": "An oxide that dissolves in water to form a base or reacts with an acid to form a salt."
+            },
+            {
+              "term": "Amphoteric Oxide",
+              "definition": "An oxide that shows both acidic and basic properties, reacting with both acids and bases."
+            },
+            {
+              "term": "Neutral Oxide",
+              "definition": "An oxide that shows neither acidic nor basic properties."
+            },
+            {
+              "term": "Peroxide",
+              "definition": "A compound containing oxygen with an oxidation number of -1 and an O-O bond."
+            }
+          ]
+        },
+        {
+          "section": "3.3 Acids",
+          "summary": "Arrhenius acids release H⁺ ions in aqueous solution. They are classified by ionizable H atoms (monoprotic, diprotic, triprotic) and by composition (binary, ternary). Strong acids dissociate completely (e.g., HCl, H₂SO₄), while weak acids dissociate partially (e.g., CH₃COOH). pH is the negative logarithm of H⁺ concentration. Acids have sour taste, change indicators, react with metals (producing H₂), carbonates (producing CO₂), and bases (neutralization).",
+          "notes": "Arrhenius acid: releases H⁺ (or H₃O⁺) in water. Classification: Monoprotic (one H⁺, e.g., HCl), Diprotic (two H⁺, e.g., H₂SO₄), Triprotic (three H⁺, e.g., H₃PO₄). Binary acids (two elements, e.g., HCl), Ternary/oxy-acids (three elements, e.g., H₂SO₄). Strong acids: complete dissociation. Weak acids: partial dissociation (↔). pH = -log[H⁺]. Properties of acids: sour taste, change indicator colors (blue litmus to red), react with active metals to produce H₂, react with carbonates to produce CO₂, neutralize bases to form salt and water.",
+          "keywords": [
+            {
+              "term": "Arrhenius Acid",
+              "definition": "A substance that releases hydrogen ions (H⁺) or hydronium ions (H₃O⁺) in aqueous solution."
+            },
+            {
+              "term": "Monoprotic Acid",
+              "definition": "An acid that contains only one ionizable hydrogen atom per molecule."
+            },
+            {
+              "term": "Polyprotic Acid",
+              "definition": "An acid that contains more than one ionizable hydrogen atom per molecule."
+            },
+            {
+              "term": "Diprotic Acid",
+              "definition": "A polyprotic acid with two ionizable hydrogen atoms."
+            },
+            {
+              "term": "Triprotic Acid",
+              "definition": "A polyprotic acid with three ionizable hydrogen atoms."
+            },
+            {
+              "term": "Strong Acid",
+              "definition": "An acid that dissociates completely in aqueous solution."
+            },
+            {
+              "term": "Weak Acid",
+              "definition": "An acid that dissociates only partially in aqueous solution."
+            },
+            {
+              "term": "pH",
+              "definition": "The negative logarithm of the molar concentration of hydrogen ions: pH = -log[H⁺]."
+            },
+            {
+              "term": "Neutralization Reaction",
+              "definition": "A reaction between an acid and a base, producing a salt and water."
+            },
+            {
+              "term": "Indicator",
+              "definition": "A substance that changes color in the presence of an acid or a base."
+            }
+          ]
+        },
+        {
+          "section": "3.4 Bases",
+          "summary": "Arrhenius bases produce OH⁻ ions in water. Soluble bases are called alkalis. Strong bases dissociate completely (e.g., NaOH, KOH), weak bases partially (e.g., NH₄OH). pOH is the negative logarithm of OH⁻ concentration, and pH + pOH = 14. Bases have bitter taste, feel slippery, change indicators (red litmus to blue), neutralize acids, and conduct electricity. Preparation methods include reacting active metals with water, metal oxides with water, or double displacement reactions.",
+          "notes": "Arrhenius base: produces OH⁻ in water. Alkalis: soluble bases. Strong base: complete dissociation (e.g., NaOH, KOH). Weak base: partial dissociation (e.g., NH₃). pOH = -log[OH⁻]. pH + pOH = 14. Properties: bitter taste, slippery feel, turn red litmus blue, neutralize acids. Preparation: 1. Active metal + water → base + H₂. 2. Metal oxide + water → base. 3. Double displacement (soluble base + soluble salt → new base + insoluble salt).",
+          "keywords": [
+            {
+              "term": "Arrhenius Base",
+              "definition": "A substance that produces hydroxide ions (OH⁻) when dissolved in water."
+            },
+            {
+              "term": "Alkali",
+              "definition": "A soluble base that produces OH⁻ ions in water."
+            },
+            {
+              "term": "Strong Base",
+              "definition": "A base that dissociates almost completely in aqueous solution."
+            },
+            {
+              "term": "Weak Base",
+              "definition": "A base that dissociates only partially in aqueous solution."
+            },
+            {
+              "term": "pOH",
+              "definition": "The negative logarithm of the molar concentration of hydroxide ions: pOH = -log[OH⁻]."
+            },
+            {
+              "term": "Caustic",
+              "definition": "A substance that can cause burning or corrosion, often referring to strong bases."
+            }
+          ]
+        },
+        {
+          "section": "3.5 Salts",
+          "summary": "Salts are ionic compounds formed by the neutralization of an acid with a base. They are classified as normal (complete replacement of H⁺), acidic (partial replacement of H⁺), or basic (partial replacement of OH⁻). Salts can be soluble or insoluble, hygroscopic, deliquescent, or efflorescent. They are prepared by various methods including acid-metal reaction, neutralization, acid-metal oxide reaction, acid-carbonate reaction, and precipitation. Flame tests and other qualitative tests identify ions in salts.",
+          "notes": "Salts: ionic compounds from neutralization. Classification: Normal salts: all H⁺ of acid replaced (e.g., NaCl). Acidic salts: partial H⁺ replacement (e.g., NaHSO₄). Basic salts: partial OH⁻ replacement (e.g., Zn(OH)Cl). Properties: Solubility varies. Hygroscopic: absorb water but stay solid (e.g., CuSO₄). Deliquescent: absorb water and dissolve (e.g., CaCl₂). Efflorescent: lose water of crystallization (e.g., Na₂CO₃·10H₂O). Conduct electricity in solution. Thermal stability varies: carbonates of Group IIA decompose to oxide + CO₂; nitrates of Group IA (except Li) form nitrites + O₂. Flame tests identify Li⁺ (crimson), Na⁺ (yellow), K⁺ (lilac), Ca²⁺ (brick-red), Sr²⁺ (red), Ba²⁺ (apple-green).",
+          "keywords": [
+            {
+              "term": "Salt",
+              "definition": "An ionic compound generally formed by the neutralization of an acid with a base."
+            },
+            {
+              "term": "Normal Salt",
+              "definition": "A salt formed by the complete replacement of ionizable H⁺ ions of an acid by a metal or NH₄⁺."
+            },
+            {
+              "term": "Acidic Salt",
+              "definition": "A salt formed by the partial replacement of ionizable H⁺ ions of an acid."
+            },
+            {
+              "term": "Basic Salt",
+              "definition": "A salt in which not all of the hydroxide ions in a base have been replaced by anions of the acid."
+            },
+            {
+              "term": "Hygroscopic",
+              "definition": "Describes a salt that absorbs water from the atmosphere but remains solid."
+            },
+            {
+              "term": "Deliquescent",
+              "definition": "Describes a salt that absorbs water from the atmosphere to form a solution."
+            },
+            {
+              "term": "Efflorescent",
+              "definition": "Describes a salt that loses its water of crystallization to the atmosphere."
+            },
+            {
+              "term": "Fertilizer",
+              "definition": "A material added to soil to increase crop growth, yield, or nutritional value."
+            },
+            {
+              "term": "Pesticide",
+              "definition": "A chemical used to kill pests that affect plant growth and development."
+            },
+            {
+              "term": "Herbicide (Weed Killer)",
+              "definition": "A chemical used to control undesirable plants."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Energy Changes and Electrochemistry",
+      "sections": [
+        {
+          "section": "4.1 Introduction",
+          "summary": "Chemical reactions involve energy changes, often in the form of heat or work. Exothermic reactions release heat (ΔH < 0), while endothermic reactions absorb heat (ΔH > 0). Internal energy is the sum of kinetic and potential energies of a system. The heat change at constant pressure is the enthalpy change (ΔH). Specific heat capacity (c) is the heat required to raise 1 gram of a substance by 1 K. Calorimetry is used to measure energy changes.",
+          "notes": "System: part of the universe being studied. Surroundings: everything else. Internal energy (E): sum of kinetic and potential energies. ΔE = E_final - E_initial = q + w. Exothermic: heat released to surroundings (ΔH < 0, T increases). Endothermic: heat absorbed from surroundings (ΔH > 0, T decreases). Enthalpy (H): heat content at constant pressure. ΔH = H_products - H_reactants. Heat Capacity: heat required to change temperature by 1 K. Specific Heat Capacity (c): heat required to change 1 g by 1 K. q = c x mass x ΔT.",
+          "keywords": [
+            {
+              "term": "System",
+              "definition": "The part of the universe being studied in a chemical reaction."
+            },
+            {
+              "term": "Surroundings",
+              "definition": "Everything outside the system in the universe."
+            },
+            {
+              "term": "Internal Energy",
+              "definition": "The sum of the potential and kinetic energies of the components of a system."
+            },
+            {
+              "term": "Exothermic Reaction",
+              "definition": "A reaction that releases energy in the form of heat to the surroundings (ΔH < 0)."
+            },
+            {
+              "term": "Endothermic Reaction",
+              "definition": "A reaction that absorbs energy in the form of heat from the surroundings (ΔH > 0)."
+            },
+            {
+              "term": "Enthalpy",
+              "definition": "The heat content of a system at constant pressure."
+            },
+            {
+              "term": "Enthalpy Change (ΔH)",
+              "definition": "The heat transferred during a reaction at constant pressure (H_products - H_reactants)."
+            },
+            {
+              "term": "Heat Capacity",
+              "definition": "The quantity of heat required to change the temperature of a substance by 1 K."
+            },
+            {
+              "term": "Specific Heat Capacity (c)",
+              "definition": "The quantity of heat required to change the temperature of 1 gram of a substance by 1 K."
+            },
+            {
+              "term": "Calorimeter",
+              "definition": "A device used to measure the amount of heat involved in a chemical or physical process."
+            }
+          ]
+        },
+        {
+          "section": "4.2 Energy Changes in Electrochemistry",
+          "summary": "Electrochemistry deals with the interconversion of chemical and electrical energy. Electrical conductivity can be metallic (electron flow in metals) or electrolytic (ion flow in electrolytes). Electrolytes are substances that conduct electricity in molten state or solution, dissociating into ions. Strong electrolytes dissociate completely, while weak electrolytes dissociate partially. Nonelectrolytes do not conduct electricity.",
+          "notes": "Electrochemistry: study of interconversion of chemical and electrical energy. Metallic conductivity: flow of electrons through metals (electronic conduction). Electrolytic conductivity: flow of ions through solution or molten electrolyte (ionic conduction). Electrolyte: substance that conducts electricity in solution or molten state. Strong electrolyte: dissociates completely into ions (e.g., NaCl). Weak electrolyte: dissociates partially into ions (e.g., CH₃COOH). Nonelectrolyte: does not conduct electricity (e.g., sugar).",
+          "keywords": [
+            {
+              "term": "Electrochemistry",
+              "definition": "The field of chemistry that deals with the interconversion of electrical energy and chemical energy."
+            },
+            {
+              "term": "Electrical Conductivity",
+              "definition": "The ability of a substance to transmit electricity."
+            },
+            {
+              "term": "Metallic Conductivity (Electronic Conductivity)",
+              "definition": "Conduction of electricity through metals due to the movement of electrons."
+            },
+            {
+              "term": "Electrolytic Conductivity (Ionic Conductivity)",
+              "definition": "Conduction of electricity through electrolytes due to the movement of ions."
+            },
+            {
+              "term": "Electrolyte",
+              "definition": "A substance that conducts electricity in aqueous solution or molten state."
+            },
+            {
+              "term": "Nonelectrolyte",
+              "definition": "A substance that does not conduct an electric current in aqueous solution or molten state."
+            },
+            {
+              "term": "Strong Electrolyte",
+              "definition": "A substance that dissociates completely into ions when dissolved in water."
+            },
+            {
+              "term": "Weak Electrolyte",
+              "definition": "A substance that dissociates only partially into ions when dissolved in water."
+            }
+          ]
+        },
+        {
+          "section": "4.3 Electrochemical Cells",
+          "summary": "Electrochemical cells convert chemical energy to electrical energy (Voltaic/Galvanic cells) or electrical energy to chemical energy (Electrolytic cells). Voltaic cells involve spontaneous redox reactions and generate electricity. Primary cells (non-rechargeable, e.g., Daniell cell, Leclanche dry cell) and secondary cells (rechargeable, e.g., lead storage battery) are types of voltaic cells. Galvanic cells have a salt bridge to maintain neutrality, with oxidation at the anode and reduction at the cathode.",
+          "notes": "Electrochemical cell: system converting chemical and electrical energy. Electrodes: conductors (metal/graphite) allowing electron transfer. Galvanic (Voltaic) cell: spontaneous redox reaction generates electricity. Electrolytic cell: electrical energy drives a non-spontaneous reaction. Primary cells: non-rechargeable (e.g., Daniell cell, dry cell). Secondary cells: rechargeable (e.g., lead storage battery). Daniell cell: Zn anode (oxidation), Cu cathode (reduction). Salt bridge maintains neutrality. Dry cell (Leclanche): Zn anode, graphite cathode with MnO₂ and NH₄Cl paste. Lead storage battery: Pb anode, PbO₂ cathode, H₂SO₄ electrolyte.",
+          "keywords": [
+            {
+              "term": "Electrochemical Cell",
+              "definition": "A system that incorporates a redox reaction to produce or use electrical energy."
+            },
+            {
+              "term": "Galvanic (Voltaic) Cell",
+              "definition": "An electrochemical cell in which chemical energy is converted into electrical energy via a spontaneous redox reaction."
+            },
+            {
+              "term": "Electrolytic Cell",
+              "definition": "An electrochemical cell in which electrical energy is used to drive a non-spontaneous redox reaction."
+            },
+            {
+              "term": "Electrode",
+              "definition": "A strip of metal or graphite that allows electrons to enter or leave an electrolyte."
+            },
+            {
+              "term": "Anode",
+              "definition": "The electrode where oxidation occurs (negative in galvanic cell, positive in electrolytic cell)."
+            },
+            {
+              "term": "Cathode",
+              "definition": "The electrode where reduction occurs (positive in galvanic cell, negative in electrolytic cell)."
+            },
+            {
+              "term": "Salt Bridge",
+              "definition": "A device that maintains electrical neutrality between the two half-cells of a galvanic cell."
+            },
+            {
+              "term": "Primary Cell",
+              "definition": "A voltaic cell that is not rechargeable."
+            },
+            {
+              "term": "Secondary Cell (Rechargeable Cell)",
+              "definition": "A voltaic cell that can be recharged by reversing the electron flow."
+            },
+            {
+              "term": "Half-Cell Reaction",
+              "definition": "The reaction occurring at a single electrode in an electrochemical cell."
+            }
+          ]
+        },
+        {
+          "section": "4.4 Electrolysis",
+          "summary": "Electrolysis is the process of using electrical energy to drive a non-spontaneous chemical reaction in an electrolytic cell. Oxidation occurs at the anode, reduction at the cathode. Electrolysis of molten salts (e.g., NaCl, PbBr₂) produces metals and non-metals. Faraday's laws (mentioned in text) relate the amount of substance produced to the quantity of electricity passed.",
+          "notes": "Electrolysis: electrical energy driving a nonspontaneous reaction. Electrolytic cell: uses DC source. Electrolyte: molten or dissolved ionic compound. Cation: positive ion, migrates to cathode (reduction). Anion: negative ion, migrates to anode (oxidation). Electrolysis of molten NaCl: 2Na⁺ + 2e⁻ → 2Na(l) (cathode), 2Cl⁻ → Cl₂(g) + 2e⁻ (anode). Electrolysis of molten PbBr₂: Pb²⁺ + 2e⁻ → Pb(l) (cathode), 2Br⁻ → Br₂(g) + 2e⁻ (anode).",
+          "keywords": [
+            {
+              "term": "Electrolysis",
+              "definition": "The process by which electrical energy is used to drive a non-spontaneous chemical reaction."
+            },
+            {
+              "term": "Cation",
+              "definition": "A positively charged ion that migrates toward the cathode in electrolysis."
+            },
+            {
+              "term": "Anion",
+              "definition": "A negatively charged ion that migrates toward the anode in electrolysis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Metals and Nonmetals",
+      "sections": [
+        {
+          "section": "5.1 Introduction",
+          "summary": "Natural resources are classified as renewable (can be replenished, e.g., water, air) and non-renewable (fixed amount, e.g., fossil fuels, minerals). Metals and nonmetals are obtained from the Earth's crust, oceans, and atmosphere. Metallic minerals contain metallic elements; non-metallic minerals do not.",
+          "notes": "Natural resources: renewable (replenished by natural processes) and non-renewable (fixed amount). Metallic minerals: contain metals (e.g., hematite Fe₂O₃). Non-metallic minerals: do not contain metals (e.g., diamond, gravel).",
+          "keywords": [
+            {
+              "term": "Renewable Resource",
+              "definition": "A natural resource that can be replenished by natural processes."
+            },
+            {
+              "term": "Non-renewable Resource",
+              "definition": "A natural resource found in a fixed amount and cannot be replenished."
+            },
+            {
+              "term": "Metallic Mineral",
+              "definition": "A mineral that contains one or more metallic elements."
+            },
+            {
+              "term": "Non-metallic Mineral",
+              "definition": "A mineral that does not contain metals."
+            }
+          ]
+        },
+        {
+          "section": "5.2 General Properties of Metals and Production of Some Metals",
+          "summary": "Metals are lustrous, malleable, ductile, good conductors of heat/electricity, and have high density. They are reducing agents, form basic oxides, and react with acids to produce H₂. The reactivity series arranges metals by activity. Extraction involves concentration, reduction, and purification. Alloys are mixtures of metals (or metals and nonmetals) with enhanced properties. Aluminium is extracted by electrolysis (Hall-Héroult process). Iron is extracted in a blast furnace, and steel is produced by refining pig iron. Copper is extracted from its ores by smelting and purified by electrolysis.",
+          "notes": "Properties of metals: lustrous, malleable, ductile, good conductors, high density, sonorous. Chemical: lose electrons (reducing agents), form basic oxides, react with acids to produce H₂. Reactivity series: K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au. Ore: mineral from which metal can be profitably extracted. Gangue: impurities in ore. Metallurgy: science of extracting metals and making alloys. Alloys: mixtures of metals (or metals/nonmetals) to improve properties (hardness, corrosion resistance). Extraction steps: 1. Concentration of ore. 2. Production of metal (reduction). 3. Purification. Aluminium (Al): extracted by electrolysis of Al₂O₃ in molten cryolite (Hall-Héroult process). Iron (Fe): extracted in blast furnace using Fe₂O₃, coke, limestone. Pig iron (impure), cast iron, wrought iron (purest). Steel making: removal of impurities by oxidation (Bessemer converter, open-hearth, basic oxygen process). Copper (Cu): extracted from chalcopyrite by roasting, smelting (blister copper), and electrolytic refining.",
+          "keywords": [
+            {
+              "term": "Malleable",
+              "definition": "Can be beaten into thin sheets."
+            },
+            {
+              "term": "Ductile",
+              "definition": "Can be drawn into wires."
+            },
+            {
+              "term": "Reactivity Series",
+              "definition": "A list of metals arranged in decreasing order of their activity."
+            },
+            {
+              "term": "Ore",
+              "definition": "A mineral from which a metal can be profitably extracted."
+            },
+            {
+              "term": "Gangue",
+              "definition": "Impurities in an ore, such as sand or other undesirable materials."
+            },
+            {
+              "term": "Metallurgy",
+              "definition": "The science and technology of extracting metals from their ores and making alloys."
+            },
+            {
+              "term": "Alloy",
+              "definition": "A mixture of two or more metals, or a metal and a nonmetal, that has metallic properties."
+            },
+            {
+              "term": "Cryolite (Na₃AlF₆)",
+              "definition": "A mineral added to Al₂O₃ to reduce its melting point in the Hall-Héroult process."
+            },
+            {
+              "term": "Blast Furnace",
+              "definition": "A furnace used for the extraction of iron, where iron ore, coke, and limestone are heated with a blast of hot air."
+            },
+            {
+              "term": "Pig Iron",
+              "definition": "The impure form of iron obtained directly from the blast furnace, containing high carbon content."
+            },
+            {
+              "term": "Wrought Iron",
+              "definition": "The purest form of commercial iron, obtained by removing most impurities from pig iron."
+            },
+            {
+              "term": "Steel",
+              "definition": "An alloy of iron with a specific amount of carbon, and often other metals, to improve properties."
+            },
+            {
+              "term": "Blister Copper",
+              "definition": "The impure form of copper (98.5-99.5% pure) obtained from smelting, which has a blistered appearance."
+            },
+            {
+              "term": "Thermite Welding",
+              "definition": "A welding process using the reaction of aluminium with iron oxide to produce molten iron."
+            }
+          ]
+        },
+        {
+          "section": "5.3 Production of Some Important Nonmetals",
+          "summary": "Nonmetals have properties opposite to metals: are non-lustrous, non-malleable, poor conductors, and are oxidizing agents. Nitrogen is obtained by fractional distillation of liquid air and is relatively inert. Phosphorus has allotropes (white, red) and is extracted from phosphate rock. Oxygen is obtained from liquid air and supports combustion. Sulphur is extracted by the Frasch process and is used to make sulfuric acid. Chlorine is manufactured by electrolysis of brine and is a powerful oxidizing agent used for bleaching and disinfection.",
+          "notes": "Properties of nonmetals: non-lustrous, non-malleable/non-ductile, poor conductors, low density, non-sonorous. Nitrogen (N₂): from fractional distillation of liquid air. Inert, reacts with Li, Ca, Mg to form nitrides, with O₂ at high T to form NO and NO₂. Used in Haber process for NH₃. Phosphorus (P): from phosphate rock (Ca₃(PO₄)₂) with coke and silica in electric furnace. White P (reactive, stored under water), Red P (stable). Forms P₄O₆, P₄O₁₀, PCl₃, PCl₅. Oxygen (O₂): from fractional distillation of liquid air. Supports combustion, reacts with metals (basic oxides) and nonmetals (acidic oxides). Ozone (O₃) allotrope. Sulphur (S): from underground deposits via Frasch process (superheated water + hot air). Allotropes: rhombic, monoclinic. Reacts with metals (sulphides) and O₂ (SO₂, SO₃). Contact process for H₂SO₄. Chlorine (Cl₂): from electrolysis of brine (NaCl solution). Greenish-yellow gas, strong oxidizing agent. Reacts with metals (chlorides), H₂ (HCl), displaces Br₂ and I₂ from their salts. Used as bleach and disinfectant.",
+          "keywords": [
+            {
+              "term": "Allotropy",
+              "definition": "The existence of an element in two or more different forms in the same physical state, with different physical properties."
+            },
+            {
+              "term": "Allotrope",
+              "definition": "A different form of an element with the same physical state but different physical properties."
+            },
+            {
+              "term": "White Phosphorus",
+              "definition": "An allotrope of phosphorus, a waxy solid that is highly reactive and spontaneously ignites in air; stored under water."
+            },
+            {
+              "term": "Red Phosphorus",
+              "definition": "An allotrope of phosphorus, a denser and much less reactive form than white phosphorus."
+            },
+            {
+              "term": "Frasch Process",
+              "definition": "A method for extracting elemental sulfur from underground deposits using superheated water and compressed air."
+            },
+            {
+              "term": "Haber Process",
+              "definition": "An industrial process for synthesizing ammonia from nitrogen and hydrogen."
+            },
+            {
+              "term": "Contact Process",
+              "definition": "An industrial process for manufacturing sulfuric acid from sulfur dioxide, oxygen, and water."
+            },
+            {
+              "term": "Halogen",
+              "definition": "An element in Group VIIA of the periodic table (F, Cl, Br, I, At)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Hydrocarbons and Their Natural Sources",
+      "sections": [
+        {
+          "section": "6.1 Introduction",
+          "summary": "Organic chemistry is the study of carbon compounds, excluding simple compounds like oxides, carbonates, and carbides. The theory of vitalism, which stated organic compounds could only be produced by living organisms, was disproven by Wöhler's synthesis of urea. Carbon's unique property of catenation allows it to form long chains and rings, leading to a vast number of organic compounds. Organic compounds are classified by functional groups, which are groups of atoms that give characteristic chemical behavior.",
+          "notes": "Organic chemistry: study of carbon compounds (except CO, CO₂, carbonates, cyanides, etc.). Vitalism: theory that organic compounds require a 'life force' to be made, disproven by Wöhler's synthesis of urea (1828). Catenation: ability of carbon atoms to bond to each other to form chains and rings. Functional group: a specific group of atoms within a molecule that has characteristic chemical properties. Structural representations: complete structural formula (shows all bonds), condensed structural formula (omits some bonds), bond-line formula (shows only C-C bonds, C and H implied), polygon formula (for rings).",
+          "keywords": [
+            {
+              "term": "Organic Chemistry",
+              "definition": "The study of carbon compounds, excluding the oxides of carbon, carbonates, hydrogen carbonates, cyanides, and cyanates."
+            },
+            {
+              "term": "Catenation",
+              "definition": "The ability of atoms of the same element to join together to form short or long chains and rings."
+            },
+            {
+              "term": "Vitalism",
+              "definition": "The theory that organic compounds could only be synthesized by living organisms through a 'vital force'."
+            },
+            {
+              "term": "Functional Group",
+              "definition": "A group of atoms and/or bonds within a molecule that has a characteristic chemical behavior."
+            },
+            {
+              "term": "Condensed Structural Formula",
+              "definition": "An abbreviated form of a structural formula where some or all of the covalent bond dashes are omitted."
+            },
+            {
+              "term": "Bond-Line Structural Representation",
+              "definition": "A structural representation where carbon and hydrogen atoms are not shown, but are implied by lines and corners."
+            }
+          ]
+        },
+        {
+          "section": "6.2 Saturated Hydrocarbons: Alkanes (CnH2n+2)",
+          "summary": "Alkanes are saturated hydrocarbons containing only C-C and C-H single bonds. They form a homologous series with general formula CₙH₂ₙ₊₂. Physical properties: low polarity, increasing boiling point with molecular weight, insoluble in water. Nomenclature follows IUPAC rules for naming parent chains and substituents (alkyl groups). Alkanes exhibit structural isomerism. Preparation methods include hydrogenation of alkenes, Wurtz reaction, and decarboxylation of carboxylates. Chemical properties: combustion (with O₂), substitution (halogenation by Cl₂/Br₂ with light/heat), and elimination (cracking). Cycloalkanes are ring structures with formula CₙH₂ₙ.",
+          "notes": "Alkanes: saturated hydrocarbons, general formula CₙH₂ₙ₊₂. First four are gases at room temperature, C₅-C₁₇ liquids, C₁₈+ solids. Nonpolar, insoluble in water, low density. IUPAC nomenclature: find longest chain (parent), number to give lowest locants to substituents, name substituents alphabetically (with di, tri, tetra prefixes for identical groups). Alkyl groups: remove H from alkane, named with -yl (e.g., methyl, ethyl, propyl). Isomerism: structural isomers with same formula, different connectivity (e.g., butane and isobutane). Preparation: 1. Hydrogenation of alkenes. 2. Wurtz reaction (2R-X + 2Na → R-R + 2NaX). 3. Decarboxylation (RCOONa + NaOH → R-H + Na₂CO₃). Chemical properties: 1. Combustion (CₙH₂ₙ₊₂ + (3n+1)/2 O₂ → nCO₂ + (n+1)H₂O + heat). 2. Substitution (halogenation in light/heat, e.g., CH₄ + Cl₂ → CH₃Cl + HCl). 3. Cracking (thermal decomposition to smaller hydrocarbons).",
+          "keywords": [
+            {
+              "term": "Saturated Hydrocarbon",
+              "definition": "A hydrocarbon that contains only single bonds and the maximum number of hydrogen atoms."
+            },
+            {
+              "term": "Alkane",
+              "definition": "A saturated hydrocarbon with the general formula CₙH₂ₙ₊₂."
+            },
+            {
+              "term": "Homologous Series",
+              "definition": "A series of compounds where each member differs from the next by a constant unit, e.g., -CH₂-."
+            },
+            {
+              "term": "Homologue",
+              "definition": "A member of a homologous series."
+            },
+            {
+              "term": "Alkyl Group",
+              "definition": "A group formed by removing one hydrogen atom from an alkane, with a name ending in -yl (e.g., CH₃- is methyl)."
+            },
+            {
+              "term": "Structural Isomer",
+              "definition": "A compound with the same molecular formula but a different structural arrangement of atoms."
+            },
+            {
+              "term": "Isomerism",
+              "definition": "The existence of two or more compounds with the same molecular formula but different structures."
+            },
+            {
+              "term": "Wurtz Reaction",
+              "definition": "A reaction to form an alkane by reacting a halogenated alkane with sodium metal."
+            },
+            {
+              "term": "Decarboxylation",
+              "definition": "A reaction that removes the carboxylate group from a carboxylic acid salt, producing an alkane."
+            },
+            {
+              "term": "Substitution Reaction",
+              "definition": "A reaction in which one atom or group of atoms is replaced by another atom or group of atoms."
+            },
+            {
+              "term": "Free Radical",
+              "definition": "An atom or group of atoms possessing an unpaired electron, highly reactive."
+            },
+            {
+              "term": "Cycloalkane (Alicyclic Hydrocarbon)",
+              "definition": "A saturated hydrocarbon containing a ring of carbon atoms, with the general formula CₙH₂ₙ."
+            }
+          ]
+        },
+        {
+          "section": "6.3 Unsaturated Hydrocarbons: Alkenes, Alkynes, and Aromatic Hydrocarbons",
+          "summary": "Alkenes (CₙH₂ₙ) contain a carbon-carbon double bond and are more reactive than alkanes. They show structural, position, and geometrical (cis-trans) isomerism. Preparation includes dehydration of alcohols and dehydrohalogenation of alkyl halides. Chemical properties: combustion, addition reactions (hydrogenation, halogenation, hydrohalogenation, hydration, oxidation, polymerization). Alkynes (CₙH₂ₙ₋₂) contain a triple bond, similar properties to alkenes but more unsaturated. They also undergo combustion and addition (including two-step addition).",
+          "notes": "Alkenes (olefins): unsaturated hydrocarbons with C=C, general formula CₙH₂ₙ. First three: ethene, propene, butene. Nomenclature: select longest chain containing C=C, change -ane to -ene, number to give double bond lowest locant. Isomerism: chain, position, and geometrical (cis-trans when different groups on each double bond carbon). Preparation: 1. Dehydration of alcohols (H₂SO₄, heat). 2. Dehydrohalogenation of alkyl halides (KOH/alcohol). Chemical properties: 1. Combustion (luminous flame). 2. Addition (characteristic): hydrogenation (to alkane), halogenation (Br₂/CCl₄ decolorization test), hydrohalogenation (Markovnikov's rule: H adds to C with more H's, halogen to C with fewer), hydration (to alcohol, Markovnikov). Oxidation (alkaline KMnO₄ decolorization/Baeyer's test). Polymerization (monomers to polymers). Alkynes: unsaturated with C≡C, general formula CₙH₂ₙ₋₂. First member: ethyne (acetylene). Nomenclature similar to alkenes with -yne suffix. Isomerism: chain and position. Preparation: dehydrohalogenation of vicinal dihalides, reaction of CaC₂ with water. Chemical properties: combustion (sooty, luminous flame), addition (two-step: alkyne → alkene → alkane, e.g., halogenation, hydrogenation). Trimerization of acetylene to benzene.",
+          "keywords": [
+            {
+              "term": "Unsaturated Hydrocarbon",
+              "definition": "A hydrocarbon that contains one or more double or triple bonds and has fewer than the maximum number of hydrogen atoms."
+            },
+            {
+              "term": "Alkene (Olefin)",
+              "definition": "An unsaturated hydrocarbon containing at least one carbon-carbon double bond, with general formula CₙH₂ₙ."
+            },
+            {
+              "term": "Alkyne",
+              "definition": "An unsaturated hydrocarbon containing at least one carbon-carbon triple bond, with general formula CₙH₂ₙ₋₂."
+            },
+            {
+              "term": "Geometrical Isomerism (Cis-Trans Isomerism)",
+              "definition": "A type of isomerism due to the restricted rotation about a double bond, where similar groups are on the same (cis) or opposite (trans) sides."
+            },
+            {
+              "term": "Markovnikov's Rule",
+              "definition": "In the addition of HX to an alkene or alkyne, the hydrogen atom adds to the carbon of the multiple bond that has the greater number of hydrogen atoms."
+            },
+            {
+              "term": "Addition Reaction",
+              "definition": "A reaction in which a molecule adds to a multiple bond, increasing the number of atoms in the molecule."
+            },
+            {
+              "term": "Hydrogenation",
+              "definition": "The addition of hydrogen to an unsaturated compound, typically in the presence of a catalyst."
+            },
+            {
+              "term": "Halogenation",
+              "definition": "The addition of a halogen (e.g., Cl₂, Br₂) to an unsaturated compound."
+            },
+            {
+              "term": "Hydration",
+              "definition": "The addition of water to an unsaturated compound, forming an alcohol."
+            },
+            {
+              "term": "Polymerization",
+              "definition": "The union of small molecules (monomers) to form a large molecule (polymer)."
+            },
+            {
+              "term": "Baeyer's Reagent",
+              "definition": "Cold alkaline potassium permanganate (KMnO₄), used to test for unsaturation (decolorization)."
+            },
+            {
+              "term": "Oxy-acetylene Torch",
+              "definition": "A welding and cutting torch using the combustion of acetylene with oxygen to produce a very hot flame."
+            }
+          ]
+        },
+        {
+          "section": "6.4 Aromatic Hydrocarbons: Benzene",
+          "summary": "Aromatic hydrocarbons contain a benzene ring (C₆H₆) or related structures. Benzene has a resonance structure with alternating single and double bonds, contributing to its stability. Benzene undergoes substitution reactions (halogenation, nitration, sulfonation) rather than addition, and does not decolorize Br₂ or KMnO₄. It combusts with a smoky flame. Nomenclature for substituted benzenes uses prefixes like ortho (o), meta (m), para (p) for disubstituted benzenes.",
+          "notes": "Aromatic hydrocarbons: contain benzene ring. Benzene: C₆H₆, planar ring with delocalized electrons (resonance hybrid of Kekulé structures). Stable, does not undergo typical alkene addition reactions. Physical properties: colorless liquid, flammable, carcinogenic. Chemical properties: 1. Combustion (smoky flame). 2. Substitution reactions (characteristic): halogenation (with Cl₂/Br₂, FeCl₃/AlCl₃ catalyst), nitration (HNO₃/H₂SO₄), sulfonation (H₂SO₄). 3. Addition (special conditions, e.g., hydrogenation to cyclohexane with Ni). Nomenclature: monosubstituted (e.g., methylbenzene/toluene, hydroxybenzene/phenol). Disubstituted: ortho (1,2), meta (1,3), para (1,4) or using numbers.",
+          "keywords": [
+            {
+              "term": "Aromatic Hydrocarbon",
+              "definition": "A hydrocarbon that contains a benzene ring or related structures."
+            },
+            {
+              "term": "Benzene",
+              "definition": "The simplest aromatic hydrocarbon, with the molecular formula C₆H₆ and a resonance-stabilized ring structure."
+            },
+            {
+              "term": "Kekulé Structure",
+              "definition": "A proposed structure for benzene with alternating single and double bonds in a ring."
+            },
+            {
+              "term": "Resonance Hybrid",
+              "definition": "The true structure of a molecule that is an average of two or more contributing structures, as in benzene."
+            },
+            {
+              "term": "Nitration",
+              "definition": "The substitution of a nitro group (-NO₂) onto a benzene ring, using concentrated nitric and sulfuric acids."
+            },
+            {
+              "term": "Sulfonation",
+              "definition": "The substitution of a sulfonic acid group (-SO₃H) onto a benzene ring, using concentrated sulfuric acid."
+            },
+            {
+              "term": "Toluene",
+              "definition": "The common name for methylbenzene (C₆H₅CH₃)."
+            },
+            {
+              "term": "Phenol",
+              "definition": "The common name for hydroxybenzene (C₆H₅OH)."
+            }
+          ]
+        },
+        {
+          "section": "6.5 Natural Sources of Hydrocarbons",
+          "summary": "The major natural sources of hydrocarbons are natural gas and petroleum (crude oil), followed by coal. Natural gas is primarily methane. Crude oil is a complex mixture of hydrocarbons separated by fractional distillation into fractions with different boiling points and uses (e.g., gasoline, kerosene, diesel). Cracking and reforming are processes used to improve fuel quality (octane rating). Coal is an important source of aromatic hydrocarbons through destructive distillation.",
+          "notes": "Natural gas: mainly methane (CH₄), also ethane, propane, butane. Found underground, used as fuel. Petroleum (crude oil): complex mixture of alkanes, cycloalkanes, aromatic hydrocarbons. Refined by fractional distillation. Fractions: natural gases (C₁-C₄), petroleum ether (C₅-C₇), gasoline/petrol (C₅-C₁₀), kerosene (C₁₂-C₁₈), diesel/fuel oil (C₁₅-C₁₈), lubricating oil (>C₁₉), residue (>C₂₀). Octane number: measure of fuel's anti-knock properties (0 for heptane, 100 for isooctane). Cracking: breaking large hydrocarbons into smaller, more valuable ones (e.g., for gasoline). Reforming: converting alkanes to aromatics to increase octane rating. Coal: formed from plant matter, source of aromatic hydrocarbons via destructive distillation (heating in absence of air). Products: coal gas, coal tar, coke.",
+          "keywords": [
+            {
+              "term": "Natural Gas",
+              "definition": "A mixture of gases, chiefly methane, found in underground deposits and used as a fuel."
+            },
+            {
+              "term": "Petroleum (Crude Oil)",
+              "definition": "A complex mixture of hydrocarbons found underground, refined to produce fuels and other products."
+            },
+            {
+              "term": "Fractional Distillation",
+              "definition": "A process that separates a mixture into its components based on differences in their boiling points."
+            },
+            {
+              "term": "Cracking",
+              "definition": "The decomposition of large hydrocarbon molecules into smaller ones by heating, often in the presence of a catalyst."
+            },
+            {
+              "term": "Reforming",
+              "definition": "A process that converts straight-chain alkanes into branched alkanes or aromatic hydrocarbons to increase octane rating."
+            },
+            {
+              "term": "Octane Number",
+              "definition": "A measure of a fuel's resistance to engine knocking, based on the percentage of isooctane in a mixture."
+            },
+            {
+              "term": "Destructive Distillation (Coking)",
+              "definition": "The heating of coal in the absence of air to produce coal gas, coal tar, and coke."
+            },
+            {
+              "term": "Coal Tar",
+              "definition": "A dark liquid produced from the destructive distillation of coal, containing aromatic hydrocarbons."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "presentation_slides": [
+    {
+      "chapter": 1,
+      "title": "Chemical Reactions and Stoichiometry",
+      "section": "1.1 Introduction",
+      "slides": [
+        {
+          "slide_number": 1,
+          "title": "Introduction to Chemical Reactions",
+          "content": "Change is the law of nature. We observe various types of changes around us, such as the growth of a plant, burning of wood, rusting of iron, rotting of food, and evaporation of liquids.",
+          "notes": "Scientists categorize changes as physical and chemical."
+        },
+        {
+          "slide_number": 2,
+          "title": "Physical and Chemical Changes",
+          "content": "Physical Change: A change that does not involve the formation of a new substance with a new chemical composition. Examples: Evaporation of liquids, powdering of sugar, melting of ice.\nChemical Change: A change that results in the formation of one or more new substances with new chemical compositions. Examples: Turning of milk into curd, photosynthesis, rotting of egg.",
+          "notes": "Chemical changes occur due to chemical reactions between substances."
+        },
+        {
+          "slide_number": 3,
+          "title": "Characteristics of Chemical Reactions",
+          "content": "A chemical reaction is the process in which reacting substances (reactants) are converted into new substances (products). Characteristics include: i. Formation of new substances, ii. Production of heat or light or both, iii. Change in color, iv. Change in temperature.",
+          "notes": "The characteristics of products are completely different from those of reactants."
+        },
+        {
+          "slide_number": 4,
+          "title": "Representation and Study of Chemical Reactions",
+          "content": "A chemical reaction is represented by a chemical equation. A balanced chemical equation describes the relationships between the amounts of reactants and products. The quantitative study of reactants and products is called reaction's stoichiometry.",
+          "notes": "This unit covers types of chemical reactions, chemical equations, redox reactions, chemical formulas, masses of compounds, mole concepts, and reaction's stoichiometry."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "1.2 Chemical Equations",
+      "slides": [
+        {
+          "slide_number": 5,
+          "title": "Introduction to Chemical Equations",
+          "content": "A chemical equation is a shorthand representation of an actual chemical reaction in terms of chemical symbols and formulas. Reactants are written on the left side and products on the right side of the equation. An arrow (→) is placed between the two sides.",
+          "notes": "Reactants → Products"
+        },
+        {
+          "slide_number": 6,
+          "title": "Writing a Chemical Equation",
+          "content": "Steps to write a chemical equation: 1. Write a word equation. 2. Write the symbols and formulas for the reactants and products. 3. Balance the equation.",
+          "notes": "Example: Hydrogen + Nitrogen → Ammonia becomes H₂ + N₂ → NH₃ (unbalanced). Then balance to 3H₂ + N₂ → 2NH₃."
+        },
+        {
+          "slide_number": 7,
+          "title": "Physical States in Equations",
+          "content": "Physical states can be added after formulas: (s) = solid, (l) = liquid, (g) = gas, (aq) = aqueous solution. Example: CaCO₃(s) + H₂SO₄(l) → CaSO₄(s) + H₂O(l) + CO₂(g)",
+          "notes": "A chemical equation must represent a true reaction, have correct formulas, and be balanced."
+        },
+        {
+          "slide_number": 8,
+          "title": "Balancing Chemical Equations: Inspection Method",
+          "content": "Inspection Method (Trial and Error): Balance by inspecting the equation. Steps: 1. Write word equation. 2. Write correct symbols/formulas. 3. Count atoms on both sides. 4. Use coefficients to equalize atoms.",
+          "notes": "Example: Fe + H₂O → Fe₃O₄ + H₂. Balance Fe: 3Fe + H₂O → Fe₃O₄ + H₂. Balance O: 3Fe + 4H₂O → Fe₃O₄ + H₂. Balance H: 3Fe + 4H₂O → Fe₃O₄ + 4H₂."
+        },
+        {
+          "slide_number": 9,
+          "title": "Balancing Chemical Equations: LCM and Algebraic Methods",
+          "content": "LCM Method: Uses Least Common Multiple of total valencies to find coefficients. Algebraic Method: Assigns variables to coefficients and solves mathematical equations.",
+          "notes": "LCM Example: Al + O₂ → Al₂O₃. Valencies: Al=3, O₂=4, Al₂O₃=6,6. LCM=12. Divide: 12/3=4 Al, 12/4=3 O₂, 12/6=2 Al₂O₃. Balanced: 4Al + 3O₂ → 2Al₂O₃.\nAlgebraic Example: Al + O₂ → Al₂O₃. aAl + bO₂ → cAl₂O₃. Solve a=2c, 2b=3c. Let a=1, c=0.5, b=0.75. Multiply by 4: a=4, b=3, c=2. Balanced: 4Al + 3O₂ → 2Al₂O₃."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "1.3 Types of Chemical Reactions",
+      "slides": [
+        {
+          "slide_number": 10,
+          "title": "Types of Chemical Reactions",
+          "content": "Chemical reactions can be classified into four basic types: Combination, Decomposition, Single Displacement, and Double Displacement.",
+          "notes": "A complete understanding of these reaction types will help predict the products of unknown reactions."
+        },
+        {
+          "slide_number": 11,
+          "title": "Combination Reactions",
+          "content": "Combination Reaction (Synthesis): Two or more substances react to form a single compound. General form: A + B → AB.\nExamples: 2Na + Cl₂ → 2NaCl (Element + Element → Compound). CaO + CO₂ → CaCO₃ (Compound + Compound → Compound).",
+          "notes": "Experiment 1.1: Reaction between iron and sulfur. Fe + S → FeS."
+        },
+        {
+          "slide_number": 12,
+          "title": "Decomposition Reactions",
+          "content": "Decomposition Reaction: A single compound breaks down into two or more elements or simpler compounds. General form: AB → A + B.\nExamples: 2HgO(s) → 2Hg(l) + O₂(g) (Thermal decomposition). 2KClO₃(s) → 2KCl(s) + 3O₂(g).",
+          "notes": "Experiment 1.2: Decomposition of CuCO₃. CuCO₃(s) → CuO(s) + CO₂(g)."
+        },
+        {
+          "slide_number": 13,
+          "title": "Single Displacement Reactions",
+          "content": "Single Displacement Reaction: One element displaces another from a compound. Metal displacement: A + BC → BA + C (if A is more active metal). Non-metal displacement: A + BC → AC + B (if A is more active non-metal).\nExamples: Zn + 2HCl → ZnCl₂ + H₂. 2Na + 2H₂O → 2NaOH + H₂. Fe + CuSO₄ → FeSO₄ + Cu.",
+          "notes": "A more reactive element displaces a less reactive element from a compound."
+        },
+        {
+          "slide_number": 14,
+          "title": "Double Displacement Reactions",
+          "content": "Double Displacement Reaction: Two compounds react by exchanging ions to form two new compounds. General form: AB + CD → AD + CB.\nExamples: AgNO₃ + NaCl → AgCl(s) + NaNO₃. BaCl₂ + Na₂SO₄ → BaSO₄(s) + 2NaCl. Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂.",
+          "notes": "Often involves formation of a precipitate (insoluble solid)."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "1.4 Oxidation and Reduction Reactions",
+      "slides": [
+        {
+          "slide_number": 15,
+          "title": "Oxidation and Reduction (Redox) Reactions",
+          "content": "Oxidation: Loss of electrons by an atom, or an increase in oxidation number. Reduction: Gain of electrons by an atom, or a decrease in oxidation number. Redox reactions involve electron transfer.\nExample: Zn + CuSO₄ → ZnSO₄ + Cu. Zn is oxidized (0 to +2), Cu²⁺ is reduced (+2 to 0).",
+          "notes": "Oxidation and reduction occur simultaneously."
+        },
+        {
+          "slide_number": 16,
+          "title": "Oxidation Number (State)",
+          "content": "Oxidation number is the apparent charge an atom would have if all bonds were ionic. Rules: 1. Uncombined elements: 0. 2. Monatomic ions: charge. 3. Oxygen: -2 (except peroxides -1, superoxides -1/2, OF₂ +2). 4. Hydrogen: +1 (except metal hydrides -1). 5. Sum for neutral compound = 0. 6. Sum for polyatomic ion = charge. 7. Group IA: +1, Group IIA: +2.",
+          "notes": "Example: In HNO₃, H=+1, O=-2, N=+5 (x + 1 + 3(-2) = 0 => x=+5). In Cr₂O₇²⁻, O=-2, 2x + 7(-2) = -2 => x=+6."
+        },
+        {
+          "slide_number": 17,
+          "title": "Oxidizing and Reducing Agents",
+          "content": "Oxidizing Agent: Gains electrons, is reduced, causes oxidation. Reducing Agent: Loses electrons, is oxidized, causes reduction.\nExamples: Fe + O₂ → Fe₂O₃. Fe is oxidized (0 to +3), so Fe is reducing agent. O₂ is reduced (0 to -2), so O₂ is oxidizing agent.",
+          "notes": "Elements with high electronegativity are good oxidizing agents. Elements with low electronegativity (metals) are good reducing agents."
+        },
+        {
+          "slide_number": 18,
+          "title": "Balancing Redox Reactions (Oxidation-Number-Change Method)",
+          "content": "Method: 1. Assign oxidation numbers. 2. Identify atoms oxidized and reduced. 3. Connect atoms, write number change. 4. Use coefficients to make total increase equal to total decrease. 5. Check balance.\nExample: Fe₂O₃ + CO → Fe + CO₂. Fe is reduced (+3 to 0, decrease 3), C is oxidized (+2 to +4, increase 2). LCM of 2 and 3 is 6. Place 2 in front of Fe, 3 in front of CO and CO₂. Balanced: Fe₂O₃ + 3CO → 2Fe + 3CO₂.",
+          "notes": "Non-redox reactions: Neutralization and double displacement reactions are examples where oxidation numbers do not change."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "1.5 Molecular and Formula Masses, the Mole Concept and Chemical Formulas",
+      "slides": [
+        {
+          "slide_number": 19,
+          "title": "Molecular and Formula Mass",
+          "content": "Molecular Mass (MM): Sum of the masses of all atoms in a molecule. Formula Mass (FM): Sum of atomic masses of all atoms in a formula unit (used for ionic compounds).\nExample: MM of H₂O = 2(1 amu) + 16 amu = 18 amu. FM of NaCl = 23 amu + 35.5 amu = 58.5 amu.",
+          "notes": "MM and FM are used to calculate percentage composition of compounds."
+        },
+        {
+          "slide_number": 20,
+          "title": "The Mole and Avogadro's Number",
+          "content": "Mole: The amount of a substance that contains the same number of entities as there are atoms in exactly 12 g of carbon-12. Avogadro's Number (Nₐ) = 6.022 x 10²³ entities per mole. Molar Mass: The mass of one mole of a substance, expressed in g/mol.",
+          "notes": "Molar mass numerically equals molecular mass (in amu) but has units g/mol."
+        },
+        {
+          "slide_number": 21,
+          "title": "Chemical Formulas: Empirical and Molecular",
+          "content": "Empirical Formula: The simplest whole-number ratio of atoms in a compound. Molecular Formula: The actual number of atoms of each element in a molecule.\nExample: Benzene: Empirical formula = CH, Molecular formula = C₆H₆. Glucose: Empirical formula = CH₂O, Molecular formula = C₆H₁₂O₆.",
+          "notes": "Percent composition: (mass of element in compound / molar mass of compound) x 100%. It helps in determining empirical and molecular formulas."
+        },
+        {
+          "slide_number": 22,
+          "title": "Determination of Empirical and Molecular Formulas",
+          "content": "To determine empirical formula: 1. Convert masses to moles. 2. Divide by the smallest number of moles. 3. Multiply to get whole numbers if necessary. Molecular formula = Empirical formula × n, where n = molar mass of molecular formula / molar mass of empirical formula.\nExample: A compound contains 43.6% P and 56.4% O. Moles P=43.6/31=1.41, O=56.4/16=3.53. Ratio P:O = 1.41:3.53 = 1:2.5. Multiply by 2: P₂O₅. If molar mass is 284, n=284/(2*31+5*16)=284/142=2, so molecular formula = P₄O₁₀.",
+          "notes": "Percent composition must be known or calculated from masses."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "1.6 Stoichiometry",
+      "slides": [
+        {
+          "slide_number": 23,
+          "title": "Introduction to Stoichiometry",
+          "content": "Stoichiometry is the study of the quantitative relationships between reactants and products in chemical reactions. It is based on: 1. Definite formulas for substances. 2. Law of Conservation of Mass. Stoichiometric calculations are done for balanced chemical equations.",
+          "notes": "Types of problems: mass-mass, mass-volume, volume-volume, and limiting reactant calculations."
+        },
+        {
+          "slide_number": 24,
+          "title": "Mass-Mass Relationships",
+          "content": "Mass-mass problems involve calculating the mass of one substance from the mass of another using mole ratios. Steps: 1. Write balanced equation. 2. Convert given mass to moles. 3. Use mole ratio to find moles of desired substance. 4. Convert moles to mass.\nExample: 4Al + 3O₂ → 2Al₂O₃. How many grams of Al are needed to produce 20.4 g of Al₂O₃? Moles Al₂O₃ = 20.4/102 = 0.2 mol. Moles Al = 0.2 mol × 4/2 = 0.4 mol. Mass Al = 0.4 mol × 27 g/mol = 10.8 g.",
+          "notes": "The mole ratio is derived from the coefficients of the balanced equation."
+        },
+        {
+          "slide_number": 25,
+          "title": "Volume-Volume and Mass-Volume Relationships",
+          "content": "At STP (0°C, 1 atm), 1 mole of any gas occupies 22.4 L (Molar Volume). Volume-volume problems use Avogadro's law: equal volumes of gases at the same T and P contain equal numbers of molecules.\nExample: CH₄ + 2O₂ → CO₂ + 2H₂O. What volume of O₂ reacts with CH₄ to produce 44.8 L of CO₂? Volume ratio: 2 L O₂ / 1 L CO₂. V(O₂) = 44.8 L × 2/1 = 89.6 L.\nMass-volume problems: Use moles to bridge between mass and volume.",
+          "notes": "Example: Mg + H₂SO₄ → MgSO₄ + H₂. How many grams of Mg react to produce 5.6 L H₂? Moles H₂ = 5.6/22.4 = 0.25 mol. Moles Mg = 0.25 mol. Mass Mg = 0.25 mol × 24 g/mol = 6 g."
+        },
+        {
+          "slide_number": 26,
+          "title": "Limiting and Excess Reactants",
+          "content": "Limiting Reactant: The reactant that is completely consumed first, limiting the amount of product formed. Excess Reactant: The reactant that remains after the reaction stops.\nExample: Mg + 2HCl → MgCl₂ + H₂. If 0.30 mol Mg reacts with 0.52 mol HCl: Using Mg: 0.30 mol Mg × (1 mol H₂ / 1 mol Mg) = 0.30 mol H₂. Using HCl: 0.52 mol HCl × (1 mol H₂ / 2 mol HCl) = 0.26 mol H₂. HCl gives less product, so HCl is the limiting reactant. Mg is in excess.",
+          "notes": "The theoretical yield is calculated based on the limiting reactant."
+        },
+        {
+          "slide_number": 27,
+          "title": "Theoretical, Actual, and Percentage Yields",
+          "content": "Theoretical Yield: The calculated amount of product from stoichiometry. Actual Yield: The measured amount obtained from an experiment. Percentage Yield = (Actual Yield / Theoretical Yield) × 100%.\nExample: 24.8 g CaCO₃ is heated to give 13.1 g CaO. CaCO₃ → CaO + CO₂. Moles CaCO₃ = 24.8/100 = 0.248 mol. Theoretical yield CaO = 0.248 mol × 56 g/mol = 13.9 g. Percentage Yield = (13.1 / 13.9) × 100% = 94.2%.",
+          "notes": "Actual yield is often less than theoretical yield due to side reactions, incomplete reactions, or loss during collection."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Solutions",
+      "sections": [
+        {
+          "section": "2.1 Heterogeneous and Homogeneous Mixtures",
+          "slides": [
+            {
+              "slide_number": 28,
+              "title": "Classification of Mixtures",
+              "content": "Mixtures are combinations of two or more substances where each keeps its own properties. Homogeneous Mixture: uniform composition throughout (solution). Heterogeneous Mixture: physically distinct parts (suspension, colloid).",
+              "notes": "Components of mixtures can be separated by physical means and have variable proportions."
+            },
+            {
+              "slide_number": 29,
+              "title": "Solutions, Suspensions, and Colloids",
+              "content": "Solution: Homogeneous mixture of solute and solvent. Solute: minor component, Solvent: major component. Suspension: Heterogeneous mixture with large particles that settle. Colloid: Heterogeneous with particles 1-100 nm, shows Tyndall effect (scatters light).",
+              "notes": "Colloids have dispersed phase and dispersion medium."
+            },
+            {
+              "slide_number": 30,
+              "title": "Types of Solutions and Colloids",
+              "content": "Types of Solutions: Gaseous (air), Liquid (soda, seawater), Solid (alloys). Types of Colloids: Aerosol (fog), Foam (shaving cream), Emulsion (milk), Sol (milk of magnesia), Gel (jelly), Solid sol (colored gemstone).",
+              "notes": "Examples of colloids: smoke (solid-gas), fog (liquid-gas)."
+            }
+          ]
+        },
+        {
+          "section": "2.2 The Solution Process",
+          "slides": [
+            {
+              "slide_number": 31,
+              "title": "The Solution Process and Intermolecular Forces",
+              "content": "Dissolution involves three steps: 1. Breaking solute-solute attractions. 2. Breaking solvent-solvent attractions. 3. Forming solute-solvent attractions. 'Like dissolves like' means substances with similar intermolecular forces dissolve in each other. Ion-dipole forces allow ionic compounds to dissolve in water.",
+              "notes": "Interparticle forces include dipole-dipole, dipole-induced dipole, dispersion forces, hydrogen bonding, and ion-dipole."
+            },
+            {
+              "slide_number": 32,
+              "title": "Solubility Rules and Rate of Dissolution",
+              "content": "Solubility Rules: All Group 1A and NH₄⁺ salts soluble. All acetates, nitrates, perchlorates soluble. Most chlorides, bromides, iodides soluble (except Ag⁺, Pb²⁺, Cu⁺, Hg₂²⁺). Most sulfates soluble (except Ba²⁺, Sr²⁺, Pb²⁺, Ca²⁺, Ag⁺, Hg²⁺). Carbonates, sulfides, oxides, phosphates insoluble (except with Group 1A and NH₄⁺). Rate of dissolution increases with surface area, temperature, and stirring.",
+              "notes": "Hydroxides of Group 1A are soluble, Group 2A are slightly soluble, transition metals and Al³⁺ are insoluble."
+            },
+            {
+              "slide_number": 33,
+              "title": "Energy Changes in Solution Process",
+              "content": "Heat of Solution (Enthalpy of Solution): Energy change during dissolution. Endothermic: absorbs heat (ΔH > 0, feels cold). Exothermic: releases heat (ΔH < 0, feels hot). Hydration Energy: energy released when ions are surrounded by water molecules. Lattice Energy: energy required to separate ions in crystal lattice. Lattice energy opposes dissolution.",
+              "notes": "NaOH dissolves exothermically (hot), NH₄NO₃ dissolves endothermically (cold)."
+            }
+          ]
+        },
+        {
+          "section": "2.3 Solubility as an Equilibrium Process",
+          "slides": [
+            {
+              "slide_number": 34,
+              "title": "Saturated, Unsaturated, and Supersaturated Solutions",
+              "content": "Saturated: contains maximum dissolved solute at a given temperature. Unsaturated: can dissolve more solute. Supersaturated: contains more solute than normal (metastable), crystallizes upon addition of a seed crystal.",
+              "notes": "A saturated solution is in equilibrium: rate of dissolution = rate of recrystallization."
+            },
+            {
+              "slide_number": 35,
+              "title": "Factors Affecting Solubility",
+              "content": "Temperature: Solubility of most solids increases with temperature. Solubility of gases decreases with temperature. Pressure: Has little effect on solids/liquids, significantly affects gases (Henry's Law). Henry's Law: C = kP (solubility of gas is proportional to partial pressure).",
+              "notes": "Examples: CO₂ solubility in soda increases with pressure (bottled under pressure). Decompression sickness (bends) is due to gas solubility changes."
+            }
+          ]
+        },
+        {
+          "section": "2.4 Ways of Expressing Concentration of Solution",
+          "slides": [
+            {
+              "slide_number": 36,
+              "title": "Concentration Units: Percent, ppm, ppb",
+              "content": "Mass Percentage (w/w) = (mass of solute / mass of solution) × 100%. Volume Percentage (v/v) = (volume of solute / volume of solution) × 100%. ppm = (mass of solute / mass of solution) × 10⁶. ppb = (mass of solute / mass of solution) × 10⁹. For dilute solutions, 1 ppm ≈ 1 mg/L.",
+              "notes": "Example: 5% (v/v) alcohol = 5 mL alcohol per 100 mL solution. 4 ppm lead = 4 mg lead per 1 L solution."
+            },
+            {
+              "slide_number": 37,
+              "title": "Mole Fraction, Molarity, Molality, and Normality",
+              "content": "Mole Fraction (X): moles of component / total moles. Molarity (M): moles of solute / liters of solution. Molality (m): moles of solute / kg of solvent. Normality (N): gram equivalents of solute / liters of solution. N = M × z (where z is H⁺, OH⁻, or electrons transferred).",
+              "notes": "Molarity depends on temperature (volume changes), molality does not. Example: 0.5 M H₂SO₄ has N = 1 N (z=2)."
+            }
+          ]
+        },
+        {
+          "section": "2.5 Preparation of Solutions",
+          "slides": [
+            {
+              "slide_number": 38,
+              "title": "Preparing Solutions and Dilutions",
+              "content": "Preparation of Stock Solutions: 1. Calculate mass required. 2. Weigh solute. 3. Dissolve in less than final volume of solvent. 4. Transfer to volumetric flask. 5. Dilute to mark. 6. Cap and label. Dilution: M₁V₁ = M₂V₂ (number of moles remains constant). Always add acid to water when diluting, not water to acid.",
+              "notes": "Example: 100 mL of 1 M NaOH: mass = M × V × molar mass = 1 mol/L × 0.1 L × 40 g/mol = 4 g."
+            }
+          ]
+        },
+        {
+          "section": "2.6 Solution Stoichiometry",
+          "slides": [
+            {
+              "slide_number": 39,
+              "title": "Stoichiometry of Reactions in Solution",
+              "content": "For reactions in solution, moles = M × V. Steps: 1. Balance equation. 2. Find moles of one substance from volume and molarity. 3. Use mole ratio to find moles of desired substance. 4. Convert to desired units.",
+              "notes": "Example: What mass of Mg(OH)₂ is produced from 45 mL of 0.63 M Mg(NO₃)₂? Moles Mg(NO₃)₂ = 0.045 L × 0.63 M = 0.028 mol. Stoichiometry: 1 mol Mg(NO₃)₂ → 1 mol Mg(OH)₂. Mass Mg(OH)₂ = 0.028 mol × 58 g/mol = 1.64 g."
+            }
+          ]
+        },
+        {
+          "section": "2.7 Describing Reactions in Solution",
+          "slides": [
+            {
+              "slide_number": 40,
+              "title": "Molecular, Ionic, and Net Ionic Equations",
+              "content": "Molecular Equation: reactants and products written as complete formulas. Complete Ionic Equation: soluble strong electrolytes written as ions. Spectator Ions: ions that appear on both sides. Net Ionic Equation: removes spectator ions, shows only reacting species.\nExample: AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq). Ionic: Ag⁺ + NO₃⁻ + Na⁺ + Cl⁻ → AgCl(s) + Na⁺ + NO₃⁻. Net: Ag⁺ + Cl⁻ → AgCl(s).",
+              "notes": "Spectator ions: Na⁺ and NO₃⁻."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Important Inorganic Compounds",
+      "sections": [
+        {
+          "section": "3.1 Introduction",
+          "slides": [
+            {
+              "slide_number": 41,
+              "title": "Introduction to Inorganic Compounds",
+              "content": "Inorganic compounds: compounds that do not contain carbon, except simple compounds like CO₂, CaCO₃, and SiC. They are of mineral origin and found in nonliving things. Classified into four groups: Oxides, Acids, Bases, and Salts.",
+              "notes": "Examples: NaCl (common salt), CaCO₃ (limestone)."
+            }
+          ]
+        },
+        {
+          "section": "3.2 Oxides",
+          "slides": [
+            {
+              "slide_number": 42,
+              "title": "Classification of Oxides",
+              "content": "Oxides: binary compounds of oxygen with another element. Acidic Oxides: non-metal oxides, form acids with water (CO₂, SO₂, N₂O₅). Basic Oxides: metal oxides, form bases with water (Na₂O, CaO, MgO). Amphoteric Oxides: react with both acids and bases (Al₂O₃, ZnO, PbO). Neutral Oxides: no acidic/basic properties (CO, N₂O). Peroxides: contain O-O bond, oxygen oxidation state -1 (H₂O₂, Na₂O₂).",
+              "notes": "Acid + Base → Salt + Water. Amphoteric oxides show both behaviors."
+            },
+            {
+              "slide_number": 43,
+              "title": "Properties of Oxides",
+              "content": "Acidic Oxides: react with water to form acids, with bases to form salts. Basic Oxides: react with water to form bases, with acids to form salts. Amphoteric Oxides: react with both acids and bases. Peroxides are strong oxidizing agents.\nExamples: CO₂ + H₂O → H₂CO₃. CaO + H₂O → Ca(OH)₂. Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O. Al₂O₃ + 2NaOH + 3H₂O → 2NaAl(OH)₄.",
+              "notes": "Peroxides: 2H₂O₂ → 2H₂O + O₂ (catalyzed by MnO₂)."
+            }
+          ]
+        },
+        {
+          "section": "3.3 Acids",
+          "slides": [
+            {
+              "slide_number": 44,
+              "title": "Arrhenius Acids and pH",
+              "content": "Arrhenius Acid: releases H⁺ (or H₃O⁺) in water. Strong acids completely dissociate (HCl, H₂SO₄, HNO₃). Weak acids partially dissociate (CH₃COOH, H₂CO₃). pH = -log[H⁺]. Acidic solutions have pH < 7. pH + pOH = 14 at 25°C.",
+              "notes": "Examples: HCl → H⁺ + Cl⁻. CH₃COOH ⇌ H⁺ + CH₃COO⁻."
+            },
+            {
+              "slide_number": 45,
+              "title": "Properties and Classification of Acids",
+              "content": "Properties: sour taste, change indicators (blue litmus to red), react with active metals to produce H₂, react with carbonates to produce CO₂, neutralize bases. Classification: Monoprotic (HCl), Diprotic (H₂SO₄), Triprotic (H₃PO₄). Binary acids (HCl), Ternary acids (H₂SO₄).",
+              "notes": "Neutralization: Acid + Base → Salt + Water. Example: HCl + NaOH → NaCl + H₂O."
+            }
+          ]
+        },
+        {
+          "section": "3.4 Bases",
+          "slides": [
+            {
+              "slide_number": 46,
+              "title": "Arrhenius Bases and pH/pOH",
+              "content": "Arrhenius Base: produces OH⁻ in water. Alkalis are soluble bases. Strong bases completely dissociate (NaOH, KOH, Ba(OH)₂). Weak bases partially dissociate (NH₃, NH₄OH). pOH = -log[OH⁻]. pH + pOH = 14. Basic solutions have pH > 7.",
+              "notes": "Example: NaOH → Na⁺ + OH⁻. NH₃ + H₂O ⇌ NH₄⁺ + OH⁻."
+            },
+            {
+              "slide_number": 47,
+              "title": "Properties and Preparation of Bases",
+              "content": "Properties: bitter taste, slippery feel, turn red litmus blue, neutralize acids, conduct electricity. Preparation: Active metal + water → base + H₂ (2Na + 2H₂O → 2NaOH + H₂). Metal oxide + water → base (CaO + H₂O → Ca(OH)₂). Double displacement (soluble salt + soluble base → new base + insoluble salt).",
+              "notes": "Caustic alkalis: NaOH, KOH."
+            }
+          ]
+        },
+        {
+          "section": "3.5 Salts",
+          "slides": [
+            {
+              "slide_number": 48,
+              "title": "Classification and Preparation of Salts",
+              "content": "Salts: ionic compounds from neutralization. Classification: Normal salts (complete H⁺ replacement), Acidic salts (partial H⁺ replacement), Basic salts (partial OH⁻ replacement). Preparation: Acid + metal (Zn + H₂SO₄ → ZnSO₄ + H₂). Neutralization (NaOH + HCl → NaCl + H₂O). Acid + metal oxide (CuO + H₂SO₄ → CuSO₄ + H₂O). Acid + carbonate (Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂). Precipitation (AgNO₃ + NaCl → AgCl + NaNO₃).",
+              "notes": "Examples: NaCl (normal), NaHSO₄ (acidic), Zn(OH)Cl (basic)."
+            },
+            {
+              "slide_number": 49,
+              "title": "Properties and Uses of Salts",
+              "content": "Solubility varies. Hygroscopic: absorb water but remain solid (CuSO₄). Deliquescent: absorb water to form solution (CaCl₂). Efflorescent: lose water of crystallization (Na₂CO₃·10H₂O). Conduct electricity in solution. Thermal stability: carbonates of Group IIA decompose to oxide + CO₂. Nitrates of Group IA (except Li) form nitrites + O₂. Uses: NaCl (food, preservative), NH₄NO₃ (fertilizer, explosive), CuSO₄ (fungicide), CaSO₄·2H₂O (gypsum, plaster).",
+              "notes": "Flame tests: Li⁺ (crimson), Na⁺ (yellow), K⁺ (lilac), Ca²⁺ (brick-red), Ba²⁺ (apple-green)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Energy Changes and Electrochemistry",
+      "sections": [
+        {
+          "section": "4.1 Introduction",
+          "slides": [
+            {
+              "slide_number": 50,
+              "title": "Energy Changes in Chemical Reactions",
+              "content": "Exothermic reactions release heat (ΔH < 0, T increases). Endothermic reactions absorb heat (ΔH > 0, T decreases). Enthalpy (H) is the heat content at constant pressure. ΔH = H_products - H_reactants. Heat capacity: heat required to change temperature by 1 K. Specific heat capacity (c): heat to change 1 g by 1 K. q = c × mass × ΔT.",
+              "notes": "Examples: Combustion is exothermic. Photosynthesis is endothermic."
+            }
+          ]
+        },
+        {
+          "section": "4.2 Energy Changes in Electrochemistry",
+          "slides": [
+            {
+              "slide_number": 51,
+              "title": "Electrical Conductivity",
+              "content": "Metallic Conductivity: flow of electrons in metals. Electrolytic Conductivity: flow of ions in solutions or molten salts. Electrolytes: substances that conduct electricity when dissolved or molten (NaCl, acids, bases). Non-electrolytes: do not conduct (sugar, alcohol). Strong electrolytes dissociate completely (NaCl, HCl). Weak electrolytes dissociate partially (CH₃COOH, NH₃).",
+              "notes": "The brightness of a light bulb in a conductivity test indicates the concentration of ions."
+            }
+          ]
+        },
+        {
+          "section": "4.3 Electrochemical Cells",
+          "slides": [
+            {
+              "slide_number": 52,
+              "title": "Galvanic (Voltaic) Cells",
+              "content": "Galvanic cell: spontaneous redox reaction generates electrical energy. Components: two half-cells, electrodes, salt bridge. Anode: oxidation (negative). Cathode: reduction (positive). Primary cells: non-rechargeable (Daniell cell, dry cell/Leclanche cell). Secondary cells: rechargeable (lead storage battery).",
+              "notes": "Daniell cell: Zn(s) | Zn²⁺ || Cu²⁺ | Cu(s). Zn is anode (oxidation), Cu is cathode (reduction)."
+            },
+            {
+              "slide_number": 53,
+              "title": "Lead Storage Battery (Secondary Cell)",
+              "content": "Electrodes: Pb (anode), PbO₂ (cathode). Electrolyte: 35% H₂SO₄. Reaction: Pb + PbO₂ + 4H⁺ + 2SO₄²⁻ → 2PbSO₄ + 2H₂O (discharge). Recharging reverses the reaction.",
+              "notes": "Each cell delivers ~2 V. A 12 V battery has 6 cells in series."
+            }
+          ]
+        },
+        {
+          "section": "4.4 Electrolysis",
+          "slides": [
+            {
+              "slide_number": 54,
+              "title": "Electrolytic Cells and Electrolysis",
+              "content": "Electrolytic cell: uses electrical energy to drive a non-spontaneous reaction. Anode: positive, oxidation. Cathode: negative, reduction. Cations migrate to cathode (reduction). Anions migrate to anode (oxidation). Electrolysis of molten NaCl: 2Na⁺ + 2e⁻ → 2Na(l) (cathode). 2Cl⁻ → Cl₂(g) + 2e⁻ (anode).",
+              "notes": "Electrolysis is used to extract reactive metals (Na, Mg, Al) from their ores."
+            },
+            {
+              "slide_number": 55,
+              "title": "Electrolysis of Molten PbBr₂",
+              "content": "Molten PbBr₂: Pb²⁺ and Br⁻ ions. Cathode: Pb²⁺ + 2e⁻ → Pb(l). Anode: 2Br⁻ → Br₂(g) + 2e⁻. Overall: PbBr₂ → Pb + Br₂.",
+              "notes": "Experiment: bulb glows when PbBr₂ melts, indicating ions are free to move."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Metals and Nonmetals",
+      "sections": [
+        {
+          "section": "5.1 Introduction",
+          "slides": [
+            {
+              "slide_number": 56,
+              "title": "Natural Resources",
+              "content": "Natural resources: exist without human action. Renewable: can be replenished (water, air, plants). Non-renewable: fixed amount (fossil fuels, minerals). Metallic minerals: contain metals (hematite Fe₂O₃, bauxite Al₂O₃·2H₂O). Non-metallic minerals: do not contain metals (diamond, mica).",
+              "notes": "Metals and nonmetals are obtained from the Earth's crust, oceans, and atmosphere."
+            }
+          ]
+        },
+        {
+          "section": "5.2 General Properties of Metals and Production of Some Metals",
+          "slides": [
+            {
+              "slide_number": 57,
+              "title": "Properties and Occurrence of Metals",
+              "content": "Properties: lustrous, malleable, ductile, good conductors, high density, sonorous. Chemical: lose electrons (reducing agents), form basic oxides, react with acids to produce H₂. Occurrence: active metals occur as compounds (minerals), noble metals occur free (Au, Ag, Pt). Reactivity series: K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au.",
+              "notes": "Minerals: contain metals. Ores: minerals from which metals can be profitably extracted. Gangue: impurities in ore."
+            },
+            {
+              "slide_number": 58,
+              "title": "Extraction of Metals",
+              "content": "Extraction steps: 1. Concentration of ore. 2. Production of metal (reduction). 3. Purification. Most active metals (K, Na, Ca, Mg, Al) are extracted by electrolysis. Less active metals (Fe, Zn) are extracted by chemical reduction. Noble metals are found free.",
+              "notes": "Metallurgy: science of extracting metals and making alloys."
+            },
+            {
+              "slide_number": 59,
+              "title": "Aluminium: Extraction and Properties",
+              "content": "Extraction: Hall-Héroult process. Bauxite (Al₂O₃·2H₂O) → purify to Al₂O₃ → dissolve in molten cryolite → electrolyze. Cathode: 4Al³⁺ + 12e⁻ → 4Al. Anode: 6O²⁻ + 3C → 3CO₂ + 12e⁻. Properties: lightweight, good conductor, corrosion-resistant (oxide layer). Uses: aircraft, cookware, packaging, power lines.",
+              "notes": "Cryolite (Na₃AlF₆) lowers melting point of Al₂O₃ from 2045°C to 1000°C."
+            },
+            {
+              "slide_number": 60,
+              "title": "Iron: Extraction and Properties",
+              "content": "Extraction: Blast furnace. Iron ore (Fe₂O₃), coke, limestone. Reactions: Coke + O₂ → CO₂. CO₂ + C → 2CO. Fe₂O₃ + 3CO → 2Fe + 3CO₂. Limestone: CaCO₃ → CaO + CO₂. CaO + SiO₂ → CaSiO₃ (slag). Pig iron (impure, 3.5-4.5% C) → refined to steel (Bessemer converter, open-hearth, basic oxygen process). Wrought iron (purest). Properties: reactive, rusts in moist air, reacts with acids to produce H₂.",
+              "notes": "Steel: alloy of iron with controlled carbon content. Alloy steels: contain other metals (Cr, Ni) for specific properties."
+            },
+            {
+              "slide_number": 61,
+              "title": "Copper: Extraction and Properties",
+              "content": "Extraction: from chalcopyrite (CuFeS₂). Roasting: 2CuFeS₂ + 4O₂ → Cu₂S + 2FeO + 3SO₂. Smelting: Cu₂S + O₂ → 2Cu + SO₂ (blister copper, 98.5-99.5% pure). Refining: Electrolytic refining (impure Cu anode, pure Cu cathode, CuSO₄ electrolyte). Cathode: Cu²⁺ + 2e⁻ → Cu. Anode: Cu → Cu²⁺ + 2e⁻. Properties: good conductor, malleable, ductile. Uses: electrical wires, alloys (brass, bronze).",
+              "notes": "Copper does not react with dilute acids but reacts with oxidizing acids (HNO₃, hot H₂SO₄)."
+            }
+          ]
+        },
+        {
+          "section": "5.3 Production of Some Important Nonmetals",
+          "slides": [
+            {
+              "slide_number": 62,
+              "title": "Properties of Nonmetals",
+              "content": "Nonmetals: non-lustrous, non-malleable, non-ductile, poor conductors, low density, non-sonorous. Chemical: gain electrons (oxidizing agents), form acidic oxides, do not react with acids (usually).",
+              "notes": "Examples: N₂ (gas), S (solid), Cl₂ (gas)."
+            },
+            {
+              "slide_number": 63,
+              "title": "Nitrogen and Phosphorus",
+              "content": "Nitrogen: from fractional distillation of liquid air. Inert due to triple bond. Reacts with metals (nitrides), O₂ (NO, NO₂), H₂ (NH₃, Haber process). Uses: fertilizer, refrigerant. Phosphorus: from phosphate rock (Ca₃(PO₄)₂), silica, coke in electric furnace. Allotropes: white (reactive, stored under water), red (stable). Forms P₄O₆, P₄O₁₀ (acidic oxides). Uses: matches, fertilizers.",
+              "notes": "Haber process: N₂ + 3H₂ ⇌ 2NH₃ (Fe catalyst, 400-600°C, 200-300 atm)."
+            },
+            {
+              "slide_number": 64,
+              "title": "Oxygen, Sulfur, and Chlorine",
+              "content": "Oxygen: from fractional distillation of liquid air. Supports combustion, reacts with metals (basic oxides) and nonmetals (acidic oxides). Ozone (O₃) allotrope. Sulfur: from underground deposits (Frasch process). Allotropes: rhombic, monoclinic. Reacts with metals (sulphides), O₂ (SO₂, SO₃, Contact process for H₂SO₄). Chlorine: from electrolysis of brine (NaCl). Greenish-yellow, strong oxidizing agent. Reacts with metals (chlorides), H₂ (HCl), displaces Br₂/I₂. Uses: bleach, disinfectant.",
+              "notes": "Contact process: S + O₂ → SO₂, 2SO₂ + O₂ ⇌ 2SO₃ (V₂O₅ catalyst), SO₃ + H₂SO₄ → H₂S₂O₇, H₂S₂O₇ + H₂O → 2H₂SO₄."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Hydrocarbons and Their Natural Sources",
+      "sections": [
+        {
+          "section": "6.1 Introduction",
+          "slides": [
+            {
+              "slide_number": 65,
+              "title": "Introduction to Organic Chemistry",
+              "content": "Organic chemistry: study of carbon compounds (except simple ones like CO, CO₂, carbonates). Vitalism: disproved by Wöhler's synthesis of urea (1828). Catenation: carbon's ability to form chains and rings. Functional groups: atoms/bonds with characteristic chemical behavior.",
+              "notes": "Organic compounds: over 50 million known."
+            }
+          ]
+        },
+        {
+          "section": "6.2 Saturated Hydrocarbons: Alkanes (CnH2n+2)",
+          "slides": [
+            {
+              "slide_number": 66,
+              "title": "Alkanes: Structure and Nomenclature",
+              "content": "Alkanes: saturated hydrocarbons, CₙH₂ₙ₊₂. IUPAC nomenclature: find longest chain (parent), number to give lowest locants, name substituents (alkyl groups) alphabetically. Alkyl groups: formed by removing H from alkane, named with -yl.",
+              "notes": "Examples: CH₄ (methane), C₂H₆ (ethane), C₃H₈ (propane)."
+            },
+            {
+              "slide_number": 67,
+              "title": "Isomerism in Alkanes",
+              "content": "Structural isomerism: same formula, different connectivity. Number of isomers increases with carbon atoms. C₄H₁₀: 2 isomers (n-butane, isobutane). C₅H₁₂: 3 isomers. C₆H₁₄: 5 isomers.",
+              "notes": "Branched alkanes have lower boiling points than straight-chain isomers."
+            },
+            {
+              "slide_number": 68,
+              "title": "Properties and Reactions of Alkanes",
+              "content": "Physical: nonpolar, insoluble in water, boiling point increases with molecular weight. Chemical: Combustion: CₙH₂ₙ₊₂ + O₂ → CO₂ + H₂O + heat. Substitution: halogenation (CH₄ + Cl₂ → CH₃Cl + HCl) with light/heat. Cracking: thermal decomposition.",
+              "notes": "Alkanes are relatively inert (paraffins)."
+            }
+          ]
+        },
+        {
+          "section": "6.3 Unsaturated Hydrocarbons: Alkenes, Alkynes, and Aromatic Hydrocarbons",
+          "slides": [
+            {
+              "slide_number": 69,
+              "title": "Alkenes (Olefins)",
+              "content": "Alkenes: CₙH₂ₙ, contain C=C double bond. Nomenclature: -ene suffix, number for double bond. Isomerism: chain, position, and geometrical (cis-trans). Preparation: dehydration of alcohols (H₂SO₄), dehydrohalogenation of alkyl halides (KOH). Reactions: combustion, addition (hydrogenation, halogenation, hydrohalogenation, hydration, polymerization).",
+              "notes": "Markovnikov's rule: H adds to C with more H's. Br₂/CCl₄ decolorization test for unsaturation."
+            },
+            {
+              "slide_number": 70,
+              "title": "Alkynes",
+              "content": "Alkynes: CₙH₂ₙ₋₂, contain C≡C triple bond. Simplest: ethyne (acetylene). Reactions: combustion (sooty flame), addition (two-step, e.g., halogenation, hydrogenation). Trimerization of acetylene to benzene.",
+              "notes": "Uses: oxy-acetylene torch (high temperature flame)."
+            },
+            {
+              "slide_number": 71,
+              "title": "Aromatic Hydrocarbons: Benzene",
+              "content": "Benzene: C₆H₆, resonance-stabilized ring. Does not undergo typical alkene addition reactions. Reactions: combustion, substitution (halogenation, nitration, sulfonation). Nomenclature: monosubstituted (toluene, phenol), disubstituted (ortho, meta, para).",
+              "notes": "Benzene is carcinogenic. Substitution is characteristic, not addition."
+            }
+          ]
+        },
+        {
+          "section": "6.5 Natural Sources of Hydrocarbons",
+          "slides": [
+            {
+              "slide_number": 72,
+              "title": "Natural Gas and Petroleum",
+              "content": "Natural gas: mainly methane (CH₄). Petroleum (crude oil): complex mixture of hydrocarbons. Fractional distillation: separates into fractions by boiling point. Fractions: natural gas (C₁-C₄), gasoline (C₅-C₁₀), kerosene (C₁₂-C₁₈), diesel (C₁₅-C₁₈), lubricating oils (>C₁₉), residue. Cracking: breaks large hydrocarbons into smaller ones (e.g., gasoline). Reforming: converts alkanes to aromatics for higher octane rating.",
+              "notes": "Octane number: measure of anti-knock properties. Isooctane = 100, heptane = 0."
+            },
+            {
+              "slide_number": 73,
+              "title": "Coal",
+              "content": "Coal: formed from plant matter. Destructive distillation (coking): heating in absence of air produces coal gas, coal tar, and coke. Coal tar is a source of aromatic hydrocarbons (benzene, toluene).",
+              "notes": "Coke is used as fuel in blast furnaces (iron extraction)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

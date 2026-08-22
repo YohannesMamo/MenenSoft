@@ -1,0 +1,971 @@
+{
+  "subject": "Mathematics",
+  "grade": 10,
+  "presentation_slides": [
+    {
+      "unit_number": 1,
+      "unit_title": "Relations and Functions",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Relations",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Unit 1: Relations and Functions - Section 1.1: Relations",
+              "content": [
+                "Topic: Introduction to Relations",
+                "Key Concepts: Patterns, Cartesian Coordinate System, Basic Concepts of Relations, Domain and Range, Graphs of Relations.",
+                "Objective: Define relation. Identify domain and range of a relation. Sketch graphs of relations."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "1.1.1 Revision of Patterns",
+              "content": [
+                "Definition: A pattern is a regularity in the world, human-made design, or abstract ideas. Elements repeat predictably.",
+                "Arithmetic Pattern: Sequences based on addition or subtraction. e.g., 2, 4, 6, 8, ... (rule: add 2).",
+                "Geometric Pattern: Sequences based on multiplication or division. e.g., 2, 4, 8, 16, ... (rule: multiply by 2).",
+                "Algebraic expressions can represent patterns (e.g., Output = 2n + 3)."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "1.1.2 Cartesian Coordinate System",
+              "content": [
+                "Defined by an ordered pair of perpendicular lines (axes).",
+                "Axes: x-axis (horizontal, abscissa) and y-axis (vertical, ordinate).",
+                "Origin: Point where axes meet (0, 0).",
+                "Coordinates: Written as (x, y). The x-coordinate is the abscissa, the y-coordinate is the ordinate.",
+                "Divides the plane into four quadrants (I, II, III, IV)."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "1.1.3 Basic Concepts of Relations",
+              "content": [
+                "Definition: A relation is a set of ordered pairs (x, y). It denotes a pairing between elements of two sets.",
+                "Example: 'y is greater than x' is a relation.",
+                "Domain: The set of all first components (x-values) of the ordered pairs.",
+                "Range: The set of all second components (y-values) of the ordered pairs."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "1.1.4 Graphs of Relations (Part 1)",
+              "content": [
+                "Relations can be represented graphically by plotting ordered pairs.",
+                "To graph a relation of the form y = ax + b, create a table of values, plot points, and connect.",
+                "Example: y = x creates a straight line through the origin."
+              ]
+            },
+            {
+              "slide_number": 6,
+              "title": "1.1.4 Graphs of Relations (Part 2)",
+              "content": [
+                "Graphing Inequalities:",
+                "- For '≤' or '≥', use a solid line for the boundary.",
+                "- For '<' or '>', use a broken line.",
+                "- Shade the region that satisfies the inequality.",
+                "Example: y > x uses a broken line and shades the region above the line.",
+                "For compound relations (e.g., y ≤ x and y ≥ -x + 2), the graph is the intersection of the two regions."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Functions",
+          "slides": [
+            {
+              "slide_number": 7,
+              "title": "1.2.1 The Notion of a Function",
+              "content": [
+                "Definition: A function is a relation where no two distinct ordered pairs have the same first element.",
+                "Each input (x-value) maps to exactly one output (y-value).",
+                "Can be represented by arrow diagrams, ordered pairs, tables, or graphs.",
+                "Function Notation: f(x) = y (read as 'f of x').",
+                "The Vertical Line Test: If a vertical line intersects the graph at more than one point, it is NOT a function."
+              ]
+            },
+            {
+              "slide_number": 8,
+              "title": "1.2.1 Domain, Codomain, and Range",
+              "content": [
+                "Domain: The set of all possible input (x) values for which the function is defined.",
+                "Codomain: The set of all possible output values.",
+                "Range: The set of all actual output (y) values.",
+                "Example: For f(x) = 3x + 4, the domain and range are all real numbers (R).",
+                "Example: For f(x) = √(x - 2), the domain is x ≥ 2, and the range is y ≥ 0."
+              ]
+            },
+            {
+              "slide_number": 9,
+              "title": "1.2.2 Combination of Functions",
+              "content": [
+                "Functions can be combined using arithmetic operations:",
+                "- Sum: (f + g)(x) = f(x) + g(x)",
+                "- Difference: (f - g)(x) = f(x) - g(x)",
+                "- Product: (f · g)(x) = f(x) · g(x)",
+                "- Quotient: (f/g)(x) = f(x) / g(x), provided g(x) ≠ 0.",
+                "The domain of the new function is the intersection of the domains of f and g (with restrictions for the quotient)."
+              ]
+            },
+            {
+              "slide_number": 10,
+              "title": "1.2.3 Types of Functions",
+              "content": [
+                "One-to-One (Injective): Each element in the domain has a distinct image. If f(a) = f(b), then a = b.",
+                "Onto (Surjective): Each element in the codomain has at least one pre-image in the domain.",
+                "Bijective (One-to-One Correspondence): A function that is both one-to-one and onto."
+              ]
+            },
+            {
+              "slide_number": 11,
+              "title": "1.2.4 Graphs of Functions - Linear",
+              "content": [
+                "General Form: f(x) = ax + b, where a ≠ 0.",
+                "Slope (a): Determines the steepness. If a > 0, increasing; if a < 0, decreasing.",
+                "y-intercept (b): The point where the line crosses the y-axis, (0, b).",
+                "x-intercept: The point where the line crosses the x-axis, found by setting y = 0.",
+                "Example: f(x) = 2x - 3 has slope 2, y-intercept -3, and x-intercept 1.5."
+              ]
+            },
+            {
+              "slide_number": 12,
+              "title": "1.2.4 Graphs of Functions - Quadratic",
+              "content": [
+                "General Form: f(x) = ax² + bx + c, where a ≠ 0.",
+                "Graph is a parabola.",
+                "Vertex: The turning point (h, k). Found by completing the square: f(x) = a(x - h)² + k.",
+                "Axis of Symmetry: Vertical line x = h.",
+                "Opens upward if a > 0 (minimum at vertex), opens downward if a < 0 (maximum at vertex).",
+                "Range: Depends on the vertex and sign of a."
+              ]
+            },
+            {
+              "slide_number": 13,
+              "title": "1.2.4 Graphing Quadratic Functions",
+              "content": [
+                "Key Steps:",
+                "1. Identify 'a', 'b', and 'c'.",
+                "2. Find the vertex using completing the square or formula h = -b/(2a).",
+                "3. Find the y-intercept (c).",
+                "4. Find x-intercepts by solving f(x) = 0.",
+                "5. Plot points and sketch the smooth U-shape."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Applications of Relations and Functions",
+          "slides": [
+            {
+              "slide_number": 14,
+              "title": "1.3 Applications of Relations and Functions",
+              "content": [
+                "Relations and functions are used to model real-world situations.",
+                "Linear Applications: Modeling relationships with constant rate of change (e.g., cost as a function of time).",
+                "Quadratic Applications: Optimization problems (e.g., maximum area with given perimeter, minimum product).",
+                "Graphical Solutions: Using graphs to solve quadratic equations and inequalities."
+              ]
+            },
+            {
+              "slide_number": 15,
+              "title": "1.3 Optimization with Quadratics",
+              "content": [
+                "Max/Min Problems: Often involve finding the vertex of a parabola.",
+                "Example: A wire of 56m is bent into a rectangle. Area A = x(28 - x) = 196 - (x - 14)².",
+                "The maximum area is 196 m², achieved when x = 14 m.",
+                "The vertex of the quadratic function gives the optimal value."
+              ]
+            },
+            {
+              "slide_number": 16,
+              "title": "1.3 Solving Equations & Inequalities Graphically",
+              "content": [
+                "Quadratic Equations: Solutions are the x-intercepts of the parabola.",
+                "Example: x² - 4 = 0 has solutions x = ±2.",
+                "Quadratic Inequalities:",
+                "- For ax² + bx + c < 0, solution is where the parabola is below the x-axis.",
+                "- For ax² + bx + c > 0, solution is where the parabola is above the x-axis.",
+                "Includes endpoints if the inequality is ≤ or ≥."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Polynomial Functions",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Definition of Polynomial Function",
+          "slides": [
+            {
+              "slide_number": 17,
+              "title": "Unit 2: Polynomial Functions - Section 2.1: Definition",
+              "content": [
+                "Definition: A polynomial function p(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0, where n is a non-negative integer and a_n ≠ 0.",
+                "Degree (n): The highest power of x.",
+                "Leading Coefficient (a_n): The coefficient of the highest degree term.",
+                "Constant Term (a_0): The term without x.",
+                "Domain: All real numbers (R)."
+              ]
+            },
+            {
+              "slide_number": 18,
+              "title": "2.1 Examples and Non-examples",
+              "content": [
+                "Examples of Polynomial Functions:",
+                "- f(x) = 3x² - 2x + 5 (Degree 2, Leading Coeff 3, Constant 5)",
+                "- g(x) = 4x³ + x - 7 (Degree 3, Leading Coeff 4, Constant -7)",
+                "Non-examples:",
+                "- f(x) = 4x⁻² + 3x - 7 (Negative exponent)",
+                "- h(x) = 2ˣ (Variable is in the exponent)",
+                "- f(x) = √x (Not a polynomial function)"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Operations on polynomial functions",
+          "slides": [
+            {
+              "slide_number": 19,
+              "title": "2.2 Operations on Polynomial Functions",
+              "content": [
+                "Combining polynomials:",
+                "- Addition/Subtraction: Combine like terms.",
+                "- Multiplication: Distribute each term of one polynomial by every term of the other.",
+                "- Division: Use the long division process.",
+                "The result of these operations is always a polynomial function (except division by zero)."
+              ]
+            },
+            {
+              "slide_number": 20,
+              "title": "2.2 Polynomial Addition and Subtraction",
+              "content": [
+                "Add/Subtract coefficients of like terms.",
+                "Example: (2x³ + 5x² - 3x + 4) + (x³ - 2x² + 7x - 1)",
+                "= (2+1)x³ + (5-2)x² + (-3+7)x + (4-1)",
+                "= 3x³ + 3x² + 4x + 3"
+              ]
+            },
+            {
+              "slide_number": 21,
+              "title": "2.2 Polynomial Multiplication and Division",
+              "content": [
+                "Multiplication: (2x+3)(x²-5x+6) = 2x³ - 10x² + 12x + 3x² - 15x + 18 = 2x³ - 7x² - 3x + 18.",
+                "Division: Long division process yields quotient q(x) and remainder r(x).",
+                "If f(x) = d(x)q(x) + r(x), where deg(r) < deg(d)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Theorems on polynomial functions",
+          "slides": [
+            {
+              "slide_number": 22,
+              "title": "2.3 Theorems on Polynomials (Part 1)",
+              "content": [
+                "Polynomial Division Theorem: For polynomials f(x) and d(x) ≠ 0, there exist unique q(x) and r(x) such that f(x) = d(x)q(x) + r(x), with r(x) = 0 or deg(r) < deg(d).",
+                "Remainder Theorem: The remainder when f(x) is divided by (x - c) is f(c).",
+                "Example: f(x) = 2x³ - 3x² + 5x - 7, divided by (x + 1). Remainder = f(-1)."
+              ]
+            },
+            {
+              "slide_number": 23,
+              "title": "2.3 Theorems on Polynomials (Part 2)",
+              "content": [
+                "Factor Theorem: (x - c) is a factor of f(x) if and only if f(c) = 0.",
+                "Example: f(x) = x³ - x² - x + 1. f(1) = 0, so (x - 1) is a factor.",
+                "Uses: Factoring polynomials, finding zeros.",
+                "If f(c) = 0, then c is a zero (root) of f(x)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Zeros of polynomial functions",
+          "slides": [
+            {
+              "slide_number": 24,
+              "title": "2.4 Zeros of a Polynomial Function",
+              "content": [
+                "Zeros: The roots or solutions of f(x) = 0.",
+                "Finding zeros: Use factoring, Factor Theorem, or Rational Zero Test.",
+                "Multiplicity: If (x - c)^k is a factor but (x - c)^{k+1} is not, then c is a zero of multiplicity k.",
+                "Even multiplicity: Graph touches the x-axis.",
+                "Odd multiplicity: Graph crosses the x-axis."
+              ]
+            },
+            {
+              "slide_number": 25,
+              "title": "2.4 Rational Zero Test",
+              "content": [
+                "For a polynomial with integer coefficients, any rational zero p/q (in simplest form) must have p as a factor of the constant term and q as a factor of the leading coefficient.",
+                "Steps:",
+                "1. List factors of constant term (p).",
+                "2. List factors of leading coefficient (q).",
+                "3. Form all possible p/q combinations.",
+                "4. Test these values using synthetic division or direct substitution to find the actual zeros."
+              ]
+            },
+            {
+              "slide_number": 26,
+              "title": "2.4 Location Theorem",
+              "content": [
+                "If f(a) and f(b) have opposite signs, then there is at least one real zero of f(x) between a and b.",
+                "Useful for locating irrational roots.",
+                "Example: f(x) = x² - 3. f(1) = -2, f(2) = 1. Since signs are opposite, a zero lies between 1 and 2."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Graphs of polynomial functions",
+          "slides": [
+            {
+              "slide_number": 27,
+              "title": "2.5 Graphs of Polynomial Functions",
+              "content": [
+                "Properties: Smooth and continuous curve (no sharp corners, no breaks).",
+                "End Behavior: Determined by degree and leading coefficient.",
+                "- Even degree, positive leading: Up, Up",
+                "- Even degree, negative leading: Down, Down",
+                "- Odd degree, positive leading: Down, Up",
+                "- Odd degree, negative leading: Up, Down",
+                "Turning Points: Max n-1 for a polynomial of degree n.",
+                "x-intercepts: Max n."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Applications",
+          "slides": [
+            {
+              "slide_number": 28,
+              "title": "2.6 Applications of Polynomials",
+              "content": [
+                "Used to model problems involving area, volume, and optimization.",
+                "Example 1: Maximize area of a rectangle with fixed perimeter. Quadratic function models area.",
+                "Example 2: Maximize volume of an open-top box created by cutting squares from corners of a rectangular sheet. Volume is a cubic function.",
+                "Solve by finding the maximum/minimum of the polynomial function (often the vertex for quadratics)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Exponential and Logarithmic Functions",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Exponents and Logarithms",
+          "slides": [
+            {
+              "slide_number": 29,
+              "title": "Unit 3: Exponential and Logarithmic Functions - Section 3.1: Exponents",
+              "content": [
+                "Review of Exponents:",
+                "- Laws of Exponents: a^m * a^n = a^(m+n), a^m / a^n = a^(m-n), (a^m)^n = a^(mn).",
+                "- Zero Exponent: a^0 = 1 (a ≠ 0).",
+                "- Negative Exponent: a^(-n) = 1/a^n (a ≠ 0).",
+                "- Rational Exponent: a^(m/n) = (a^(1/n))^m = (n√a)^m."
+              ]
+            },
+            {
+              "slide_number": 30,
+              "title": "3.1 Introduction to Logarithms",
+              "content": [
+                "Definition: If a^b = c, then log_a(c) = b.",
+                "Read as 'log base a of c'.",
+                "Example: 2^3 = 8, so log_2(8) = 3.",
+                "Common Logarithm: Base 10, written as log x.",
+                "Natural Logarithm: Base e, written as ln x."
+              ]
+            },
+            {
+              "slide_number": 31,
+              "title": "3.1 Laws of Logarithms",
+              "content": [
+                "For a > 0, a ≠ 1, and M, N > 0:",
+                "1. log_a(MN) = log_a M + log_a N (Product Rule)",
+                "2. log_a(M/N) = log_a M - log_a N (Quotient Rule)",
+                "3. log_a(M^r) = r * log_a M (Power Rule)",
+                "4. log_a 1 = 0 and log_a a = 1.",
+                "5. Change of Base: log_a M = log_b M / log_b a."
+              ]
+            },
+            {
+              "slide_number": 32,
+              "title": "3.1 Using Logarithm Tables",
+              "content": [
+                "A number's logarithm = Characteristic + Mantissa.",
+                "Characteristic: The integer part, determined by the power of 10 in scientific notation.",
+                "Mantissa: The fractional part, found in the logarithm table.",
+                "Example: log(6920) = log(6.92 * 10^3) = 3 + log(6.92) = 3 + 0.8401 = 3.8401.",
+                "Antilogarithm: The inverse process of finding a number from its logarithm."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "The Exponential Functions and Their Graphs",
+          "slides": [
+            {
+              "slide_number": 33,
+              "title": "3.2 The Exponential Function",
+              "content": [
+                "Definition: f(x) = a^x, where a > 0, a ≠ 1.",
+                "Domain: All real numbers (R).",
+                "Range: All positive real numbers (R+).",
+                "y-intercept: (0, 1).",
+                "Horizontal Asymptote: x-axis (y = 0)."
+              ]
+            },
+            {
+              "slide_number": 34,
+              "title": "3.2 Graphs of Exponential Functions",
+              "content": [
+                "For a > 1: Increasing function, rises to the right.",
+                "For 0 < a < 1: Decreasing function, rises to the left.",
+                "The graph gets closer to the x-axis but never touches it.",
+                "The Natural Exponential Function: f(x) = e^x, where e ≈ 2.71828."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "The Logarithmic Functions and Their Graphs",
+          "slides": [
+            {
+              "slide_number": 35,
+              "title": "3.3 The Logarithmic Function",
+              "content": [
+                "Definition: f(x) = log_a x is the inverse of f(x) = a^x.",
+                "Domain: All positive real numbers (R+).",
+                "Range: All real numbers (R).",
+                "x-intercept: (1, 0).",
+                "Vertical Asymptote: y-axis (x = 0)."
+              ]
+            },
+            {
+              "slide_number": 36,
+              "title": "3.3 Graphs of Logarithmic Functions",
+              "content": [
+                "For a > 1: Increasing function, rises slowly.",
+                "For 0 < a < 1: Decreasing function.",
+                "Natural Logarithm: f(x) = ln x.",
+                "Inverse Relation: The graph of log_a x is the reflection of the graph of a^x across the line y = x."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Solving Exponential and Logarithmic Equations",
+          "slides": [
+            {
+              "slide_number": 37,
+              "title": "3.4 Solving Exponential Equations",
+              "content": [
+                "1. Isolate the exponential expression.",
+                "2. Take the logarithm of both sides (common or natural log).",
+                "3. Use the power rule to bring down the exponent.",
+                "4. Solve for the variable.",
+                "Example: 2^x = 20 → log 2^x = log 20 → x log 2 = log 20 → x = log 20 / log 2."
+              ]
+            },
+            {
+              "slide_number": 38,
+              "title": "3.4 Solving Logarithmic Equations",
+              "content": [
+                "1. State the Universe (arguments must be > 0).",
+                "2. Combine logarithmic terms using log laws.",
+                "3. Rewrite in exponential form: log_a M = b → M = a^b.",
+                "4. Solve for the variable.",
+                "5. Check if the solution is in the Universe.",
+                "Example: log_2(x+3) = 4 → x+3 = 2^4 → x = 13."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Relation between Exponential and Logarithmic functions",
+          "slides": [
+            {
+              "slide_number": 39,
+              "title": "3.5 Inverse Relationship",
+              "content": [
+                "y = a^x and y = log_a x are inverse functions.",
+                "Graphs are reflections across the line y = x.",
+                "Domain of Exponential = Range of Logarithmic.",
+                "Range of Exponential = Domain of Logarithmic."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Applications",
+          "slides": [
+            {
+              "slide_number": 40,
+              "title": "3.6 Applications of Exponents and Logs",
+              "content": [
+                "Compound Interest: A(t) = P(1 + r/n)^(nt). Continuous: A = Pe^(rt).",
+                "Population Growth: P(t) = P_0 e^(kt), k > 0.",
+                "pH Scale: pH = -log[H+], used in chemistry to measure acidity.",
+                "These applications involve solving for unknown time (t), rate (k), or amount (A) using logarithms."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Trigonometric Functions",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Radian Measure of angle",
+          "slides": [
+            {
+              "slide_number": 41,
+              "title": "Unit 4: Trigonometric Functions - Section 4.1: Radian Measure",
+              "content": [
+                "Definition of an Angle: Rotation of a ray about its vertex.",
+                "Positive Angle: Anticlockwise rotation.",
+                "Negative Angle: Clockwise rotation.",
+                "Standard Position: Vertex at origin, initial side on positive x-axis."
+              ]
+            },
+            {
+              "slide_number": 42,
+              "title": "4.1 Degree and Radian Measures",
+              "content": [
+                "Degree: 1° = 1/360 of a revolution.",
+                "Radian: The angle subtended at the center by an arc equal in length to the radius (l = rθ).",
+                "Key Conversion: π radians = 180°.",
+                "To convert degrees to radians: Multiply by π/180.",
+                "To convert radians to degrees: Multiply by 180/π."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Basic Trigonometric Function",
+          "slides": [
+            {
+              "slide_number": 43,
+              "title": "4.2 Basic Trigonometric Functions",
+              "content": [
+                "Defined using the Unit Circle (radius 1, center at origin).",
+                "For a point P(x, y) on the unit circle: cos θ = x, sin θ = y.",
+                "tan θ = sin θ / cos θ.",
+                "Reciprocal Functions:",
+                "- sec θ = 1/cos θ",
+                "- csc θ = 1/sin θ",
+                "- cot θ = 1/tan θ = cos θ / sin θ."
+              ]
+            },
+            {
+              "slide_number": 44,
+              "title": "4.2 Signs and Reference Angles",
+              "content": [
+                "Signs in Quadrants (ASTC):",
+                "- I: All positive.",
+                "- II: Sin positive.",
+                "- III: Tan positive.",
+                "- IV: Cos positive.",
+                "Reference Angle: The acute angle formed with the x-axis. Used to evaluate trig functions for any angle.",
+                "Coterminal Angles: Angles that share the same terminal side (differ by 360° or 2π)."
+              ]
+            },
+            {
+              "slide_number": 45,
+              "title": "4.2 Graphs of Sine and Cosine",
+              "content": [
+                "Sine Function (y = sin x):",
+                "- Domain: R, Range: [-1, 1].",
+                "- Period: 360° (2π).",
+                "- Symmetric about the origin (odd function).",
+                "Cosine Function (y = cos x):",
+                "- Domain: R, Range: [-1, 1].",
+                "- Period: 360° (2π).",
+                "- Symmetric about the y-axis (even function)."
+              ]
+            },
+            {
+              "slide_number": 46,
+              "title": "4.2 Graph of Tangent",
+              "content": [
+                "Tangent Function (y = tan x):",
+                "- Domain: {x | x ≠ (π/2) + nπ}, Range: R.",
+                "- Period: 180° (π).",
+                "- Vertical asymptotes at x = (π/2) + nπ.",
+                "- Increasing function on each interval between asymptotes."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Trigonometric Identities & Equation",
+          "slides": [
+            {
+              "slide_number": 47,
+              "title": "4.3 Trigonometric Identities",
+              "content": [
+                "Pythagorean Identities:",
+                "- sin²θ + cos²θ = 1",
+                "- 1 + tan²θ = sec²θ",
+                "- 1 + cot²θ = csc²θ",
+                "Addition/Subtraction Formulas:",
+                "- sin(α ± β) = sinα cosβ ± cosα sinβ",
+                "- cos(α ± β) = cosα cosβ ∓ sinα sinβ"
+              ]
+            },
+            {
+              "slide_number": 48,
+              "title": "4.3 Double and Half Angle Identities",
+              "content": [
+                "Double Angle:",
+                "- sin 2θ = 2 sinθ cosθ",
+                "- cos 2θ = cos²θ - sin²θ = 1 - 2sin²θ = 2cos²θ - 1",
+                "- tan 2θ = 2tanθ / (1 - tan²θ)",
+                "Half Angle:",
+                "- sin(θ/2) = ±√((1 - cosθ)/2)",
+                "- cos(θ/2) = ±√((1 + cosθ)/2)",
+                "Sign depends on the quadrant of θ/2."
+              ]
+            },
+            {
+              "slide_number": 49,
+              "title": "4.3 Solving Trigonometric Equations",
+              "content": [
+                "1. Isolate the trigonometric function.",
+                "2. Use identities to simplify.",
+                "3. Determine the reference angle.",
+                "4. Find solutions in the specified interval.",
+                "5. Add the period to find all solutions.",
+                "Example: Solve 2cosθ - 1 = 0 → cosθ = 1/2 → θ = π/3, 5π/3."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Application",
+          "slides": [
+            {
+              "slide_number": 50,
+              "title": "4.4 Applications of Trigonometry",
+              "content": [
+                "Angle of Elevation: The angle from the horizontal upwards to an object.",
+                "Angle of Depression: The angle from the horizontal downwards to an object.",
+                "Solving Problems: Set up a right triangle. Use SOH CAH TOA.",
+                "Example: From a 40m cliff, the angle of depression is 60°. Find the distance to the object.",
+                "tan 60° = 40 / x → x = 40 / tan 60°."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Circles",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Symmetrical properties of circles",
+          "slides": [
+            {
+              "slide_number": 51,
+              "title": "Unit 5: Circles - Section 5.1: Symmetrical Properties",
+              "content": [
+                "Definition: A circle is a set of points equidistant from a fixed point (center).",
+                "Line of Symmetry: Any diameter is a line of symmetry.",
+                "Chord Theorems:",
+                "- The line from the center to the midpoint of a chord is perpendicular to it.",
+                "- The perpendicular from the center to a chord bisects it.",
+                "- Equal chords are equidistant from the center."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Angle properties of circles",
+          "slides": [
+            {
+              "slide_number": 52,
+              "title": "5.2 Angle Properties of Circles",
+              "content": [
+                "Central Angle: Vertex at the center. Measure equals its intercepted arc.",
+                "Inscribed Angle: Vertex on the circle. Measure is half its intercepted arc.",
+                "Theorems:",
+                "- Inscribed angles that intercept the same arc are equal.",
+                "- Thales' Theorem: An angle inscribed in a semicircle is a right angle.",
+                "- Opposite angles of a cyclic quadrilateral are supplementary (sum to 180°)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Arc length, perimeters and areas of segments and sectors Arc length",
+          "slides": [
+            {
+              "slide_number": 53,
+              "title": "5.3 Arc Length and Sector Area",
+              "content": [
+                "Arc Length: s = rθ (θ in radians) or s = 2πr * (θ/360°).",
+                "Chord Length: l = 2r sin(θ/2).",
+                "Area of Sector: A = (1/2)r²θ or A = πr² * (θ/360°).",
+                "Perimeter of Sector: 2r + arc length.",
+                "Area of Segment: Area of sector - Area of triangle (formed by the chord and radii)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Theorems on angles and arcs determined by lines intersecting inside, on and outside a circle.",
+          "slides": [
+            {
+              "slide_number": 54,
+              "title": "5.4 Angles from Intersecting Lines",
+              "content": [
+                "Intersecting Chords (Inside): m∠ = 1/2 (sum of measures of intercepted arcs).",
+                "Intersecting Secants/Tangents (Outside): m∠ = 1/2 (difference of measures of intercepted arcs).",
+                "These theorems allow calculation of angles formed by lines interacting with a circle."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Solid Figures",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Revision of Cylinders and Prisms.",
+          "slides": [
+            {
+              "slide_number": 55,
+              "title": "Unit 6: Solid Figures - Section 6.1: Prisms & Cylinders",
+              "content": [
+                "Prisms: Two parallel congruent bases, lateral faces are parallelograms.",
+                "For a Right Prism: LSA = p*h, TSA = LSA + 2BA, V = BA*h.",
+                "Cylinders: A prism with circular bases.",
+                "For a Right Circular Cylinder: LSA = 2πrh, TSA = 2πr(r+h), V = πr²h."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Pyramids, cones and Spheres.",
+          "slides": [
+            {
+              "slide_number": 56,
+              "title": "6.2 Pyramids and Cones",
+              "content": [
+                "Pyramids: Polygonal base, triangular faces meeting at an apex.",
+                "Regular Pyramid: Regular base, congruent lateral faces.",
+                "For a Regular Pyramid: LSA = (1/2)pl, V = (1/3)BA*h.",
+                "Cones: Circular base, lateral surface meeting at an apex.",
+                "For a Right Circular Cone: LSA = πrl, V = (1/3)πr²h.",
+                "Cross-Section: Area ratio = (distance from vertex / height)²."
+              ]
+            },
+            {
+              "slide_number": 57,
+              "title": "6.2 Spheres",
+              "content": [
+                "Definition: A solid where all points on its surface are equidistant from a center.",
+                "Great Circle: A cross-section that passes through the center.",
+                "Hemisphere: Half of a sphere.",
+                "Formulas: SA = 4πr², V = (4/3)πr³."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Frustum of pyramids and cones.",
+          "slides": [
+            {
+              "slide_number": 58,
+              "title": "6.3 Frustums of Pyramids and Cones",
+              "content": [
+                "Definition: The part of a pyramid or cone between the base and a parallel cross-section.",
+                "For a Regular Frustum of a Pyramid: LSA = (1/2)l(p+p'), V = (1/3)h(A+A'+√(AA')).",
+                "For a Frustum of a Right Circular Cone: LSA = πl(r+r'), V = (1/3)πh(r²+r'²+rr')."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Surface areas and volumes of composed solids.",
+          "slides": [
+            {
+              "slide_number": 59,
+              "title": "6.4 Composed Solids",
+              "content": [
+                "Definition: A solid made from two or more basic solids.",
+                "Volume: Sum of the volumes of its parts.",
+                "Surface Area: Sum of the exposed surface areas of its parts.",
+                "Important: Do not double-count the areas where parts are joined."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Applications",
+          "slides": [
+            {
+              "slide_number": 60,
+              "title": "6.5 Applications of Solid Figures",
+              "content": [
+                "Real-world uses of volume and surface area.",
+                "Examples:",
+                "- Determining the volume of a bucket (frustum of a cone) to find capacity.",
+                "- Calculating material cost based on total surface area (e.g., paint, canvas).",
+                "- Finding the volume of concrete needed for construction projects.",
+                "- Understanding density, capacity, and space utilization."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Coordinate Geometry",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Distance between two points",
+          "slides": [
+            {
+              "slide_number": 61,
+              "title": "Unit 7: Coordinate Geometry - Section 7.1: Distance",
+              "content": [
+                "Distance Formula: d = √[(x2 - x1)² + (y2 - y1)²].",
+                "Derived from the Pythagorean Theorem.",
+                "Applies to any two points in the Cartesian plane.",
+                "For horizontal/vertical lines: d = |x2 - x1| or |y2 - y1|."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Division of a line segment.",
+          "slides": [
+            {
+              "slide_number": 62,
+              "title": "7.2 Division of a Line Segment",
+              "content": [
+                "Section Formula: If R divides P(x1,y1) and Q(x2,y2) in the ratio p:q, then",
+                "R = ((p*x2 + q*x1)/(p+q), (p*y2 + q*y1)/(p+q)).",
+                "Midpoint Formula: A special case where p = q = 1.",
+                "M = ((x1+x2)/2, (y1+y2)/2)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Equation of a line.",
+          "slides": [
+            {
+              "slide_number": 63,
+              "title": "7.3 Equation of a Line",
+              "content": [
+                "Slope (m): m = (y2-y1)/(x2-x1). Also m = tan θ (angle of inclination).",
+                "Point-Slope Form: y - y1 = m(x - x1).",
+                "Slope-Intercept Form: y = mx + b.",
+                "Two-Point Form: y - y1 = ((y2-y1)/(x2-x1))(x - x1).",
+                "General Form: Ax + By + C = 0."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Slopes of parallel and perpendicular lines.",
+          "slides": [
+            {
+              "slide_number": 64,
+              "title": "7.4 Parallel and Perpendicular Lines",
+              "content": [
+                "Parallel Lines: Have the same slope (m1 = m2).",
+                "Perpendicular Lines: Slopes are negative reciprocals (m1 * m2 = -1).",
+                "Example: Lines with slopes 2 and -1/2 are perpendicular."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Equation of a Circle.",
+          "slides": [
+            {
+              "slide_number": 65,
+              "title": "7.5 Equation of a Circle",
+              "content": [
+                "Standard Form: (x - h)² + (y - k)² = r², where (h,k) is the center and r is the radius.",
+                "Center at Origin: x² + y² = r².",
+                "General Form: x² + y² + lx + my + n = 0.",
+                "Converting: Complete the square to find center and radius from the general form."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.6",
+          "section_title": "Applications",
+          "slides": [
+            {
+              "slide_number": 66,
+              "title": "7.6 Applications of Coordinate Geometry",
+              "content": [
+                "Area of a Triangle: A = (1/2) |x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2)|.",
+                "Used to find area from coordinates of vertices.",
+                "Classifying Triangles: Use distance formula to find side lengths (isosceles, equilateral, scalene).",
+                "Use slopes to check for right angles (perpendicular lines)."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

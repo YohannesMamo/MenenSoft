@@ -1,0 +1,1912 @@
+{
+  "subject": "Chemistry",
+  "grade": 9,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "CHEMISTRY AND ITS IMPORTANCE",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Definition and Scope of Chemistry",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Introduction to Chemistry",
+              "bullet_points": [
+                "Chemistry is the study of matter and its changes.",
+                "The word 'chemistry' comes from the ancient Egyptian word 'kēme' meaning 'earth'.",
+                "Everything around us is made of chemicals.",
+                "Chemistry is essential for meeting our basic needs: food, clothing, shelter, health, energy, clean air, water, and soil."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Definition of Chemistry",
+              "bullet_points": [
+                "Chemistry is the science that deals with the:",
+                "• Properties of substances",
+                "• Composition of substances",
+                "• Structure of substances",
+                "• Transformations (changes) substances undergo",
+                "• Energy released or absorbed during these changes"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Key Terms in Chemistry",
+              "bullet_points": [
+                "Substance: A particular kind of matter with uniform properties (e.g., gold, silver, water).",
+                "Matter: Anything that has mass and occupies space (e.g., book, pencil, air).",
+                "Property: An attribute or characteristic of a substance that distinguishes it from others.",
+                "Composition: The ingredients or constituents that make up a substance.",
+                "Structure: The arrangement and relationships between the parts of a substance."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Transformations and Energy",
+              "bullet_points": [
+                "Every substance in our environment is continuously changing.",
+                "Changes occur due to both external and internal forces.",
+                "Transformation: A marked change in form, nature, or appearance.",
+                "These changes are always accompanied by energy changes.",
+                "Example: Burning wood transforms it into ash, smoke, and heat energy."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Branches of Chemistry: Overview",
+              "bullet_points": [
+                "Chemistry can be divided into five main disciplines:",
+                "1. Physical Chemistry",
+                "2. Organic Chemistry",
+                "3. Inorganic Chemistry",
+                "4. Analytical Chemistry",
+                "5. Biochemistry"
+              ]
+            },
+            {
+              "slide_number": 6,
+              "title": "Physical Chemistry",
+              "bullet_points": [
+                "Studies macroscopic properties and atomic properties.",
+                "Examines phenomena in chemical systems.",
+                "Investigates:",
+                "• Rates (speed) of chemical reactions",
+                "• Energy transfers during reactions",
+                "• Physical structure of materials at the molecular level"
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "Organic Chemistry",
+              "bullet_points": [
+                "Studies substances containing carbon.",
+                "Carbon is one of the most abundant elements on Earth.",
+                "Carbon can form over twenty million different chemicals.",
+                "Most chemicals in all living organisms are carbon-based.",
+                "Examples: DNA, proteins, carbohydrates, fats, plastics, and fuels."
+              ]
+            },
+            {
+              "slide_number": 8,
+              "title": "Inorganic Chemistry",
+              "bullet_points": [
+                "Studies substances not primarily based on carbon.",
+                "Commonly found in rocks and minerals.",
+                "Important area: Design and properties of materials for:",
+                "• Energy technology",
+                "• Information technology",
+                "Examples: salts, metals, acids, bases, and metal oxides."
+              ]
+            },
+            {
+              "slide_number": 9,
+              "title": "Analytical Chemistry",
+              "bullet_points": [
+                "Studies the composition of matter.",
+                "Focuses on:",
+                "• Separating components",
+                "• Identifying components",
+                "• Quantifying (measuring) components in samples",
+                "Uses complex instruments to analyze unknown materials.",
+                "Example: Testing water quality for pollutants."
+              ]
+            },
+            {
+              "slide_number": 10,
+              "title": "Biochemistry",
+              "bullet_points": [
+                "Studies chemical processes that occur in living things.",
+                "Covers basic cellular processes to understanding diseases.",
+                "Helps develop better treatments for illnesses.",
+                "Examples:",
+                "• How enzymes work",
+                "• DNA replication",
+                "• Photosynthesis",
+                "• Metabolism of food"
+              ]
+            },
+            {
+              "slide_number": 11,
+              "title": "Scope of Chemistry",
+              "bullet_points": [
+                "Chemistry affects all aspects of life because all living and non-living things are made of matter.",
+                "Chemistry extends to:",
+                "• Explaining the natural world",
+                "• Preparing people for career opportunities",
+                "• Producing informed and patriotic citizens",
+                "Key application areas: Agriculture, Medicine, Food production, Building construction"
+              ]
+            },
+            {
+              "slide_number": 12,
+              "title": "Applications of Chemistry",
+              "bullet_points": [
+                "Agriculture: Fertilizers and pesticides",
+                "Medicine: Life-saving drugs, vaccines, and treatments",
+                "Food production: Preservatives and nutritional enhancement",
+                "Building construction: Glass, steel, and cement",
+                "Energy: Batteries, fuels, and solar cells",
+                "Clothing: Synthetic fibers like polyester and nylon"
+              ]
+            },
+            {
+              "slide_number": 13,
+              "title": "Negative Impacts of Chemistry",
+              "bullet_points": [
+                "Chemistry can also produce dangerous substances.",
+                "Toxic chemicals can negatively affect human life and the environment.",
+                "Examples of harmful substances:",
+                "• Fluorochlorohydrocarbons (CFCs) - damage ozone layer",
+                "• Oxides of nitrogen (NOx) - cause acid rain and smog",
+                "• Oxides of carbon (CO, CO₂) - contribute to climate change",
+                "• Oxides of sulfur (SOx) - cause acid rain"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "The Relationship Between Chemistry and Other Natural Sciences",
+          "slides": [
+            {
+              "slide_number": 14,
+              "title": "Introduction to Science and Chemistry's Role",
+              "bullet_points": [
+                "Science is the process of learning about the natural universe through observation, testing, and generating models.",
+                "Science is divided into many branches.",
+                "Chemistry is one branch of science.",
+                "Chemistry has been called the 'central science'.",
+                "Why? It links all other sciences together."
+              ]
+            },
+            {
+              "slide_number": 15,
+              "title": "Relationship with Biology: Biochemistry",
+              "bullet_points": [
+                "Biology studies living things.",
+                "Chemistry and Biology overlap in Biochemistry.",
+                "Biochemistry is the study of chemical processes occurring in living matter.",
+                "Examples:",
+                "• Chemists study compounds from medicinal plants",
+                "• Understanding metabolism and digestion",
+                "• DNA and protein synthesis"
+              ]
+            },
+            {
+              "slide_number": 16,
+              "title": "Relationship with Geology: Geochemistry",
+              "bullet_points": [
+                "Geology studies rocks and the earth.",
+                "Chemistry and Geology overlap in Geochemistry.",
+                "Geochemistry studies:",
+                "• Processes controlling abundance of chemical compounds in geologic environments",
+                "• Composition and distribution of compounds and isotopes",
+                "• Formation of minerals and ores"
+              ]
+            },
+            {
+              "slide_number": 17,
+              "title": "Relationship with Physics: Physical Chemistry & Chemical Physics",
+              "bullet_points": [
+                "Physics studies nature and properties of matter and energy.",
+                "Chemistry and Physics overlap in two areas:",
+                "Physical Chemistry: Applies physics theories to chemical systems",
+                "Chemical Physics: Studies chemical processes from a physics perspective",
+                "Both deal with:",
+                "• Atomic and molecular properties",
+                "• Energy and matter interactions"
+              ]
+            },
+            {
+              "slide_number": 18,
+              "title": "Relationship with Medicine: Medicinal Chemistry",
+              "bullet_points": [
+                "Chemistry and Medicine are related in the area of Medicinal Chemistry.",
+                "Medicinal chemistry involves:",
+                "• Design of pharmaceutical drugs",
+                "• Development of drugs",
+                "• Synthesis (production) of drugs",
+                "Examples: Antibiotics, painkillers, cancer drugs"
+              ]
+            },
+            {
+              "slide_number": 19,
+              "title": "Summary: Chemistry as the Central Science",
+              "bullet_points": [
+                "All fields of science are related and depend on matter.",
+                "Chemistry is called the 'central science' because it is the foundation.",
+                "Key overlaps:",
+                "• Chemistry + Biology = Biochemistry",
+                "• Chemistry + Geology = Geochemistry",
+                "• Chemistry + Physics = Physical Chemistry & Chemical Physics",
+                "• Chemistry + Medicine = Medicinal Chemistry"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Role Chemistry Plays in Production and in the Society",
+          "slides": [
+            {
+              "slide_number": 20,
+              "title": "Chemistry in Agriculture: Fertilizers",
+              "bullet_points": [
+                "Chemistry has produced chemical fertilizers.",
+                "Types of fertilizers:",
+                "• Calcium superphosphate",
+                "• Urea",
+                "• Ammonium sulphate",
+                "• Sodium nitrate",
+                "These have greatly increased the yield of fruits, vegetables, and crops."
+              ]
+            },
+            {
+              "slide_number": 21,
+              "title": "Chemistry in Agriculture: Pesticides",
+              "bullet_points": [
+                "Chemistry has produced pesticides to reduce crop damage.",
+                "Types of pesticides:",
+                "• Fungicides: Kill fungi",
+                "• Herbicides: Kill weeds",
+                "• Insecticides: Kill insects",
+                "Chemistry also helps produce better-quality plastic pipes for irrigation."
+              ]
+            },
+            {
+              "slide_number": 22,
+              "title": "Chemistry in Food Production",
+              "bullet_points": [
+                "Chemistry has led to the discovery of different kinds of food preservatives.",
+                "Preservatives help store food for longer periods.",
+                "Chemistry provides methods to test for adulterants (impurities).",
+                "New technologies have improved food's:",
+                "• Availability",
+                "• Appearance",
+                "• Nutritional content",
+                "• Flavor",
+                "Local example: Preserving raw meat for longer periods."
+              ]
+            },
+            {
+              "slide_number": 23,
+              "title": "Chemistry in Medicine: Overview",
+              "bullet_points": [
+                "Chemistry has provided many life-saving medicines.",
+                "Examples of discoveries:",
+                "• Sulfur drugs: Cure for dysentery and pneumonia",
+                "• Penicillin: Antibiotic for bacterial infections",
+                "• Cisplatin and Taxol: Cancer therapy",
+                "• AZT: Fights HIV/AIDS virus multiplication"
+              ]
+            },
+            {
+              "slide_number": 24,
+              "title": "Types of Medical Chemicals",
+              "bullet_points": [
+                "Disinfectants: Kill microbes (e.g., sanitizers, toilet cleaners)",
+                "Analgesics: Painkillers (e.g., aspirin, ibuprofen)",
+                "Anesthetics: Relieve pain during operations",
+                "Antibiotics: Control infection and cure diseases",
+                "Antiseptics: Prevent wound contamination by bacteria",
+                "Tranquillizers: Reduce tension and mental stress"
+              ]
+            },
+            {
+              "slide_number": 25,
+              "title": "HIV/AIDS Prevention",
+              "bullet_points": [
+                "HIV/AIDS is a pandemic with no curative medication.",
+                "Prevention methods (ABC):",
+                "• A: Abstain from sexual activity",
+                "• B: Be faithful or reduce the number of sex partners",
+                "• C: Use a Condom",
+                "AZT does not cure HIV/AIDS but fights virus multiplication and prolongs life."
+              ]
+            },
+            {
+              "slide_number": 26,
+              "title": "Chemistry in Building Construction",
+              "bullet_points": [
+                "Chemistry provides building resources such as:",
+                "• Glass",
+                "• Steel",
+                "• Cement",
+                "These help in construction of:",
+                "• Safer houses and multi-story structures",
+                "• Long-lasting and durable dams and bridges",
+                "Example: Grand Ethiopian Renaissance Dam (GERD) - largest hydro power project in Africa"
+              ]
+            },
+            {
+              "slide_number": 27,
+              "title": "Summary: Role of Chemistry in Society",
+              "bullet_points": [
+                "Agriculture: Fertilizers, pesticides, and irrigation equipment",
+                "Food Production: Preservatives, testing for adulterants, improved quality",
+                "Medicine: Life-saving drugs, disinfectants, painkillers, antibiotics",
+                "Construction: Materials for safer and durable infrastructure",
+                "Chemistry touches almost every aspect of our existence."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Some Common Chemical Industries in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 28,
+              "title": "Introduction to Chemical Industries",
+              "bullet_points": [
+                "Industry: Economic activity concerned with processing raw materials and manufacturing goods in factories.",
+                "Chemical industries comprise companies that manufacture:",
+                "• Inorganic and organic industrial chemicals",
+                "• Explosives",
+                "• Fragrances",
+                "• Agrochemicals (pesticides, fertilizers)",
+                "• Polymers and plastics"
+              ]
+            },
+            {
+              "slide_number": 29,
+              "title": "Chemical Industries in Ethiopia (Part 1)",
+              "bullet_points": [
+                "1. Chorra Gas & Chemical Products: Plastics, petroleum products, aluminum sulphate, sulphuric acid",
+                "2. Ziway Caustic Soda Factory: Sodium hydroxide",
+                "3. Abijata Soda Ash Factory: Trona (soda ash)",
+                "4. Repi Soap & Detergent P.L.C.: Soap and detergent",
+                "5. Adola Magnesium Oxide Factory: Magnesium oxide",
+                "6. Adami Tulu Pesticide Processing Plant: Formulates malathion, endosulfan, diazinon"
+              ]
+            },
+            {
+              "slide_number": 30,
+              "title": "Chemical Industries in Ethiopia (Part 2)",
+              "bullet_points": [
+                "7. Nefas Silk Paints factory: Paints, varnishes, antirusts, glues",
+                "8. Modern Building Industries: Cement, ceramics, paints, adhesives, sanitary ware",
+                "9. Kadisco Chemical Industry: Paints, coatings, adhesives",
+                "10. Tadesse Filatea PLC (Woliso): Soap, detergent, corrugated iron, nail, infant milk formula",
+                "11. Etab Laundry Soap (Hawassa): Soap and detergent"
+              ]
+            },
+            {
+              "slide_number": 31,
+              "title": "Chemical Industries in Ethiopia (Part 3)",
+              "bullet_points": [
+                "12. Get-Eshet Detergent and Leather Manufacturing: Detergents and chemical inputs",
+                "13. Ethio-Asia Industries S.C.: Soap and detergent",
+                "14. Y.B Cosmetics (Sheger city): Cosmetics and perfume",
+                "15. Mekab PLC (Cosmetics): Hair oil, shampoo, conditioner, body lotion, detergents",
+                "16. BEKAS Chemicals PLC: Detergents, cosmetics, plastic packing materials",
+                "17. Arbaminch Textile Share Company: Textile and fabric products",
+                "18. Teamco Soap Factory (Burayu): Soap and detergent"
+              ]
+            },
+            {
+              "slide_number": 32,
+              "title": "Other Chemical Product Industries in Ethiopia",
+              "bullet_points": [
+                "Cement: Mugher, Diredawa, Mesobo, Derba, Midroc, Dangote",
+                "Sugar: Metehara, Wonji, Finchaa, Omokuraz",
+                "Paper and pulp: Wonji",
+                "Pharmaceuticals: Addis, Ethiopia, Adigrat",
+                "Tyre: Horizon Addis Tyre"
+              ]
+            },
+            {
+              "slide_number": 33,
+              "title": "Summary: Chemical Industries in Ethiopia",
+              "bullet_points": [
+                "Ethiopia has many large and medium-scale chemical enterprises.",
+                "Products include:",
+                "• Chemicals: Aluminum sulphate, caustic soda, soda ash, magnesium oxide, pesticides",
+                "• Chemical products: Soaps, detergents, cement, paints, building materials, cosmetics, plastics, glass, sugar, tyre, pulp and paper, pharmaceuticals",
+                "The government is expanding industries and establishing industrial parks."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "MEASUREMENTS AND SCIENTIFIC METHODS",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Measurements and Units in Chemistry",
+          "slides": [
+            {
+              "slide_number": 34,
+              "title": "Introduction to Measurements",
+              "bullet_points": [
+                "Measurement is the comparison of a physical quantity with a fixed standard unit.",
+                "Example: On a centimeter scale, the centimeter is the standard.",
+                "Measurement is essential in chemistry to:",
+                "• Compare properties of substances",
+                "• Assess changes from experiments",
+                "A measured quantity is always written as a number with an appropriate unit."
+              ]
+            },
+            {
+              "slide_number": 35,
+              "title": "Common Measuring Devices",
+              "bullet_points": [
+                "Meter stick: Measures length",
+                "Burette: Measures volume of liquid dispensed",
+                "Pipette: Measures precise volumes of liquid",
+                "Graduated cylinder: Measures volume",
+                "Volumetric flask: Measures a specific volume",
+                "Balance: Measures mass",
+                "Thermometer: Measures temperature"
+              ]
+            },
+            {
+              "slide_number": 36,
+              "title": "SI Units (International System of Units)",
+              "bullet_points": [
+                "SI units are the modern metric system.",
+                "Adopted in 1960 by the General Conference of Weights and Measures.",
+                "There are seven SI base units:",
+                "• Length: Meter (m)",
+                "• Mass: Kilogram (kg)",
+                "• Time: Second (s)",
+                "• Electric current: Ampere (A)",
+                "• Temperature: Kelvin (K)",
+                "• Amount of substance: Mole (mol)",
+                "• Luminous intensity: Candela (cd)"
+              ]
+            },
+            {
+              "slide_number": 37,
+              "title": "Temperature Scales",
+              "bullet_points": [
+                "Temperature measures the 'hotness' or 'coldness' of a body.",
+                "Heat is a form of energy that flows from hotter to colder bodies.",
+                "Three temperature scales: Kelvin (K), Celsius (°C), Fahrenheit (°F)",
+                "Relationships:",
+                "• K = °C + 273.15",
+                "• °C = K - 273.15",
+                "• °F = (°C × 9/5) + 32",
+                "• °C = (°F - 32) × 5/9"
+              ]
+            },
+            {
+              "slide_number": 38,
+              "title": "Derived Units",
+              "bullet_points": [
+                "Derived units are obtained by combining base units.",
+                "Examples of derived units:",
+                "• Area: m² (length × width)",
+                "• Volume: m³ (length³)",
+                "• Density: kg/m³ (mass/volume)",
+                "• Speed: m/s (distance/time)",
+                "• Force: Newton (N) = kg·m/s²",
+                "• Pressure: Pascal (Pa) = kg/(m·s²)",
+                "• Energy: Joule (J) = kg·m²/s²"
+              ]
+            },
+            {
+              "slide_number": 39,
+              "title": "Volume and Density",
+              "bullet_points": [
+                "Volume is the amount of space a substance occupies.",
+                "SI unit for volume: cubic meter (m³).",
+                "Common laboratory units: liter (L) and milliliter (mL).",
+                "1 L = 1 dm³, 1 mL = 1 cm³",
+                "Density is mass per unit volume.",
+                "Formula: d = m/V",
+                "Density is a characteristic property of a substance."
+              ]
+            },
+            {
+              "slide_number": 40,
+              "title": "SI Prefixes",
+              "bullet_points": [
+                "SI prefixes are used to express larger or smaller quantities.",
+                "Common prefixes:",
+                "• Tera (T): 10¹²",
+                "• Giga (G): 10⁹",
+                "• Mega (M): 10⁶",
+                "• Kilo (k): 10³",
+                "• Hecto (h): 10²",
+                "• Deca (da): 10¹",
+                "• Deci (d): 10⁻¹",
+                "• Centi (c): 10⁻²",
+                "• Milli (m): 10⁻³",
+                "• Micro (µ): 10⁻⁶",
+                "• Nano (n): 10⁻⁹",
+                "• Pico (p): 10⁻¹²"
+              ]
+            },
+            {
+              "slide_number": 41,
+              "title": "Uncertainty in Measurements",
+              "bullet_points": [
+                "Every measurement has some degree of uncertainty.",
+                "Two types of uncertainty:",
+                "1. Systematic Uncertainty: Consistent errors that make values too high or too low (e.g., faulty equipment).",
+                "2. Random Uncertainty: Variations without a predictable pattern.",
+                "Uncertainty can be expressed as:",
+                "• Absolute uncertainty: Value ± uncertainty (e.g., 23.25 ± 0.05 g)",
+                "• Percent uncertainty: (absolute uncertainty / measurement) × 100%"
+              ]
+            },
+            {
+              "slide_number": 42,
+              "title": "Precision vs. Accuracy",
+              "bullet_points": [
+                "Precision: Closeness of repeated measurements to each other.",
+                "• Good precision = reproducible results.",
+                "Accuracy: Closeness of a measurement to the true value.",
+                "• Good accuracy = measured value matches the true value.",
+                "A measurement can be:",
+                "• Precise but not accurate",
+                "• Accurate but not precise",
+                "• Both precise and accurate",
+                "• Neither precise nor accurate"
+              ]
+            },
+            {
+              "slide_number": 43,
+              "title": "Significant Figures (Part 1)",
+              "bullet_points": [
+                "Significant figures are meaningful digits in a measurement.",
+                "Rules for identifying significant figures:",
+                "1. Non-zero digits are always significant.",
+                "2. Zeros between non-zero digits are significant.",
+                "3. Leading zeros (to the left of first non-zero digit) are NOT significant.",
+                "4. Trailing zeros after the decimal point ARE significant.",
+                "5. Trailing zeros in numbers without a decimal point are ambiguous (use scientific notation)."
+              ]
+            },
+            {
+              "slide_number": 44,
+              "title": "Significant Figures (Part 2)",
+              "bullet_points": [
+                "Rules for calculations with significant figures:",
+                "Addition/Subtraction: Answer has the same number of decimal places as the least precise measurement.",
+                "Multiplication/Division: Answer has the same number of significant figures as the number with the fewest significant figures.",
+                "Rounding:",
+                "• If first digit to drop is <5, keep the number.",
+                "• If first digit to drop is ≥5, round up.",
+                "Exact numbers (from counting or definitions) have infinite significant figures."
+              ]
+            },
+            {
+              "slide_number": 45,
+              "title": "Scientific Notation",
+              "bullet_points": [
+                "Used for very large and very small numbers.",
+                "Format: A number between 1 and 10 multiplied by a power of 10.",
+                "Examples:",
+                "• 602,000,000,000,000,000,000,000 = 6.02 × 10²³",
+                "• 0.000000000000000000000327 = 3.27 × 10⁻²²",
+                "Avoids ambiguity in trailing zeros.",
+                "Shows correct number of significant figures."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Chemistry as Experimental Science",
+          "slides": [
+            {
+              "slide_number": 46,
+              "title": "Introduction: Chemistry as an Experimental Science",
+              "bullet_points": [
+                "Chemistry is largely an experimental science.",
+                "Knowledge comes from laboratory research.",
+                "Chemists use computers to study microscopic structure.",
+                "Chemists use sophisticated equipment to analyze pollutants.",
+                "Many frontiers in biology and medicine are explored at the atomic level.",
+                "Chemistry is evidence-based; all statements are based on experiment."
+              ]
+            },
+            {
+              "slide_number": 47,
+              "title": "The Scientific Method: Overview",
+              "bullet_points": [
+                "The scientific method is a process used to investigate natural phenomena.",
+                "It involves creating an objective framework for scientific inquiry.",
+                "Four main steps:",
+                "1. Observation and Formulation of a Question",
+                "2. Data Collection and Hypothesis",
+                "3. Testing the Hypothesis (Experiments)",
+                "4. Analysis and Conclusion"
+              ]
+            },
+            {
+              "slide_number": 48,
+              "title": "Step 1: Observation and Formulation of a Question",
+              "bullet_points": [
+                "The first step of the scientific method.",
+                "Make an observation about a natural phenomenon.",
+                "Examples:",
+                "• 'Why is the sky blue?'",
+                "• 'Why is air invisible?'",
+                "• 'What happens when I mix these two chemicals?'",
+                "Formulate a clear, answerable question based on the observation."
+              ]
+            },
+            {
+              "slide_number": 49,
+              "title": "Step 2: Data Collection and Hypothesis",
+              "bullet_points": [
+                "Collect all related data about the observation.",
+                "Formulate a hypothesis (a tentative explanation).",
+                "The hypothesis could describe:",
+                "• The cause of the phenomenon",
+                "• The effect of the phenomenon",
+                "• The relationship between variables",
+                "Example: 'The sky is blue because sunlight is scattered by molecules in the air.'"
+              ]
+            },
+            {
+              "slide_number": 50,
+              "title": "Step 3: Testing the Hypothesis (Experiments)",
+              "bullet_points": [
+                "The hypothesis must be tested scientifically.",
+                "Conduct experiments to determine if the hypothesis is supported.",
+                "Experiments are designed to:",
+                "• Test the hypothesis under controlled conditions",
+                "• Gather new data",
+                "• Repetition is key to reliable results.",
+                "Confidence in the hypothesis increases or decreases based on experimental results."
+              ]
+            },
+            {
+              "slide_number": 51,
+              "title": "Step 4: Analysis and Conclusion",
+              "bullet_points": [
+                "Analyze the experimental data using mathematical and scientific procedures.",
+                "Determine the results of the experiment.",
+                "If data supports the hypothesis, it is accepted.",
+                "If data does not support the hypothesis:",
+                "• It is rejected, or",
+                "• It is modified and tested again",
+                "After repeated confirmation, a hypothesis can become a 'theory'."
+              ]
+            },
+            {
+              "slide_number": 52,
+              "title": "Laboratory Safety Rules (Part 1)",
+              "bullet_points": [
+                "1. Responsible behavior is essential.",
+                "2. Wear approved eye protection at all times.",
+                "3. Perform no unauthorized experiments.",
+                "4. Do not smoke in the laboratory.",
+                "5. In case of fire or accident, call the teacher at once.",
+                "6. Report all injuries to the instructor immediately.",
+                "7. Do not eat or drink anything in the laboratory."
+              ]
+            },
+            {
+              "slide_number": 53,
+              "title": "Laboratory Safety Rules (Part 2)",
+              "bullet_points": [
+                "8. Avoid breathing fumes of any kind.",
+                "9. Never use mouth suction to fill pipets; use a suction device.",
+                "10. Never work alone in the laboratory.",
+                "11. Wear shoes in the laboratory (no bare feet or sandals).",
+                "12. Confine long hair and loose clothing.",
+                "13. Keep your work area neat at all times.",
+                "14. Be careful when heating liquids."
+              ]
+            },
+            {
+              "slide_number": 54,
+              "title": "Laboratory Safety Rules (Part 3)",
+              "bullet_points": [
+                "15. Always pour acids into water when mixing.",
+                "16. Do not force rubber stoppers onto glass tubing.",
+                "17. Dispose of excess chemicals properly.",
+                "18. Read the experiment before coming to the laboratory.",
+                "19. Never point test tubes at anyone.",
+                "20. Cover cuts with a bandage or wear gloves.",
+                "21. Most important: Think about what you are doing."
+              ]
+            },
+            {
+              "slide_number": 55,
+              "title": "Common Laboratory Equipment",
+              "bullet_points": [
+                "Safety goggles: Protect eyes.",
+                "Latex gloves: Protect hands from corrosive chemicals.",
+                "Lab apron/coat: Protect clothing from spills.",
+                "Beaker: Mixing, stirring, heating chemicals.",
+                "• Has spout for pouring",
+                "• Has markings for approximate volume",
+                "• Not precise for measuring liquids",
+                "Watch glass: Used to cover beakers to prevent contamination."
+              ]
+            },
+            {
+              "slide_number": 56,
+              "title": "Writing a Laboratory Report",
+              "bullet_points": [
+                "Two types of reports:",
+                "Pre-laboratory (Prelab) Report:",
+                "• Completed before the experiment",
+                "• Ensures familiarity with the procedure",
+                "• Answers questions from careful reading of the manual",
+                "Laboratory Report:",
+                "• Final draft written in ink or typed",
+                "• Must be neat with no erasures",
+                "• All data must have correct units and significant figures"
+              ]
+            },
+            {
+              "slide_number": 57,
+              "title": "Features of a Good Laboratory Report",
+              "bullet_points": [
+                "Report is written in ink or typed.",
+                "No erasures or crossed-out areas.",
+                "All data should have correct units.",
+                "Significant figures must be correct.",
+                "All questions answered with complete sentences.",
+                "Sample computations labeled with purpose and correct units.",
+                "Multiple pages should be stapled and numbered.",
+                "Graphs should have titled axes, labels, and data points."
+              ]
+            },
+            {
+              "slide_number": 58,
+              "title": "Graphs in Laboratory Reports",
+              "bullet_points": [
+                "Graphs present data in picture form.",
+                "Essential features of a good graph:",
+                "• Axes must be numbered and labeled.",
+                "• Graph must have a title.",
+                "• Data points shown as circles, crosses, etc. (not dots).",
+                "• Lines should be explained in the title.",
+                "• Scales should fill the page.",
+                "Example: Plot of density measurements against concentration."
+              ]
+            },
+            {
+              "slide_number": 59,
+              "title": "Experiment: Measurements and Density",
+              "bullet_points": [
+                "Objective: Learn proper mass and volume measurements.",
+                "Determine density of:",
+                "• A metal bar",
+                "• A salt solution",
+                "Evaluate results for precision and accuracy.",
+                "Materials: Metal bars, measuring rule, pipets, graduated cylinders, balances.",
+                "Safety: Use suction device for pipetting, don't drop metal bars into cylinders."
+              ]
+            },
+            {
+              "slide_number": 60,
+              "title": "Part I: Mass Measurements",
+              "bullet_points": [
+                "1. Zero the balance after cleaning the pan.",
+                "2. Measure mass of a clean dry 50 mL beaker to nearest ±0.001 g.",
+                "3. Record observation in lab notebook.",
+                "4. Remove beaker, clean pan, zero balance.",
+                "5. Weigh same beaker again and record.",
+                "6. Repeat one more time.",
+                "7. Calculate average mass of the beaker.",
+                "8. Repeat weighing using a second balance (one weighing).",
+                "9. Repeat using a third balance (one weighing)."
+              ]
+            },
+            {
+              "slide_number": 61,
+              "title": "Part I: Volume Measurements (Pipet)",
+              "bullet_points": [
+                "Volumetric pipets are designed to 'deliver' (TD) the specified volume.",
+                "Never pipet by mouth; always use a suction device.",
+                "Rinse pipet with small portions of the liquid to be transferred.",
+                "Keep pipet tip under liquid surface while filling.",
+                "Release suction device gently and fill pipet to 1-2 cm above calibration line.",
+                "Remove suction device and quickly seal the top with your finger.",
+                "Adjust meniscus to the calibration mark.",
+                "Transfer liquid to the container."
+              ]
+            },
+            {
+              "slide_number": 62,
+              "title": "Part II: Density of a Metal Bar",
+              "bullet_points": [
+                "Weigh a metal bar on a balance to ±0.001 g. Repeat twice.",
+                "Method I (Water Displacement):",
+                "• Insert bar into a graduated cylinder with water.",
+                "• Record initial and final water levels.",
+                "• Calculate volume from difference.",
+                "• Repeat twice with different initial water levels.",
+                "Method II (Direct Measurement):",
+                "• Measure dimensions of the bar with a ruler.",
+                "• Calculate volume using V = πr²h (for a cylinder).",
+                "• Repeat measurements twice."
+              ]
+            },
+            {
+              "slide_number": 63,
+              "title": "Part II: Density of a Salt Solution",
+              "bullet_points": [
+                "Method I (Using Pipet):",
+                "• Weigh a 125 mL Erlenmeyer flask with stopper.",
+                "• Pipet 20.00 or 25.00 mL of salt solution into the flask.",
+                "• Reweigh.",
+                "• Repeat twice.",
+                "Method II (Using Graduated Cylinder):",
+                "• Weigh an empty dry 10 mL graduated cylinder.",
+                "• Fill with 9-10 mL of salt solution.",
+                "• Record volume precisely and reweigh.",
+                "• Repeat twice."
+              ]
+            },
+            {
+              "slide_number": 64,
+              "title": "Evaluating Results: Precision and Accuracy",
+              "bullet_points": [
+                "Relative Average Deviation: Measure of precision.",
+                "• Calculated from repeated measurements.",
+                "• Lower deviation = better precision.",
+                "Relative Error: Measure of accuracy.",
+                "• Compare experimental value to accepted (true) value.",
+                "• Lower error = better accuracy.",
+                "Questions to consider:",
+                "• Which method is more accurate? Explain.",
+                "• Which method is more precise? Explain."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "STRUCTURE OF THE ATOM",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Historical Development of the Atomic Theories of Matter",
+          "slides": [
+            {
+              "slide_number": 65,
+              "title": "Introduction: The Concept of the Atom",
+              "bullet_points": [
+                "The existence of atoms was proposed by early Indian and Greek philosophers around 400 B.C.",
+                "They believed atoms were the fundamental building blocks of matter.",
+                "Continued subdivisions of matter would ultimately yield atoms.",
+                "The word 'atom' comes from the Greek word 'atomos' meaning 'uncuttable' or 'non-divisible'.",
+                "Early ideas were mere speculations without experimental evidence.",
+                "These ideas remained dormant until revived by John Dalton in the early 19th century."
+              ]
+            },
+            {
+              "slide_number": 66,
+              "title": "Greek Philosophers: Empedocles",
+              "bullet_points": [
+                "Empedocles (mid-5th century BC) thought all materials are made of four elements:",
+                "• Earth",
+                "• Air",
+                "• Water",
+                "• Fire",
+                "This idea dominated scientific thought for over 2000 years."
+              ]
+            },
+            {
+              "slide_number": 67,
+              "title": "Greek Philosophers: Plato and Aristotle",
+              "bullet_points": [
+                "Plato (student of Socrates, teacher of Aristotle) adopted Empedocles' theory.",
+                "He coined the term 'element' to describe the four substances.",
+                "Aristotle adopted the concept of four elements.",
+                "He differentiated elements based on properties:",
+                "• Hot vs. Cold",
+                "• Wet vs. Dry",
+                "Example: Water (cold & wet), Air (hot & wet), Fire (hot & dry), Earth (cold & dry)."
+              ]
+            },
+            {
+              "slide_number": 68,
+              "title": "Democritus and the Atomic Theory",
+              "bullet_points": [
+                "Democritus (460-370 BC) elaborated the atomic theory of matter.",
+                "He was a student of Leucippus, who originated the atom concept.",
+                "Democritus taught the theory of atomism:",
+                "• Atoms are indivisible and indestructible.",
+                "• Atoms are the basic components of all matter.",
+                "• There are different varieties of atoms with different shapes, sizes, and masses.",
+                "This model is called 'the solid sphere' model."
+              ]
+            },
+            {
+              "slide_number": 69,
+              "title": "The Greek Concept of 'Atomos'",
+              "bullet_points": [
+                "Five major points of the Greek atomic idea:",
+                "1. All matter is composed of atoms (too small to see, cannot be split).",
+                "2. There is a void (empty space) between atoms.",
+                "3. Atoms are completely solid (no void inside).",
+                "4. Atoms are homogeneous (no internal structure).",
+                "5. Atoms differ in size, shape, and weight."
+              ]
+            },
+            {
+              "slide_number": 70,
+              "title": "Drawbacks of the Early Greek Philosophers",
+              "bullet_points": [
+                "They tried to understand nature through reason and logic, not experimentation.",
+                "They had thought-provoking ideas but didn't justify them with observations.",
+                "They dismissed Democritus's theory entirely.",
+                "Aristotle and other prominent thinkers strongly opposed the idea of the atom.",
+                "Their theory was disregarded and buried until the 16th and 17th centuries.",
+                "It took over 2000 years for the atomic theory to be fully appreciated."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Fundamental Laws of Chemical Reactions",
+          "slides": [
+            {
+              "slide_number": 71,
+              "title": "Scientific Laws vs. Theories",
+              "bullet_points": [
+                "Scientific Laws:",
+                "• Generalized observations about relationships in the natural world.",
+                "• Based on repeated experiments or observations.",
+                "• They describe or predict phenomena.",
+                "• They don't explain why the phenomenon exists.",
+                "Scientific Theories:",
+                "• Explanations of phenomena.",
+                "• Based on extensive and repeated experimentation.",
+                "• They explain the observations described by laws."
+              ]
+            },
+            {
+              "slide_number": 72,
+              "title": "Law of Conservation of Mass",
+              "bullet_points": [
+                "Discovered by Antoine Lavoisier in 1789.",
+                "Also known as the Law of Indestructibility of Matter.",
+                "States that mass is neither created nor destroyed in a chemical reaction.",
+                "Total mass of products = Total mass of reactants.",
+                "Example: Sugar (3g) + Water (20g) → Sugar Solution (23g)",
+                "This law laid the groundwork for modern chemistry."
+              ]
+            },
+            {
+              "slide_number": 73,
+              "title": "Law of Definite Proportions",
+              "bullet_points": [
+                "Proposed by Joseph Louis Proust in 1799.",
+                "Also known as Proust's Law or the Law of Constant Composition.",
+                "States that a chemical compound always contains the same elements in the same proportion by mass.",
+                "Example: Water (H₂O) always has a mass ratio of 1:8 for hydrogen to oxygen.",
+                "Example: Carbon dioxide (CO₂) has a mass ratio of 3:8 for carbon to oxygen."
+              ]
+            },
+            {
+              "slide_number": 74,
+              "title": "Law of Multiple Proportions",
+              "bullet_points": [
+                "Formulated by John Dalton.",
+                "States that when two elements form different compounds, the masses of one element that combine with a fixed mass of the other are in a ratio of small whole numbers.",
+                "Example: Carbon and Oxygen form CO and CO₂.",
+                "In CO: 1.33 g of oxygen combines with 1.00 g of carbon.",
+                "In CO₂: 2.66 g of oxygen combines with 1.00 g of carbon.",
+                "The ratio is 1:2 (a small whole number ratio)."
+              ]
+            },
+            {
+              "slide_number": 75,
+              "title": "Experiment: Conservation of Mass (AgNO₃ + HCl)",
+              "bullet_points": [
+                "Reaction: HCl(aq) + AgNO₃(aq) → AgCl(s) + HNO₃(l)",
+                "Materials: Conical flask, test tube, cotton, thread, balance.",
+                "Chemicals: Hydrochloric acid, silver nitrate solution.",
+                "Procedure:",
+                "1. Place dilute HCl in a conical flask.",
+                "2. Put silver nitrate solution in a test tube and suspend it inside the flask.",
+                "3. Weigh the flask and contents.",
+                "4. Tilt the flask to mix the solutions (white precipitate of AgCl forms).",
+                "5. Reweigh the flask and contents.",
+                "Observation: Mass before reaction = Mass after reaction."
+              ]
+            },
+            {
+              "slide_number": 76,
+              "title": "Experiment: Conservation of Mass (Ba(NO₃)₂ + Na₂SO₄)",
+              "bullet_points": [
+                "Reaction: Ba(NO₃)₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaNO₃(aq)",
+                "Procedure:",
+                "1. Dissolve 2.61 g of Ba(NO₃)₂ in 100 mL of water.",
+                "2. Dissolve 1.42 g of Na₂SO₄ in 100 mL of water.",
+                "3. Mix the solutions and stir.",
+                "4. Filter off the white precipitate (BaSO₄) and weigh it.",
+                "5. Evaporate water from the filtrate and weigh the residue (NaNO₃).",
+                "Observation: The total mass of products equals the total mass of reactants."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Atomic Theory",
+          "slides": [
+            {
+              "slide_number": 77,
+              "title": "Dalton's Atomic Theory",
+              "bullet_points": [
+                "Proposed by John Dalton in 1803.",
+                "First scientific atomic theory based on experimental evidence.",
+                "Five postulates:",
+                "1. Elements are made of small particles called atoms.",
+                "2. Atoms can neither be created nor destroyed.",
+                "3. All atoms of the same element are identical (same mass and size).",
+                "4. Atoms of different elements have different masses and sizes.",
+                "5. Atoms combine in small whole numbers to form compounds."
+              ]
+            },
+            {
+              "slide_number": 78,
+              "title": "Drawbacks of Dalton's Atomic Theory",
+              "bullet_points": [
+                "1. Atoms are divisible: Atoms can be subdivided into protons, neutrons, and electrons.",
+                "2. Atoms of the same element are not always identical: Isotopes exist.",
+                "3. Atoms of different elements can have similar masses: Isobars exist.",
+                "4. Atoms do not always combine in simple whole-number ratios: Complex organic compounds (e.g., sugar C₁₂H₂₂O₁₁)."
+              ]
+            },
+            {
+              "slide_number": 79,
+              "title": "Modern Atomic Theory",
+              "bullet_points": [
+                "Modified postulates based on new discoveries:",
+                "1. Elements are made of small particles called atoms.",
+                "2. Atoms cannot be created or destroyed during ordinary chemical reactions.",
+                "3. All atoms of the same element have the same atomic number but may vary in mass number (isotopes).",
+                "4. Atoms of different elements are different.",
+                "5. Atoms combine in small whole numbers to form compounds."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Discoveries of Fundamental Subatomic Particles and the Atomic Nucleus",
+          "slides": [
+            {
+              "slide_number": 80,
+              "title": "Discovery of the Proton",
+              "bullet_points": [
+                "Eugene Goldstein (1886) discovered the proton.",
+                "Used a cathode ray tube with a perforated cathode.",
+                "Observed 'anode rays' or 'canal rays'.",
+                "These rays travel from the anode through the holes in the cathode.",
+                "They are positively charged particles.",
+                "When hydrogen gas was used, the particles had the highest e/m ratio.",
+                "These particles were named 'protons'."
+              ]
+            },
+            {
+              "slide_number": 81,
+              "title": "Properties of Anode Rays",
+              "bullet_points": [
+                "1. Travel in straight lines.",
+                "2. Consist of material particles.",
+                "3. Deflected in electric and magnetic fields (opposite to cathode rays).",
+                "4. The nature and e/m ratio depends on the gas in the tube.",
+                "5. These particles are simply positively charged gaseous ions."
+              ]
+            },
+            {
+              "slide_number": 82,
+              "title": "Discovery of the Electron: Cathode Ray Tube",
+              "bullet_points": [
+                "J.J. Thomson (1897) discovered the electron.",
+                "Used a Crooke's discharge tube (cathode ray tube).",
+                "When high voltage is applied at low pressure, a greenish glow is observed at the anode.",
+                "Rays are emitted from the cathode (cathode rays).",
+                "Key experiments:"
+              ]
+            },
+            {
+              "slide_number": 83,
+              "title": "Thomson's Experiments on Cathode Rays",
+              "bullet_points": [
+                "Experiment 1: Straight-line travel",
+                "• A small object placed between cathode and anode casts a shadow.",
+                "• Concludes: Cathode rays travel in straight lines.",
+                "Experiment 2: Particle nature",
+                "• A light paddle wheel placed in the path rotates.",
+                "• Concludes: Cathode rays have mass and kinetic energy (particles).",
+                "Experiment 3: Charge",
+                "• Cathode rays bend towards the positive plate in an electric field.",
+                "• Concludes: Cathode rays are negatively charged."
+              ]
+            },
+            {
+              "slide_number": 84,
+              "title": "Properties of Cathode Rays",
+              "bullet_points": [
+                "1. Travel in straight lines.",
+                "2. Cause mechanical motion (possess kinetic energy).",
+                "3. Properties are independent of electrode and gas used.",
+                "4. Have a constant e/m ratio.",
+                "5. Are negatively charged.",
+                "6. Produce fluorescence on a ZnS screen.",
+                "7. Ionise gases.",
+                "8. Have good penetrating power.",
+                "9. Produce X-rays when they hit metals."
+              ]
+            },
+            {
+              "slide_number": 85,
+              "title": "J.J. Thomson's Atomic Model",
+              "bullet_points": [
+                "Proposed in 1904.",
+                "Known as the 'Plum Pudding' model.",
+                "Atoms are positively charged spheres with electrons embedded in them.",
+                "Electrons are like 'plums' or 'blueberries' in a 'pudding'.",
+                "Local analogy: Watermelon (seeds = electrons, red part = positive matter).",
+                "Success: Explained electrical neutrality of atoms.",
+                "Failure: Could not explain the stability of atoms or the existence of the nucleus."
+              ]
+            },
+            {
+              "slide_number": 86,
+              "title": "Millikan's Oil Drop Experiment",
+              "bullet_points": [
+                "Robert Millikan (1909) determined the charge and mass of the electron.",
+                "Experiment:",
+                "• Sprayed fine oil droplets into a chamber.",
+                "• X-rays ionized the air, and electrons attached to oil drops.",
+                "• Applied an electric field to balance the gravitational force.",
+                "Result:",
+                "• Charge of electron = 1.59 × 10⁻¹⁹ C",
+                "• Mass of electron = 9 × 10⁻²⁸ g"
+              ]
+            },
+            {
+              "slide_number": 87,
+              "title": "Discovery of the Nucleus: Rutherford's Gold Foil Experiment",
+              "bullet_points": [
+                "Ernest Rutherford (1911) discovered the nucleus.",
+                "Experiment: Bombarded a very thin gold foil with alpha (α) particles.",
+                "Expected (if Thomson's model correct): α particles should pass straight through.",
+                "Observations:",
+                "• Most α particles passed straight through.",
+                "• Some α particles were deflected at large angles.",
+                "• A few α particles bounced straight back."
+              ]
+            },
+            {
+              "slide_number": 88,
+              "title": "Rutherford's Atomic Model",
+              "bullet_points": [
+                "Conclusion from the gold foil experiment:",
+                "• Most of the atom is empty space.",
+                "• All positive charge and almost all mass is concentrated in a small central region (the nucleus).",
+                "• Electrons orbit around the nucleus.",
+                "Planetary Model:",
+                "• Similar to planets orbiting the Sun.",
+                "• Nucleus is like the Sun, electrons are like the planets.",
+                "Diameter of nucleus: 10⁻¹³ cm, Diameter of atom: 10⁻⁸ cm."
+              ]
+            },
+            {
+              "slide_number": 89,
+              "title": "Drawbacks of Rutherford's Model",
+              "bullet_points": [
+                "1. Inconsistent with classical electrodynamics:",
+                "• A charged particle in circular motion emits energy.",
+                "• Electrons would lose energy and spiral into the nucleus, causing the atom to collapse.",
+                "2. Could not explain atomic spectra:",
+                "• The pattern of lines in the spectrum of atoms."
+              ]
+            },
+            {
+              "slide_number": 90,
+              "title": "Bohr's Atomic Model",
+              "bullet_points": [
+                "Proposed by Niels Bohr in 1913.",
+                "Overcame the limitations of Rutherford's model.",
+                "Five principles:",
+                "1. Electrons are in specific, circular orbits around the nucleus.",
+                "2. Electrons occupy only certain orbits (stationary orbits/shells).",
+                "3. These shells are associated with a fixed amount of energy (energy levels).",
+                "4. Energy increases with distance from the nucleus (K < L < M < N).",
+                "5. Electrons do not lose energy while in a particular orbit."
+              ]
+            },
+            {
+              "slide_number": 91,
+              "title": "Discovery of the Neutron",
+              "bullet_points": [
+                "James Chadwick (1932) discovered the neutron.",
+                "Experiment: Bombarded beryllium with alpha particles.",
+                "Observations:",
+                "• A paddle wheel rotated (radiation has material particles).",
+                "• No deflection in an electric field (particles are neutral).",
+                "Conclusion: Neutral particles called 'neutrons' are in the nucleus.",
+                "Neutrons explain the discrepancy in atomic masses:",
+                "• Carbon has 6 protons but mass is 12 amu (6 protons + 6 neutrons)."
+              ]
+            },
+            {
+              "slide_number": 92,
+              "title": "Summary: Subatomic Particles",
+              "bullet_points": [
+                "Proton: +1 charge, mass 1.0073 amu, found in the nucleus.",
+                "Neutron: 0 charge, mass 1.0087 amu, found in the nucleus.",
+                "Electron: -1 charge, mass 0.0005486 amu, found outside the nucleus.",
+                "Basic atomic model:",
+                "• Small, positively charged nucleus (protons and neutrons).",
+                "• Electrons revolving around the nucleus in orbits."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Composition of an Atom and the Isotopes",
+          "slides": [
+            {
+              "slide_number": 93,
+              "title": "Properties of Subatomic Particles",
+              "bullet_points": [
+                "Electron:",
+                "• Charge: -1, Mass: 9 × 10⁻³¹ kg (0.0005486 amu)",
+                "• Location: Outside the nucleus",
+                "Proton:",
+                "• Charge: +1, Mass: 1.673 × 10⁻²⁷ kg (1.0073 amu)",
+                "• Location: Inside the nucleus",
+                "Neutron:",
+                "• Charge: 0, Mass: 1.675 × 10⁻²⁷ kg (1.0087 amu)",
+                "• Location: Inside the nucleus"
+              ]
+            },
+            {
+              "slide_number": 94,
+              "title": "Atomic Number and Mass Number",
+              "bullet_points": [
+                "Atomic Number (Z): Number of protons in an atom.",
+                "• Determines the identity of the element.",
+                "• In a neutral atom, number of protons = number of electrons.",
+                "Mass Number (A): Total number of protons and neutrons in the nucleus.",
+                "• A = number of protons + number of neutrons",
+                "• Also called the total number of nucleons.",
+                "Notation: ˄ᙆX (mass number at upper left, atomic number at lower left).",
+                "Example: ¹²₆C (Carbon-12, 6 protons, 6 neutrons)."
+              ]
+            },
+            {
+              "slide_number": 95,
+              "title": "Isotopes",
+              "bullet_points": [
+                "Isotopes: Atoms of the same element with the same number of protons but different numbers of neutrons.",
+                "Have the same atomic number but different mass numbers.",
+                "Examples:",
+                "• Hydrogen: Protium (¹H, 0 neutrons), Deuterium (²H, 1 neutron), Tritium (³H, 2 neutrons).",
+                "• Carbon: Carbon-12 (6 neutrons), Carbon-13 (7 neutrons), Carbon-14 (8 neutrons).",
+                "Most naturally occurring elements are a mixture of isotopes."
+              ]
+            },
+            {
+              "slide_number": 96,
+              "title": "Average Atomic Mass",
+              "bullet_points": [
+                "Most elements have isotopes.",
+                "Average atomic mass is a weighted average of all naturally occurring isotopes.",
+                "Formula: Average Atomic Mass = [(% isotope 1)(mass isotope 1)]/100 + [(% isotope 2)(mass isotope 2)]/100 + ...",
+                "Example: Lithium (7 amu, 93% and 6 amu, 7%)",
+                "Average = (7 × 93)/100 + (6 × 7)/100 = 6.51 + 0.42 = 6.93 amu",
+                "This explains why atomic masses are often not whole numbers."
+              ]
+            },
+            {
+              "slide_number": 97,
+              "title": "Atomic Mass Unit (amu)",
+              "bullet_points": [
+                "Atomic masses are measured on a scale relative to Carbon-12.",
+                "One atom of Carbon-12 is assigned a mass of exactly 12 atomic mass units (amu).",
+                "1 amu = 1/12 the mass of a Carbon-12 atom.",
+                "1 amu = 1.660539040 × 10⁻²⁴ g.",
+                "The atomic mass unit is also called the Dalton (Da).",
+                "Examples:",
+                "• Helium-4: 4.0026 amu",
+                "• Sulfur-32: 31.972 amu"
+              ]
+            },
+            {
+              "slide_number": 98,
+              "title": "Main Energy Levels (Shells)",
+              "bullet_points": [
+                "Electrons are arranged in energy levels (shells) around the nucleus.",
+                "Principle: Electrons fill shells starting from the lowest energy (closest to nucleus).",
+                "Shells are designated by:",
+                "• Numbers: 1, 2, 3, 4...",
+                "• Letters: K, L, M, N...",
+                "Energy increases with distance from nucleus: K < L < M < N.",
+                "Maximum number of electrons in a shell = 2n².",
+                "• K (n=1): 2 electrons",
+                "• L (n=2): 8 electrons",
+                "• M (n=3): 18 electrons",
+                "• N (n=4): 32 electrons"
+              ]
+            },
+            {
+              "slide_number": 99,
+              "title": "Electronic Configuration",
+              "bullet_points": [
+                "Electronic configuration is the arrangement of electrons in shells.",
+                "Rules:",
+                "• Fill electrons starting from K shell.",
+                "• Valence shell (outermost) can hold a maximum of 8 electrons.",
+                "Example: Sodium (11 electrons): 2, 8, 1",
+                "Example: Calcium (20 electrons): 2, 8, 8, 2",
+                "Atomic diagrams can be drawn to show this arrangement.",
+                "Electron configuration determines the chemical properties of an element."
+              ]
+            },
+            {
+              "slide_number": 100,
+              "title": "Valence Electrons",
+              "bullet_points": [
+                "Valence electrons: Electrons in the outermost shell of an atom.",
+                "They are the most easily lost, gained, or shared in chemical reactions.",
+                "They determine the element's chemical properties and reactivity.",
+                "Example: Silicon (2, 8, 4) has 4 valence electrons.",
+                "Example: Argon (2, 8, 8) has 8 valence electrons.",
+                "Elements with 8 valence electrons (noble gases) are stable and unreactive."
+              ]
+            },
+            {
+              "slide_number": 101,
+              "title": "Electronic Configuration: First 20 Elements",
+              "bullet_points": [
+                "H (1): 1",
+                "He (2): 2",
+                "Li (3): 2, 1",
+                "Be (4): 2, 2",
+                "B (5): 2, 3",
+                "C (6): 2, 4",
+                "N (7): 2, 5",
+                "O (8): 2, 6",
+                "F (9): 2, 7",
+                "Ne (10): 2, 8",
+                "Na (11): 2, 8, 1",
+                "Mg (12): 2, 8, 2",
+                "Al (13): 2, 8, 3",
+                "Si (14): 2, 8, 4",
+                "P (15): 2, 8, 5",
+                "S (16): 2, 8, 6",
+                "Cl (17): 2, 8, 7",
+                "Ar (18): 2, 8, 8",
+                "K (19): 2, 8, 8, 1",
+                "Ca (20): 2, 8, 8, 2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "PERIODIC CLASSIFICATION OF ELEMENTS",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Historical Development of Periodic Classification of the Elements",
+          "slides": [
+            {
+              "slide_number": 102,
+              "title": "Introduction: Why Classify Elements?",
+              "bullet_points": [
+                "As more elements were discovered, scientists needed a system to organize them.",
+                "Accurate measurements of atomic masses were available.",
+                "Scientists observed that chemical behavior might be related to atomic mass.",
+                "Early attempts at classification included Dobereiner's Triads and Newland's Law of Octaves."
+              ]
+            },
+            {
+              "slide_number": 103,
+              "title": "Dobereiner's Triads (1829)",
+              "bullet_points": [
+                "Johann Dobereiner identified groups of three elements (triads) with similar properties.",
+                "The atomic weight of the middle element was the arithmetic mean of the other two.",
+                "Examples:",
+                "• Li (7), Na (23), K (39): 7 + 39 / 2 = 23",
+                "• Ca (40), Sr (88), Ba (137): 40 + 137 / 2 = 88.5",
+                "• Cl (35.5), Br (80), I (127): 35.5 + 127 / 2 = 81.25",
+                "Only a few such triads existed, so it couldn't be generalized."
+              ]
+            },
+            {
+              "slide_number": 104,
+              "title": "Newland's Law of Octaves (1864)",
+              "bullet_points": [
+                "John Alexander Newlands arranged elements in increasing order of atomic weight.",
+                "He observed that the properties of every eighth element are similar to the first.",
+                "Like the first octave in music: Do, Re, Mi, Fa, So, La, Si, Do.",
+                "Examples: Li, Be, B, C, N, O, F, Na (Na similar to Li).",
+                "Limitations:",
+                "• Inert gases were not yet discovered.",
+                "• The pattern failed after calcium."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Mendeleev's Classification of the Elements",
+          "slides": [
+            {
+              "slide_number": 105,
+              "title": "Mendeleev's Periodic Law",
+              "bullet_points": [
+                "Dmitri Mendeleev (Russia) and Lothar Meyer (Germany) independently proposed the Periodic Law.",
+                "Mendeleev's Periodic Law:",
+                "• The physical and chemical properties of elements are a periodic function of their atomic weights.",
+                "Mendeleev's Periodic Table (1871):",
+                "• 63 known elements arranged in periods (horizontal) and groups (vertical).",
+                "• Left gaps for undiscovered elements.",
+                "• Predicted their properties with remarkable accuracy."
+              ]
+            },
+            {
+              "slide_number": 106,
+              "title": "Features of Mendeleev's Periodic Table",
+              "bullet_points": [
+                "Periods (horizontal rows):",
+                "• 7 periods (series).",
+                "• 1st, 2nd, and 3rd: Short periods.",
+                "• 4th, 5th, 6th, and 7th: Long periods.",
+                "Groups (vertical columns):",
+                "• 8 groups (I to VIII).",
+                "• Subgroups A and B.",
+                "• Group IA: Alkali metals.",
+                "• Group IIA: Alkaline earth metals.",
+                "• Group VIIA: Halogens.",
+                "• Group O (later added): Noble gases."
+              ]
+            },
+            {
+              "slide_number": 107,
+              "title": "Merits and Demerits of Mendeleev's Table",
+              "bullet_points": [
+                "Merits:",
+                "• Systematic study of elements.",
+                "• Predicted the existence and properties of undiscovered elements.",
+                "• Led to the discovery of new elements.",
+                "Demerits:",
+                "• Some elements were placed incorrectly (e.g., Ar (40) before K (39)).",
+                "• Co (58.9) before Ni (58.6).",
+                "• Te (127.6) before I (126.9).",
+                "• Did not explain why properties repeat."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The Modern Periodic Table",
+          "slides": [
+            {
+              "slide_number": 108,
+              "title": "Modern Periodic Law",
+              "bullet_points": [
+                "Proposed by Henry Moseley (1913).",
+                "Modern Periodic Law:",
+                "• The physical and chemical properties of elements are a periodic function of their atomic numbers.",
+                "This solved the problems of Mendeleev's table.",
+                "The modern periodic table is based on atomic number."
+              ]
+            },
+            {
+              "slide_number": 109,
+              "title": "Structure of the Modern Periodic Table",
+              "bullet_points": [
+                "Periods (horizontal rows): 7 periods.",
+                "• Period 1: 2 elements (H, He)",
+                "• Periods 2 & 3: 8 elements each.",
+                "• Periods 4 & 5: 18 elements each.",
+                "• Period 6: 32 elements.",
+                "• Period 7: 32 elements (many radioactive/synthetic).",
+                "Groups (vertical columns): 18 groups.",
+                "• Main groups (A groups): 1A to 8A.",
+                "• Subgroups (B groups): 1B to 8B."
+              ]
+            },
+            {
+              "slide_number": 110,
+              "title": "Relationship: Electron Configuration and Position",
+              "bullet_points": [
+                "Elements in the same period have the same number of electron shells.",
+                "Example: Na (2,8,1) is in period 3.",
+                "Elements in the same group have the same number of valence electrons.",
+                "Example: F (2,7) and Cl (2,8,7) are both in Group VIIA.",
+                "The group number for main group elements equals the number of valence electrons.",
+                "Example: Sodium (1 valence electron) is in Group IA."
+              ]
+            },
+            {
+              "slide_number": 111,
+              "title": "Block Classification of Elements",
+              "bullet_points": [
+                "s-block: Last electron enters an s-orbital.",
+                "• ns¹ (alkali metals), ns² (alkaline earth metals).",
+                "p-block: Last electron enters a p-orbital.",
+                "• ns² np¹⁻⁶ (Groups IIIA to VIIIA).",
+                "d-block: Last electron enters a d-orbital.",
+                "• (n-1)d¹⁻¹⁰ ns⁰⁻² (transition metals).",
+                "f-block: Last electron enters an f-orbital.",
+                "• (n-2)f¹⁻¹⁴ (n-1)d⁰⁻¹ ns² (lanthanides and actinides)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "The Major Trends in the Periodic Table",
+          "slides": [
+            {
+              "slide_number": 112,
+              "title": "Atomic Radius (Atomic Size)",
+              "bullet_points": [
+                "Atomic radius: One-half the distance between the nuclei of two adjacent atoms.",
+                "Trends:",
+                "• Across a period (left to right): Atomic radius decreases.",
+                "• Reason: Increasing nuclear charge pulls electrons closer.",
+                "• Down a group (top to bottom): Atomic radius increases.",
+                "• Reason: Addition of electron shells.",
+                "Example: Li > Be > B > C > N > O > F (decreasing size)."
+              ]
+            },
+            {
+              "slide_number": 113,
+              "title": "Ionization Energy",
+              "bullet_points": [
+                "Ionization energy: The minimum energy required to remove an electron from a gaseous atom in its ground state.",
+                "X(g) → X⁺(g) + e⁻",
+                "Trends:",
+                "• Across a period: Increases (more difficult to remove electron).",
+                "• Reason: Increasing nuclear charge, smaller radius.",
+                "• Down a group: Decreases (easier to remove electron).",
+                "• Reason: More shielding, larger radius.",
+                "Example: Li < Be < B < C < N < O < F (increasing IE)."
+              ]
+            },
+            {
+              "slide_number": 114,
+              "title": "Electron Affinity",
+              "bullet_points": [
+                "Electron affinity: The energy change when an electron is added to a gaseous atom to form a negative ion.",
+                "X(g) + e⁻ → X⁻(g)",
+                "First electron affinity is usually negative (exothermic, energy released).",
+                "Trends:",
+                "• Across a period: More negative (stronger tendency to gain electron).",
+                "• Down a group: Less negative (weaker tendency to gain electron).",
+                "Nonmetals have higher electron affinities than metals.",
+                "Halogens have the highest electron affinities."
+              ]
+            },
+            {
+              "slide_number": 115,
+              "title": "Electronegativity",
+              "bullet_points": [
+                "Electronegativity: The tendency of an atom in a molecule to attract shared electrons towards itself.",
+                "Developed by Linus Pauling.",
+                "It is a dimensionless property.",
+                "Trends:",
+                "• Across a period: Increases.",
+                "• Reason: Increasing nuclear charge.",
+                "• Down a group: Decreases.",
+                "• Reason: More shielding.",
+                "Fluorine is the most electronegative element (4.0).",
+                "Cesium is the least electronegative element (0.7)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "CHEMICAL BONDING",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Chemical Bonding",
+          "slides": [
+            {
+              "slide_number": 116,
+              "title": "Introduction to Chemical Bonding",
+              "bullet_points": [
+                "Most elements do not exist in their atomic form.",
+                "Atoms combine to form molecules or compounds.",
+                "Atoms are held together by attractive forces called chemical bonds.",
+                "A chemical bond is the force that holds atoms together.",
+                "Atoms form bonds to become more stable."
+              ]
+            },
+            {
+              "slide_number": 117,
+              "title": "The Octet Rule",
+              "bullet_points": [
+                "Proposed by Gilbert Lewis.",
+                "Octet Rule: Atoms tend to form compounds in ways that give them eight valence electrons.",
+                "Eight valence electrons = stable noble gas configuration.",
+                "Exceptions: Hydrogen and Helium need only 2 electrons (duet rule).",
+                "Ways to satisfy the octet rule:",
+                "1. Losing valence electrons (metals).",
+                "2. Gaining valence electrons (nonmetals).",
+                "3. Sharing valence electrons (nonmetals)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Ionic Bonding",
+          "slides": [
+            {
+              "slide_number": 118,
+              "title": "Ions: Definition and Formation",
+              "bullet_points": [
+                "Ion: An atom or molecule with a net electrical charge.",
+                "Cation: A positively charged ion (atom loses electrons).",
+                "• Example: Na⁺, Ca²⁺, Al³⁺",
+                "Anion: A negatively charged ion (atom gains electrons).",
+                "• Example: Cl⁻, O²⁻, NO₃⁻",
+                "Ionization: The process of a neutral atom losing or gaining electrons."
+              ]
+            },
+            {
+              "slide_number": 119,
+              "title": "Ionic Bond Formation",
+              "bullet_points": [
+                "Ionic bond: The electrostatic attraction between oppositely charged ions.",
+                "Usually formed between a metal and a nonmetal.",
+                "Metals lose electrons to form cations.",
+                "Nonmetals gain electrons to form anions.",
+                "Example: Sodium chloride (NaCl):",
+                "Na (2,8,1) → Na⁺ (2,8) + e⁻",
+                "Cl (2,8,7) + e⁻ → Cl⁻ (2,8,8)",
+                "Na⁺ + Cl⁻ → NaCl (ionic compound)"
+              ]
+            },
+            {
+              "slide_number": 120,
+              "title": "Lewis Dot Formulas for Ionic Compounds",
+              "bullet_points": [
+                "Lewis symbol: The chemical symbol of the element with valence electrons shown as dots.",
+                "Shows the transfer of electrons in ionic bond formation.",
+                "Example: Sodium chloride (NaCl)",
+                "• Na· → Na⁺ + e⁻",
+                "• :Cl· + e⁻ → :Cl:⁻",
+                "Example: Magnesium oxide (MgO)",
+                "• ·Mg· → Mg²⁺ + 2e⁻",
+                "• :O: + 2e⁻ → :O:²⁻"
+              ]
+            },
+            {
+              "slide_number": 121,
+              "title": "Properties of Ionic Compounds",
+              "bullet_points": [
+                "1. Form crystals (crystalline solids).",
+                "2. High melting and boiling points.",
+                "3. Hard and brittle.",
+                "4. Soluble in polar solvents (like water).",
+                "5. Conduct electricity when dissolved in water or in molten state.",
+                "6. Have high density."
+              ]
+            },
+            {
+              "slide_number": 122,
+              "title": "Explanation of Ionic Compound Properties",
+              "bullet_points": [
+                "Crystals: Regular 3D structure of alternating ions.",
+                "High melting points: Strong electrostatic forces between ions require a lot of energy to break.",
+                "Brittle: Shifting ions brings like charges together, causing repulsion and fracture.",
+                "Soluble in water: Water molecules are polar and can separate ions.",
+                "Conduct electricity: Ions are free to move in solution or molten state.",
+                "High density: Ions are closely packed."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Covalent Bonding",
+          "slides": [
+            {
+              "slide_number": 123,
+              "title": "Covalent Bond Formation",
+              "bullet_points": [
+                "Covalent bond: A bond formed when two atoms share one or more pairs of electrons.",
+                "Occurs between nonmetals.",
+                "Electrons shared are called bonding electrons.",
+                "Types of covalent bonds:",
+                "• Single bond: One pair of electrons shared (H₂, Cl₂).",
+                "• Double bond: Two pairs shared (O₂, CO₂).",
+                "• Triple bond: Three pairs shared (N₂, C₂H₂)."
+              ]
+            },
+            {
+              "slide_number": 124,
+              "title": "Covalent Bond Formation: Examples",
+              "bullet_points": [
+                "Single bond: H₂",
+                "• H· + ·H → H:H or H-H",
+                "Single bond: Cl₂",
+                "• :Cl· + ·Cl: → :Cl:Cl: or Cl-Cl",
+                "Double bond: O₂",
+                "• :O· + ·O: → :O::O: or O=O",
+                "Triple bond: N₂",
+                "• :N· + ·N: → :N:::N: or N≡N"
+              ]
+            },
+            {
+              "slide_number": 125,
+              "title": "Polarity in Covalent Bonds",
+              "bullet_points": [
+                "Nonpolar covalent bond: Equal sharing of electrons.",
+                "• Occurs between identical atoms (H₂, Cl₂).",
+                "• Electronegativity difference is 0 or very small.",
+                "Polar covalent bond: Unequal sharing of electrons.",
+                "• Occurs between different atoms (HCl, H₂O).",
+                "• Electronegativity difference is between 0.5 and 2.0.",
+                "• Partial charges develop: δ⁺ (less electronegative), δ⁻ (more electronegative)."
+              ]
+            },
+            {
+              "slide_number": 126,
+              "title": "Polar and Nonpolar Molecules",
+              "bullet_points": [
+                "Nonpolar molecule:",
+                "• No net dipole moment.",
+                "• Can be nonpolar bonds or polar bonds arranged symmetrically.",
+                "• Examples: H₂, CO₂, CCl₄, CH₄.",
+                "Polar molecule:",
+                "• Net dipole moment.",
+                "• Contains polar bonds arranged asymmetrically.",
+                "• Examples: H₂O, NH₃, HCl.",
+                "Water (H₂O) is polar: bent shape, net dipole.",
+                "Carbon dioxide (CO₂) is nonpolar: linear shape, dipoles cancel."
+              ]
+            },
+            {
+              "slide_number": 127,
+              "title": "Coordinate Covalent Bond (Dative Bond)",
+              "bullet_points": [
+                "Coordinate covalent bond: A covalent bond where the shared electron pair is provided by only one of the bonded atoms.",
+                "Conditions:",
+                "• One atom has a lone pair of electrons.",
+                "• The other atom has an empty orbital.",
+                "Examples:",
+                "• Formation of ammonium ion (NH₄⁺): NH₃ + H⁺ → NH₄⁺",
+                "• Formation of hydronium ion (H₃O⁺): H₂O + H⁺ → H₃O⁺",
+                "• Formation of Al₂Cl₆."
+              ]
+            },
+            {
+              "slide_number": 128,
+              "title": "Properties of Covalent Compounds",
+              "bullet_points": [
+                "1. Usually gases or liquids at room temperature (some soft solids).",
+                "2. Low melting and boiling points (except diamond).",
+                "3. Poor conductors of electricity (except graphite, HCl solution).",
+                "4. Soluble in nonpolar solvents, insoluble in water.",
+                "5. Reactions are slower than ionic compounds.",
+                "6. Have low density."
+              ]
+            },
+            {
+              "slide_number": 129,
+              "title": "Explanation of Covalent Compound Properties",
+              "bullet_points": [
+                "Gases/liquids: Weak intermolecular forces between molecules.",
+                "Low melting/boiling points: Weak intermolecular forces require little energy to overcome.",
+                "Poor conductors: No free electrons or ions (except exceptions).",
+                "Soluble in nonpolar solvents: 'Like dissolves like' principle.",
+                "Slow reactions: Bond breaking requires high energy.",
+                "Low density: Molecules are loosely packed."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Metallic Bonding",
+          "slides": [
+            {
+              "slide_number": 130,
+              "title": "Metallic Bond Formation",
+              "bullet_points": [
+                "Metallic bond: The force of attraction between metal cations and a sea of delocalized electrons.",
+                "Occurs in metals.",
+                "Sea of Electrons Model:",
+                "• Metal atoms release their valence electrons.",
+                "• These electrons form a mobile 'sea' of electrons.",
+                "• The metal cations are immersed in this sea.",
+                "• The attraction between cations and electrons holds the metal together."
+              ]
+            },
+            {
+              "slide_number": 131,
+              "title": "Properties of Metals",
+              "bullet_points": [
+                "1. Good conductors of electricity and heat.",
+                "• Free-moving electrons carry charge and thermal energy.",
+                "2. Malleable: Can be hammered into thin sheets.",
+                "• Ions can slide past each other without breaking the bond.",
+                "3. Ductile: Can be drawn into wires.",
+                "4. Luster: Shiny appearance.",
+                "• Electrons reflect light.",
+                "5. High melting and boiling points."
+              ]
+            },
+            {
+              "slide_number": 132,
+              "title": "Factors Affecting Metallic Bond Strength",
+              "bullet_points": [
+                "1. Number of valence electrons: More electrons = stronger bond.",
+                "• Magnesium (2 valence electrons) has stronger metallic bond than sodium (1 valence electron).",
+                "2. Charge on the metal ion: Higher charge = stronger bond.",
+                "• Al³⁺ has stronger bond than Na⁺.",
+                "3. Size of the metal ion: Smaller ion = stronger bond.",
+                "• Li⁺ has stronger bond than Cs⁺.",
+                "Transition metals have very strong metallic bonds because they can involve more d-electrons."
+              ]
+            },
+            {
+              "slide_number": 133,
+              "title": "Summary: Types of Chemical Bonds",
+              "bullet_points": [
+                "Ionic Bond:",
+                "• Metal + Nonmetal",
+                "• Transfer of electrons",
+                "• Strong electrostatic attraction",
+                "• Crystalline, high melting point, conducts when dissolved/molten",
+                "Covalent Bond:",
+                "• Nonmetal + Nonmetal",
+                "• Sharing of electrons",
+                "• Forms molecules",
+                "• Low melting point, poor conductor",
+                "Metallic Bond:",
+                "• Metal + Metal",
+                "• Sea of delocalized electrons",
+                "• Conducts electricity and heat, malleable, ductile"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

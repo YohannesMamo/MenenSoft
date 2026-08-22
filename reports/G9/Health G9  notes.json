@@ -1,0 +1,882 @@
+{
+  "subject": "Health and Physical Education",
+  "grade": "9",
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Sport and Society",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Sport and Economy",
+          "summary": "This section explores the relationship between sport and economic development. It defines economy as the production, distribution, and consumption of goods and services. Sport is identified as a significant economic sector that creates jobs (coaches, media, vendors) and has strong links with education, real estate, and tourism. The text highlights Ethiopian and international athletes who have invested in various industries, contributing to economic growth. It emphasizes that organizing sporting events stimulates economic activity through spending on hotels, transport, food, and other services, thus benefiting various sectors of society.",
+          "notes": [
+            "Sport is a significant economic sector providing employment and business opportunities.",
+            "It has a strong relationship with other sectors like education, real estate, and tourism.",
+            "Top athletes like Haile Gebresilassie and Derartu Tulu invest in sectors such as hotels, agriculture, and manufacturing, contributing to the economy.",
+            "International athletes like Cristiano Ronaldo and Samuel Eto'o also have significant business investments.",
+            "Organizing international sporting events generates substantial economic activity.",
+            "The sport industry contributes to the overall economic development of a country."
+          ],
+          "keywords": [
+            {
+              "term": "Economy",
+              "definition": "An area of the production, distribution, trade, and consumption of goods and services by different agents."
+            },
+            {
+              "term": "Sport",
+              "definition": "An organized, competitive form of play."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Sport and Gender",
+          "summary": "This section discusses the relationship between sport and gender, highlighting historical inequalities and progress toward gender equality. It explains that gender refers to the social construction of men and women. While sport offers numerous benefits, girls and women have historically had fewer opportunities than boys and men, leading to a higher rate of inactivity among women. The text details the history of women's participation in sports, from early pioneers like Helene Madison and Violet Piercy to modern Ethiopian athletes like Derartu Tulu, Fatuma Roba, and Tigist Gezahagn, who have achieved international success and leadership roles. It emphasizes that access to physical education and sport is a fundamental human right, as stated by UNESCO and the Ethiopian Constitution. The section concludes that achieving gender equality in sport is not only about equal participation but also about using sport as a tool for social empowerment for women and girls.",
+          "notes": [
+            "Gender refers to the social construction of men and women, encompassing behaviors, interests, and attitudes.",
+            "Historically, women have faced division and separation in sports participation.",
+            "Sport offers benefits like stress management, communication skills, and the ability to work well with others.",
+            "Women have made significant achievements in sports, such as Helene Madison (swimming) and Nawal El Moutawakel (400m hurdles).",
+            "Ethiopian female athletes like Derartu Tulu, Fatuma Roba, Lidiya Tafesse, and Loza Abera have achieved recognition in athletics and football.",
+            "Women are now taking leadership positions in sports, like Derartu Tulu as President of the Ethiopian Athletic Federation.",
+            "Participation in physical education and sport is a fundamental right for all, as per the UNESCO International Charter and the Ethiopian Constitution.",
+            "Sport can be used as a tool for social empowerment and for addressing important social issues like health and women's rights."
+          ],
+          "keywords": [
+            {
+              "term": "Gender",
+              "definition": "The social construction of men and women, dealing with certain behaviors and expectations attributed to each gender."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Sport and Technology",
+          "summary": "This section examines the profound impact of technology on the development of sports. It notes that technology has been integrated into sports for a long time to improve individual performance. Modern advancements like wearables (fitness trackers, smart clothing, sensor-enabled shoes) and eSports are highlighted. The section particularly focuses on the use of technology to aid refereeing, such as Video Assistant Referee (VAR) in football, which is used for reviewing goals, penalty decisions, and red card incidents, and goal-line technology. It also mentions other technological aids in athletics like photo-finish cameras and stopwatches for accurate timing and measurement.",
+          "notes": [
+            "Technology plays a crucial role in modern sports, especially at the elite level.",
+            "Wearable technology like smart clothing and sensor-enabled shoes are used for performance tracking.",
+            "eSports is a fast-growing sector built around competitive gaming.",
+            "Advanced technology helps in manufacturing better sports equipment and facilities.",
+            "Goal-line technology determines whether the ball has wholly passed the goal line.",
+            "Video Assistant Referee (VAR) is used to review goals, penalty decisions, direct red card incidents, and mistaken identity.",
+            "Technological advancements in athletics include stopwatches, photo-finish cameras, and performance tracking systems."
+          ],
+          "keywords": [
+            {
+              "term": "Technology",
+              "definition": "The application of scientific knowledge for practical purposes, especially in industry, and in sports, it refers to innovations that improve performance, equipment, and officiating."
+            },
+            {
+              "term": "eSports",
+              "definition": "A competitive gaming medium that involves video game competitions, a result of digital technology emerging in the new market industry."
+            },
+            {
+              "term": "VAR (Video Assistant Referee)",
+              "definition": "A technology used in football to assist the main referee in making decisions regarding goals, penalties, and red cards."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Consequence of Doping",
+          "summary": "This section defines doping as the use of prohibited substances or methods by athletes to enhance performance. It explains that doping is prohibited because it constitutes cheating and poses significant health risks. The text details the health consequences, which include risks from unsterile injection methods leading to diseases like hepatitis and HIV/AIDS. It also outlines the sporting sanctions for doping violations, which can include disqualification of results, medals lost, bans from all sport for up to four years or life, publication of the violation, and financial penalties. The social consequences are also discussed, including damage to the athlete's reputation and public humiliation. The section emphasizes that athletes should say no to doping and that the consequences are far-reaching and damaging to their health, career, and social standing.",
+          "notes": [
+            "Doping is the use of prohibited substances or methods to enhance athletic performance.",
+            "It is prohibited because it is considered cheating.",
+            "Doping poses significant health risks, including the transmission of infectious diseases from unsterile injections.",
+            "Health consequences include risks of hepatitis and HIV/AIDS.",
+            "Sporting sanctions include disqualification, loss of medals, bans from sport, publication of violations, and financial penalties.",
+            "Social consequences include damage to reputation, public disrespect, and media scrutiny.",
+            "Doping violations can put pressure on the athlete's family and friends.",
+            "Athletes should avoid doping and understand its severe and lasting consequences."
+          ],
+          "keywords": [
+            {
+              "term": "Doping",
+              "definition": "The use of prohibited substances or methods by athletes to enhance performance, considered cheating and a threat to health."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Health and Physical Fitness",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Body System and Exercise",
+          "summary": "This section explains the responses of the cardiovascular, respiratory, and muscular systems to exercise. It defines the human body as a biological machine with eleven organ systems, focusing on the cardiovascular, respiratory, and muscular systems. Cardiovascular system responses to exercise include increased heart rate to supply more oxygen to working muscles. The respiratory system increases blood flow and oxygen delivery while removing carbon dioxide. The muscular system requires more oxygen during activity, leading to an increased demand on the cardiovascular and respiratory systems. The text includes activities for students to measure their pulse rate using various methods like radial and carotid pulse checks, as well as using heart rate monitors. It concludes that after exercise, muscles need to rest, adapt, and recover.",
+          "notes": [
+            "The human body consists of eleven organ systems.",
+            "The cardiovascular and respiratory systems work together to supply oxygen to muscles.",
+            "Aerobic exercise requires more energy and thus more oxygen.",
+            "Short-term effects of exercise include increased heart rate and blood circulation.",
+            "Long-term effects include improved efficiency of the heart and lungs.",
+            "The muscular system responds to exercise by increasing oxygen demand.",
+            "Muscles need time to rest, adapt, and recover after exercise."
+          ],
+          "keywords": [
+            {
+              "term": "Cardiovascular System",
+              "definition": "The system consisting of the heart and blood vessels that transports oxygen and nutrients to the body's tissues."
+            },
+            {
+              "term": "Respiratory System",
+              "definition": "The system responsible for taking in oxygen and expelling carbon dioxide from the body."
+            },
+            {
+              "term": "Muscular System",
+              "definition": "The system of muscles that allows for movement and requires oxygen and nutrients to function."
+            },
+            {
+              "term": "Aerobic Exercise",
+              "definition": "Physical exercise that requires oxygen for energy production, often involving continuous and rhythmic movement."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Hypokinetic Diseases and Exercise",
+          "summary": "This section defines hypokinetic diseases (non-communicable diseases) as long-duration conditions resulting from genetic, physiological, environmental, and behavioral factors, often linked to inadequate exercise and unhealthy diet. It lists types of hypokinetic diseases such as cardiovascular disease, cancer, chronic respiratory disease, and type-2 diabetes. The text explains that physical activity and exercise are crucial for preventing and managing these diseases. It emphasizes the role of a balanced diet and energy expenditure in maintaining a healthy weight, as obesity is a key risk factor. Regular exercise improves blood glucose control in type-2 diabetes and can prevent its development. The section recommends specific aerobic and resistance exercises for people with type-2 diabetes and highlights that a comprehensive approach involving simple and affordable interventions is most effective for increasing physical activity.",
+          "notes": [
+            "Hypokinetic diseases are caused by inadequate exercise and unhealthy diets.",
+            "Examples include cardiovascular disease, cancer, type-2 diabetes, and chronic respiratory diseases.",
+            "Physical activity burns calories and raises heart rate, improving cardiovascular and pulmonary health.",
+            "Exercise delivers oxygen and nutrients to tissues and improves cardiovascular efficiency.",
+            "An energy imbalance between calories consumed and expended causes obesity.",
+            "Regular exercise prevents and manages type-2 diabetes.",
+            "Aerobic and resistance exercises are recommended for managing type-2 diabetes.",
+            "Physical activity is a key indicator of health at the community level.",
+            "A comprehensive collaborative approach is most effective for increasing physical activity."
+          ],
+          "keywords": [
+            {
+              "term": "Hypokinetic Disease",
+              "definition": "A disease associated with a lack of physical activity or little regular exercise, also known as non-communicable disease."
+            },
+            {
+              "term": "Physical Activity",
+              "definition": "Bodily movement produced by the contraction of skeletal muscles that substantially increases energy expenditure."
+            },
+            {
+              "term": "Exercise",
+              "definition": "Planned, structured, and repetitive physical activity aimed at improving or maintaining fitness or health."
+            },
+            {
+              "term": "Type-2 Diabetes",
+              "definition": "A metabolic disorder characterized by high blood sugar, often linked to obesity and lack of exercise, where the body cannot effectively use insulin."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Principles of Physical Fitness Training",
+          "summary": "This section introduces the basic principles of physical fitness training: specificity, progressive overload, reversibility, and individual differences. Specificity means training must be specific to the fitness component being developed. Progressive overload requires gradually increasing the workload (frequency, intensity, or time) to improve fitness. Reversibility states that fitness gains are lost when training stops (detraining). Individual differences recognize that each person responds differently to training due to genetics, body size, past experience, and other factors. The section notes that the body responds to exercise with acute (immediate) and chronic (long-term) adaptations and that proper planning and repetition are essential for chronic adaptation.",
+          "notes": [
+            "The body responds to exercise through acute and chronic adaptations.",
+            "Chronic adaptation requires planning and repetition.",
+            "Specificity: Train specifically for the fitness component you want to improve.",
+            "Progressive Overload: Gradually increase the amount of work to improve fitness.",
+            "Reversibility: Fitness gains are lost when training stops.",
+            "Individual Differences: Everyone responds differently to exercise due to genetics, body size, and other factors."
+          ],
+          "keywords": [
+            {
+              "term": "Specificity",
+              "definition": "A training principle stating that exercise should be designed specifically for the fitness component being targeted."
+            },
+            {
+              "term": "Progressive Overload",
+              "definition": "A training principle stating that to improve fitness, the body must be made to work harder than normal by increasing the workload."
+            },
+            {
+              "term": "Reversibility",
+              "definition": "A training principle stating that fitness gains are lost when training stops."
+            },
+            {
+              "term": "Individual Differences",
+              "definition": "A training principle stating that each person experiences a different response to an exercise program due to their unique characteristics."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Exercise Which Develops Cardiovascular Endurance",
+          "summary": "This section explains cardiovascular endurance, its benefits, and how to develop it. Cardiovascular endurance is the ability of the body's systems to work continuously for extended periods. It involves the heart, blood vessels, and respiratory system. Aerobic activities like walking, jogging, running, and biking strengthen the heart and lungs. The FITT principle (Frequency, Intensity, Time, Type) is introduced to help design an exercise program. The section suggests that cardiovascular exercise can be improved through methods like skipping rope, aerobics, walking, jogging, and running. It also emphasizes the importance of monitoring exercise intensity through heart rate.",
+          "notes": [
+            "Cardiovascular endurance is the ability to perform prolonged exercise.",
+            "It involves the heart, blood vessels, and respiratory system.",
+            "Aerobic activities strengthen the heart and lungs.",
+            "The FITT principle is used to plan exercise programs.",
+            "Frequency: How often to exercise (3-5 times per week).",
+            "Intensity: How hard to exercise (50-85% of maximum heart rate).",
+            "Time: How long to exercise (duration in target heart rate zone).",
+            "Type: The mode of exercise (e.g., walking, running).",
+            "Methods to improve cardiovascular endurance include walking, jogging, running, rope skipping, and swimming."
+          ],
+          "keywords": [
+            {
+              "term": "Cardiovascular Endurance",
+              "definition": "The ability of the heart, lungs, and blood vessels to deliver oxygen to the body's tissues during prolonged physical activity."
+            },
+            {
+              "term": "FITT Principle",
+              "definition": "An acronym for Frequency, Intensity, Time, and Type, a framework for planning an effective exercise program."
+            },
+            {
+              "term": "Maximum Heart Rate",
+              "definition": "The highest heart rate an individual can achieve, estimated as 220 minus age."
+            },
+            {
+              "term": "Target Heart Rate (THR)",
+              "definition": "The ideal heart rate range during exercise to achieve cardiovascular benefits, typically between 50% and 85% of maximum heart rate."
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Exercise Which Develops Muscular Endurance and Strength",
+          "summary": "This section defines muscular strength and endurance, explaining how muscles work through concentric and eccentric contractions. Muscular strength is the maximum force a muscle can produce in a single effort, while muscular endurance is the ability to apply submaximal force continuously. Training for strength uses low repetitions and high resistance, while training for endurance uses high repetitions and low resistance. The text describes three types of training programs: isotonic (full range of motion), isometric (muscle tension without length change), and isokinetic (constant speed with variable resistance). It includes practical activities like modified push-ups, advanced push-ups, and squats with weights, and suggests that evaluating each other's performance can be beneficial.",
+          "notes": [
+            "Muscular strength: Maximum force in a single effort.",
+            "Muscular endurance: Ability to apply force continuously.",
+            "Muscles work through concentric (shortening) and eccentric (lengthening) contractions.",
+            "Isotonic training: Involves concentric and eccentric contractions with full range of motion.",
+            "Isometric training: Muscle tension increases without change in muscle length.",
+            "Isokinetic training: Muscle works at a constant speed against variable resistance.",
+            "Strength training: Low repetitions, high resistance.",
+            "Endurance training: High repetitions, low resistance.",
+            "Examples: Push-ups, squats, and weight training exercises."
+          ],
+          "keywords": [
+            {
+              "term": "Muscular Strength",
+              "definition": "The maximum amount of force a muscle can produce in a single effort."
+            },
+            {
+              "term": "Muscular Endurance",
+              "definition": "The ability of a muscle to apply submaximal force continuously for a long period without fatigue."
+            },
+            {
+              "term": "Concentric Contraction",
+              "definition": "A type of muscle contraction where the muscle shortens under tension to create movement."
+            },
+            {
+              "term": "Eccentric Contraction",
+              "definition": "A type of muscle contraction where the muscle lengthens under tension, acting as an antagonist."
+            },
+            {
+              "term": "Isotonic Exercise",
+              "definition": "Exercise that involves muscle contraction with a change in muscle length, such as during a full range of motion."
+            },
+            {
+              "term": "Isometric Exercise",
+              "definition": "Exercise that involves muscle contraction without a change in muscle length."
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Exercise Which Develops Flexibility",
+          "summary": "This section explains flexibility, its benefits, and how to improve it. Flexibility is the ability of a joint to move through its full range of motion. Dynamic stretching involves moving a joint through its range of motion (e.g., walking high knees, straight leg kicks), while static stretching involves holding a position for a period of time (e.g., walking lunge, side lunge, triceps stretch). The text describes the purpose and procedures for various dynamic and static stretches. It emphasizes that stretching improves performance, reduces injury risk, and that flexibility is highly adaptable and specific to each joint.",
+          "notes": [
+            "Flexibility is the ability to move joints through their full range of motion.",
+            "Dynamic stretching: Moving joints through a range of motion to prepare for activity.",
+            "Static stretching: Holding a single position for a period of time.",
+            "Dynamic stretches improve blood flow and reduce injury risk.",
+            "Static stretches should be held for at least 10 seconds.",
+            "Examples of dynamic stretches: Walking high knees, walking straight leg kicks.",
+            "Examples of static stretches: Walking lunge, side lunge, triceps stretch, quadriceps stretch.",
+            "Flexibility is specific to each joint and can be improved through regular stretching."
+          ],
+          "keywords": [
+            {
+              "term": "Flexibility",
+              "definition": "The ability of a joint to move through its full range of motion."
+            },
+            {
+              "term": "Dynamic Stretch",
+              "definition": "A type of stretching that involves moving a joint through its range of motion in a controlled, continuous manner."
+            },
+            {
+              "term": "Static Stretch",
+              "definition": "A type of stretching that involves holding a position to lengthen the muscles around a joint."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Athletics",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "History of Athletics",
+          "summary": "This section provides a brief history of athletics in Ethiopia and Africa. It highlights Ethiopia's rich tradition of producing world-class distance runners, mentioning legends like Abebe Bikila, Haile Gebresilassie, Kenenisa Bekele, and Tirunesh Dibaba. In the African context, it notes the establishment of the Confederation of African Athletics (CAA) in 1973 and highlights pivotal moments like Abebe Bikila's barefoot marathon victory at the 1960 Olympics, which made him the first black African man to win Olympic gold. It also discusses the achievements of other African athletes, including Kip Keino, John Akii-Bua, Miruts Yifter, and the historic win by Derartu Tulu in 1992, who became the first black African woman to win Olympic gold.",
+          "notes": [
+            "Ethiopia has a rich history of producing world-class distance runners.",
+            "Abebe Bikila won marathon gold in 1960 and 1964.",
+            "Haile Gebresilassie and Kenenisa Bekele have dominated long-distance running.",
+            "Tirunesh Dibaba is a multiple Olympic and World champion.",
+            "The Confederation of African Athletics (CAA) was established in 1973.",
+            "The CAA has 54 member countries and is headquartered in Dakar, Senegal.",
+            "Abebe Bikila was the first black African man to win Olympic gold.",
+            "Derartu Tulu was the first black African woman to win Olympic gold in 1992."
+          ],
+          "keywords": [
+            {
+              "term": "Confederation of African Athletics (CAA)",
+              "definition": "The African athletics sport organizing body, established in 1973, responsible for organizing continental athletics competitions."
+            },
+            {
+              "term": "World Athletics (WA)",
+              "definition": "The international governing body for athletics, previously known as the International Association of Athletics Federations (IAAF)."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Sprint and Sprint Relay",
+          "summary": "This section covers the basic techniques of sprinting and sprint relay. Sprinting events are short-distance races up to 400 meters, requiring power and coordination. The basic sprint techniques are divided into four phases: start, acceleration, maintaining momentum, and finish. The start involves three commands: 'On your marks,' 'Set,' and 'Go.' Relay races involve a team of four runners who pass a baton within a 20-meter passing zone. There are two types of baton exchanges: the upward/upsweep and the downward/down-sweep. Common relay events include the 4x100 meter and 4x400 meter relays.",
+          "notes": [
+            "Sprinting involves short-distance running (up to 400 meters).",
+            "Basic sprint techniques: Start, Acceleration, Maintaining Momentum, Finish.",
+            "The start includes commands: 'On your marks,' 'Set,' 'Go.'",
+            "Acceleration involves driving powerfully from the start.",
+            "Maintaining momentum requires keeping good posture and arm action.",
+            "The finish involves leaning forward through the line.",
+            "Relay races involve four runners passing a baton.",
+            "The baton must be passed within a 20-meter passing zone.",
+            "Two common baton exchange techniques: Upward/upsweep and Downward/down-sweep.",
+            "Common relay events: 4x100 meters and 4x400 meters."
+          ],
+          "keywords": [
+            {
+              "term": "Sprint",
+              "definition": "A short-distance running event where athletes run as fast as possible, typically up to 400 meters."
+            },
+            {
+              "term": "Relay Race",
+              "definition": "A track event in which a team of runners directly compete against other teams, passing a baton between runners."
+            },
+            {
+              "term": "Baton",
+              "definition": "A hollow cylinder of wood or plastic passed between runners in a relay race."
+            },
+            {
+              "term": "Passing Zone",
+              "definition": "A 20-meter marked area on the track where the baton must be exchanged between relay runners."
+            },
+            {
+              "term": "Upward/Upsweep Exchange",
+              "definition": "A baton exchange technique where the baton carrier passes the baton with an upward pushing motion into the receiver's hand, which is positioned palm down."
+            },
+            {
+              "term": "Downward/Down-sweep Exchange",
+              "definition": "A baton exchange technique where the baton is placed 'down' into the waiting runner's palm, which is facing up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Football",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Brief History of Football",
+          "summary": "This section details the history of football globally, in Africa, and in Ethiopia. It traces the origins of football to ancient games in China (Ts'u Chu), Japan (kemari), and Greece/Rome (Episkyros/Harpastum). Modern football originated in England in the 19th century, with the establishment of the Football Association (FA) in 1863 and the International Football Association Board (IFAB) in 1882. FIFA was founded in 1904, and the first World Cup was held in Uruguay in 1930. In Africa, football was introduced by Europeans in the 19th century, with the Confederation of African Football (CAF) founded in 1957 by Sudan, Egypt, South Africa, and Ethiopia. In Ethiopia, football was introduced by foreigners, with the St. George Football Club established in 1935 and the Ethiopian Football Federation (EFF) in 1943. Ethiopia won the Africa Cup of Nations in 1962 and has participated in various competitions like the CECAFA Cup.",
+          "notes": [
+            "Football's origins trace back to ancient China, Japan, and Greece.",
+            "Modern football began in England in the 19th century.",
+            "The Football Association (FA) was established in 1863.",
+            "FIFA was founded in 1904 and runs the World Cup.",
+            "The first World Cup was held in Uruguay in 1930.",
+            "Football was introduced to Africa by Europeans in the late 19th century.",
+            "CAF was founded in 1957 in Khartoum, Sudan.",
+            "The first Africa Cup of Nations was held in 1957.",
+            "Football was introduced to Ethiopia by foreigners.",
+            "St. George FC was the first organized football club in Ethiopia (1935).",
+            "The Ethiopian Football Federation (EFF) was founded in 1943.",
+            "Ethiopia won the Africa Cup of Nations in 1962.",
+            "Ethiopia has hosted and won the CECAFA Cup."
+          ],
+          "keywords": [
+            {
+              "term": "FIFA (Federation Internationale de Football Association)",
+              "definition": "The international governing body for football, founded in 1904."
+            },
+            {
+              "term": "CAF (Confederation of African Football)",
+              "definition": "The governing body for African football, founded in 1957."
+            },
+            {
+              "term": "EFF (Ethiopian Football Federation)",
+              "definition": "The governing body for football in Ethiopia, founded in 1943."
+            },
+            {
+              "term": "CECAFA (Council for East and Central Africa Football Associations)",
+              "definition": "A regional football governing body for East and Central Africa."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Rules of Football",
+          "summary": "This section outlines the basic rules of football, covering the playing area, players, referees, duration of the game, ball in and out, scoring, offside, throw-in, and corner kick. The playing field must be rectangular and green. A match is played by two teams with a maximum of 11 players each, including a goalkeeper, with a minimum of seven players to start. A maximum of five substitutions is allowed. The game is controlled by a main referee and assistant referees. A standard match consists of two 45-minute halves with a 15-minute halftime break. The ball is out of play when it wholly crosses the goal or touchline. A goal is scored when the ball passes wholly over the goal line. An offside position is determined by the player's position relative to the ball and the second-last opponent. Throw-ins and corner kicks are awarded for specific infractions.",
+          "notes": [
+            "The playing area must be rectangular and the surface natural or artificial green.",
+            "A match is played with a maximum of 11 players per team, including a goalkeeper.",
+            "A minimum of seven players is required to start or continue a match.",
+            "Up to five substitutions are allowed in official competitions.",
+            "A match is controlled by a main referee.",
+            "A match lasts for two equal halves of 45 minutes.",
+            "A goal is scored when the ball passes wholly over the goal line.",
+            "Offside is determined based on the player's position relative to the ball and the second-last opponent.",
+            "A throw-in is awarded when the ball wholly crosses the touchline.",
+            "A corner kick is awarded when the ball crosses the goal line, last touched by a defending player."
+          ],
+          "keywords": [
+            {
+              "term": "Referee",
+              "definition": "The main official on the field with full authority to enforce the Laws of the Game."
+            },
+            {
+              "term": "Off-side",
+              "definition": "A violation where an attacking player is positioned nearer to the opponent's goal line than both the ball and the second-last opponent."
+            },
+            {
+              "term": "Throw-in",
+              "definition": "A method of restarting play awarded to the opponents of the player who last touched the ball before it went out of play over the touchline."
+            },
+            {
+              "term": "Corner Kick",
+              "definition": "A method of restarting play awarded to the attacking team when the ball goes out of play over the goal line, last touched by a defending player."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Skills of Football",
+          "summary": "This section focuses on two specific football skills: chest control and heading. Chest control involves using the chest to receive and control an airborne ball. The steps include positioning the body behind the ball, bending knees, keeping elbows away, leaning back to absorb the pace, and cushioning the ball with a concave back before touching it down to the feet. Heading is an essential skill for scoring, clearing the ball, and winning possession. The section describes side/glancing heading and front/standard heading. Key steps for heading include keeping eyes on the ball, driving through the ball, attacking the ball with the body, and connecting with the forehead. The section also includes modified games for practicing chest control and heading in a game-like environment.",
+          "notes": [
+            "Chest control is used to control an airborne ball.",
+            "Key steps include: positioning behind the ball, leaning back to absorb pace, and cushioning the ball with a concave back.",
+            "Heading is used for scoring, clearing, and winning possession.",
+            "Side/glancing heading changes the direction of the ball.",
+            "Front/standard heading provides power and accuracy using the forehead.",
+            "Key steps for heading: keep eyes on the ball, drive through, and connect with the forehead.",
+            "Modified games like 'head tennis' are used to practice these skills."
+          ],
+          "keywords": [
+            {
+              "term": "Chest Control",
+              "definition": "A technique in football used to receive and control an airborne ball using the chest."
+            },
+            {
+              "term": "Heading",
+              "definition": "A technique in football used to play or score the ball using the head."
+            },
+            {
+              "term": "Side/Glancing Heading",
+              "definition": "A heading technique used to change the direction of the ball, usually for passing or towards the goal."
+            },
+            {
+              "term": "Front/Standard Heading",
+              "definition": "A heading technique used for passing and attempts on goal, using the forehead for power and accuracy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Volleyball",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "A Brief History of Volleyball",
+          "summary": "This section provides a brief history of volleyball in the world, Africa, and Ethiopia. Volleyball was invented in 1895 in the USA by William G. Morgan, initially named 'Mintonette.' The name was later changed to 'Volleyball' in 1896. The Federation Internationale de Volleyball (FIVB) was founded in 1947, and volleyball became an Olympic sport in 1964. In Africa, volleyball was introduced by Egypt in 1915. The African Volleyball Confederation (CAVB) was established in 1972. In Ethiopia, volleyball was introduced in 1943 by foreign teachers, and the Ethiopian Volleyball Federation (EVF) was established in 1954. Ethiopia became a member of the FIVB in 1964.",
+          "notes": [
+            "Volleyball was invented in 1895 by William G. Morgan in the USA.",
+            "It was originally named 'Mintonette.'",
+            "The name was changed to 'Volleyball' in 1896.",
+            "The FIVB was founded in 1947.",
+            "Volleyball became an Olympic sport in 1964.",
+            "Volleyball was introduced to Africa by Egypt in 1915.",
+            "The African Volleyball Confederation (CAVB) was established in 1972.",
+            "Volleyball was introduced to Ethiopia in 1943.",
+            "The Ethiopian Volleyball Federation (EVF) was established in 1954.",
+            "Ethiopia became a member of FIVB in 1964."
+          ],
+          "keywords": [
+            {
+              "term": "FIVB (Federation Internationale de Volleyball)",
+              "definition": "The international governing body for volleyball, founded in 1947."
+            },
+            {
+              "term": "CAVB (African Volleyball Confederation)",
+              "definition": "The continental governing body for volleyball in Africa, established in 1972."
+            },
+            {
+              "term": "EVF (Ethiopian Volleyball Federation)",
+              "definition": "The governing body for volleyball in Ethiopia, established in 1954."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Rules of Volleyball",
+          "summary": "This section outlines the basic rules of volleyball, covering facilities, equipment, participants, and playing format. The playing area is a rectangular court measuring 18x9 meters, surrounded by a free zone. The net is 1 meter wide, set at 2.43 meters for men and 2.24 meters for women. The ball is spherical with a circumference of 65-67 cm and weighs 260-280 g. A team can have up to 12 players, with six on the court at a time. A match is won by the best of five sets (25 points each, with the fifth set played to 15 points), requiring a two-point lead. Teams rotate clockwise after winning the serve. The text also covers the toss, rotational order, and states of play (ball in/out).",
+          "notes": [
+            "The court is 18m x 9m, surrounded by a 3m free zone.",
+            "The net is 1m wide, set at 2.43m for men and 2.24m for women.",
+            "The ball has a circumference of 65-67 cm and weighs 260-280 g.",
+            "A team consists of up to 12 players, with 6 on the court.",
+            "A match is won by winning three sets.",
+            "Sets are played to 25 points (15 for the deciding set) with a two-point lead.",
+            "Teams rotate clockwise after winning the serve.",
+            "The toss determines the first serve and court sides."
+          ],
+          "keywords": [
+            {
+              "term": "Free Zone",
+              "definition": "The area surrounding the playing court, a minimum of 3 meters wide on all sides."
+            },
+            {
+              "term": "Attack Line",
+              "definition": "A line on each court, 3 meters from the center line, that defines the front zone."
+            },
+            {
+              "term": "Rotation",
+              "definition": "A rule in volleyball where players move to the next position on the court in a clockwise manner after their team gains the serve."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Spike Skill of Volleyball",
+          "summary": "This section details the spike skill in volleyball, a key offensive move for scoring points. Spiking is divided into categories based on tempo, power, and targeting. The technique involves four stages: approach, take-off, body movement in the air, and hitting action. The approach is a three or four-step movement (left-right-left for right-handers). Key elements for a successful spike include reaching high, contacting the ball in front of the shoulder, and applying top-spin. The text describes different types of spikes: standing spike, off-speed spike, and hard-driven spike. It also suggests modified games (like 4-person teams) to practice spiking in a more game-like setting.",
+          "notes": [
+            "Spiking is the primary method of scoring points in volleyball.",
+            "It is divided into categories based on tempo, power, and targeting.",
+            "The approach is a 3-4 step movement (left-right-left for right-handers).",
+            "The four stages of spiking: approach, take-off, air movement, and hitting action.",
+            "Key elements: reach high, contact ball in front of shoulder, and apply top-spin.",
+            "Types of spikes: Standing spike, Off-speed spike, Hard-driven spike.",
+            "Modified games with 4 players per team can be used to practice spiking."
+          ],
+          "keywords": [
+            {
+              "term": "Spike",
+              "definition": "A powerful offensive hit in volleyball, usually the third contact, aimed at scoring a point by landing the ball on the opponent's court."
+            },
+            {
+              "term": "Approach",
+              "definition": "The footwork pattern used by a player to jump and hit a spike, typically a three or four-step movement."
+            },
+            {
+              "term": "Top-spin",
+              "definition": "The forward rotation of the ball, making it drop sharply after being hit, often used in spiking."
+            },
+            {
+              "term": "Hard-driven Spike",
+              "definition": "A spike hit with extreme force, aiming to slam the ball into the opponent's court."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Basketball",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Brief History of Basketball",
+          "summary": "This section outlines the history of basketball in the world, Africa, and Ethiopia. Basketball was invented in 1891 in the USA by James Naismith, using a soccer ball and peach baskets. The game evolved with the introduction of steel hoops and backboards in 1906 and the orange ball in the late 1950s. FIBA was formed in 1932, and basketball became an Olympic sport in 1936. In Africa, basketball was introduced by missionaries and colonial administration in the mid-20th century. AFABA (now FIBA Africa) was established in 1961 in Cairo, Egypt. In Ethiopia, basketball was introduced in 1946-1947 by Canadian physical education teachers. The Addis Ababa Basketball Federation was founded in 1950, and the Ethiopian Basketball Federation (EBF) in 1953, becoming a member of FIBA in 1949.",
+          "notes": [
+            "Basketball was invented in 1891 by James Naismith in the USA.",
+            "Peach baskets and a soccer ball were used initially.",
+            "Steel hoops and backboards were introduced in 1906.",
+            "FIBA was formed in 1932.",
+            "Basketball became an Olympic sport in 1936.",
+            "Basketball was introduced to Africa in the mid-20th century.",
+            "AFABA (FIBA Africa) was established in 1961 in Cairo, Egypt.",
+            "Basketball was introduced to Ethiopia in 1946-1947.",
+            "The Ethiopian Basketball Federation (EBF) was founded in 1953.",
+            "Ethiopia became a member of FIBA in 1949."
+          ],
+          "keywords": [
+            {
+              "term": "FIBA (International Basketball Association)",
+              "definition": "The international governing body for basketball, formed in 1932."
+            },
+            {
+              "term": "AFABA (Association des Federation Africans de Basketball)",
+              "definition": "The African basketball federation, established in 1961, now known as FIBA Africa."
+            },
+            {
+              "term": "EBF (Ethiopian Basketball Federation)",
+              "definition": "The governing body for basketball in Ethiopia, founded in 1953."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Rules of Basketball",
+          "summary": "This section covers the basic rules of basketball, including the playing area, equipment, playing regulations, violations, fouls, and the role of referees. The court is 28m x 15m. A game consists of four 10-minute quarters. If tied, overtime periods of 5 minutes are played. Violations are infractions concerning ball and line rules (e.g., double dribble, traveling, 3 seconds). Fouls are illegal personal contact (e.g., holding, pushing) or unsportsmanlike behavior (technical fouls). Penalties for fouls include free throws. A player who commits five fouls must leave the game. The referee crew chief and umpires are responsible for enforcing the rules.",
+          "notes": [
+            "The basketball court is 28m x 15m.",
+            "A game consists of four 10-minute quarters.",
+            "Overtime periods of 5 minutes are played if the score is tied.",
+            "Violations include ball handling and time infractions.",
+            "Fouls include personal (illegal contact) and technical (unsportsmanlike conduct).",
+            "A player with five fouls must leave the game.",
+            "Referees enforce the rules and administer the game."
+          ],
+          "keywords": [
+            {
+              "term": "Violation",
+              "definition": "An infraction of the rules concerning the ball or line, resulting in a turnover."
+            },
+            {
+              "term": "Foul",
+              "definition": "An illegal personal contact with an opponent or unsportsmanlike behavior."
+            },
+            {
+              "term": "Personal Foul",
+              "definition": "A player's illegal contact with an opponent, such as holding or pushing."
+            },
+            {
+              "term": "Technical Foul",
+              "definition": "A foul that does not involve physical contact but is related to unsportsmanlike behavior or rule violations."
+            },
+            {
+              "term": "Free Throw",
+              "definition": "An unopposed shot taken from the free-throw line, awarded as a penalty for a foul."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Skills of Basketball",
+          "summary": "This section focuses on the lay-up shoot, a fundamental basketball skill. The lay-up is a high-percentage shot taken close to the basket. The technique is described in detail: dribbling toward the basket, stepping with the right foot for a right-handed layup, jumping off the left foot, and shooting with the right arm while lifting the right leg. The importance of aiming for the 'sweet spot' on the backboard is emphasized. The section also includes a modified game (2v2 or 3v3 on half courts) with specific rules (e.g., only two dribbles, lower rings) to practice the lay-up and other skills in a game-like setting.",
+          "notes": [
+            "The lay-up is a fundamental and highly accurate shot in basketball.",
+            "It involves approaching the basket and using a specific footwork pattern.",
+            "For a right-handed layup: step with the right foot, jump off the left foot, shoot with the right arm.",
+            "Aim for the sweet spot on the backboard to increase success.",
+            "Modified games with simplified rules (e.g., 2v2, lower rings) are used to practice skills."
+          ],
+          "keywords": [
+            {
+              "term": "Lay-up Shoot",
+              "definition": "A high-percentage shot taken close to the basket, often off a running dribble, using one hand and the backboard."
+            },
+            {
+              "term": "Sweet Spot",
+              "definition": "The area on the backboard above the corner of the small square, which helps guide the ball into the basket."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Handball",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "A Brief History of Handball",
+          "summary": "This section provides a brief history of handball globally, in Africa, and in Ethiopia. The sport has ancient origins in games like 'Urania' and 'Harpaston.' Modern handball was developed in Denmark, Sweden, and Germany in the late 19th century. The International Handball Federation (IHF) was founded in 1946. Field handball appeared at the 1936 Olympics, with the indoor version making its debut in 1972. Women's handball was added in 1976. In Africa, the African Handball Confederation (CAHB) was founded in 1973. In Ethiopia, handball was introduced in 1960 by Addis Ababa University instructors, and the Ethiopian Handball Federation (EHF) was established in 1962, joining the IHF in 1964.",
+          "notes": [
+            "Handball has ancient origins in Greece and Rome.",
+            "Modern handball was developed in Europe in the late 19th century.",
+            "The IHF was founded in 1946.",
+            "Field handball was an Olympic sport in 1936.",
+            "Indoor handball became an Olympic sport in 1972.",
+            "Women's handball was added in 1976.",
+            "The CAHB was founded in 1973.",
+            "Handball was introduced to Ethiopia in 1960.",
+            "The Ethiopian Handball Federation (EHF) was established in 1962.",
+            "Ethiopia joined the IHF in 1964."
+          ],
+          "keywords": [
+            {
+              "term": "IHF (International Handball Federation)",
+              "definition": "The international governing body for handball, founded in 1946."
+            },
+            {
+              "term": "CAHB (African Handball Confederation)",
+              "definition": "The continental governing body for handball in Africa, founded in 1973."
+            },
+            {
+              "term": "EHF (Ethiopian Handball Federation)",
+              "definition": "The governing body for handball in Ethiopia, established in 1962."
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "The Rules of Handball",
+          "summary": "This section outlines the basic rules of handball, including the playing court, playing time, ball, team, and fouls. The court is 40m x 20m with a 6-meter goal area and a 9-meter free-throw line. A match consists of two 30-minute halves. The ball size varies by category (e.g., size 3 for men, size 2 for women). A team has up to 14 players, with 7 on the court at a time. Fouls include pulling, holding, and blocking. Progressive punishments include warnings, 2-minute suspensions, and disqualifications for more severe fouls.",
+          "notes": [
+            "The court is 40m x 20m.",
+            "The goal area is 6 meters from the goal line.",
+            "A match consists of two 30-minute halves.",
+            "Ball size varies: size 3 (men), size 2 (women), size 1 (youth).",
+            "A team has up to 14 players, with 7 on the court.",
+            "Fouls include pulling, holding, and blocking.",
+            "Punishments: warning, 2-minute suspension, disqualification."
+          ],
+          "keywords": [
+            {
+              "term": "Goal Area",
+              "definition": "The 6-meter area in front of the goal where only the goalkeeper is allowed."
+            },
+            {
+              "term": "Free Throw Line",
+              "definition": "A 9-meter line from which free throws are taken."
+            },
+            {
+              "term": "2-Minute Suspension",
+              "definition": "A punishment in handball where a player is sent off the court for 2 minutes."
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Basic Skills of Handball",
+          "summary": "This section focuses on the goalkeeping skills in handball. The goalkeeper's main task is to block shots and prevent goals. Key qualities include quickness and courage. The section covers specific skills: movements in the goal, positioning, and saves with arms and legs. Goalkeeper posture involves a ready position with feet apart, knees bent, and arms at chest level. Footwork is important for moving quickly and reducing angles. The text also describes physical conditioning exercises for goalkeepers, including flexibility and strength exercises, and drills like 'three in a row' and 'positional shooting' to improve goalkeeping skills.",
+          "notes": [
+            "Goalkeeping is a crucial role in handball.",
+            "Key qualities: quickness and courage.",
+            "Skills: movements in the goal, positioning, and saves.",
+            "Posture: feet apart, knees bent, arms at chest level.",
+            "Footwork: moving side-to-side with small, even steps.",
+            "Physical conditioning: flexibility, strength, and agility exercises.",
+            "Practice drills: 'three in a row,' 'wing and a prayer,' and 'positional shooting.'"
+          ],
+          "keywords": [
+            {
+              "term": "Goalkeeping",
+              "definition": "The act of defending the goal in handball, primarily by blocking shots."
+            },
+            {
+              "term": "Ready Position",
+              "definition": "The goalkeeper's posture for instant movement, with feet apart, knees bent, and arms at chest level."
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Modified Game Related to Handball",
+          "summary": "This section introduces modified games to practice handball skills like passing, catching, and dribbling. The games are designed to create competitive and cooperative situations. Examples include 2 vs 1 (two players pass the ball while one tries to intercept), 4 vs 4 (with specific positioning to attack and defend), 5 vs 5, and 7 vs 7. These exercises simulate game-like conditions, allowing students to apply their skills in a structured, yet simplified setting.",
+          "notes": [
+            "Modified games help students practice handball skills.",
+            "2 vs 1: Practice passing and interception.",
+            "4 vs 4, 5 vs 5, 7 vs 7: Simulate game-like situations for passing, catching, and dribbling.",
+            "These games encourage cooperation and skill application."
+          ],
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "Self-Defense and Sport Ethics",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "Essence and Roles of Self-Defense",
+          "summary": "This section explains the essence and roles of self-defense. Self-defense is the act of protecting oneself from physical harm. Its benefits include improving physical and mental strength, developing self-discipline, building confidence, and improving balance. The text emphasizes the importance of self- defense ethics, such as humility, respect, integrity, courage, and self-control. Safety guidelines are also provided, such as working gradually, wearing comfortable clothing, and being aware of one's surroundings.",
+          "notes": [
+            "Self-defense is the act of protecting oneself from harm.",
+            "Benefits include improved physical and mental strength, self-discipline, and confidence.",
+            "Ethics of self-defense: humility, respect, integrity, courage, self-control.",
+            "Safety guidelines: work gradually, wear comfortable clothing, be aware of surroundings."
+          ],
+          "keywords": [
+            {
+              "term": "Self-Defense",
+              "definition": "The act of protecting oneself from physical harm through the use of counteracting force."
+            },
+            {
+              "term": "Ethics",
+              "definition": "Moral principles that govern a person's behavior, especially important in self-defense to ensure responsible use of skills."
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Principles and Rules of Self-Defense",
+          "summary": "This section outlines the principles and rules of self-defense. The principles include alertness (being aware of surroundings), decisiveness (making quick decisions), aggressiveness (using force when necessary), coolness (maintaining emotional control), speed (acting quickly), and surprise (catching the attacker off guard). The rules of self-defense are practical tips to avoid danger, such as knowing your route, walking confidently, trusting your instincts, and avoiding predictable routines. It also advises carrying noise-making objects and knowing an attacker's sensitive areas.",
+          "notes": [
+            "Principles: alertness, decisiveness, aggressiveness, coolness, speed, surprise.",
+            "Rules: know your route, walk confidently, trust your instincts, avoid routines.",
+            "Carry objects that can make noise.",
+            "Know sensitive areas of the attacker (eyes, ears, throat, groin)."
+          ],
+          "keywords": [
+            {
+              "term": "Alertness",
+              "definition": "Being aware of one's surroundings and able to anticipate potential threats."
+            },
+            {
+              "term": "Decisiveness",
+              "definition": "The ability to make quick and effective decisions."
+            },
+            {
+              "term": "Aggressiveness",
+              "definition": "Acting with determination and force when defending oneself."
+            },
+            {
+              "term": "Coolness",
+              "definition": "Maintaining emotional control and composure during a threatening situation."
+            }
+          ]
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "Basic Techniques of Self-Defense",
+          "summary": "This section describes basic self-defense techniques: basic stance, escapes, strikes, and grappling. The basic stance is a non-threatening position that prepares one for defense. Escape techniques include escaping from a bear hug, with hands trapped, and from a side headlock. Strikes include the front kick to the groin, heel palm strike, and elbow strike. Grappling is a close-quarters fighting style involving holds and locks to gain an advantage. The text provides step-by-step instructions for each technique and emphasizes the importance of practicing them with a partner while following safety measures.",
+          "notes": [
+            "Basic stance: A defensive position that prepares for an attack.",
+            "Escape techniques: Bear hug, hands trapped, side headlock.",
+            "Strikes: Front kick to groin, heel palm strike, elbow strike.",
+            "Grappling: A style of fighting in close quarters, using holds and locks.",
+            "Practice with a partner, focusing on safety."
+          ],
+          "keywords": [
+            {
+              "term": "Stance",
+              "definition": "A defensive position that provides a stable base and prepares the body for action."
+            },
+            {
+              "term": "Escape",
+              "definition": "A technique used to free oneself from an attacker's grip."
+            },
+            {
+              "term": "Strike",
+              "definition": "A forceful blow aimed at an attacker's vulnerable areas."
+            },
+            {
+              "term": "Grappling",
+              "definition": "A fighting style involving holds, locks, and throws to control an opponent."
+            },
+            {
+              "term": "Block",
+              "definition": "A defensive technique used to stop an incoming attack or weapon."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

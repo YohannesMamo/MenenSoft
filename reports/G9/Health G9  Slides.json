@@ -1,0 +1,681 @@
+{
+  "subject": "Health and Physical Education",
+  "grade": 9,
+  "presentation_slides": [
+    {
+      "unit": 1,
+      "unit_title": "Sport and Society",
+      "slides": [
+        {
+          "section": "1.1 Sport and Economy",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "1.1 Sport and Economy",
+              "content": [
+                "Introduction to the relationship between sport and the economy.",
+                "Economy defined: production, distribution, trade, and consumption of goods and services.",
+                "Sport is a major economic sector creating jobs and business opportunities.",
+                "Links with education, real estate, and tourism."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Economic Impact of Athletes",
+              "content": [
+                "Ethiopian athletes like Haile Gebresilassie, Derartu Tulu, and Kenenisa Bekele have invested in hotels, agriculture, manufacturing, and other sectors.",
+                "International examples: Cristiano Ronaldo (CR7 Hotels, Fitness), Samuel Eto'o (Betting Platform), Didier Drogba (Bank, Foundation).",
+                "These investments create jobs and contribute to economic growth."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Impact of Sporting Events",
+              "content": [
+                "Hosting international events like the CECAFA Cup generates significant economic activity.",
+                "Spending on hotel rooms, car rentals, food, flights, uniforms, equipment, and advertising.",
+                "This stimulates the local economy and benefits various service providers."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "1.2 Sport and Gender",
+          "slides": [
+            {
+              "slide_number": 4,
+              "title": "1.2 Sport and Gender",
+              "content": [
+                "Gender refers to the social construction of men and women, influencing behaviors and expectations in sport.",
+                "Women's participation in sport has been limited historically by division and separation.",
+                "Benefits of sport include stress management, communication skills, and the ability to work well with others."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Milestones for Women in Sport",
+              "content": [
+                "Helene Madison (USA): First woman to swim 100-yard freestyle in one minute (1932 Olympics).",
+                "Nawal El Moutawakel (Morocco): First woman from an Arab country to win an Olympic medal (1984).",
+                "Kathrine Switzer: First woman to run the Boston Marathon despite opposition (1967).",
+                "Tigist Gezahagn (Ethiopia): First Ethiopian gold medalist at the Paralympics (T13 1500m)."
+              ]
+            },
+            {
+              "slide_number": 6,
+              "title": "Women in Ethiopian Sport",
+              "content": [
+                "Derartu Tulu: First Ethiopian woman to win 10,000m and later President of the Ethiopian Athletic Federation.",
+                "Fatuma Roba: First Ethiopian woman to win a marathon.",
+                "Lidiya Tafesse: First Ethiopian female international football referee.",
+                "Loza Abera: First professional Ethiopian female footballer."
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "Human Rights and Gender Equality",
+              "content": [
+                "UNESCO states that access to physical education and sport is a fundamental right for all.",
+                "The Ethiopian Constitution (Article 35) guarantees equal rights for women.",
+                "Sport is a tool for social empowerment, reinforcing women's and girls' capabilities.",
+                "Goal: Achieving gender equality in sport participation and treatment."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "1.3 Sport and Technology",
+          "slides": [
+            {
+              "slide_number": 8,
+              "title": "1.3 Sport and Technology",
+              "content": [
+                "Technology has been integral to sports for a long time, especially in elite competitions.",
+                "Wearable technology: Fitness trackers, smart clothing (T-shirts, socks, sensor-enabled shoes).",
+                "These track speed, force, movement, and traction for performance analysis.",
+                "eSports: Competitive gaming, a fast-growing sector built around digital technology."
+              ]
+            },
+            {
+              "slide_number": 9,
+              "title": "Technology in Officiating",
+              "content": [
+                "Goal-line technology: Determines if the ball has wholly passed the goal line.",
+                "Video Assistant Referee (VAR): Used in football to review goals, penalty decisions, direct red card incidents, and mistaken identity.",
+                "VAR assists the referee in making accurate decisions, reducing errors.",
+                "Technology ensures fair play and improves the quality of the game."
+              ]
+            },
+            {
+              "slide_number": 10,
+              "title": "Technology in Athletics",
+              "content": [
+                "Stopwatches and photo-finish cameras used for accurate timing and measurement.",
+                "Performance tracking systems help analyze and improve athlete performance.",
+                "Advanced equipment and facility design enhance training and competition."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "1.4 Consequence of Doping",
+          "slides": [
+            {
+              "slide_number": 11,
+              "title": "1.4 Consequence of Doping",
+              "content": [
+                "Doping: The use of prohibited substances or methods to enhance performance.",
+                "Considered cheating, destroying the spirit of fair competition.",
+                "Health risks: Unsterile injections can lead to HIV/AIDS, hepatitis, and other diseases.",
+                "Athletes are urged to say no to doping and compete clean."
+              ]
+            },
+            {
+              "slide_number": 12,
+              "title": "Consequences of Doping",
+              "content": [
+                "Health Consequences: Risks of infection, organ damage, mental health issues.",
+                "Sport Consequences (Sanctions): Disqualification, loss of medals, bans from sport (up to 4 years or life).",
+                "Financial penalties and publication of violations.",
+                "Social Consequences: Damage to reputation, public humiliation, media scrutiny.",
+                "Doping rule violations affect the athlete's family and friends."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "unit_title": "Health and Physical Fitness",
+      "slides": [
+        {
+          "section": "2.1 Body System and Exercise",
+          "slides": [
+            {
+              "slide_number": 13,
+              "title": "2.1 Body System and Exercise",
+              "content": [
+                "The human body has 11 organ systems, including cardiovascular, respiratory, and muscular.",
+                "Short-term effects of exercise: Increased heart rate, faster breathing, more blood flow to muscles.",
+                "Long-term effects: Improved heart and lung efficiency, stronger muscles.",
+                "Muscles need rest to adapt and recover after exercise."
+              ]
+            },
+            {
+              "slide_number": 14,
+              "title": "Measuring Heart Rate",
+              "content": [
+                "Radial Pulse: Found at the wrist joint, below the thumb. Measure beats for 15 seconds, multiply by 4.",
+                "Carotid Pulse: Found on the side of the windpipe, just below the jawbone.",
+                "Heart Rate Monitors: Use EKG technology via chest straps to transmit heart rate to a wrist receiver.",
+                "Mobile phone apps can also be used to measure heart rate."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "2.2 Hypokinetic Diseases and Exercise",
+          "slides": [
+            {
+              "slide_number": 15,
+              "title": "2.2 Hypokinetic Diseases and Exercise",
+              "content": [
+                "Hypokinetic diseases (Non-Communicable Diseases) are linked to lack of exercise and unhealthy diets.",
+                "Examples: Cardiovascular disease, cancer, type-2 diabetes, chronic respiratory disease.",
+                "Regular physical activity reduces the risk of these diseases.",
+                "Obesity is a major risk factor, caused by an energy imbalance."
+              ]
+            },
+            {
+              "slide_number": 16,
+              "title": "Preventing Hypokinetic Diseases",
+              "content": [
+                "Exercise improves blood glucose control and can prevent type-2 diabetes.",
+                "Aerobic exercise (e.g., walking, cycling) and resistance training are recommended.",
+                "A balanced diet and exercise are essential for a healthy lifestyle.",
+                "No single intervention is enough; a comprehensive approach is most effective."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "2.3 Principles of Physical Fitness Training",
+          "slides": [
+            {
+              "slide_number": 17,
+              "title": "2.3 Principles of Physical Fitness Training",
+              "content": [
+                "Specificity: Training must be specific to the fitness component you want to develop.",
+                "Progressive Overload: Gradually increase the workload (frequency, intensity, or time) to improve fitness.",
+                "Reversibility: Fitness gains are lost when training stops (detraining).",
+                "Individual Differences: Each person responds differently to exercise due to genetics and other factors."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "2.4 Exercise Which Develops Cardiovascular Endurance",
+          "slides": [
+            {
+              "slide_number": 18,
+              "title": "2.4 Cardiovascular Endurance",
+              "content": [
+                "Cardiovascular endurance: The ability of the heart, lungs, and blood vessels to deliver oxygen during prolonged activity.",
+                "Aerobic activities: Walking, jogging, running, cycling, swimming.",
+                "Improves heart and lung health, stroke volume, and lowers resting heart rate.",
+                "The FITT Principle: Frequency, Intensity, Time, Type."
+              ]
+            },
+            {
+              "slide_number": 19,
+              "title": "The FITT Principle",
+              "content": [
+                "Frequency: Exercise 3-5 times per week.",
+                "Intensity: Exercise at 50-85% of your maximum heart rate (220 - age).",
+                "Time: Duration in the target heart rate zone.",
+                "Type: Choose activities like walking, jogging, or swimming.",
+                "Methods to improve: Skipping rope, aerobics, walking, jogging, running."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "2.5 Exercise Which Develops Muscular Endurance and Strength",
+          "slides": [
+            {
+              "slide_number": 20,
+              "title": "2.5 Muscular Endurance and Strength",
+              "content": [
+                "Muscular Strength: Maximum force in a single effort.",
+                "Muscular Endurance: Ability to apply force continuously.",
+                "Concentric Contraction: Muscle shortens under tension.",
+                "Eccentric Contraction: Muscle lengthens under tension."
+              ]
+            },
+            {
+              "slide_number": 21,
+              "title": "Types of Training Programs",
+              "content": [
+                "Isotonic: Full range of motion with concentric and eccentric contractions (e.g., push-ups).",
+                "Isometric: Muscle tension increases without length change (e.g., wall press).",
+                "Isokinetic: Constant speed against variable resistance (requires specialized equipment).",
+                "Strength Training: Low repetitions, high resistance.",
+                "Endurance Training: High repetitions, low resistance."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "2.6 Exercise Which Develops Flexibility",
+          "slides": [
+            {
+              "slide_number": 22,
+              "title": "2.6 Flexibility",
+              "content": [
+                "Flexibility: The ability of a joint to move through its full range of motion.",
+                "Dynamic Stretching: Moving joints through a range of motion to prepare for activity.",
+                "Static Stretching: Holding a single position for a period of time.",
+                "Benefits: Improves performance, reduces injury risk, and is specific to each joint."
+              ]
+            },
+            {
+              "slide_number": 23,
+              "title": "Flexibility Exercises",
+              "content": [
+                "Dynamic Stretches: Walking high knees, straight leg kicks.",
+                "Static Stretches: Walking lunge, side lunge, side bends, triceps stretch, quadriceps stretch, lumbar extensor stretch.",
+                "Static stretches should be held for a minimum of 10 seconds and repeated."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "unit_title": "Athletics",
+      "slides": [
+        {
+          "section": "3.1 History of Athletics",
+          "slides": [
+            {
+              "slide_number": 24,
+              "title": "3.1 History of Athletics",
+              "content": [
+                "Ethiopia has a rich tradition of producing world-class distance runners.",
+                "Abebe Bikila: Gold medalist in the marathon (1960, 1964), first black African man to win Olympic gold.",
+                "Haile Gebresilassie and Kenenisa Bekele: Dominant forces in global distance running.",
+                "Tirunesh Dibaba: Double gold in 5000m and 10,000m at the 2008 Olympics."
+              ]
+            },
+            {
+              "slide_number": 25,
+              "title": "African Athletics History",
+              "content": [
+                "Confederation of African Athletics (CAA): Established in 1973, with 54 member countries.",
+                "Kip Keino: Won 1500m at the 1968 Olympics for Kenya.",
+                "Miruts Yifter: Won 5000m and 10,000m at the 1980 Olympics.",
+                "Derartu Tulu: First black African woman to win Olympic gold in 1992 (10,000m)."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "3.2 Sprint and Sprint Relay",
+          "slides": [
+            {
+              "slide_number": 26,
+              "title": "3.2 Sprint and Sprint Relay",
+              "content": [
+                "Sprinting: Short-distance running (up to 400 meters).",
+                "Basic sprint phases: Start, Acceleration, Maintaining Momentum, Finish.",
+                "The start involves 'On your marks,' 'Set,' and 'Go.'",
+                "Relay Races: Team of four runners passing a baton within a 20-meter zone."
+              ]
+            },
+            {
+              "slide_number": 27,
+              "title": "Baton Exchange Techniques",
+              "content": [
+                "Upward/Upsweep Exchange: Baton carrier pushes the baton upward into the receiver's hand (palm down).",
+                "Downward/Down-sweep Exchange: Baton is placed down into the receiver's palm (palm up).",
+                "Common events: 4x100m and 4x400m relays.",
+                "Disqualification occurs if the baton is dropped or exchanged outside the zone."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "unit_title": "Football",
+      "slides": [
+        {
+          "section": "4.1 Brief History of Football",
+          "slides": [
+            {
+              "slide_number": 28,
+              "title": "4.1 Brief History of Football",
+              "content": [
+                "Origins: Ancient China (Ts'u Chu), Japan (kemari), Greece/Rome (Episkyros/Harpastum).",
+                "Modern football began in England in the 19th century.",
+                "FA established in 1863; IFAB in 1882.",
+                "FIFA founded in 1904; first World Cup held in Uruguay in 1930."
+              ]
+            },
+            {
+              "slide_number": 29,
+              "title": "African Football History",
+              "content": [
+                "Football introduced to Africa by Europeans in the late 19th century.",
+                "CAF founded in 1957 in Khartoum, Sudan.",
+                "Founding members: Sudan, Egypt, South Africa, Ethiopia.",
+                "First Africa Cup of Nations: 1957, won by Egypt.",
+                "Women's Cup of Nations: Established in 1991, won by Nigeria 11 times."
+              ]
+            },
+            {
+              "slide_number": 30,
+              "title": "Ethiopian Football History",
+              "content": [
+                "Football introduced by foreigners; St. George FC formed in 1935.",
+                "EFF founded in 1943; affiliated with FIFA in 1953 and CAF in 1957.",
+                "Ethiopia won the Africa Cup of Nations in 1962.",
+                "Ethiopia hosts and wins CECAFA Cup (1987, 2001, 2004, 2005).",
+                "Competitions: Premier League, Higher League, First League, Women's Premier League."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "4.2 Rules of Football",
+          "slides": [
+            {
+              "slide_number": 31,
+              "title": "4.2 Rules of Football",
+              "content": [
+                "Playing area: Rectangular, green surface, dimensions vary by age group.",
+                "Players: 11 per team (including goalkeeper), maximum 5 substitutes, minimum 7 players to start.",
+                "Referee: Main referee, two assistant referees, and other officials.",
+                "Duration: 2 halves of 45 minutes, 15-minute halftime break.",
+                "Ball in/out: Ball is out when it wholly crosses the goal or touchline."
+              ]
+            },
+            {
+              "slide_number": 32,
+              "title": "More Football Rules",
+              "content": [
+                "Scoring: Goal when ball wholly passes over the goal line.",
+                "Offside: Player is offside if nearer to opponent's goal line than the ball and second-last opponent.",
+                "Throw-in: Awarded when ball crosses the touchline.",
+                "Corner Kick: Awarded when ball crosses the goal line, last touched by a defender."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "4.3 Skills of Football",
+          "slides": [
+            {
+              "slide_number": 33,
+              "title": "4.3 Skills of Football: Chest Control",
+              "content": [
+                "Chest control: Used to receive and control an airborne ball.",
+                "Position body behind the ball, knees slightly bent.",
+                "Lean back slightly to absorb the pace of the ball.",
+                "Withdraw the chest immediately upon touch.",
+                "Cushion the ball with a slightly concave back.",
+                "Touch the ball down to the feet and move."
+              ]
+            },
+            {
+              "slide_number": 34,
+              "title": "Heading Skills",
+              "content": [
+                "Heading is used for scoring, clearing, and winning possession.",
+                "Side/Glancing Heading: Changes direction, often for passing or shooting.",
+                "Front/Standard Heading: Provides power and accuracy using the forehead.",
+                "Key steps: Keep eyes on the ball, drive through, attack with the body.",
+                "Mini-game: Head tennis or heading drills for practice."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "unit_title": "Volleyball",
+      "slides": [
+        {
+          "section": "5.1 A Brief History of Volleyball",
+          "slides": [
+            {
+              "slide_number": 35,
+              "title": "5.1 A Brief History of Volleyball",
+              "content": [
+                "Invented in 1895 in the USA by William G. Morgan.",
+                "Original name: 'Mintonette'. Renamed 'Volleyball' in 1896.",
+                "FIVB founded in 1947; Olympic sport in 1964.",
+                "Introduced to Africa by Egypt in 1915; CAVB established in 1972.",
+                "Introduced to Ethiopia in 1943; EVF established in 1954; FIVB member in 1964."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "5.2 Rules of Volleyball",
+          "slides": [
+            {
+              "slide_number": 36,
+              "title": "5.2 Rules of Volleyball",
+              "content": [
+                "Playing area: 18m x 9m court, surrounded by a 3m free zone.",
+                "Net height: 2.43m (men), 2.24m (women).",
+                "Ball: Circumference 65-67 cm, weight 260-280 g.",
+                "Team: Up to 12 players, 6 on court at a time.",
+                "Match: Best of five sets, each set to 25 points (15 for 5th), two-point lead required.",
+                "Rotation: Clockwise after winning the serve."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "5.3 Spike Skill of Volleyball",
+          "slides": [
+            {
+              "slide_number": 37,
+              "title": "5.3 Spike Skill of Volleyball",
+              "content": [
+                "Spiking: Primary offensive tool to score points.",
+                "Four stages: Approach, take-off, body movement in the air, hitting action.",
+                "Approach: Three or four-step movement (left-right-left for right-handers).",
+                "Key elements: Reach high, contact ball in front of shoulder, apply top-spin.",
+                "Types: Standing spike, off-speed spike, hard-driven spike."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "unit_title": "Basketball",
+      "slides": [
+        {
+          "section": "6.1 Brief History of Basketball",
+          "slides": [
+            {
+              "slide_number": 38,
+              "title": "6.1 Brief History of Basketball",
+              "content": [
+                "Invented in 1891 in the USA by James Naismith.",
+                "Peach baskets and soccer ball used initially.",
+                "FIBA formed in 1932; Olympic sport in 1936.",
+                "Introduced to Africa in the mid-20th century by missionaries.",
+                "AFABA established in 1961 in Cairo, Egypt.",
+                "Introduced to Ethiopia in 1946-1947; EBF founded in 1953; FIBA member in 1949."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "6.2 Rules of Basketball",
+          "slides": [
+            {
+              "slide_number": 39,
+              "title": "6.2 Rules of Basketball",
+              "content": [
+                "Court: 28m x 15m.",
+                "Game: Four 10-minute quarters; overtime if tied (5 minutes).",
+                "Violations: Ball handling (double dribble, traveling) and time (3 seconds).",
+                "Fouls: Personal (illegal contact) and technical (unsportsmanlike).",
+                "Penalties: Free throws; a player with 5 fouls must leave."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "6.3 Skills of Basketball",
+          "slides": [
+            {
+              "slide_number": 40,
+              "title": "6.3 Skills of Basketball: Lay-up",
+              "content": [
+                "Lay-up: A high-percentage shot taken close to the basket.",
+                "For a right-handed layup: Step with the right foot, jump off the left foot, shoot with the right arm.",
+                "Aim for the 'sweet spot' on the backboard (above the corner of the small square).",
+                "Practice until the movement becomes second nature.",
+                "Modified games (2v2, 3v3) can be used to practice lay-ups and other skills."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "unit_title": "Handball",
+      "slides": [
+        {
+          "section": "7.1 A Brief History of Handball",
+          "slides": [
+            {
+              "slide_number": 41,
+              "title": "7.1 A Brief History of Handball",
+              "content": [
+                "Ancient origins: 'Urania' (Greece), 'Harpaston' (Rome).",
+                "Developed in Denmark, Sweden, and Germany in the late 19th century.",
+                "IHF founded in 1946.",
+                "Field handball in 1936 Olympics; indoor handball in 1972; women's in 1976.",
+                "CAHB founded in 1973.",
+                "Introduced to Ethiopia in 1960; EHF established in 1962; IHF member in 1964."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "7.2 The Rules of Handball",
+          "slides": [
+            {
+              "slide_number": 42,
+              "title": "7.2 The Rules of Handball",
+              "content": [
+                "Court: 40m x 20m, with 6m goal area and 9m free-throw line.",
+                "Playing time: Two 30-minute halves.",
+                "Ball: Size 3 (men), size 2 (women), size 1 (youth).",
+                "Team: Up to 14 players, 7 on court.",
+                "Fouls: Pulling, holding, blocking; punishments include warnings, 2-minute suspensions, and disqualifications."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "7.3 Basic Skills of Handball",
+          "slides": [
+            {
+              "slide_number": 43,
+              "title": "7.3 Basic Skills of Handball",
+              "content": [
+                "Goalkeeping: Key role to block shots and prevent goals.",
+                "Qualities: Quickness and courage.",
+                "Posture: Feet apart, knees bent, arms at chest level.",
+                "Footwork: Small, even steps to move side-to-side and reduce angles.",
+                "Drills: Three in a row, positional shooting, one-to-one with a shooter."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "7.4 Modified Game Related to Handball",
+          "slides": [
+            {
+              "slide_number": 44,
+              "title": "7.4 Modified Game Related to Handball",
+              "content": [
+                "Modified games simulate game-like conditions for practice.",
+                "2 vs 1: Practice passing and interception.",
+                "4 vs 4, 5 vs 5, 7 vs 7: Practice passing, catching, and dribbling in offensive and defensive positions.",
+                "These games help develop teamwork and skill application."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "unit_title": "Self-Defense and Sport Ethics",
+      "slides": [
+        {
+          "section": "8.1 Essence and Roles of Self-Defense",
+          "slides": [
+            {
+              "slide_number": 45,
+              "title": "8.1 Essence and Roles of Self-Defense",
+              "content": [
+                "Self-defense: The act of protecting oneself from physical harm.",
+                "Benefits: Improved physical and mental strength, self-discipline, confidence, and balance.",
+                "Ethics: Humility, respect, integrity, courage, self-control.",
+                "Safety guidelines: Work gradually, wear comfortable clothing, be aware of surroundings, avoid dark places alone."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "8.2 Principles and Rules of Self-Defense",
+          "slides": [
+            {
+              "slide_number": 46,
+              "title": "8.2 Principles and Rules of Self-Defense",
+              "content": [
+                "Principles: Alertness, Decisiveness, Aggressiveness, Coolness, Speed, Surprise.",
+                "Rules: Know your route, walk confidently, trust your instincts, avoid predictable routines.",
+                "Carry items that make noise (whistle, phone).",
+                "Know vulnerable areas of an attacker: eyes, ears, throat, groin, knees, shins."
+              ]
+            }
+          ]
+        },
+        {
+          "section": "8.3 Basic Techniques of Self-Defense",
+          "slides": [
+            {
+              "slide_number": 47,
+              "title": "8.3 Basic Techniques of Self-Defense",
+              "content": [
+                "Basic Stance: A defensive position that prepares for an attack.",
+                "Escapes: Bear hug, hands trapped, side headlock.",
+                "Strikes: Front kick to groin, heel palm strike, elbow strike.",
+                "Grappling: Close-quarters fighting using holds and locks.",
+                "Practice with a partner, following safety measures."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

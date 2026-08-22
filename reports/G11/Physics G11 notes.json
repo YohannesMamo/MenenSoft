@@ -1,0 +1,1032 @@
+{
+  "subject": "Physics",
+  "grade": 11,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Physics and Human Society",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Importance of Physics to Society",
+          "summary": "Physics is a fundamental science that generates knowledge for technological advances, driving economic growth and improving quality of life. It provides the foundational understanding for various disciplines like chemistry, engineering, and biomedical sciences, and is crucial for developing strategies to combat climate change and create cleaner energies. Physics has directly contributed to numerous modern technologies, including medical imaging (CT, MRI), laser surgery, GPS, semiconductors, and telecommunications, all of which rely on core physical principles. Its influence is pervasive, affecting transportation, electronics, health, and military applications.",
+          "notes": "Physics is essential for technological infrastructure and trained personnel. It enhances our understanding of other sciences, including earth, agricultural, and environmental sciences. The role of physics is vital in developing strategies against climate change and for new energy technologies. It improves quality of life through medical applications like computer tomography, magnetic resonance imaging, positron emission tomography, ultrasonic imaging, and laser surgery. Modern society relies on technology derived from physics discoveries such as magnetism, electricity, and conductors, leading to inventions like television, computers, phones, and modern transportation. Simple mechanical devices (pulleys, levers) and complex machines (quantum computers, nuclear reactors) are all possible due to physics. Many everyday objects, including semiconductors, lasers, X-rays, GPS, radio transmitters, and bar code scanners, depend on physics to function.",
+          "keywords": [
+            {
+              "term": "Physics",
+              "definition": "A science that generates fundamental knowledge for technological advances and improves quality of life."
+            },
+            {
+              "term": "Technology",
+              "definition": "The application of scientific knowledge for practical purposes."
+            },
+            {
+              "term": "Climate Change",
+              "definition": "Long-term shifts in temperatures and weather patterns, which physics can help combat through new strategies and cleaner energy."
+            },
+            {
+              "term": "Medical Physics",
+              "definition": "The application of physics concepts and methods to medicine and healthcare, leading to technologies like MRI and laser surgery."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Physics Communities and Their Roles",
+          "summary": "Physics communities are organized groups of professionals and students formed at national, continental, or worldwide levels to promote physics education, research, and collaboration. Examples include the Ethiopian Physical Society (EPS), which aims to enhance physics research and education in Ethiopia, and the Ethiopian Physics Society in North America (EPSNA), which supports Ethiopian physicists. The African Association of Physics Students (aaps) is a student-run organization that encourages physics students and promotes international relations. These communities work to organize conferences, disseminate scientific information, popularize physics among students, and contribute to curriculum design and overall national development.",
+          "notes": "Physics communities are organized groups for scientific purposes. They can be established at national (e.g., Ethiopian Physical Society - EPS), continental, or worldwide levels based on their aims. EPS's objectives include promoting physics education and research, organizing conferences, popularizing physics to students, and contributing to curriculum design and the country's development. EPSNA promotes physics education and research among Ethiopians in Ethiopia and North America by donating materials, equipment, and scholarships. The African Association of Physics Students (aaps) is a student-run educational association that encourages physics students in their work and promotes international relations.",
+          "keywords": [
+            {
+              "term": "Physics Community",
+              "definition": "An organized group of persons associated together for scientific purposes, established at different levels to promote physics."
+            },
+            {
+              "term": "Ethiopian Physical Society (EPS)",
+              "definition": "A community established by Ethiopian physics professionals to enhance physics research and education in the country."
+            },
+            {
+              "term": "Ethiopian Physics Society in North America (EPSNA)",
+              "definition": "An organization promoting physics education and research among Ethiopians in Ethiopia and North America through donations and scholarships."
+            },
+            {
+              "term": "African Association of Physics Students (aaps)",
+              "definition": "A student-run educational association that encourages physics students and promotes relations between physics students globally."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Making of Physics Knowledge",
+          "summary": "Scientific knowledge is acquired through two main sources: a posteriori (experiential) knowledge from experience, and a priori (non-experiential) knowledge from reason. Experiential knowledge comes from sensory perception, introspection, memory, and testimony. Non-experiential knowledge includes logical and mathematical truths. The scientific method is an ordered series of steps to acquire knowledge based on experimental evidence. This process involves observation, questioning, research, forming a hypothesis, conducting experiments, analyzing data, and drawing conclusions. Physics learning plays a role in individual intellectual satisfaction by fostering critical thinking and problem-solving skills.",
+          "notes": "Knowledge can be classified into a posteriori (from experience) and a priori (from reason). Experiential knowledge has four main types: sensory perception, introspection, memory, and testimony. Non-experiential knowledge is gained through rational insight and includes mathematics and logic. The scientific method is an ordered series of steps to acquire knowledge based on experimental evidence. It typically involves: Observation, Question, Research, Hypothesis, Experiment, Analysis, and Conclusion. Learning physics contributes to intellectual satisfaction by developing problem-solving and critical thinking skills.",
+          "keywords": [
+            {
+              "term": "A Posteriori Knowledge",
+              "definition": "Knowledge acquired through experience, such as seeing, hearing, or feeling."
+            },
+            {
+              "term": "A Priori Knowledge",
+              "definition": "Knowledge that does not come from experience but is derived from reason, such as logic and mathematics."
+            },
+            {
+              "term": "Scientific Method",
+              "definition": "An ordered series of steps to acquire knowledge based on experimental evidence."
+            },
+            {
+              "term": "Hypothesis",
+              "definition": "A proposed explanation for a phenomenon, made as a starting point for further investigation."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "The Mission of Physics and Career Awareness",
+          "summary": "The mission of physics is to advance science, engineering, and innovation for the benefit of all. A physics degree provides graduates with valuable, high-demand skills in numeracy, problem-solving, data analysis, and communication, leading to diverse career opportunities. Physics graduates can find careers in space and astronomy, healthcare (medical physics), engineering, energy (renewable and non-renewable), technology (robotics, nanotechnology), geophysics, meteorology, and as research scientists in various specializations.",
+          "notes": "The mission of physics is to advance science, engineering, and innovation globally for the benefit of society. Physics graduates have skills in numeracy, problem-solving, data analysis, and communication that are in high demand. Career paths include: Space and Astronomy, Healthcare (medical physics, radiology, radiation oncology), Engineering (manufacturing, technology-based roles), Energy (renewable and non-renewable, oil and gas), Technology (robotics, nanoscience), Geophysics and Meteorology, and Research Scientist (e.g., astrophysics, particle physics, biotechnology).",
+          "keywords": [
+            {
+              "term": "Mission of Physics",
+              "definition": "To advance science, engineering, and innovation for the benefit of all and for serving society."
+            },
+            {
+              "term": "Medical Physics",
+              "definition": "Physics careers in healthcare, overlapping with biomedical engineering to create and maintain medical technologies."
+            },
+            {
+              "term": "Geophysics",
+              "definition": "A physics career focused on understanding Earth's processes, including the prediction of natural disasters."
+            },
+            {
+              "term": "Meteorology",
+              "definition": "A physics-related career focusing on weather forecasting and researching the effects of climate change."
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Current Status of Physics",
+          "summary": "Modern physics is marked by significant discoveries and inventions, often requiring international collaboration and substantial funding. Major recent discoveries include the detection of exoplanets, the imaging of a black hole, advances in quantum cryptography, the discovery of the Higgs boson at CERN, the detection of gravitational waves, and the modeling of global warming, which was recognized with Nobel Prizes. The James Webb Space Telescope represents a new frontier in astrophysics. For developing countries like Ethiopia, fostering physics research is crucial for national security and sustainable growth.",
+          "notes": "Physics studies the universe from subatomic particles to black holes and galaxies. Recent major discoveries include: Exoplanets (Nobel Prize 2019), Black hole imaging and formation (Nobel Prize 2020), Quantum cryptography for secure information, Higgs boson discovery by CERN (2012), Gravitational wave detection by LIGO (2016, confirming Einstein's theory), Global warming modeling (Nobel Prize 2021), and the James Webb Space Telescope for studying galaxies and star formation. These discoveries often involve large international collaborations and are very expensive. Ethiopia aims to start doing physics at a high level for its national development.",
+          "keywords": [
+            {
+              "term": "Exoplanet",
+              "definition": "A planet outside of our solar system."
+            },
+            {
+              "term": "Black Hole",
+              "definition": "A region of spacetime where gravity is so strong that nothing, not even light, can escape."
+            },
+            {
+              "term": "Quantum Cryptography",
+              "definition": "An application of quantum physics that enhances the security of information exchange."
+            },
+            {
+              "term": "Higgs Boson",
+              "definition": "A subatomic particle whose discovery confirmed the mechanism by which other particles acquire mass."
+            },
+            {
+              "term": "Gravitational Wave",
+              "definition": "A wave in spacetime predicted by Einstein's theory of gravity, traveling at the speed of light."
+            },
+            {
+              "term": "Global Warming",
+              "definition": "The increase in Earth's average temperature and its impact on climate."
+            },
+            {
+              "term": "James Webb Space Telescope (JWST)",
+              "definition": "An infrared telescope located far from Earth, used to study the assembly of galaxies, star birth, and exoplanets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Vectors",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Vectors and Types of Vectors",
+          "summary": "Physical quantities are classified as scalars, which have only magnitude (e.g., mass, speed, distance, density), or vectors, which have both magnitude and direction (e.g., force, velocity, acceleration, displacement). A vector is represented graphically by an arrow, where the length represents the magnitude (drawn to scale) and the tip indicates the direction. Vectors can be categorized based on their direction and relationship: parallel (same direction), antiparallel (opposite directions), equal (same magnitude and direction), collinear (lie on the same or parallel lines), coplanar (lie in the same or parallel planes), zero (magnitude of zero), orthogonal (perpendicular), and a unit vector (magnitude of one). The negative of a vector has the same magnitude but the opposite direction.",
+          "notes": "Scalar quantities are completely described by magnitude and unit (e.g., mass, speed, distance, density). Vector quantities require both magnitude and direction for a complete description (e.g., force, velocity, acceleration, displacement). A vector is represented graphically by an arrow with a length proportional to the magnitude and the tip pointing in the direction of the vector. Vectors can be classified by their relationship: Parallel vectors have the same direction; Antiparallel vectors have opposite directions; Equal vectors have the same magnitude and direction; Collinear vectors lie along the same line or parallel lines; Coplanar vectors lie in the same plane or parallel planes; a Zero vector has zero magnitude; Orthogonal vectors are perpendicular; a Unit vector has a magnitude of one. The negative of a vector has the same magnitude but opposite direction.",
+          "keywords": [
+            {
+              "term": "Scalar",
+              "definition": "A physical quantity that has only magnitude and no direction."
+            },
+            {
+              "term": "Vector",
+              "definition": "A physical quantity that has both magnitude and direction."
+            },
+            {
+              "term": "Parallel Vectors",
+              "definition": "Vectors that have the same direction."
+            },
+            {
+              "term": "Antiparallel Vectors",
+              "definition": "Vectors that have opposite directions."
+            },
+            {
+              "term": "Equal Vectors",
+              "definition": "Vectors that have the same magnitude and the same direction."
+            },
+            {
+              "term": "Collinear Vectors",
+              "definition": "Vectors that lie along the same line or parallel lines."
+            },
+            {
+              "term": "Coplanar Vectors",
+              "definition": "Three or more vectors lying in the same plane or parallel to the same plane."
+            },
+            {
+              "term": "Zero Vector (Null Vector)",
+              "definition": "A vector whose magnitude is zero and its starting point coincides with the terminal point."
+            },
+            {
+              "term": "Orthogonal Vectors",
+              "definition": "Vectors that are perpendicular to one another."
+            },
+            {
+              "term": "Unit Vector",
+              "definition": "A vector that has a magnitude of exactly one unit."
+            },
+            {
+              "term": "Negative of a Vector",
+              "definition": "A vector having the same magnitude as the original vector but the opposite direction."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Graphical Method of Addition of Vectors in Two Dimensions (2-D)",
+          "summary": "The graphical method uses scale diagrams to find the resultant vector. Vectors can be added using the Triangle Law (connecting vectors head-to-tail, with the resultant drawn from the tail of the first to the head of the last), the Parallelogram Law (connecting vectors tail-to-tail and using them as sides of a parallelogram; the diagonal is the resultant), or the Polygon Law (an extension of the Triangle Law for more than two vectors). Subtraction of a vector is achieved by adding its negative (same magnitude, opposite direction). This method provides a visual understanding but offers limited accuracy.",
+          "notes": "Graphical methods provide a visual understanding of vector addition and are useful for navigation. Adding vectors requires them to have the same units and involves translating a vector (moving it parallel to itself) without changing it. The Triangle Law: Place vectors head-to-tail; the resultant is drawn from the tail of the first vector to the head of the second. The Parallelogram Law: Place vectors tail-to-tail; construct a parallelogram using the vectors as sides; the resultant is the diagonal from the tails. The Polygon Law: For more than two vectors, place them head-to-tail in sequence; the resultant is drawn from the tail of the first to the head of the last. Vector subtraction is done by adding the negative of the vector to be subtracted: A - B = A + (-B).",
+          "keywords": [
+            {
+              "term": "Resultant Vector",
+              "definition": "The vector sum of two or more vectors."
+            },
+            {
+              "term": "Triangle Law of Vector Addition",
+              "definition": "A method for adding two vectors by placing them head-to-tail, with the resultant going from the tail of the first to the head of the second."
+            },
+            {
+              "term": "Parallelogram Law of Vector Addition",
+              "definition": "A method for adding two vectors by placing them tail-to-tail and constructing a parallelogram; the resultant is the diagonal."
+            },
+            {
+              "term": "Polygon Law of Vector Addition",
+              "definition": "A method for adding more than two vectors by placing them head-to-tail in a sequence; the resultant is the vector from the tail of the first to the head of the last."
+            },
+            {
+              "term": "Translation of a Vector",
+              "definition": "The process of moving a vector parallel to itself without changing its magnitude or direction."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Algebraic Method of addition of vectors in Two Dimensions (2-D)",
+          "summary": "The algebraic method uses trigonometric functions to add vectors exactly. For collinear vectors, the resultant is found by arithmetic addition (same direction) or subtraction (opposite direction). For perpendicular vectors, the magnitude is found using the Pythagorean theorem, and direction using trigonometric ratios like tangent. The most general method is the component method: each vector is resolved into its x and y components (Ax = A cos θ, Ay = A sin θ). The resultant's components are the sums of the individual components (Rx = ΣAx, Ry = ΣAy). The magnitude of the resultant is R = √(Rx² + Ry²), and its direction is θ = tan⁻¹(Ry/Rx). This method is exact and handles multiple vectors in any direction.",
+          "notes": "Analytic methods provide exact results. For collinear vectors: same direction, add magnitudes; opposite directions, subtract magnitudes. For perpendicular vectors: Magnitude = √(A² + B²); Direction is given by the angle from a reference axis. The general component method involves resolving each vector into its x and y components using sine and cosine. The x-component of the resultant is the sum of the x-components; the y-component is the sum of the y-components. Rx = Ax + Bx + ...; Ry = Ay + By + ... Magnitude: R = √(Rx² + Ry²). Direction: θ = tan⁻¹(Ry/Rx). Unit vectors (i, j) represent direction along the x and y axes. A vector can be expressed as A = Ax i + Ay j.",
+          "keywords": [
+            {
+              "term": "Component of a Vector",
+              "definition": "The projection of a vector on a coordinate axis (e.g., x-component, y-component)."
+            },
+            {
+              "term": "Resolution of a Vector",
+              "definition": "The process of breaking a vector into its components."
+            },
+            {
+              "term": "Component Method",
+              "definition": "A method of vector addition where each vector is resolved into its x and y components, and the components are summed separately to find the resultant."
+            },
+            {
+              "term": "Unit Vector",
+              "definition": "A vector of magnitude one, used to represent direction. (e.g., î, ĵ)."
+            },
+            {
+              "term": "Pythagorean Theorem",
+              "definition": "A mathematical relationship used to find the magnitude of the resultant of two perpendicular vectors: R² = A² + B²."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Product of Vectors",
+          "summary": "There are two types of vector products: scalar (dot) product and vector (cross) product. The scalar (dot) product of two vectors A and B is defined as A·B = AB cos θ, where θ is the angle between them. The result is a scalar. It can also be expressed as A·B = Ax Bx + Ay By. The dot product can be positive (θ < 90°), negative (θ > 90°), or zero (θ = 90°). Multiplying a vector by a scalar changes its magnitude and, if the scalar is negative, reverses its direction. The dot product is useful for calculating work (W = F·d) and power (P = F·v).",
+          "notes": "Vectors cannot be multiplied like ordinary numbers. The scalar (dot) product yields a scalar. Definition: A·B = AB cos θ, where θ is the angle between vectors. In component form: A·B = AxBx + AyBy. The dot product is zero when vectors are perpendicular (θ = 90°). Multiplying a vector by a scalar: cA has magnitude |c|A; if c > 0, direction is same; if c < 0, direction is opposite. Applications: Work (W = F·d) and Power (P = F·v) are calculated using the dot product.",
+          "keywords": [
+            {
+              "term": "Scalar (Dot) Product",
+              "definition": "The product of two vectors that results in a scalar quantity, defined as A·B = AB cos θ."
+            },
+            {
+              "term": "Angle Between Vectors",
+              "definition": "The angle formed when two vectors are placed tail-to-tail."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Motion in One and Two Dimensions",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Uniformly Accelerated Motion in 1D",
+          "summary": "Acceleration is the rate of change of velocity, a vector with SI unit m/s². Average acceleration is (vf - vi)/Δt, while instantaneous acceleration is the limit of this as Δt approaches zero. A motion is uniformly accelerated when the velocity changes by equal amounts in equal intervals of time, meaning the acceleration is constant. Negative acceleration does not necessarily mean deceleration; the sign relationship between velocity and acceleration determines if an object is speeding up (same sign) or slowing down (different signs).",
+          "notes": "Acceleration is a vector quantity defined as the rate of change of velocity. Its SI unit is m/s². Average acceleration: a_avg = (vf - vi) / Δt. Instantaneous acceleration is the acceleration at a specific instant, calculated as the limit of average acceleration as Δt → 0. Uniform acceleration means constant acceleration, where velocity changes by equal amounts in equal time intervals. A negative acceleration is not always deceleration; it depends on the sign of velocity. If velocity and acceleration have the same sign, the object speeds up; if opposite signs, it slows down.",
+          "keywords": [
+            {
+              "term": "Acceleration",
+              "definition": "The rate of change of velocity. A vector quantity with SI unit m/s²."
+            },
+            {
+              "term": "Average Acceleration",
+              "definition": "The change in velocity divided by the time interval over which the change occurred."
+            },
+            {
+              "term": "Instantaneous Acceleration",
+              "definition": "The acceleration of an object at a specific instant in time."
+            },
+            {
+              "term": "Uniformly Accelerated Motion",
+              "definition": "Motion where the acceleration is constant, meaning the velocity changes by equal amounts in equal time intervals."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Equations of Uniformly Accelerated Motion in 1D",
+          "summary": "For uniformly accelerated motion in one dimension, five key kinematic equations relate displacement (s), initial velocity (u or vi), final velocity (v or vf), acceleration (a), and time (t). The equations are derived from the definitions of acceleration and average velocity. They include vf = vi + at, s = ((vi+vf)/2)t, s = vit + ½at², and vf² = vi² + 2as. These equations are vector equations, so the sign convention must be consistent. Applications include calculating stopping distance, which is the sum of reaction distance (v × reaction time) and braking distance (v²/(2µg)).",
+          "notes": "These equations apply only to uniformly accelerated motion. They are derived from the definition of acceleration and average velocity. The five key equations are: 1) vf = vi + at; 2) v_avg = (vi + vf)/2; 3) s = ((vi + vf)/2)t; 4) s = vi t + ½ a t²; 5) s = vf t - ½ a t²; 6) vf² = vi² + 2as. The sign convention must be consistent when using these equations. Stopping distance is the sum of reaction distance and braking distance. Reaction distance is the distance traveled during the driver's reaction time. Braking distance depends on speed and the coefficient of friction.",
+          "keywords": [
+            {
+              "term": "Kinematic Equations",
+              "definition": "Equations that describe the motion of an object with constant acceleration, relating displacement, velocity, acceleration, and time."
+            },
+            {
+              "term": "Stopping Distance",
+              "definition": "The total distance a vehicle travels from the moment a hazard is detected to when it comes to a complete stop; the sum of reaction distance and braking distance."
+            },
+            {
+              "term": "Reaction Distance",
+              "definition": "The distance a vehicle travels during the driver's reaction time."
+            },
+            {
+              "term": "Braking Distance",
+              "definition": "The distance a vehicle travels from the moment the brakes are applied to a complete stop."
+            },
+            {
+              "term": "Coefficient of Friction (µ)",
+              "definition": "A dimensionless number that represents the friction between two surfaces, such as a tire and the road."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Graphical Representation of Uniformly accelerated Motion in 1 D",
+          "summary": "Graphs are used to visualize motion. A displacement-time graph shows how position changes with time; its slope gives the velocity. A constant slope indicates constant velocity (uniform motion), while a changing slope indicates acceleration or deceleration. A velocity-time graph shows how velocity changes with time; its slope gives the acceleration, and the area under the curve gives the displacement. An acceleration-time graph shows how acceleration changes with time; for uniformly accelerated motion, it is a horizontal line (constant acceleration).",
+          "notes": "Displacement-Time Graph: Plot displacement on y-axis, time on x-axis. The slope of the graph = velocity. A straight line implies constant velocity; a curved line implies acceleration (curve upward) or deceleration (curve downward). Velocity-Time Graph: Plot velocity on y-axis, time on x-axis. The slope of the graph = acceleration. The area under the graph = displacement. A horizontal line implies constant velocity; a straight diagonal line implies constant acceleration. Acceleration-Time Graph: Plot acceleration on y-axis, time on x-axis. For uniform acceleration, the graph is a horizontal line at a constant value.",
+          "keywords": [
+            {
+              "term": "Displacement-Time Graph",
+              "definition": "A graph showing how displacement varies with time; its slope gives the velocity."
+            },
+            {
+              "term": "Velocity-Time Graph",
+              "definition": "A graph showing how velocity varies with time; its slope gives the acceleration and the area under the curve gives the displacement."
+            },
+            {
+              "term": "Acceleration-Time Graph",
+              "definition": "A graph showing how acceleration varies with time."
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Vertical Motion",
+          "summary": "Free fall is motion under the influence of gravity alone, with a constant acceleration of g ≈ 9.8 m/s² near Earth's surface, directed downwards. The same kinematic equations for uniformly accelerated motion apply, but 'a' is replaced by 'g'. For objects thrown upward, g is negative (opposite to initial upward velocity), and for objects thrown downward, g is positive (same direction as initial velocity). The motion is symmetrical; the time to rise to the maximum height equals the time to fall back. Terminal velocity is the constant maximum velocity reached when the drag force balances the weight.",
+          "notes": "Free fall is motion under the sole influence of gravity. The acceleration due to gravity, g, is constant near Earth's surface (≈9.8 m/s²) and is directed downward. The kinematic equations can be applied by replacing 'a' with 'g'. For upward motion, g is negative. For downward motion, g is positive. At maximum height, velocity is zero. The time to go up equals the time to come down. Terminal velocity occurs when the upward drag force equals the downward gravitational force, resulting in zero net force and constant velocity.",
+          "keywords": [
+            {
+              "term": "Free Fall",
+              "definition": "Motion of an object under the influence of gravity alone."
+            },
+            {
+              "term": "Acceleration due to Gravity (g)",
+              "definition": "The constant acceleration of an object in free fall near the Earth's surface, approximately 9.8 m/s²."
+            },
+            {
+              "term": "Terminal Velocity",
+              "definition": "The maximum constant velocity reached by a falling object when the upward drag force equals the downward gravitational force."
+            },
+            {
+              "term": "Reaction Time",
+              "definition": "The time a person takes to observe, think, and act in response to a stimulus."
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Uniform Circular Motion",
+          "summary": "Uniform circular motion is the motion of an object traveling in a circle at a constant speed. Although speed is constant, velocity is changing because its direction is constantly changing, resulting in a centripetal (center-seeking) acceleration. Angular displacement (θ) is the angle swept out; tangential displacement (s) is the arc length (s = rθ). Angular velocity (ω) is the rate of change of angular displacement (ω = Δθ/Δt), and tangential velocity (vt) is related to it by vt = rω. Centripetal acceleration (ac) is directed toward the center and has magnitude ac = v²/r = ω²r. The centripetal force (Fc) is the net force causing this acceleration, Fc = mac. Examples include a ball on a string, cars on a roundabout (friction provides Fc), and banked roads.",
+          "notes": "Uniform circular motion is motion in a circle with constant speed. The object accelerates because its direction changes. Angular displacement (θ) is the angle through which the object moves. Tangential displacement (s) is the distance along the arc (s = rθ). Angular velocity (ω) is the rate of change of angular displacement (ω = Δθ/Δt). Tangential velocity (vt) is the linear speed along the circular path (vt = rω). Centripetal acceleration (ac) is directed towards the center and is given by ac = v²/r = ω²r. The centripetal force (Fc) is the net force directed towards the center that causes circular motion (Fc = mac). In a horizontal circle, the tension in a string or friction between tires and the road can provide the centripetal force. For a banked curve, the horizontal component of the normal force provides the centripetal force.",
+          "keywords": [
+            {
+              "term": "Uniform Circular Motion",
+              "definition": "Motion in a circular path at constant speed, where velocity is constantly changing direction."
+            },
+            {
+              "term": "Angular Displacement (θ)",
+              "definition": "The angle through which an object moves along a circular path."
+            },
+            {
+              "term": "Tangential Displacement (s)",
+              "definition": "The distance an object moves along the circumference of a circle."
+            },
+            {
+              "term": "Angular Velocity (ω)",
+              "definition": "The rate of change of angular displacement, measured in radians per second."
+            },
+            {
+              "term": "Tangential Velocity (vt)",
+              "definition": "The linear velocity of an object moving in a circular path, directed along the tangent to the circle."
+            },
+            {
+              "term": "Centripetal Acceleration (ac)",
+              "definition": "The acceleration of an object in uniform circular motion, directed toward the center of the circle."
+            },
+            {
+              "term": "Centripetal Force (Fc)",
+              "definition": "The net force directed toward the center of a circle that causes centripetal acceleration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Dynamics",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "The Concept of Force and Newton's Laws of motion",
+          "summary": "A force is a push or a pull, a vector quantity measured in newtons (N). Forces can be contact forces (physical touch) or field forces (action at a distance). The four fundamental forces are the strong nuclear, electromagnetic, weak nuclear, and gravitational forces. Newton's First Law (Law of Inertia) states an object at rest remains at rest, and an object in motion continues in straight-line motion at constant velocity, unless acted upon by an external net force. Inertia is the tendency to resist changes in motion, and mass is a measure of inertia. Newton's Second Law states that the acceleration of an object is directly proportional to the net force applied and inversely proportional to its mass (F_net = ma). Newton's Third Law states that for every action, there is an equal and opposite reaction force acting on a different object. Weight is the gravitational force on an object (W = mg), while the normal force is the perpendicular contact force exerted by a surface.",
+          "notes": "A force is an interaction that can change the motion or shape of an object. Forces are vectors with SI unit Newton (N). Contact forces require physical touch (e.g., friction, tension, normal). Field forces act at a distance (e.g., gravity, electric, magnetic). The four fundamental forces are: Strong nuclear (holds nucleus together), Electromagnetic (between charges), Weak nuclear (responsible for some radioactive decay), and Gravitational (between masses). Newton's First Law (Inertia): An object at rest stays at rest and an object in motion stays in motion with constant velocity unless a net external force acts on it. Inertia is the property of resistance to change in motion; mass quantifies inertia. Newton's Second Law: F_net = m a. Newton's Third Law: For every action force, there is an equal and opposite reaction force acting on a different body. Weight (W) is the gravitational force: W = mg. The Normal Force (FN) is the perpendicular force from a surface on an object. It is equal to the weight only on a horizontal, level surface.",
+          "keywords": [
+            {
+              "term": "Force",
+              "definition": "A push or a pull that can change the state of rest or motion of an object. A vector quantity measured in Newtons (N)."
+            },
+            {
+              "term": "Contact Force",
+              "definition": "A force that results from the physical contact between two bodies."
+            },
+            {
+              "term": "Field Force",
+              "definition": "A force that acts at a distance, without direct physical contact."
+            },
+            {
+              "term": "Fundamental Forces",
+              "definition": "The four basic forces in nature: strong nuclear, electromagnetic, weak nuclear, and gravitational."
+            },
+            {
+              "term": "Newton's First Law (Law of Inertia)",
+              "definition": "An object at rest remains at rest, and an object in motion continues with constant velocity, unless acted upon by an external net force."
+            },
+            {
+              "term": "Inertia",
+              "definition": "The tendency of an object to resist changes in its state of motion."
+            },
+            {
+              "term": "Newton's Second Law",
+              "definition": "The acceleration of an object is directly proportional to the net force applied to it and inversely proportional to its mass: F_net = ma."
+            },
+            {
+              "term": "Newton's Third Law",
+              "definition": "For every action force, there is an equal and opposite reaction force acting on a different object."
+            },
+            {
+              "term": "Weight",
+              "definition": "The gravitational force acting on an object, calculated as W = mg."
+            },
+            {
+              "term": "Normal Force",
+              "definition": "The perpendicular force exerted by a surface on an object in contact with it."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Frictional Force",
+          "summary": "Friction is a force that opposes the motion of one surface over another. There are two main types: static friction (between surfaces at rest) and kinetic friction (between surfaces sliding over each other). The magnitude of friction is proportional to the normal force (F_f = µF_N), where the proportionality constant is the coefficient of friction (µ). Static friction is generally greater than kinetic friction (µ_s > µ_k). Friction can be useful (e.g., walking, driving) but also causes energy loss. Free-body diagrams are essential for solving dynamics problems by visually representing all forces acting on an object.",
+          "notes": "Friction opposes relative motion between surfaces. Static friction acts on surfaces at rest relative to each other; its magnitude adjusts to prevent motion up to a maximum value (F_s,max = µ_s F_N). Kinetic friction acts when surfaces are sliding over each other; its magnitude is approximately constant (F_k = µ_k F_N). The coefficient of friction depends on the nature of the surfaces in contact. Static friction is generally larger than kinetic friction. Friction has both beneficial (walking, traction) and detrimental (energy loss, wear) effects. Free-body diagrams are crucial for applying Newton's Laws; they show all forces acting on a chosen object.",
+          "keywords": [
+            {
+              "term": "Friction",
+              "definition": "A force that opposes the motion of one surface over another."
+            },
+            {
+              "term": "Static Friction",
+              "definition": "Friction between two surfaces that are at rest relative to each other."
+            },
+            {
+              "term": "Kinetic Friction",
+              "definition": "Friction between two surfaces that are sliding relative to each other."
+            },
+            {
+              "term": "Coefficient of Friction (µ)",
+              "definition": "A dimensionless number that represents the ratio of the frictional force to the normal force."
+            },
+            {
+              "term": "Free-Body Diagram",
+              "definition": "A diagram showing all the forces acting on a single object, used to analyze motion and apply Newton's Laws."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The First Condition of Equilibrium",
+          "summary": "An object is in translational equilibrium when it is at rest or moving with constant velocity (zero acceleration). The first condition of equilibrium states that for an object to be in equilibrium, the vector sum of all forces acting on it must be zero (ΣF = 0). This can be broken down into components: ΣFx = 0 and ΣFy = 0. This condition is used to solve for unknown forces in static situations (e.g., a hanging mass or an object at rest on an incline).",
+          "notes": "An object is in translational equilibrium if its acceleration is zero (either at rest or moving at constant velocity). The first condition of equilibrium: The vector sum of all forces acting on the object must be zero, ΣF = 0. For forces in two dimensions, this means ΣFx = 0 and ΣFy = 0. This allows solving for unknown forces, such as tensions in strings or components of forces on inclined planes.",
+          "keywords": [
+            {
+              "term": "Equilibrium",
+              "definition": "A state of an object where the net force acting on it is zero, resulting in zero acceleration (at rest or constant velocity)."
+            },
+            {
+              "term": "First Condition of Equilibrium",
+              "definition": "The condition that the vector sum of all forces acting on an object in equilibrium must be zero (ΣF = 0)."
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Work, Energy and Power",
+          "summary": "Work (W) is the transfer of energy by a force acting through a displacement, defined as W = F·s = F s cos θ, and measured in joules (J). The work-energy theorem states that the net work done on an object equals its change in kinetic energy (W_net = ΔKE = ½mvf² - ½mvi²). Kinetic energy (KE) is energy of motion, KE = ½mv². Potential energy (PE) is stored energy; gravitational potential energy is PE = mgh. Power (P) is the rate at which work is done, P = W/t = F·v, measured in watts (W). Forces can be conservative (work independent of path, e.g., gravity) or non-conservative (work depends on path, e.g., friction).",
+          "notes": "Work is done when a force causes a displacement. W = F s cos θ. Work is a scalar quantity, measured in Joules (J). The Work-Energy Theorem: The net work done on an object is equal to its change in kinetic energy: W_net = ΔKE = 1/2 m v_f² - 1/2 m v_i². Kinetic Energy is energy due to motion. Potential Energy is stored energy due to an object's position or configuration. Gravitational Potential Energy: PE_g = m g h. Conservative Force: The work done by a conservative force is independent of the path taken (e.g., gravity). Non-Conservative Force: The work done depends on the path (e.g., friction). Power is the rate of doing work or transferring energy: P = W/t = F v. Measured in Watts (W).",
+          "keywords": [
+            {
+              "term": "Work",
+              "definition": "The transfer of energy by a force acting through a displacement, defined as W = F s cos θ."
+            },
+            {
+              "term": "Joule (J)",
+              "definition": "The SI unit of work and energy, defined as 1 Newton-meter (N·m)."
+            },
+            {
+              "term": "Work-Energy Theorem",
+              "definition": "The net work done on an object is equal to the change in its kinetic energy."
+            },
+            {
+              "term": "Kinetic Energy (KE)",
+              "definition": "The energy an object possesses due to its motion, calculated as 1/2 mv²."
+            },
+            {
+              "term": "Potential Energy (PE)",
+              "definition": "Stored energy that an object has due to its position or state."
+            },
+            {
+              "term": "Conservative Force",
+              "definition": "A force for which the work done is independent of the path taken by the object."
+            },
+            {
+              "term": "Non-Conservative Force",
+              "definition": "A force for which the work done depends on the path taken."
+            },
+            {
+              "term": "Power",
+              "definition": "The rate at which work is done or energy is transferred, measured in Watts (W)."
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Conservation of Mechanical Energy",
+          "summary": "The principle of conservation of mechanical energy states that in the absence of non-conservative forces (like friction or air resistance), the total mechanical energy of a system remains constant. Mechanical energy is the sum of kinetic energy (KE) and potential energy (PE). Therefore, KE_i + PE_i = KE_f + PE_f, or ΔKE + ΔPE = 0. This principle is a powerful tool for solving problems involving motion, as it relates speeds and heights without needing to consider the details of the forces involved (as long as they are conservative).",
+          "notes": "The total mechanical energy (E) of a system is the sum of its kinetic and potential energies: E = KE + PE. In the absence of non-conservative forces (e.g., friction, air resistance), the mechanical energy is conserved. This means the total energy at an initial point equals the total energy at a final point: KE_i + PE_i = KE_f + PE_f. This implies that energy can transform between kinetic and potential forms but the total remains constant. This principle is used to solve problems where the force is conservative, such as objects in free fall or on smooth tracks.",
+          "keywords": [
+            {
+              "term": "Mechanical Energy",
+              "definition": "The sum of the kinetic energy and potential energy of a system."
+            },
+            {
+              "term": "Law of Conservation of Mechanical Energy",
+              "definition": "The principle that the total mechanical energy of a system remains constant if only conservative forces do work."
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "Impulse and Linear Momentum",
+          "summary": "Linear momentum (p) is the product of an object's mass and velocity (p = mv), a vector quantity. Impulse (J) is the product of the net force and the time interval over which it acts (J = F_net Δt), which is equal to the change in momentum (Δp). This is the impulse-momentum theorem, a direct consequence of Newton's Second Law. In collisions, momentum is conserved in an isolated system (no external forces). Collisions are classified as elastic (momentum and kinetic energy conserved) or inelastic (momentum conserved, kinetic energy not). In perfectly inelastic collisions, the objects stick together after impact. The center of mass of a system is the point where the total mass can be considered to be concentrated, and its motion follows Newton's laws.",
+          "notes": "Linear momentum (p) = m v. It is a vector quantity with SI unit kg·m/s. Impulse (J) is the change in momentum: J = F_net Δt = Δp = m v_f - m v_i. This is the Impulse-Momentum Theorem. Impulse is used to analyze collisions and changes in momentum. The Law of Conservation of Linear Momentum states that the total momentum of an isolated system remains constant: p_i = p_f. Collisions: Elastic (KE conserved, momentum conserved), Inelastic (KE not conserved, momentum conserved), Perfectly Inelastic (objects stick together after collision). The center of mass is the average position of all the mass in a system. The velocity of the center of mass is given by v_cm = (Σ m_i v_i) / M_total.",
+          "keywords": [
+            {
+              "term": "Linear Momentum",
+              "definition": "The product of an object's mass and its velocity, a vector quantity (p = m v)."
+            },
+            {
+              "term": "Impulse",
+              "definition": "The product of the net force on an object and the time interval over which it acts, equal to the change in momentum (J = F_net Δt = Δp)."
+            },
+            {
+              "term": "Law of Conservation of Linear Momentum",
+              "definition": "The total momentum of an isolated system remains constant in the absence of external forces."
+            },
+            {
+              "term": "Elastic Collision",
+              "definition": "A collision in which both momentum and kinetic energy are conserved."
+            },
+            {
+              "term": "Inelastic Collision",
+              "definition": "A collision in which momentum is conserved but kinetic energy is not."
+            },
+            {
+              "term": "Perfectly Inelastic Collision",
+              "definition": "A collision in which the colliding objects stick together after impact."
+            },
+            {
+              "term": "Center of Mass",
+              "definition": "The point where the total mass of a system can be considered to be concentrated for the analysis of translational motion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Heat Conduction and Calorimetry",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "The Concept of Heat",
+          "summary": "Heat is the spontaneous transfer of energy from a hotter object to a colder one when they are in thermal contact. It is a process variable, not a property of an object. Temperature, on the other hand, is a measure of the average kinetic energy of the particles in a substance. Internal energy is the total energy (kinetic and potential) of the particles within a system. Heat and work are both forms of energy transfer, capable of changing a system's internal energy.",
+          "notes": "Heat is energy in transit due to a temperature difference. It always flows from a region of higher temperature to a region of lower temperature. Heat is a process variable, while temperature is a state variable. Thermal equilibrium occurs when two objects in contact reach the same temperature and there is no net heat flow. Internal energy is the total energy contained within a system, including the kinetic and potential energies of its particles. Work and heat are both methods of transferring energy to or from a system. They can both change the internal energy of a system.",
+          "keywords": [
+            {
+              "term": "Heat",
+              "definition": "Energy transferred spontaneously from a hotter object to a colder one due to a temperature difference."
+            },
+            {
+              "term": "Temperature",
+              "definition": "A measure of the average kinetic energy of the particles in a substance."
+            },
+            {
+              "term": "Internal Energy",
+              "definition": "The sum of all kinetic and potential energies of the particles within a system."
+            },
+            {
+              "term": "Thermal Equilibrium",
+              "definition": "The state in which two objects in thermal contact have the same temperature and no net heat flows between them."
+            },
+            {
+              "term": "Thermodynamic Work",
+              "definition": "The quantity of energy transferred from one system to another by means other than heat."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Heat transfer mechanisms",
+          "summary": "Heat can be transferred in three ways: conduction, convection, and radiation. Conduction is the transfer of heat through a material by molecular collisions, most effective in solids. Convection is the transfer of heat by the bulk movement of fluids (liquids or gases). Radiation is the transfer of heat via electromagnetic waves, which does not require a medium. Good conductors (e.g., metals) transfer heat quickly, while insulators (e.g., wood, wool) transfer heat slowly.",
+          "notes": "Heat transfer occurs via three mechanisms: Conduction: Direct transfer of thermal energy through physical contact from particle to particle. Most effective in solids. Convection: Transfer of heat by the mass movement of a fluid (liquid or gas). Driven by differences in density due to temperature changes. Radiation: Transfer of heat through electromagnetic waves. Does not require a medium and can occur through a vacuum. All objects emit and absorb thermal radiation. Conductors allow heat to flow easily; insulators resist heat flow.",
+          "keywords": [
+            {
+              "term": "Conduction",
+              "definition": "The transfer of heat energy through a material by the collision of neighboring atoms or molecules."
+            },
+            {
+              "term": "Convection",
+              "definition": "The transfer of heat energy by the bulk movement of a fluid (liquid or gas)."
+            },
+            {
+              "term": "Radiation",
+              "definition": "The transfer of heat energy via electromagnetic waves, which does not require a medium."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Heat Capacity and Specific Heat Capacity",
+          "summary": "Heat capacity (C) is the amount of heat required to raise the temperature of an entire object by 1°C or 1K (C = Q/ΔT). Specific heat capacity (c) is the amount of heat required to raise the temperature of 1 kg of a substance by 1°C or 1K (c = Q/(mΔT)). Specific heat is an intrinsic property of a material. Water has a very high specific heat capacity compared to most metals, making it a good coolant and giving it a large thermal inertia.",
+          "notes": "Heat capacity (C) is the amount of heat needed to change the temperature of a given object by 1°C or 1 K. It depends on the mass and the material of the object. C = Q/ΔT. Specific heat capacity (c) is the amount of heat needed to change the temperature of 1 kg of a substance by 1°C or 1 K. It is an intrinsic property of the material. c = Q/(m ΔT). Water has a very high specific heat, which is why coastal climates are moderate and it is used as a coolant.",
+          "keywords": [
+            {
+              "term": "Heat Capacity",
+              "definition": "The amount of heat required to change the temperature of a given object by 1°C or 1 K."
+            },
+            {
+              "term": "Specific Heat Capacity",
+              "definition": "The amount of heat required to change the temperature of 1 kg of a substance by 1°C or 1 K."
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Thermal expansion",
+          "summary": "Thermal expansion is the change in size (length, area, or volume) of a substance in response to a temperature change. Linear expansion: ΔL = L₀ α ΔT. Area expansion: ΔA = A₀ β ΔT, where β = 2α. Volume expansion: ΔV = V₀ γ ΔT, where γ = 3α. The coefficients of thermal expansion are material-dependent. Gases expand much more than liquids and solids for the same temperature change. Water has an anomaly in that its volume decreases when heated from 0°C to 4°C.",
+          "notes": "Thermal expansion occurs because as temperature increases, the average kinetic energy of particles increases, causing them to vibrate more and require more space. Linear expansion: ΔL = L₀ α ΔT. Area expansion: ΔA = A₀ β ΔT, where β ≈ 2α. Volume expansion: ΔV = V₀ γ ΔT, where γ ≈ 3α. These coefficients differ for each material. Bimetallic strips are used as thermostats. Gases have much larger volume expansion coefficients. Water is unique; its volume decreases from 0°C to 4°C.",
+          "keywords": [
+            {
+              "term": "Thermal Expansion",
+              "definition": "The change in size of a material in response to a change in temperature."
+            },
+            {
+              "term": "Linear Expansion",
+              "definition": "The change in length of a solid due to a temperature change, governed by ΔL = L₀ α ΔT."
+            },
+            {
+              "term": "Area (Surface) Expansion",
+              "definition": "The change in area of a solid due to a temperature change, governed by ΔA = A₀ β ΔT."
+            },
+            {
+              "term": "Volume Expansion",
+              "definition": "The change in volume of a substance due to a temperature change, governed by ΔV = V₀ γ ΔT."
+            },
+            {
+              "term": "Coefficient of Linear Expansion (α)",
+              "definition": "A material-specific constant that describes how much a material expands linearly per degree of temperature change."
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Change of phase",
+          "summary": "A phase change is a transformation between solid, liquid, and gas states. During a phase change, energy is absorbed or released without a change in temperature. The energy involved is called latent heat. Latent heat of fusion (Lf) is the energy required to change a unit mass from solid to liquid (or vice versa) at the melting/freezing point. Latent heat of vaporization (Lv) is the energy required to change a unit mass from liquid to gas (or vice versa) at the boiling/condensation point. The total heat transfer during a phase change is Q = mL.",
+          "notes": "Phase changes occur at specific temperatures (melting/freezing point, boiling/condensation point). During the phase change, the energy supplied is used to change the arrangement of molecules, not to increase their average kinetic energy, so temperature remains constant. The latent heat of fusion (Lf) is the heat required to melt 1 kg of a solid at its melting point. The latent heat of vaporization (Lv) is the heat required to vaporize 1 kg of a liquid at its boiling point. The heat required for a phase change is Q = mL.",
+          "keywords": [
+            {
+              "term": "Phase Change",
+              "definition": "A transition of a substance from one state of matter (solid, liquid, gas) to another."
+            },
+            {
+              "term": "Latent Heat",
+              "definition": "The heat absorbed or released during a phase change without a change in temperature."
+            },
+            {
+              "term": "Latent Heat of Fusion (Lf)",
+              "definition": "The amount of heat required to change 1 kg of a substance from solid to liquid at its melting point."
+            },
+            {
+              "term": "Latent Heat of Vaporization (Lv)",
+              "definition": "The amount of heat required to change 1 kg of a substance from liquid to gas at its boiling point."
+            },
+            {
+              "term": "Triple Point",
+              "definition": "The combination of temperature and pressure at which all three phases (solid, liquid, gas) of a substance coexist in equilibrium."
+            },
+            {
+              "term": "Critical Point",
+              "definition": "The temperature and pressure above which the liquid and gaseous phases of a substance merge into a single phase."
+            },
+            {
+              "term": "Sublimation",
+              "definition": "A phase change directly from the solid phase to the vapor phase without passing through the liquid state."
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Calorimetry",
+          "summary": "Calorimetry is the experimental measurement of heat transfer. It relies on the principle of conservation of energy: heat lost by a hot object equals heat gained by a cold object in an isolated system (Q_lost + Q_gained = 0). Specific heat capacities and latent heats can be measured using this method, such as by mixing a known hot substance with cold water. Electrical methods can also be used, where electrical energy (P t) is supplied to a substance to determine its specific heat capacity.",
+          "notes": "Calorimetry is used to measure specific heat capacities and latent heats. Principle: In an isolated system, the heat lost by a warmer object equals the heat gained by a cooler object: Q_lost = Q_gained. This is used in the method of mixtures: a hot object is placed in a calorimeter with cold water, and the equilibrium temperature is measured. Specific heat capacity of an unknown material can be calculated using this principle. Electrical methods are also used, where a known electrical power is supplied for a known time, and the temperature change is measured to find the specific heat capacity.",
+          "keywords": [
+            {
+              "term": "Calorimetry",
+              "definition": "The measurement of the quantity of heat exchanged between substances during a physical or chemical process."
+            },
+            {
+              "term": "Law of Calorimetry",
+              "definition": "In an isolated system, the heat energy lost from a hot object is equal to the heat energy gained by a cold object."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Electrostatics and Electric Circuit",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Coulomb's Law",
+          "summary": "Electric charge comes in two types (positive and negative). Like charges repel, unlike charges attract. Charge is quantized (q = ne, where e = 1.6×10⁻¹⁹ C) and conserved. Coulomb's law describes the electrostatic force between two point charges: F = k |q₁q₂| / r², where k = 8.99×10⁹ N·m²/C². The force is attractive for opposite charges and repulsive for like charges. For multiple charges, the net force on a charge is the vector sum of the forces due to all other charges (superposition principle).",
+          "notes": "The two types of electric charge are positive (proton) and negative (electron). Like charges repel, unlike charges attract. Charge is quantized, occurring in integer multiples of the elementary charge e = 1.602 × 10⁻¹⁹ C. Charge is conserved. Coulomb's Law: F = k |q1 q2| / r², where k is the Coulomb constant. The force is attractive if charges are opposite, repulsive if like. For multiple charges, the total force on a charge is the vector sum of the forces exerted by each of the other charges, following the principle of superposition.",
+          "keywords": [
+            {
+              "term": "Electric Charge",
+              "definition": "A fundamental property of matter that causes it to experience a force in an electric field. It can be positive or negative."
+            },
+            {
+              "term": "Coulomb's Law",
+              "definition": "A law stating that the force between two point charges is directly proportional to the product of their charges and inversely proportional to the square of the distance between them: F = k |q₁q₂| / r²."
+            },
+            {
+              "term": "Elementary Charge (e)",
+              "definition": "The smallest unit of electric charge, carried by a single electron or proton (e = 1.602 × 10⁻¹⁹ C)."
+            },
+            {
+              "term": "Superposition Principle",
+              "definition": "The net force on a charge due to a system of other charges is the vector sum of the forces due to each individual charge."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Electric Fields",
+          "summary": "An electric field (E) exists in the space around a charge and exerts a force on another charge. It is defined as the force per unit charge: E = F/q. Electric field lines originate from positive charges and terminate on negative charges; they indicate the direction of the force on a positive test charge. The field from a point charge is E = kQ/r². The electric flux (Φ) through a surface is the product of the electric field and the area perpendicular to it: Φ = EA cos θ.",
+          "notes": "An electric field is a vector field that describes the force a positive test charge would experience at any point in space. Electric field strength (E) is defined as F/q. For a point charge, the field strength is E = kQ/r². Electric field lines are visual representations that originate on positive charges, terminate on negative charges, never cross, and are perpendicular to the surface of conductors. The closeness of the lines indicates field strength. Electric flux (Φ) is the measure of the electric field passing through a surface: Φ = E·A = E A cos θ.",
+          "keywords": [
+            {
+              "term": "Electric Field",
+              "definition": "A field that exists in the space around a charged object, exerting a force on other charged objects."
+            },
+            {
+              "term": "Electric Field Lines",
+              "definition": "Imaginary lines used to represent the direction and relative strength of an electric field."
+            },
+            {
+              "term": "Electric Flux (Φ)",
+              "definition": "A measure of the number of electric field lines passing through a given surface."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Electric Potential",
+          "summary": "Electric potential (V) is the electric potential energy per unit charge at a point: V = U/q. The potential difference (voltage) between two points is the work done per unit charge by the electric field to move a charge between them: ΔV = ΔU/q = W/q. The potential due to a point charge is V = kQ/r. Equipotential surfaces connect points of equal potential and are perpendicular to electric field lines. The potential difference in a uniform electric field is ΔV = Ed.",
+          "notes": "Electric potential (V) is a scalar quantity representing the electric potential energy per unit charge: V = U/q. The unit is the volt (V = J/C). The potential difference (ΔV) between two points is the change in potential energy per unit charge: ΔV = ΔU/q = W/q. For a point charge, V = kQ/r. Equipotential surfaces are surfaces on which the potential is constant; they are always perpendicular to electric field lines. In a uniform electric field, the potential difference is ΔV = E d.",
+          "keywords": [
+            {
+              "term": "Electric Potential (V)",
+              "definition": "The electric potential energy per unit charge at a specific point in an electric field."
+            },
+            {
+              "term": "Potential Difference (Voltage)",
+              "definition": "The work done per unit charge to move a charge between two points in an electric field."
+            },
+            {
+              "term": "Equipotential Surface",
+              "definition": "A surface on which the electric potential is the same at every point."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Electric Current, Resistance and ohm's law",
+          "summary": "Electric current (I) is the rate of flow of charge (I = ΔQ/Δt), measured in amperes (A). Resistance (R) is the opposition to current flow, measured in ohms (Ω), and is defined by Ohm's law: V = IR for ohmic conductors. Resistors in series add: R_eq = R₁ + R₂ + ...; resistors in parallel combine as 1/R_eq = 1/R₁ + 1/R₂ + ... Current density (J) is current per unit area, J = I/A. Drift velocity (v_d) is the average speed of electrons in a conductor. Kirchhoff's rules (junction and loop) are used to analyze complex circuits.",
+          "notes": "Electric current is the flow of charge: I = ΔQ/Δt. Resistance is the property that impedes current flow. Ohm's Law states V = I R for a resistor at constant temperature. Series resistors add: R_eq = R1 + R2 + ... The current through each resistor is the same. Parallel resistors combine: 1/R_eq = 1/R1 + 1/R2 + ... The voltage across each resistor is the same. Current density (J) is current per area. Drift velocity (v_d) is the average velocity of charge carriers. Kirchhoff's Rules: Junction Rule (ΣI_in = ΣI_out) and Loop Rule (ΣΔV = 0 for a closed loop).",
+          "keywords": [
+            {
+              "term": "Electric Current",
+              "definition": "The rate of flow of electric charge, measured in amperes (A)."
+            },
+            {
+              "term": "Resistance",
+              "definition": "A measure of the opposition to the flow of electric current, measured in ohms (Ω)."
+            },
+            {
+              "term": "Ohm's Law",
+              "definition": "The relationship between voltage, current, and resistance in a conductor: V = I R."
+            },
+            {
+              "term": "Series Circuit",
+              "definition": "A circuit in which resistors are connected end-to-end so that the same current flows through each."
+            },
+            {
+              "term": "Parallel Circuit",
+              "definition": "A circuit in which resistors are connected across the same potential difference."
+            },
+            {
+              "term": "Kirchhoff's Rules",
+              "definition": "Two rules used for analyzing complex circuits: the junction rule (current conservation) and the loop rule (energy conservation)."
+            },
+            {
+              "term": "Galvanometer",
+              "definition": "A sensitive device used to detect small electric currents."
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Capacitors and Capacitance",
+          "summary": "A capacitor is a device that stores electric charge and energy. Capacitance (C) is the ratio of stored charge to the potential difference: C = Q/V, measured in farads (F). For a parallel-plate capacitor, C = ε₀ A / d. Dielectrics are insulating materials inserted between plates to increase capacitance (C = κ C₀). Capacitors in series: 1/C_eq = 1/C₁ + 1/C₂ + ...; capacitors in parallel: C_eq = C₁ + C₂ + ...",
+          "notes": "A capacitor consists of two conductors separated by an insulator. Capacitance is defined as C = Q/V. The SI unit is the Farad (F). A parallel-plate capacitor has capacitance C = ε₀ A / d, where A is plate area and d is separation. A dielectric (κ) increases capacitance: C = κ C₀. Capacitors in series combine as: 1/C_eq = 1/C1 + 1/C2 + ... Capacitors in parallel combine as: C_eq = C1 + C2 + ...",
+          "keywords": [
+            {
+              "term": "Capacitor",
+              "definition": "A device used to store electric charge and electrostatic energy."
+            },
+            {
+              "term": "Capacitance",
+              "definition": "The measure of a capacitor's ability to store charge per unit voltage, C = Q/V."
+            },
+            {
+              "term": "Dielectric",
+              "definition": "An insulating material placed between the plates of a capacitor, which increases its capacitance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Nuclear Physics",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "The nucleus",
+          "summary": "The nucleus of an atom contains protons (positively charged) and neutrons (uncharged), collectively called nucleons. The atomic number (Z) is the number of protons, and the mass number (A) is the total number of protons and neutrons. Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons. The nucleus is held together by the strong nuclear force, which is much stronger than the electrostatic repulsion between protons. The mass of the nucleus is less than the sum of its constituent nucleons; the missing mass (mass defect) is converted into binding energy (E = mc²) that holds the nucleus together.",
+          "notes": "The nucleus consists of protons (positive charge) and neutrons (neutral). They are bound by the Strong Nuclear Force, which is attractive at very short ranges (~10⁻¹⁵ m). Isotopes are atoms of the same element with same Z but different N (and thus different A). Nuclear binding energy is the energy required to separate a nucleus into its individual nucleons. The mass defect is the difference between the mass of the nucleus and the sum of the masses of its nucleons. The binding energy is calculated using Einstein's equation: E = (Δm)c².",
+          "keywords": [
+            {
+              "term": "Nucleus",
+              "definition": "The dense, positively charged center of an atom, containing protons and neutrons."
+            },
+            {
+              "term": "Proton",
+              "definition": "A positively charged subatomic particle found in the nucleus."
+            },
+            {
+              "term": "Neutron",
+              "definition": "An electrically neutral subatomic particle found in the nucleus."
+            },
+            {
+              "term": "Isotope",
+              "definition": "Atoms of the same element that have the same number of protons but a different number of neutrons."
+            },
+            {
+              "term": "Strong Nuclear Force",
+              "definition": "The very strong, short-range attractive force that holds protons and neutrons together in the nucleus."
+            },
+            {
+              "term": "Weak Nuclear Force",
+              "definition": "A force responsible for certain types of radioactive decay."
+            },
+            {
+              "term": "Mass Defect (Δm)",
+              "definition": "The difference between the mass of a nucleus and the sum of the masses of its individual protons and neutrons."
+            },
+            {
+              "term": "Nuclear Binding Energy",
+              "definition": "The energy equivalent to the mass defect, representing the energy that holds the nucleus together. E = Δm c²."
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Radioactivity",
+          "summary": "Radioactivity is the spontaneous decay of an unstable nucleus, emitting radiation (alpha, beta, or gamma) to become a more stable nucleus. Alpha particles (⁴₂He) have a large mass and charge, causing high ionization but low penetration. Beta particles (β⁻) are high-speed electrons or (β⁺) positrons, with moderate ionization and penetration. Gamma rays (γ) are high-energy electromagnetic radiation with low ionization but very high penetration. The decay rate (activity) is proportional to the number of radioactive nuclei: A = λN. The half-life (t₁/₂) is the time for half of the nuclei to decay; t₁/₂ = 0.693/λ.",
+          "notes": "Unstable nuclei undergo radioactive decay to reach a more stable state. Alpha (α): Helium-4 nucleus, high ionizing, low penetrating. Beta (β⁻): High-speed electron, moderate ionizing and penetrating. Beta (β⁺): Positron. Gamma (γ): High-energy photon, low ionizing, high penetrating. The activity (A) is the decay rate: A = λN. The decay constant (λ) is the probability of decay per unit time. The half-life (t₁/₂) is the time for half of the original nuclei to decay: t₁/₂ = ln(2)/λ. Radiation dose is measured in grays (Gy) and sieverts (Sv). Detection devices include Geiger-Muller counters and scintillators.",
+          "keywords": [
+            {
+              "term": "Radioactivity",
+              "definition": "The spontaneous emission of particles or electromagnetic radiation from the nucleus of an unstable atom."
+            },
+            {
+              "term": "Alpha (α) Particle",
+              "definition": "A helium-4 nucleus (⁴₂He) emitted during radioactive decay."
+            },
+            {
+              "term": "Beta (β) Particle",
+              "definition": "A high-speed electron (β⁻) or positron (β⁺) emitted during radioactive decay."
+            },
+            {
+              "term": "Gamma (γ) Ray",
+              "definition": "A high-energy electromagnetic wave emitted during radioactive decay."
+            },
+            {
+              "term": "Half-Life (t₁/₂)",
+              "definition": "The time required for half of the radioactive nuclei in a sample to decay."
+            },
+            {
+              "term": "Activity (A)",
+              "definition": "The number of decays per second in a radioactive sample, measured in becquerels (Bq)."
+            },
+            {
+              "term": "Decay Constant (λ)",
+              "definition": "The probability per unit time that a given nucleus will decay."
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Use of nuclear radiation",
+          "summary": "Nuclear radiation has many beneficial applications, particularly in medicine and archaeology. In medicine, it is used for imaging (tracers) and treatment (radiotherapy). Radioactive tracers are used to diagnose diseases, while radiation therapy (e.g., gamma rays from Cobalt-60) is used to treat cancer. Radioactive dating, especially carbon-14 dating, uses the known half-life of isotopes to determine the age of once-living materials (up to ~50,000 years). Other isotopes are used to date geological materials.",
+          "notes": "Nuclear radiation has numerous practical applications. Medical uses include: Radiotracers for diagnosis (e.g., Iodine-131 for thyroid), and Radiotherapy for cancer treatment (e.g., gamma rays from Cobalt-60). Radioactive Dating: Carbon-14 dating is used for organic materials up to ~50,000 years old. Other isotopes (like Uranium-238 and Potassium-40) are used for dating geological samples. Industrial uses include thickness gauging and smoke detectors.",
+          "keywords": [
+            {
+              "term": "Radiotherapy",
+              "definition": "The use of ionizing radiation to treat diseases, particularly cancer."
+            },
+            {
+              "term": "Radioactive Tracer",
+              "definition": "A radioactive isotope used to track the movement or location of a substance in a biological or chemical system."
+            },
+            {
+              "term": "Radioactive Dating",
+              "definition": "The use of the known half-life of a radioactive isotope to determine the age of an object."
+            },
+            {
+              "term": "Carbon-14 Dating",
+              "definition": "A method of dating organic material by measuring the remaining amount of Carbon-14, which has a half-life of 5730 years."
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Nuclear Reaction and Energy Production",
+          "summary": "Nuclear reactions involve changes in an atom's nucleus. Fission is the splitting of a heavy nucleus (like Uranium-235) into smaller nuclei, releasing energy and neutrons. This process can create a chain reaction, which is controlled in nuclear reactors to generate power or uncontrolled in nuclear weapons. Fusion is the combining of light nuclei (like hydrogen isotopes) into a heavier nucleus, releasing large amounts of energy; this is the process that powers the Sun. Both reactions release immense energy due to the conversion of mass into energy (E=mc²). Nuclear waste disposal and safety are critical concerns.",
+          "notes": "Nuclear Fission: The splitting of a heavy nucleus into smaller nuclei, releasing energy and neutrons. Used in nuclear reactors (controlled chain reaction) and atomic bombs (uncontrolled chain reaction). Nuclear Fusion: The combining of two light nuclei into a heavier nucleus, releasing tremendous energy. It powers the Sun and other stars. Nuclear Reactor Components: Fuel (Uranium), Moderator (slows neutrons), Control Rods (absorb neutrons to control reaction rate), Coolant (removes heat), Containment. Nuclear waste is a significant byproduct of fission reactors and requires careful, long-term management.",
+          "keywords": [
+            {
+              "term": "Nuclear Fission",
+              "definition": "The splitting of a heavy atomic nucleus into two or more lighter nuclei, releasing a large amount of energy."
+            },
+            {
+              "term": "Nuclear Fusion",
+              "definition": "The process in which two or more light atomic nuclei combine to form a single heavier nucleus, releasing a large amount of energy."
+            },
+            {
+              "term": "Chain Reaction",
+              "definition": "A self-sustaining reaction in which the products of one fission event (neutrons) trigger further fission events."
+            },
+            {
+              "term": "Nuclear Reactor",
+              "definition": "A device used to initiate and control a sustained nuclear fission chain reaction for the production of energy."
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Safety Rules Against Hazards of Nuclear Radiation",
+          "summary": "Exposure to nuclear radiation can be hazardous to health, causing damage to living cells (ionization). Safety is based on three principles: time (minimize exposure), distance (increase distance from source), and shielding (use materials like lead, concrete, or water to absorb radiation). Strict procedures govern the handling, storage, and disposal of radioactive materials. Regulations are in place to limit permissible exposure doses for workers and the public.",
+          "notes": "Radiation safety is critical to prevent health hazards. The main principles of protection are: Time: Minimize the time spent near a radiation source. Distance: Maximize the distance from the source (dose decreases with the square of the distance). Shielding: Use appropriate barriers (lead, concrete, water) to absorb radiation. Radioactive materials must be handled with forceps or tongs, kept at arm's length, and stored properly. Nuclear waste must be securely stored and disposed of according to strict regulations.",
+          "keywords": [
+            {
+              "term": "Radiation Safety",
+              "definition": "Practices and procedures designed to protect people from the harmful effects of ionizing radiation."
+            },
+            {
+              "term": "Shielding",
+              "definition": "The use of a barrier (like lead or concrete) to absorb or reduce the intensity of radiation."
+            },
+            {
+              "term": "Dose",
+              "definition": "The amount of radiation energy absorbed by a material or a biological system."
+            },
+            {
+              "term": "Nuclear Waste",
+              "definition": "Radioactive byproducts from nuclear reactors and other nuclear applications that require careful management and disposal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1262 @@
+{
+  "subject": "Information Technology",
+  "grade": "Grade 9",
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Organization of Files",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Basics of Files and Folders",
+          "summary": "This section introduces the fundamental concepts of files and folders. A file is defined as a collection of data stored as a single unit with a specific filename, represented by an icon. A folder (or directory) is a container used to organize related files and can also contain subfolders. The analogy of a physical filing cabinet is used to explain the importance of folders, which is to keep files organized for easy location and allow for files with the same name to exist in different folders. The section contrasts cluttered versus organized files.",
+          "notes": "A file is the basic unit of storage on a computer, holding data like a document, image, or program. It is identified by its filename and icon. A folder is a logical container that helps group files together. This is similar to a manila folder in an office. Subfolders are folders inside other folders. The key benefits of using folders are organization, easy retrieval of files, and the ability to have multiple files with the same name in different folders, preventing naming conflicts.",
+          "keywords": [
+            {
+              "keyword": "File",
+              "definition": "A collection of data stored in one unit, identified by a filename."
+            },
+            {
+              "keyword": "Folder",
+              "definition": "A container used to store related files together. Also called a directory."
+            },
+            {
+              "keyword": "Subfolder",
+              "definition": "A folder contained within another folder."
+            },
+            {
+              "keyword": "Icon",
+              "definition": "A small graphical representation of a file, folder, or program."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Managing Files and Folders",
+          "summary": "This section covers the practical skills of managing files and folders within a computer system, specifically using the Windows operating system and File Explorer. It details the File Explorer interface, including its parts, and explains how to perform key operations. These operations include creating new files and folders, copying, renaming, moving, and deleting them. The section also covers accessing files and folders via the address bar and navigation pane, displaying subfolders, and searching for files on the computer.",
+          "notes": "File Explorer (formerly Windows Explorer) is the primary tool in Windows for managing files and folders. Its interface includes the Navigation Pane, Ribbon, Address Bar, and Search Box. Creating a file is done via an application (e.g., Notepad, Word, Paint), while a folder is created using the 'New Folder' command. Files and folders can be copied, renamed (using right-click, F2, or the menu), moved (via cut/paste or drag-and-drop), and deleted (via the Delete key or right-click menu). Deleted files go to the Recycle Bin. The Address Bar shows the current file path and allows navigation, and the Navigation Pane displays the folder hierarchy. Subfolders can be expanded or collapsed. Searching for files can be done from the Start button or File Explorer. The section also includes practical exercises for hands-on learning.",
+          "keywords": [
+            {
+              "keyword": "File Explorer",
+              "definition": "An application in Windows used to manage files and folders. Formerly called Windows Explorer."
+            },
+            {
+              "keyword": "Navigation Pane",
+              "definition": "The left-hand pane in File Explorer that shows the folder structure and includes Quick Access, This PC, and Network."
+            },
+            {
+              "keyword": "Address Bar",
+              "definition": "The bar at the top of File Explorer that displays the full path of the current location."
+            },
+            {
+              "keyword": "Recycle Bin",
+              "definition": "A special folder that stores deleted files, allowing them to be restored before permanent deletion."
+            },
+            {
+              "keyword": "Ribbon",
+              "definition": "The area in File Explorer that contains commands for layout, formatting, and sharing tasks."
+            },
+            {
+              "keyword": "Quick Access",
+              "definition": "A section in the Navigation Pane that allows quick navigation to frequently used folders."
+            },
+            {
+              "keyword": "Search Box",
+              "definition": "A tool in File Explorer used to search for files, folders, and programs in the current folder."
+            },
+            {
+              "keyword": "Cut and Paste",
+              "definition": "A method of moving a file or folder from one location to another."
+            },
+            {
+              "keyword": "Copy and Paste",
+              "definition": "A method of duplicating a file or folder to another location."
+            },
+            {
+              "keyword": "Drag-and-Drop",
+              "definition": "A method of moving or copying a file by clicking and dragging it to a new location."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Computer Drives",
+          "summary": "This section defines a computer drive as a hardware component used for storing and retrieving data. It differentiates between different types of drives, such as hard disk drives (C: drive), CD/DVD drives (D: or G: drive), and USB flash drives. It clarifies the distinction between a drive and a driver. The section also describes how to access all drives on a computer using File Explorer and provides practical advice on safely removing a flash drive to prevent data damage.",
+          "notes": "A drive is physical hardware for storage. The hard disk drive (HDD) is the main fixed drive (C: in Windows). CD/DVD drives are optical drives used for media or data. USB flash drives are portable and removable. It is important to distinguish a 'drive' (hardware) from a 'driver' (software). All available drives can be viewed in File Explorer under 'This PC'. When removing a flash drive, it is crucial to use the 'Eject' or 'Disconnect' option to avoid damaging files.",
+          "keywords": [
+            {
+              "keyword": "Drive",
+              "definition": "A computer hardware component used to store and retrieve data, files, and programs."
+            },
+            {
+              "keyword": "Hard Disk Drive (HDD)",
+              "definition": "The main data and program storage device, usually designated as the 'C: drive'."
+            },
+            {
+              "keyword": "CD/DVD Drive",
+              "definition": "An optical disc drive used to read and write data on CDs and DVDs."
+            },
+            {
+              "keyword": "USB Drive",
+              "definition": "A small, portable storage device that plugs into a USB port. Also called a flash drive or memory stick."
+            },
+            {
+              "keyword": "Driver",
+              "definition": "Software code that enables hardware devices to communicate with the computer's operating system."
+            },
+            {
+              "keyword": "This PC",
+              "definition": "A section in File Explorer's Navigation Pane that displays all connected drives and folders on the computer."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Unit Summary",
+          "summary": "This section provides a recap of all the key concepts covered in Unit 1: Organization of Files. It highlights the definition of files and folders, their importance for organization, and the primary tool (File Explorer) for managing them. The summary reiterates the key functions of File Explorer, such as creating, deleting, renaming, sorting, and viewing files and folders. It also covers methods for navigating, moving files, and understanding different types of drives. This summary serves as a comprehensive checklist of the unit's learning objectives.",
+          "notes": "The summary reinforces that proper file management is crucial for any organization. Key takeaways include: a file is a collection of data, a folder is a container for organizing files, File Explorer is the main management tool in Windows, and various methods exist for navigation and file manipulation. The summary also highlights the difference between static (built-in) drives and removable drives.",
+          "keywords": [
+            {
+              "keyword": "File Management",
+              "definition": "The process of creating, organizing, storing, and manipulating files and folders on a computer."
+            },
+            {
+              "keyword": "Desktop",
+              "definition": "The main screen area of a computer, which can contain files and shortcuts."
+            },
+            {
+              "keyword": "Documents",
+              "definition": "A standard folder used to store user-created files, such as letters and memos."
+            },
+            {
+              "keyword": "Download",
+              "definition": "A standard folder where files downloaded from the Internet are stored by default."
+            },
+            {
+              "keyword": "Pictures",
+              "definition": "A standard folder used to store image files."
+            },
+            {
+              "keyword": "Static (Built-in) Drive",
+              "definition": "A drive that is permanently installed inside the computer, such as an internal hard disk or SSD."
+            },
+            {
+              "keyword": "Removable Drive",
+              "definition": "A portable drive that can be plugged in and removed from the computer, such as a USB flash drive."
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section contains a series of questions to assess the learner's understanding of file and folder organization. It includes True/False questions, multiple-choice questions, fill-in-the-blank, matching, and short answer questions. The exercises cover all topics from the unit, including file and folder definitions, operations (create, rename, delete, copy, move), File Explorer usage, and the concept of drives. It serves as a self-assessment or classroom assessment tool.",
+          "notes": "The review exercise is structured to test knowledge on key definitions, file management operations, and File Explorer components. Students are expected to differentiate between a file and a folder, describe steps for various operations, and understand the purpose of different parts of the File Explorer interface. This section is important for reinforcing the practical skills learned.",
+          "keywords": [
+            {
+              "keyword": "Review Exercise",
+              "definition": "A set of questions designed to test understanding of the material covered in a unit."
+            },
+            {
+              "keyword": "Shortcut Key",
+              "definition": "A keyboard combination (e.g., Ctrl+C, Ctrl+V) that performs a specific function quickly."
+            },
+            {
+              "keyword": "Part I: True or False",
+              "definition": "A question type where the learner must decide if a statement is correct."
+            },
+            {
+              "keyword": "Part II: Multiple Choice",
+              "definition": "A question type where the learner selects the best answer from a list of alternatives."
+            },
+            {
+              "keyword": "Part III: Fill in the Blanks",
+              "definition": "A question type where the learner completes a sentence with the correct missing word."
+            },
+            {
+              "keyword": "Part IV: Matching",
+              "definition": "A question type where the learner pairs items from two columns."
+            },
+            {
+              "keyword": "Part V: Short Answer",
+              "definition": "A question type that requires a brief, written response to a question."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Computer Network",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Definition of Network",
+          "summary": "This section defines a computer network as a connection of two or more computers linked together to share resources and communicate. Examples given include file sharing via Bluetooth or the Internet. The Internet is described as the largest global network. A simple diagram (home network) illustrates how various devices (laptops, tablets, phones, TVs) connect through a central device to the Internet via an ISP like Ethio-telecom.",
+          "notes": "The core concept is interconnection. A network enables resource sharing (printers, files, disks) and electronic communication (like email, chatting). It's not just about computers; it includes various devices. The Internet is the ultimate example of a Wide Area Network, connecting networks globally.",
+          "keywords": [
+            {
+              "keyword": "Computer Network",
+              "definition": "A connection of two or more computers linked together to share resources or allow electronic communications."
+            },
+            {
+              "keyword": "Internet",
+              "definition": "The largest global computer network."
+            },
+            {
+              "keyword": "Internet Service Provider (ISP)",
+              "definition": "A company that provides access to the Internet for customers, such as Ethio-telecom."
+            },
+            {
+              "keyword": "Resource Sharing",
+              "definition": "The ability to share hardware (printers, disks), software, and data across a network."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Fundamental Elements of Network",
+          "summary": "This section outlines the four essential components of any network: hardware, software, protocols, and transmission medium. Hardware is categorized into end devices (senders/receivers like computers) and intermediary devices (which connect them, like NICs, repeaters, switches, routers). Protocols are the set of rules governing communication. Connection media are the physical (wired) or non-physical (wireless) paths that carry the message.",
+          "notes": "The network backbone is the hardware. End devices are hosts that send or receive data. Intermediary devices include NICs (network cards), repeaters (boost signals), switches (intelligent LAN devices), routers (connect different networks), and Wireless Access Points (WAPs). Protocols are the rules of the network. The transmission medium is the path for data, which can be wired (copper, fiber optic) or wireless (radio, microwave).",
+          "keywords": [
+            {
+              "keyword": "End Devices (Hosts)",
+              "definition": "Devices used to send or receive data over the network, such as computers and smartphones."
+            },
+            {
+              "keyword": "Intermediary Devices",
+              "definition": "Devices that interconnect end devices and ensure data flow across the network, like switches and routers."
+            },
+            {
+              "keyword": "Protocol",
+              "definition": "A set of rules that governs data communications. For example, Internet Protocol (IP)."
+            },
+            {
+              "keyword": "Transmission Medium",
+              "definition": "The physical path (wired or wireless) over which data is carried from sender to receiver."
+            },
+            {
+              "keyword": "Network Interface Card (NIC)",
+              "definition": "A hardware component that connects a computer to a network."
+            },
+            {
+              "keyword": "Repeater",
+              "definition": "A device that receives a weak signal and regenerates it to extend the network's distance."
+            },
+            {
+              "keyword": "Switch",
+              "definition": "An intelligent device that connects devices in a LAN and forwards data to its specific destination."
+            },
+            {
+              "keyword": "Router",
+              "definition": "An intelligent device that connects different networks and determines the best path for data to travel."
+            },
+            {
+              "keyword": "Wired Medium",
+              "definition": "A guided transmission medium, such as copper or fiber optic cables."
+            },
+            {
+              "keyword": "Wireless Medium",
+              "definition": "An unguided transmission medium that uses radio waves, microwaves, or infrared to transmit data."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Types of Networks",
+          "summary": "This section provides a comprehensive classification of networks based on four criteria: connection medium (wired/wireless), size (PAN, LAN, MAN, WAN), topology (bus, mesh, star, ring), and resource security/access (peer-to-peer and client-server). It describes each type, highlighting their key features, advantages, and disadvantages. The comparison between peer-to-peer and client-server networks is detailed, focusing on resource management and security.",
+          "notes": "Networks are categorized to help understand their scope and design. Based on medium: Wired and wireless. Based on Size: PAN (personal, like Bluetooth), LAN (local building/campus), MAN (city-wide), WAN (global). Based on Topology (physical arrangement): Bus (single backbone), Mesh (fully connected), Star (central switch), Ring (each node to two neighbors). Based on Access: Peer-to-Peer (all nodes equal) and Client-Server (central server provides resources).",
+          "keywords": [
+            {
+              "keyword": "Wired Network",
+              "definition": "A network that uses Ethernet cables (copper or fiber) to connect devices."
+            },
+            {
+              "keyword": "Wireless Network",
+              "definition": "A network that uses radio waves or infrared to connect devices without cables."
+            },
+            {
+              "keyword": "Personal Area Network (PAN)",
+              "definition": "A very small network organized around an individual person, often using Bluetooth."
+            },
+            {
+              "keyword": "Local Area Network (LAN)",
+              "definition": "A network within a single office, building, or campus, sharing resources and information."
+            },
+            {
+              "keyword": "Metropolitan Area Network (MAN)",
+              "definition": "A network designed to cover an entire city, interconnecting multiple LANs."
+            },
+            {
+              "keyword": "Wide Area Network (WAN)",
+              "definition": "A network that covers a very large area, such as a country or the entire world. The Internet is a WAN."
+            },
+            {
+              "keyword": "Network Topology",
+              "definition": "The physical or logical arrangement of devices in a network."
+            },
+            {
+              "keyword": "Bus Topology",
+              "definition": "A network topology where all nodes are connected to a single backbone cable called a bus."
+            },
+            {
+              "keyword": "Mesh Topology",
+              "definition": "A network topology where every node is connected to every other node by a direct link."
+            },
+            {
+              "keyword": "Star Topology",
+              "definition": "A network topology where all nodes are connected to a central controller, like a switch."
+            },
+            {
+              "keyword": "Ring Topology",
+              "definition": "A network topology where each node is connected to its two adjacent neighbors, forming a ring."
+            },
+            {
+              "keyword": "Peer-to-Peer Network",
+              "definition": "A network where all computers are equal and no central server exists. Resources are shared among peers."
+            },
+            {
+              "keyword": "Client-Server Network",
+              "definition": "A network where multiple clients (workstations) connect to at least one central server that provides resources and services."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Advantages and Disadvantages of Network",
+          "summary": "This section weighs the benefits and drawbacks of networking. It highlights the major advantages, including sharing data and information, communication (instant messaging, video conferencing), sharing expensive hardware (printers, storage), sharing software (e-learning, games), and digital money transfers. Conversely, it discusses the disadvantages such as vulnerability to viruses and malware, increased security vulnerabilities, network complexity, high cost, and the negative social impacts on youth.",
+          "notes": "The benefits of networking are immense and central to modern business and society. However, these benefits come with significant risks. Being connected means being a potential target for attacks. This section emphasizes the trade-offs between connectivity and security.",
+          "keywords": [
+            {
+              "keyword": "Malware",
+              "definition": "Malicious software designed to harm or exploit computer systems, which spreads easily over networks."
+            },
+            {
+              "keyword": "Vulnerability",
+              "definition": "A weakness in a system that can be exploited by a security threat, introduced by network connections."
+            },
+            {
+              "keyword": "Cyberbullying",
+              "definition": "Harassment or humiliation of individuals using digital devices and platforms like social media."
+            },
+            {
+              "keyword": "Misinformation/Disinformation",
+              "definition": "False or inaccurate information spread intentionally or unintentionally over the Internet."
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Unit Summary",
+          "summary": "This section summarizes the key concepts of computer networks. It defines a network, lists its fundamental elements (end devices, intermediate devices, protocols, connection media), and explains the role of each. It also summarizes the different types of networks based on size (PAN, LAN, MAN, WAN), topology (bus, star, ring, mesh), and resource access (peer-to-peer, client-server). The summary concludes with the advantages (communication, sharing) and disadvantages (security concerns, cost) of networking.",
+          "notes": "The summary reinforces that networks are crucial for communication and resource sharing in modern society. The main components are: devices (senders/receivers), cables/wireless, and rules. Understanding network types helps in designing appropriate systems for different needs. The importance of security and the 90/10 rule is a key takeaway.",
+          "keywords": [
+            {
+              "keyword": "Interconnection",
+              "definition": "The physical or logical link between two or more devices on a network."
+            },
+            {
+              "keyword": "Network Equipment",
+              "definition": "Electronic devices required for interconnection, such as NICs, routers, and switches."
+            },
+            {
+              "keyword": "Telecommunication",
+              "definition": "Communication at a distance, made possible by networks."
+            },
+            {
+              "keyword": "Network Security",
+              "definition": "The protection of network infrastructure and data from unauthorized access and threats."
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section provides a comprehensive assessment for Unit 2. It includes True/False questions, multiple-choice questions, fill-in-the-blanks, matching exercises, and short answer questions. The questions cover all aspects of the unit, such as network definitions, components, types, topologies, advantages, and disadvantages. This exercise helps evaluate the learner's understanding of fundamental networking concepts.",
+          "notes": "The review exercise is designed to test knowledge on network definitions, components (switch, router, repeater), types (PAN, LAN, MAN, WAN), topologies (star, bus, ring, mesh), and peer-to-peer vs client-server models. Students should be able to define key terms and differentiate between various network types and devices.",
+          "keywords": [
+            {
+              "keyword": "Client",
+              "definition": "A computer that requests resources and services from a server in a client-server network."
+            },
+            {
+              "keyword": "Server",
+              "definition": "A computer that provides resources and services to clients in a client-server network."
+            },
+            {
+              "keyword": "Bluetooth",
+              "definition": "A short-range wireless technology used to create Personal Area Networks (PANs)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Application Software",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Using Application Software",
+          "summary": "This section introduces application software, contrasting it with system software. It defines application software as programs used by people to perform specific tasks. Examples include word processors, presentation software, and spreadsheets. It explains that applications can be a single program (like Notepad) or a suite of related programs (like Microsoft Office). The section sets the stage for using these tools effectively.",
+          "notes": "Application software is what users interact with directly for daily tasks. System software (like the operating system) runs in the background to manage hardware. Word processing, spreadsheets, and presentations are key examples of productivity applications. Application software can be packaged as a suite (e.g., Microsoft Office) for a common user interface.",
+          "keywords": [
+            {
+              "keyword": "Application Software",
+              "definition": "Software used by people to perform specific tasks, such as writing a letter or creating a presentation."
+            },
+            {
+              "keyword": "System Software",
+              "definition": "Software that manages and controls the computer hardware, such as the operating system."
+            },
+            {
+              "keyword": "Software Package",
+              "definition": "A collection of programs that work together to accomplish a task."
+            },
+            {
+              "keyword": "Software Suite",
+              "definition": "A larger collection of related but independent programs with a common user interface, like Microsoft Office Suite."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Word Processing",
+          "summary": "This section provides a detailed tutorial on using Word Processing software, specifically Microsoft Word. It covers starting the program, navigating its user interface, and performing essential formatting tasks. The main focus is on paragraph formatting, including indents, text alignment (left, center, right, justify), and creating bulleted, numbered, and multilevel lists. It also covers line and paragraph spacing, inserting and deleting page breaks, and adding headers, footers, and page numbers.",
+          "notes": "The section begins by defining word processing and listing its functions. It guides users through the Word interface (Title Bar, Ribbon, etc.). Paragraph formatting is explored in-depth: indentation (using Tab, ruler, commands), alignment (Left, Center, Right, Justify), and list creation. The use of lists (bulleted, numbered, multilevel) is demonstrated for organizing text. The section also explains how to insert and delete page breaks to control document layout and how to add elements like page numbers, headers, and footers to improve document structure.",
+          "keywords": [
+            {
+              "keyword": "Word Processing",
+              "definition": "The act of using a computer to create, edit, save, and print documents."
+            },
+            {
+              "keyword": "Word Processor",
+              "definition": "A specialized software application for word processing (e.g., Microsoft Word, LibreOffice Writer)."
+            },
+            {
+              "keyword": "Paragraph Formatting",
+              "definition": "Modifying the appearance of a paragraph, including indentation, alignment, and spacing."
+            },
+            {
+              "keyword": "Indentation",
+              "definition": "The distance a paragraph is moved away from the left or right margin."
+            },
+            {
+              "keyword": "Text Alignment",
+              "definition": "The horizontal positioning of text relative to the page margins (left, center, right, justify)."
+            },
+            {
+              "keyword": "Bulleted List",
+              "definition": "A list that uses symbols or bullets to organize items."
+            },
+            {
+              "keyword": "Numbered List",
+              "definition": "A list that uses numbers or letters to order items sequentially."
+            },
+            {
+              "keyword": "Multilevel List",
+              "definition": "A list that uses multiple levels of indentation and numbering to show hierarchy."
+            },
+            {
+              "keyword": "Page Break",
+              "definition": "The point in a document where one page ends and another begins. Can be automatic or manual."
+            },
+            {
+              "keyword": "Header",
+              "definition": "Text or graphics that appear at the top of every page in a document."
+            },
+            {
+              "keyword": "Footer",
+              "definition": "Text or graphics that appear at the bottom of every page in a document."
+            },
+            {
+              "keyword": "Page Number",
+              "definition": "Numbers placed on pages to identify their order, often in the header or footer."
+            },
+            {
+              "keyword": "Line Spacing",
+              "definition": "The amount of vertical space between lines of text."
+            },
+            {
+              "keyword": "Paragraph Spacing",
+              "definition": "The amount of vertical space before or after a paragraph."
+            },
+            {
+              "keyword": "Ribbon (Word)",
+              "definition": "The main command interface in Microsoft Word, containing tabs and groups of functions."
+            },
+            {
+              "keyword": "Insertion Point/Cursor",
+              "definition": "The blinking line in a document that indicates where the next typed text will appear."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Manipulating Data in Spreadsheet",
+          "summary": "This section focuses on using spreadsheet software (specifically Microsoft Excel) for data manipulation. It begins by defining the use of spreadsheets and comparing them to word processors. The core topics include using mathematical operators in formulas, understanding cell references, and differentiating between relative and absolute cell references. Practical examples are provided to illustrate how to write formulas, copy them using the fill handle, and apply absolute references for constants (like tax rates).",
+          "notes": "Spreadsheets are ideal for tabular data and calculations. The section covers the basics of Excel: cells, rows, columns, and the formula bar. All formulas begin with an '=' sign. Cell references (e.g., B2) are used to build dynamic formulas. The crucial distinction is made between Relative and Absolute cell references. Relative references (e.g., B2) change when a formula is copied to a new cell, while Absolute references (e.g., $B$9) stay constant, which is vital for using fixed values like tax rates.",
+          "keywords": [
+            {
+              "keyword": "Spreadsheet Software",
+              "definition": "An application used to organize, analyze, and calculate data in a tabular format (e.g., Microsoft Excel)."
+            },
+            {
+              "keyword": "Excel",
+              "definition": "A specific, popular spreadsheet software application."
+            },
+            {
+              "keyword": "Cell Reference",
+              "definition": "A unique identifier for a cell based on its column letter and row number (e.g., A1)."
+            },
+            {
+              "keyword": "Formula",
+              "definition": "An equation in Excel that begins with an equals sign (=) and performs a calculation."
+            },
+            {
+              "keyword": "Relative Cell Reference",
+              "definition": "A cell reference that automatically adjusts when copied to another cell."
+            },
+            {
+              "keyword": "Absolute Cell Reference",
+              "definition": "A cell reference that remains constant when copied to another cell, indicated by dollar signs ($)."
+            },
+            {
+              "keyword": "Fill Handle",
+              "definition": "The small square at the bottom-right corner of a selected cell, used for copying data or formulas."
+            },
+            {
+              "keyword": "Mathematical Operators",
+              "definition": "Symbols used in formulas for calculations, such as + (addition), - (subtraction), * (multiplication), and / (division)."
+            },
+            {
+              "keyword": "Worksheet",
+              "definition": "The file created in Microsoft Excel, a grid of rows and columns used for data management."
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Creating Presentation",
+          "summary": "This section is a tutorial on creating presentations using software like Microsoft PowerPoint. It covers opening the program, adding and formatting slides, applying themes and backgrounds, formatting bulleted lists, and inserting various content types. The content includes adding text, tables, charts, SmartArt graphics, pictures, online pictures, and videos. The section also explains different presentation views (Normal, Slide Sorter, Notes Page, Reading View) and how to change the order of slides.",
+          "notes": "The section starts by defining presentation software. It then guides users through the PowerPoint environment, focusing on adding new slides and selecting layouts. Applying themes and changing slide backgrounds to enhance visual appeal is covered. Formatting bulleted lists and adding content (tables, charts, images, media) are key practical skills. Finally, the section explains how to view the presentation in different modes and reorder slides for a logical flow.",
+          "keywords": [
+            {
+              "keyword": "Presentation Software",
+              "definition": "An application used to create and display slide-based presentations (e.g., Microsoft PowerPoint, Google Slides)."
+            },
+            {
+              "keyword": "Microsoft PowerPoint",
+              "definition": "A widely used presentation software application."
+            },
+            {
+              "keyword": "Slide",
+              "definition": "An individual page within a presentation that contains content."
+            },
+            {
+              "keyword": "Slide Layout",
+              "definition": "The arrangement of content placeholders (titles, graphics, text) on a slide."
+            },
+            {
+              "keyword": "Theme",
+              "definition": "A pre-designed set of colors, fonts, and effects applied to a presentation for a professional look."
+            },
+            {
+              "keyword": "SmartArt",
+              "definition": "Pre-designed graphics in PowerPoint used to visually represent information, relationships, or processes."
+            },
+            {
+              "keyword": "Normal View",
+              "definition": "The main editing view in PowerPoint where slides are created and formatted."
+            },
+            {
+              "keyword": "Slide Sorter View",
+              "definition": "A view showing thumbnails of all slides, used to reorder, hide, or organize them."
+            },
+            {
+              "keyword": "Notes Page View",
+              "definition": "A view that allows the speaker to add notes to accompany each slide."
+            },
+            {
+              "keyword": "Slide Show View",
+              "definition": "A full-screen view that displays the presentation as it will appear to the audience."
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Unit Summary",
+          "summary": "This section provides a recap of Unit 3, summarizing the key features and functions of application software, focusing on word processing, spreadsheets, and presentation software. It highlights that application software is used directly by the user for tasks like creating documents (Word), managing tabular data and calculations (Excel), and creating visual presentations (PowerPoint). The summary reinforces the importance of formatting in documents, the use of formulas and cell references in spreadsheets, and the various views and content options in presentations.",
+          "notes": "The summary ties together the three main application types covered. It emphasizes that word processing is for text documents, spreadsheets for calculation and data, and presentations for visual communication. Key functionalities are reiterate, such as paragraph formatting (indents, alignment, lists), spreadsheet formulas (relative vs. absolute references), and slide management (layouts, themes, views).",
+          "keywords": [
+            {
+              "keyword": "Document (Word)",
+              "definition": "A file created using a word processor, such as Microsoft Word."
+            },
+            {
+              "keyword": "Desktop Publishing",
+              "definition": "The creation of documents using page layout software (not covered in detail, but mentioned as another application type)."
+            },
+            {
+              "keyword": "Database Management Software",
+              "definition": "Software used to store, organize, and manage large amounts of data (mentioned as another application type)."
+            }
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section contains a comprehensive review exercise for Unit 3. It includes True/False questions, multiple-choice questions, fill-in-the-blanks, matching, and short answer questions to assess understanding of Word Processing, Spreadsheets, and Presentation software. It also includes a project to create a payroll using Excel. The questions test practical skills like applying formatting, using keyboard shortcuts, working with formulas, and understanding presentation interfaces.",
+          "notes": "The review exercise covers all three types of application software. For Word, it tests on formatting, page breaks, and headers/footers. For Excel, it focuses on formulas, operators, and cell references (absolute vs. relative). For PowerPoint, it tests on views, slide layouts, and content insertion. The project work encourages practical application of Excel skills to a real-world scenario.",
+          "keywords": [
+            {
+              "keyword": "Project Work",
+              "definition": "A larger, practical assignment that requires applying learned skills to a real-world problem."
+            },
+            {
+              "keyword": "MS Office Tools",
+              "definition": "A suite of applications including Word, Excel, and PowerPoint, all covered in this unit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Image Processing and Multimedia",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Image",
+          "summary": "This section defines an image as a visual representation of something, and a digital image as one that is stored in a computer using binary digits (bits). The smallest element of a digital image is a pixel. Digital image processing is introduced as a technique for analyzing, enhancing, and manipulating digital images using specialized software like Adobe Photoshop, GIMP, or MS Paint.",
+          "notes": "An image is a visual representation. When stored digitally, it is composed of pixels (picture elements). Image processing involves using computers to improve the quality or extract information from these digital images.",
+          "keywords": [
+            {
+              "keyword": "Image",
+              "definition": "A visual representation of a person, animal, or thing in the form of a photograph, painting, or digital data."
+            },
+            {
+              "keyword": "Digital Image",
+              "definition": "An image or picture that is represented digitally using bits and pixels."
+            },
+            {
+              "keyword": "Pixel",
+              "definition": "The smallest element of a digital image, representing a single point of color."
+            },
+            {
+              "keyword": "Digital Image Processing",
+              "definition": "A computational technique for analyzing, enhancing, and manipulating digital images."
+            },
+            {
+              "keyword": "Binary Digits (Bits)",
+              "definition": "The fundamental building blocks of digital data, represented by 0s and 1s."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Multimedia Production Planning Strategies",
+          "summary": "This section introduces multimedia and the importance of planning before production. It defines multimedia as a combination of text, graphics, audio, and video. The key planning strategy discussed is the storyboard, which is a graphic layout that sequences illustrations and images to tell a story visually. Storyboarding helps in planning the flow and navigation of a multimedia project.",
+          "notes": "Multimedia is about combining different content forms. Creating an effective multimedia product requires a plan. A storyboard is a crucial tool for this planning phase. It provides a visual sequence of the project's flow, helping to organize ideas and demonstrate the arrangement of elements.",
+          "keywords": [
+            {
+              "keyword": "Multimedia",
+              "definition": "The combination of different content forms such as text, audio, images, animation, or video into a single interactive presentation."
+            },
+            {
+              "keyword": "Storyboard",
+              "definition": "A graphic layout that sequences illustrations and images with the purpose of telling a story visually, used for planning multimedia productions."
+            },
+            {
+              "keyword": "Storyboarding",
+              "definition": "The process of creating a sequence of screens to provide an overview of a multimedia project."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Using Image Processing Software",
+          "summary": "This section is a hands-on guide to using image processing software, specifically Adobe Photoshop. It covers launching the application, understanding its main interface (menu bar, toolbar, document window, layers panel), and using the toolbox. The key image editing techniques covered in depth are cropping, resizing, correcting tone and color (including red-eye removal, flash adjustment, levels, curves, and saturation), and image sharpening (using Unsharp Mask, Smart Sharpen, and High Pass filters).",
+          "notes": "This is the practical core of the unit. The section details how to use Photoshop to perform common image editing tasks. Cropping removes unwanted parts. Resizing changes the image's dimensions. Color correction involves fixing issues like red-eye, underexposure, and dull colors using tools like Levels, Curves, and Saturation. Sharpening enhances image clarity using filters like Unsharp Mask. The section emphasizes a practical, step-by-step approach.",
+          "keywords": [
+            {
+              "keyword": "Adobe Photoshop",
+              "definition": "A popular and powerful image processing software package."
+            },
+            {
+              "keyword": "Toolbox/Toolbar",
+              "definition": "The panel in Photoshop that contains all the tools for editing images (e.g., Move, Lasso, Crop, Brush)."
+            },
+            {
+              "keyword": "Layers",
+              "definition": "Different levels of an image that can be edited independently, allowing for non-destructive editing."
+            },
+            {
+              "keyword": "Canvas",
+              "definition": "The workspace in Photoshop where the image is displayed and edited."
+            },
+            {
+              "keyword": "Cropping",
+              "definition": "The process of removing unwanted portions of an image to improve composition or focus on a specific area."
+            },
+            {
+              "keyword": "Resizing/Scaling",
+              "definition": "Changing the dimensions of an image."
+            },
+            {
+              "keyword": "Red-eye Removal",
+              "definition": "A technique to correct the red appearance in eyes caused by a camera flash."
+            },
+            {
+              "keyword": "Hot Spots",
+              "definition": "Overexposed, shiny areas in an image caused by a camera flash."
+            },
+            {
+              "keyword": "Levels",
+              "definition": "A color correction tool that adjusts shadows, midtones, and highlights using a histogram."
+            },
+            {
+              "keyword": "Curves",
+              "definition": "A more powerful color correction tool that allows for precise control over shadows, midtones, and highlights."
+            },
+            {
+              "keyword": "Saturation",
+              "definition": "The intensity or purity of a color."
+            },
+            {
+              "keyword": "Image Sharpening",
+              "definition": "The process of enhancing the edges of objects in an image to make it look crisper and clearer."
+            },
+            {
+              "keyword": "Unsharp Mask",
+              "definition": "A common filter used in Photoshop to sharpen an image by increasing contrast along the edges."
+            },
+            {
+              "keyword": "Smart Sharpen",
+              "definition": "A more advanced sharpening filter that provides greater control and includes a noise reduction feature."
+            },
+            {
+              "keyword": "High Pass",
+              "definition": "A sharpening technique in Photoshop that separates edge details from the rest of the image for controlled sharpening."
+            },
+            {
+              "keyword": "Clone Stamp Tool",
+              "definition": "A retouching tool used to sample and paint pixels from one area of an image to another."
+            },
+            {
+              "keyword": "Healing Brush",
+              "definition": "A tool that fixes blemishes and imperfections by blending the sampled pixels with the surrounding area."
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Unit Summary",
+          "summary": "This section summarizes the key concepts of image processing and multimedia. It defines multimedia, the role of images as a component, and the concept of digital images and pixels. It reiterates the importance of planning multimedia with storyboards. The summary focuses on Adobe Photoshop as a tool for digital image processing, highlighting basic operations like cropping, resizing, color correction (red-eye, levels, curves, saturation), and sharpening (Unsharp Mask, Smart Sharpen, High Pass).",
+          "notes": "The summary reinforces that image processing is used to correct imperfections and enhance photos. The key operations covered are cropping (cutting out parts), resizing (changing dimensions), color correction (fixing lighting and color balance), and sharpening (making clear). Photoshop is presented as the primary tool for this.",
+          "keywords": [
+            {
+              "keyword": "Multi",
+              "definition": "A prefix meaning 'many' or 'multiple'."
+            },
+            {
+              "keyword": "Media",
+              "definition": "The means of communication or representation (e.g., text, audio, video)."
+            },
+            {
+              "keyword": "Histogram",
+              "definition": "A graph that shows the distribution of tones (shadows, midtones, highlights) in an image, used in Levels adjustment."
+            },
+            {
+              "keyword": "Clipping",
+              "definition": "The loss of detail in highlights or shadows when adjusting levels, often indicated by moving sliders past the edge of the histogram."
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section contains an assessment for Unit 4. It includes True/False, multiple-choice, fill-in-the-blanks, and short-answer questions. The questions test knowledge of digital images, pixels, image processing software (Photoshop), and specific techniques such as cropping, color correction (Levels, Curves, Saturation), and sharpening (Unsharp Mask). It also includes a project to create a promotional card using Photoshop.",
+          "notes": "The review exercise covers the theoretical and practical aspects of image processing. Questions test on definitions, Photoshop interface elements, and specific editing functions. The project work at the end requires applying Photoshop skills to create a promotional card, integrating image and text.",
+          "keywords": [
+            {
+              "keyword": "PPI (Pixels Per Inch)",
+              "definition": "A measure of image resolution, indicating the number of pixels per inch."
+            },
+            {
+              "keyword": "Lasso Tool",
+              "definition": "A selection tool in Photoshop that allows freehand drawing to select parts of an image."
+            },
+            {
+              "keyword": "Marquee Tool",
+              "definition": "A selection tool in Photoshop that allows selecting a rectangular or elliptical area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Information and Computer Security",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Definition of Security",
+          "summary": "This section defines computer and information security. It highlights the importance of the 90/10 rule (90% of security relies on individual practices, 10% on technology). The section discusses different types of security: Information Security (protecting data), Application Security (securing software), Mobile/Computer Security (securing devices), Network Security (protecting network infrastructure), and Cyber Security (protecting networked systems). The role of the Information Network Security Agency (INSA) in Ethiopia is mentioned.",
+          "notes": "The core concept is that security is a state of being protected from harm. In the context of computers, it's about protecting systems and information from unauthorized access, use, theft, and damage. The '90/10 rule' emphasizes that user behavior is the most critical factor in security. The various types of security show the breadth of the field, from protecting data to the entire network. The 90/10 rule is crucial for understanding that individual responsibility is paramount in computer security.",
+          "keywords": [
+            {
+              "keyword": "Computer Security",
+              "definition": "The protection of computer systems and information from harm, theft, and unauthorized use."
+            },
+            {
+              "keyword": "Information Security",
+              "definition": "Securing information from unauthorized access, modification, and deletion."
+            },
+            {
+              "keyword": "Application Security",
+              "definition": "Securing an application by building security features to prevent cyber threats."
+            },
+            {
+              "keyword": "Network Security",
+              "definition": "Securing both the software and hardware technologies of a network."
+            },
+            {
+              "keyword": "Cyber Security",
+              "definition": "Protecting computer systems that communicate over computer networks."
+            },
+            {
+              "keyword": "90/10 Rule",
+              "definition": "A security principle stating that 90% of security depends on an individual's adherence to good practices, while only 10% is technical."
+            },
+            {
+              "keyword": "Ethiopian Information Network Security Agency (INSA)",
+              "definition": "A national security agency in Ethiopia with a mission on cyber security."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Principles of Computer Security",
+          "summary": "This section introduces the CIA triad, which consists of the three core principles of computer security: Confidentiality, Integrity, and Availability. Confidentiality ensures information is accessible only to authorized individuals. Integrity ensures that data is trustworthy and has not been altered incorrectly. Availability ensures that information is accessible to authorized users whenever needed. The section explains these principles as foundational goals for any security program.",
+          "notes": "The CIA triad is a fundamental model for designing and evaluating security policies. It balances the need for secrecy (confidentiality), trustworthiness (integrity), and usability (availability). Organizations prioritize these based on their mission (e.g., military values confidentiality, schools value availability). This model is a cornerstone of information security strategy.",
+          "keywords": [
+            {
+              "keyword": "CIA Triad",
+              "definition": "A model for information security consisting of Confidentiality, Integrity, and Availability."
+            },
+            {
+              "keyword": "Confidentiality",
+              "definition": "Ensuring that information is available only to the intended, authorized audience."
+            },
+            {
+              "keyword": "Integrity",
+              "definition": "Maintaining data in a correct state, ensuring it is trustworthy, authentic, and not wrongly changed."
+            },
+            {
+              "keyword": "Availability",
+              "definition": "Ensuring that information is accessible to authorized users whenever they require it."
+            },
+            {
+              "keyword": "Privacy",
+              "definition": "A concept related to confidentiality, focusing on protecting personal data."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Computer Security Threats",
+          "summary": "This section details various computer security threats. It categorizes them by source (internal/external), cause (natural/manmade), and intent (malicious/accidental). Natural threats include fire, extreme temperatures, and lightning strikes. Artificial (manmade) threats are extensive and are predominantly cyber-attacks, including Denial of Service (DoS), Malware attacks (Trojan, Virus, Worm, Keylogger, Adware, Botnet, Spyware, Ransomware), Phishing, Eavesdropping, SQL Injection, Password Attacks, and Social Engineering. The section also identifies the actors behind these attacks (criminals, hackers, insiders, etc.).",
+          "notes": "Understanding the threat landscape is crucial for defense. Threats can be physical (natural disasters) or virtual (malware, hacking). Malware is a major manmade threat, with various types like viruses, worms, and ransomware. Cyber-attacks like Phishing, DoS, and Man-in-the-Middle exploit vulnerabilities to steal data or disrupt services. This section emphasizes that threats are diverse and ever-evolving.",
+          "keywords": [
+            {
+              "keyword": "Natural Threats",
+              "definition": "Security threats caused by natural events like fires, floods, lightning strikes, and extreme temperatures."
+            },
+            {
+              "keyword": "Artificial (Manmade) Threats",
+              "definition": "Security threats caused by human action, such as hacking, malware, and social engineering."
+            },
+            {
+              "keyword": "Malware",
+              "definition": "Malicious software designed to damage or exploit a computer system."
+            },
+            {
+              "keyword": "Virus",
+              "definition": "A malicious code that replicates itself to infect and change the functioning of a computer program."
+            },
+            {
+              "keyword": "Worm",
+              "definition": "An independent malware program that infects systems through network devices."
+            },
+            {
+              "keyword": "Trojan Horse",
+              "definition": "A type of malware that appears to be a legitimate program but performs malicious activities."
+            },
+            {
+              "keyword": "Ransomware",
+              "definition": "A type of malware that locks files on a system and demands payment for their release."
+            },
+            {
+              "keyword": "Spyware",
+              "definition": "A secret program that tracks user activity and steals information."
+            },
+            {
+              "keyword": "Keylogger",
+              "definition": "A type of malware that records keyboard input to steal passwords and other sensitive data."
+            },
+            {
+              "keyword": "Phishing",
+              "definition": "A cyber-attack using fraudulent communications, often emails, to steal sensitive data by pretending to be a reputable source."
+            },
+            {
+              "keyword": "Denial of Service (DoS)",
+              "definition": "An attack that floods a target with requests, making a network service unavailable to legitimate users."
+            },
+            {
+              "keyword": "Eavesdropping",
+              "definition": "Intercepting, deleting, or modifying data transmitted between two devices."
+            },
+            {
+              "keyword": "Man-in-the-Middle",
+              "definition": "A type of attack that intercepts communication between two parties to steal data."
+            },
+            {
+              "keyword": "SQL Injection",
+              "definition": "An attack that injects unauthorized input into an SQL statement to access a database."
+            },
+            {
+              "keyword": "Password Attack",
+              "definition": "An attempt to acquire a password through methods like dictionary attacks, brute force, or keylogging."
+            },
+            {
+              "keyword": "Social Engineering",
+              "definition": "A psychological attack that creates a social situation to trick a user into revealing information."
+            },
+            {
+              "keyword": "Cyber Bullying",
+              "definition": "Bullying that takes place over digital devices like cell phones, computers, and tablets, often on social media."
+            },
+            {
+              "keyword": "Cyber Predators",
+              "definition": "People who use the Internet to exploit others, often younger people, for sexual or other purposes."
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Potential Losses Due to Security Attacks",
+          "summary": "This section outlines the potential negative impacts of security attacks. These include destruction or loss of information, corruption of information, theft of services, illegal usage, disclosure of information, denial of use (like DoS), and elevation of privilege. Each impact is defined with examples, showing the varied consequences that can affect individuals, organizations, and society.",
+          "notes": "Security attacks have real-world consequences. They can cause physical damage, financial loss, legal issues, and psychological harm. The impacts range from the loss of data (e.g., hard disk failure) to malicious acts like altering marks (corruption) or stealing services. Elevation of privilege highlights the danger of unauthorized access to sensitive accounts. This section emphasizes the 'why' behind the need for security.",
+          "keywords": [
+            {
+              "keyword": "Destruction of Information",
+              "definition": "The loss of data or system components due to a security incident."
+            },
+            {
+              "keyword": "Corruption of Information",
+              "definition": "Unauthorized alteration of files or data, such as changing student marks."
+            },
+            {
+              "keyword": "Theft of Services",
+              "definition": "The unauthorized use of computer or network services for unintended purposes."
+            },
+            {
+              "keyword": "Illegal Usage",
+              "definition": "Using the normal function of a system to achieve an attacker's objective, such as promoting conflict."
+            },
+            {
+              "keyword": "Disclosure of Information",
+              "definition": "Disseminating information to anyone not authorized to see it."
+            },
+            {
+              "keyword": "Denial of Use",
+              "definition": "The intentional degradation or blocking of computer or network resources, making them inaccessible."
+            },
+            {
+              "keyword": "Elevation of Privilege",
+              "definition": "An attack that uses system weaknesses to gain higher access rights than are normally available to the user."
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "How to Secure yourself and your Computer Systems",
+          "summary": "This section provides practical advice on how to protect oneself and computer systems. It emphasizes the 90/10 rule, focusing on individual awareness and good practices. A list of guidelines is provided for students regarding safe Internet use (not sharing personal info, being wary of predators, understanding that not all information is valid). Specific preventive steps are listed, such as installing reliable antivirus, using firewalls, performing updates, avoiding suspicious email attachments, and creating strong, unique passwords.",
+          "notes": "The key message is that security is a shared responsibility, with the individual playing the biggest role. Building awareness of safe online behavior is the first line of defense. Practical steps include using security software, being cautious online (not clicking pop-ups, ignoring suspicious emails), using strong passwords, and backing up data. This section translates theoretical knowledge into actionable steps for safer computing.",
+          "keywords": [
+            {
+              "keyword": "Antivirus Software",
+              "definition": "Software designed to detect, prevent, and remove malicious software (malware)."
+            },
+            {
+              "keyword": "Firewall",
+              "definition": "A security system (hardware or software) that acts as a barrier between a trusted network and an untrusted network (like the Internet)."
+            },
+            {
+              "keyword": "Software Updates",
+              "definition": "Patches and new versions of software that fix security vulnerabilities and bugs."
+            },
+            {
+              "keyword": "Strong Password",
+              "definition": "A password that is difficult to guess, typically combining uppercase and lowercase letters, numbers, and special characters."
+            },
+            {
+              "keyword": "Data Backup",
+              "definition": "The process of creating a copy of data to a separate location to enable recovery in case of data loss."
+            },
+            {
+              "keyword": "Acceptable Use Policy",
+              "definition": "A set of rules and guidelines for appropriate Internet and computer usage within an organization like a school."
+            },
+            {
+              "keyword": "Digital Footprint",
+              "definition": "The trail of data created by a person's online activities, which can be tracked and potentially misused."
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Unit Summary",
+          "summary": "This section summarizes the key points of Unit 5. It reiterates the definition of computer security, the CIA triad (Confidentiality, Integrity, Availability), and the 90/10 rule. It reviews the different types of threats (natural vs. artificial), the major categories of cyber-attacks (malware, phishing, DoS, etc.), and the potential losses they can cause. The summary emphasizes that the best defense is a combination of awareness (the 90% rule) and technical measures.",
+          "notes": "The summary reinforces that being connected brings security risks. The core principles (CIA), threats (malware, hackers), and defenses (good practices, antivirus) are all interconnected. The key takeaway is that individual responsibility is paramount in staying secure online.",
+          "keywords": [
+            {
+              "keyword": "Safe Internet Use Practices",
+              "definition": "A set of behavioral guidelines for using the Internet safely, such as not sharing personal information and being cautious of unknown links."
+            }
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section provides a comprehensive assessment for Unit 5. It includes True/False, multiple-choice, and short-answer questions. The questions test understanding of all unit topics: definitions of security, the CIA triad, types of threats (natural and artificial, including specific cyber-attacks like phishing, malware, DoS), and good security practices. The exercises are designed to evaluate the learner's knowledge of both the theoretical concepts and practical safety measures.",
+          "notes": "The review exercise covers a wide range of security concepts. Questions test on definitions, specific attack types (DoS, Malware, Phishing, Keylogger), actors behind attacks, and appropriate responses (e.g., telling an adult, not sharing passwords). The exercise aims to ensure students can identify threats and know the principles for protecting themselves.",
+          "keywords": [
+            {
+              "keyword": "Digital Footprint",
+              "definition": "The trail of data created by a person's online activities, which can be tracked and potentially misused."
+            },
+            {
+              "keyword": "Spam",
+              "definition": "Unsolicited commercial email, which is often a vehicle for phishing or malware."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Fundamentals of Programming",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Defining a Problem and Computational Problem",
+          "summary": "This section differentiates between general problems and computational problems. A computational problem is one that can be solved systematically (step-by-step) using a computer. It explains four types of computational problems: decision problems (yes/no answer), search problems (finding a value), counting problems (number of solutions), and optimization problems (finding the best solution). The section uses examples like determining if a number is even (decision) or finding the fastest route (optimization).",
+          "notes": "Not all problems are computational. Real-world issues like social conflicts are not directly solvable by a computer. Computational problems have a well-defined structure that can be processed by a computer algorithm. This section sets the foundation by classifying problems that are relevant to programming.",
+          "keywords": [
+            {
+              "keyword": "Computational Problem",
+              "definition": "A problem that can be solved systematically (step-by-step) with a computer, having well-defined inputs, constraints, and conditions for the output."
+            },
+            {
+              "keyword": "Decision Problem",
+              "definition": "A type of computational problem where the answer is either Yes or No."
+            },
+            {
+              "keyword": "Search Problem",
+              "definition": "A computational problem where the solution consists of one or more values that satisfy a given condition."
+            },
+            {
+              "keyword": "Counting Problem",
+              "definition": "A computational problem where the answer is a number of solutions to a search problem."
+            },
+            {
+              "keyword": "Optimization Problem",
+              "definition": "A computational problem where the solution is the 'best' possible solution among several."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Steps in Problem Solving",
+          "summary": "This section introduces the structured process of solving problems, specifically focusing on computational thinking. It presents George Polya's classic four-step method: 1) Understand the problem, 2) Make a plan, 3) Execute the plan, 4) Review and extend. It then adapts this method for computing: 1) Understand the problem, 2) Develop an algorithm, 3) Write the program, 4) Test the program. An algorithm is defined as a precise sequence of instructions, and a program is that algorithm written in a programming language. The section also briefly introduces the computer information-processing model (Input-Process-Output).",
+          "notes": "Problem-solving is a key skill. Polya's method provides a general, structured approach. For computing, the 'plan' becomes an 'algorithm', and 'execution' becomes writing a 'program'. The concept of an algorithm is central. The steps show that programming is not just writing code but a process that begins with understanding the problem and ends with testing.",
+          "keywords": [
+            {
+              "keyword": "Algorithm",
+              "definition": "A precise sequence of instructions for solving a problem, represented in a human-understandable format."
+            },
+            {
+              "keyword": "Computer Program",
+              "definition": "A sequence of instructions written using a programming language that can be executed by a computer to solve a problem."
+            },
+            {
+              "keyword": "Computational Thinking",
+              "definition": "The thought process that involves formulating a problem and expressing its solution(s) in such a way that a computer, human, or machine can effectively carry it out."
+            },
+            {
+              "keyword": "Input-Process-Output (IPO) Model",
+              "definition": "A simplified computer information-processing model where a system takes input, processes it, and produces output."
+            },
+            {
+              "keyword": "Polya's Problem Solving Method",
+              "definition": "A four-step method for solving problems: Understand the problem, Make a plan, Execute the plan, Review and extend."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Working with Pseudocode, Flowcharts and Block Programming",
+          "summary": "This section introduces methods for representing algorithms: flowcharts and pseudocode. Flowcharts are graphical representations using standard symbols (Start/End, Process, Decision, Input/Output) to show the flow of an algorithm. Pseudocode is a text-based, English-like description. The section explains the need for these representations as a bridge between the problem and the final program. It also introduces three types of program flow (sequence, selection/decision, repetition). The section includes practical exercises using Flowgorithm (a flowchart-based programming tool) and Scratch (a block-based programming environment) to implement algorithms for selection (if/else) and repetition (loops).",
+          "notes": "Algorithms need to be clearly represented before being programmed. Flowcharts provide a visual way to design algorithms, showing the steps, decisions, and flow of control. Pseudocode is a textual alternative. Both are standard tools in software development. Understanding sequence (step-by-step), selection (if/else), and repetition (loops) is crucial. The practical sections with Flowgorithm and Scratch allow students to experience these concepts and see how algorithm logic translates into a working program.",
+          "keywords": [
+            {
+              "keyword": "Flowchart",
+              "definition": "A graphical representation of an algorithm using boxes, ellipses, and arrows as connectors."
+            },
+            {
+              "keyword": "Pseudocode",
+              "definition": "A simple and concise sequence of English-like instructions to represent a solution to a problem."
+            },
+            {
+              "keyword": "Terminator (Flowchart)",
+              "definition": "A flowchart symbol representing the start or end of an algorithm."
+            },
+            {
+              "keyword": "Process (Flowchart)",
+              "definition": "A flowchart symbol representing a single step or calculation within the algorithm."
+            },
+            {
+              "keyword": "Decision (Flowchart)",
+              "definition": "A flowchart symbol representing a point where a choice or branching occurs based on a condition."
+            },
+            {
+              "keyword": "Input/Output (Flowchart)",
+              "definition": "A flowchart symbol representing information entering or leaving the system."
+            },
+            {
+              "keyword": "Sequence",
+              "definition": "A type of program flow where instructions are executed in the order they appear, from top to bottom."
+            },
+            {
+              "keyword": "Selection (Condition)",
+              "definition": "A type of program flow where the execution of instructions depends on the outcome of a decision."
+            },
+            {
+              "keyword": "Repetition (Loop)",
+              "definition": "A type of program flow where a set of instructions is executed repeatedly until a condition is met."
+            },
+            {
+              "keyword": "Flowgorithm",
+              "definition": "A free, beginner-friendly flowchart-based programming environment."
+            },
+            {
+              "keyword": "Scratch",
+              "definition": "A high-level, block-based visual programming language designed as an educational tool."
+            },
+            {
+              "keyword": "Variable",
+              "definition": "A named storage location in a program that can hold a value that can be changed."
+            },
+            {
+              "keyword": "If (If-Else) Structure",
+              "definition": "A programming construct used to implement selection, executing different code blocks based on a condition."
+            },
+            {
+              "keyword": "While Loop",
+              "definition": "A programming construct used for repetition, executing a block of code repeatedly as long as a condition is true."
+            },
+            {
+              "keyword": "Modulo Operator (%)",
+              "definition": "An operator that gives the remainder of an integer division."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Problem Solving Approaches",
+          "summary": "This section compares and contrasts two strategies for solving complex problems: the Top-Down approach and the Bottom-Up approach. Top-down starts by looking at the overall problem and breaking it down into smaller, more manageable sub-problems (modularization). These modules are solved individually and then integrated. Bottom-up starts by developing smaller, fundamental units and modules first, and then integrating them to build up a larger, more complex solution. The section explains that both approaches are based on incremental development and unit testing.",
+          "notes": "Complex problems require systematic strategies. Top-down is like 'divide and conquer'—breaking a big problem into small pieces. Bottom-up is like building with Lego blocks—developing small, useful components and combining them into a bigger system. Both are valuable, and often used together. The section emphasizes modular design, unit testing, and planning.",
+          "keywords": [
+            {
+              "keyword": "Top-Down Approach",
+              "definition": "A problem-solving strategy that starts by understanding the overall problem and breaking it down into smaller, manageable sub-problems (modules)."
+            },
+            {
+              "keyword": "Bottom-Up Approach",
+              "definition": "A problem-solving strategy that starts by solving the most fundamental, smaller units or modules, and then integrates them to build a bigger solution."
+            },
+            {
+              "keyword": "Modularization",
+              "definition": "The process of dividing a large problem into smaller, manageable sub-problems, called modules."
+            },
+            {
+              "keyword": "Module",
+              "definition": "A small, self-contained part of a program that solves a specific sub-problem."
+            },
+            {
+              "keyword": "Subroutine",
+              "definition": "A sequence of actions that performs a specific task and can be embedded within a larger process. Often referred to as a module."
+            },
+            {
+              "keyword": "Incremental Development",
+              "definition": "The process of building a program piece by piece, testing each part as it is developed."
+            },
+            {
+              "keyword": "Unit Testing",
+              "definition": "The process of testing each individual module or component of a program before integrating it with the rest."
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Unit Summary",
+          "summary": "This section summarizes the core concepts of fundamentals of programming. It states that computers and software solve problems, and a program is a sequence of instructions. The problem-solving process involves understanding the problem and developing an algorithm. Algorithms can be represented using flowcharts or pseudocode. The summary covers the three types of program flow (sequence, selection, repetition) and the top-down and bottom-up problem-solving approaches.",
+          "notes": "This summary reinforces the idea that programming is a process. The key steps are: 1) Understand the problem, 2) Design the solution (algorithm), 3) Implement (write the code). Flowcharts and pseudocode are tools to design the algorithm. Top-down and bottom-up strategies help in managing the complexity of large problems.",
+          "keywords": [
+            {
+              "keyword": "Software Development Process",
+              "definition": "The steps involved in creating software, including understanding the problem, designing the solution, writing the code, and testing."
+            },
+            {
+              "keyword": "Desk Checking",
+              "definition": "Manually tracing through an algorithm (using paper and pencil) to check its accuracy and logic."
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Unit Review Exercise",
+          "summary": "This section contains a review exercise for Unit 6. It includes True/False questions, multiple-choice questions, and short-answer questions. The exercises test understanding of core programming concepts such as algorithms, programs, flowcharts, pseudocode, problem-solving approaches (top-down/bottom-up), and the control structures (sequence, decision, and loops) used in programming.",
+          "notes": "The review exercise assesses the understanding of the fundamental concepts of programming. It tests the definition of programs and algorithms, the purpose of flowcharts and pseudocode, the concept of modularization, and the basic control structures. It ensures that students have grasped the theoretical foundation of programming before moving to more advanced topics.",
+          "keywords": [
+            {
+              "keyword": "Modularization",
+              "definition": "The process of dividing a large problem into smaller, more manageable sub-problems."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "acronyms": {
+    "ATM": "Automated Teller Machine",
+    "CBE": "Commercial Bank of Ethiopia",
+    "CIA": "Confidentiality, Integrity and Availability",
+    "CPU": "Central Processing Units",
+    "DVD": "Digital Video Disc or Digital Versatile Disc",
+    "HTTP": "Hypertext Transfer Protocol",
+    "ICT": "Information Communication Technology",
+    "INSA": "Information Network Security Agency",
+    "LAN": "Local Area Network",
+    "MAN": "Metropolitan Area Network",
+    "NAS": "Network-attached storage",
+    "NIC": "Network Interface Card",
+    "PAN": "Personal Area Network",
+    "PPI": "Pixel Per Inch",
+    "SQL": "Structured Query Language",
+    "USB": "Universal Serial Bus",
+    "UTP": "Unshielded Twisted Pair",
+    "WAN": "Wide Area Network"
+  }
+}

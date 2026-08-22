@@ -1,0 +1,1030 @@
+﻿subject,grade,chapter,chapter_title,section,section_title,missing_basicnote,missing_quiz,missing_question
+Agriculture,Grade 11 ,8,Basic Animal Health and Disease Control,8.5,Prevention and control of common farm animal diseases,False,False,True
+Agriculture,Grade 11 ,9,Dairy Cattle Production and Management,9.2,Dairy cattle breeds and thier selection,False,False,True
+Agriculture,Grade 11 ,9,Dairy Cattle Production and Management,9.3,Feeding management of dairy cattle,False,False,True
+Agriculture,Grade 11 ,9,Dairy Cattle Production and Management,9.4,Milk production and processing,False,False,True
+Agriculture,Grade 11 ,9,Dairy Cattle Production and Management,9.5,Dairy cattle housing management,False,False,True
+Agriculture,Grade 11 ,9,Dairy Cattle Production and Management,9.6,Major diseases of dairy cattle and their control methods,False,False,True
+Agriculture,Grade 11 ,9,Dairy Cattle Production and Management,9.7,Profitability in dairy business,False,False,True
+Agriculture,Grade 11 ,10,Introduction to Natural Resources,10.1,Definition and importance of natural resources,False,False,True
+Agriculture,Grade 11 ,10,Introduction to Natural Resources,10.2,Major types of natural resources,False,False,True
+Agriculture,Grade 11 ,10,Introduction to Natural Resources,10.3,Degradation of natural resources,False,False,True
+Agriculture,Grade 11 ,11,Management of Natural Resources,11.1,Concepts of natural resource use,False,False,True
+Agriculture,Grade 11 ,11,Management of Natural Resources,11.2,Soil management,False,False,True
+Agriculture,Grade 11 ,11,Management of Natural Resources,11.3,Agricultural water management,False,False,True
+Agriculture,Grade 11 ,11,Management of Natural Resources,11.4,Forest and wildlife management,False,False,True
+Agriculture,Grade 11 ,11,Management of Natural Resources,11.5,Environmental management,False,False,True
+Agriculture,Grade 11 ,11,Management of Natural Resources,11.6,Types of indigenous knowledge's applicable in natural resources management practices,False,False,True
+Agriculture,Grade 11 ,12,Concepts of Biodiversity,12.1,What is biodiversity?,False,False,True
+Agriculture,Grade 11 ,12,Concepts of Biodiversity,12.2,The scope of biodiversity,False,False,True
+Agriculture,Grade 11 ,12,Concepts of Biodiversity,12.3,Values and services of biodiversity,False,False,True
+Agriculture,Grade 11 ,12,Concepts of Biodiversity,12.5,Biodiversity conservation and its status in Ethiopia,False,False,True
+Agriculture,Grade 11 ,15,Introduction to Human Nutrition,15.6,Malnutrition and its causes in Ethiopia,False,False,True
+Agriculture,Grade 12,1,Vegetable Crops Production and Management,1.1,"Importance, problems and prospects of vegetable crop production in Ethiopia",True,False,False
+Agriculture,Grade 12,1,Vegetable Crops Production and Management,1.2,Environmental factors influencing vegetable production,True,False,False
+Agriculture,Grade 12,1,Vegetable Crops Production and Management,1.4,Types of vegetable crop production System,True,False,False
+Agriculture,Grade 12,1,Vegetable Crops Production and Management,1.5,Principles of vegetable crops management,True,False,False
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.1,Definition of some common terms,True,False,False
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.2,"Importance, problems and prospect of fruit crops production in Ethiopia",True,False,False
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.4,Principles and techniques of fruit propagation,True,False,False
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.5,Establishing a nursery,True,False,False
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.6,Management of Orchards,True,False,False
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.7,Factors influencing the quality of fruit crops during harvest and post-harvest,True,False,False
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.1,Definition of terms,True,False,False
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.2,Classification of root and tuber crops,True,False,False
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.3,Importance of root and tuber crops,True,False,False
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.4,Prospects of root and tuber crops production in Ethiopia,True,False,False
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.5,Problems of root and tuber crops production in Ethiopia,True,False,False
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.6,Root and tuber crops managements and protection,True,False,False
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.7,Harvesting and post-harvest handling of root and tuber crops,True,False,False
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.1,"History, origin, production status and economic importance of coffee, tea and spices",True,False,False
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.2,"Ecological and soil requirements for coffee, tea and spices production",True,False,False
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.3,"Propagation, nursery establishment and management of coffee, tea and spices",True,False,False
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.4,"Field establishment and management practices of coffee, tea and spices",True,False,False
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.5,Harvesting and processing coffee and tea,True,False,False
+Agriculture,Grade 12,5,Introduction to Plant Biotechnology,5.1,Introduction to tissue culture,True,False,False
+Agriculture,Grade 12,5,Introduction to Plant Biotechnology,5.2,Types of crops produced by tissue,True,False,False
+Agriculture,Grade 12,5,Introduction to Plant Biotechnology,5.3,Benefits of tissue culture,True,False,False
+Agriculture,Grade 12,5,Introduction to Plant Biotechnology,5.5,Application of genetic engineering in crop production,True,False,True
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.1,Beef cattle breeds and methods of selection,True,False,False
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.2,Beef cattle feeds and feeding methods,True,False,False
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.3,Beef cattle housing,True,False,False
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.4,Major disease of beef cattle and control methods,True,False,False
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.5,Meat production and processing,True,False,False
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.1,Sheep and goat breeds and selection,True,False,False
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.2,Sheep and goat feeds and feeding,True,False,False
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.3,Sheep and goat housing,True,False,False
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.4,Major diseases of sheep and goat and methods of controlling,True,False,False
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.5,Sheep and goat meat and milk production and processing,True,False,False
+Agriculture,Grade 12,8,Camel Production and Management,8.1,Camel breeds and selections,True,False,False
+Agriculture,Grade 12,8,Camel Production and Management,8.2,Camel feeds and feeding,True,False,False
+Agriculture,Grade 12,8,Camel Production and Management,8.3,Camel housing,True,False,False
+Agriculture,Grade 12,8,Camel Production and Management,8.4,Major disease of camel and methods of their control,True,False,False
+Agriculture,Grade 12,8,Camel Production and Management,8.5,Camel meat and milk production and processing,True,False,False
+Agriculture,Grade 12,9,Poultry Production and Management,9.1,"Poultry breeds, classification and selection",True,False,False
+Agriculture,Grade 12,9,Poultry Production and Management,9.2,Poultry feeds and feeding,True,False,False
+Agriculture,Grade 12,9,Poultry Production and Management,9.3,Poultry housing,True,False,False
+Agriculture,Grade 12,9,Poultry Production and Management,9.4,Poultry incubation and hatchery management,True,False,False
+Agriculture,Grade 12,9,Poultry Production and Management,9.5,Poultry brooding and rearing,True,False,False
+Agriculture,Grade 12,9,Poultry Production and Management,9.6,Layers and broilers management,True,False,False
+Agriculture,Grade 12,9,Poultry Production and Management,9.7,Major diseases of poultry and controlling methods,True,True,False
+Agriculture,Grade 12,10,Fishery Production and Management,10.1,Basic terms in aquaculture and farmed fish species in Ethiopia,True,False,True
+Agriculture,Grade 12,10,Fishery Production and Management,10.2,Basic anatomy of bony fishers,True,False,True
+Agriculture,Grade 12,10,Fishery Production and Management,10.3,Fish feeds and feeding practices,True,False,True
+Agriculture,Grade 12,10,Fishery Production and Management,10.4,Fish culture techniques,True,False,True
+Agriculture,Grade 12,10,Fishery Production and Management,10.5,Fish rearing,True,False,True
+Agriculture,Grade 12,10,Fishery Production and Management,10.6,Fishing methods,True,False,True
+Agriculture,Grade 12,10,Fishery Production and Management,10.7,Handling fish and fish products,True,False,True
+Agriculture,Grade 12,10,Fishery Production and Management,10.8,Diseases in aquaculture,True,False,True
+Agriculture,Grade 12,10,Fishery Production and Management,10.9,Indigenous knowledge in fish processing,True,False,True
+Agriculture,Grade 12,11,Apiculture,11.1,Introduction to honey bee management,True,False,True
+Agriculture,Grade 12,11,Apiculture,11.2,Bee biology and behavior,True,False,True
+Agriculture,Grade 12,11,Apiculture,11.3,Types of honey bee colony,True,False,True
+Agriculture,Grade 12,11,Apiculture,11.4,Management of honey bees,True,False,True
+Agriculture,Grade 12,11,Apiculture,11.5,Colony management and queen rearing,True,False,True
+Agriculture,Grade 12,11,Apiculture,11.6,Hive products and processing,True,False,True
+Agriculture,Grade 12,11,Apiculture,11.7,"Bee diseases, pests and predators",True,False,True
+Agriculture,Grade 12,11,Apiculture,11.8,Indigenous knowledge in apiculture,True,False,True
+Agriculture,Grade 12,12,Nursery and Plantation Technology,12.1,Nursery establishment and management,True,False,True
+Agriculture,Grade 12,12,Nursery and Plantation Technology,12.2,Design and layout of the nursery,False,False,True
+Agriculture,Grade 12,12,Nursery and Plantation Technology,12.3,Producing plants from seeds,True,False,True
+Agriculture,Grade 12,12,Nursery and Plantation Technology,12.4,Plantation establishment and management,True,False,True
+Agriculture,Grade 12,13,Basics of Agro-Forestry Systems and Practices,13.1,"Definition of agro-forestry, systems, and practices",True,False,True
+Agriculture,Grade 12,13,Basics of Agro-Forestry Systems and Practices,13.2,Significance of agro-forestry,True,False,True
+Agriculture,Grade 12,13,Basics of Agro-Forestry Systems and Practices,13.3,Classification of agro-forestry systems,True,False,True
+Agriculture,Grade 12,13,Basics of Agro-Forestry Systems and Practices,13.4,"Agro-forestry species, establishment and management",True,False,True
+Agriculture,Grade 12,14,Soil and Water Conservation,14.1,Soil properties,True,False,True
+Agriculture,Grade 12,14,Soil and Water Conservation,14.2,Soil erosion,True,False,True
+Agriculture,Grade 12,14,Soil and Water Conservation,14.3,Major causes of soil erosion,True,False,True
+Agriculture,Grade 12,14,Soil and Water Conservation,14.4,Negative impacts of soil erosion,False,False,True
+Agriculture,Grade 12,14,Soil and Water Conservation,14.5,Types of soil and water conservation practices,True,False,True
+Agriculture,Grade 12,14,Soil and Water Conservation,14.6,Need of soil and water conservation,True,False,True
+Agriculture,Grade 12,14,Soil and Water Conservation,14.7,Indigenous Knowledge in Soil and water conservation,True,False,True
+Agriculture,Grade 12,15,Gender and Human Nutrition,15.1,Basic gender-related terminologies,True,False,True
+Agriculture,Grade 12,15,Gender and Human Nutrition,15.2,Gender role in food production and consumption,True,False,True
+Agriculture,Grade 12,15,Gender and Human Nutrition,15.3,Empowering women in food production and consumption,True,False,True
+Agriculture,Grade 12,16,Safe Food Production and Postharvest Handling,16.1,Food safety hazards and health risks,True,False,True
+Agriculture,Grade 12,16,Safe Food Production and Postharvest Handling,16.2,Source of food contaminants,True,False,True
+Agriculture,Grade 12,16,Safe Food Production and Postharvest Handling,16.3,Food safety and nutrition linkage,True,False,True
+Agriculture,Grade 12,16,Safe Food Production and Postharvest Handling,16.4,Indigenous knowledge in safe food production,True,False,True
+Agriculture,Grade 12,17,Application of Information and Communication Technologies (ICT) in Agriculture,17.1,Roles of ICT in agriculture,True,False,True
+Agriculture,Grade 12,17,Application of Information and Communication Technologies (ICT) in Agriculture,17.2,Major application of ICT in agriculture,True,False,True
+Agriculture,Grade 12,17,Application of Information and Communication Technologies (ICT) in Agriculture,17.3,Drawbacks and solutions of ICT in agriculture,True,False,True
+Biology,Grade 10 ,2,Plants,2.10,Medicinal plants,True,True,False
+Biology,Grade 10 ,2,Plants,2.3.1,The internal structure of a leaf,True,False,True
+Biology,Grade 10 ,2,Plants,2.3.2,The internal structure of a stem,True,False,True
+Biology,Grade 10 ,2,Plants,2.3.3,The internal structure of a root,True,False,True
+Biology,Grade 10 ,2,Plants,2.4.2,Reproductive structure and life cycle of flowering plants,True,True,True
+Biology,Grade 10 ,2,Plants,2.4.3,Pollination,True,False,True
+Biology,Grade 10 ,2,Plants,2.6,Seed Dispersal and Germination,False,True,False
+Biology,Grade 10 ,2,Plants,2.6.1,Seed dispersal,True,True,True
+Biology,Grade 10 ,2,Plants,2.6.2,Germination of seed,True,False,True
+Biology,Grade 10 ,2,Plants,2.7.1,The photosynthetic apparatus,True,True,True
+Biology,Grade 10 ,2,Plants,2.7.2,The light absorbing system in chloroplast,True,True,True
+Biology,Grade 10 ,2,Plants,2.7.3,Mechanism of photosynthesis,True,True,True
+Biology,Grade 10 ,2,Plants,2.7.4,Testing a leaf for starch,True,True,True
+Biology,Grade 10 ,2,Plants,2.8.1,Transporting systems in plants,True,True,True
+Biology,Grade 10 ,2,Plants,2.8.2,Mechanism of transport in plant,True,True,True
+Biology,Grade 10 ,3,Biochemical Molecules,3.1.1,Inorganic molecule: Water,True,False,True
+Biology,Grade 10 ,3,Biochemical Molecules,3.1.2,Inorganic ions,True,False,True
+Biology,Grade 10 ,3,Biochemical Molecules,3.1.3,Organic molecules,True,False,True
+Biology,Grade 10 ,4,Cell Reproduction,4.2.1,Mitosis,True,False,True
+Biology,Grade 10 ,4,Cell Reproduction,4.2.2,Meiosis,True,False,True
+Biology,Grade 10 ,5,Human Biology,5.2.1,Blood Donation,True,False,True
+Biology,Grade 10 ,5,Human Biology,5.2.2,Diseases of the circulatory and lymphatic systems,True,False,True
+Biology,Grade 10 ,6,Ecological Interaction,6.1.1,Food chain and food web,True,False,True
+Biology,Grade 10 ,6,Ecological Interaction,6.1.2,Flow of energy and matter through ecosystem,True,False,True
+Biology,Grade 10 ,6,Ecological Interaction,6.2,Cycling of Materials in an Ecosystem,True,True,False
+Biology,Grade 10 ,6,Ecological Interaction,6.2.2,Carbon cycle,True,False,True
+Biology,Grade 10 ,6,Ecological Interaction,6.2.3,Nitrogen cycle,True,False,True
+Biology,Grade 10 ,6,Ecological Interaction,6.2.4,Phosphorus cycle,True,False,True
+Biology,Grade 11 ,1,Biology and technology,1.2.1,The benefits of biology to technology,True,False,True
+Biology,Grade 11 ,1,Biology and technology,1.2.2,Uses of technology in biology,True,False,True
+Biology,Grade 11 ,1,Biology and technology,1.4.1,Ethical treatment of plants and animals during biological studies,True,True,True
+Biology,Grade 11 ,2,Animals,2.2,Invertebrates and Vertebrates,False,True,False
+Biology,Grade 11 ,2,Animals,2.3,Reproduction in Animals,False,True,False
+Biology,Grade 11 ,2,Animals,2.3.1,Asexual reproduction in animals,True,False,True
+Biology,Grade 11 ,2,Animals,2.3.2,Sexual reproduction in animals,True,False,True
+Biology,Grade 11 ,2,Animals,2.3.3,Reproduction in insects (complete and incomplete metamorphosis),True,False,True
+Biology,Grade 11 ,2,Animals,2.3.4,Reproduction in Frog,True,False,True
+Biology,Grade 11 ,2,Animals,2.3.5,Reproduction in Crocodiles,True,False,True
+Biology,Grade 11 ,2,Animals,2.3.6,Reproduction in Birds,True,False,True
+Biology,Grade 11 ,2,Animals,2.3.7,Reproduction in rat,True,False,True
+Biology,Grade 11 ,2,Animals,2.4,The economic importance of animals (insects),False,True,False
+Biology,Grade 11 ,2,Animals,2.4.1,Beneficial aspects of insects,True,False,True
+Biology,Grade 11 ,2,Animals,2.4.2,Harmful aspects of insects,True,False,True
+Biology,Grade 11 ,2,Animals,2.5.1,Types of Animal Behavior,True,False,True
+Biology,Grade 11 ,2,Animals,2.5.2,Patterns of Behavior,True,False,True
+Biology,Grade 11 ,2,Animals,2.6,Homeostasis in animals,False,True,False
+Biology,Grade 11 ,2,Animals,2.6.1,Thermoregulation,True,False,True
+Biology,Grade 11 ,2,Animals,2.6.2,Osmoregulation,True,False,True
+Biology,Grade 11 ,2,Animals,2.6.3,Blood Sugar Regulation,True,False,True
+Biology,Grade 11 ,2,Animals,2.6.4,Control of homeostasis,True,False,True
+Biology,Grade 11 ,2,Animals,2.7,Renowned zoologists in Ethiopia,True,True,False
+Biology,Grade 11 ,3,Enzymes,3.10,Malting in Ethiopian tradition,True,False,False
+Biology,Grade 11 ,3,Enzymes,3.10.1,Steps of modern malting,True,True,True
+Biology,Grade 11 ,3,Enzymes,3.10.3,Traditional malting for local alcohol production,True,True,True
+Biology,Grade 11 ,3,Enzymes,3.11,Renowned Biochemists in Ethiopia,True,True,False
+Biology,Grade 11 ,3,Enzymes,3.2.1,General properties of an enzyme,True,False,True
+Biology,Grade 11 ,3,Enzymes,3.2.2,The function of enzymes,True,False,True
+Biology,Grade 11 ,3,Enzymes,3.4.1,Enzyme-substrate binding models,True,False,True
+Biology,Grade 11 ,3,Enzymes,3.4.2,Enzymatic transition state,True,True,True
+Biology,Grade 11 ,3,Enzymes,3.6,Types of enzymes,False,True,False
+Biology,Grade 11 ,3,Enzymes,3.7.1,Description on factors affecting enzymatic actions,True,True,True
+Biology,Grade 11 ,4,Genetics,4.10,Genetic testing and counseling,True,False,False
+Biology,Grade 11 ,4,Genetics,4.12.1,Indigenous knowledge of Ethiopian farmers,True,True,True
+Biology,Grade 11 ,4,Genetics,4.2.1,The Structure and function of DNA,True,False,True
+Biology,Grade 11 ,4,Genetics,4.2.2,The structure and function of RNA,True,False,True
+Biology,Grade 11 ,4,Genetics,4.2.3,DNA replication,True,False,True
+Biology,Grade 11 ,4,Genetics,4.3.1,Cell Division,True,False,True
+Biology,Grade 11 ,4,Genetics,4.5.1,Mendellan crosses,True,True,True
+Biology,Grade 11 ,4,Genetics,4.5.2,Monohybrid cross,True,False,True
+Biology,Grade 11 ,4,Genetics,4.5.3,Dihybrid Cross,True,False,True
+Biology,Grade 11 ,4,Genetics,4.5.4,Test Crosses,True,False,True
+Biology,Grade 11 ,4,Genetics,4.7.1,"Co-dominance, Incomplete dominance and Multiple alleles",True,False,True
+Biology,Grade 11 ,4,Genetics,4.7.2,Rh factor inheritance in humans and its medical importance,True,False,True
+Biology,Grade 11 ,4,Genetics,4.7.3,Sex-linked inheritance in humans,True,False,True
+Biology,Grade 11 ,4,Genetics,4.7.4,Environmental effects on phenotype,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.1.1,Types of muscles,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.1.2,Mechanism of actions of skeletal muscles,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.1.3,The human axial and appendicular skeletons,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.1.4,Joints,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.2.1,Human reproductive system (Male and Female),True,False,True
+Biology,Grade 11 ,5,The human body systems,5.2.2,Gametogenesis,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.2.2.1,Positive and negative feedbacks to control the menstrual cycle,True,True,True
+Biology,Grade 11 ,5,The human body systems,5.2.3,Fertilization and pregnancy,True,True,True
+Biology,Grade 11 ,5,The human body systems,5.2.4,Mechanism of action of contraceptives,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.2.5,Causes of infertility in humans,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.2.6,The major sexually transmitted infections (STIs) in Ethiopia,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.2.8,Epidemiology of STIs in Ethiopia,True,False,True
+Biology,Grade 11 ,5,The human body systems,5.3.1,Harmful traditional practices,True,True,True
+Biology,Grade 11 ,5,The human body systems,5.4.1,Risks related to the lack of family planning,True,True,True
+Biology,Grade 11 ,5,The human body systems,5.4.2,Family planning actions,True,True,True
+Biology,Grade 11 ,5,The human body systems,5.4.3,Family planning services,True,True,True
+Biology,Grade 11 ,5,The human body systems,5.5.1,The effects of alcohol uses,True,True,True
+Biology,Grade 11 ,5,The human body systems,5.5.2,Effects of chewing Khat,True,True,True
+Biology,Grade 11 ,5,The human body systems,5.5.3,Effects of drug uses,True,True,True
+Biology,Grade 11 ,6,Population and natural resources,6.1.1,"Population size, density and dispersal",True,False,True
+Biology,Grade 11 ,6,Population and natural resources,6.1.2,Exponential and logistic growth in populations,True,False,True
+Biology,Grade 11 ,6,Population and natural resources,6.1.3,Demographic structure,True,False,True
+Biology,Grade 11 ,6,Population and natural resources,6.1.4,Population regulation,True,False,True
+Biology,Grade 11 ,6,Population and natural resources,6.5.2,Climate change,True,True,True
+Biology,Grade 11 ,6,Population and natural resources,6.5.3,Global warming,True,True,True
+Biology,Grade 11 ,6,Population and natural resources,6.5.4,Ozone layer depletion,True,True,True
+Biology,Grade 11 ,6,Population and natural resources,6.5.5,Acid rain,True,True,True
+Biology,Grade 11 ,6,Population and natural resources,6.5.6,Loss of Biodiversity,True,True,True
+Biology,Grade 11 ,6,Population and natural resources,6.5.7,Toxic bioaccumulation,True,True,True
+Biology,Grade 11 ,6,Population and natural resources,6.5.8,Resource depletion,True,True,True
+Biology,Grade 12,1,Application of Biology ,1.1,Application in Conservation of Natural Resources ,True,False,False
+Biology,Grade 12,1,Application of Biology ,1.2,Food and Nutrition Security ,True,False,False
+Biology,Grade 12,1,Application of Biology ,1.3,Creating Conscious Citizens and Ensuring Sustainable Development ,True,False,False
+Biology,Grade 12,1,Application of Biology ,1.4,Applications in Biotechnology ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.1,Eubacteria ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.1.1,Structure of Bacterial Cell,True,False,True
+Biology,Grade 12,2,Microorganisms ,2.1.2,Bacterial Shapes,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.1.3,Nutritional types of bacteria,True,False,True
+Biology,Grade 12,2,Microorganisms ,2.1.4,Reproduction of bacteria,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.11,Renowned Microbiologists in Ethiopia ,True,True,False
+Biology,Grade 12,2,Microorganisms ,2.2,Archaea ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.2.1,Beneficial aspects of Archaea,True,False,True
+Biology,Grade 12,2,Microorganisms ,2.2.2,Physical factors that affecting microbial growths,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.3,Fungi ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.3.1,General Characteristics of True Fungi,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.3.2,Ecology of Fungi,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.3.3,Classification of Fungi,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.3.4,Reproduction in fungi,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.3.5,Economic importance of fungi,True,False,True
+Biology,Grade 12,2,Microorganisms ,2.4,Protozoa ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.4.1,Common diseases caused by protozoa,True,False,True
+Biology,Grade 12,2,Microorganisms ,2.5,Viruses ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.5.1,Characteristics of virus,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.5.2,Viral symmetry,True,True,True
+Biology,Grade 12,2,Microorganisms ,2.5.3,Classification of Viruses,True,False,True
+Biology,Grade 12,2,Microorganisms ,2.6,Normal Microbiota ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.7,Modes of Disease Transmission and Prevention ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.8,Uses of Microorganisms ,True,False,False
+Biology,Grade 12,2,Microorganisms ,2.9,Controlling Microorganisms ,True,False,False
+Biology,Grade 12,3,Energy Transformation ,3.1,Cellular Metabolism ,True,False,False
+Biology,Grade 12,3,Energy Transformation ,3.2,Photosynthesis ,True,False,False
+Biology,Grade 12,3,Energy Transformation ,3.2.1,Photosynthetic pigments,True,True,True
+Biology,Grade 12,3,Energy Transformation ,3.2.5,Light-Independent Reactions (Calvin cycle),True,True,True
+Biology,Grade 12,3,Energy Transformation ,3.3,Contributions of Photosynthesis ,True,False,False
+Biology,Grade 12,3,Energy Transformation ,3.4,Cellular Respiration ,True,False,False
+Biology,Grade 12,3,Energy Transformation ,3.4.3,The site of cellular respiration,True,True,True
+Biology,Grade 12,4,Evolution ,4.1,Evolution ,True,True,False
+Biology,Grade 12,4,Evolution ,4.1.1,Definition,True,False,True
+Biology,Grade 12,4,Evolution ,4.1.2,Theories of evolution,True,False,True
+Biology,Grade 12,4,Evolution ,4.1.3,The evidence for evolution,True,False,True
+Biology,Grade 12,4,Evolution ,4.1.4,"Natural selection: Definition, Types & Examples",True,False,True
+Biology,Grade 12,4,Evolution ,4.1.5,Human evolution,True,False,True
+Biology,Grade 12,4,Evolution ,4.1.6,Mutation,True,False,True
+Biology,Grade 12,4,Evolution ,4.1.7,Genetic Drift,True,False,True
+Biology,Grade 12,4,Evolution ,4.1.8,Gene flow (immigration and emigration),True,False,True
+Biology,Grade 12,4,Evolution ,4.1.9,Causes of species extinction,True,False,True
+Biology,Grade 12,4,Evolution ,4.2,Renowned Anthropologists in Ethiopia ,True,True,False
+Biology,Grade 12,4,Evolution ,4.3,Renowned Evolutionists in Ethiopia ,True,True,False
+Biology,Grade 12,5,Human Body System ,5.1,The Nervous System ,True,False,False
+Biology,Grade 12,5,Human Body System ,5.1.1,Neurons and their functions,True,True,True
+Biology,Grade 12,5,Human Body System ,5.1.2,The Nerve Impulse and transmission,True,True,True
+Biology,Grade 12,5,Human Body System ,5.1.3,Neurotransmitters,True,True,True
+Biology,Grade 12,5,Human Body System ,5.1.4,Types of the nervous system,True,True,True
+Biology,Grade 12,5,Human Body System ,5.1.6,Reflex action,True,True,True
+Biology,Grade 12,5,Human Body System ,5.1.7,Drug abuse,True,True,True
+Biology,Grade 12,5,Human Body System ,5.2,Sense Organs ,True,False,False
+Biology,Grade 12,5,Human Body System ,5.2.1,Skin,True,True,True
+Biology,Grade 12,5,Human Body System ,5.2.2,The Tongue,True,True,True
+Biology,Grade 12,5,Human Body System ,5.2.3,The Nose,True,True,True
+Biology,Grade 12,5,Human Body System ,5.2.4,The Eye,True,True,True
+Biology,Grade 12,5,Human Body System ,5.2.5,The Ear,True,True,True
+Biology,Grade 12,5,Human Body System ,5.2.6,The endocrine system,True,True,True
+Biology,Grade 12,5,Human Body System ,5.3,Homeostasis in the Human Body ,True,False,False
+Biology,Grade 12,5,Human Body System ,5.3.1,The structure and function of the human kidney,True,True,True
+Biology,Grade 12,6,Climate Change ,6.1,Climate Change: Causes and Effects ,True,False,False
+Biology,Grade 12,6,Climate Change ,6.1.1,Definition of Climate Change,True,True,True
+Biology,Grade 12,6,Climate Change ,6.1.2,Causes of climate change,True,True,True
+Biology,Grade 12,6,Climate Change ,6.2,Effects of Climate Change ,True,False,False
+Biology,Grade 12,6,Climate Change ,6.2.1,Effects of climate change on biodiversity,True,True,True
+Biology,Grade 12,6,Climate Change ,6.2.2,Effects of climate change on Agriculture,True,True,True
+Biology,Grade 12,6,Climate Change ,6.2.3,Effect of climate change on forest productivity,True,True,True
+Biology,Grade 12,6,Climate Change ,6.2.4,Climate change and natural disasters,True,True,True
+Biology,Grade 12,6,Climate Change ,6.3,International Conventions ,True,False,False
+Biology,Grade 12,6,Climate Change ,6.3.1,The United Nations Framework Convention,True,True,True
+Biology,Grade 12,6,Climate Change ,6.3.2,Kyoto Protocol on Climate Change,True,True,True
+Biology,Grade 12,6,Climate Change ,6.3.3,International and national practices of Implementation of conventions,True,True,True
+Biology,Grade 9 ,1,Introduction to Biology,1.4,Tools of a Biologist ,False,True,False
+Biology,Grade 9 ,1,Introduction to Biology,1.4.1,Laboratory tools of biologist ,True,False,True
+Biology,Grade 9 ,1,Introduction to Biology,1.4.2,Field tools ,True,False,True
+Biology,Grade 9 ,1,Introduction to Biology,1.5,The Light Microscope ,False,True,False
+Biology,Grade 9 ,1,Introduction to Biology,1.5.1,The parts and function of the light microscope ,True,False,True
+Biology,Grade 9 ,1,Introduction to Biology,1.5.2,Handling and using a light microscope ,True,False,True
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.2,Taxonomy of living things,False,True,False
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.2.1,Principles of classification ,True,False,True
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.2.2,Taxonomic hierarchies in biological classification ,True,False,True
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.1,Kingdom Monera ,True,False,True
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.2,Kingdom Protista ,True,False,True
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.3,Kingdom Fungi ,True,False,True
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.4,Kingdom Plantae ,True,False,True
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.5,Kingdom Animalia ,True,False,True
+Biology,Grade 9 ,3,Cells,3.7,The cell and its environment,False,True,False
+Biology,Grade 9 ,3,Cells,3.7.1,Passive transport ,True,False,True
+Biology,Grade 9 ,3,Cells,3.7.2,Active transport ,True,False,True
+Biology,Grade 9 ,4,Reproduction,4. 6,Male reproductive structures ,True,True,True
+Biology,Grade 9 ,4,Reproduction,4.10,Methods of birth control ,True,False,False
+Biology,Grade 9 ,4,Reproduction,4.11,Sexually transmitted infections (STIs): Transmission and prevention,True,False,False
+Biology,Grade 9 ,4,Reproduction,4.3,Types of asexual reproduction,False,True,False
+Biology,Grade 9 ,4,Reproduction,4.3.1,Fission ,True,False,True
+Biology,Grade 9 ,4,Reproduction,4.3.2,Fragmentation ,True,False,True
+Biology,Grade 9 ,4,Reproduction,4.3.3,Budding ,True,False,True
+Biology,Grade 9 ,4,Reproduction,4.3.4,Vegetative propagation ,True,False,True
+Biology,Grade 9 ,5,"Human Health, Nutrition, and Disease",5.8,Infectious and noninfectious diseases ,False,True,True
+Biology,Grade 9 ,5,"Human Health, Nutrition, and Disease",5.8. 1,Infectious diseases ,True,True,True
+Biology,Grade 9 ,5,"Human Health, Nutrition, and Disease",5.8. 2,Non-infectious diseases ,True,True,True
+Biology,Grade 9 ,5,"Human Health, Nutrition, and Disease",5.9,Renowned Nutritionists in Ethiopia,True,True,False
+Biology,Grade 9 ,6,Ecology,6.1,Ecology,False,True,False
+Biology,Grade 9 ,6,Ecology,6.1.1,Definitions of Ecological Terms ,True,False,False
+Biology,Grade 9 ,6,Ecology,6.1.2,Biotic and abiotic components ,True,False,False
+Biology,Grade 9 ,6,Ecology,6.1.3,Ecological levels ,True,False,False
+Biology,Grade 9 ,6,Ecology,6.1.4,Ecosystems ,True,False,False
+Biology,Grade 9 ,6,Ecology,6.1.5,Biomes ,True,False,False
+Biology,Grade 9 ,6,Ecology,6.1.6,Ecological succession ,True,False,False
+Biology,Grade 9 ,6,Ecology,6.2,Ecological relationships ,True,False,False
+Chemistry,Grade 10 ,1,Chemical Reactions and Stoichiometry,1.5,"Molecular and Formula Masses, the Mole Concept and Chemical Formulas",False,True,False
+Chemistry,Grade 10 ,1,Chemical Reactions and Stoichiometry,1.6,Stoichiometry,False,True,False
+Chemistry,Grade 10 ,2,Solutions,2.2,The Solution Process,False,True,False
+Chemistry,Grade 10 ,2,Solutions,2.4,Ways of Expressing Concentration of Solution,False,True,False
+Chemistry,Grade 10 ,4,Energy Changes and Electrochemistry,4.1,Introduction,False,True,False
+Chemistry,Grade 10 ,4,Energy Changes and Electrochemistry,4.2,Energy Changes in Electrochemistry,False,True,False
+Chemistry,Grade 10 ,4,Energy Changes and Electrochemistry,4.3,Electrochemical Cells,False,True,False
+Chemistry,Grade 10 ,5,Metals and Nonmetals,5.2,General Properties of Metals and Production of Some Metals,False,True,False
+Chemistry,Grade 10 ,5,Metals and Nonmetals,5.3,Production of Some Important Nonmetals,False,True,False
+Chemistry,Grade 10 ,6,Hydrocarbons and their Natural Sources,6.1,Introduction,False,True,False
+Chemistry,Grade 10 ,6,Hydrocarbons and their Natural Sources,6.3,"Unsaturated Hydrocarbons: Alkenes, Alkynes, and Aromatic Hydrocarbons",False,True,False
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.2,Dalton's Atomic Theory and the Modern Atomic Theory,False,True,False
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.2.1,Postulates of Dalton's Atomic Theory,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.2.2,Postulates of Modern Atomic Theory.,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.3,Early Experiments to Characterize the Atom,False,True,False
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.3.1,The Discovery of the Electron,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.3.2,Radioactivity and the Discovery of the Nucleus,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.3.3,Discovery of the Neutron,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.4,Make- up of the Nucleus,False,True,False
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.4.1,Subatomic Particles,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.4.2,Atomic Mass and Isotopes,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5,Electromagnetic Radiation and Atomic Spectra,False,True,False
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.1,Electromagnetic Radiation,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.2,The Quantum Theory and Photon,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.3,Atomic Spectra,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.4,The Bohr Model of the Hydrogen Atom.,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.5,Limitations of the Bohr Model,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.6,The Wave-Particle Duality of Matter and Energy,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.6,The Quantum Mechanical Model of the Atom,False,True,False
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.6.1,The Heisenberg's Principle,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.6.2,Quantum Numbers,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.6.3,Shapes of Atomic Orbitals.,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.7.1,Ground State Electronic Configuration of the Elements,True,True,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8,Electronic Configurations and the Periodic Table of the Elements,False,True,False
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8.1,The Modern Periodic Table,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8.2,Classification of the Elements,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8.3,Periodic Properties,True,False,True
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8.4,Advantages of Periodic Classification of the Elements...,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.1.1,The Octet Rule,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.1.2,Types of Chemical Bonding,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.2.1,Lewis Electron-Dot Symbols,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.2.2,Formation of Ionic Bonds,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.2.3,Exceptions to the Octet Rule in Ionic Compounds,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.2.4,Properties of Ionic Compounds..,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.3.1,Molecular Geometry,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.3.2,Intermolecular Forces in Covalent Compounds.,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.4.1,Formation of Metallic Bonding.,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.4.2,Electron-Sea Model,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.4.3,Properties of Metals and Bonding,True,True,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.5.1,Valence Bond (VB) Theory,True,False,True
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.5.2,Molecular Orbital Theory (MOT),True,False,True
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.2.1,The Kinetic Theory of Matter,True,True,True
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.2.2,Properties of Matter...,True,True,True
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.3.1,The Kinetic Molecular Theory of Gases,True,True,True
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.3.2,The Gas Laws,True,True,True
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.4.1,Energy Changes in Liquids,True,True,True
+Chemistry,Grade 11 ,4,CHEMICAL KINETICS,4.3,Factors Affecting the Rate of a Chemical Reaction,False,False,True
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.1,Introduction,False,True,False
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2,Chemical Equilibrium,False,True,False
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.1,Reversible and Irreversible Reactions,True,False,True
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.2,Attainment and Characteristics of Chemical Equilibria,True,False,True
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.3,Conditions for Attainment of Chemical Equilibria,True,False,True
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.4,Equilibrium Expression and Equilibrium Constant.,True,False,True
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.5,Applications of Equilibrium Constant,True,False,True
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.6,Changing Equilibrium Conditions: Le-Chatelier's Principle.,True,False,True
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.7,Equilibrium and Industry..,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.1,Introduction,False,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2,Alcohols and Ethers,False,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.1,Classification of Alcohols,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.2,Nomenclature of Alcohols,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.3,Physical Properties of Alcohols,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.4,Preparation of Alcohols..,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.5,Chemical Properties of Alcohols,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.6,Structure and Nomenclature of Ethers.,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.7,Physical Properties of Ethers,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.8,Preparation of Ethers,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.9,Reactions of Ethers....,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.3,Aldehydes and Ketones,False,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.3.1,Nomenclature,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.3.2,Physical Properties of Aldehydes and Ketones,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4,Carboxylic Acids,False,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.1,Structure and Nomenclature of Carboxylic Acids,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.2,Physical Properties of Carboxylic Acids....,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.3,Chemical Properties of Carboxylic Acids..,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.4,Preparation of Carboxylic Acids......,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.5,Fatty Acids.,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.6,Uses of Carboxylic Acids,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5,Esters,False,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.1,Sources of Esters..,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.2,Nomenclature,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.3,Physical Properties,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.4,Chemical Properties,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.5,Preparation of Esters,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.6,Uses of Esters,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6,Fats and Oils,False,True,False
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.1,Source of Fats and Oils,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.2,Structure of Fats and Oils,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.3,Physical Properties of Fats and Oils,True,True,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.4,Hardening of Oils,True,False,True
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.5,Rancidity....,True,False,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.1.1,Arrhenius Concept of Acids and Bases,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.1.2,Brønsted-Lowry Concept of Acids and Bases,False,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.1.3,Lewis Concept of Acids and Bases..,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.2.1,Ionization of Water,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.2.2,Measures of the Strength of acids and Bases in Aqueous Solution,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.3.1,The Common Ion Effect,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.3.2,Buffer Solutions..,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.4.1,Hydrolysis of Salts of Strong Acids and Strong Bases,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.4.2,Hydrolysis of Salts of Weak Acids and Strong Bases,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.4.3,Hydrolysis of Salts of Strong Acids and Weak Bases,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.4.4,Hydrolysis of Salts of Weak Acids and Week Bases,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.5.1,Acid-Base Indicators,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.5.2,Equivalents of Acids and Bases.,True,True,True
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.5.3,Acid-Base Titrations...,True,True,True
+Chemistry,Grade 12,2,Electrochemistry,2.1.1,Oxidation,True,True,True
+Chemistry,Grade 12,2,Electrochemistry,2.1.2,Reduction,True,True,True
+Chemistry,Grade 12,2,Electrochemistry,2.1.3,Balancing Oxidation-Reduction (Redox) Reactions...,True,True,True
+Chemistry,Grade 12,2,Electrochemistry,2.2.1,Electrolytic Cells,True,True,True
+Chemistry,Grade 12,2,Electrochemistry,2.2.2,Preferential Discharge,True,True,True
+Chemistry,Grade 12,2,Electrochemistry,2.2.3,Electrolysis of Some Selected Aqueous Solutions......,True,True,True
+Chemistry,Grade 12,2,Electrochemistry,2.3.1,Faraday's First Law of Electrolysis,True,True,True
+Chemistry,Grade 12,2,Electrochemistry,2.3.2,Faraday's Second Law of Electrolysis..,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.2.1,Natural Resources (Raw Materials).,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.2.2,Industry,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.1,Ammonia ($NH_3$),True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.2,Nitric Acid,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.3,Nitrogen-Based Fertilizers,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.4,Sulphuric Acid,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.5,Some Common Pesticides and Herbicides,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.6,Sodium Carbonate,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.7,Sodium Hydroxide (NaOH).,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4,Some Manufacturing Industries in Ethiopia,False,False,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.1,Glass Manufacturing,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.2,Manufacturing of Ceramics,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.3,Cement..,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.4,Sugar Manufacturing.,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.5,Paper and Pulp.,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.6,Tannery,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.7,Food Processing and Preservation,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.8,Manufacturing of Ethanol,True,True,True
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.9,Soap and Detergent,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.1.1,Components of the Environment,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.1.2,Natural Cycles in the Environment.,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.1.3,Concepts Related to Environmental Chemistry.........,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.2.1,Air Pollution,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.2.2,Water Pollution,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.2.3,Land Pollution,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.3.1,Global Warming and Climate Change,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.3.2,Chemistry of Greenhouse Gasses and Their Effects on Climate Change,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.4.1,Principle of Green Chemistry..,True,True,True
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.4.2,Cleaner Production in Chemistry,True,True,True
+Chemistry,Grade 9 ,1,CHEMISTRY AND ITS IMPORTANCE,1.4,Some Common Chemical Industries in Ethiopia,True,False,False
+Chemistry,Grade 9 ,1,CHEMISTRY AND ITS IMPORTANCE,Summary,Summary,True,True,True
+Chemistry,Grade 9 ,2,MEASUREMENTS AND SCIENTIFIC METHODS,2.2,Chemistry as Experimental Science,False,False,True
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.1,The concept of democracy and democratization,True,True,False
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.2,Definitions and actors of democratization process,True,False,False
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.3,Institutionalizing democracy,True,False,False
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.4,The role of democracy for social transformation,True,False,False
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.5,Democratic values,True,False,False
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.6,Aspects of democracy,True,False,False
+Civics/Citizenship,Grade 10 ,2,Citizens in the Digital Technology Age,2.1,Implications of digital technology on citizens,True,False,False
+Civics/Citizenship,Grade 10 ,2,Citizens in the Digital Technology Age,2.2,The ethics of using digital technology,True,False,False
+Civics/Citizenship,Grade 10 ,2,Citizens in the Digital Technology Age,2.3,Opportunities of digital technology for young citizens,True,False,False
+Civics/Citizenship,Grade 10 ,2,Citizens in the Digital Technology Age,2.4,Impacts of unethical use of digital technology on young citizens,True,False,False
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.1,The concept of good governance,True,False,False
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.2,Elements of good governance,True,False,False
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.3,The role of good governance,True,False,False
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.4,Challenges for good governance,True,False,False
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.5,Impacts of lack of good governance,True,False,False
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.6,Understanding and fighting corruption,True,False,False
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.1,The concepts of peace,True,False,False
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.2,Impacts of absence of peace,True,False,False
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.3,The notion of peace building,True,False,False
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.4,Indigenous conflict resolution mechanisms,True,False,False
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.5,The roles of indigenous social institutions in ensuring sustainable peace,True,False,False
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.1,The meaning of federalism,True,False,False
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.2,Types of federalism,True,False,False
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.3,Key features of federalism,True,False,False
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.4,Advantage and disadvantage of federalism,True,False,False
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.5,The roles of federalism in accommodating diversity in Ethiopia,True,False,False
+Civics/Citizenship,Grade 10 ,6,Human Rights,6.1,The concept of human right,True,False,True
+Civics/Citizenship,Grade 10 ,6,Human Rights,6.2,Citizens and state obligations in realizing human rights,True,False,False
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.1,The meaning of patriotism,True,False,False
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.2,Types of patriotism,True,False,False
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.3,The bases of patriotism,True,False,False
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.4,The importance of patriotism,True,False,False
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.5,Duties expected of patriots,True,False,True
+Civics/Citizenship,Grade 10 ,8,Globalization and Global Issues,8.1,The meaning of globalization,True,False,False
+Civics/Citizenship,Grade 10 ,8,Globalization and Global Issues,8.2,Advantages and disadvantages of globalization,True,False,False
+Civics/Citizenship,Grade 10 ,8,Globalization and Global Issues,8.3,Fighting the negative impact of globalization,True,False,True
+Civics/Citizenship,Grade 10 ,8,Globalization and Global Issues,8.4,Major global issues,True,False,False
+Civics/Citizenship,Grade 9 ,1,ETHICAL VALUES,1.1,The meaning of ethics,True,False,True
+Civics/Citizenship,Grade 9 ,1,ETHICAL VALUES,1.2,Major ethical values,True,False,True
+Civics/Citizenship,Grade 9 ,1,ETHICAL VALUES,1.3,The importance of ethical values of citizens,True,False,True
+Civics/Citizenship,Grade 9 ,1,ETHICAL VALUES,1.4,Aspects of applied ethics,True,False,True
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.1,The concept of digital technology,True,False,True
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.2,Culture and digital technology,True,False,True
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.3,The Purpose of digital technology,True,False,True
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.4,Codes of conduct for using digital technology,True,False,True
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.5,Effective communication through digital media,True,False,True
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.6,Challenges of using digital media,True,False,True
+Civics/Citizenship,Grade 9 ,3,CONSTITUTION AND CONSTITUTIONALISM,3.1,Understanding constitution,True,False,True
+Civics/Citizenship,Grade 9 ,3,CONSTITUTION AND CONSTITUTIONALISM,3.2,Understanding constitutionalism,True,False,True
+Civics/Citizenship,Grade 9 ,3,CONSTITUTION AND CONSTITUTIONALISM,3.3,Constitutional experiences of Ethiopia,True,False,True
+Civics/Citizenship,Grade 9 ,4,UNDERSTANDING INDIGENOUS KNOWLEDGE,4.1,The concept of indigenous knowledge,True,False,True
+Civics/Citizenship,Grade 9 ,4,UNDERSTANDING INDIGENOUS KNOWLEDGE,4.2,The role of indigenous knowledge in producing responsible citizens,True,False,True
+Civics/Citizenship,Grade 9 ,4,UNDERSTANDING INDIGENOUS KNOWLEDGE,4.3,The role of indigenous social institutions in solving problems of communities,True,False,True
+Civics/Citizenship,Grade 9 ,5,MULTICULTURALISM IN ETHIOPIA,5.1,Understanding culture,True,False,True
+Civics/Citizenship,Grade 9 ,5,MULTICULTURALISM IN ETHIOPIA,5.2,The concept of multiculturalism,True,False,True
+Civics/Citizenship,Grade 9 ,5,MULTICULTURALISM IN ETHIOPIA,5.3,Pillars of multicultural societies,True,False,True
+Civics/Citizenship,Grade 9 ,5,MULTICULTURALISM IN ETHIOPIA,5.4,Major forms of diversity demonstrating multiculturalism,True,False,True
+Civics/Citizenship,Grade 9 ,6,NATIONAL UNITY THROUGH DIVERSITY,6.1,Unity in diversity,True,False,True
+Civics/Citizenship,Grade 9 ,6,NATIONAL UNITY THROUGH DIVERSITY,6.2,Elements of diversity,True,False,True
+Civics/Citizenship,Grade 9 ,6,NATIONAL UNITY THROUGH DIVERSITY,6.3,Accomodation of diversity,True,False,True
+Civics/Citizenship,Grade 9 ,6,NATIONAL UNITY THROUGH DIVERSITY,6.4,The importance of diversity management in Ethiopia,True,False,True
+Civics/Citizenship,Grade 9 ,7,PROBLEM SOLVING SKILLS,7.1,Meaning of problem- solving skills,True,False,True
+Civics/Citizenship,Grade 9 ,7,PROBLEM SOLVING SKILLS,7.2,The importance of problem- solving skills,True,False,True
+Civics/Citizenship,Grade 9 ,7,PROBLEM SOLVING SKILLS,7.3,Characteristics of good problem solver,True,False,True
+Civics/Citizenship,Grade 9 ,7,PROBLEM SOLVING SKILLS,7.4,Ways to improve one's problem solving skills,True,False,True
+Civics/Citizenship,Grade 9 ,8,ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA,8.1,The concepts of foreign relations,True,False,True
+Civics/Citizenship,Grade 9 ,8,ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA,8.2,Instruments of foreign policy,True,False,True
+Civics/Citizenship,Grade 9 ,8,ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA,8.3,The roles of foreign policy,True,False,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.1 ,"Indifference Curve, Set and Map ",True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.2 ,Properties of Indifference Curves ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.3 ,The Marginal Rate of Substitution (MRS) ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.4 ,Marginal Utility and MRS ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.5 ,Special Types of Indifference Curves ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.3.1 ,Slope of the Budget Line ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.3.2 ,Factors Affecting the Budget Line ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.3.3 ,Effects of Changes in Income ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.3.4 ,Effects of Changes in Price of the Commodities ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.4.1 ,Effects of Changes in Income and Prices on Consumer's Equilibrium ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.4.2 ,Price Consumption Curve and Deriving the Demand Curve ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1Review Questions ,Review Questions ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1Unit Summary ,Unit Summary ,True,True,True
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,Introduction ,Introduction ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,1INTRODUCTION ,INTRODUCTION ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.2.1 ,"Demand, Revenue and Cost Curves ",True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.2.2 ,The Short-Run Equilibrium of Firm ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.2.3 ,Short Run Supply Curve of a Firm ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.2.4 ,Long run-equilibrium of Firm ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.3.1 ,"Demand, Revenue and Cost under Monopoly ",True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.3.2 ,Short-run equilibrium under Monopoly ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.3.3 ,Price Discrimination under Monopoly ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.4.1 ,Product Differentiations and the Demand Curve ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.4.2 ,Costs under Monopolistic Competition ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.4.3 ,Short- run Equilibrium under Monopolistic Competition ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.4.4 ,The Concept of Industry and Product Group ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.5,Oligopoly Market,False,False,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.5.1 ,Collusive Oligopoly ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.5.2 ,Non-collusive Oligopoly ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2Review Questions ,Review Questions ,True,True,True
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2Unit Summary ,Unit Summary ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,2INTRODUCTION ,INTRODUCTION ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.2.1 ,The Concept of Gross Domestic Product (GDP) ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.2.2 ,The concept of Gross National Product (GNP) ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.3.1 ,The Expenditure Approach ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.3.2 ,The Income Approach ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.3.3 ,Product or Value-added Approach ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.3.4 ,Circular Flow of Income and the GDP ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.5,The GDP Deflator and the Consumer Price Index,False,True,False
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.5.1 ,Nominal and Real GDP values ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.5.2 ,The GDP Deflator and other Measures of General Price ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.6,Other Measures of National Income Account,False,True,False
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.7,GDP and Income Distribution,False,True,False
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3Review Questions ,Review Questions ,True,True,True
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3Unit Summary ,Unit Summary ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",3INTRODUCTION ,INTRODUCTION ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.1.1 ,Average Propensity to Consume (APC) ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.1.2 ,Marginal Propensity to Consume (MPC) ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.1.3 ,Determinants of Consumption Expenditure ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.2.1 ,Average Propensity to Save (APS) ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.2.2 ,Marginal Propensity to Save ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.2.3 ,Determinants of Saving ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.4.1 ,Investment Types ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.4.2 ,Determinants of Investment ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.4.3 ,Role of Investment in Economic Growth ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4Review Questions ,Review Questions ,True,True,True
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4Unit Summary ,Unit Summary ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,4INTRODUCTION ,INTRODUCTION ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.3.1 ,The Mercantilists' View on Trade ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.3.2 ,The Classical Trade Theories ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.4.1 ,The Current Account (CA) ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.4.2 ,The Capital Account (KA) ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.6.1 ,Nominal and Real Exchange Rate. ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.6.2 ,Fixed Exchange Rate Systems ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.6.3 ,Floating Exchange Rate Systems ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.7.1 ,Advantages and Disadvantages of Economic Integration ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.7.2 ,Globalization Practices in Ethiopian Context ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5Review Questions ,Review Questions ,True,True,True
+Economics,Grade 11 ,5,TRADE AND FINANCE,5Unit Summary ,Unit Summary ,True,True,True
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,5INTRODUCTION ,INTRODUCTION ,True,True,True
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,6.3.1 ,Ethiopia's HDI Value and Rank ,True,True,True
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,6.3.2 ,Evaluation of HDI and its Relevance to Developing Countries ,True,True,True
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,6Review Questions ,Review Questions ,True,True,True
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,6Unit Summary ,Unit Summary ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",6INTRODUCTION ,INTRODUCTION ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.1.1 ,Uni-modal Agricultural Strategy ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.1.2 ,Bi-Modal Agricultural Strategy ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.1.3 ,Overview of Agricultural Policies and Strategies of Ethiopia ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.1 ,The Imperial Regime (pre-1974) ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.2 ,The Derg Regime (1974-91) ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.3 ,The Post-1991 Regime ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.4 ,Problems of the Industrial Sector Post 1991 ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.5 ,Possible Remedies for the problems of Industrial Sector ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.5.1 ,Education Sector Policies and Strategies ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.5.2 ,The Health Sector Policies and Strategies ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.5.3 ,The Transport Sector ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.5.4 ,The Tourism Sector ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7Review Questions ,Review Questions ,True,True,True
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7Unit Summary ,Unit Summary ,True,True,True
+Economics,Grade 12,1,The Fundamental Concepts of Macroeconomics,1.1,Definition and Focus Areas of Macroeconomics Revisited,True,False,False
+Economics,Grade 12,1,The Fundamental Concepts of Macroeconomics,1.2,Key Challenges in Macroeconomics,True,False,False
+Economics,Grade 12,1,The Fundamental Concepts of Macroeconomics,1.3,The Schools of Thought in Macroeconomic Analysis,True,False,False
+Economics,Grade 12,2,Aggregate Demand and Aggregate Supply Analysis,2.1,Aggregate Demand,True,False,False
+Economics,Grade 12,2,Aggregate Demand and Aggregate Supply Analysis,2.2,Aggregate Supply,True,False,False
+Economics,Grade 12,2,Aggregate Demand and Aggregate Supply Analysis,2.3,Equilibrium of Aggregate Demand and Aggregate Supply,True,False,False
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.1,Market Failure,True,False,False
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.2,Public Goods,True,False,False
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.3,Externalities,True,False,False
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.4,Asymmetric Information,True,False,False
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.5,Consumer Protection,True,False,False
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.1,Definition and Types of Macroeconomic Policies,True,False,True
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.2,Fiscal Policy,True,False,True
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.3,Monetary Policy,True,False,True
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.4,Income Policy and Wage,True,False,True
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.5,Foreign Exchange Policies,True,False,True
+Economics,Grade 12,5,Tax Theory and Practice,5.1,"Taxes: Definition, Principles, Objectives and Classifications",True,False,False
+Economics,Grade 12,5,Tax Theory and Practice,5.2,Approaches to Tax Equity,True,False,False
+Economics,Grade 12,5,Tax Theory and Practice,5.3,Tax System and Structure in Ethiopia,True,False,False
+Economics,Grade 12,5,Tax Theory and Practice,5.4,Types of Tax and Tax Accounting in Ethiopia,True,False,False
+Economics,Grade 12,5,Tax Theory and Practice,5.5,Problems Associated with Taxation in Ethiopia,True,False,False
+Economics,Grade 12,6,Poverty and Inequality,6.1,Concept of Poverty and Its Measurement,True,False,False
+Economics,Grade 12,6,Poverty and Inequality,6.2,Concept of Inequality and its Measurements,True,False,False
+Economics,Grade 12,6,Poverty and Inequality,6.3,Global and Regional Poverty,True,False,False
+Economics,Grade 12,6,Poverty and Inequality,6.4,Women and Poverty,True,False,False
+Economics,Grade 12,6,Poverty and Inequality,6.5,Overview of Poverty and Inequalities in Ethiopia,True,False,False
+Economics,Grade 12,6,Poverty and Inequality,6.6,Role of Indigenous Knowledge in Reducing Poverty,True,False,False
+Economics,Grade 12,7,Macroeconomic Reforms in Ethiopia,7.1,National Development Objectives and Strategies- Historical Review,True,False,False
+Economics,Grade 12,7,Macroeconomic Reforms in Ethiopia,7.2,Overview of Home-grown Economic Reforms in Ethiopia,True,False,False
+Economics,Grade 12,7,Macroeconomic Reforms in Ethiopia,7.3,Fiscal Decentralization,True,False,False
+Economics,Grade 12,8,"Economy, Environment and Climate Change",8.1,Economy and the Environment,True,False,False
+Economics,Grade 12,8,"Economy, Environment and Climate Change",8.2,Global Warming and Climate Change,True,False,False
+Economics,Grade 12,8,"Economy, Environment and Climate Change",8.3,Green Economy and Green Growth,True,False,False
+Economics,Grade 12,8,"Economy, Environment and Climate Change",8.4,Overview of Environment and Climate Change in Ethiopia,True,False,False
+Economics,Grade 9 ,1,Introduction to Economics,1.4,Decision Making Units,False,False,True
+Economics,Grade 9 ,3,Economic Resources and Markets,3.5,Land as an Economic Resource in Ethiopia,False,False,True
+Geography,Grade 10 ,1,LANDFORMS OF AFRICA,1.4,Challenges of the Natural Environment,True,True,True
+Geography,Grade 11 ,7,GEOGRAPHIC ISSUES AND PUBLIC CONCERNS,7.5,THE WORLDWIDE DIGITAL DIVIDE,False,False,True
+Geography,Grade 12,2,Climate Change,2.4,Consequences of Climate Change,False,False,True
+Geography,Grade 12,2,Climate Change,2.5,Adaptation and Mitigation Strategies to Climate Change,False,False,True
+Geography,Grade 12,2,Climate Change,2.6,International conventions and agreements on climate change,False,False,True
+Geography,Grade 12,2,Climate Change,2.7,Pillars of Climate Resilient Green Economy of Ethiopia,False,False,True
+Geography,Grade 12,5,Issues in Sustainable Development III: Challenges of Economic Development,5.4,Corruption,True,False,False
+Geography,Grade 12,5,Issues in Sustainable Development III: Challenges of Economic Development,5.5,Global Health Crises,True,False,False
+Geography,Grade 9 ,2,CLIMATE OF ETHIOPIA,2.5,MEASUREMENTS OF WEATHER AND CLIMATE,True,False,False
+Geography,Grade 9 ,4,POPULATION AND DEMOGRAPHIC CHARACTERISTICS OF ETHIOPIA,4.6,HEALTH AND DISEASE IN ETHIOPIA,True,False,False
+Geography,Grade 9 ,4,POPULATION AND DEMOGRAPHIC CHARACTERISTICS OF ETHIOPIA,4.7,IMPACTS OF POPULATION GROWTH ON SUSTAINABLE DEVELOPMENT IN ETHIOPIA,True,False,False
+Geography,Grade 9 ,4,POPULATION AND DEMOGRAPHIC CHARACTERISTICS OF ETHIOPIA,4.8,LANGUAGE AND RELIGIOUS DIVERSITY IN ETHIOPIA,True,False,False
+Geography,Grade 9 ,5,MAJOR ECONOMIC AND CULTURAL ACTIVITIES IN ETHIOPIA,5.6,Cultural Landscape and Tourism in Ethiopia,True,True,False
+Geography,Grade 9 ,7,CONTEMPORARY GEOGRAPHIC ISSUES AND PUBLIC CONCERNS IN ETHIOPIA,7.1,NATURAL RESOURCE DEGRADATION,False,False,True
+Geography,Grade 9 ,7,CONTEMPORARY GEOGRAPHIC ISSUES AND PUBLIC CONCERNS IN ETHIOPIA,7.2,THE ETHIOPIAN GREEN LEGACY MOVEMENT,True,False,True
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.1,MAP AND ITS BASIC COMPONENTS,True,False,True
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.2,"SCALE, SCALE CONVERSION AND MEASUREMENTS ON MAPS",True,False,True
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.3,POSITION ON MAPS,True,False,True
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.4,MAP SKETCHING,True,False,True
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.5,INTERPRETING MAPS AND GRAPHS,True,False,True
+Health science,Grade 10 ,4,FOOTBALL,4.3,Consequences and Prevention,True,True,True
+Health science,Grade 10 ,5,VOLLEY BALL,5.3,Principles of Exercise and Training,True,True,True
+Health science,Grade 9 ,7,HANDBALL,7.4,Modified game related to handball,False,True,False
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.1,Features of Capitalism,True,False,True
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.2,Features of Nationalism and Formation of Nation States,True,False,False
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.3,The Reformation,True,True,True
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.4,Nationalism and the Eastern Question,True,True,True
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.5,The Enlightenment,True,True,True
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.6,The Industrial Revolution,True,True,True
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.1,General Background to Colonialism,True,False,False
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.2,The Motives of European Colonialism,True,False,False
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.3,Scramble for Africa and the Berlin Conference,True,False,False
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.4,Colonial Policies and Administration,True,False,False
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.5,Early African Resistance Movements Against Colonialism,True,False,False
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.1,Long Distance Trade in 19th Century and the Cottage Industry,True,False,False
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.2,The Making of Modern Ethiopian State 1855-1913,True,False,False
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.3,"External Aggressions and the Unity of Ethiopian People in Defence of National Sovereignty, 1871-1896",True,False,False
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.4,The Inception of Power Struggle among the Ruling Elites 1906 to 1935,True,False,False
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.5,Fascist Italian Aggression and Patriotic Resistance,True,False,False
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.1,"The First World War: Causes, Course and the Consequence",True,False,False
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.2,"The October 1917 Russian Revolution: Cause, Course and Results",True,False,False
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.3,The League of Nations,True,False,False
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.4,The Worldwide Economic Crisis,True,False,False
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.5,"The Rise of Fascism in Italy, Nazism in Germany and Militarism in Japan",True,False,True
+History,Grade 10 ,5,GLOBAL AND REGIONAL DEVELOPMENTS SINCE 1945,5.1,"The United Nations Organization: Formation, Mission, Principles and Achievements",True,False,False
+History,Grade 10 ,5,GLOBAL AND REGIONAL DEVELOPMENTS SINCE 1945,5.2,The Rise of the Superpowers and the Beginning of the Cold War,True,False,False
+History,Grade 10 ,5,GLOBAL AND REGIONAL DEVELOPMENTS SINCE 1945,5.3,"Situations in Asia During the Cold War: Japan, Korea, China, Vietnam",True,True,False
+History,Grade 10 ,5,GLOBAL AND REGIONAL DEVELOPMENTS SINCE 1945,5.4,Non-Aligned Movement /NAM/,True,False,False
+History,Grade 10 ,6,ETHIOPIA: INTERNAL DEVELOPMENTS & EXTERNAL INFLUENCES FROM 1941 TO 1991,6.1,Major Administrative Reforms and Socio-Economic Conditions in the Post-Liberation Period,True,True,False
+History,Grade 10 ,6,ETHIOPIA: INTERNAL DEVELOPMENTS & EXTERNAL INFLUENCES FROM 1941 TO 1991,6.2,Early Opposition Movements Against the Imperial Rule,True,True,False
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1.1,History and Historiography,True,False,False
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1.2,Origin of Human Beings,True,False,False
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1.3,The Emergence of States,True,False,False
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1Introduction,Introduction,True,True,True
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1Review Questions,Review Questions,True,True,True
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1Unit Summary,Unit Summary,True,True,True
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2.1,Ancient Civilizations of Africa,True,False,False
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2.2,Civilizations in Asia,True,False,False
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2.3,Civilizations in Europe,True,False,False
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2.4,Civilizations in Latin America,True,False,False
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2Introduction,Introduction,True,True,True
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2Review Questions,Review Questions,True,True,True
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2Unit Summary,Unit Summary,True,True,True
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.1,"Languages, Religions and Peoples of Ethiopia and the Horn",True,False,False
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.2,Pre-Aksumite States and their Geographical Setting,True,False,False
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.3,The Aksumite Kingdom,True,False,False
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.4,The Sultanate of Shewa,True,False,False
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.5,Zagwe Dynasty,True,False,False
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.6,The Kingdom of Damot,True,False,False
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.7,The Bete-Israel (Ethiopian Jews),True,False,False
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.8,The Sultanates of Eastern and Central Ethiopia and the Horn,True,True,True
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3Introduction,Introduction,True,True,True
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3Review Questions,Review Questions,True,True,True
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3Unit Summary,Unit Summary,True,True,True
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.1,The European Middle Ages,True,False,False
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.2,Main Features of the Middle Ages,True,False,False
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.3,The Middle Ages in Asia,True,False,False
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.4,Development of Early Capitalism: 1500-1789,True,False,False
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.5,The Age of Exploration and Inception of Globalization,True,False,False
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4Introduction,Introduction,True,True,True
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4Review Questions,Review Questions,True,True,True
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4Unit Summary,Unit Summary,True,True,True
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.1,Ancient and Medieval African States,True,False,False
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.2,North Africa,True,False,False
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.3,Spread of Islam to North Africa,True,False,False
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.4,States in West Africa,True,False,False
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.5,Central and Eastern Africa,True,False,False
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.6,Southern Africa,True,False,False
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.7,Relationships and Exchanges among Different Regions of Africa,True,False,False
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.8,Major Developments in Asia in the 19th Century,True,True,True
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5Introduction,Introduction,True,True,True
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5Review Questions,Review Questions,True,True,True
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5Unit Summary,Unit Summary,True,True,True
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.1,Medieval African States,True,False,False
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.2,Contacts with the Outside World,True,False,False
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.3,Slavery and Slave Trade in Africa,True,False,False
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.4,The Legitimate Trade,True,False,False
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.5,The White Settlement in South Africa,True,False,False
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6Introduction,Introduction,True,True,True
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6Review Questions,Review Questions,True,True,True
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6Unit Summary,Unit Summary,True,True,True
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.1,The Christian Highland KingdomundertheRestoredSolomonicDynasty,True,False,False
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.2,The Expansion of Islam and the Emergence of Muslim Sultanates,True,False,False
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.3,Political and Socio-Economic Conditions of the Southern and Central States in Ethiopia,True,False,False
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.4,Relationship between the Christian Highland Kingdom and the Muslim Sultanate ofAdal,True,False,False
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.5,Population Movements in the Ethiopian Region,True,False,False
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.6,Economic Depression of 1929-1933,True,True,True
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.7,The Second World War (WWII),True,True,True
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7Introduction,Introduction,True,True,True
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7Review Questions,Review Questions,True,True,True
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7Unit Summary,Unit Summary,True,True,True
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.1,"Peoples and States of Southern, Western and Eastern Ethiopia",True,False,False
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.2,"Instability Versus Consolidation in the Christian Kingdom, 1559-1855",True,False,False
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.3,Italian Imperialism in the Horn of Africa,True,True,True
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.4,Resistance against Imperialism in Ethiopia and the Horn,True,True,True
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.5,Fascist Italian Invasion and the Period of Occupation,True,True,True
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.6,Restoration and Consolidation of Ethiopian Independence,True,True,True
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8Introduction,Introduction,True,True,True
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8Review Questions,Review Questions,True,True,True
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8Unit Summary,Unit Summary,True,True,True
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.1,Development of Capitalism,True,False,False
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.2,The Industrial Revolution,True,False,False
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.3,Nationalism,True,False,False
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.4,Unification of Italy,True,False,False
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.5,Unification of Germany,True,False,False
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.6,The American Civil War,True,False,False
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.7,The Eastern Question,True,False,False
+History,Grade 12,2,Africa and the Colonial Experience (1880s - 1960s),2.1,The Era of Legitimate Trade and Colonial Empires,True,False,False
+History,Grade 12,2,Africa and the Colonial Experience (1880s - 1960s),2.2,African Resistance against Colonial Expansion,True,False,False
+History,Grade 12,2,Africa and the Colonial Experience (1880s - 1960s),2.3,Colonial Administration and the Colonial States,True,False,False
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.1,Long Distance Trade and Peoples' Interaction in Ethiopia in the 19th Century,True,False,False
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.2,"Power Rivalry and Consolidating Central Government, 1855-1913",True,False,False
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.3,Territorial Expansion and the Incorporation of Kingdoms,True,False,False
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.4,"External Relations, Challenges and Threats",True,False,False
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.5,The Victory of Adwa,True,False,False
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.6,Religious Reforms,True,False,False
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.7,"Power Struggle among Ruling Elites, 1906-1935",True,False,False
+History,Grade 12,4,"Society and Politics in the Age of World Wars, 1914 - 1945",4.1,World War I and Its Settlement,True,False,False
+History,Grade 12,4,"Society and Politics in the Age of World Wars, 1914 - 1945",4.2,The Russian Revolution of 1917,True,False,False
+History,Grade 12,4,"Society and Politics in the Age of World Wars, 1914 - 1945",4.3,"Interwar Period: Capitalist Economy, Fascism and Nazism",True,False,False
+History,Grade 12,4,"Society and Politics in the Age of World Wars, 1914 - 1945",4.4,World War II,True,False,False
+History,Grade 12,5,Global and Regional Developments Since 1945,5.1,The Aftermath and Consequences of WW II,True,False,False
+History,Grade 12,5,Global and Regional Developments Since 1945,5.2,The United Nations Organization (the UN),True,False,False
+History,Grade 12,5,Global and Regional Developments Since 1945,5.3,The Post-War Global Socio-Economic Recovery and Developments,True,False,False
+History,Grade 12,5,Global and Regional Developments Since 1945,5.4,The Cold War Realities,True,False,False
+History,Grade 12,5,Global and Regional Developments Since 1945,5.5,Situations in Asia during the Cold War,True,False,False
+History,Grade 12,5,Global and Regional Developments Since 1945,5.6,The Middle East,True,False,False
+History,Grade 12,5,Global and Regional Developments Since 1945,5.7,The Dissolution of the Communist Bloc and the Aftermath,True,False,False
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.1,The Restoration of the Imperial Rule and External Influences,True,False,False
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.2,Socio-economic Conditions and Social Organizations,True,False,False
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.3,Consolidation of Autocracy and Oppositions to the Monarch,True,False,False
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.4,The 1974 Revolution: The Downfall of the Emperor and the Rise of the Derg,True,False,False
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.5,Socio-economic and Political Reforms of the Military Regime,True,False,False
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.6,The Decline and Downfall of the Derg Regime: Internal and External Threats,True,False,False
+History,Grade 12,7,Africa since the 1960s,7.1,The Road to Independence and the Rise of Independent States in Africa,True,False,False
+History,Grade 12,7,Africa since the 1960s,7.2,Politics in Independent African States,True,False,False
+History,Grade 12,7,Africa since the 1960s,7.3,Economy and Society in Independent Africa,True,False,False
+History,Grade 12,7,Africa since the 1960s,7.4,The Cold War and Africa,True,False,False
+History,Grade 12,7,Africa since the 1960s,7.5,"Pan-Africanism, from Organization of African Unity to African Union",True,False,False
+History,Grade 12,8,Post 1991 Developments in Ethiopia,8.1,The Transitional Government of Ethiopia,True,False,False
+History,Grade 12,8,Post 1991 Developments in Ethiopia,8.2,Ethiopia after the 1995 Constitution,True,False,False
+History,Grade 12,8,Post 1991 Developments in Ethiopia,8.3,Socio-Economic Issues,True,False,False
+History,Grade 12,8,Post 1991 Developments in Ethiopia,8.4,The Role of Ethiopia in Peace Keeping,True,False,False
+History,Grade 12,9,Indigenous Knowledge Systems and Heritages of Ethiopia,9.1,Indigenous Knowledge: Definition and Unique Characteristic Features,True,False,False
+History,Grade 12,9,Indigenous Knowledge Systems and Heritages of Ethiopia,9.2,Indigenous knowledge and Development,True,False,False
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.2.1,The importance of History,True,True,True
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.2.2,Historiography and Historical interpretations.,True,True,True
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.2.3,Sources of History.,True,True,True
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.2.4,Dating in History,True,True,True
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.3.1,Theories of Human Evolution,True,True,True
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.3.2,Africa and Human Evolution,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.1.1,Ancient Egypt.....,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.1.2,Nubia.,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.2.1,Mesopotamia,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.2.2,Persia.....,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.2.3,India,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.2.4,China,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.3.1,Maya,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.3.2,Inca,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.3.3,Aztecs.,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.4.1,Ancient Greek Civilization,True,True,True
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.4.2,Ancient Roman Civilization,True,True,True
+History,Grade 9 ,3,PEOPLE AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.,3.1.1,Languages Families,True,True,True
+History,Grade 9 ,3,PEOPLE AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.,3.1.2,Major Religions of Ethiopia,True,True,True
+History,Grade 9 ,3,PEOPLE AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.,3.1.3,Settlement Pattern of Peoples of Ethiopia,True,True,True
+History,Grade 9 ,3,PEOPLE AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.,3.6,The Sultanate of Shewa,True,True,True
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.1.1,Dark Age,True,True,True
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.1.2,Feudal Society..,True,True,True
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.1.3,Byzantine Empire.,True,True,True
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.2.1,The Rise and Expansion of Islam,True,True,True
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.2.2,The Expansion of the Ottoman Empire,True,True,True
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.2.3,Dynastic Cycle in China,True,True,True
+History,Grade 9 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16TH TO MID-19TH C.",8.1,"Peoples and States of the Eastern, Central, Southern and Western Regions",False,True,False
+History,Grade 9 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16TH TO MID-19TH C.",8.1.1,Southern states,True,False,True
+History,Grade 9 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16TH TO MID-19TH C.",8.1.2,Western states,True,False,True
+History,Grade 9 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16TH TO MID-19TH C.",8.1.3,"Eastern States: Harar, Afar, Somali",True,False,True
+History,Grade 9 ,9,THE AGE OF REVOLUTION: 1750s TO 1815,9.1.1,"Political, Economic, and Social Effects of Industrial Revolution.",True,True,True
+Information Tech,Grade 10 ,1,ORGANIZATION OF FILES,1.1,File Compression,False,False,True
+Information Tech,Grade 10 ,1,ORGANIZATION OF FILES,1.3,Storage Drives,False,False,True
+Information Tech,Grade 10 ,2,COMPUTER NETWORK,2.1,Unit Overview,False,False,True
+Information Tech,Grade 10 ,3,APPLICATION SOFTWARE,3.1,Unit overview,False,False,True
+Information Tech,Grade 10 ,4,IMAGE PROCESSING AND MULTIMEDIA,4.1,Unit Overview,False,False,True
+Information Tech,Grade 10 ,5,INFORMATION AND COMPUTER SECURITY,5.1,Unit Overview,False,False,True
+Information Tech,Grade 12,1,Information Systems and their Applications,1.1,"Ethical, Legal, Social, Environmental and Health Issues in the Use of Information Systems",True,True,False
+Information Tech,Grade 12,1,Information Systems and their Applications,1.2,Intellectual Property,True,True,False
+Information Tech,Grade 12,1,Information Systems and their Applications,1.3,Digital Identity Management,True,True,False
+Information Tech,Grade 12,1,Information Systems and their Applications,1.4,Collaboration Through Digital Technologies,True,True,False
+Information Tech,Grade 12,1,Information Systems and their Applications,1.5,Engaging in Citizenship through Digital Technologies,True,True,False
+Information Tech,Grade 12,2,Emerging Technologies,2.1,Introduction to Bigdata,True,True,False
+Information Tech,Grade 12,2,Emerging Technologies,2.2,Cloud Computing,True,True,False
+Information Tech,Grade 12,2,Emerging Technologies,2.3,Fog Computing,True,True,False
+Information Tech,Grade 12,2,Emerging Technologies,2.4,Internet of Things (IoT),True,True,False
+Information Tech,Grade 12,3,Database Management System,3.1,Overview of Relational Database Management System,True,True,False
+Information Tech,Grade 12,3,Database Management System,3.2,Database Manipulation Using SQL,True,True,False
+Information Tech,Grade 12,4,Web Authoring,4.1,Introduction to XML,True,True,False
+Information Tech,Grade 12,4,Web Authoring,4.2,HTML vs. XML,True,True,False
+Information Tech,Grade 12,4,Web Authoring,4.3,Publishing Website,True,True,False
+Information Tech,Grade 12,5,Maintenance and Troubleshooting,5.1,Install and uninstall software,True,True,False
+Information Tech,Grade 12,5,Maintenance and Troubleshooting,5.2,Software Troubleshooting,True,True,False
+Information Tech,Grade 12,5,Maintenance and Troubleshooting,5.3,Tools to speedup computer system,True,True,False
+Information Tech,Grade 12,5,Maintenance and Troubleshooting,5.4,Network Troubleshooting,True,True,False
+Information Tech,Grade 12,6,Fundamentals of Programming,6.1,Program Flow Controls and Syntax in Python,True,True,False
+Information Tech,Grade 12,6,Fundamentals of Programming,6.2,Comments in Python,True,True,False
+Information Tech,Grade 12,6,Fundamentals of Programming,6.3,Python Interpreter,True,True,False
+Information Tech,Grade 12,6,Fundamentals of Programming,6.4,Testing and Debugging Programs,True,True,False
+Information Tech,Grade 9 ,1,ORGANIZATION OF FILES,1.1,Basics of Files and Folders,False,False,True
+Information Tech,Grade 9 ,1,ORGANIZATION OF FILES,1.4,Unit Summary,True,False,False
+Information Tech,Grade 9 ,1,ORGANIZATION OF FILES,1.5,Unit Review Exercise,True,False,True
+Information Tech,Grade 9 ,2,COMPUTER NETWORK,2.5,Unit Summary,True,False,False
+Information Tech,Grade 9 ,2,COMPUTER NETWORK,2.6,Unit Review Exercise,True,False,False
+Information Tech,Grade 9 ,3,APPLICATION SOFTWARE,3.5,Unit Summary,True,False,False
+Information Tech,Grade 9 ,3,APPLICATION SOFTWARE,3.6,Unit Review Exercise,True,False,True
+Information Tech,Grade 9 ,4,IMAGE PROCESSING AND MULTIMEDIA,4.4,Unit Summary,True,False,False
+Information Tech,Grade 9 ,4,IMAGE PROCESSING AND MULTIMEDIA,4.5,Unit Review Exercise,True,False,True
+Information Tech,Grade 9 ,5,INFORMATION AND COMPUTER SECURITY,5.6,Unit Summary,True,False,False
+Information Tech,Grade 9 ,5,INFORMATION AND COMPUTER SECURITY,5.7,Unit Review Exercise,True,True,True
+Information Tech,Grade 9 ,6,FUNDAMENTALS OF PROGRAMMING,6.4,Problem Solving Approaches,False,False,True
+Information Tech,Grade 9 ,6,FUNDAMENTALS OF PROGRAMMING,6.5,Unit Summary,False,False,True
+Information Tech,Grade 9 ,6,FUNDAMENTALS OF PROGRAMMING,6.6,Unit Review Exercise,False,True,True
+Mathematics,Grade 10 ,1,RELATIONS AND FUNCTIONS,1.1,Relations,False,True,True
+Mathematics,Grade 10 ,1,RELATIONS AND FUNCTIONS,1.2,Functions,False,True,True
+Mathematics,Grade 10 ,1,RELATIONS AND FUNCTIONS,1.3,Applications of Relations and Functions,True,True,True
+Mathematics,Grade 10 ,1,RELATIONS AND FUNCTIONS,1.4,Operations on Functions,True,True,True
+Mathematics,Grade 10 ,1,RELATIONS AND FUNCTIONS,1.5,Inverse of a Function,True,True,True
+Mathematics,Grade 10 ,2,POLYNOMIAL FUNCTIONS,2.1,Definition of Polynomial Function,False,False,True
+Mathematics,Grade 10 ,2,POLYNOMIAL FUNCTIONS,2.2,Operations on polynomial functions,False,False,True
+Mathematics,Grade 10 ,2,POLYNOMIAL FUNCTIONS,2.3,Theorem on polynomial functions,False,False,True
+Mathematics,Grade 10 ,2,POLYNOMIAL FUNCTIONS,2.4,Zeros of polynomial functions,False,False,True
+Mathematics,Grade 10 ,3,EXPONENTIAL AND LOGARITHMIC FUNCTIONS,3.1,Exponents and Logarithms,False,True,True
+Mathematics,Grade 10 ,3,EXPONENTIAL AND LOGARITHMIC FUNCTIONS,3.2,The Exponential functions and Their Graphs,False,True,True
+Mathematics,Grade 10 ,3,EXPONENTIAL AND LOGARITHMIC FUNCTIONS,3.3,The Logarithmic Functions and Their Graphs,False,True,True
+Mathematics,Grade 10 ,4,TRIGONOMETRIC FUNCTIONS,4.1,Radian Measure of angle,False,False,True
+Mathematics,Grade 10 ,4,TRIGONOMETRIC FUNCTIONS,4.2,Basic Trigonometric Function,False,True,True
+Mathematics,Grade 10 ,4,TRIGONOMETRIC FUNCTIONS,4.3,Trigonometric Identities & Equation,False,False,True
+Mathematics,Grade 10 ,4,TRIGONOMETRIC FUNCTIONS,4.4,Application,False,False,True
+Mathematics,Grade 10 ,4,TRIGONOMETRIC FUNCTIONS,4.5,Applications of Trigonometry,True,True,True
+Mathematics,Grade 10 ,5,CIRCLE,5.1,Symmetrical properties of circles,False,False,True
+Mathematics,Grade 10 ,5,CIRCLE,5.2,Angle properties of circles,False,False,True
+Mathematics,Grade 10 ,5,CIRCLE,5.3,"Arc length, perimeters and areas of segments and sectors Arc length",False,False,True
+Mathematics,Grade 10 ,5,CIRCLE,5.4,"Theorems on angles and arcs determined by lines intersecting inside, on and outside a circle",False,False,True
+Mathematics,Grade 10 ,6,SOLID FIGURES,6.1,Revision of prisms and cylinders,False,False,True
+Mathematics,Grade 10 ,6,SOLID FIGURES,6.2,"Pyramids, cones and spheres",False,False,True
+Mathematics,Grade 10 ,6,SOLID FIGURES,6.3,Frustum of pyramids and cones,True,False,True
+Mathematics,Grade 10 ,7,COORDINATE GEOMETRY,7.1,Distance between two points,False,False,True
+Mathematics,Grade 10 ,7,COORDINATE GEOMETRY,7.2,Division of a line segment,False,False,True
+Mathematics,Grade 10 ,7,COORDINATE GEOMETRY,7.3,Equation of a line,False,False,True
+Mathematics,Grade 10 ,7,COORDINATE GEOMETRY,7.4,Slopes of parallel and perpendicular lines,False,False,True
+Mathematics,Grade 10 ,7,COORDINATE GEOMETRY,7.5,Equation of a Circle,False,False,True
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.1,Collection and Organization of Data,True,True,True
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.2,Data Presentation,True,True,True
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.3,Measures of Central Tendency,True,True,True
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.4,Measures of Dispersion,True,True,True
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.5,Probability,True,True,True
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.1,Sequence,True,True,True
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.2,Arithmetic and Geometric Sequences,True,True,True
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.3,The Sigma Notation and Partial Sums,True,True,True
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.4,Infinite Series,True,True,True
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.5,Applications of Sequence and Series in Daily life,True,True,True
+Mathematics,Grade 12,2,INTRODUCTIONS TO CALCULUS,2.1,Introduction to Derivatives,True,True,True
+Mathematics,Grade 12,2,INTRODUCTIONS TO CALCULUS,2.2,Application of Derivative,True,True,True
+Mathematics,Grade 12,2,INTRODUCTIONS TO CALCULUS,2.3,Introduction to Integration,True,True,True
+Mathematics,Grade 12,3,STATISTICS,3.1,Measures of Absolute Dispersions,True,True,True
+Mathematics,Grade 12,3,STATISTICS,3.2,Interpretation of Relative Dispersions,True,True,True
+Mathematics,Grade 12,3,STATISTICS,3.3,Use of Frequency Curves,True,True,True
+Mathematics,Grade 12,3,STATISTICS,3.4,Sampling Techniques,True,True,True
+Mathematics,Grade 12,4,INTRODUCTION TO LINEAR PROGRAMMING,4.1,Graphical Solutions of System of Linear Inequalities,True,True,True
+Mathematics,Grade 12,4,INTRODUCTION TO LINEAR PROGRAMMING,4.2,Maximum and Minimum Values,True,True,True
+Mathematics,Grade 12,4,INTRODUCTION TO LINEAR PROGRAMMING,4.3,Applications,True,True,True
+Mathematics,Grade 12,5,MATHEMATICAL APPLICATIONS IN BUSINESS,5.1,Basic Mathematical Concepts in Business,True,True,True
+Mathematics,Grade 12,5,MATHEMATICAL APPLICATIONS IN BUSINESS,5.2,Time Value of Money,True,True,True
+Mathematics,Grade 12,5,MATHEMATICAL APPLICATIONS IN BUSINESS,5.3,"Saving, Investing and Borrowing Money",True,True,True
+Mathematics,Grade 12,5,MATHEMATICAL APPLICATIONS IN BUSINESS,5.4,Taxation,True,True,True
+Mathematics,Grade 9 ,1,FURTHER ON SETS,1.1,Sets and Elements,False,False,True
+Mathematics,Grade 9 ,1,FURTHER ON SETS,1.2,Set Description,False,False,True
+Mathematics,Grade 9 ,1,FURTHER ON SETS,1.3,The Notion of Sets,False,False,True
+Mathematics,Grade 9 ,1,FURTHER ON SETS,1.4,Operations on Sets,False,False,True
+Mathematics,Grade 9 ,1,FURTHER ON SETS,1.5,Application,False,False,True
+Mathematics,Grade 9 ,2,THE NUMBER SYSTEM,2.1,Revision on Natural Numbers and Integers,False,False,True
+Mathematics,Grade 9 ,2,THE NUMBER SYSTEM,2.2,Rational Numbers,False,False,True
+Mathematics,Grade 9 ,2,THE NUMBER SYSTEM,2.3,Irrational Numbers,False,False,True
+Mathematics,Grade 9 ,2,THE NUMBER SYSTEM,2.4,Real Numbers,False,False,True
+Mathematics,Grade 9 ,2,THE NUMBER SYSTEM,2.5,Applications,False,False,True
+Mathematics,Grade 9 ,3,SOLVING EQUATIONS,3.1,Revision on Linear Equation in One Variable,False,False,True
+Mathematics,Grade 9 ,3,SOLVING EQUATIONS,3.2,Systems of Linear Equations in Two Variables,False,True,True
+Mathematics,Grade 9 ,3,SOLVING EQUATIONS,3.3,Solving Non-linear Equations,False,True,True
+Mathematics,Grade 9 ,3,SOLVING EQUATIONS,3.4,Applications of Equations,False,False,True
+Mathematics,Grade 9 ,4,SOLVING INEQUALITIES,4.1,Revision on Linear Inequalities in One Variable,False,False,True
+Mathematics,Grade 9 ,4,SOLVING INEQUALITIES,4.2,Systems of Linear Inequalities in Two Variables,False,False,True
+Mathematics,Grade 9 ,4,SOLVING INEQUALITIES,4.3,Inequalities Involving Absolute Value,False,True,True
+Mathematics,Grade 9 ,4,SOLVING INEQUALITIES,4.4,Quadratic Inequalities,False,False,True
+Mathematics,Grade 9 ,4,SOLVING INEQUALITIES,4.5,Applications of Inequalities,False,False,True
+Mathematics,Grade 9 ,5,INTRODUCTION TO TRIGONOMETRY,5.1,Revision on Right-angled Triangles,False,False,True
+Mathematics,Grade 9 ,5,INTRODUCTION TO TRIGONOMETRY,5.2,Trigonometric Ratios,False,False,True
+Mathematics,Grade 9 ,6,REGULAR POLYGONS,6.1,Sum of Interior Angles of a Convex Polygon,False,False,True
+Mathematics,Grade 9 ,6,REGULAR POLYGONS,6.2,Sum of Exterior Angles of a Convex Polygon,False,False,True
+Mathematics,Grade 9 ,6,REGULAR POLYGONS,6.3,Measures of Each Interior Angle and Exterior Angle of a Regular Polygon,False,False,True
+Mathematics,Grade 9 ,6,REGULAR POLYGONS,6.4,Properties of Regular Polygons,False,False,True
+Mathematics,Grade 9 ,7,CONGRUENCY AND SIMILARITY,7.1,Revision on Congruency of Triangles,False,False,True
+Mathematics,Grade 9 ,7,CONGRUENCY AND SIMILARITY,7.2,Definition of Similar Figures,False,False,True
+Mathematics,Grade 9 ,7,CONGRUENCY AND SIMILARITY,7.3,Theorems on Similar Plane Figures,False,False,True
+Mathematics,Grade 9 ,7,CONGRUENCY AND SIMILARITY,7.4,Ratio of Perimeters of Similar Plane Figures,False,False,True
+Mathematics,Grade 9 ,7,CONGRUENCY AND SIMILARITY,7.5,Ratio of Areas of Similar Plane Figures,False,False,True
+Mathematics,Grade 9 ,7,CONGRUENCY AND SIMILARITY,7.6,Construction of Similar Plane Figure,False,True,True
+Mathematics,Grade 9 ,7,CONGRUENCY AND SIMILARITY,7.7,Applications of Similarities,False,True,True
+Mathematics,Grade 9 ,8,VECTORS IN TWO DIMENSIONS,8.1,Vector and Scalar Quantities,False,False,True
+Mathematics,Grade 9 ,8,VECTORS IN TWO DIMENSIONS,8.2,Representation of a Vector,False,False,True
+Mathematics,Grade 9 ,8,VECTORS IN TWO DIMENSIONS,8.3,Vectors Operations,False,False,True
+Mathematics,Grade 9 ,8,VECTORS IN TWO DIMENSIONS,8.4,Position Vector,False,False,True
+Mathematics,Grade 9 ,8,VECTORS IN TWO DIMENSIONS,8.5,Applications of Vectors in Two Dimensions,False,False,True
+Mathematics,Grade 9 ,9,STATISTICS AND PROBABILITY,9.1,Statistical Data,False,True,True
+Mathematics,Grade 9 ,9,STATISTICS AND PROBABILITY,9.2,Probability,False,False,True
+Physics,Grade 10 ,5,Magnetism,5.2,Magnetic Field,False,False,True
+Physics,Grade 10 ,5,Magnetism,5.3,The Earth's magnetic field and the compass,False,False,True
+Physics,Grade 10 ,5,Magnetism,5.4,Magnetic field of a current- carrying conductor,False,False,True
+Physics,Grade 10 ,6,Electromagnetic Waves and Geometrical Optics,6.1,Electromagnetic (EM) waves,False,False,True
+Physics,Grade 10 ,6,Electromagnetic Waves and Geometrical Optics,6.2,EM Spectrum,False,False,True
+Physics,Grade 10 ,6,Electromagnetic Waves and Geometrical Optics,6.3,Light as a wave,False,False,True
+Physics,Grade 10 ,7,Geometric optics,7.1,Reflection of light by plane and curved mirrors,True,True,True
+Physics,Grade 10 ,7,Geometric optics,7.2,Refraction of light by lenses,True,True,True
+Physics,Grade 12,4,Electromagnetism,4.1,Magnets and Magnetic field,False,False,True
+Physics,Grade 12,4,Electromagnetism,4.2,Magnetic field lines,False,False,True
+Physics,Grade 12,4,Electromagnetism,4.3,Current and Magnetism,False,False,True
+Physics,Grade 12,4,Electromagnetism,4.4,Electromagnetic Induction,False,False,True
+Physics,Grade 12,4,Electromagnetism,4.5,Faraday's Law of electromagnetic Induction,False,False,True
+Physics,Grade 12,4,Electromagnetism,4.6,Transformers,False,False,True
+Physics,Grade 12,4,Electromagnetism,4.7,Application and safety,False,False,True
+Physics,Grade 9 ,7,Temperature and Thermometry,7.1,Temperature and Our Life,False,False,True
+Physics,Grade 9 ,7,Temperature and Thermometry,7.2,Extreme Temperature Safety,False,False,True
+Physics,Grade 9 ,7,Temperature and Thermometry,7.3,Temperature Change and its Effects,False,False,True
+Physics,Grade 9 ,7,Temperature and Thermometry,7.4,Measuring Temperature with Different Thermometric Scales,False,False,True
+Physics,Grade 9 ,7,Temperature and Thermometry,7.5,Types of Thermometers and Their Use,False,False,True
+Physics,Grade 9 ,7,Temperature and Thermometry,7.6,Conversion between Temperature Scales,False,False,True
+Physics,Grade 9 ,7,Temperature and Thermometry,7.7,Thermal Expansion of Materials,False,False,True

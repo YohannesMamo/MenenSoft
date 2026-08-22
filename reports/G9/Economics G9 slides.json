@@ -1,0 +1,2623 @@
+{
+  "subject": "Economics",
+  "grade": 9,
+  "presentation_slides": [
+    {
+      "unit_number": 1,
+      "unit_title": "Introduction to Economics",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Meaning of Economics",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Introduction to Economics",
+              "content": [
+                "• Economics is derived from the ancient Greek word 'oikonomia'",
+                "• Means 'management of a family or household'",
+                "• First studied in ancient Greece",
+                "• Economics is a branch of the social sciences"
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Definition of Economics",
+              "content": [
+                "• Economics studies the efficient allocation of scarce resources",
+                "• Aims to attain the maximum fulfillment of unlimited human needs",
+                "• Studies how people choose to use scarce productive resources",
+                "• Resources include: land, labour, equipment, technical knowledge",
+                "• Concerned with producing various commodities"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Key Aspects of Economics Definition",
+              "content": [
+                "1. Economics studies scarce resources",
+                "2. Studies allocation of resources",
+                "3. Allocation of resources should be efficient",
+                "4. Human needs are unlimited",
+                "• Objective: Satisfy unlimited human needs through efficient resource allocation"
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Nature of Economics",
+              "content": [
+                "• Economics as a SCIENCE:",
+                "  - Produces systematic, organized body of knowledge",
+                "  - Links causes and effects",
+                "  - Knowledge of 'what is'",
+                "  - Facts are collected, classified, analyzed, interpreted",
+                "  - Makes predictions about the future"
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Nature of Economics (Continued)",
+              "content": [
+                "• Economics as an ART:",
+                "  - Provides techniques and methods for achieving something",
+                "  - Deals with problems like:",
+                "    ✓ Unemployment",
+                "    ✓ Poverty",
+                "    ✓ Inflation",
+                "  - Examines nature and causes of economic problems",
+                "  - Sets procedures for finding solutions",
+                "• Conclusion: Economics is BOTH a science and an art"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Branches of Economics",
+          "slides": [
+            {
+              "slide_number": 6,
+              "title": "Branches of Economics",
+              "content": [
+                "• Foundation of modern economics rests on two major branches:",
+                "  1. Microeconomics",
+                "  2. Macroeconomics",
+                "• Other branches include:",
+                "  - Development economics",
+                "  - Environmental economics",
+                "  - Labor economics",
+                "  - Monetary economics",
+                "  - Welfare economics"
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "Microeconomics",
+              "content": [
+                "• Studies economic behavior of individual decision-making units",
+                "• Includes: households, firms, governments",
+                "• Examines interactions through markets and industries",
+                "• Examples of topics:",
+                "  - Consumer behavior",
+                "  - Producer decisions",
+                "  - Firm or industry activities",
+                "  - Individual income",
+                "  - Price determination of various products"
+              ]
+            },
+            {
+              "slide_number": 8,
+              "title": "Fundamental Problem of Microeconomics",
+              "content": [
+                "• Associated with resource allocation",
+                "• Also known as the problem of price-determination",
+                "• Addresses questions like:",
+                "  - What to produce?",
+                "  - How to produce?",
+                "  - For whom to produce?",
+                "• Example: Price of Teff, Price of Orange, Income of Aberash"
+              ]
+            },
+            {
+              "slide_number": 9,
+              "title": "Macroeconomics",
+              "content": [
+                "• Studies the economy as a whole",
+                "• Examines aggregate behavior of all decision-making units",
+                "• Focuses on broad, economy-wide aggregates",
+                "• Examples of topics:",
+                "  - Total employment",
+                "  - Total output",
+                "  - National income",
+                "  - Total investment",
+                "  - General price level"
+              ]
+            },
+            {
+              "slide_number": 10,
+              "title": "Fundamental Problem of Macroeconomics",
+              "content": [
+                "• Associated with full employment of economic resources",
+                "• Deals with determination of income and employment level",
+                "• Tools used: Aggregate demand and aggregate supply",
+                "• Example: GDP of Ethiopia, General price level in Ethiopia",
+                "• Focuses on equilibrium income and employment at aggregate level"
+              ]
+            },
+            {
+              "slide_number": 11,
+              "title": "Differences: Microeconomics vs Macroeconomics",
+              "content": [
+                "| Feature | Microeconomics | Macroeconomics |",
+                "|---------|----------------|----------------|",
+                "| Scope | Individual units | Economy as a whole |",
+                "| Focus | Income, prices, outputs | National income, general price level |",
+                "| Central problem | Price determination & resource allocation | Income & employment determination |",
+                "| Main tools | Demand & supply of commodities | Aggregate demand & aggregate supply |",
+                "| Examples | Price of Teff, Income of person | GDP of Ethiopia, Inflation rate |"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Methods and Approaches of Studying Economics",
+          "slides": [
+            {
+              "slide_number": 12,
+              "title": "Methods of Studying Economics",
+              "content": [
+                "• Economics aims to establish valid generalizations (theories)",
+                "• A theory is a simplified picture of reality",
+                "• Two methods of logical reasoning:",
+                "  1. Deductive Method",
+                "  2. Inductive Method",
+                "• Both methods used to build economic theories"
+              ]
+            },
+            {
+              "slide_number": 13,
+              "title": "Deductive Method",
+              "content": [
+                "• Proceeds from general to particular",
+                "• Reasoning from certain principles to specific facts",
+                "• Enables arriving at particular conclusions from general statements",
+                "• Conclusions are then verified against observed facts",
+                "• Example:",
+                "  - Major premise: Man is mortal",
+                "  - Minor premise: Abebe is a man",
+                "  - Conclusion: Therefore, Abebe is mortal"
+              ]
+            },
+            {
+              "slide_number": 14,
+              "title": "Inductive Method",
+              "content": [
+                "• Proceeds from part to whole (particular to general)",
+                "• Develops theories based on observations and experiments",
+                "• Reduces the gulf between theory and practice",
+                "• Comprehensive data about economic conditions is collected",
+                "• Hypotheses are developed based on observations",
+                "• Example: Observing grain prices decrease during harvest → Generalization: increase in supply leads to fall in prices"
+              ]
+            },
+            {
+              "slide_number": 15,
+              "title": "Approaches of Studying Economics",
+              "content": [
+                "• Two main approaches:",
+                "  1. Positive Economics",
+                "  2. Normative Economics",
+                "• Positive economics: Like a science",
+                "• Normative economics: Involves value judgments"
+              ]
+            },
+            {
+              "slide_number": 16,
+              "title": "Positive Economics",
+              "content": [
+                "• Concerned with analysis of facts",
+                "• Describes the world as it is",
+                "• Answers questions: What is? What was? What will be?",
+                "• Does not judge as good or bad, better or worse",
+                "• Can be tested and verified with facts",
+                "• Examples:",
+                "  - 'The number of secondary schools in Ethiopia is increasing'",
+                "  - 'The current inflation rate in Ethiopia is 12 percent'"
+              ]
+            },
+            {
+              "slide_number": 17,
+              "title": "Normative Economics",
+              "content": [
+                "• Concerned with value judgments",
+                "• Describes what the economy ought to be or should be",
+                "• Evaluates desirability of alternative outcomes",
+                "• Based on personal views about what is good and bad",
+                "• Cannot be proved or disproved with facts",
+                "• Disagreement resolved through voting",
+                "• Examples:",
+                "  - 'Government should introduce school feeding programmes'",
+                "  - 'There should be government intervention in the economy'"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Decision Making Units",
+          "slides": [
+            {
+              "slide_number": 18,
+              "title": "Decision Making Units of an Economy",
+              "content": [
+                "• Economy is divided into different sections",
+                "• These sections are called decision-making units",
+                "• Also described as economic agents",
+                "• Three basic decision-making units:",
+                "  1. Households",
+                "  2. Business Firms",
+                "  3. Government"
+              ]
+            },
+            {
+              "slide_number": 19,
+              "title": "1. Households",
+              "content": [
+                "• Chief owners of factors of production:",
+                "  - Land",
+                "  - Labour",
+                "  - Capital",
+                "  - Entrepreneurship",
+                "• Sell factor services to producers",
+                "• Receive income in form of:",
+                "  - Rent",
+                "  - Wages",
+                "  - Interest",
+                "  - Profit"
+              ]
+            },
+            {
+              "slide_number": 20,
+              "title": "Households (Continued)",
+              "content": [
+                "• Spend portion of income on goods and services",
+                "• Save part of their income",
+                "• Pay taxes to government",
+                "• Can be one person or multiple people living together",
+                "• May make joint or separate financial decisions"
+              ]
+            },
+            {
+              "slide_number": 21,
+              "title": "2. Business Firms",
+              "content": [
+                "• Hire services of factors of production from households",
+                "• Produce commodities for sale",
+                "• Sell to: households, other firms, government, or other countries",
+                "• Principal buyers of factors of production",
+                "• Leading producers of commodities",
+                "• Consist of both private and government enterprises"
+              ]
+            },
+            {
+              "slide_number": 22,
+              "title": "3. Government",
+              "content": [
+                "• Referred to as 'general government'",
+                "• Purchases goods and services from producers",
+                "• Purchases factor services from households",
+                "• Provides free services:",
+                "  - Police",
+                "  - Education",
+                "  - Medical facilities",
+                "  - Sanitation facilities",
+                "  - Judicial services"
+              ]
+            },
+            {
+              "slide_number": 23,
+              "title": "Government (Continued)",
+              "content": [
+                "• Gets income mainly from taxes:",
+                "  - Direct taxes: levied on households and firms",
+                "  - Indirect taxes: levied on goods and services",
+                "• Uses commodities and factor services to meet collective needs",
+                "• Aims to satisfy combined needs of the people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "The Basic Economic Problems and Economic Systems",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "The Basic Economic Problems: Scarcity, Choice, and Opportunity Cost",
+          "slides": [
+            {
+              "slide_number": 24,
+              "title": "The Basic Economic Problem: Scarcity",
+              "content": [
+                "• Scarcity is the fundamental economic problem",
+                "• All economic resources are finite/limited in supply",
+                "• Limited resources must be expressed in relation to unlimited human wants",
+                "• Scarcity reflects the imbalance between wants and means to satisfy them",
+                "• Scarcity generates economic problems",
+                "• If resources were abundant, there would be no economic problems"
+              ]
+            },
+            {
+              "slide_number": 25,
+              "title": "Scarcity vs Shortage",
+              "content": [
+                "• SCARCITY:",
+                "  - Amount available is less than amount people wish to have at zero price",
+                "  - Universal problem",
+                "  - Endless problem",
+                "• SHORTAGE:",
+                "  - People unable to get the amount they want at the prevailing price",
+                "  - Specific problem",
+                "  - Short-term problem",
+                "• All shortages are a result of scarcity, but not all scarcity causes shortages"
+              ]
+            },
+            {
+              "slide_number": 26,
+              "title": "Choice and Scarcity",
+              "content": [
+                "• Scarcity → Limited resources → Limited output → Unlimited human wants",
+                "• Since output is limited, we cannot satisfy all wants",
+                "• A choice must be made",
+                "• Individuals, firms, and governments are forced to choose:",
+                "  - What output to produce",
+                "  - In what quantity",
+                "  - What output not to produce",
+                "• Scarcity implies choice"
+              ]
+            },
+            {
+              "slide_number": 27,
+              "title": "Opportunity Cost",
+              "content": [
+                "• In a world of scarcity, more of one thing means less of another",
+                "• The value of the next best alternative sacrificed is opportunity cost",
+                "• Definition: Amount or value of the next best alternative that must be sacrificed (forgone)",
+                "• Example: If resources can produce either 1 meter of cloth or 20 computers",
+                "  - Opportunity cost of 1 meter of cloth = value of 20 computers"
+              ]
+            },
+            {
+              "slide_number": 28,
+              "title": "Key Points about Opportunity Cost",
+              "content": [
+                "• Measured in terms of goods and services, NOT money",
+                "• Based on the principle of substitution of one activity for another",
+                "• When opportunity cost increases, people substitute other activities",
+                "• Cost of producing a commodity is measured in terms of another commodity forgone",
+                "• Opportunity cost arises due to:",
+                "  - Scarcity of resources",
+                "  - Resources having alternative uses"
+              ]
+            },
+            {
+              "slide_number": 29,
+              "title": "Production Possibilities Frontier (PPF)",
+              "content": [
+                "• Also called Production Possibilities Curve (PPC)",
+                "• Shows various possible combinations of goods and services society can produce",
+                "• Given its resources and technology",
+                "• Assumptions:",
+                "  1. Quantity and quality of resources are fixed",
+                "  2. Only two broad classes of output",
+                "  3. Economy operating at full employment and full production",
+                "  4. Technology does not change",
+                "  5. Some inputs are better adapted to production of one good (specialization)"
+              ]
+            },
+            {
+              "slide_number": 30,
+              "title": "Alternative Production Possibilities",
+              "content": [
+                "• Example: Economy produces Food and Computers",
+                "| Alternative | Food (Metric tons) | Computers (Number) |",
+                "|-------------|-------------------|-------------------|",
+                "| A | 500 | 0 |",
+                "| B | 420 | 500 |",
+                "| C | 320 | 1000 |",
+                "| D | 180 | 1500 |",
+                "| E | 0 | 2000 |"
+              ]
+            },
+            {
+              "slide_number": 31,
+              "title": "Understanding the PPF Graph",
+              "content": [
+                "• All points ON the curve: Attainable and efficient",
+                "• Points INSIDE the curve (e.g., Q): Attainable but inefficient",
+                "• Points OUTSIDE the curve (e.g., R): Unattainable",
+                "• The PPF describes three important concepts:",
+                "  1. Scarcity: Cannot produce infinite output even with all resources",
+                "  2. Choice: Movement along the curve denotes shift in preference",
+                "  3. Opportunity Cost: Producing more of one good requires sacrificing another"
+              ]
+            },
+            {
+              "slide_number": 32,
+              "title": "Law of Increasing Opportunity Cost",
+              "content": [
+                "• States: As we produce more of a product, the opportunity cost per unit increases",
+                "• Makes the PPF concave to the origin",
+                "• Occurs because resources are not completely adaptable to alternative uses",
+                "  (Specialization effect)",
+                "• Formula: Opportunity Cost = Amount of next best alternative sacrificed / Amount of good gained"
+              ]
+            },
+            {
+              "slide_number": 33,
+              "title": "Calculating Opportunity Cost",
+              "content": [
+                "• From alternative B to C:",
+                "  - Food decreases from 420 to 320 metric tons (sacrifice 100)",
+                "  - Computers increase from 500 to 1000 (gain 500)",
+                "  - Opportunity Cost = 100/500 = 0.2 metric tons of food per computer",
+                "• Taking absolute value: 0.2 metric tons of food per computer",
+                "• The economy gives up 0.2 metric tons of food for each additional computer"
+              ]
+            },
+            {
+              "slide_number": 34,
+              "title": "Economic Growth and PPF",
+              "content": [
+                "• Economic growth: Increase in total output level",
+                "• Occurs when one or both conditions happen:",
+                "  1. Increase in quantity and quality of economic resources",
+                "  2. Advances in technology",
+                "• Represented by outward shift of the PPF",
+                "• Asymmetric growth: Growth in one sector only",
+                "  - Shift of PPF along Y-axis or X-axis"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Central Problems of Economies",
+          "slides": [
+            {
+              "slide_number": 35,
+              "title": "Basic Economic Questions",
+              "content": [
+                "• Economic problems arise due to scarcity of resources",
+                "• Common to all economic systems",
+                "• Also called central problems of an economy",
+                "• Every modern society must answer three basic questions:",
+                "  1. What goods and services are to be produced?",
+                "  2. How to produce goods and services?",
+                "  3. For whom goods and services are to be produced?"
+              ]
+            },
+            {
+              "slide_number": 36,
+              "title": "1. What to Produce?",
+              "content": [
+                "• Also called the problem of allocation of resources",
+                "• Every economy must decide on:",
+                "  - Type of goods to be produced",
+                "  - Quantity of goods to be produced",
+                "• Choices between:",
+                "  - Consumption goods and capital goods",
+                "  - Civil goods and military goods",
+                "  - Necessity goods and luxury goods"
+              ]
+            },
+            {
+              "slide_number": 37,
+              "title": "2. How to Produce?",
+              "content": [
+                "• Also called the problem of choice of technique",
+                "• Once what to produce is decided, must choose production method",
+                "• Alternative techniques:",
+                "  1. Labour-intensive technique:",
+                "     - Uses more labour relative to capital per unit of output",
+                "  2. Capital-intensive technique:",
+                "     - Uses more capital relative to labour per unit of output",
+                "• Choice depends on:",
+                "  - Available supplies of production factors",
+                "  - Relative prices of factors"
+              ]
+            },
+            {
+              "slide_number": 38,
+              "title": "3. For Whom to Produce?",
+              "content": [
+                "• Also called the problem of distribution of national product",
+                "• Relates to how material product is distributed among society members",
+                "• Decisions include:",
+                "  - Produce for few rich people or majority of poor people?",
+                "  - Focus on necessary goods or luxury goods?",
+                "• Many human efforts directed towards production to satisfy needs",
+                "• Economic activities occur within framework of economic system"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Economic Systems",
+          "slides": [
+            {
+              "slide_number": 39,
+              "title": "What is an Economic System?",
+              "content": [
+                "• Set of organizational and institutional arrangements",
+                "• Established to answer basic economic questions",
+                "• Classified on basis of ownership of economic resources",
+                "• Four main types:",
+                "  1. Traditional Economy",
+                "  2. Capitalist Economy (Capitalism)",
+                "  3. Command Economy (Socialism)",
+                "  4. Mixed Economy"
+              ]
+            },
+            {
+              "slide_number": 40,
+              "title": "1. Traditional Economy",
+              "content": [
+                "• Relies on customs, history, and time-honored beliefs",
+                "• Tradition guides economic decisions",
+                "• Depends on: agriculture, fishing, hunting, gathering",
+                "• Uses barter instead of money",
+                "• Found in: Africa, Asia, Latin America, Middle East",
+                "• Features:",
+                "  - Centers on family or tribe",
+                "  - Uses traditions from elders' experiences",
+                "  - Produces only what is needed",
+                "  - Rarely has surplus"
+              ]
+            },
+            {
+              "slide_number": 41,
+              "title": "2. Capitalist Economy (Capitalism)",
+              "content": [
+                "• Oldest formal economic system",
+                "• Became widespread in mid-19th century",
+                "• Means of production privately owned",
+                "• Production at initiative of private entrepreneurs",
+                "• Main objectives: private profit",
+                "• Also called: Free market economy, Market economy, Laissez faire"
+              ]
+            },
+            {
+              "slide_number": 42,
+              "title": "Features of Capitalism",
+              "content": [
+                "1. Right to Private Property",
+                "2. Freedom of Choice by Consumers (Consumer Sovereignty)",
+                "3. Competition among sellers, buyers, workers, employers",
+                "4. Limited Government Involvement",
+                "5. Self-Interest guides and motivates individuals",
+                "6. Inequalities in Income"
+              ]
+            },
+            {
+              "slide_number": 43,
+              "title": "3. Command Economy (Socialism)",
+              "content": [
+                "• Also called socialist economy",
+                "• Economic institutions owned and controlled by state",
+                "• Uses centralized plan",
+                "• Started in Russia (1917 Great October Revolution)",
+                "• Adopted by: China, Vietnam, Cuba, Ethiopia, etc.",
+                "• Lost acceptance after Second World War"
+              ]
+            },
+            {
+              "slide_number": 44,
+              "title": "Features of Command Economy",
+              "content": [
+                "1. Collective Ownership (no right to private property)",
+                "2. Central Economic Planning",
+                "3. Strong Role of Government",
+                "4. Relative Equality of Incomes",
+                "  - No private property means no profit motive",
+                "  - No opportunities for wealth accumulation",
+                "  - Greater equality compared to capitalism"
+              ]
+            },
+            {
+              "slide_number": 45,
+              "title": "4. Mixed Economy",
+              "content": [
+                "• Combination of capitalism and socialism",
+                "• Mix of private and public ownership",
+                "• Some government control measures",
+                "• Allows private and public sectors to co-exist"
+              ]
+            },
+            {
+              "slide_number": 46,
+              "title": "Features of Mixed Economy",
+              "content": [
+                "1. Co-existence of Public and Private Sectors",
+                "   - Public: Heavy industry, defense, power generation",
+                "   - Private: Consumer goods, small-scale industry",
+                "2. Economic Planning",
+                "   - Government uses planning instruments",
+                "3. Economic Equality",
+                "   - Private property allowed but rules prevent concentration of wealth"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Economic Resources and Markets",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Types of Resources and Factor Payments",
+          "slides": [
+            {
+              "slide_number": 47,
+              "title": "Types of Resources",
+              "content": [
+                "• Resources are inputs used in production",
+                "• Two types:",
+                "  1. FREE RESOURCES:",
+                "     - Free gifts of nature",
+                "     - Unlimited in supply",
+                "     - No prices",
+                "     - Examples: air, sunshine, solar energy, mountain stream",
+                "  2. ECONOMIC (SCARCE) RESOURCES:",
+                "     - Limited in supply",
+                "     - Non-zero prices",
+                "     - Price is the test of whether a resource is economic or free"
+              ]
+            },
+            {
+              "slide_number": 48,
+              "title": "Economic (Scarce) Resources",
+              "content": [
+                "• Examples of scarce resources:",
+                "  - All types of human resources (manual, intellectual, skilled, specialized)",
+                "  - Most natural resources (fertile land, minerals, clean water, forests, wild animals)",
+                "  - All types of capital resources (machines, intermediate goods, infrastructure)",
+                "  - All types of entrepreneurial resources",
+                "• Divided into four broad categories"
+              ]
+            },
+            {
+              "slide_number": 49,
+              "title": "Four Categories of Economic Resources",
+              "content": [
+                "1. LAND",
+                "   - Natural resources/free gifts of nature",
+                "   - Reward: RENT",
+                "2. LABOUR",
+                "   - Physical and mental efforts of human beings",
+                "   - Reward: WAGE",
+                "3. CAPITAL",
+                "   - Manufactured inputs used to produce other goods",
+                "   - Reward: INTEREST",
+                "4. ENTREPRENEURSHIP",
+                "   - Organizes and manages other factors",
+                "   - Takes risk of making losses",
+                "   - Reward: PROFIT"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Renewable and Non-renewable Resources",
+          "slides": [
+            {
+              "slide_number": 50,
+              "title": "Renewable Resources",
+              "content": [
+                "• Resources that have potential to be replaced over time",
+                "• Replacement occurs through natural processes",
+                "• Renewal process can be:",
+                "  - Quick: sunshine (daily basis)",
+                "  - Slow: soil formation (hundreds of years)",
+                "• Examples:",
+                "  - Solar energy",
+                "  - Wind energy",
+                "  - Soil",
+                "  - Trees",
+                "  - Grass",
+                "  - Geothermal pressure",
+                "  - Ground water"
+              ]
+            },
+            {
+              "slide_number": 51,
+              "title": "Non-Renewable Resources",
+              "content": [
+                "• Resources whose stock or reserve is limited/fixed",
+                "• Found in the ground",
+                "• Available supply may be replenished through recycling",
+                "• Overall supply remains relatively constant",
+                "• Examples:",
+                "  - Natural gas",
+                "  - Coal",
+                "  - Steel",
+                "  - Aluminum",
+                "  - Oil"
+              ]
+            },
+            {
+              "slide_number": 52,
+              "title": "Conservation of Natural Resources",
+              "content": [
+                "• Conserve = not misusing, spoiling, or wasting",
+                "• Important for non-renewable resources",
+                "• Renewable resources can also be depleted if overused",
+                "• Pollution: Harmful chemicals and substances released into nature",
+                "  - Oil spills",
+                "  - Toxic chemicals in air",
+                "  - Garbage dumping"
+              ]
+            },
+            {
+              "slide_number": 53,
+              "title": "Conservation Methods: Reduce, Reuse, Recycle",
+              "content": [
+                "1. REDUCE:",
+                "   - Turn off lights to reduce fossil fuel use",
+                "   - Walk/bike to reduce gasoline consumption",
+                "2. REUSE:",
+                "   - Plastic jugs, jars, paper, bags can be reused",
+                "3. RECYCLE:",
+                "   - Reuse natural resource/product to make something new",
+                "   - Examples: glass, plastics, paper, cardboard, aluminum, steel"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Types of Markets",
+          "slides": [
+            {
+              "slide_number": 54,
+              "title": "What is a Market?",
+              "content": [
+                "• An institution where two parties can meet",
+                "• Facilitates exchange of goods and services",
+                "• Parties involved: buyers and sellers",
+                "• Market can be:",
+                "  - Physical: retail outlet (face-to-face)",
+                "  - Digital: online market (no physical contact)",
+                "• Three types discussed:",
+                "  1. Goods and Services Market",
+                "  2. Labour Market",
+                "  3. Financial Market"
+              ]
+            },
+            {
+              "slide_number": 55,
+              "title": "Goods and Services Market",
+              "content": [
+                "• Where households purchase consumable goods and services",
+                "• Where businesses sell their goods and services",
+                "• Includes: stores, Internet, places where consumer goods are exchanged",
+                "• End products are traded here",
+                "• Money flows from consumers to business firms",
+                "• Example: Buying groceries, clothes, electronics"
+              ]
+            },
+            {
+              "slide_number": 56,
+              "title": "Labour Market",
+              "content": [
+                "• Where employees provide labour services",
+                "• Where employers provide employment opportunities",
+                "• Viewed at both macroeconomic and microeconomic levels",
+                "• Participants:",
+                "  - Daily labourers",
+                "  - Domestic workers",
+                "  - Skilled workers",
+                "  - Professionals"
+              ]
+            },
+            {
+              "slide_number": 57,
+              "title": "Financial Market",
+              "content": [
+                "• Any place where financial assets are traded",
+                "• Assets include: securities, currencies, bonds",
+                "• Basis of capitalist societies",
+                "• Provides:",
+                "  - Capital formation",
+                "  - Liquidity for businesses",
+                "• Can be physical or digital",
+                "• Examples: bond market, stock market, share market"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Circular Flow of Economic Activities",
+          "slides": [
+            {
+              "slide_number": 58,
+              "title": "Circular Flow of Income",
+              "content": [
+                "• A simplified macroeconomic model",
+                "• Shows basic economic relationships in a market economy",
+                "• Overview of how households, businesses, and government interact",
+                "• Exchange of: goods and services, productive resources, money",
+                "• Income and expenditure move in a circular way"
+              ]
+            },
+            {
+              "slide_number": 59,
+              "title": "Types of Flows",
+              "content": [
+                "• Economic transactions generate two types of flows:",
+                "1. REAL FLOWS:",
+                "   - Factor services from owners to producers",
+                "   - Goods and services from producers to buyers",
+                "2. MONEY (FINANCIAL) FLOWS:",
+                "   - Money income from factor services (rent, wages, interest)",
+                "   - Money expenditures for purchase of goods and services",
+                "• Real flows and money flows are two sides of the same coin"
+              ]
+            },
+            {
+              "slide_number": 60,
+              "title": "Two-Sector Circular Flow Model",
+              "content": [
+                "• Represents a private, closed economy",
+                "• Only two sectors: household sector and business sector (firms)",
+                "• Assumptions:",
+                "  - Households own factors of production",
+                "  - Firms produce goods and services",
+                "  - Households spend entire income on consumption",
+                "  - No saving, no government, closed economy",
+                "• Inner circle: Real flow (factor services, goods/services)",
+                "• Outer circle: Money flow (income, expenditure)"
+              ]
+            },
+            {
+              "slide_number": 61,
+              "title": "Three-Sector Circular Flow Model",
+              "content": [
+                "• Economy has three sectors: households, firms, government",
+                "• Government activities:",
+                "  1. Government Revenue: Taxes from households and firms",
+                "  2. Government Expenditure:",
+                "     - Purchases goods and services",
+                "     - Gives subsidies to firms",
+                "     - Gives transfer payments to households",
+                "• Savings flow to capital market and to firms for investment"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Land as an Economic Resource in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 62,
+              "title": "Importance of Land in Ethiopia",
+              "content": [
+                "• Agriculture is the backbone of Ethiopian economy",
+                "• Land is a very important economic resource",
+                "• In agriculture context: refers to areal extent and productivity",
+                "• Total area: 1,106,000 sq km",
+                "• 35% considered suitable for agriculture",
+                "• Suitability due to good soil and suitable climate"
+              ]
+            },
+            {
+              "slide_number": 63,
+              "title": "Soil Types in Ethiopian Highlands",
+              "content": [
+                "Two main soil types:",
+                "1. Red-to-reddish brown soils:",
+                "   - Well endowed with required minerals for crops",
+                "   - Areas of relatively good drainage",
+                "   - Friable (easy to plough)",
+                "2. Brownish-to-grey and black soils with high clay content:",
+                "   - With proper drainage and conditioning",
+                "   - Excellent agricultural potentials"
+              ]
+            },
+            {
+              "slide_number": 64,
+              "title": "Climatic Aspect and Land Potential",
+              "content": [
+                "• Formation of different agro-ecological zones due to altitude",
+                "• Multiplies resource potential of land",
+                "• Different agro-climate zones → growth of different crops",
+                "• Increases potential for production of exportable items",
+                "• Helps earn foreign currency"
+              ]
+            },
+            {
+              "slide_number": 65,
+              "title": "Land Ownership History in Ethiopia",
+              "content": [
+                "• Pre-1974: Feudal system with inequitable land holdings",
+                "• 1975: Socialist system came into being",
+                "  - Slogan 'Land to The Tiller'",
+                "  - Ended in state ownership",
+                "• 1991: Current government maintained state ownership",
+                "  - Controls all urban and rural land with natural resources",
+                "• Rural peasants and pastoralists: Guaranteed lifetime 'holding' right",
+                "  - Has all rights except sale and mortgage"
+              ]
+            },
+            {
+              "slide_number": 66,
+              "title": "Current Land Rights Issues in Ethiopia",
+              "content": [
+                "• Urban residents: Right to land for residence on 99-year lease",
+                "• State ownership restricts:",
+                "  - Right of use",
+                "  - Rent",
+                "  - Lease",
+                "  - Endowment",
+                "  - Inheritance",
+                "• Redistribution of land is highly restricted",
+                "• Access to rural land is almost non-existent",
+                "• Constitution provides 'commensurate' compensation during expropriation",
+                "• Successive proclamations have violated this protection",
+                "• Compensation amount insufficient"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Introduction to Demand and Supply",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Concept of Demand",
+          "slides": [
+            {
+              "slide_number": 67,
+              "title": "What is Demand?",
+              "content": [
+                "• Demand ≠ Mere Desire",
+                "• A desire becomes demand only when backed by:",
+                "  1. Ability to pay for the good desired",
+                "  2. Willingness to pay the price",
+                "  3. Availability of the good itself",
+                "• Demand refers to an effective desire",
+                "• Demand is always stated relative to:",
+                "  - A specific price",
+                "  - A specific time period"
+              ]
+            },
+            {
+              "slide_number": 68,
+              "title": "Definition of Demand",
+              "content": [
+                "• Demand for a commodity is:",
+                "  - The amount of it that a consumer is willing to buy",
+                "  - At various given prices",
+                "  - At a given moment of time",
+                "• Quantity Demanded:",
+                "  - The amount of commodity a consumer is willing and able to buy",
+                "  - At a given price",
+                "  - During a given period of time"
+              ]
+            },
+            {
+              "slide_number": 69,
+              "title": "Law of Demand",
+              "content": [
+                "• Fundamental principle of economics",
+                "• States: Ceteris paribus (other things remaining the same)",
+                "  - Price of a commodity and quantity demanded are inversely related",
+                "• Higher the price → Lower the quantity demanded",
+                "• Lower the price → Higher the quantity demanded",
+                "• Reason:",
+                "  - Substitution effect",
+                "  - Income effect"
+              ]
+            },
+            {
+              "slide_number": 70,
+              "title": "Demand Schedule",
+              "content": [
+                "• A tabular description",
+                "• Presents various quantities of a commodity demanded at different prices",
+                "• Shows relationship between price and quantity demanded",
+                "• Individual Demand Schedule Example:",
+                "| Price (Birr per kg) | Quantity Demanded/week |",
+                "|---------------------|----------------------|",
+                "| 5 | 5 |",
+                "| 4 | 7 |",
+                "| 3 | 9 |",
+                "| 2 | 11 |",
+                "| 1 | 13 |"
+              ]
+            },
+            {
+              "slide_number": 71,
+              "title": "Demand Curve",
+              "content": [
+                "• A graphical representation of the demand schedule",
+                "• Shows relationship between different quantities demanded and prices",
+                "• Individual demand curve slopes downwards",
+                "  - From left to right",
+                "  - Reflects inverse relationship",
+                "• Y-axis: Price (P)",
+                "• X-axis: Quantity Demanded (Qd)",
+                "• Example: As price falls from Birr 5 to 1, quantity demanded rises from 5 to 13 kg"
+              ]
+            },
+            {
+              "slide_number": 72,
+              "title": "Demand Function and Market Demand",
+              "content": [
+                "• Demand Function:",
+                "  - Mathematical representation of price-quantity relationship",
+                "  - Qd = f(P) where Qd = quantity demanded, P = price",
+                "  - Ceteris paribus applies",
+                "• Market Demand:",
+                "  - Total demand for a given product",
+                "  - Sum of all individual demand at each price",
+                "  - Horizontal summation of individual demand curves",
+                "  - As market demand increases, price increases"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Concept of Supply",
+          "slides": [
+            {
+              "slide_number": 73,
+              "title": "Supply vs Stock",
+              "content": [
+                "• Important distinction:",
+                "  - STOCK: Total volume of a commodity produced less quantity already sold",
+                "  - SUPPLY: Quantity which is actually brought to market",
+                "• Producers do not offer all stock for sale immediately",
+                "• Example: Agricultural products kept in cold storage for better prices",
+                "• Stock is potential supply",
+                "• Supply may be less than or equal to stock"
+              ]
+            },
+            {
+              "slide_number": 74,
+              "title": "Definition of Supply",
+              "content": [
+                "• Supply of a commodity: Various quantities producers are willing and able to offer",
+                "  - At a particular time",
+                "  - At various corresponding prices",
+                "• Quantity Supplied:",
+                "  - Number of goods/services suppliers will produce and sell",
+                "  - At a given market price",
+                "  - Changes as price changes influence actual supply"
+              ]
+            },
+            {
+              "slide_number": 75,
+              "title": "Law of Supply",
+              "content": [
+                "• Demonstrates quantities sold at a specific price",
+                "• Unlike demand, supply relationship shows an upward slope",
+                "• Law states: Ceteris paribus, direct/positive relationship between:",
+                "  - Price and quantity supplied",
+                "• Higher the price → Higher the quantity supplied",
+                "• Lower the price → Lower the quantity supplied",
+                "• Reason: Producers seek higher profits"
+              ]
+            },
+            {
+              "slide_number": 76,
+              "title": "Supply Schedule",
+              "content": [
+                "• A tabular presentation",
+                "• Shows different quantities offered for sale at different prices",
+                "• Individual Seller's Supply Schedule Example:",
+                "| Price (Birr per kg) | Quantity Supplied (kg/week) |",
+                "|---------------------|----------------------------|",
+                "| 1 | 0 |",
+                "| 5 | 60 |",
+                "| 10 | 90 |",
+                "| 15 | 70 |",
+                "| 20 | 80 |",
+                "| 25 | 90 |",
+                "| 30 | 100 |"
+              ]
+            },
+            {
+              "slide_number": 77,
+              "title": "Supply Curve and Supply Function",
+              "content": [
+                "• Supply Curve:",
+                "  - Graphical representation of supply schedule",
+                "  - Slopes upward to the right (positive slope)",
+                "  - Y-axis: Price (P)",
+                "  - X-axis: Quantity Supplied (Qs)",
+                "• Supply Function:",
+                "  - Mathematical representation",
+                "  - Qs = f(P) where Qs = quantity supplied, P = price",
+                "  - Ceteris paribus applies",
+                "• Market Supply:",
+                "  - Total amount all producers are willing to sell",
+                "  - Horizontal summation of individual supply curves"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Market Equilibrium",
+          "slides": [
+            {
+              "slide_number": 78,
+              "title": "Concept of Equilibrium",
+              "content": [
+                "• Equilibrium refers to a state of balance",
+                "• Physical world: Opposing forces balanced → object stationary",
+                "• Economic system in equilibrium when:",
+                "  - Important variables show no change",
+                "  - No forces acting to produce change in values",
+                "• Examples:",
+                "  - Consumer: No intention to re-allocate income",
+                "  - Firm: No tendency to change output level",
+                "• Market Mechanism: Tendency to move towards equilibrium",
+                "• Equilibrium may never be actually realized"
+              ]
+            },
+            {
+              "slide_number": 79,
+              "title": "Market Equilibrium",
+              "content": [
+                "• Situation where:",
+                "  - Quantity demanded of a commodity equals quantity supplied",
+                "• Balance between opposite forces of demand and supply",
+                "• Market tends towards equilibrium",
+                "• Equilibrium Price:",
+                "  - Price at which quantity demanded equals quantity supplied",
+                "  - Market-clearing price",
+                "• Equilibrium Quantity:",
+                "  - Amount of good bought and sold at equilibrium price",
+                "  - Quantity supplied by sellers matches quantity demanded by buyers"
+              ]
+            },
+            {
+              "slide_number": 80,
+              "title": "Graphical Representation of Market Equilibrium",
+              "content": [
+                "• Demand curve and Supply curve intersect",
+                "• Intersection point = Market Equilibrium",
+                "• Point where:",
+                "  - Quantity consumers want to purchase matches",
+                "  - Quantity suppliers want to supply",
+                "• At this point, derive:",
+                "  - Market Price (Equilibrium Price)",
+                "  - Market Quantity (Equilibrium Quantity)",
+                "• Note: Equilibrium is not fixed",
+                "  - Changes over time due to shifts in demand/supply"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Introduction to Production and Cost",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Definition of Production, Inputs and Outputs",
+          "slides": [
+            {
+              "slide_number": 81,
+              "title": "What is Production?",
+              "content": [
+                "• Production is a process of combining various inputs",
+                "• Aims to produce an output for consumption",
+                "• The act of creating output in form of commodity or service",
+                "• Contributes to the utility of individuals",
+                "• Example: Producing wheat using land, labour, capital, seeds",
+                "• Inputs are converted into outputs"
+              ]
+            },
+            {
+              "slide_number": 82,
+              "title": "Inputs and Outputs",
+              "content": [
+                "• INPUTS: Economic resources used in production",
+                "  - Labour",
+                "  - Capital",
+                "  - Land",
+                "  - Entrepreneurial ability",
+                "• OUTPUTS: Inputs transformed into final usable form",
+                "  - Give less satisfaction to consumer by themselves",
+                "  - Consequences of the production process"
+              ]
+            },
+            {
+              "slide_number": 83,
+              "title": "Tangible vs Intangible Outputs",
+              "content": [
+                "• TANGIBLE OUTPUTS:",
+                "  - Physical products that can be touched",
+                "  - Have physical existence",
+                "  - Examples: buildings, machinery, equipment, car",
+                "• INTANGIBLE OUTPUTS:",
+                "  - Have value but not physical objects",
+                "  - Cannot be seen or touched",
+                "  - Cannot often be tried out, inspected, or tested in advance",
+                "  - Examples: insurance, consultancy, software, education, healthcare"
+              ]
+            },
+            {
+              "slide_number": 84,
+              "title": "Types of Inputs",
+              "content": [
+                "• FIXED INPUT:",
+                "  - Quantity cannot be varied during the period",
+                "  - Examples: buildings, machinery",
+                "• VARIABLE INPUT:",
+                "  - Quantity can be changed during the period",
+                "  - Examples: raw materials, labour"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Periods of Production",
+          "slides": [
+            {
+              "slide_number": 85,
+              "title": "Short Run vs Long Run",
+              "content": [
+                "• Based on degree of flexibility of economic resources",
+                "• SHORT RUN:",
+                "  - At least one input is fixed",
+                "  - Remaining inputs are variable",
+                "  - Increase output by using more variable inputs",
+                "  - Examples: Using more labour and raw materials",
+                "• LONG RUN:",
+                "  - All inputs are variable (no fixed input)",
+                "  - Firm can change size of plant",
+                "  - Can construct new factory building"
+              ]
+            },
+            {
+              "slide_number": 86,
+              "title": "Important Note on Time Periods",
+              "content": [
+                "• 'Short run' and 'long run' do NOT refer to specific time periods:",
+                "  - Not: one year or less, two or five years",
+                "• Refers to nature of economic arrangement of inputs",
+                "• Based on response to changing economic environment",
+                "• Short run: Some factors can't be adjusted",
+                "• Long run: All factors can be adjusted"
+              ]
+            },
+            {
+              "slide_number": 87,
+              "title": "Measures of Productivity",
+              "content": [
+                "1. TOTAL PRODUCT (TP):",
+                "   - Overall amount of output produced",
+                "   - Expressed in terms of Quantity (Q)",
+                "   - Uses combination of variable inputs with fixed inputs",
+                "2. AVERAGE PRODUCT (AP):",
+                "   - Total output divided by number of workers employed",
+                "   - Formula: AP = TP/L where L = Labour",
+                "   - Good indicator of productivity of labour"
+              ]
+            },
+            {
+              "slide_number": 88,
+              "title": "Marginal Product (MP)",
+              "content": [
+                "• Definition:",
+                "  - Holding other factors constant",
+                "  - The increase in output from using one additional unit of a single factor",
+                "• Formula:",
+                "  - MPL = ΔTP/ΔL",
+                "  - Where ΔTP = change in total production",
+                "  - ΔL = change in labour input",
+                "• Derived from TP of labour",
+                "• TP, MP, and AP are interrelated"
+              ]
+            },
+            {
+              "slide_number": 89,
+              "title": "Production Function with One Variable Input (Example)",
+              "content": [
+                "| Labour | Capital | TP | AP | MP | Stage |",
+                "|--------|---------|----|----|----|-------|",
+                "| 0 | 10 | 0 | - | - | - |",
+                "| 1 | 10 | 10 | 10 | 10 | Stage I |",
+                "| 2 | 10 | 28 | 14 | 18 | Stage I |",
+                "| 3 | 10 | 51 | 17 | 23 | Stage I |",
+                "| 4 | 10 | 76 | 19 | 25 | Stage I |",
+                "| 5 | 10 | 95 | 19 | 19 | Stage I |",
+                "| 6 | 10 | 108 | 18 | 13 | Stage II |",
+                "| 7 | 10 | 115 | 16.4 | 7 | Stage II |",
+                "| 8 | 10 | 112 | 14 | -3 | Stage III |"
+              ]
+            },
+            {
+              "slide_number": 90,
+              "title": "Stages of Production",
+              "content": [
+                "• Three stages of production:",
+                "• STAGE I:",
+                "  - Increasing returns to labour",
+                "  - MP is rising and greater than AP",
+                "  - AP is rising",
+                "• STAGE II:",
+                "  - Diminishing returns (law of diminishing returns)",
+                "  - MP is falling but still positive",
+                "  - AP is falling",
+                "  - Most rational stage for production",
+                "• STAGE III:",
+                "  - Negative returns",
+                "  - MP is negative",
+                "  - TP is declining",
+                "  - Firm should stop producing"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Cost of Production",
+          "slides": [
+            {
+              "slide_number": 91,
+              "title": "What is Cost of Production?",
+              "content": [
+                "• Concepts of production and cost are inseparable",
+                "• Cost of production refers to:",
+                "  - Monetary outlays associated with production activity",
+                "  - Total expenditures and sacrifices made",
+                "  - In the entire process of production and distribution of goods and services"
+              ]
+            },
+            {
+              "slide_number": 92,
+              "title": "Explicit and Implicit Costs",
+              "content": [
+                "• EXPLICIT COSTS:",
+                "  - Actual monetary payments made to outsiders",
+                "  - Suppliers of inputs or resources",
+                "  - Include: wages, rent, interest, payments for raw materials, fuel, transport",
+                "  - Also called 'accounting costs' or 'out-of-pocket costs'",
+                "• IMPLICIT COSTS:",
+                "  - Values of non-purchased resources owned and used by firms",
+                "  - Examples: salary of owner-manager, estimated rent of owned building",
+                "  - Estimated from what they could earn in best alternative uses"
+              ]
+            },
+            {
+              "slide_number": 93,
+              "title": "Economic Cost vs Accounting Cost",
+              "content": [
+                "• ECONOMIC COST:",
+                "  - Includes both implicit and explicit costs",
+                "  - Economic Cost = Implicit Costs + Explicit Costs",
+                "  - Based on opportunity cost concept",
+                "• ACCOUNTING COST:",
+                "  - Monetary value of all purchased inputs",
+                "  - Ignores cost of non-purchased inputs",
+                "  - Only considers explicit costs",
+                "  - Includes: wages, cost of raw materials, depreciation, interest on borrowed funds, utility expenses"
+              ]
+            },
+            {
+              "slide_number": 94,
+              "title": "Fixed and Variable Costs",
+              "content": [
+                "• FIXED COSTS (TFC):",
+                "  - Costs that do not vary with output level",
+                "  - Always incurred even if firm produces nothing",
+                "  - Costs of fixed inputs",
+                "  - Examples: rent on leased properties, interest on borrowed funds, wear and tear of machinery, cost of administrative staff",
+                "• VARIABLE COSTS (TVC):",
+                "  - Costs that directly vary with output level",
+                "  - Zero when output is zero",
+                "  - Rise as output expands",
+                "  - Examples: wages of workers (excluding admin staff), cost of raw materials"
+              ]
+            },
+            {
+              "slide_number": 95,
+              "title": "Total Cost",
+              "content": [
+                "• Total Cost (TC) = Total Fixed Cost (TFC) + Total Variable Cost (TVC)",
+                "• Example Table:",
+                "| Q (output) | TFC (birr) | TVC (birr) | TC (birr) |",
+                "|------------|------------|------------|-----------|",
+                "| 0 | 60 | 0 | 60 |",
+                "| 1 | 60 | 20 | 80 |",
+                "| 2 | 60 | 40 | 100 |",
+                "| 3 | 60 | 60 | 120 |",
+                "| 4 | 60 | 65 | 125 |",
+                "| 5 | 60 | 75 | 135 |",
+                "| 6 | 60 | 120 | 180 |"
+              ]
+            },
+            {
+              "slide_number": 96,
+              "title": "Cost Curves",
+              "content": [
+                "• TFC: Parallel to quantity axis, constant at 60 birr",
+                "• TVC:",
+                "  - Zero when output is zero",
+                "  - Rises as output rises",
+                "  - Initially rises at decreasing rate",
+                "  - Later increases at increasing rate",
+                "• TC: Sum of TVC and TFC at every output level",
+                "• TC curve has same shape as TVC",
+                "• Shape reflects law of diminishing returns"
+              ]
+            },
+            {
+              "slide_number": 97,
+              "title": "Average Costs",
+              "content": [
+                "• AVERAGE TOTAL COST (ATC):",
+                "  - Total cost per unit output",
+                "  - Formula: ATC = TC/Q",
+                "• AVERAGE FIXED COST (AFC):",
+                "  - Formula: AFC = TFC/Q",
+                "• AVERAGE VARIABLE COST (AVC):",
+                "  - Formula: AVC = TVC/Q",
+                "• Relationship:",
+                "  - ATC = AFC + AVC"
+              ]
+            },
+            {
+              "slide_number": 98,
+              "title": "Marginal Cost (MC)",
+              "content": [
+                "• Marginal Cost is:",
+                "  - The additional total cost from producing one more unit of output",
+                "  - Change in total cost from a unit change in output",
+                "• Formula: MC = ΔTC/ΔQ",
+                "  - Also: MC = ΔTFC/ΔQ + ΔTVC/ΔQ",
+                "  - In short run: MC = ΔTVC/ΔQ (since ΔTFC = 0)",
+                "• Example: If TC increases from 260 to 293 when output increases from 50 to 51 units:",
+                "  - MC = (293-260)/(51-50) = 33 birr"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Money",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Definition of Money",
+          "slides": [
+            {
+              "slide_number": 99,
+              "title": "What is Money?",
+              "content": [
+                "• Definition: Anything generally accepted in payment for goods or services or in repayment of debts",
+                "• Any good widely used and accepted in transactions",
+                "• A commodity accepted by general consent as a medium of economic exchange",
+                "• Serves as:",
+                "  - Medium for expressing prices and values",
+                "  - Primary measure of wealth",
+                "  - Circulates anonymously from person to person and country to country"
+              ]
+            },
+            {
+              "slide_number": 100,
+              "title": "Key Characteristics of Money",
+              "content": [
+                "• Immediately exchangeable for all kinds of marketable assets",
+                "• Each person accepts money because confident others will accept it",
+                "• Social convention through legal or other means",
+                "• Essential characteristics:",
+                "  - Has value",
+                "  - General acceptability"
+              ]
+            },
+            {
+              "slide_number": 101,
+              "title": "Criteria for a Commodity to be Accepted as Money",
+              "content": [
+                "1. STANDARDIZATION:",
+                "   - Must be easily standardized",
+                "   - Simple to ascertain its value",
+                "2. ACCEPTABILITY:",
+                "   - Widely accepted as a medium of exchange",
+                "3. DIVISIBILITY:",
+                "   - Must be divisible",
+                "   - Easy to make change",
+                "4. PORTABILITY:",
+                "   - Must be easy to carry",
+                "5. DURABILITY:",
+                "   - Should not degrade quickly"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Evolution of Money",
+          "slides": [
+            {
+              "slide_number": 102,
+              "title": "The Barter System",
+              "content": [
+                "• Life among ancient humans was simple and self-sufficient",
+                "• Self-sufficiency ended as needs increased",
+                "• Barter: Direct exchange of goods for goods",
+                "• Individual produces surplus to exchange for needed items",
+                "• Economy based on this system: Barter Economy",
+                "• Major limitations led to development of money"
+              ]
+            },
+            {
+              "slide_number": 103,
+              "title": "Limitations of Barter System",
+              "content": [
+                "1. Lack of Double Coincidence of Wants:",
+                "   - Need to find someone who wants what you have AND has what you want",
+                "2. Lack of Common Measure of Value:",
+                "   - No standard to determine exchange ratios",
+                "3. Indivisibility of Commodities:",
+                "   - Some goods cannot be divided",
+                "4. Difficulty in Storing and Transferring Wealth:",
+                "   - Many goods lose value over time or have high storage/transportation costs",
+                "5. Difficulty in Deferred Payments:",
+                "   - Price instability and lack of quality standards"
+              ]
+            },
+            {
+              "slide_number": 104,
+              "title": "Evolution of Money Globally",
+              "content": [
+                "• Barter → Commodity Money → Paper Currency → Fiat Money → Checks → Electronic Money",
+                "• Commodity Money: Precious metals or valuable items",
+                "  - Problems: Heavy and hard to transport",
+                "• Paper Currency: Initially convertible into coins/precious metal",
+                "  - Advantage: Lighter",
+                "  - Disadvantage: Trust required, difficult to counterfeit",
+                "• Fiat Money: Decreed by governments as legal tender",
+                "  - Not convertible into coins or precious metal"
+              ]
+            },
+            {
+              "slide_number": 105,
+              "title": "Checks and Electronic Money",
+              "content": [
+                "• CHECKS:",
+                "  - Payable on demand",
+                "  - Transactions without carrying large amounts of currency",
+                "  - Reduced transportation costs",
+                "  - Loss from theft greatly reduced",
+                "  - Provide convenient receipts",
+                "• ELECTRONIC MONEY (E-MONEY):",
+                "  - Payments using electronic telecommunications",
+                "  - Examples: visa cards, credit cards, etc."
+              ]
+            },
+            {
+              "slide_number": 106,
+              "title": "History of Money in Ethiopia",
+              "content": [
+                "• 3rd century A.D. (Axumite kingdom): First coins",
+                "• After Axum's fall: Commodity money used",
+                "  - Salt (amole) most important and widely spread",
+                "  - Also cloth, beads",
+                "• Maria Theresa Thaler: Late 18th/early 19th century",
+                "  - Widely used until 1945",
+                "• National coins: Emperor Menelik II (1893), Emperor Haileselassie I (1933)"
+              ]
+            },
+            {
+              "slide_number": 107,
+              "title": "History of Money in Ethiopia (Continued)",
+              "content": [
+                "• First Paper Money: Bank of Abyssinia (1914)",
+                "  - Failed to gain acceptance initially",
+                "• Bank of Ethiopia (1932): 100% backed by gold deposits",
+                "• Italian Occupation (1936-1941): Italian Lire",
+                "• Post-1941: Foreign currencies circulated",
+                "  - East African Shilling, Indian Rupee, Egyptian Pound",
+                "• July 1945: Ethiopian government issued new national currency - BIRR",
+                "• With banking development: Checks started to be used"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Functions of Money",
+          "slides": [
+            {
+              "slide_number": 108,
+              "title": "Four Basic Functions of Money",
+              "content": [
+                "In every society, money performs four basic functions:",
+                "",
+                "1. Medium of Exchange",
+                "2. Unit of Account (Measure of Value)",
+                "3. Store of Value",
+                "4. Standard of Deferred Payment",
+                "",
+                "All these functions play significant roles in the economy's operation"
+              ]
+            },
+            {
+              "slide_number": 109,
+              "title": "1. Medium of Exchange",
+              "content": [
+                "• Most basic function of money",
+                "• Used to pay for goods and services",
+                "• Used in almost all market transactions",
+                "• Money has no direct power to satisfy wants",
+                "  - But has power to purchase things that satisfy wants",
+                "• Promotes economic efficiency",
+                "  - Eliminates time spent exchanging goods (transaction cost)",
+                "• Lower transaction costs → encourage specialization and division of labour"
+              ]
+            },
+            {
+              "slide_number": 110,
+              "title": "2. Unit of Account (Measure of Value)",
+              "content": [
+                "• Used to measure value in the economy",
+                "• Measures value of goods and services in terms of money",
+                "• Like measuring weight in pounds or distance in miles",
+                "• Enables orderly pricing system",
+                "• Essential for:",
+                "  - Rational economic calculation and choice",
+                "  - Transmitting economic information among individuals"
+              ]
+            },
+            {
+              "slide_number": 111,
+              "title": "3. Store of Value",
+              "content": [
+                "• A repository of purchasing power over time",
+                "• Used to save purchasing power from when income is received until it is spent",
+                "• Useful because most people don't want to spend income immediately",
+                "• Money is not unique as a store of value",
+                "• Other assets (stocks, bonds, land, houses, art) can store wealth",
+                "• Many assets have advantages over money:",
+                "  - Higher interest rate",
+                "  - Maintain value better",
+                "  - Provide services"
+              ]
+            },
+            {
+              "slide_number": 112,
+              "title": "Liquidity and Money",
+              "content": [
+                "• Question: If other assets are better stores of value, why hold money?",
+                "• Answer: Liquidity",
+                "• LIQUIDITY: The relative ease and speed with which an asset can be",
+                "  converted to a medium of exchange",
+                "• Money is the most liquid asset",
+                "• You can spend money immediately",
+                "• Other assets must be converted to money before spending"
+              ]
+            },
+            {
+              "slide_number": 113,
+              "title": "4. Standard of Deferred Payments",
+              "content": [
+                "• Allows buying now and paying later",
+                "• Allows lending now and collecting later",
+                "• When people save money:",
+                "  - Money can be borrowed and channeled into investments",
+                "• Permits transfer of spending power from:",
+                "  - Earners-savers to borrowers-spenders",
+                "• Allows easy transfer of resources from less desired uses",
+                "  - To more desired uses (more productive, more profitable)"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Demand and Supply of Money",
+          "slides": [
+            {
+              "slide_number": 114,
+              "title": "Demand for Money (Liquidity Preference)",
+              "content": [
+                "• Traditional View: Money demanded for completing business transactions",
+                "  - Depends on volume of trade or transactions",
+                "  - Increases during boom period",
+                "  - Decreases during depression",
+                "• Modern View (Keynes): Demand for money to hold",
+                "  - Called Liquidity Preference",
+                "• Three main reasons people want to hold money:",
+                "  1. Transaction Motive",
+                "  2. Precautionary Motive",
+                "  3. Speculative Motive"
+              ]
+            },
+            {
+              "slide_number": 115,
+              "title": "1. Transaction Motive",
+              "content": [
+                "• Demand for money for current transactions",
+                "• Two perspectives:",
+                "  a) Income Motive (Consumers):",
+                "    - To bridge interval between receipt of income and its expenditure",
+                "    - Keep cash for current payments",
+                "    - Depends on: size of income, receipt interval, methods of payment",
+                "  b) Business Motive (Businessmen):",
+                "    - Keep ready cash to meet current needs",
+                "    - Pay for raw materials, transport, wages, salaries",
+                "    - Depends on turnover (volume of trade)"
+              ]
+            },
+            {
+              "slide_number": 116,
+              "title": "2. Precautionary Motive",
+              "content": [
+                "• Desire to hold cash balances for unforeseen contingencies",
+                "• To provide for:",
+                "  - Risk of unemployment",
+                "  - Sickness",
+                "  - Accidents",
+                "  - Other uncertain losses",
+                "• Amount held depends on:",
+                "  - Nature of the individual",
+                "  - Conditions in which they live"
+              ]
+            },
+            {
+              "slide_number": 117,
+              "title": "3. Speculative Motive",
+              "content": [
+                "• Desire to hold resources in liquid form",
+                "• To take advantage of market movements",
+                "• Relates to future changes in:",
+                "  - Rate of interest",
+                "  - Bond prices",
+                "• Money held under this motive serves as a store of value",
+                "• Different purpose than precautionary motive",
+                "• Amount of money required under various motives constitutes demand for money"
+              ]
+            },
+            {
+              "slide_number": 118,
+              "title": "Supply of Money",
+              "content": [
+                "• Supply of money = Supply of money to hold",
+                "• Money must always be held by someone",
+                "• Definition: Sum total of all forms of money held by a community at any given moment",
+                "• Components:",
+                "  (a) Metallic money or coins",
+                "  (b) Currency notes issued by currency authority",
+                "  (c) Checkable bank deposits"
+              ]
+            },
+            {
+              "slide_number": 119,
+              "title": "Money Supply in a Country",
+              "content": [
+                "• Total volume of monetary medium of exchange available to the community",
+                "• Two main elements:",
+                "  1. Currency with the public",
+                "     - Currency notes in circulation",
+                "     - Coins in circulation",
+                "     - Deduct: 'Cash in hand with banks'",
+                "  2. Deposit money with the public",
+                "     - Bank balances in current accounts",
+                "• In developing countries: Currency dominates over bank deposits",
+                "• Supply depends on credit control policies of banking system",
+                "• National Bank of Ethiopia issues bulk of currency"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Money and Electronic Money (e-money)",
+          "slides": [
+            {
+              "slide_number": 120,
+              "title": "What is Electronic Money?",
+              "content": [
+                "• Electronic store of monetary value",
+                "• Stored on a technical device",
+                "• Used widely for making payments",
+                "• Examples:",
+                "  - Debit cards",
+                "  - Prepaid cards",
+                "  - Credit cards",
+                "  - Mobile banking",
+                "• Allows 24-hour access to cash through ATMs",
+                "• Electronic Fund Transfer (EFT):",
+                "  - Uses computers and electronic technology"
+              ]
+            },
+            {
+              "slide_number": 121,
+              "title": "Advantages of E-money",
+              "content": [
+                "1. Ability to move money quickly",
+                "2. Better recordkeeping",
+                "3. Enables global money transfers",
+                "4. Ability to move large sums of money without physical burden",
+                "5. Convenience (e.g., 24/7 access through ATMs)",
+                "6. Reduced need for carrying cash",
+                "7. Efficiency in transactions"
+              ]
+            },
+            {
+              "slide_number": 122,
+              "title": "Disadvantages of E-money",
+              "content": [
+                "1. Cybercrime risks",
+                "2. New digital forms of money laundering",
+                "3. Users must have minimum level of training and knowledge",
+                "4. Some types (especially cryptocurrencies) linked to criminal activity",
+                "5. Both hardware and software required",
+                "6. Transaction fees may apply",
+                "7. Not universally accepted in all locations"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Introduction to Macroeconomics",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Definition of Macroeconomic Variables",
+          "slides": [
+            {
+              "slide_number": 123,
+              "title": "What is Macroeconomics?",
+              "content": [
+                "• From Greek prefix 'makro-' meaning 'large'",
+                "• Branch of economics dealing with economy as a whole",
+                "• Focuses on: performance, structure, behavior, decision-making",
+                "• Includes: regional, national, and global economies",
+                "• Uses interest rates, taxes, government spending to regulate growth and stability",
+                "• Topics studied: GDP, unemployment, national income, price indices, inflation, trade"
+              ]
+            },
+            {
+              "slide_number": 124,
+              "title": "Gross Domestic Product (GDP)",
+              "content": [
+                "• Definition: Total value of currently produced final goods and services",
+                "  - Produced within a country's boundary",
+                "  - During a given period (usually one year)",
+                "• Key points:",
+                "  1. Measures current production only",
+                "  2. Includes final goods and services only (end products)",
+                "     - Excludes intermediate goods",
+                "  3. Measures value within country's territory",
+                "     - Regardless of who produces them",
+                "• Formula: GDP = Σ(Pi × Qi)",
+                "  - Pi = prices of outputs",
+                "  - Qi = quantities of final goods and services"
+              ]
+            },
+            {
+              "slide_number": 125,
+              "title": "Gross National Product (GNP)",
+              "content": [
+                "• Definition: Total value of goods and services",
+                "  - Produced by domestically owned factors of production",
+                "  - Regardless of geographical location",
+                "  - During a given time period (usually one year)",
+                "• Formula: GDP + NFI = GNP",
+                "  - NFI = Net Factor Income from Foreign Sources",
+                "• NFI = (Factor income received from abroad) - (Factor income paid for foreigners abroad)",
+                "• NFI can be:",
+                "  - Positive (GNP > GDP)",
+                "  - Negative (GNP < GDP)",
+                "  - Zero (GNP = GDP)"
+              ]
+            },
+            {
+              "slide_number": 126,
+              "title": "Per Capita Income",
+              "content": [
+                "• Definition: Ratio of GDP of a country to its total population",
+                "• Purpose: Determines average income of individual citizens",
+                "• Enables evaluation of living standard of the population",
+                "• Formula: PCI = GDP / Population",
+                "• Useful for comparing living standards between countries",
+                "• Important for policy making"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Macroeconomic Goals",
+          "slides": [
+            {
+              "slide_number": 127,
+              "title": "General Objectives of Macroeconomic Policy",
+              "content": [
+                "Nations adopt macroeconomic policies to bring desirable changes in aggregate variables.",
+                "The general objectives are:",
+                "",
+                "1. Economic Growth",
+                "2. Full Employment",
+                "3. Stable Balance of Payment",
+                "4. Price Stability",
+                "5. Fair Distribution of Income and Wealth",
+                "",
+                "Policies vary according to economic conditions of specific economy"
+              ]
+            },
+            {
+              "slide_number": 128,
+              "title": "Detailed Macroeconomic Goals",
+              "content": [
+                "1. ECONOMIC GROWTH:",
+                "   - Consistent increase in national income",
+                "2. FULL EMPLOYMENT:",
+                "   - Maximum possible utilization of factors of production",
+                "3. STABLE BALANCE OF PAYMENT:",
+                "   - Statistical record of economic transactions between residents and rest of world in equilibrium",
+                "4. PRICE STABILITY:",
+                "   - Stable level of prices avoiding inflation or deflation",
+                "   - Sustains value of money over time",
+                "   - Important for savers",
+                "5. FAIR DISTRIBUTION OF INCOME AND WEALTH"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Macroeconomic Problems",
+          "slides": [
+            {
+              "slide_number": 129,
+              "title": "Macroeconomic Problems",
+              "content": [
+                "• Economy does not always run smoothly",
+                "• Recession: Levels of national income, output, and employment",
+                "  - Far below full potential levels",
+                "  - Idle productive capacity",
+                "• Key questions addressed by macroeconomics:",
+                "  1. What causes inflation?",
+                "  2. What causes unemployment?",
+                "• Major macroeconomic problems:",
+                "  1. Inflation",
+                "  2. Unemployment",
+                "  3. Trade Balance Deficit",
+                "  4. Balance of Payments Deficit"
+              ]
+            },
+            {
+              "slide_number": 130,
+              "title": "1. Inflation",
+              "content": [
+                "• Definition: Sustained increase in the general price level",
+                "• Key points:",
+                "  - Small rise in prices is not inflation",
+                "  - Persistent and appreciable rise in prices",
+                "  - All costs and prices do not rise together or in same proportion",
+                "  - Measured by price index (average of consumer/producer prices)",
+                "• Opposite: Deflation (prices decrease)",
+                "• Economy can fluctuate between both conditions"
+              ]
+            },
+            {
+              "slide_number": 131,
+              "title": "Causes and Types of Inflation",
+              "content": [
+                "• Causes:",
+                "  - Increase in money supply",
+                "  - Increase in input costs",
+                "  - Imported inflation",
+                "  - Weaker exchange rate",
+                "  - Decline in productivity",
+                "• Types:",
+                "  1. DEMAND-PULL INFLATION:",
+                "     - Increase in aggregate demand",
+                "     - Economy producing at/near full capacity",
+                "     - 'Too much money' chasing 'too few goods'",
+                "  2. COST-PUSH INFLATION:",
+                "     - Continuous decline in aggregate supply",
+                "     - Due to: bad weather, wage increases, input price increases",
+                "     - Also called supply-side inflation"
+              ]
+            },
+            {
+              "slide_number": 132,
+              "title": "2. Unemployment",
+              "content": [
+                "• Definition: Individuals who are employable, actively seeking a job, but unable to find one",
+                "• Labor Force:",
+                "  - Population aged 15-64 who are fit, willing, and available to work",
+                "  - Includes both employed and unemployed people",
+                "• For a person to be unemployed:",
+                "  1. Must be without a job and able to work",
+                "  2. Must want a job and willing to work at current market wage",
+                "• Unemployment Rate: (Number of unemployed / Total labor force) × 100"
+              ]
+            },
+            {
+              "slide_number": 133,
+              "title": "Types of Unemployment",
+              "content": [
+                "1. FRICTIONAL UNEMPLOYMENT:",
+                "   - Brief period of unemployment",
+                "   - Due to:",
+                "     - Seasonality of work (e.g., construction workers)",
+                "     - Voluntary job switching",
+                "     - New entrants (e.g., graduates)",
+                "     - Re-entering the labor force",
+                "2. STRUCTURAL UNEMPLOYMENT:",
+                "   - Mismatch between skills/locations and job requirements/locations",
+                "   - Due to changes in demand pattern or structure of production",
+                "3. CYCLICAL UNEMPLOYMENT:",
+                "   - Due to deficiency in demand",
+                "   - Associated with recession/depression period of trade cycle"
+              ]
+            },
+            {
+              "slide_number": 134,
+              "title": "Disguised Unemployment in Ethiopian Economy",
+              "content": [
+                "• Unemployment that does not affect aggregate economic output",
+                "• Occurs when:",
+                "  - Productivity is low",
+                "  - Too many workers filling too few jobs",
+                "  - Workers are involved in redundant work",
+                "  - Creates minimal to no productivity",
+                "• Also called hidden unemployment or labor surplus",
+                "• Very common in:",
+                "  - Third world countries",
+                "  - Still developing countries",
+                "  - Countries with large populations"
+              ]
+            },
+            {
+              "slide_number": 135,
+              "title": "3. Trade Balance Deficit",
+              "content": [
+                "• Trade Balance = Receipts for exported goods - Payments on imported goods",
+                "• Also called visible balance",
+                "• SURPLUS: Country earned more from exports than paid for imports",
+                "• DEFICIT: Country paid more for imports than earned from exports",
+                "• Ethiopian economy has experienced deficit balance of trade:",
+                "  - Export receipts fall short of import expenditure"
+              ]
+            },
+            {
+              "slide_number": 136,
+              "title": "4. Balance of Payments Deficit",
+              "content": [
+                "• Balance of Payments: Statistical record of all economic transactions between",
+                "  - Residents of the reporting country AND",
+                "  - Residents of the rest of the world",
+                "• Reporting period: Usually a year",
+                "• Reveals:",
+                "  - How many goods and services exported and imported",
+                "  - Whether country borrowed from or lent to rest of world",
+                "  - Changes in reserves of foreign currency",
+                "• DEFICIT: Total payments exceed total receipts"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "Basic Entrepreneurship",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "Definition of Enterprise, Entrepreneur and Entrepreneurship",
+          "slides": [
+            {
+              "slide_number": 137,
+              "title": "Core Concepts",
+              "content": [
+                "• ENTERPRISE:",
+                "  - Legal entity possessing right to conduct business",
+                "  - Can enter into contracts, own property, incur liabilities, establish bank accounts",
+                "• ENTREPRENEUR:",
+                "  - Any person who creates and develops a business idea",
+                "  - Takes risk of setting up enterprise",
+                "  - Produces product/service satisfying customer needs",
+                "• ENTREPRENEURSHIP:",
+                "  - Process of identifying opportunities in marketplace",
+                "  - Arranging resources to pursue opportunities",
+                "  - Investing resources to exploit opportunities for long term gains"
+              ]
+            },
+            {
+              "slide_number": 138,
+              "title": "Key Aspects of Entrepreneurship",
+              "content": [
+                "• Involves:",
+                "  - Creating incremental wealth",
+                "  - Bringing together resources in new ways",
+                "  - Starting and operating an enterprise",
+                "• Results in:",
+                "  - Creativity",
+                "  - Innovation",
+                "  - Enterprise development and growth",
+                "• Shifts people from:",
+                "  - 'Job seekers' to 'job creators'",
+                "• Critical in countries with high unemployment rates (like Ethiopia)",
+                "• Requires creativity as driving force behind innovation"
+              ]
+            },
+            {
+              "slide_number": 139,
+              "title": "Abilities of an Entrepreneur",
+              "content": [
+                "1. Ability to spot a potentially profitable opportunity",
+                "2. Ability to commercialize the perceived opportunity (Innovation)",
+                "3. Ability to pursue it in the long term",
+                "4. Ability to pursue it methodically",
+                "5. Acceptance of failure as a possibility",
+                "",
+                "Examples of Ethiopian Entrepreneurs:",
+                "• Bethlehem Tilahun Alemu: Founded SoleRebels (shoe company using recycled tires)",
+                "  - Named fastest growing brand in Africa by Forbes",
+                "• Haile Gebrselassie: Retired athlete, owns Marathon Motors (assembles Hyundai vehicles)"
+              ]
+            },
+            {
+              "slide_number": 140,
+              "title": "History of Entrepreneurship",
+              "content": [
+                "• ANCIENT PERIOD:",
+                "  - 'Entrepreneur' referred to person managing large commercial projects",
+                "  - Using resources provided to him",
+                "• 17th CENTURY:",
+                "  - Person with contractual agreement with government",
+                "  - To provide stipulated products or services",
+                "• 18th CENTURY:",
+                "  - Richard Cantillon: Entrepreneur is a risk-taker",
+                "  - Differentiated entrepreneurial role from capital providing role"
+              ]
+            },
+            {
+              "slide_number": 141,
+              "title": "History of Entrepreneurship (Continued)",
+              "content": [
+                "• LATE 19th/EARLY 20th CENTURY:",
+                "  - Economic perspective",
+                "  - Organizes and operates enterprise for personal gain",
+                "• MID-20th CENTURY:",
+                "  - Concept of entrepreneur as an inventor established",
+                "• Evolution Summary:",
+                "  - Managing commercial projects",
+                "  - Risk-taker",
+                "  - Organizer for personal gain",
+                "  - Application of innovation in business ideas"
+              ]
+            },
+            {
+              "slide_number": 142,
+              "title": "Social Entrepreneurship",
+              "content": [
+                "• Social Entrepreneurship:",
+                "  - Process by which individuals, start-ups, entrepreneurs",
+                "  - Develop and find solutions that directly address social issues",
+                "• Growing rapidly, attracting increasing attention",
+                "• Reasons for popularity:",
+                "  - Interesting and appealing about entrepreneurs and their stories",
+                "  - People like Muhammad Yunus and Steve Jobs are attracted",
+                "• Indicators:",
+                "  - Commanding role in driving social change",
+                "  - Potential payoff with benefit to society",
+                "• Definition remains unclear and broad"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Creativity and Innovation in Solving Local Problems",
+          "slides": [
+            {
+              "slide_number": 143,
+              "title": "Creativity, Innovation, and Entrepreneurship",
+              "content": [
+                "• Recognized as important contributors to nation's economic growth",
+                "• Chronologically interrelated",
+                "• CREATIVITY:",
+                "  - Tendency to generate ideas, alternatives, or possibilities",
+                "  - Useful in solving problems, communicating, entertaining",
+                "  - Ability to come up with new ideas",
+                "  - Identify new ways of looking at problems and opportunities",
+                "• Innovation: Implementation of new ideas",
+                "• Entrepreneurship: Exploitation of opportunities through creativity and innovation"
+              ]
+            },
+            {
+              "slide_number": 144,
+              "title": "Key Elements of Creativity",
+              "content": [
+                "Definition of Creativity has three key elements:",
+                "",
+                "1. CREATIVITY IS AN ONGOING PROCESS",
+                "",
+                "2. IDEAS:",
+                "   - Creativity results in ideas",
+                "   - Ideas have potential value",
+                "",
+                "3. RECOMBINING:",
+                "   - Creative process of putting things together",
+                "   - In unexpected ways",
+                "",
+                "To be creative: Need to view things in new ways from different perspectives"
+              ]
+            },
+            {
+              "slide_number": 145,
+              "title": "Innovation",
+              "content": [
+                "• Lies at the heart of the entrepreneurial process",
+                "• A means to the exploitation of opportunities",
+                "• Implementation of a new idea at:",
+                "  - Individual, group, or organizational level",
+                "• Four distinct types of innovation:",
+                "  1. INVENTION: Creation of a new product, service, or process",
+                "  2. EXPANSION: Growth of a product, service, or process",
+                "  3. DUPLICATION: Replication of an already existing product, service, or process",
+                "  4. SYNTHESIS: Combination of existing concepts and factors into a new formulation"
+              ]
+            },
+            {
+              "slide_number": 146,
+              "title": "From Creativity to Entrepreneurship",
+              "content": [
+                "• CREATIVITY: Ability to develop new ideas and discover new ways",
+                "  - Looking at problems and opportunities",
+                "• INNOVATION: Ability to apply creative solutions",
+                "  - Improve people's lives or enrich society",
+                "• ENTREPRENEURSHIP:",
+                "  - Creativity leads to generation of novel business ways",
+                "  - Exploring new niches and coming up with new ideas",
+                "  - Leads to efficiency and competitive advantage",
+                "• Creative entrepreneurs are investors in talent:",
+                "  - Their own or other people's"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "Entrepreneurial Attitudes, Behaviour and Mind-set",
+          "slides": [
+            {
+              "slide_number": 147,
+              "title": "Entrepreneurial Mind-set",
+              "content": [
+                "• A state of mind that an individual possesses",
+                "• The way people think and their attitude towards goals",
+                "• Important tool that enables entrepreneurial activities",
+                "• Entrepreneurs are innovators and creators",
+                "• Their mind-set gives business the best chance of surviving",
+                "• Means they are brave in decisions they make",
+                "• Actively seek clients and take risks",
+                "• Not all entrepreneurs succeed: Successful entrepreneurs fail at least once",
+                "• Key: Learn from failures and exploit them"
+              ]
+            },
+            {
+              "slide_number": 148,
+              "title": "Key Attitudes Every Entrepreneur Must Have",
+              "content": [
+                "1. PASSION:",
+                "   - Passionate about ideas, goals, and companies",
+                "   - Drives them to do business",
+                "   - Essential to entrepreneurial life",
+                "2. BRAVERY:",
+                "   - Fear of not succeeding doesn't stop them",
+                "   - Learn from failures",
+                "   - Use fear to push themselves harder",
+                "3. FLEXIBILITY:",
+                "   - Experience obstacles",
+                "   - Modify approach when needed",
+                "   - Change route towards established goal"
+              ]
+            },
+            {
+              "slide_number": 149,
+              "title": "Key Attitudes (Continued)",
+              "content": [
+                "4. STRONG WORK ETHICS:",
+                "   - Not easy to start from ground up",
+                "   - Many hours of hard work, frustration, creativity, supervision",
+                "   - Always working: establishing new ideas, creating new products, designing new processes, hiring clever people",
+                "5. INTEGRITY:",
+                "   - Demonstrate trustworthiness and honesty",
+                "   - Colleagues, sellers, customers, investors must trust them",
+                "   - Suppliers need to know payments arrive on time",
+                "   - Customers need to know products/services delivered as promised"
+              ]
+            },
+            {
+              "slide_number": 150,
+              "title": "Skills and Attributes to be More Innovative",
+              "content": [
+                "• Skill: Knowledge demonstrated through action",
+                "• Entrepreneur: Has good business idea AND can turn it into reality",
+                "• Turning idea into reality based on two kinds of skills:",
+                "  1. General Management Skills",
+                "  2. People Management Skills"
+              ]
+            },
+            {
+              "slide_number": 151,
+              "title": "General Management Skills",
+              "content": [
+                "1. STRATEGY SKILLS:",
+                "   - Think about business as a whole",
+                "   - Understand how it fits into market",
+                "   - Organize to deliver value better than competitors",
+                "2. PLANNING SKILLS:",
+                "   - Consider future impacts",
+                "   - Prepare for what needs to be done now",
+                "3. MARKETING SKILLS:",
+                "   - Understand customer needs",
+                "   - See how products satisfy needs"
+              ]
+            },
+            {
+              "slide_number": 152,
+              "title": "General Management Skills (Continued)",
+              "content": [
+                "4. FINANCIAL SKILLS:",
+                "   - Manage money",
+                "   - Keep track of expenses",
+                "   - Monitor cash flow",
+                "   - Evaluate investments for potential risks",
+                "5. PROJECT MANAGEMENT SKILLS:",
+                "   - Organize projects",
+                "   - Establish specific objectives and timelines",
+                "   - Ensure resources in right place at right time",
+                "6. TIME MANAGEMENT SKILLS:",
+                "   - Use time productively",
+                "   - Prioritize important tasks",
+                "   - Complete tasks on time"
+              ]
+            },
+            {
+              "slide_number": 153,
+              "title": "People Management Skills",
+              "content": [
+                "1. COMMUNICATION SKILLS:",
+                "   - Express ideas clearly",
+                "   - Inform others orally and in writing",
+                "2. LEADERSHIP SKILLS:",
+                "   - Inspire people to work in a certain way",
+                "   - Complete tasks required for success",
+                "3. MOTIVATIONAL SKILLS:",
+                "   - Entice and compel people to complete tasks",
+                "   - Understand what drives people",
+                "   - Understand what people expect from jobs"
+              ]
+            },
+            {
+              "slide_number": 154,
+              "title": "People Management Skills (Continued)",
+              "content": [
+                "4. DELEGATION SKILLS:",
+                "   - Allocate tasks to different people",
+                "   - More than just instructing",
+                "   - Understand skills people possess",
+                "   - Use skills to achieve future business needs",
+                "5. NEGOTIATION SKILLS:",
+                "   - Understand what is required in a situation",
+                "   - Identify opportunities to maximize outcomes for all parties",
+                "• Entrepreneurial performance = Combination of:",
+                "  - Business knowledge",
+                "  - General management skills",
+                "  - People skills",
+                "  - Personal motivation"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.4",
+          "section_title": "Windows of Entrepreneurial Opportunities",
+          "slides": [
+            {
+              "slide_number": 155,
+              "title": "Identifying Entrepreneurial Opportunities",
+              "content": [
+                "• Not every idea is necessarily a good one",
+                "• An idea becomes an opportunity when:",
+                "  - Identifiable consumer demand exists",
+                "  - Possibility of satisfying the requested product/service",
+                "• Criteria to move from idea to opportunity:",
+                "  - Develop the right mindset",
+                "  - Sharpen senses on consumer needs",
+                "  - Conduct research to determine feasibility"
+              ]
+            },
+            {
+              "slide_number": 156,
+              "title": "How Opportunities are Found",
+              "content": [
+                "• Through DELIBERATE SEARCH:",
+                "  - Especially when developing new technologies",
+                "• By CHANCE:",
+                "  - Unintentionally discovered",
+                "• By RECOGNIZING A PROBLEM:",
+                "  - Making a concerted effort to solve it",
+                "• Most cases: Opportunity arises from recognizing problem and solving it",
+                "• Example: Joseph Schumpeter's 'Creative Destruction'"
+              ]
+            },
+            {
+              "slide_number": 157,
+              "title": "Creative Destruction",
+              "content": [
+                "• Theory by economist Joseph Schumpeter (20th century)",
+                "• Entrepreneurial innovation is the disruptive force that:",
+                "  - Creates and sustains economic growth",
+                "• In the process, it can also:",
+                "  - Destroy established companies",
+                "  - Reshape businesses",
+                "  - Interrupt employment",
+                "• Business processes designed to increase company efficiency",
+                "• Change in business development improves lifestyle",
+                "• Can make other activities or products outdated"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.5",
+          "section_title": "Entrepreneurial Success, Teamwork and Diversity",
+          "slides": [
+            {
+              "slide_number": 158,
+              "title": "The Importance of Teamwork",
+              "content": [
+                "• Teamwork = Combined efforts and risk-taking",
+                "• Increases chances of entrepreneurial success",
+                "• Success is more likely when:",
+                "  - Giving great ideas a chance",
+                "  - Sharing experiences and ideas",
+                "  - Taking shots even when others might have better chances",
+                "• Working together brings better results for all parties involved"
+              ]
+            },
+            {
+              "slide_number": 159,
+              "title": "Benefits of Teamwork",
+              "content": [
+                "1. BROADENS PERSPECTIVES:",
+                "   - Single perspective is restricting",
+                "   - Teams offer different perspectives and ideas",
+                "   - Studies: Diverse teams are more creative and perform better (up to 35%)",
+                "2. INCREASES PRODUCTIVITY:",
+                "   - Workload shared among members with different knowledge and skills",
+                "   - Better job in shorter time than single person",
+                "   - Effective brainstorming sessions"
+              ]
+            },
+            {
+              "slide_number": 160,
+              "title": "Benefits of Teamwork (Continued)",
+              "content": [
+                "3. PROVIDES LEARNING OPPORTUNITIES:",
+                "   - People with different skills, experience, abilities",
+                "   - Exchange knowledge",
+                "   - Grow together and improve abilities",
+                "4. SHAPES COMPANY CULTURE:",
+                "   - Team that works well together raises spirit of friendship, loyalty, cooperation",
+                "   - Positive environment increases morale, happiness, satisfaction",
+                "   - Creates feeling of belonging",
+                "   - Members build relationships based on trust and mutual respect"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.6",
+          "section_title": "Finance and Promotion of Entrepreneurship",
+          "slides": [
+            {
+              "slide_number": 161,
+              "title": "Financial Requirements",
+              "content": [
+                "• All businesses need money to finance different activities",
+                "• Types of financial requirements:",
+                "1. PERMANENT CAPITAL:",
+                "   - Long-term finance",
+                "   - Comes from investment in share company or personal loans",
+                "   - Used for: start-up costs, major developments, expansions",
+                "   - Required for significant innovations",
+                "   - Repaid when firm can afford it",
+                "   - Rewarded by dividends or capital gains"
+              ]
+            },
+            {
+              "slide_number": 162,
+              "title": "Types of Capital",
+              "content": [
+                "2. WORKING CAPITAL:",
+                "   - Short-term financing",
+                "   - Used for: raw materials, covering other costs",
+                "   - Requirements vary considerably by business type",
+                "3. ASSET FINANCE:",
+                "   - Medium to long-term loan",
+                "   - Purchase of physical assets",
+                "   - Financed over 3-10 years or more",
+                "   - Used for: plants, machinery, equipment, company vehicles, buildings"
+              ]
+            },
+            {
+              "slide_number": 163,
+              "title": "Sources of Finance",
+              "content": [
+                "Financial resources are essential but difficult for entrepreneurial projects",
+                "",
+                "1. PERSONAL SAVING:",
+                "   - First place entrepreneurs should look for start-up money",
+                "   - Should provide at least half of start-up funds",
+                "2. FRIENDS AND RELATIVES:",
+                "   - Second source after personal savings",
+                "   - Entrepreneur should describe opportunities and risks",
+                "3. PARTNERS:",
+                "   - Take on partners to expand capital formation"
+              ]
+            },
+            {
+              "slide_number": 164,
+              "title": "Sources of Finance (Continued)",
+              "content": [
+                "4. ANGELS (PRIVATE INVESTORS):",
+                "   - Wealthy individuals",
+                "   - Often entrepreneurs themselves",
+                "   - Invest in start-up businesses",
+                "   - In exchange for taking risks",
+                "5. VENTURE CAPITAL FIRMS:",
+                "   - Private organizations",
+                "   - Invest in new businesses",
+                "   - Expect high return and high growth potential",
+                "   - Provide: start-up capital, development funds, expansion funds",
+                "",
+                "• Financing is more than getting money:",
+                "  - Process of managing assets wisely",
+                "  - Using capital efficiently"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

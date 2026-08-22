@@ -1,0 +1,1136 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Further on Sets",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Sets and Elements",
+          "summary": "This section introduces the fundamental concept of a set as a collection of well-defined objects. The term 'well-defined' means that for any given object, it can be determined whether it belongs to the set or not. Sets are typically denoted by capital letters (e.g., A, B, C), while elements are represented by lowercase letters (e.g., a, b, c). The Greek symbol ∈ (epsilon) is used to denote 'belongs to' (e.g., a ∈ A), and ∉ denotes 'does not belong to' (e.g., b ∉ A). The section provides examples to illustrate the concept of well-defined and not well-defined sets.",
+          "notes": "A set is a collection of well-defined objects or elements. The 'well-defined' characteristic is crucial; it ensures clarity in determining membership. Sets are usually named with capital letters, and their elements with lowercase letters. The notation a ∈ A indicates that 'a' is an element of set A. Conversely, b ∉ A means 'b' is not an element of set A. The concept of a set is fundamental to modern mathematics and is used to define other concepts like relations and functions. A collection like 'beautiful girls in your class' is not well-defined because 'beautiful' is subjective, whereas 'students in your class' is well-defined.",
+          "keywords": [
+            {
+              "keyword": "Set",
+              "definition": "A collection of well-defined objects or elements."
+            },
+            {
+              "keyword": "Element",
+              "definition": "An object that belongs to a set."
+            },
+            {
+              "keyword": "Well-defined",
+              "definition": "A property of a set where it is possible to determine if a given object is a member of the set."
+            },
+            {
+              "keyword": "∈ (Belongs to)",
+              "definition": "A symbol used to indicate that an element is a member of a set."
+            },
+            {
+              "keyword": "∉ (Does not belong to)",
+              "definition": "A symbol used to indicate that an element is not a member of a set."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Set Description",
+          "summary": "This section covers the various methods used to describe a set. These methods include the verbal method (using words), the complete listing method or roster method (listing all elements within braces), and the partial listing method (listing a few elements with an ellipsis to indicate the pattern). The section also introduces the set-builder method, which describes a set by stating the property or condition that its members must satisfy. Examples are provided for each method, including the use of the vertical line or colon in set-builder notation.",
+          "notes": "Sets can be described in several ways. The verbal method uses ordinary language to describe the elements, such as 'the set of whole numbers greater than 1 and less than 20'. The complete listing method (or roster method) lists every element of the set within curly braces, for example, {2, 4, 6}. The partial listing method is used when listing all elements is impractical; it lists a few elements and uses an ellipsis (e.g., {1, 2, 3, ..., 99}). The set-builder method describes a set by a defining property, written as {x | condition} or {x : condition}, which is read as 'the set of all x such that the condition is true'. For instance, {x | x ∈ ℕ and x < 11} describes the set of natural numbers less than 11. The section also defines the sets of natural numbers (ℕ), whole numbers (𝕎), and integers (ℤ).",
+          "keywords": [
+            {
+              "keyword": "Verbal Method",
+              "definition": "Describing a set in words using ordinary language."
+            },
+            {
+              "keyword": "Complete Listing Method",
+              "definition": "A method of describing a set by listing all its elements within braces."
+            },
+            {
+              "keyword": "Partial Listing Method",
+              "definition": "A method of describing a set by listing a few elements followed by an ellipsis to indicate the continuation of the pattern."
+            },
+            {
+              "keyword": "Set-builder Method",
+              "definition": "A method of describing a set by specifying a property that its members must satisfy."
+            },
+            {
+              "keyword": "ℕ (Natural Numbers)",
+              "definition": "The set of positive integers: {1, 2, 3, ...}."
+            },
+            {
+              "keyword": "𝕎 (Whole Numbers)",
+              "definition": "The set of non-negative integers: {0, 1, 2, 3, ...}."
+            },
+            {
+              "keyword": "ℤ (Integers)",
+              "definition": "The set of all positive and negative whole numbers including zero: {..., -3, -2, -1, 0, 1, 2, 3, ...}."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Notion of Sets",
+          "summary": "This section explores different types of sets, including the empty set (a set with no elements), finite sets (sets with a definite number of elements), and infinite sets (sets that are not finite). It also covers important set relations such as equal sets (sets with the same elements), equivalent sets (sets with the same number of elements), universal set (the set containing all elements under consideration), subset (all elements of one set are in another), and proper subset (a subset that is not equal to the original set). The section provides examples and formulas for calculating the number of subsets and proper subsets.",
+          "notes": "The empty set, denoted by ∅ or {}, is a set that contains no elements. A finite set has a definite number of elements, like the set of natural numbers up to 10. An infinite set has an unlimited number of elements, like the set of whole numbers. Two sets are equal if they have exactly the same elements, irrespective of order. Equivalent sets have the same number of elements (same cardinality). A universal set (U) contains all elements relevant to a particular discussion. A set A is a subset of set B (A ⊆ B) if every element of A is also in B. A proper subset (A ⊂ B) is a subset that is not equal to B; it has at least one element less. The number of subsets of a set with n elements is 2^n, and the number of proper subsets is 2^n - 1.",
+          "keywords": [
+            {
+              "keyword": "Empty Set",
+              "definition": "A set that contains no elements, denoted by ∅ or {}."
+            },
+            {
+              "keyword": "Finite Set",
+              "definition": "A set that consists of a definite number of elements."
+            },
+            {
+              "keyword": "Infinite Set",
+              "definition": "A set that is not finite, having an unlimited number of elements."
+            },
+            {
+              "keyword": "Equal Sets",
+              "definition": "Two sets that have exactly the same elements."
+            },
+            {
+              "keyword": "Equivalent Sets",
+              "definition": "Two sets that have the same number of elements (n(A) = n(B))."
+            },
+            {
+              "keyword": "Universal Set",
+              "definition": "A set that contains all elements of all related sets under consideration, usually denoted by U."
+            },
+            {
+              "keyword": "Subset",
+              "definition": "A set A is a subset of set B if every element of A is also an element of B (A ⊆ B)."
+            },
+            {
+              "keyword": "Proper Subset",
+              "definition": "A subset A of set B that is not equal to B (A ⊂ B)."
+            },
+            {
+              "keyword": "n(A)",
+              "definition": "The notation for the number of elements in set A."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Operations on Sets",
+          "summary": "This section discusses the primary operations that can be performed on sets: union, intersection, complement, difference, symmetric difference, and Cartesian product. The union (A ∪ B) is the set of elements in A or B. The intersection (A ∩ B) is the set of elements in both A and B. The complement (A') is the set of elements in the universal set U that are not in A. The difference (A - B) is the set of elements in A but not in B. The symmetric difference (A Δ B) is the set of elements in either A or B but not in both. The Cartesian product (A × B) is the set of all ordered pairs (a, b) where a ∈ A and b ∈ B. The section also introduces Venn diagrams as a tool for visual representation of these operations and states De Morgan's laws.",
+          "notes": "Venn diagrams use circles to represent sets within a rectangle (the universal set) to visualize set operations. The union of A and B (A ∪ B) includes all elements in A, in B, or in both. The intersection of A and B (A ∩ B) includes only elements present in both sets. Sets with no common elements are disjoint. The complement of A (A') consists of all elements in U not in A. The set difference A - B contains elements in A but not in B. Symmetric difference A Δ B is defined as (A - B) ∪ (B - A) or (A ∪ B) - (A ∩ B). The Cartesian product A × B is the set of all ordered pairs from A and B. The section also covers De Morgan's Laws: (A ∪ B)' = A' ∩ B' and (A ∩ B)' = A' ∪ B'.",
+          "keywords": [
+            {
+              "keyword": "Union",
+              "definition": "The set of all elements that are in set A or in set B (or in both), denoted by A ∪ B."
+            },
+            {
+              "keyword": "Intersection",
+              "definition": "The set of all elements that are in both set A and set B, denoted by A ∩ B."
+            },
+            {
+              "keyword": "Complement",
+              "definition": "The set of all elements in the universal set U that are not in set A, denoted by A'."
+            },
+            {
+              "keyword": "Set Difference",
+              "definition": "The set of all elements in A but not in B, denoted by A - B or A\B."
+            },
+            {
+              "keyword": "Symmetric Difference",
+              "definition": "The set of elements in either A or B but not in both, denoted by A Δ B."
+            },
+            {
+              "keyword": "Cartesian Product",
+              "definition": "The set of all ordered pairs (a, b) where a ∈ A and b ∈ B, denoted by A × B."
+            },
+            {
+              "keyword": "Venn Diagram",
+              "definition": "A schematic diagram using circles to represent sets and their relationships."
+            },
+            {
+              "keyword": "De Morgan's Laws",
+              "definition": "Rules relating unions, intersections, and complements: (A ∪ B)' = A' ∩ B' and (A ∩ B)' = A' ∪ B'."
+            },
+            {
+              "keyword": "Disjoint Sets",
+              "definition": "Two sets that have no elements in common, i.e., A ∩ B = ∅."
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Application",
+          "summary": "This section focuses on the application of set theory, specifically on determining the number of elements in the union of two finite sets. The formula n(A ∪ B) = n(A) + n(B) - n(A ∩ B) is introduced and explained. Examples are provided to demonstrate how to use this formula to solve practical problems, such as finding the number of people who like both of two items given the total number of people and those who like each item individually.",
+          "notes": "The formula for the number of elements in the union of two sets A and B is: n(A ∪ B) = n(A) + n(B) - n(A ∩ B). This formula is essential for solving problems where two sets overlap. If the sets are disjoint (A ∩ B = ∅), then n(A ∪ B) = n(A) + n(B). The section provides a step-by-step example to illustrate the use of the formula in finding an unknown value, such as n(A ∩ B). This application is crucial in various counting and probability problems.",
+          "keywords": [
+            {
+              "keyword": "n(A ∪ B)",
+              "definition": "The number of elements in the union of sets A and B."
+            },
+            {
+              "keyword": "Formula for Union",
+              "definition": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "The Number System",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Revision on Natural Numbers and Integers",
+          "summary": "This section revises the concepts of natural numbers (ℕ) and integers (ℤ) and introduces the Euclid's Division Lemma. It covers prime and composite numbers, divisibility tests, prime factorization, and the Fundamental Theorem of Arithmetic. Additionally, it defines and explains the methods for finding the Greatest Common Factor (GCF) and the Least Common Multiple (LCM) of two or more natural numbers, including the relationship between them.",
+          "notes": "Natural numbers are positive integers (1, 2, 3, ...), while integers include negative numbers and zero (..., -2, -1, 0, 1, 2, ...). Euclid's Division Lemma states that for any non-negative integer a and positive integer b, there exist unique integers q (quotient) and r (remainder) such that a = bq + r, with 0 ≤ r < b. A prime number has exactly two distinct factors (1 and itself), while a composite number has more than two factors. Divisibility rules provide quick ways to check divisibility by numbers like 2, 3, 4, 5, 6, 8, 9, and 10. Prime factorization expresses a composite number as a product of prime numbers, and the Fundamental Theorem of Arithmetic guarantees this factorization is unique. The GCF of two or more numbers is the greatest common factor, while the LCM is the smallest common multiple. For any two natural numbers a and b, the product of their GCF and LCM equals a × b.",
+          "keywords": [
+            {
+              "keyword": "Natural Numbers",
+              "definition": "The set of positive integers: {1, 2, 3, ...}."
+            },
+            {
+              "keyword": "Integers",
+              "definition": "The set of whole numbers and their opposites: {..., -2, -1, 0, 1, 2, ...}."
+            },
+            {
+              "keyword": "Euclid's Division Lemma",
+              "definition": "A theorem stating that for any non-negative integer a and positive integer b, there exist unique integers q and r such that a = bq + r, where 0 ≤ r < b."
+            },
+            {
+              "keyword": "Prime Number",
+              "definition": "A natural number greater than 1 that has exactly two distinct factors: 1 and itself."
+            },
+            {
+              "keyword": "Composite Number",
+              "definition": "A natural number that has more than two factors."
+            },
+            {
+              "keyword": "Prime Factorization",
+              "definition": "Expressing a composite number as a product of its prime factors."
+            },
+            {
+              "keyword": "Fundamental Theorem of Arithmetic",
+              "definition": "Every composite number can be expressed as a unique product of prime numbers."
+            },
+            {
+              "keyword": "Divisibility Test",
+              "definition": "A rule used to determine whether a number is divisible by another without performing division."
+            },
+            {
+              "keyword": "Greatest Common Factor (GCF)",
+              "definition": "The largest positive integer that divides two or more natural numbers without leaving a remainder."
+            },
+            {
+              "keyword": "Least Common Multiple (LCM)",
+              "definition": "The smallest positive integer that is a multiple of two or more natural numbers."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Rational Numbers",
+          "summary": "This section defines rational numbers as any number that can be expressed in the form a/b, where a and b are integers and b ≠ 0. It covers the classification of fractions (proper, improper, mixed) and the concept of expressing rational numbers in their simplest form. The section also explains the representation of rational numbers as decimals, distinguishing between terminating and repeating decimals. Finally, it details the process of converting repeating decimals into their fraction form.",
+          "notes": "Rational numbers (ℚ) are numbers that can be written as a ratio of two integers, with the denominator not equal to zero. Examples include 3/4, -6 (which is -6/1), and 0 (0/1). Fractions can be proper (numerator < denominator), improper (numerator ≥ denominator), or mixed numbers (a whole number and a proper fraction). A rational number is in its simplest form if the numerator and denominator have no common factors other than 1 (GCF = 1). When a rational number is expressed as a decimal, it either terminates (e.g., 3/5 = 0.6) or repeats (e.g., 5/9 = 0.555...). The section provides a method for converting repeating decimals to fractions by using algebraic manipulation to eliminate the repeating part.",
+          "keywords": [
+            {
+              "keyword": "Rational Numbers",
+              "definition": "Numbers that can be expressed in the form a/b, where a and b are integers and b ≠ 0."
+            },
+            {
+              "keyword": "Proper Fraction",
+              "definition": "A fraction where the numerator is less than the denominator."
+            },
+            {
+              "keyword": "Improper Fraction",
+              "definition": "A fraction where the numerator is greater than or equal to the denominator."
+            },
+            {
+              "keyword": "Mixed Fraction",
+              "definition": "A number consisting of a whole number and a proper fraction."
+            },
+            {
+              "keyword": "Terminating Decimal",
+              "definition": "A decimal that has a finite number of digits."
+            },
+            {
+              "keyword": "Repeating Decimal",
+              "definition": "A decimal that has one or more digits that repeat infinitely."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Irrational Numbers",
+          "summary": "This section introduces irrational numbers as decimal numbers that are neither terminating nor repeating. It explains that the square root of a non-perfect square natural number is irrational. The section demonstrates how to locate irrational numbers like √2 on a number line using geometric construction (Pythagorean theorem). Finally, it covers operations on irrational numbers, including addition, subtraction, multiplication, and division, and explains how to simplify expressions involving radicals.",
+          "notes": "Irrational numbers are real numbers that cannot be expressed as a ratio of two integers. Their decimal expansions are non-terminating and non-repeating, such as √2 ≈ 1.41421356... or π ≈ 3.14159... . The square root of any natural number that is not a perfect square is irrational. Irrational numbers can be located on the number line using geometric methods, such as constructing a right triangle with legs of length 1 to find √2. Operations on irrational numbers follow the rules of radicals, and simplification often involves factoring radicands into perfect squares. The sum or difference of irrational numbers can sometimes be simplified by combining like radicals, but the product or quotient of irrational numbers may or may not be rational.",
+          "keywords": [
+            {
+              "keyword": "Irrational Numbers",
+              "definition": "Numbers that are neither terminating nor repeating decimals and cannot be expressed as a ratio of two integers."
+            },
+            {
+              "keyword": "Radical",
+              "definition": "An expression that includes a root (√)."
+            },
+            {
+              "keyword": "Radicand",
+              "definition": "The number under the radical sign."
+            },
+            {
+              "keyword": "Like Radicals",
+              "definition": "Radicals that have the same index and the same radicand."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Real Numbers",
+          "summary": "This section defines real numbers as the union of the set of rational and irrational numbers. It covers comparing real numbers, the concept of intervals and their notation, the definition and properties of absolute value, and a comprehensive discussion of exponents and radicals. It also introduces scientific notation, the process of rationalizing denominators, and the concept of limits of accuracy (upper and lower bounds). The section concludes with a summary of the basic properties of real numbers (closure, commutative, associative, distributive, and identities/inverses).",
+          "notes": "The set of real numbers (ℝ) includes all rational and irrational numbers. There is a one-to-one correspondence between real numbers and points on the number line. Real numbers can be compared using the trichotomy property (a < b, a = b, or a > b). Intervals are sets of real numbers between two endpoints, and they can be open, closed, or half-open. The absolute value of a real number x, denoted |x|, is its distance from zero on the number line. Exponents and radicals are used to express powers and roots; the laws of exponents apply to all real numbers. Scientific notation (a × 10^n) is used to represent very large or very small numbers. Rationalizing the denominator is the process of eliminating radicals from the denominator of a fraction. Limits of accuracy define the range (upper and lower bounds) within which a rounded number lies. The real numbers satisfy fundamental properties of addition and multiplication, including the existence of additive and multiplicative identities and inverses.",
+          "keywords": [
+            {
+              "keyword": "Real Numbers",
+              "definition": "The set of numbers that includes all rational and irrational numbers."
+            },
+            {
+              "keyword": "Interval",
+              "definition": "A set of real numbers between two given numbers."
+            },
+            {
+              "keyword": "Absolute Value",
+              "definition": "The distance of a number from zero on the number line, denoted by |x|."
+            },
+            {
+              "keyword": "Exponent",
+              "definition": "A number that indicates how many times a base is multiplied by itself."
+            },
+            {
+              "keyword": "Radical",
+              "definition": "An expression that uses a root (√)."
+            },
+            {
+              "keyword": "Scientific Notation",
+              "definition": "A way of writing numbers as a product of a number between 1 and 10 and a power of 10."
+            },
+            {
+              "keyword": "Rationalizing the Denominator",
+              "definition": "The process of eliminating a radical from the denominator of a fraction."
+            },
+            {
+              "keyword": "Upper Bound",
+              "definition": "The maximum possible value of a rounded number."
+            },
+            {
+              "keyword": "Lower Bound",
+              "definition": "The minimum possible value of a rounded number."
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Applications",
+          "summary": "This section provides practical applications of the number system concepts discussed in the previous sections. It presents word problems that involve using Euclid's Division Lemma, finding the Greatest Common Factor (GCF), and determining the Least Common Multiple (LCM) to solve real-life situations.",
+          "notes": "The concepts of GCF, LCM, and Euclid's division lemma are applied to solve real-world problems. For example, Euclid's division lemma can be used to find the number of complete rows and leftover items when arranging objects in groups. The concept of GCF helps determine the largest possible equal size, such as cutting ropes into pieces of maximum length or finding the largest tile size for a floor. LCM helps solve problems involving periodic events, like two runners meeting again after completing laps of different durations.",
+          "keywords": [
+            {
+              "keyword": "Application",
+              "definition": "Using mathematical concepts to solve real-world problems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Solving Equations",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Revision on Linear Equation in One Variable",
+          "summary": "This section revises the concept of a linear equation in one variable (ax + b = 0, a ≠ 0). It outlines the steps for solving such equations: clearing fractions, simplifying both sides, isolating the variable, and verifying the solution. Examples are provided, including applications like finding the side lengths of an isosceles triangle given its perimeter.",
+          "notes": "A linear equation in one variable is of the form ax + b = 0, where a and b are real numbers and a ≠ 0. The solution to such an equation is a single value for the variable. The systematic approach to solving involves using the LCM to clear fractions, simplifying by combining like terms, isolating the variable using addition/subtraction and multiplication/division, and finally checking the answer by substitution. This concept is foundational for solving more complex equations.",
+          "keywords": [
+            {
+              "keyword": "Linear Equation in One Variable",
+              "definition": "An equation of the form ax + b = 0, where a ≠ 0, and x is the variable."
+            },
+            {
+              "keyword": "Solution",
+              "definition": "The value of the variable that makes the equation true."
+            },
+            {
+              "keyword": "Isolating the Variable",
+              "definition": "The process of manipulating the equation to get the variable alone on one side."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Systems of Linear Equations in Two Variables",
+          "summary": "This section introduces systems of linear equations in two variables. It covers methods for solving them, including using tables, the substitution method, and the addition (elimination) method. The graphical method is also presented, which helps visualize whether a system has one solution, infinitely many solutions, or no solution. The section concludes with word problems that require setting up and solving a system of equations.",
+          "notes": "A system of linear equations is a set of two or more equations with the same variables. The solution is an ordered pair that satisfies all equations in the system. Three primary algebraic methods are used to solve systems: the substitution method (solving for one variable and substituting it into the other equation), the elimination method (adding equations to eliminate a variable), and the graphical method (plotting lines to find the point of intersection). The graphical representation can show three types of systems: independent (one solution, intersecting lines), inconsistent (no solution, parallel lines), and dependent (infinitely many solutions, coincident lines). The section also emphasizes the use of these methods to solve real-world problems.",
+          "keywords": [
+            {
+              "keyword": "System of Linear Equations",
+              "definition": "A set of two or more linear equations with the same variables."
+            },
+            {
+              "keyword": "Substitution Method",
+              "definition": "A method of solving a system by solving one equation for one variable and substituting it into the other equation."
+            },
+            {
+              "keyword": "Elimination Method",
+              "definition": "A method of solving a system by adding or subtracting equations to eliminate one variable."
+            },
+            {
+              "keyword": "Graphical Method",
+              "definition": "A method of solving a system by plotting the graphs of the equations and finding their intersection point."
+            },
+            {
+              "keyword": "Ordered Pair",
+              "definition": "A pair of numbers (x, y) that represents the coordinates of a point on a plane."
+            },
+            {
+              "keyword": "Independent System",
+              "definition": "A system with exactly one solution (lines intersect)."
+            },
+            {
+              "keyword": "Inconsistent System",
+              "definition": "A system with no solution (lines are parallel)."
+            },
+            {
+              "keyword": "Dependent System",
+              "definition": "A system with infinitely many solutions (lines coincide)."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Solving Non-linear Equations",
+          "summary": "This section covers solving various types of non-linear equations, including absolute value equations, quadratic equations, and equations involving exponents and radicals. For quadratic equations, three methods are presented: factorization, completing the square, and using the quadratic formula. The discriminant is introduced to determine the nature of the roots. For radical equations, the section outlines steps for solving them, including specifying the domain and checking for extraneous solutions.",
+          "notes": "Absolute value equations are solved by setting up two separate linear equations for the positive and negative cases. Quadratic equations are of the form ax^2 + bx + c = 0. They can be solved by factorization if the roots are rational, by completing the square, or by the quadratic formula (x = [-b ± √(b^2 - 4ac)] / 2a). The discriminant (D = b^2 - 4ac) determines the nature of the roots: if D > 0, two distinct real roots; if D = 0, one real root; if D < 0, no real roots. The relationships between the roots and coefficients of a quadratic equation are also discussed. Equations involving exponents can be solved by making the bases the same and equating exponents. Radical equations require isolating the radical, raising both sides to the appropriate power, and checking for extraneous solutions that may arise.",
+          "keywords": [
+            {
+              "keyword": "Absolute Value Equation",
+              "definition": "An equation that contains an absolute value expression."
+            },
+            {
+              "keyword": "Quadratic Equation",
+              "definition": "An equation of the form ax^2 + bx + c = 0, where a ≠ 0."
+            },
+            {
+              "keyword": "Factorization Method",
+              "definition": "A method of solving a quadratic equation by expressing it as a product of two linear factors."
+            },
+            {
+              "keyword": "Completing the Square",
+              "definition": "A method of solving a quadratic equation by manipulating it to form a perfect square trinomial."
+            },
+            {
+              "keyword": "Quadratic Formula",
+              "definition": "The formula x = [-b ± √(b^2 - 4ac)] / 2a used to find the solutions of a quadratic equation."
+            },
+            {
+              "keyword": "Discriminant",
+              "definition": "The expression b^2 - 4ac in the quadratic formula, which determines the nature of the roots."
+            },
+            {
+              "keyword": "Radical Equation",
+              "definition": "An equation in which the variable appears in the radicand."
+            },
+            {
+              "keyword": "Extraneous Solution",
+              "definition": "A solution that arises during the solving process but does not satisfy the original equation."
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Applications of Equations",
+          "summary": "This section demonstrates the application of the equation-solving techniques covered in the chapter to real-life situations. It presents word problems that involve setting up and solving systems of linear equations and quadratic equations. Examples include problems related to ticket sales, geometric figures, and projectile motion.",
+          "notes": "The ability to translate a word problem into a mathematical equation or system of equations is a key skill. This section provides examples where linear and quadratic equations are used to model real-world scenarios. For instance, a system of linear equations can model the relationship between the number of adult and child tickets sold and the total revenue. A quadratic equation can model the height of a projectile over time. Solving these equations provides an answer to the original problem.",
+          "keywords": [
+            {
+              "keyword": "Application",
+              "definition": "Using equations to model and solve real-world problems."
+            },
+            {
+              "keyword": "Word Problem",
+              "definition": "A mathematical problem presented in a narrative form that requires setting up and solving equations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Solving Inequalities",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Revision on Linear Inequalities in One Variable",
+          "summary": "This section revises the properties and solution methods for linear inequalities in one variable. It covers the behavior of inequality signs when adding, subtracting, multiplying, or dividing by positive and negative numbers. The section also introduces the notation and representation of intervals (open, closed, half-open) and demonstrates solving linear inequalities, graphing the solution sets on a number line, and expressing them in interval notation.",
+          "notes": "Linear inequalities are similar to linear equations but use inequality symbols (>, <, ≥, ≤). The rules for solving them are the same as for equations, except that multiplying or dividing by a negative number reverses the inequality sign. The solution sets can be represented on a number line and in interval notation. For example, an open dot indicates a strict inequality (< or >) where the endpoint is not included, while a closed dot indicates a non-strict inequality (≤ or ≥) where the endpoint is included. Intervals can be open (a, b), closed [a, b], or half-open [a, b) or (a, b].",
+          "keywords": [
+            {
+              "keyword": "Linear Inequality in One Variable",
+              "definition": "An inequality that can be written in the form ax + b < 0, ax + b > 0, ax + b ≤ 0, or ax + b ≥ 0, where a ≠ 0."
+            },
+            {
+              "keyword": "Interval Notation",
+              "definition": "A method of writing a set of numbers using brackets and parentheses to indicate whether endpoints are included."
+            },
+            {
+              "keyword": "Open Interval",
+              "definition": "An interval that does not include its endpoints, denoted by parentheses (a, b)."
+            },
+            {
+              "keyword": "Closed Interval",
+              "definition": "An interval that includes its endpoints, denoted by brackets [a, b]."
+            },
+            {
+              "keyword": "Number Line",
+              "definition": "A visual representation of real numbers on a line."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Systems of Linear Inequalities in Two Variables",
+          "summary": "This section introduces linear inequalities in two variables and explains how to solve a system of such inequalities graphically. It details the steps for drawing the boundary line (solid for ≤/≥, dashed for </>) and determining which side of the line to shade. The solution to the system is the overlap or intersection of the shaded regions of each individual inequality.",
+          "notes": "A linear inequality in two variables, such as y > -x, represents a half-plane on a coordinate plane. To graph it, one first graphs the corresponding linear equation (the boundary line). If the inequality is strict (< or >), the line is dashed because points on the line are not part of the solution. If the inequality is non-strict (≤ or ≥), the line is solid. A test point not on the line is used to determine which side of the line to shade. The solution to a system of inequalities is the area where the shaded regions of all inequalities overlap.",
+          "keywords": [
+            {
+              "keyword": "Linear Inequality in Two Variables",
+              "definition": "An inequality that can be written in the form ax + by < c, ax + by > c, ax + by ≤ c, or ax + by ≥ c."
+            },
+            {
+              "keyword": "Half-plane",
+              "definition": "The region on one side of a line in a coordinate plane."
+            },
+            {
+              "keyword": "Boundary Line",
+              "definition": "The line that divides the coordinate plane into two half-planes."
+            },
+            {
+              "keyword": "Test Point",
+              "definition": "A point not on the boundary line used to determine which half-plane to shade."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Inequalities Involving Absolute Value",
+          "summary": "This section focuses on solving absolute value inequalities. It provides the rules for solving inequalities of the form |k| < c (which is equivalent to -c < k < c) and |k| > c (which is equivalent to k > c or k < -c). The section also covers special cases, such as when the absolute value is less than zero (no solution) or greater than or equal to zero (all real numbers).",
+          "notes": "Absolute value inequalities can be solved by converting them into compound inequalities. For any positive number c, |k| < c means that the distance of k from zero is less than c, which is equivalent to -c < k < c. Similarly, |k| > c means the distance is greater than c, equivalent to k > c or k < -c. Special cases include |k| < 0 (no solution) and |k| > 0 (all real numbers except the value that makes k=0). The solutions are expressed as intervals and can be represented on a number line.",
+          "keywords": [
+            {
+              "keyword": "Absolute Value Inequality",
+              "definition": "An inequality that contains an absolute value expression."
+            },
+            {
+              "keyword": "Compound Inequality",
+              "definition": "An inequality formed by joining two inequalities with 'and' or 'or'."
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Quadratic Inequalities",
+          "summary": "This section covers quadratic inequalities, which are inequalities that can be reduced to forms like ax² + bx + c < 0 (or >0, ≤0, ≥0). It presents two methods for solving them: the product property method (based on sign analysis of factors) and the sign chart method. Both methods involve factoring the quadratic expression and analyzing the signs of the factors over different intervals.",
+          "notes": "Quadratic inequalities are solved by first rearranging them to have zero on one side. The quadratic expression is then factored into linear factors. The product properties are used to analyze the signs of the product: mn > 0 implies both factors have the same sign; mn < 0 implies they have opposite signs. The sign chart method is a systematic way to determine the sign of the product over intervals defined by the roots of the factors. The solution set consists of the intervals where the inequality condition is satisfied.",
+          "keywords": [
+            {
+              "keyword": "Quadratic Inequality",
+              "definition": "An inequality that can be written in the form ax² + bx + c < 0, ax² + bx + c > 0, ax² + bx + c ≤ 0, or ax² + bx + c ≥ 0, where a ≠ 0."
+            },
+            {
+              "keyword": "Product Property",
+              "definition": "Properties used to determine the sign of a product of two or more factors."
+            },
+            {
+              "keyword": "Sign Chart",
+              "definition": "A table or number line used to analyze the signs of factors over different intervals."
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Applications of Inequalities",
+          "summary": "This section demonstrates the application of inequalities to real-world problems. It provides examples involving money management, measurements, and work schedules, where inequalities are used to model constraints and find possible solutions.",
+          "notes": "Inequalities are used to model situations where there are constraints or limits, such as 'at least', 'at most', 'more than', or 'less than'. This section shows how to translate word problems into inequalities, solve them, and interpret the results in the context of the problem. Examples include saving money for a purchase, setting a budget for text messages, or determining possible work hours to meet a financial goal.",
+          "keywords": [
+            {
+              "keyword": "Application",
+              "definition": "Using inequalities to model and solve real-world problems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Introduction to Trigonometry",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Revision on Right-angled Triangles",
+          "summary": "This section revises the properties of right-angled triangles. It defines the terms hypotenuse, base, and perpendicular. The key concept is the Pythagorean theorem (b² + p² = h²), which states the relationship between the sides. The section also covers the converse of the theorem and provides examples of checking whether given side lengths form a right-angled triangle.",
+          "notes": "A right-angled triangle has one 90-degree angle. The side opposite this angle is the hypotenuse, which is the longest side. The other two sides are the base and the perpendicular. The Pythagorean theorem is a fundamental property: the square of the hypotenuse is equal to the sum of the squares of the other two sides. Its converse states that if the square of the longest side equals the sum of the squares of the other two sides, then the triangle is right-angled.",
+          "keywords": [
+            {
+              "keyword": "Right-angled Triangle",
+              "definition": "A triangle that has one angle equal to 90 degrees."
+            },
+            {
+              "keyword": "Hypotenuse",
+              "definition": "The side opposite the right angle in a right-angled triangle; the longest side."
+            },
+            {
+              "keyword": "Pythagorean Theorem",
+              "definition": "The theorem stating that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides (b² + p² = h²)."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Trigonometric Ratios",
+          "summary": "This section introduces the fundamental trigonometric ratios (sine, cosine, and tangent) for acute angles in a right-angled triangle. It defines these ratios in terms of the opposite side, adjacent side, and hypotenuse. The section provides examples of calculating these ratios for given triangles, determining missing ratios from a given ratio, and finding the trigonometric values of standard angles (0°, 30°, 45°, 60°, 90°). It also explains how to use a trigonometric table to find the sine, cosine, and tangent of any angle between 0° and 90° and vice versa.",
+          "notes": "Trigonometry deals with the relationships between the sides and angles of triangles. The three primary trigonometric ratios are: sine (sin) = opposite/hypotenuse, cosine (cos) = adjacent/hypotenuse, and tangent (tan) = opposite/adjacent. These ratios are constant for a given angle, regardless of the size of the triangle. The section provides the exact values for the basic angles: sin 30° = 1/2, cos 45° = 1/√2, tan 60° = √3, etc. A trigonometric table is a practical tool for finding the approximate values of these ratios for any angle. Conversely, given the value of a trigonometric ratio, the corresponding angle can be found from the table.",
+          "keywords": [
+            {
+              "keyword": "Trigonometry",
+              "definition": "The study of relationships between the sides and angles of triangles."
+            },
+            {
+              "keyword": "Sine",
+              "definition": "In a right-angled triangle, the ratio of the length of the opposite side to the length of the hypotenuse."
+            },
+            {
+              "keyword": "Cosine",
+              "definition": "In a right-angled triangle, the ratio of the length of the adjacent side to the length of the hypotenuse."
+            },
+            {
+              "keyword": "Tangent",
+              "definition": "In a right-angled triangle, the ratio of the length of the opposite side to the length of the adjacent side."
+            },
+            {
+              "keyword": "Opposite Side",
+              "definition": "The side of a right-angled triangle that is opposite to a given angle."
+            },
+            {
+              "keyword": "Adjacent Side",
+              "definition": "The side of a right-angled triangle that is adjacent to a given angle, excluding the hypotenuse."
+            },
+            {
+              "keyword": "Trigonometric Table",
+              "definition": "A table containing approximate values of trigonometric ratios for different angles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Regular Polygons",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Sum of Interior Angles of a Convex Polygon",
+          "summary": "This section defines polygons, convex polygons, and concave polygons. The main focus is on deriving and applying the formula for the sum of the interior angles of a convex polygon with n sides: (n - 2) × 180°. The derivation is done by dividing the polygon into (n - 2) triangles using diagonals from a single vertex. Examples are provided for finding the sum of angles for specific polygons and for finding the number of sides of a polygon given the sum of its interior angles.",
+          "notes": "A polygon is a simple closed figure made of line segments. Convex polygons have all interior angles less than 180°. The sum of the interior angles of an n-sided polygon is (n - 2) × 180°. This formula is derived by drawing all non-overlapping diagonals from one vertex, which divides the polygon into (n-2) triangles. Since each triangle has an angle sum of 180°, the total sum of the polygon's interior angles is (n-2) × 180°. This formula is essential for various geometric calculations.",
+          "keywords": [
+            {
+              "keyword": "Polygon",
+              "definition": "A simple closed plane figure formed by three or more line segments (sides)."
+            },
+            {
+              "keyword": "Convex Polygon",
+              "definition": "A polygon where each interior angle is less than 180°."
+            },
+            {
+              "keyword": "Concave Polygon",
+              "definition": "A polygon that has at least one interior angle greater than 180°."
+            },
+            {
+              "keyword": "Interior Angle",
+              "definition": "An angle formed inside a polygon by two adjacent sides."
+            },
+            {
+              "keyword": "Diagonal",
+              "definition": "A line segment connecting two non-adjacent vertices of a polygon."
+            },
+            {
+              "keyword": "Sum of Interior Angles",
+              "definition": "The total measure of all interior angles of a polygon; for an n-sided polygon, it is (n - 2) × 180°."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Sum of Exterior Angles of a Convex Polygon",
+          "summary": "This section defines an exterior angle of a polygon and proves that the sum of the exterior angles (one at each vertex) of any convex polygon is always 360°. The proof is based on the fact that each interior and its corresponding exterior angle sum to 180°, and the sum of the interior angles is (n-2)×180°. Examples demonstrate the calculation of exterior angles in specific polygons.",
+          "notes": "An exterior angle of a polygon is formed by extending one side of the polygon and the adjacent side. For a convex polygon, the sum of the measures of the exterior angles, one at each vertex, is always 360°. This is a constant and does not depend on the number of sides. This property is proven algebraically using the relationship between interior and exterior angles and the formula for the sum of interior angles.",
+          "keywords": [
+            {
+              "keyword": "Exterior Angle",
+              "definition": "An angle formed outside a polygon by one side and the extension of an adjacent side."
+            },
+            {
+              "keyword": "Sum of Exterior Angles",
+              "definition": "The total measure of all exterior angles of a convex polygon; it is always 360°."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Measures of Each Interior Angle and Exterior Angle of a Regular Polygon",
+          "summary": "This section defines a regular polygon as a polygon that is both equiangular (all angles equal) and equilateral (all sides equal). Using the formulas for the sum of interior and exterior angles of an n-sided polygon, it derives formulas for the measure of each interior and each exterior angle of a regular polygon: each interior angle = ((n-2) × 180°) / n, and each exterior angle = 360° / n. Examples are provided to calculate these measures for specific regular polygons.",
+          "notes": "A regular polygon is both equiangular and equilateral. Since all interior angles of a regular n-sided polygon are equal, the measure of each interior angle is the total sum of interior angles divided by n: ((n-2) × 180°) / n. Since all exterior angles are also equal, the measure of each exterior angle is the total sum of exterior angles divided by n: 360° / n. These formulas are crucial for working with regular polygons.",
+          "keywords": [
+            {
+              "keyword": "Regular Polygon",
+              "definition": "A polygon that is both equiangular (all angles equal) and equilateral (all sides equal)."
+            },
+            {
+              "keyword": "Each Interior Angle",
+              "definition": "For a regular n-sided polygon, the measure of each interior angle is ((n-2) × 180°) / n."
+            },
+            {
+              "keyword": "Each Exterior Angle",
+              "definition": "For a regular n-sided polygon, the measure of each exterior angle is 360° / n."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Properties of Regular Polygons",
+          "summary": "This section explores the properties of regular polygons, focusing on regular pentagons, hexagons, octagons, and decagons. It covers the concept of lines of symmetry (an n-sided regular polygon has n lines of symmetry). It also discusses the concepts of inscribed and circumscribed polygons, the apothem, and the central angle. The section concludes by presenting formulas for calculating the side length (s), apothem (a), perimeter (P), and area (A) of a regular n-sided polygon inscribed in a circle of radius r: s = 2r sin(180°/n), a = r cos(180°/n), P = 2nr sin(180°/n), and A = 1/2 aP.",
+          "notes": "Regular polygons possess several interesting properties. They have a specific number of lines of symmetry equal to their number of sides. A regular polygon can be inscribed in a circle (vertices on the circle) and circumscribed about a circle (sides tangent to the circle). The center of these circles is the center of the polygon. The apothem is the distance from the center to the midpoint of a side, which is the radius of the incircle. The central angle is the angle subtended by two adjacent vertices at the center, measuring 360°/n. The section provides formulas for calculating various geometric parameters of a regular polygon given its radius, all derived from trigonometry. These formulas are essential for solving problems related to the area and perimeter of regular polygons.",
+          "keywords": [
+            {
+              "keyword": "Line of Symmetry",
+              "definition": "A line that divides a figure into two congruent halves that are mirror images of each other."
+            },
+            {
+              "keyword": "Inscribed Polygon",
+              "definition": "A polygon whose vertices lie on a circle."
+            },
+            {
+              "keyword": "Circumscribed Polygon",
+              "definition": "A polygon whose sides are tangent to a circle."
+            },
+            {
+              "keyword": "Apothem",
+              "definition": "The distance from the center of a regular polygon to the midpoint of a side."
+            },
+            {
+              "keyword": "Central Angle",
+              "definition": "The angle formed by two radii connecting the center of a polygon to two adjacent vertices; it measures 360°/n."
+            },
+            {
+              "keyword": "Circumcircle",
+              "definition": "A circle that passes through all vertices of a polygon."
+            },
+            {
+              "keyword": "Incircle",
+              "definition": "A circle that is tangent to all sides of a polygon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Congruency and Similarity",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Revision on Congruency of Triangles",
+          "summary": "This section revises the concept of congruent triangles, which are triangles that have exactly the same shape and size (corresponding sides and angles are equal). It reviews the four main congruence postulates: SSS (Side-Side-Side), SAS (Side-Angle-Side), ASA (Angle-Side-Angle), and RHS (Right angle-Hypotenuse-Side). The section provides examples to identify congruent triangles and to find missing measures.",
+          "notes": "Congruent triangles are identical in all respects. Their corresponding sides are equal in length, and their corresponding angles are equal in measure. The congruence postulates provide a way to prove that two triangles are congruent by checking only a subset of the six corresponding parts. SSS states that if three sides of one triangle are equal to three sides of another, the triangles are congruent. SAS states that if two sides and the included angle are equal, the triangles are congruent. ASA states that if two angles and the included side are equal, the triangles are congruent. RHS is a special case for right triangles, where if the hypotenuse and one leg are equal, the triangles are congruent.",
+          "keywords": [
+            {
+              "keyword": "Congruent Triangles",
+              "definition": "Triangles that have exactly the same shape and size; all corresponding sides and angles are equal."
+            },
+            {
+              "keyword": "SSS Postulate",
+              "definition": "If three sides of one triangle are congruent to three sides of another triangle, then the triangles are congruent."
+            },
+            {
+              "keyword": "SAS Postulate",
+              "definition": "If two sides and the included angle of one triangle are congruent to the corresponding parts of another triangle, then the triangles are congruent."
+            },
+            {
+              "keyword": "ASA Postulate",
+              "definition": "If two angles and the included side of one triangle are congruent to the corresponding parts of another triangle, then the triangles are congruent."
+            },
+            {
+              "keyword": "RHS Postulate",
+              "definition": "If the hypotenuse and one leg of a right triangle are congruent to the hypotenuse and one leg of another right triangle, then the triangles are congruent."
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Definition of Similar Figures",
+          "summary": "This section defines similar figures as plane figures that have the same shape but not necessarily the same size. The key properties are that all corresponding angles are congruent and all corresponding sides are proportional. The constant ratio of corresponding side lengths is called the scale factor. Examples are provided to demonstrate how to determine similarity and to find unknown side lengths or angles using the properties of similar figures.",
+          "notes": "Two figures are similar if one can be obtained from the other by uniformly scaling (enlarging or reducing). This means their corresponding angles are equal, and the ratios of the lengths of corresponding sides are equal. This common ratio is the scale factor (k). For instance, if a side of a figure is k times the length of the corresponding side of a similar figure, then the figures are similar with scale factor k. This definition applies to all plane figures, including triangles, quadrilaterals, and other polygons.",
+          "keywords": [
+            {
+              "keyword": "Similar Figures",
+              "definition": "Plane figures that have the same shape but not necessarily the same size; corresponding angles are congruent, and corresponding sides are proportional."
+            },
+            {
+              "keyword": "Scale Factor",
+              "definition": "The ratio of the lengths of corresponding sides of two similar figures."
+            },
+            {
+              "keyword": "Corresponding Angles",
+              "definition": "Angles in similar figures that are in the same relative position and are congruent."
+            },
+            {
+              "keyword": "Corresponding Sides",
+              "definition": "Sides in similar figures that are in the same relative position and are proportional."
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Theorems on Similar Plane Figures",
+          "summary": "This section focuses on the three main similarity theorems for triangles: AA (Angle-Angle), SSS (Side-Side-Side), and SAS (Side-Angle-Side). AA similarity states that if two angles of one triangle are congruent to two angles of another triangle, the triangles are similar. SSS similarity states that if the corresponding sides of two triangles are proportional, the triangles are similar. SAS similarity states that if two sides of one triangle are proportional to two sides of another triangle and the included angles are congruent, the triangles are similar. The section provides numerous examples and exercises for applying these theorems.",
+          "notes": "Similar triangles are a special case of similar figures. The AA similarity theorem is the most frequently used, as it requires only two pairs of angles to be congruent (the third pair is automatically congruent due to the angle sum property). SSS similarity allows us to determine similarity by checking if all three pairs of corresponding sides are in the same ratio. SAS similarity requires that two pairs of sides are proportional and the angle between them is congruent. These theorems provide efficient ways to prove the similarity of triangles.",
+          "keywords": [
+            {
+              "keyword": "AA Similarity Theorem",
+              "definition": "If two angles of one triangle are congruent to two angles of another triangle, then the triangles are similar."
+            },
+            {
+              "keyword": "SSS Similarity Theorem",
+              "definition": "If the corresponding sides of two triangles are proportional, then the triangles are similar."
+            },
+            {
+              "keyword": "SAS Similarity Theorem",
+              "definition": "If two sides of one triangle are proportional to two sides of another triangle and the included angles are congruent, then the triangles are similar."
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Ratio of Perimeters of Similar Plane Figures",
+          "summary": "This section establishes the relationship between the perimeters of similar figures. It states that if two figures are similar, then the ratio of their perimeters is equal to the ratio of their corresponding side lengths (the scale factor). Examples are provided to demonstrate this concept.",
+          "notes": "For similar figures, the scale factor (k) applies to all corresponding lengths, including linear dimensions like sides and the perimeter. Therefore, the perimeter of the larger figure is k times the perimeter of the smaller figure. This means the ratio of their perimeters is the same as the scale factor.",
+          "keywords": [
+            {
+              "keyword": "Ratio of Perimeters",
+              "definition": "For similar figures, the ratio of their perimeters is equal to the ratio of their corresponding side lengths (scale factor)."
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Ratio of Areas of Similar Plane Figures",
+          "summary": "This section establishes the relationship between the areas of similar figures. It states that if two figures are similar with a scale factor of k, then the ratio of their areas is k². Examples are provided to demonstrate this concept.",
+          "notes": "For similar figures, all corresponding lengths (including perimeter) are scaled by the factor k. However, area is a two-dimensional measure, so it is scaled by the square of the linear scale factor. If the scale factor from figure A to figure B is k, then the area of B is k² times the area of A. This property is fundamental in geometry and has many practical applications.",
+          "keywords": [
+            {
+              "keyword": "Ratio of Areas",
+              "definition": "For similar figures, the ratio of their areas is equal to the square of the ratio of their corresponding side lengths (k²)."
+            }
+          ]
+        },
+        {
+          "section_number": "7.6",
+          "section_title": "Construction of Similar Plane Figure",
+          "summary": "This section provides a step-by-step guide for constructing a triangle similar to a given triangle, using a specified scale factor. The construction involves drawing a ray, marking points at equal intervals, and then using parallel lines to create the new triangle. This method is based on the concept of proportional sides.",
+          "notes": "To construct a similar triangle with a given scale factor, one can use the method of parallel lines. Starting from one vertex of the triangle, a ray is drawn, and points are marked at equal intervals along it. The number of intervals corresponds to the scale factor. Then, lines are drawn parallel to the sides of the original triangle to intersect the extensions of the sides, forming the new similar triangle. This construction visually demonstrates the concept of proportionality.",
+          "keywords": [
+            {
+              "keyword": "Construction",
+              "definition": "The process of drawing geometric figures using specific tools like a ruler and compass."
+            }
+          ]
+        },
+        {
+          "section_number": "7.7",
+          "section_title": "Applications of Similarities",
+          "summary": "This section demonstrates how the concept of similarity is applied in real-life situations, particularly in measuring heights and distances that are difficult or impossible to measure directly. It provides examples of using indirect measurement with similar triangles, such as measuring the height of a building using shadows or using the line of sight from a building to a boat.",
+          "notes": "Similarity is a powerful tool for solving real-world problems. By setting up a proportion between corresponding sides of similar triangles, one can find the length of an unknown side. For example, the height of a tall object can be determined by comparing the lengths of its shadow and the shadow of a known object, assuming the sun's rays are parallel, creating similar triangles. This is a classic application of similar figures, often called indirect measurement.",
+          "keywords": [
+            {
+              "keyword": "Application of Similarity",
+              "definition": "Using the properties of similar figures to solve practical problems, such as indirect measurement."
+            },
+            {
+              "keyword": "Indirect Measurement",
+              "definition": "A method of measuring a distance or height using the properties of similar triangles without physically measuring it directly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Vectors in Two Dimensions",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "Vector and Scalar Quantities",
+          "summary": "This section distinguishes between scalar quantities (which have only magnitude, e.g., mass, temperature, speed) and vector quantities (which have both magnitude and direction, e.g., force, velocity, displacement). It provides definitions and examples to clarify the difference, emphasizing that direction is a crucial part of a vector.",
+          "notes": "Scalar quantities are completely described by a single number (and its unit). Vector quantities, on the other hand, require both a magnitude and a direction for a full description. For instance, saying 'the car is moving at 30 km/hr' gives a scalar speed, but saying 'the car is moving at 30 km/hr due north' gives a vector velocity. This distinction is fundamental in physics and mathematics.",
+          "keywords": [
+            {
+              "keyword": "Scalar Quantity",
+              "definition": "A quantity that has only magnitude (size or amount)."
+            },
+            {
+              "keyword": "Vector Quantity",
+              "definition": "A quantity that has both magnitude and direction."
+            },
+            {
+              "keyword": "Magnitude",
+              "definition": "The size or amount of a quantity."
+            },
+            {
+              "keyword": "Direction",
+              "definition": "The course or line along which a vector acts."
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Representation of a Vector",
+          "summary": "This section covers how to represent vectors geometrically (as directed line segments with an arrow) and algebraically (using column vectors). It defines key terms like initial point and terminal point. It also introduces the concepts of equal vectors (same magnitude and direction), opposite vectors (same magnitude, opposite direction), and parallel vectors (same or opposite direction). The section explains how to find the magnitude of a vector using the Pythagorean theorem and how to determine the direction of a vector using an angle with a reference axis.",
+          "notes": "A vector is represented visually as a directed line segment, where the length represents the magnitude and the arrowhead indicates the direction. In column vector form, a vector is written as (x, y) or (x/y), representing its horizontal and vertical components. Two vectors are equal if they have the same magnitude and direction. They can be translated on the plane without changing their identity. The opposite vector has the same magnitude but points in the exact opposite direction. Parallel vectors have the same or opposite direction and can be scalar multiples of each other. The magnitude of a vector (x, y) is √(x² + y²), and its direction is given by the angle θ it makes with the positive x-axis, where tan θ = y/x.",
+          "keywords": [
+            {
+              "keyword": "Directed Line Segment",
+              "definition": "A line segment with an arrow indicating a direction; used to represent a vector geometrically."
+            },
+            {
+              "keyword": "Initial Point",
+              "definition": "The starting point of a vector."
+            },
+            {
+              "keyword": "Terminal Point",
+              "definition": "The ending point of a vector."
+            },
+            {
+              "keyword": "Column Vector",
+              "definition": "A way of representing a vector as a column of numbers, e.g., (x/y)."
+            },
+            {
+              "keyword": "Equal Vectors",
+              "definition": "Vectors that have the same magnitude and direction."
+            },
+            {
+              "keyword": "Opposite Vectors",
+              "definition": "Vectors that have the same magnitude but opposite directions."
+            },
+            {
+              "keyword": "Parallel Vectors",
+              "definition": "Vectors that have the same or opposite direction."
+            },
+            {
+              "keyword": "Magnitude of a Vector",
+              "definition": "The length of a vector; for a vector (x, y), its magnitude is √(x² + y²)."
+            },
+            {
+              "keyword": "Direction of a Vector",
+              "definition": "The angle that a vector makes with a reference axis (usually the positive x-axis)."
+            }
+          ]
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "Vectors Operations",
+          "summary": "This section explains how to perform operations on vectors, including addition (using the triangle law and the parallelogram law), subtraction (by adding the opposite), and scalar multiplication. It provides both geometric and algebraic (using column vectors) methods for these operations. The triangle law of addition states that if two vectors are placed head-to-tail, their sum is the vector from the tail of the first to the head of the second. The parallelogram law states that the sum of two vectors with the same initial point is the diagonal of the parallelogram formed by them. Scalar multiplication involves multiplying a vector by a number, which changes its magnitude (scales it) and may reverse its direction if the scalar is negative.",
+          "notes": "Vector addition is performed by placing the tail of the second vector at the head of the first (triangle law). The resultant vector is from the tail of the first to the head of the second. The parallelogram law provides an alternative method for co-initial vectors, where the resultant is the diagonal of the parallelogram. Vector subtraction is defined as adding the negative of the vector: a - b = a + (-b). Scalar multiplication (k * a) scales the magnitude of the vector by the absolute value of k. If k > 0, the direction remains the same; if k < 0, the direction reverses.",
+          "keywords": [
+            {
+              "keyword": "Triangle Law of Vector Addition",
+              "definition": "A method of vector addition where the sum of two vectors is the third side of a triangle formed by placing them head-to-tail."
+            },
+            {
+              "keyword": "Parallelogram Law of Vector Addition",
+              "definition": "A method of vector addition where the sum of two co-initial vectors is the diagonal of the parallelogram formed by the two vectors."
+            },
+            {
+              "keyword": "Vector Subtraction",
+              "definition": "The operation of subtracting one vector from another, performed by adding the opposite of the second vector: a - b = a + (-b)."
+            },
+            {
+              "keyword": "Scalar Multiplication",
+              "definition": "Multiplying a vector by a scalar (a real number), which changes its magnitude and possibly its direction."
+            },
+            {
+              "keyword": "Resultant Vector",
+              "definition": "The vector that results from adding two or more vectors."
+            }
+          ]
+        },
+        {
+          "section_number": "8.4",
+          "section_title": "Position Vector",
+          "summary": "This section defines a position vector as a vector whose initial point is the origin (0,0). The position vector of a point (x, y) is given by r = xi + yj, where i and j are unit vectors along the x and y axes. It explains how to find the position vector of a vector given its initial and terminal points (by subtracting the coordinates of the initial point from the terminal point). The components of a vector are its projections along the coordinate axes.",
+          "notes": "A position vector specifies the location of a point relative to the origin. In the plane, any point P(x, y) can be represented by the position vector OP = xi + yj, where i = (1,0) and j = (0,1) are unit vectors in the x and y directions. For any vector with initial point A(x1, y1) and terminal point B(x2, y2), its corresponding position vector is obtained by subtracting the coordinates of A from B: (x2 - x1, y2 - y1). This position vector has the same magnitude and direction as the original vector.",
+          "keywords": [
+            {
+              "keyword": "Position Vector",
+              "definition": "A vector that starts at the origin (0,0) and ends at a point P(x, y), written as OP = xi + yj."
+            },
+            {
+              "keyword": "Unit Vector",
+              "definition": "A vector with a magnitude of 1. i and j are unit vectors along the x and y axes."
+            },
+            {
+              "keyword": "Components of a Vector",
+              "definition": "The projections of a vector along the coordinate axes, represented by the coefficients in its position vector form (x, y)."
+            }
+          ]
+        },
+        {
+          "section_number": "8.5",
+          "section_title": "Applications of Vectors in Two Dimensions",
+          "summary": "This section provides practical applications of vectors. Examples include finding the displacement of a boat moving in two perpendicular directions and using vectors to express relationships in geometric figures like rectangles. These applications demonstrate how vectors can be used to model and solve real-world problems involving magnitude and direction.",
+          "notes": "Vectors are used to model many physical quantities and geometric situations. For example, the displacement of an object moving in the plane can be represented by a vector. The resultant of two perpendicular forces can be found using the Pythagorean theorem, as they form a right triangle. Vectors can also be used to express relationships between points in a geometric figure, simplifying the representation and solution of geometric problems.",
+          "keywords": [
+            {
+              "keyword": "Application of Vectors",
+              "definition": "Using vector concepts and operations to solve real-world problems in physics and geometry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Statistics and Probability",
+      "sections": [
+        {
+          "section_number": "9.1",
+          "section_title": "Statistical Data",
+          "summary": "This section provides a comprehensive introduction to statistics, covering the process of collecting, organizing, presenting, analyzing, and interpreting data. It defines key concepts like population, sample, primary data, secondary data, and variables (quantitative, qualitative, continuous, discrete). The section explains how to organize raw data into frequency distribution tables and how to present data graphically using histograms. It also covers measures of central tendency (mean, median, and mode) and measures of dispersion (range, variance, and standard deviation), including their properties and calculations.",
+          "notes": "Statistics is the science of data. Data can be collected from a population (the entire group of interest) or a sample (a subset). Data can be primary (collected for the specific study) or secondary (from existing sources). Variables can be qualitative (categorical) or quantitative (numerical). Quantitative data can be continuous (can take any value within a range) or discrete (countable, usually integers). Data is organized into frequency tables and visualized using graphs like histograms. The mean is the average, the median is the middle value, and the mode is the most frequent value. Measures of dispersion include the range (max - min), variance (average of squared deviations from the mean), and standard deviation (square root of variance). Standard deviation is a key measure of spread; it changes predictably when data is transformed (e.g., adding or multiplying by a constant).",
+          "keywords": [
+            {
+              "keyword": "Statistics",
+              "definition": "The science of collecting, organizing, presenting, analyzing, and interpreting data."
+            },
+            {
+              "keyword": "Population",
+              "definition": "The entire group of individuals, objects, or measurements that have a common characteristic."
+            },
+            {
+              "keyword": "Sample",
+              "definition": "A subset of the population that is studied to infer information about the whole population."
+            },
+            {
+              "keyword": "Primary Data",
+              "definition": "Data collected firsthand by the researcher for a specific purpose."
+            },
+            {
+              "keyword": "Secondary Data",
+              "definition": "Data that has already been collected by someone else, such as from government reports."
+            },
+            {
+              "keyword": "Variable",
+              "definition": "A characteristic or attribute that can be measured or observed and varies among individuals."
+            },
+            {
+              "keyword": "Qualitative Data",
+              "definition": "Data that describes categories or qualities (e.g., color, sex)."
+            },
+            {
+              "keyword": "Quantitative Data",
+              "definition": "Data that consists of numbers (e.g., height, weight)."
+            },
+            {
+              "keyword": "Continuous Data",
+              "definition": "Data that can take any value within a given range (e.g., height, temperature)."
+            },
+            {
+              "keyword": "Discrete Data",
+              "definition": "Data that can only take certain, usually integer, values (e.g., number of children)."
+            },
+            {
+              "keyword": "Frequency Distribution Table",
+              "definition": "A table that shows how often each value or range of values (class) occurs in a data set."
+            },
+            {
+              "keyword": "Histogram",
+              "definition": "A graphical representation of a frequency distribution using bars to represent the frequency of each class."
+            },
+            {
+              "keyword": "Mean",
+              "definition": "The arithmetic average of a set of numbers, calculated by dividing the sum by the count."
+            },
+            {
+              "keyword": "Median",
+              "definition": "The middle value of a data set when it is ordered from least to greatest."
+            },
+            {
+              "keyword": "Mode",
+              "definition": "The value that appears most frequently in a data set."
+            },
+            {
+              "keyword": "Range",
+              "definition": "The difference between the largest and smallest values in a data set."
+            },
+            {
+              "keyword": "Variance",
+              "definition": "A measure of dispersion, calculated as the average of the squared deviations from the mean."
+            },
+            {
+              "keyword": "Standard Deviation",
+              "definition": "A measure of dispersion, calculated as the square root of the variance."
+            }
+          ]
+        },
+        {
+          "section_number": "9.2",
+          "section_title": "Probability",
+          "summary": "This section introduces the concept of probability, which is a numerical measure of the likelihood of an event occurring. It defines key terms such as experiment, sample space, event, and equally likely outcomes. The theoretical probability of an event E is defined as P(E) = n(E) / n(S), where n(E) is the number of favorable outcomes and n(S) is the total number of possible outcomes. The section also explains how to determine probabilities using tree diagrams, and discusses experimental probability.",
+          "notes": "Probability quantifies chance. An experiment is a procedure that produces an outcome. The sample space (S) is the set of all possible outcomes of an experiment. An event (E) is a subset of the sample space. If all outcomes in the sample space are equally likely, the probability of event E is the number of outcomes in E divided by the total number of outcomes in S. Tree diagrams are a useful tool for visualizing the outcomes of experiments with multiple steps (e.g., tossing a coin twice). The sum of the probabilities of all outcomes in a sample space is 1.",
+          "keywords": [
+            {
+              "keyword": "Probability",
+              "definition": "A numerical measure of the likelihood of an event occurring, ranging from 0 (impossible) to 1 (certain)."
+            },
+            {
+              "keyword": "Experiment",
+              "definition": "A trial or procedure that produces a well-defined outcome."
+            },
+            {
+              "keyword": "Sample Space",
+              "definition": "The set of all possible outcomes of an experiment."
+            },
+            {
+              "keyword": "Event",
+              "definition": "A subset of the sample space, representing a specific outcome or set of outcomes."
+            },
+            {
+              "keyword": "Equally Likely Outcomes",
+              "definition": "Outcomes that have the same chance of occurring."
+            },
+            {
+              "keyword": "Theoretical Probability",
+              "definition": "The probability of an event based on the analysis of the possible outcomes, defined as P(E) = n(E) / n(S)."
+            },
+            {
+              "keyword": "Tree Diagram",
+              "definition": "A diagram used to display all possible outcomes of a sequence of events."
+            },
+            {
+              "keyword": "Experimental Probability",
+              "definition": "The probability of an event based on the outcomes of an actual experiment (relative frequency)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

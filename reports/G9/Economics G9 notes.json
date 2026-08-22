@@ -1,0 +1,1222 @@
+{
+  "subject": "Economics",
+  "grade": 9,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Introduction to Economics",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Meaning of Economics",
+          "summary": "This section introduces the fundamental definition and nature of economics. Economics is defined as a social science that studies the efficient allocation of scarce resources to satisfy unlimited human needs. The definition has evolved over time, encompassing wealth, welfare, and scarcity perspectives. The nature of economics is debated as both a science, because it systematically collects and analyzes data to make predictions, and an art, because it provides principles and methods to solve practical problems like unemployment and inflation.",
+          "notes": [
+            "The term 'economics' originates from the ancient Greek word 'oikonomia', meaning management of a family or household.",
+            "Economics is a branch of social science.",
+            "It studies how people choose to use scarce productive resources (land, labour, capital, etc.) to produce various commodities.",
+            "Key aspects of the definition: studies scarce resources, studies allocation of resources, allocation must be efficient, and human needs are unlimited.",
+            "The objective is to satisfy unlimited human needs to the maximum possible degree through efficient resource allocation.",
+            "Economics as a Science: Produces systematic, organized knowledge linking causes and effects; knowledge of 'what is'.",
+            "Economics as an Art: Provides principles and methods to solve problems; examines causes of economic problems and sets procedures for solutions."
+          ],
+          "keywords": [
+            {
+              "keyword": "Economics",
+              "definition": "A social science that studies the efficient allocation of scarce resources to attain the maximum fulfillment of unlimited human needs."
+            },
+            {
+              "keyword": "Scarcity",
+              "definition": "The fundamental economic problem arising from the fact that resources are limited while human wants are unlimited."
+            },
+            {
+              "keyword": "Efficient allocation",
+              "definition": "The optimal distribution of scarce resources to achieve the maximum possible satisfaction of human needs."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Branches of Economics",
+          "summary": "This section distinguishes between the two main branches of economics: microeconomics and macroeconomics. Microeconomics focuses on the economic behavior of individual units like households, firms, and governments, dealing with issues like price determination and resource allocation. Macroeconomics, on the other hand, studies the economy as a whole, focusing on aggregate variables like national income, total employment, and the general price level. While distinct, these branches are complementary and often used together for a complete economic analysis.",
+          "notes": [
+            "The foundation of modern economics rests on microeconomics and macroeconomics.",
+            "Microeconomics: Deals with the economic behavior of individual decision-making units (households, firms, governments).",
+            "Fundamental problem of microeconomics: Resource allocation or price determination.",
+            "Macroeconomics: Deals with the aggregate behavior of all decision-making units in an economy.",
+            "Fundamental problem of macroeconomics: Full employment of economic resources.",
+            "Microeconomics studies individual variables (e.g., price of teff, income of a person), while macroeconomics studies aggregates (e.g., GDP of Ethiopia, general price level).",
+            "Micro and macroeconomics are complementary; they cannot be studied independently of each other."
+          ],
+          "keywords": [
+            {
+              "keyword": "Microeconomics",
+              "definition": "The branch of economics that studies the economic behavior of individual decision-making units such as households, firms, and governments and their interactions in specific markets."
+            },
+            {
+              "keyword": "Macroeconomics",
+              "definition": "The branch of economics that studies the behavior of the economy as a whole, focusing on aggregate variables like total employment, national income, and general price level."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Methods and Approaches of Studying Economics",
+          "summary": "This section describes the logical methods (deductive and inductive) used to build economic theories and the two main approaches (positive and normative economics) used to analyze economic issues. The deductive method reasons from general principles to specific facts, while the inductive method reasons from specific observations to general theories. Positive economics describes the world as it is, based on facts and data, while normative economics prescribes how the world should be, based on value judgments.",
+          "notes": [
+            "The objective of economics is to establish valid generalizations (theories) about human behavior.",
+            "A theory is a simplified picture of reality.",
+            "Deductive Method: Reasoning from general to particular (principles to specific facts). Example: All men are mortal; Abebe is a man; therefore, Abebe is mortal.",
+            "Inductive Method: Reasoning from particular to general (from observations to theories). Example: Observing that grain prices fall during harvest leads to the generalization that an increase in supply leads to a fall in prices.",
+            "Positive Economics: Deals with facts and describes the world 'as it is'. It answers 'what is', 'what was', or 'what will be'. It is objective and can be tested with facts.",
+            "Normative Economics: Deals with value judgments and describes the world 'as it ought to be'. It answers 'what should be'. It is subjective and based on opinions."
+          ],
+          "keywords": [
+            {
+              "keyword": "Deductive method",
+              "definition": "A method of reasoning that proceeds from general principles to the analysis of specific facts."
+            },
+            {
+              "keyword": "Inductive method",
+              "definition": "A method of reasoning that proceeds from specific observations and data to develop general principles or theories."
+            },
+            {
+              "keyword": "Positive economics",
+              "definition": "The approach to economics that is concerned with facts and the description of the world as it is, without making value judgments."
+            },
+            {
+              "keyword": "Normative economics",
+              "definition": "The approach to economics that involves value judgments about what the economy should be like or what particular policy actions should be recommended."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Decision Making Units",
+          "summary": "This section identifies the three basic decision-making units in an economy: households, business firms, and the government. Households own the factors of production (land, labour, capital, entrepreneurship) and supply them to firms in return for income (rent, wages, interest, profit). Firms hire these factors to produce goods and services. The government purchases goods and services and factor services, provides public services, and funds its activities primarily through taxes on households and firms.",
+          "notes": [
+            "Economic agents are the decision-making units of an economy.",
+            "Households: The chief owners of factors of production. They supply factor services and receive income (rent, wages, interest, profit). They spend income on goods and services, save, and pay taxes.",
+            "Business Firms: Hire factor services to produce commodities. They are the principal buyers of factors and leading producers. Includes private and government enterprises.",
+            "Government: Purchases goods and services from producers and factor services from households. Provides free services (police, education, health). Gets income mainly from taxes levied on households and firms."
+          ],
+          "keywords": [
+            {
+              "keyword": "Households",
+              "definition": "The chief owners of factors of production who supply factor services to producers in exchange for income."
+            },
+            {
+              "keyword": "Business firms",
+              "definition": "Economic units that hire factors of production from households to produce commodities and sell them in the market."
+            },
+            {
+              "keyword": "Government",
+              "definition": "An economic agent that purchases goods and services, provides public services, and collects taxes to fund its operations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "The Basic Economic Problems and Economic Systems",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "The Basic Economic Problems: Scarcity, Choice, and Opportunity Cost",
+          "summary": "This section introduces the core concepts of scarcity, choice, and opportunity cost, which form the foundation of economics. Scarcity arises from the imbalance between unlimited human wants and limited resources. This forces individuals and societies to make choices, and every choice involves an opportunity cost—the value of the next best alternative forgone. The Production Possibilities Frontier (PPF) is a graphical tool used to illustrate these concepts, showing the maximum combinations of two goods an economy can produce with given resources and technology. The PPF demonstrates scarcity (points beyond the curve are unattainable), choice (movement along the curve), and opportunity cost (the downward slope of the curve). The law of increasing opportunity cost explains why the PPF is concave, and economic growth is shown by an outward shift of the PPF.",
+          "notes": [
+            "Scarcity: The fundamental economic problem where resources are limited relative to unlimited human wants.",
+            "Scarcity is different from shortage: Scarcity is a universal, endless problem, while a shortage is a specific, short-term market problem.",
+            "Choice: Because resources are scarce, choices must be made about what to produce and what to forgo.",
+            "Opportunity Cost: The value of the next best alternative that must be sacrificed to obtain something else.",
+            "Opportunity cost is measured in terms of goods and services, not money.",
+            "Production Possibilities Frontier (PPF): A curve showing the various possible combinations of two goods an economy can produce with given resources and technology.",
+            "Assumptions of the PPF: Resources are fixed; only two outputs; full employment and full production; technology is constant; some inputs are better suited for one good (specialization).",
+            "Points on the curve: Attainable and efficient. Points inside: Attainable but inefficient. Points outside: Unattainable.",
+            "The PPF illustrates scarcity, choice, and opportunity cost.",
+            "Law of Increasing Opportunity Cost: As production of a good increases, the opportunity cost per unit rises, making the PPF concave to the origin.",
+            "Economic Growth: An outward shift of the PPF, caused by an increase in the quantity or quality of resources or advances in technology.",
+            "Asymmetric Growth: Growth in one sector of the economy, shown by a shift of the PPF along one axis."
+          ],
+          "keywords": [
+            {
+              "keyword": "Scarcity",
+              "definition": "The fundamental economic condition where unlimited human wants exceed the limited resources available to satisfy them."
+            },
+            {
+              "keyword": "Choice",
+              "definition": "The act of selecting among alternatives due to the constraint of scarcity."
+            },
+            {
+              "keyword": "Opportunity cost",
+              "definition": "The value of the next best alternative that is forgone when a choice is made."
+            },
+            {
+              "keyword": "Production Possibilities Frontier (PPF)",
+              "definition": "A curve that illustrates the maximum possible combinations of two goods or services an economy can produce with its available resources and technology, assuming full employment and productive efficiency."
+            },
+            {
+              "keyword": "Law of increasing opportunity cost",
+              "definition": "The principle that as the production of a good increases, the opportunity cost of producing an additional unit rises."
+            },
+            {
+              "keyword": "Economic growth",
+              "definition": "An increase in the total output of an economy, represented by an outward shift of the production possibilities frontier."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Central Problems of Economies",
+          "summary": "This section explains that all societies face three basic economic problems due to scarcity: what to produce, how to produce, and for whom to produce. The 'what to produce' problem is the allocation of resources among different goods and services. The 'how to produce' problem involves choosing between different production techniques, such as labour-intensive or capital-intensive methods. The 'for whom to produce' problem concerns the distribution of the national product among members of society. These questions are central to all economic systems.",
+          "notes": [
+            "Economic problems arise from scarcity and are common to all economies.",
+            "The three basic economic questions are:",
+            "1. What to produce? (The problem of resource allocation). Deciding on the type and quantity of goods and services.",
+            "2. How to produce? (The problem of choice of technique). Choosing between alternative production methods.",
+            "Labour-intensive technique: Uses more labour relative to capital per unit of output.",
+            "Capital-intensive technique: Uses more capital relative to labour per unit of output.",
+            "3. For whom to produce? (The problem of distribution). Deciding how the national product is distributed among members of society."
+          ],
+          "keywords": [
+            {
+              "keyword": "Central problems of economies",
+              "definition": "The three fundamental economic questions that all societies must answer: what to produce, how to produce, and for whom to produce."
+            },
+            {
+              "keyword": "Allocation of resources",
+              "definition": "The problem of deciding what goods and services to produce and in what quantities."
+            },
+            {
+              "keyword": "Labour-intensive technique",
+              "definition": "A production method that uses a relatively large amount of labour compared to capital."
+            },
+            {
+              "keyword": "Capital-intensive technique",
+              "definition": "A production method that uses a relatively large amount of capital compared to labour."
+            },
+            {
+              "keyword": "Problem of distribution",
+              "definition": "The economic problem concerning how the national product is shared among different members of society."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Economic Systems",
+          "summary": "This section defines an economic system as the set of institutional arrangements used to answer the basic economic questions. It compares and contrasts the four main types of economic systems: traditional, capitalist (market), command (socialist), and mixed economies. Traditional economies rely on customs and history. Capitalist economies feature private ownership, freedom of choice, competition, and limited government. Command economies involve state ownership, central planning, and strong government control. Mixed economies combine elements of both capitalism and socialism, with private and public sectors coexisting alongside government planning.",
+          "notes": [
+            "An economic system is a set of organizational and institutional arrangements to answer the basic economic questions.",
+            "Traditional Economy: Relies on customs, history, and beliefs. Economic decisions are guided by tradition. Mainly found in developing countries. Features: family/tribe centered, barter system, produces only what is needed.",
+            "Capitalist Economy (Capitalism): All means of production are privately owned. Production is for profit. Government intervention is limited. Features: Right to private property, freedom of choice, competition, limited government, self-interest, income inequality.",
+            "Command Economy (Socialism): Means of production are owned by the state. Resource allocation is done through central planning. Features: Collective ownership, central economic planning, strong role of government, relative equality of incomes.",
+            "Mixed Economy: Combines elements of capitalism and socialism. Private and public sectors coexist. Features: Co-existence of public and private sectors, economic planning, aim for economic equality.",
+            "Ethiopia has experienced different economic systems under the Imperial, Military (Derg), and current FDRE regimes."
+          ],
+          "keywords": [
+            {
+              "keyword": "Economic system",
+              "definition": "The set of institutional and organizational arrangements a society uses to answer the basic economic questions."
+            },
+            {
+              "keyword": "Traditional economy",
+              "definition": "An economic system based on customs, history, and time-honored beliefs, where economic decisions are guided by tradition."
+            },
+            {
+              "keyword": "Capitalist economy",
+              "definition": "An economic system where the means of production are privately owned and operated for profit in competitive markets, with limited government intervention."
+            },
+            {
+              "keyword": "Command economy",
+              "definition": "An economic system where the means of production are owned and controlled by the state, and economic decisions are made through central planning."
+            },
+            {
+              "keyword": "Mixed economy",
+              "definition": "An economic system that combines elements of both capitalist and command economies, with private and public sectors coexisting and government planning."
+            },
+            {
+              "keyword": "Private property",
+              "definition": "The right of individuals to own and control economic resources and assets."
+            },
+            {
+              "keyword": "Profit motive",
+              "definition": "The driving force in a capitalist economy where individuals and firms are motivated by the desire to earn profits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Economic Resources and Markets",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Types of Resources and Factor Payments",
+          "summary": "This section defines resources as inputs used in production and distinguishes between free resources (unlimited, zero price) and economic resources (scarce, non-zero price). Economic resources are categorized into four main factors of production: land, labour, capital, and entrepreneurship. Each factor receives a corresponding factor payment: rent for land, wages for labour, interest for capital, and profit for entrepreneurship.",
+          "notes": [
+            "Resources are inputs used in the production of goods and services.",
+            "Free Resources: Gifts of nature that are unlimited in supply and have no price (e.g., air, sunshine).",
+            "Economic (Scarce) Resources: Limited in supply and have a non-zero price.",
+            "Four categories of economic resources:",
+            "1. Labour: Physical and mental human effort in production. Reward: Wage.",
+            "2. Land: Natural resources used in production. Reward: Rent.",
+            "3. Capital: Manufactured inputs used to produce other goods and services. Reward: Interest.",
+            "4. Entrepreneurship: The talent to organize and manage other factors, bearing risk. Reward: Profit."
+          ],
+          "keywords": [
+            {
+              "keyword": "Resources",
+              "definition": "Inputs used in the production of goods and services."
+            },
+            {
+              "keyword": "Free resources",
+              "definition": "Gifts of nature that are unlimited in supply and have no price."
+            },
+            {
+              "keyword": "Economic resources",
+              "definition": "Scarce resources that have a non-zero price."
+            },
+            {
+              "keyword": "Labour",
+              "definition": "The physical and mental effort of human beings in the production and distribution of goods and services."
+            },
+            {
+              "keyword": "Land",
+              "definition": "Natural resources or the free gifts of nature used in the production of goods and services."
+            },
+            {
+              "keyword": "Capital",
+              "definition": "All manufactured inputs that can be used to produce other goods and services."
+            },
+            {
+              "keyword": "Entrepreneurship",
+              "definition": "The special human talent that organizes and manages other factors of production and bears the risk of losses."
+            },
+            {
+              "keyword": "Factor payments",
+              "definition": "The rewards paid to factors of production: wages, rent, interest, and profit."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Renewable and Non-renewable Resources",
+          "summary": "This section classifies natural resources into renewable and non-renewable resources. Renewable resources can be replenished naturally over time (e.g., solar energy, wind, soil, trees). Non-renewable resources exist in fixed supplies and cannot be replaced at the same rate they are consumed (e.g., natural gas, coal, oil). The section emphasizes the importance of conserving natural resources through the principles of reduce, reuse, and recycle to ensure their availability for future generations.",
+          "notes": [
+            "Renewable Resources: Resources that can be replaced over time through natural processes, either quickly or slowly (e.g., solar energy, wind, soil, trees, geothermal pressure, groundwater).",
+            "Non-Renewable Resources: Resources with a limited fixed stock found in the ground, which cannot be replaced on a human timescale (e.g., natural gas, coal, steel, aluminum, oil). Recycling can replenish supply but overall supply remains limited.",
+            "Conservation: The wise use of natural resources through reducing, reusing, and recycling.",
+            "Pollution: The introduction of harmful chemicals and substances into the environment, which can deplete resources."
+          ],
+          "keywords": [
+            {
+              "keyword": "Renewable resources",
+              "definition": "Resources that have the potential to be replaced over time through natural processes."
+            },
+            {
+              "keyword": "Non-renewable resources",
+              "definition": "Resources whose stock or reserve is limited or fixed and cannot be naturally replaced at the same rate they are consumed."
+            },
+            {
+              "keyword": "Recycling",
+              "definition": "The process of reusing a natural resource or product to make something new."
+            },
+            {
+              "keyword": "Conservation",
+              "definition": "The wise use and protection of natural resources from depletion, spoilage, or pollution."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Types of Markets",
+          "summary": "This section defines a market as any arrangement where buyers and sellers interact to exchange goods and services. It distinguishes between three main types of markets: the goods and services market (where final products are bought and sold), the labour market (where labour services are exchanged for wages), and the financial market (where financial assets like securities, currencies, and bonds are traded). Markets can be physical or digital.",
+          "notes": [
+            "A market is an institution where buyers and sellers meet to facilitate the exchange of goods and services.",
+            "Goods and Services Market: Where households purchase goods and services from businesses. It is the market for final products.",
+            "Labour Market: Where employees provide labour services and employers offer jobs.",
+            "Financial Market: Where financial assets like securities, currencies, and bonds are traded (e.g., bond, stock, share markets)."
+          ],
+          "keywords": [
+            {
+              "keyword": "Market",
+              "definition": "An institution or mechanism that facilitates the exchange of goods, services, or resources between buyers and sellers."
+            },
+            {
+              "keyword": "Goods and services market",
+              "definition": "The market where final goods and services are exchanged between households (buyers) and firms (sellers)."
+            },
+            {
+              "keyword": "Labour market",
+              "definition": "The market in which individuals offer their labour services for hire and employers seek workers."
+            },
+            {
+              "keyword": "Financial market",
+              "definition": "The market where financial assets such as stocks, bonds, and currencies are traded."
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Circular Flow of Economic Activities",
+          "summary": "This section describes the circular flow model as a simplified depiction of how money, goods, and services move through an economy. It distinguishes between real flows (the flow of goods, services, and factor services) and money flows (the flow of income and expenditure). The two main models discussed are the two-sector model (households and firms) and the three-sector model (households, firms, and government). The three-sector model introduces the government sector, which taxes households and firms and uses its revenue for purchases, subsidies, and transfer payments.",
+          "notes": [
+            "Circular flow of income: A visual model showing how money (e.g., Birr) flows through markets among decision-making units.",
+            "Real Flows: The flow of factor services from households to firms and the flow of goods and services from firms to households.",
+            "Money Flows: The flow of income (wages, rent, interest, profit) from firms to households and the flow of expenditure (consumption spending) from households to firms.",
+            "Two-Sector Model: Includes households and business firms only.",
+            "Assumptions: Only two sectors; households own factors; firms produce goods; households spend all income; no savings, government, or foreign trade.",
+            "In the two-sector model, real flow is the exchange of factor services and goods/services, while money flow is the income and expenditure payments.",
+            "Three-Sector Model: Includes households, firms, and government.",
+            "Government revenue: Taxes from households and firms.",
+            "Government expenditure: Purchases of goods and services, subsidies to firms, transfer payments to households.",
+            "The three-sector model includes leakages (savings, taxes) and injections (investment, government spending)."
+          ],
+          "keywords": [
+            {
+              "keyword": "Circular flow of income",
+              "definition": "A visual model of an economy showing the continuous flow of payments and receipts for goods, services, and factor services among different sectors."
+            },
+            {
+              "keyword": "Real flows",
+              "definition": "The physical flow of factor services from households to firms and the flow of goods and services from firms to households."
+            },
+            {
+              "keyword": "Money flows",
+              "definition": "The financial flow of income from firms to households and expenditure from households to firms."
+            },
+            {
+              "keyword": "Two-sector model",
+              "definition": "A simplified circular flow model that includes only the household sector and the business sector (firms)."
+            },
+            {
+              "keyword": "Three-sector model",
+              "definition": "A circular flow model that includes the household, business, and government sectors."
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Land as an Economic Resource in Ethiopia",
+          "summary": "This section highlights the importance of land as a key economic resource in Ethiopia, where agriculture is the backbone of the economy. It describes the two main soil types suitable for agriculture in the highlands and discusses the historical and ongoing issues of land ownership and tenure. The section traces land rights from the feudal system, through the socialist reforms of 1975, to the current system of state ownership with lifetime 'holding' rights for rural peasants and leasehold rights for urban residents. It notes the ongoing debate about land ownership rights, compensation for expropriation, and the potential for reforms to improve land security.",
+          "notes": [
+            "Land is a crucial economic resource in Ethiopia due to agriculture's role as the backbone of the economy.",
+            "Ethiopia has a total area of 1,106,000 sq. km, with 35% considered suitable for agriculture.",
+            "Two main soil types in highlands:",
+            "1. Red-to-reddish brown soils: Rich in minerals, well-drained, and easy to plough.",
+            "2. Brownish-to-grey and black clay soils: High agricultural potential with proper drainage.",
+            "Variety of agro-ecological zones due to altitude increases Ethiopia's potential for diverse crops and exports.",
+            "Land ownership history:",
+            "Pre-1974: Feudal system with inequitable land holdings.",
+            "1975-1991 (Socialist system): State ownership, 'Land to the Tiller' slogan, but ended in state control.",
+            "1991-present (FDRE): State ownership maintained; rural peasants and pastoralists have lifetime 'holding' rights (no sale or mortgage); urban residents get land on 99-year leases.",
+            "Constitution protects land holdings with 'commensurate' compensation for expropriation, but implementation has been criticized for not providing fair market value.",
+            "Potential for reform: Increasing rural land access, liberalizing land holding rights, and ensuring fair compensation could improve land security."
+          ],
+          "keywords": [
+            {
+              "keyword": "Land (in Ethiopian context)",
+              "definition": "A vital economic resource for agriculture, referring to both the areal extent and the productivity of the soil."
+            },
+            {
+              "keyword": "Holding right",
+              "definition": "The lifetime right of rural peasants and pastoralists to use land in Ethiopia, which does not include the right to sell or mortgage it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Introduction to Demand and Supply",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Concept of Demand",
+          "summary": "This section defines demand as the quantity of a commodity that consumers are willing and able to buy at various given prices during a specific time period. It distinguishes demand from a mere desire or want by emphasizing the need for ability and willingness to pay. The Law of Demand states that, ceteris paribus, there is an inverse relationship between price and quantity demanded. The section also explains the demand schedule (tabular form), demand curve (graphical form), demand function (mathematical form), and the concept of market demand, which is the horizontal summation of individual demand curves.",
+          "notes": [
+            "Demand: The amount of a commodity a consumer is willing and able to buy at various given prices during a given period of time.",
+            "A desire becomes demand when backed by: ability to pay, willingness to pay, and availability of the good.",
+            "Quantity demanded: The specific amount of a good a consumer is willing and able to buy at a given price.",
+            "Law of Demand: Ceteris paribus (other things remaining the same), price and quantity demanded are inversely related. As price rises, quantity demanded falls.",
+            "Demand Schedule: A tabular description showing the quantity demanded of a commodity at different prices.",
+            "Demand Curve: A graphical representation of the relationship between price and quantity demanded, which slopes downwards from left to right.",
+            "Demand Function: A mathematical representation, e.g., Qd = f(P).",
+            "Market Demand: The total quantity of a commodity demanded by all consumers in the market at various prices. It is the horizontal summation of individual demand curves."
+          ],
+          "keywords": [
+            {
+              "keyword": "Demand",
+              "definition": "The quantity of a good or service that consumers are willing and able to buy at various prices during a given period of time."
+            },
+            {
+              "keyword": "Quantity demanded",
+              "definition": "The specific amount of a good a buyer is willing and able to purchase at a particular price."
+            },
+            {
+              "keyword": "Law of Demand",
+              "definition": "The principle that, ceteris paribus, there is an inverse relationship between the price of a good and the quantity demanded."
+            },
+            {
+              "keyword": "Ceteris paribus",
+              "definition": "A Latin phrase meaning 'other things being equal' or 'all other things remaining constant.'"
+            },
+            {
+              "keyword": "Demand schedule",
+              "definition": "A table showing the quantity demanded of a good at various price levels."
+            },
+            {
+              "keyword": "Demand curve",
+              "definition": "A graphical representation of the demand schedule, showing the relationship between price and quantity demanded."
+            },
+            {
+              "keyword": "Market demand",
+              "definition": "The total demand for a good or service from all consumers in the market, obtained by horizontally summing individual demand curves."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Concept of Supply",
+          "summary": "This section defines supply as the various quantities of a commodity that producers are willing and able to offer for sale at different prices during a given period. It distinguishes supply from stock, which is the total quantity of a commodity produced less what has been sold. The Law of Supply states that, ceteris paribus, there is a direct (positive) relationship between price and quantity supplied. Similar to demand, supply is explained using a supply schedule, supply curve, supply function, and market supply, which is the horizontal summation of individual supply curves.",
+          "notes": [
+            "Supply: The various quantities of a commodity that producers are willing and able to offer for sale at a particular time at various corresponding prices.",
+            "Stock vs. Supply: Stock is the total volume of a commodity produced less what is sold (potential supply). Supply is the quantity actually brought to the market.",
+            "Quantity Supplied: The specific amount of a good producers are willing and able to sell at a given market price.",
+            "Law of Supply: Ceteris paribus, there is a direct or positive relationship between price and the quantity supplied. As price rises, quantity supplied rises.",
+            "Supply Schedule: A tabular representation showing the quantity supplied of a good at different prices.",
+            "Supply Curve: A graphical representation of the supply schedule, which slopes upwards from left to right.",
+            "Supply Function: A mathematical representation, e.g., Qs = f(P).",
+            "Market Supply: The total quantity of a commodity supplied by all producers in the market at various prices. It is the horizontal summation of individual supply curves."
+          ],
+          "keywords": [
+            {
+              "keyword": "Supply",
+              "definition": "The quantity of a good or service that producers are willing and able to offer for sale at various prices during a given period."
+            },
+            {
+              "keyword": "Quantity supplied",
+              "definition": "The specific amount of a good a producer is willing and able to sell at a particular price."
+            },
+            {
+              "keyword": "Law of Supply",
+              "definition": "The principle that, ceteris paribus, there is a direct relationship between the price of a good and the quantity supplied."
+            },
+            {
+              "keyword": "Supply schedule",
+              "definition": "A table showing the quantity supplied of a good at various price levels."
+            },
+            {
+              "keyword": "Supply curve",
+              "definition": "A graphical representation of the supply schedule, showing the relationship between price and quantity supplied."
+            },
+            {
+              "keyword": "Market supply",
+              "definition": "The total supply of a good or service from all producers in the market, obtained by horizontally summing individual supply curves."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Market Equilibrium",
+          "summary": "This section explains the concept of market equilibrium, the point where the opposing forces of demand and supply balance. Market equilibrium occurs when the quantity demanded equals the quantity supplied at a specific price. This price is the equilibrium price, and the corresponding quantity is the equilibrium quantity. The section emphasizes that equilibrium is a state of balance where there is no tendency for price or quantity to change, assuming no external forces intervene. Graphically, equilibrium is found at the intersection of the demand and supply curves.",
+          "notes": [
+            "Equilibrium: A state of balance where opposing forces are equal, resulting in no tendency for change.",
+            "Market Equilibrium: A situation where the quantity demanded of a commodity equals the quantity supplied.",
+            "Equilibrium Price: The price at which the quantity demanded equals the quantity supplied.",
+            "Equilibrium Quantity: The amount of a commodity that is bought and sold at the equilibrium price.",
+            "Graphically, market equilibrium is at the intersection of the demand and supply curves.",
+            "The market mechanism is the tendency for markets to move towards equilibrium.",
+            "Equilibrium is not fixed; it can change due to shifts in demand and supply."
+          ],
+          "keywords": [
+            {
+              "keyword": "Market equilibrium",
+              "definition": "A situation in which the quantity demanded of a good equals the quantity supplied, resulting in a stable market price and quantity."
+            },
+            {
+              "keyword": "Equilibrium price",
+              "definition": "The price at which the quantity demanded equals the quantity supplied; the price that clears the market."
+            },
+            {
+              "keyword": "Equilibrium quantity",
+              "definition": "The amount of a good bought and sold at the equilibrium price."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Introduction to Production and Cost",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Definition of Production, Inputs and Outputs",
+          "summary": "This section defines production as the process of combining inputs to create outputs for consumption. Inputs are economic resources (land, labour, capital, entrepreneurship) used in production, while outputs are the resulting goods or services. Outputs can be tangible (physical products) or intangible (services). Inputs are classified as fixed inputs (whose quantity cannot be changed in the short run) and variable inputs (whose quantity can be changed).",
+          "notes": [
+            "Production: The process of combining inputs to create an output for consumption.",
+            "Inputs: Economic resources used in production (land, labour, capital, entrepreneurship).",
+            "Outputs: The goods or services produced, which are the consequences of the production process.",
+            "Tangible outputs: Physical products that can be touched (e.g., buildings, machinery, cars).",
+            "Intangible outputs: Products that have value but are not physical objects (e.g., insurance, consultancy, software, healthcare).",
+            "Fixed Input: An input whose quantity cannot be varied during the period under consideration (e.g., building, machinery).",
+            "Variable Input: An input whose quantity can be changed during the period under consideration (e.g., raw materials, labour)."
+          ],
+          "keywords": [
+            {
+              "keyword": "Production",
+              "definition": "The process of transforming inputs into outputs for consumption."
+            },
+            {
+              "keyword": "Inputs",
+              "definition": "Economic resources used in the production of goods and services."
+            },
+            {
+              "keyword": "Outputs",
+              "definition": "The goods or services produced as a result of the production process."
+            },
+            {
+              "keyword": "Fixed input",
+              "definition": "A resource whose quantity cannot be changed during the period of production."
+            },
+            {
+              "keyword": "Variable input",
+              "definition": "A resource whose quantity can be changed during the period of production."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Periods of Production",
+          "summary": "This section distinguishes between the short run and the long run in production. The short run is a period where at least one input is fixed, and output can be increased only by using more variable inputs. The long run is a period where all inputs are variable, allowing firms to change their scale of operations. The section also explains the measures of productivity in the short run: Total Product (TP), Average Product (AP), and Marginal Product (MP). It describes the relationship between these concepts and the stages of production, which are often used to analyze the law of diminishing returns.",
+          "notes": [
+            "Short Run: A period where at least one input is fixed (e.g., plant size). Output increases by using more variable inputs (e.g., labour, raw materials).",
+            "Long Run: A period where all inputs are variable; the firm can change its scale of operations and plant size.",
+            "The short run and long run are defined by the flexibility of inputs, not by a specific time length.",
+            "Total Product (TP): The total quantity of output produced by all factors of production in a given period.",
+            "Average Product (AP): Output per unit of variable input (e.g., APL = TP/L).",
+            "Productivity: A measure of output per unit of input.",
+            "Marginal Product (MP): The additional output produced by using one more unit of a variable input (e.g., MPL = ΔTP / ΔL).",
+            "Stages of Production: The three stages show the relationship between TP, AP, and MP, illustrating increasing, diminishing, and negative returns to the variable input."
+          ],
+          "keywords": [
+            {
+              "keyword": "Short run",
+              "definition": "A period of production in which at least one input is fixed and cannot be changed."
+            },
+            {
+              "keyword": "Long run",
+              "definition": "A period of production in which all inputs are variable, and the firm can change its scale of operations."
+            },
+            {
+              "keyword": "Total Product (TP)",
+              "definition": "The overall amount of output produced by a firm in a given period."
+            },
+            {
+              "keyword": "Average Product (AP)",
+              "definition": "The total output divided by the number of units of the variable input used."
+            },
+            {
+              "keyword": "Marginal Product (MP)",
+              "definition": "The change in total output that results from employing one additional unit of a variable input."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Cost of Production",
+          "summary": "This section defines the cost of production as the monetary outlays associated with producing goods and services. It differentiates between various types of costs: explicit costs (actual monetary payments to outsiders), implicit costs (the value of self-owned resources used in production), economic costs (implicit + explicit costs), and accounting costs (explicit costs only). It also distinguishes between fixed costs (costs that do not vary with output) and variable costs (costs that vary directly with output). The section further explains total cost (TC = TFC + TVC), average costs (ATC, AFC, AVC), and marginal cost (MC).",
+          "notes": [
+            "Cost of production: The total expenditures and sacrifices made in the process of production and distribution.",
+            "Explicit Costs: Actual monetary payments made to outsiders for inputs (e.g., wages, raw materials). These are accounting costs.",
+            "Implicit Costs: The value of non-purchased resources owned and used by the firm (e.g., owner-manager's salary, estimated rent of own building).",
+            "Economic Cost = Explicit Cost + Implicit Cost.",
+            "Accounting Cost = Explicit Cost (ignores implicit costs).",
+            "Fixed Costs (TFC): Costs that do not vary with output and are incurred even if production is zero (e.g., rent, interest on loans).",
+            "Variable Costs (TVC): Costs that vary directly with the level of output (e.g., wages of production workers, raw materials).",
+            "Total Cost (TC) = Total Fixed Cost (TFC) + Total Variable Cost (TVC).",
+            "Average Total Cost (ATC) = TC / Q. Also, ATC = AFC + AVC.",
+            "Average Fixed Cost (AFC) = TFC / Q.",
+            "Average Variable Cost (AVC) = TVC / Q.",
+            "Marginal Cost (MC) = ΔTC / ΔQ. In the short run, MC = ΔTVC / ΔQ."
+          ],
+          "keywords": [
+            {
+              "keyword": "Explicit costs",
+              "definition": "The actual monetary payments a firm makes to purchase inputs from outsiders; out-of-pocket costs."
+            },
+            {
+              "keyword": "Implicit costs",
+              "definition": "The opportunity costs of using a firm's own resources for production, without a direct monetary payment."
+            },
+            {
+              "keyword": "Economic cost",
+              "definition": "The sum of explicit and implicit costs, reflecting the total opportunity cost of production."
+            },
+            {
+              "keyword": "Accounting cost",
+              "definition": "The monetary value of all purchased inputs used in production; it only includes explicit costs."
+            },
+            {
+              "keyword": "Fixed costs",
+              "definition": "Costs that do not change with the level of output and must be paid regardless of production."
+            },
+            {
+              "keyword": "Variable costs",
+              "definition": "Costs that change directly with the level of output."
+            },
+            {
+              "keyword": "Total cost",
+              "definition": "The sum of total fixed cost and total variable cost at a given level of output."
+            },
+            {
+              "keyword": "Marginal cost",
+              "definition": "The additional cost incurred to produce one more unit of output."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Money",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Definition of Money",
+          "summary": "This section defines money as anything that is generally accepted as payment for goods and services or in the repayment of debts. It emphasizes that money is a social convention, accepted because everyone trusts others will accept it. The section outlines the key criteria a commodity must meet to serve as money: standardization, acceptability, divisibility, portability, and durability.",
+          "notes": [
+            "Money is generally defined as anything accepted in payment for goods or services or in repayment of debts.",
+            "Money is a commodity accepted by general consent as a medium of economic exchange.",
+            "It serves as the medium for expressing prices and values and is a primary measure of wealth.",
+            "Money is immediately exchangeable for all kinds of marketable assets.",
+            "The acceptance of money is a social convention, established through legal or other means.",
+            "Criteria for a commodity to be accepted as money:",
+            "1. Standardization: Easily ascertain its value.",
+            "2. Acceptability: Widely accepted as a medium of exchange.",
+            "3. Divisibility: Easy to make change.",
+            "4. Portability: Easy to carry.",
+            "5. Durability: Does not degrade quickly."
+          ],
+          "keywords": [
+            {
+              "keyword": "Money",
+              "definition": "Any good that is widely used and accepted in transactions involving the transfer of goods and services."
+            },
+            {
+              "keyword": "Medium of exchange",
+              "definition": "An asset used to purchase goods and services; the primary function of money."
+            },
+            {
+              "keyword": "Legal tender",
+              "definition": "Currency decreed by a government as having to be accepted as payment for debts."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Evolution of Money",
+          "summary": "This section traces the evolution of money from the barter system to modern electronic money. It describes the limitations of barter (lack of double coincidence of wants, lack of common measure of value, indivisibility, difficulty in storing and transferring wealth, difficulty in deferred payments). It then outlines the progression to commodity money, paper currency, fiat money, checks, and finally electronic money. The section also provides a historical account of money's evolution in Ethiopia, from the use of salt (amole) and Maria Theresa thalers to the modern Birr and emerging electronic payment systems.",
+          "notes": [
+            "Barter: The direct exchange of goods for goods without a medium of exchange.",
+            "Limitations of Barter:",
+            "1. Lack of double coincidence of wants.",
+            "2. Lack of a common measure of value.",
+            "3. Indivisibility of commodities.",
+            "4. Difficulty in storing and transferring wealth.",
+            "5. Difficulty in deferred payments.",
+            "Evolution of Money: Barter → Commodity Money → Paper Currency (convertible) → Fiat Money → Checks → Electronic Money (e-money).",
+            "Commodity Money: Precious metals or valuable items used as money (e.g., salt, amole in Ethiopia).",
+            "Fiat Money: Paper currency decreed by government as legal tender, not convertible into precious metal.",
+            "Checks: Payable on demand, allowing transactions without carrying large amounts of currency. Advantages: reduces transportation costs, less loss from theft, provides receipts.",
+            "Electronic Money (e-money): Payments made using electronic telecommunications (e.g., debit cards, credit cards, ATMs).",
+            "History of Money in Ethiopia:",
+            "Ancient Axumite Kingdom: Used coins (3rd century A.D.).",
+            "Commodity money: Salt (amole), cloth, beads.",
+            "Maria Theresa Thaler: Introduced in late 18th/early 19th century, widely used until 1945.",
+            "National Coins: First minted by Emperor Menelik II (1893), then Emperor Haileselassie I (1933).",
+            "Paper Money: First issued by Bank of Abyssinia (1914) and Bank of Ethiopia (1932), but not widely accepted initially.",
+            "Italian Occupation (1936-1941): Use of Italian Lire.",
+            "Post-1941: Various foreign currencies circulated (East African Shilling, Indian Rupee, Egyptian Pound).",
+            "1945: Issuance of the Ethiopian Birr as the national currency."
+          ],
+          "keywords": [
+            {
+              "keyword": "Barter",
+              "definition": "The system of exchange where one good or service is directly traded for another without the use of money."
+            },
+            {
+              "keyword": "Double coincidence of wants",
+              "definition": "A situation in barter where a trader must find someone who wants what they have and also has what they want."
+            },
+            {
+              "keyword": "Commodity money",
+              "definition": "Money whose value comes from the commodity of which it is made (e.g., salt, gold)."
+            },
+            {
+              "keyword": "Fiat money",
+              "definition": "Money that has value because a government declares it as legal tender, not because of its physical value."
+            },
+            {
+              "keyword": "Checks",
+              "definition": "Written instructions to a bank to pay a specified amount of money from a person's account."
+            },
+            {
+              "keyword": "Electronic means of payment (EMOP)",
+              "definition": "A payment system where transactions are made using electronic telecommunications."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Functions of Money",
+          "summary": "This section explains the four basic functions of money in an economy. Money serves as a medium of exchange, facilitating transactions and reducing transaction costs. It acts as a unit of account, providing a common measure of value for goods and services. It functions as a store of value, allowing purchasing power to be saved and used later. Finally, it serves as a standard of deferred payment, enabling borrowing and lending over time.",
+          "notes": [
+            "Money serves four basic functions in an economy:",
+            "1. Medium of Exchange: Used to pay for goods and services, reducing transaction costs compared to barter. Eliminates the need for a double coincidence of wants.",
+            "2. Unit of Account: Used to measure and express the value of goods and services, facilitating rational economic calculation and comparison.",
+            "3. Store of Value: Used to save purchasing power from the time income is received until it is spent. Money is a liquid asset, but may be less desirable than other assets that pay interest or appreciate.",
+            "4. Standard of Deferred Payment: Used to settle debts that are payable in the future. This function enables credit and borrowing."
+          ],
+          "keywords": [
+            {
+              "keyword": "Medium of exchange",
+              "definition": "The role of money as a means of payment for goods and services, facilitating transactions."
+            },
+            {
+              "keyword": "Unit of account",
+              "definition": "The role of money as a common measure for expressing the value of different goods and services."
+            },
+            {
+              "keyword": "Store of value",
+              "definition": "The role of money as a way to hold purchasing power over time."
+            },
+            {
+              "keyword": "Standard of deferred payment",
+              "definition": "The role of money as a means of settling debts and making payments in the future."
+            },
+            {
+              "keyword": "Liquidity",
+              "definition": "The ease and speed with which an asset can be converted into a medium of exchange."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Demand and Supply of Money",
+          "summary": "This section explains the motives for holding money (demand for money) and what constitutes the supply of money. The demand for money is driven by three motives: transaction motive (for daily purchases), precautionary motive (for unexpected contingencies), and speculative motive (to take advantage of future market movements). The supply of money is defined as the total stock of money held by the public, including currency (coins and notes) and deposit money (checkable bank deposits). In Ethiopia, the National Bank of Ethiopia is the primary issuer of currency.",
+          "notes": [
+            "Demand for Money (Liquidity Preference): The desire to hold money.",
+            "Three motives for holding money according to Keynes:",
+            "1. Transaction Motive: Demand for money for day-to-day purchases.",
+            "a. Income motive: For personal consumption.",
+            "b. Business motive: For business operations.",
+            "2. Precautionary Motive: Demand for money to meet unexpected expenses (e.g., sickness, unemployment).",
+            "3. Speculative Motive: Demand for money to invest in financial assets when prices are favorable, based on market movements.",
+            "Supply of Money: The total amount of money held by the public in an economy.",
+            "Components of Money Supply:",
+            "1. Currency with the public (notes and coins).",
+            "2. Deposit money (checkable bank deposits).",
+            "In developing countries like Ethiopia, currency (cash) is more dominant than bank deposits.",
+            "The supply of money depends on the credit control policies of the banking system.",
+            "The National Bank of Ethiopia issues the bulk of currency in the country."
+          ],
+          "keywords": [
+            {
+              "keyword": "Transaction motive",
+              "definition": "The demand for money to facilitate everyday transactions and business operations."
+            },
+            {
+              "keyword": "Precautionary motive",
+              "definition": "The demand for money to cover unforeseen emergencies or contingencies."
+            },
+            {
+              "keyword": "Speculative motive",
+              "definition": "The demand for money to take advantage of expected changes in asset prices, like interest rates."
+            },
+            {
+              "keyword": "Supply of money",
+              "definition": "The total stock of money in circulation in an economy at a given time, including currency and bank deposits."
+            },
+            {
+              "keyword": "Deposit money",
+              "definition": "Bank balances in checking accounts that can be used as a medium of exchange through checks."
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Money and Electronic Money (e-money)",
+          "summary": "This section defines electronic money (e-money) as an electronic store of monetary value on a technical device for making payments. It lists examples like debit cards, prepaid cards, and credit cards. The section also explains the related concept of Electronic Fund Transfer (EFT), which uses computers and technology to transfer funds. The advantages (speed, better record-keeping, ability to move large sums) and disadvantages (cybercrime, training requirements, links to criminal activity) of e-money are discussed.",
+          "notes": [
+            "Electronic Money (e-money): An electronic store of monetary value on a technical device, used for making payments.",
+            "Examples: Debit cards, prepaid cards, credit cards.",
+            "Electronic Fund Transfer (EFT): The use of computers and electronic technology to transfer money electronically.",
+            "Advantages of e-money:",
+            "1. Ability to move money quickly.",
+            "2. Better recordkeeping.",
+            "3. Enables global money transfers.",
+            "4. Ability to move large sums of money without physical burden.",
+            "Disadvantages of e-money:",
+            "1. Cybercrime and new forms of money laundering.",
+            "2. Users need training and knowledge.",
+            "3. Some forms linked to criminal activity.",
+            "4. Requires hardware and software for transactions."
+          ],
+          "keywords": [
+            {
+              "keyword": "Electronic money (e-money)",
+              "definition": "An electronic store of monetary value on a technical device that can be widely used for making payments."
+            },
+            {
+              "keyword": "Automated Teller Machine (ATM)",
+              "definition": "An electronic terminal that allows bank customers to conduct financial transactions, such as cash withdrawals, outside of normal banking hours."
+            },
+            {
+              "keyword": "Electronic Fund Transfer (EFT)",
+              "definition": "A system of transferring money electronically without the use of paper checks, using computers and technology."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Introduction to Macroeconomics",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Definition of Macroeconomic Variables",
+          "summary": "This section defines macroeconomics as the study of the economy as a whole, focusing on aggregate variables like economic output, unemployment, and inflation. It introduces the key measures of national income, including Gross Domestic Product (GDP), Gross National Product (GNP), and Per Capita Income. GDP measures the value of final goods and services produced within a country's borders. GNP measures the value of goods and services produced by domestically owned factors of production, regardless of location. Per Capita Income is GDP per person.",
+          "notes": [
+            "Macroeconomics: The study of the economy as a whole, focusing on aggregate behavior, performance, and problems.",
+            "Macroeconomic Variables: Key indicators of economic performance such as output, unemployment, and inflation.",
+            "Gross Domestic Product (GDP): The total value of all currently produced final goods and services within a country's boundary during a given period (usually a year).",
+            "Rules for GDP: Measures current production; includes final goods only; excludes intermediate goods; measures production within a country's territory.",
+            "GDP = Σ (Pi × Qi), where Pi = prices and Qi = quantities of final goods and services.",
+            "Gross National Product (GNP): The total value of goods and services produced by domestically owned factors of production in a given period, regardless of location.",
+            "GNP = GDP + Net Factor Income (NFI) from abroad.",
+            "NFI = (Income earned by domestic factors abroad) - (Income earned by foreign factors within the country).",
+            "Per Capita Income: GDP divided by the total population of a country; a measure of average income and living standards."
+          ],
+          "keywords": [
+            {
+              "keyword": "Macroeconomics",
+              "definition": "The branch of economics that studies the economy as a whole, focusing on aggregate variables like national income, employment, and inflation."
+            },
+            {
+              "keyword": "Gross Domestic Product (GDP)",
+              "definition": "The total market value of all final goods and services produced within a country's borders in a given period."
+            },
+            {
+              "keyword": "Gross National Product (GNP)",
+              "definition": "The total market value of all final goods and services produced by a country's factors of production, regardless of location."
+            },
+            {
+              "keyword": "Per Capita Income (PCI)",
+              "definition": "A measure of average income, calculated by dividing GDP by the total population."
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Macroeconomic Goals",
+          "summary": "This section identifies the key macroeconomic goals that nations typically pursue. These include achieving economic growth (a consistent increase in national income), full employment (maximum utilization of resources), stable balance of payments (equilibrium in international transactions), and price stability (controlling inflation and deflation). The section also mentions fair distribution of income and wealth as an important goal.",
+          "notes": [
+            "Macroeconomic policies are aimed at achieving certain goals to bring about desirable changes in the economy.",
+            "The general objectives of macroeconomic policy are:",
+            "1. Economic Growth: A consistent increase in national income.",
+            "2. Full Employment: The maximum possible utilization of factors of production.",
+            "3. Stable Balance of Payment: Equilibrium in economic transactions between domestic residents and the rest of the world.",
+            "4. Price Stability: Avoiding prolonged periods of inflation or deflation to sustain the value of money.",
+            "5. Fair Distribution of Income and Wealth: A more equitable distribution of economic resources."
+          ],
+          "keywords": [
+            {
+              "keyword": "Economic growth",
+              "definition": "A sustained increase in the total output (national income) of an economy over time."
+            },
+            {
+              "keyword": "Full employment",
+              "definition": "A macroeconomic goal where all available factors of production are being used to their maximum capacity."
+            },
+            {
+              "keyword": "Price stability",
+              "definition": "A condition where the general price level is not experiencing significant inflation or deflation, preserving the value of money."
+            },
+            {
+              "keyword": "Stable balance of payment",
+              "definition": "A condition where a country's international financial transactions are in equilibrium, avoiding large deficits or surpluses."
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Macroeconomic Problems",
+          "summary": "This section discusses the major problems that macroeconomics addresses: inflation, unemployment, trade balance deficit, and balance of payments deficit. Inflation is defined as a persistent rise in the general price level, caused by demand-pull or cost-push factors. Unemployment is the situation where people willing and able to work cannot find jobs. It is categorized into frictional, structural, and cyclical unemployment. The section also explains disguised unemployment and the issues of trade balance deficit (when imports exceed exports) and balance of payments deficit (when a country pays more to foreigners than it receives).",
+          "notes": [
+            "Macroeconomic problems are fluctuations in the level of economic activity, leading to issues like unemployment and inflation.",
+            "1. Inflation: A sustained increase in the general price level.",
+            "Causes of inflation: Increase in money supply, increased input costs, imported inflation, weaker exchange rate, decline in productivity.",
+            "Types of inflation:",
+            "a. Demand-pull inflation: Caused by excessive aggregate demand (too much money chasing too few goods).",
+            "b. Cost-push inflation: Caused by a decrease in aggregate supply (e.g., higher wages, raw material costs).",
+            "2. Unemployment: The situation where able-bodied and willing individuals cannot find jobs.",
+            "Labor force: The total number of people who are fit, willing, and available to work (usually aged 15-64).",
+            "Unemployment rate: (Number of unemployed / Labor force) × 100.",
+            "Types of unemployment:",
+            "a. Frictional unemployment: Temporary unemployment due to people switching jobs, entering or re-entering the workforce, or seasonal work.",
+            "b. Structural unemployment: Mismatch between the skills of workers and the requirements of available jobs, often due to changes in the economy's structure.",
+            "c. Cyclical unemployment: Unemployment caused by a lack of demand during a recession or downturn.",
+            "d. Disguised unemployment: A situation where workers are employed but have minimal productivity (common in developing countries).",
+            "3. Trade Balance Deficit: Occurs when a country's imports of goods exceed its exports of goods (Trade Balance = Exports - Imports).",
+            "4. Balance of Payments Deficit: Occurs when a country's total payments to the rest of the world exceed its total receipts from the rest of the world."
+          ],
+          "keywords": [
+            {
+              "keyword": "Inflation",
+              "definition": "A persistent and appreciable rise in the general price level of goods and services."
+            },
+            {
+              "keyword": "Demand-pull inflation",
+              "definition": "Inflation caused by an increase in aggregate demand when the economy is near or at full capacity."
+            },
+            {
+              "keyword": "Cost-push inflation",
+              "definition": "Inflation caused by a decrease in aggregate supply due to increased costs of inputs."
+            },
+            {
+              "keyword": "Unemployment",
+              "definition": "A situation where individuals who are willing and able to work are unable to find a job."
+            },
+            {
+              "keyword": "Frictional unemployment",
+              "definition": "Temporary unemployment caused by people voluntarily changing jobs, entering, or re-entering the labor force."
+            },
+            {
+              "keyword": "Structural unemployment",
+              "definition": "Unemployment resulting from a mismatch between the skills or location of workers and the requirements or location of available jobs."
+            },
+            {
+              "keyword": "Cyclical unemployment",
+              "definition": "Unemployment caused by a downturn in the business cycle, reflecting a deficiency in overall demand."
+            },
+            {
+              "keyword": "Disguised unemployment",
+              "definition": "A situation where workers are employed but their contribution to production is minimal or zero."
+            },
+            {
+              "keyword": "Trade balance deficit",
+              "definition": "A situation where a country's expenditure on imports of goods exceeds its receipts from exports of goods."
+            },
+            {
+              "keyword": "Balance of payments deficit",
+              "definition": "A situation where a country's total payments to the rest of the world exceed its total receipts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "Basic Entrepreneurship",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "Definition of Enterprise, Entrepreneur and Entrepreneurship",
+          "summary": "This section defines the core concepts of enterprise, entrepreneur, and entrepreneurship. An enterprise is a legal entity for business. An entrepreneur is a person who creates a business idea and takes risks to set up an enterprise. Entrepreneurship is the process of identifying opportunities and organizing resources to exploit them for long-term gain. It emphasizes the role of entrepreneurs as 'job creators' and innovators. The section also introduces social entrepreneurship, which aims to solve social problems, and provides examples of Ethiopian entrepreneurs (Bethlehem Tilahun Alemu, Haile Gebrselassie).",
+          "notes": [
+            "Enterprise: A legal entity with the right to conduct business on its own (e.g., enter contracts, own property).",
+            "Entrepreneur: A person who creates and develops a business idea, takes the risk, and sets up an enterprise to satisfy customer needs.",
+            "Entrepreneurship: The process of identifying market opportunities, arranging resources, and investing to exploit opportunities for long-term gain. It involves creativity, innovation, and enterprise development.",
+            "Entrepreneurs shift from being 'job seekers' to 'job creators'.",
+            "Key abilities of an entrepreneur: Spot profitable opportunities, commercialize opportunities (innovation), pursue them methodically, and accept possible failure.",
+            "History of Entrepreneurship: Concept evolved from managing large projects (ancient period) to risk-taker (Cantillon, 18th century) to organizer for personal gain (19th-20th century) to inventor/innovator (mid-20th century).",
+            "Social Entrepreneurship: A process where individuals, start-ups, or entrepreneurs develop and find solutions that directly address social issues. It drives social change.",
+            "Examples of Ethiopian Entrepreneurs: Bethlehem Tilahun Alemu (SoleRebels, shoe company using recycled tires) and Haile Gebrselassie (Marathon Motors, Hyundai assembler)."
+          ],
+          "keywords": [
+            {
+              "keyword": "Enterprise",
+              "definition": "A legal entity possessing the right to conduct business on its own."
+            },
+            {
+              "keyword": "Entrepreneur",
+              "definition": "A person who creates and develops a business idea, takes the risk of setting up an enterprise to produce a product or service that satisfies customer needs."
+            },
+            {
+              "keyword": "Entrepreneurship",
+              "definition": "The process of identifying opportunities in the marketplace, arranging resources to pursue them, and investing to exploit these opportunities for long-term gain."
+            },
+            {
+              "keyword": "Social entrepreneurship",
+              "definition": "A process by which individuals, start-ups, and entrepreneurs develop and find solutions that directly address social issues and drive social change."
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Creativity and Innovation in Solving Local Problems",
+          "summary": "This section explores the relationship between creativity, innovation, and entrepreneurship. Creativity is the ability to generate new and useful ideas. Innovation is the process of implementing these creative ideas to create value. The section outlines four types of innovation: invention, expansion, duplication, and synthesis. It emphasizes that creativity and innovation are essential drivers of entrepreneurship and a nation's economic growth. A creative entrepreneurial process leads to new products, services, and processes.",
+          "notes": [
+            "Creativity, innovation, and entrepreneurship are key contributors to a nation's economic growth.",
+            "Creativity: The ability to generate new ideas, alternatives, or possibilities that are useful for solving problems.",
+            "Creativity is an ongoing process that results in ideas with potential value.",
+            "Innovation: The implementation of a new idea at an individual, group, or organizational level.",
+            "Four types of innovation:",
+            "1. Invention: Creation of a new product, service, or process.",
+            "2. Expansion: Growth of a product, service, or process.",
+            "3. Duplication: Replication of an existing product, service, or process.",
+            "4. Synthesis: Combination of existing concepts into a new formulation.",
+            "From Creativity to Entrepreneurship: Creativity generates new ideas, innovation applies those ideas to solve problems, and entrepreneurship exploits these innovations for business success. This leads to efficiency and a competitive advantage."
+          ],
+          "keywords": [
+            {
+              "keyword": "Creativity",
+              "definition": "The ability to develop new ideas and discover new ways of looking at problems and opportunities."
+            },
+            {
+              "keyword": "Innovation",
+              "definition": "The process of implementing creative ideas into a new product, service, or process that creates value."
+            },
+            {
+              "keyword": "Invention",
+              "definition": "The creation of a completely new product, service, or process."
+            }
+          ]
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "Entrepreneurial Attitudes, Behaviour and Mind-set",
+          "summary": "This section describes the key attitudes and skills that characterize successful entrepreneurs. Key attitudes include passion for the business idea, bravery in the face of risk, flexibility to adapt, a strong work ethic, and integrity. The section also explains the essential skills required, divided into general management skills (strategy, planning, marketing, financial, project, and time management) and people management skills (communication, leadership, motivation, delegation, and negotiation). The entrepreneurial mindset combines these attitudes and skills to drive success.",
+          "notes": [
+            "An entrepreneurial mind-set is a state of mind that enables individuals to undertake entrepreneurial activities.",
+            "Key attitudes for an entrepreneur:",
+            "1. Passion: Enthusiasm and drive for the business idea, goals, and company.",
+            "2. Bravery: Willingness to take risks and learn from failures.",
+            "3. Flexibility: Ability to adapt to obstacles and change course when needed.",
+            "4. Strong Work Ethics: Dedication of many hours of hard work and creativity.",
+            "5. Integrity: Being trustworthy and honest with colleagues, sellers, customers, and investors.",
+            "Skills and Attributes for Innovation:",
+            "General Management Skills:",
+            "a. Strategy Skills: Thinking about the business as a whole and its competitive position.",
+            "b. Planning Skills: Preparing for the future.",
+            "c. Marketing Skills: Understanding customer needs.",
+            "d. Financial Skills: Managing money and cash flow.",
+            "e. Project Management Skills: Organizing projects to meet objectives and timelines.",
+            "f. Time Management Skills: Using time productively.",
+            "People Management Skills:",
+            "a. Communication Skills: Expressing ideas clearly.",
+            "b. Leadership Skills: Inspiring people to complete tasks.",
+            "c. Motivational Skills: Encouraging and compelling people to work.",
+            "d. Delegation Skills: Assigning tasks effectively.",
+            "e. Negotiation Skills: Maximizing outcomes for all parties in a situation."
+          ],
+          "keywords": [
+            {
+              "keyword": "Entrepreneurial mind-set",
+              "definition": "A state of mind that enables an individual to undertake entrepreneurial activities, characterized by specific attitudes and a proactive approach."
+            },
+            {
+              "keyword": "Work ethic",
+              "definition": "A set of values centered on the importance of hard work and diligence."
+            },
+            {
+              "keyword": "Communication skills",
+              "definition": "The ability to effectively express ideas and inform others, both orally and in writing."
+            },
+            {
+              "keyword": "Leadership skills",
+              "definition": "The ability to inspire and guide people to work towards achieving a common goal."
+            }
+          ]
+        },
+        {
+          "section_number": "8.4",
+          "section_title": "Windows of Entrepreneurial Opportunities",
+          "summary": "This section explains how entrepreneurial opportunities are identified. An opportunity is an identifiable consumer need that can be met profitably. Opportunities are often found through deliberate search, by chance, or by recognizing and solving a problem. The concept of 'creative destruction' by Joseph Schumpeter is introduced, describing how entrepreneurial innovation disrupts and improves the economy, creating new opportunities while making others obsolete.",
+          "notes": [
+            "An entrepreneurial opportunity exists when there is identifiable consumer demand that can be met profitably.",
+            "Opportunities can be found through:",
+            "1. Deliberate search (especially in new technologies).",
+            "2. Chance or unintentional discovery.",
+            "3. Recognizing a problem and making a concerted effort to solve it.",
+            "Joseph Schumpeter's 'Creative Destruction': The process by which entrepreneurial innovation is the disruptive force that creates and sustains economic growth, while destroying established companies and practices."
+          ],
+          "keywords": [
+            {
+              "keyword": "Entrepreneurial opportunity",
+              "definition": "A situation where a consumer need can be met with a profitable new product, service, or process."
+            },
+            {
+              "keyword": "Creative destruction",
+              "definition": "A theory by Joseph Schumpeter where innovation and new technologies continuously destroy old economic structures and create new ones."
+            }
+          ]
+        },
+        {
+          "section_number": "8.5",
+          "section_title": "Entrepreneurial Success, Teamwork and Diversity",
+          "summary": "This section discusses the importance of teamwork and diversity for entrepreneurial success. It highlights several benefits of teamwork: increasing the likelihood of success, broadening perspectives, increasing productivity, providing opportunities for learning, and shaping a positive company culture. Diverse teams with different backgrounds are shown to be more creative and perform better.",
+          "notes": [
+            "Teamwork is crucial for entrepreneurial success. Benefits include:",
+            "1. Increases Likelihood of Success: Combined efforts and risk-taking improve the chances of achieving goals.",
+            "2. Broadens Perspectives: Different backgrounds lead to more creative solutions and better decision-making.",
+            "3. Increases Productivity: Workload is shared, and problem-solving is more effective.",
+            "4. Provides Learning Opportunities: Team members learn from each other's skills and experiences.",
+            "5. Shapes Company Culture: Good teamwork builds a positive, collaborative environment.",
+            "Diversity: Teams with diverse backgrounds (gender, age, ethnicity) are more creative and perform better."
+          ],
+          "keywords": [
+            {
+              "keyword": "Teamwork",
+              "definition": "The collaborative effort of a group to achieve a common goal, where members combine their skills and knowledge."
+            },
+            {
+              "keyword": "Diversity",
+              "definition": "The presence of a wide range of different backgrounds, perspectives, and experiences within a group."
+            }
+          ]
+        },
+        {
+          "section_number": "8.6",
+          "section_title": "Finance and Promotion of Entrepreneurship",
+          "summary": "This section identifies the financial requirements for entrepreneurial ventures and the various sources of finance. It distinguishes between permanent capital (for start-up and major development), working capital (for day-to-day operations), and asset finance (for purchasing fixed assets). It also lists the key sources of finance: personal savings, friends and family, partners, private investors (angels), and venture capital firms.",
+          "notes": [
+            "Financial resources are essential but can be difficult for entrepreneurial projects to obtain.",
+            "Budgetary Requirements:",
+            "1. Permanent Capital: Long-term finance for start-up costs or major developments. Comes from equity investments or loans. Repaid when the firm can afford it.",
+            "2. Working Capital: Short-term financing for day-to-day operations (e.g., raw materials, wages).",
+            "3. Asset Finance: Medium to long-term loans for purchasing physical assets (plants, machinery, vehicles).",
+            "Sources of Finance:",
+            "1. Personal Saving: Entrepreneurs should contribute at least half of the start-up funds.",
+            "2. Friends and Relatives: May be willing to invest.",
+            "3. Partners: Taking on partners to expand capital.",
+            "4. Angels (Private Investors): Wealthy individuals who invest in start-ups in exchange for equity.",
+            "5. Venture Capital Firms: Private organizations that invest in high-growth start-ups for high returns."
+          ],
+          "keywords": [
+            {
+              "keyword": "Permanent capital",
+              "definition": "Long-term funds used to finance the start-up costs and major developments of an enterprise."
+            },
+            {
+              "keyword": "Working capital",
+              "definition": "Short-term funds used for the day-to-day operational needs of a business, such as paying for raw materials and wages."
+            },
+            {
+              "keyword": "Venture capital",
+              "definition": "Financing provided by private organizations (venture capital firms) to new, high-growth businesses with high potential for returns."
+            },
+            {
+              "keyword": "Angels",
+              "definition": "Wealthy private investors, often entrepreneurs themselves, who invest in start-up businesses in exchange for taking risks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

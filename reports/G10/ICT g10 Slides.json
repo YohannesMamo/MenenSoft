@@ -1,0 +1,1785 @@
+{
+  "subject": "Information Technology",
+  "grade": 10,
+  "presentation_slides": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Organization of Files",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Unit Overview",
+          "slides": [
+            {
+              "slide_number": 1,
+              "slide_title": "Unit 1: Organization of Files - Overview",
+              "slide_content": [
+                "This unit builds on Grade 9 knowledge of file management.",
+                "Advanced concepts to be covered:",
+                "- File types and extensions",
+                "- Storage drives and drive letters",
+                "- File directory structures and paths (absolute & relative)",
+                "- File conversion, importing, and exporting",
+                "- Saving, opening, deleting, and restoring files",
+                "- File backup, recovery, and compression",
+                "Understanding these concepts ensures efficient and safe data management."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "File Management",
+          "slides": [
+            {
+              "slide_number": 2,
+              "slide_title": "What is File Management?",
+              "slide_content": [
+                "Traditional systems: Paper-based filing cabinets (slow, complicated).",
+                "Digital file management: Organizing and tracking computer files and folders.",
+                "A file is the basic storage unit for programs and data.",
+                "Files are organized in folders (directories).",
+                "Disk drives are hardware that read/write data.",
+                "File management helps you stay organized for easy information retrieval.",
+                "It also allows controlling access when multiple users are involved."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "slide_title": "Key Concepts: Files, Folders, and Drives",
+              "slide_content": [
+                "**File:** The common storage unit in a computer.",
+                "- All programs and data are 'written' into and 'read' from files.",
+                "**Folder (Directory):** A virtual storage space to organize files.",
+                "- Can contain other folders (subdirectories), creating a hierarchy.",
+                "**Disk Drive:** Hardware that enables reading/writing/deleting/modifying data.",
+                "- Most common is the Hard Disk Drive (HDD).",
+                "- Other types: optical drives, floppy drives, and cloud drives."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Storage Drives",
+          "slides": [
+            {
+              "slide_number": 4,
+              "slide_title": "Understanding Storage Drives",
+              "slide_content": [
+                "A computer drive is hardware used to read and store information.",
+                "Drives are assigned letters for identification.",
+                "- **C:** Main hard drive (stores OS and installed programs).",
+                "- **D:** Secondary hard drive (often for data storage).",
+                "- **E:** CD/DVD drive.",
+                "- **F:** Removable disk (e.g., USB drive).",
+                "Cloud Drives (e.g., OneDrive, Google Drive) provide remote storage over the Internet."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "slide_title": "Drive vs. Driver",
+              "slide_content": [
+                "**Important distinction:**",
+                "A 'drive' is the physical hardware (e.g., HDD).",
+                "A 'driver' is a group of files that enables hardware to communicate with the OS.",
+                "Without drivers, the computer cannot use hardware devices like printers."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "File Name Extension",
+          "slides": [
+            {
+              "slide_number": 6,
+              "slide_title": "What is a File Extension?",
+              "slide_content": [
+                "A suffix added to the end of a file name, preceded by a period.",
+                "Examples:",
+                "- `.docx` → Microsoft Word document",
+                "- `.xlsx` → Microsoft Excel spreadsheet",
+                "- `.jpg` / `.jpeg` → Image file",
+                "- `.mp3` → Audio file",
+                "- `.pdf` → Portable Document Format",
+                "Extensions tell the OS which application to use to open the file.",
+                "Windows uses 3-4 characters; DOS used 3; Unix-based systems make extensions optional."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "File Directory Structure",
+          "slides": [
+            {
+              "slide_number": 7,
+              "slide_title": "Directory Structure & File Paths",
+              "slide_content": [
+                "Files are organized in a hierarchical tree structure.",
+                "- **Root Directory:** The top-level folder (e.g., C:\\).",
+                "- **Subdirectory:** A folder inside another folder.",
+                "A **Path** is the route to a file.",
+                "**Absolute Pathname:** Full location from the root.",
+                "- Example: `C:\\Users\\Sarah\\Music\\Click.mp3`",
+                "**Relative Pathname:** Location relative to the current directory.",
+                "- If in `C:\\Users\\Sarah`, the relative path is `Music\\Click.mp3`."
+              ]
+            },
+            {
+              "slide_number": 8,
+              "slide_title": "Absolute vs. Relative Paths",
+              "slide_content": [
+                "**Absolute Pathname:**",
+                "- Always starts at the root directory.",
+                "- Complete and unique address.",
+                "- Example: `/User_B/Draw/ABC`",
+                "**Relative Pathname:**",
+                "- Starts from the current working directory.",
+                "- Shorter and faster to use when referencing nearby files.",
+                "- Example: If current directory is `User_B/Word`, the relative path to a file is `Unit_A/ABC`."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.6",
+          "section_title": "File Conversion",
+          "slides": [
+            {
+              "slide_number": 9,
+              "slide_title": "File Conversion",
+              "slide_content": [
+                "**File Conversion:** The process of changing a file from one format to another.",
+                "- Example: Converting a `.doc` (Word) file to `.pdf`.",
+                "**File Converter:** Software used to perform the conversion.",
+                "Common converters: FoxitPDFEditor, PDF to Word Converter, etc.",
+                "Why convert? To use a file created in one application with another.",
+                "When converting, some features of the original file may not transfer perfectly.",
+                "Always keep the original file."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.7",
+          "section_title": "File Importing and Exporting",
+          "slides": [
+            {
+              "slide_number": 10,
+              "slide_title": "Importing and Exporting Files",
+              "slide_content": [
+                "**File Import:** Moving data from an external file into a program.",
+                "- Example: Importing a CSV file into an Excel spreadsheet.",
+                "**File Export:** Taking data from a program and saving it to a file.",
+                "- Example: Exporting a Word document as a PDF.",
+                "While 'Save As' can also change formats, 'Import/Export' emphasizes moving data between applications.",
+                "CSV (Comma-Separated Values) is a common delimited text file format."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.8",
+          "section_title": "Saving and Opening Files",
+          "slides": [
+            {
+              "slide_number": 11,
+              "slide_title": "Saving and Opening in Different Formats",
+              "slide_content": [
+                "To save in a different format:",
+                "- Click **File** → **Save As**.",
+                "- Click **Browse** and select a location.",
+                "- From the 'Save as type' list, choose your desired format.",
+                "- Click **Save**.",
+                "To open a file, the default application for that file type is usually used.",
+                "You can also right-click and choose 'Open with' to select a specific program."
+              ]
+            },
+            {
+              "slide_number": 12,
+              "slide_title": "Important Tips",
+              "slide_content": [
+                "When you save a file in another format, some features (like formatting) may not transfer correctly.",
+                "Always check the new file and keep the original version.",
+                "In MS Word, you can open documents in many different formats.",
+                "You can use the 'All Files' option to let Word attempt to open any file type.",
+                "The default format is often the best choice to retain all information."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.9",
+          "section_title": "File Backup and Recovery",
+          "slides": [
+            {
+              "slide_number": 13,
+              "slide_title": "Backup and Recovery",
+              "slide_content": [
+                "**Backup:** The process of creating and storing copies of important data.",
+                "- Protects against data loss from hardware/software failure, corruption, or malicious attacks.",
+                "- Backups can be saved to external storage (HDD, USB) or the cloud.",
+                "**Recovery (Restoring):** The process of copying backed-up data back to its original or a new location.",
+                "Purpose: To recover from an unplanned event and ensure data is accessible.",
+                "Backup is a precautionary measure for data loss, theft, or damage."
+              ]
+            },
+            {
+              "slide_number": 14,
+              "slide_title": "How to Backup Files (Windows)",
+              "slide_content": [
+                "Steps to take a backup:",
+                "1. Plug in your external storage device.",
+                "2. Click **Start** → **Settings** (or type 'Settings' in the search box).",
+                "3. Select **Update & Security**.",
+                "4. Click **Backup** in the left column.",
+                "5. Select your backup drive.",
+                "6. The file will be copied to the specified format.",
+                "For recovery, restore the backed-up data to its original device or a new one."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.10",
+          "section_title": "File Compression",
+          "slides": [
+            {
+              "slide_number": 15,
+              "slide_title": "File Compression (Zipping)",
+              "slide_content": [
+                "**File Compression:** A method to reduce the logical size of a file or folder.",
+                "- Saves disk space.",
+                "- Makes it faster to transmit over a network or the Internet.",
+                "Also known as 'zipping'.",
+                "**To compress:**",
+                "1. Right-click the file or folder.",
+                "2. Select 'Send to'.",
+                "3. Choose 'Compressed (zipped) folder'.",
+                "A new zipped folder is created with the same name."
+              ]
+            },
+            {
+              "slide_number": 16,
+              "slide_title": "Unzipping Files",
+              "slide_content": [
+                "**To unzip (extract) files:**",
+                "1. Open File Explorer and find the zipped folder.",
+                "2. Right-click the folder and select 'Extract All' to unzip everything.",
+                "3. Or, double-click the zipped folder to open it, then drag/copy individual files to a new location.",
+                "**Popular compression tools:**",
+                "- WinRAR",
+                "- WinZip",
+                "- 7zip"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.11",
+          "section_title": "Deleting a File",
+          "slides": [
+            {
+              "slide_number": 17,
+              "slide_title": "Deleting Files",
+              "slide_content": [
+                "**Deleting a file:** The removal of a file from the computer's file system.",
+                "- Files are moved to the **Recycle Bin** (temporary storage).",
+                "**How to delete:**",
+                "1. Right-click the file and select 'Delete'.",
+                "2. Or, select the file and press the 'Delete' key on your keyboard.",
+                "**Reasons for deleting:**",
+                "- Freeing up disk space.",
+                "- Removing duplicate or unnecessary data.",
+                "- Making sensitive information unavailable.",
+                "Files can also be permanently deleted by pressing **Shift + Delete**."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.12",
+          "section_title": "Restoring Deleted File",
+          "slides": [
+            {
+              "slide_number": 18,
+              "slide_title": "Restoring Deleted Files",
+              "slide_content": [
+                "**Data Restoration:** Copying backup data from secondary storage and returning it to its original or new location.",
+                "Files in the Recycle Bin can be easily restored.",
+                "**To restore:**",
+                "1. Double-click the **Recycle Bin** icon on the desktop.",
+                "2. Right-click the file you want to restore.",
+                "3. Click 'Restore this item'.",
+                "The file will disappear from the Recycle Bin and reappear in its original location.",
+                "**A file CANNOT be restored if:**",
+                "- It's not in the Recycle Bin.",
+                "- The Recycle Bin has been emptied.",
+                "- It was deleted using **Shift + Delete**."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.13",
+          "section_title": "Unit Summary",
+          "slides": [
+            {
+              "slide_number": 19,
+              "slide_title": "Unit 1 Summary",
+              "slide_content": [
+                "**Key Concepts Recap:**",
+                "- **File:** Basic storage unit.",
+                "- **Folder/Directory:** Organizes files.",
+                "- **Extension:** Identifies file type.",
+                "- **Path:** Route to a file (Absolute vs. Relative).",
+                "- **Conversion:** Changing file format.",
+                "- **Import/Export:** Moving data between applications.",
+                "- **Backup/Recovery:** Creating and restoring copies.",
+                "- **Compression:** Reducing file size.",
+                "- **Deletion/Restoration:** Removing and recovering files.",
+                "Effective file management is essential for data organization, protection, and efficient computer use."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.14",
+          "section_title": "Unit Review Exercise",
+          "slides": [
+            {
+              "slide_number": 20,
+              "slide_title": "Unit 1 Review Exercise",
+              "slide_content": [
+                "**Part I: True/False**",
+                "1. A file is a container for storing information. (True)",
+                "2. A folder can be empty. (True)",
+                "3. File compression changes the original file's content. (False)",
+                "4. Files can be deleted by dragging them to the Recycle Bin. (True)",
+                "**Part II: Multiple Choice**",
+                "Example: What is a self-contained piece of information? (C. File)",
+                "**Part III: Discussion Questions**",
+                "- Explain how an OS differentiates files.",
+                "- Differentiate between absolute and relative path names.",
+                "- Describe the step-by-step process of saving a file as PDF.",
+                "Complete the exercises to test your understanding."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Computer Network",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Unit Overview",
+          "slides": [
+            {
+              "slide_number": 21,
+              "slide_title": "Unit 2: Computer Network - Overview",
+              "slide_content": [
+                "A computer network connects two or more devices for communication.",
+                "Fundamental components: Devices, Media, Messages, and Protocols.",
+                "This unit covers:",
+                "- **Transmission Media:** The pathways for data.",
+                "- **Telecommunications:** Long-distance communication systems.",
+                "- **Mobile & Cellular Communications:** Wireless technologies.",
+                "- **Satellite Networks:** Communication via satellites.",
+                "- **Data Communications:** The principles of data transfer.",
+                "- **Internet Protocol (IP):** The rules for internet communication."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Network Media (Transmission Media)",
+          "slides": [
+            {
+              "slide_number": 22,
+              "slide_title": "Transmission Media",
+              "slide_content": [
+                "The physical pathway or space through which data travels.",
+                "Two main categories:",
+                "**1. Guided (Wired) Media:**",
+                "- Twisted-Pair Cable",
+                "- Coaxial Cable",
+                "- Fiber-Optic Cable",
+                "**2. Unguided (Wireless) Media:**",
+                "- Radio Waves",
+                "- Microwaves",
+                "- Infrared",
+                "The signal encoding (electrical impulses, light pulses, or electromagnetic waves) differs for each."
+              ]
+            },
+            {
+              "slide_number": 23,
+              "slide_title": "Guided Media: Twisted-Pair Cable",
+              "slide_content": [
+                "Consists of two insulated copper wires twisted together.",
+                "- Twisting helps reduce interference (crosstalk).",
+                "**Types:**",
+                "1. **Unshielded Twisted-Pair (UTP):**",
+                "   - Most common, used in Ethernet networks (IEEE 802.3).",
+                "   - Connects using RJ45 connectors.",
+                "   - Categories: CAT5, CAT6, CAT7.",
+                "2. **Shielded Twisted-Pair (STP):**",
+                "   - Has a metallic shield to block external interference.",
+                "   - Used in fast data-rate Ethernet.",
+                "**Ethernet Cable Types:**",
+                "- Straight-Through (connects different devices).",
+                "- Crossover (connects similar devices)."
+              ]
+            },
+            {
+              "slide_number": 24,
+              "slide_title": "Guided Media: Coaxial & Fiber-Optic",
+              "slide_content": [
+                "**Coaxial Cable (Coax):**",
+                "- Central copper conductor, insulating sheath, outer conductor (metal foil), plastic cover.",
+                "- Outer conductor shields against noise.",
+                "- Types: Thick (broadband) and Thin (baseband).",
+                "- Connector: BNC (Bayonet Neill-Concelman).",
+                "**Fiber-Optic Cable:**",
+                "- Uses glass or plastic fibers to guide light pulses.",
+                "- Immune to electrical interference.",
+                "- Supports very high speeds and long distances.",
+                "- Types: Single-mode (long distances) and Multi-mode.",
+                "- Connectors: SC, ST, MT-RJ."
+              ]
+            },
+            {
+              "slide_number": 25,
+              "slide_title": "Unguided Media (Wireless)",
+              "slide_content": [
+                "Unguided media transmit electromagnetic waves through free space.",
+                "Propagation methods:",
+                "- Ground (low-frequency, follow Earth's surface).",
+                "- Sky (reflected off ionosphere for long distances).",
+                "- Line-of-Sight (straight lines, high-frequency).",
+                "**Radio Waves:**",
+                "- Frequencies 3 kHz to 1 GHz.",
+                "- Omnidirectional (sent in all directions).",
+                "- Used in AM/FM radio, cordless phones.",
+                "**Microwaves:**",
+                "- Frequencies 1 to 300 GHz.",
+                "- Unidirectional (focused in a single direction).",
+                "- Used in cellular phones, satellite networks, and WLANs."
+              ]
+            },
+            {
+              "slide_number": 26,
+              "slide_title": "Unguided Media: Infrared",
+              "slide_content": [
+                "**Infrared:**",
+                "- Electromagnetic radiation with wavelengths longer than visible light.",
+                "- Invisible to the human eye.",
+                "- Used for short-range communication.",
+                "- Example: Remote controls for TV.",
+                "**Antennas:**",
+                "- **Omnidirectional:** Sends signals in all directions (used for radio waves).",
+                "- **Unidirectional:** Sends signals in one direction (used for microwaves, e.g., parabolic dish, horn antenna)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Telecommunications Network",
+          "slides": [
+            {
+              "slide_number": 27,
+              "slide_title": "Telecommunications System",
+              "slide_content": [
+                "**Telecommunications:** Long-distance communication using common carriers (telephone, radio, television).",
+                "Data communications is a subset of telecommunications.",
+                "**Key Components:**",
+                "1. Hardware (computers, processors).",
+                "2. Communications media (wired/wireless).",
+                "3. Communications networks (linkages).",
+                "4. Communications processors (e.g., modems).",
+                "5. Communications software.",
+                "6. Data communications providers.",
+                "7. Communications protocols (rules).",
+                "8. Communications applications (e.g., EDI, video conferencing)."
+              ]
+            },
+            {
+              "slide_number": 28,
+              "slide_title": "Electronic Signals & Modems",
+              "slide_content": [
+                "**Analog Signals:** Continuous waves.",
+                "- Altered by amplitude and frequency.",
+                "- Used in traditional telephones and radio.",
+                "**Digital Signals:** Discrete on-off pulses.",
+                "- Represented as 1s and 0s.",
+                "- Less affected by interference (noise).",
+                "**Modem:**",
+                "- Modulates digital signals to analog for transmission over phone lines.",
+                "- Demodulates analog signals back to digital on the receiving end.",
+                "Why use a modem? Standard telephone lines were designed for analog voice signals."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Mobile Communications",
+          "slides": [
+            {
+              "slide_number": 29,
+              "slide_title": "Bluetooth Technology",
+              "slide_content": [
+                "**Bluetooth:** A short-range wireless communications technology.",
+                "- Replaces cables connecting electronic devices.",
+                "- Operates on the ISM band at 2.4 GHz.",
+                "- Devices establish a connection via 'pairing'.",
+                "**Uses:**",
+                "- Phone conversations via headset.",
+                "- Wireless mouse and keyboard.",
+                "- Sharing files between phones.",
+                "**Advantage:** Creates a personal area network (PAN) without wires."
+              ]
+            },
+            {
+              "slide_number": 30,
+              "slide_title": "Wireless Local Area Network (WLAN)",
+              "slide_content": [
+                "**WLAN:** A communication system using radio frequency (RF) technology.",
+                "- Can function as an extension to or alternative for a wired LAN.",
+                "- Provides flexibility and mobility within a coverage area.",
+                "**Access Point (AP):** Bridges wireless LAN traffic into the wired LAN.",
+                "- Multiple APs are installed with 10-15% overlap for larger areas.",
+                "**Standard:** IEEE 802.11 (marketed as Wi-Fi).",
+                "- Most modern WLANs are based on this standard.",
+                "Data rates can go up to 11 Mbps and higher."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Cellular Networks",
+          "slides": [
+            {
+              "slide_number": 31,
+              "slide_title": "Cellular Network Structure",
+              "slide_content": [
+                "A radio network distributed over land areas called **cells**.",
+                "Each cell is served by a **base station** (BS) with an antenna.",
+                "A **Mobile Switching Center (MSC)** coordinates communication between base stations.",
+                "Functions of MSC:",
+                "- Connecting calls.",
+                "- Recording call information.",
+                "- Billing.",
+                "The network is designed to hand off calls as users move between cells."
+              ]
+            },
+            {
+              "slide_number": 32,
+              "slide_title": "Generations of Cellular Networks",
+              "slide_content": [
+                "Cellular networks are categorized by generations:",
+                "**1G:** Analog voice.",
+                "**2G:** Digital voice and text (e.g., GSM).",
+                "**3G:** Mobile broadband for data and voice.",
+                "**4G:** High-speed broadband.",
+                "- Data rate up to 100 Mbit/s (mobile) and 1 Gbit/s (stationary).",
+                "- LTE (Long Term Evolution) is a type of 4G.",
+                "**5G:** The latest generation.",
+                "- Ultra-high speed, low latency, massive connectivity.",
+                "- Designed to connect everything virtually (machines, objects, devices)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Satellite Networks",
+          "slides": [
+            {
+              "slide_number": 33,
+              "slide_title": "Satellite Communication",
+              "slide_content": [
+                "A satellite network provides communication from one point on Earth to another.",
+                "**Components:**",
+                "- **Earth Station:** Ground-based antenna.",
+                "- **Uplink:** Transmission from Earth to the satellite.",
+                "- **Downlink:** Transmission from the satellite to Earth.",
+                "- **Transponder:** The satellite's receiver and transmitter.",
+                "**Advantage:** Can provide high-quality communication to any location on Earth, including remote areas."
+              ]
+            },
+            {
+              "slide_number": 34,
+              "slide_title": "Satellite Orbits & Types",
+              "slide_content": [
+                "Satellites travel in specific **orbits**.",
+                "- **Geostationary Earth Orbit (GEO):**",
+                "  - Altitude: 35,786 km.",
+                "  - Appears stationary over the equator.",
+                "- **Medium Earth Orbit (MEO):**",
+                "  - Altitude: 5,000 to 15,000 km.",
+                "  - Located between Van Allen belts.",
+                "- **Low Earth Orbit (LEO):**",
+                "  - Altitude: Below 2,000 km.",
+                "  - Lower latency, requires more satellites.",
+                "**Van Allen Belt:** A layer of charged particles that can damage satellites."
+              ]
+            },
+            {
+              "slide_number": 35,
+              "slide_title": "Data Communication Basics",
+              "slide_content": [
+                "**Data Communication:** The electronic collection, processing, and distribution of data.",
+                "**Effectiveness depends on:**",
+                "1. **Delivery:** Data reaches the correct destination.",
+                "2. **Accuracy:** Data is delivered without errors.",
+                "3. **Timeliness:** Data is delivered without unacceptable delay.",
+                "4. **Jitter:** Variation in packet arrival time.",
+                "**Components of a data communication system:**",
+                "1. Message (the data).",
+                "2. Sender (device).",
+                "3. Receiver (device).",
+                "4. Medium (transmission path).",
+                "5. Protocol (set of rules)."
+              ]
+            },
+            {
+              "slide_number": 36,
+              "slide_title": "Data Transmission Modes",
+              "slide_content": [
+                "**Simplex:**",
+                "- Unidirectional (one-way) transmission.",
+                "- Example: Keyboard to computer, monitor.",
+                "**Half-Duplex:**",
+                "- Both stations can transmit and receive, but not simultaneously.",
+                "- Example: Walkie-talkie.",
+                "**Full-Duplex:**",
+                "- Both stations can transmit and receive simultaneously.",
+                "- Example: Telephone conversation.",
+                "The mode determines how the capacity of the channel is used."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.7",
+          "section_title": "Internet Protocol",
+          "slides": [
+            {
+              "slide_number": 37,
+              "slide_title": "What is an IP Address?",
+              "slide_content": [
+                "**Internet Protocol (IP):** The principal communications protocol governing data format.",
+                "**IP Address:** A unique numerical label assigned to each device on a network.",
+                "- Allows information to be sent between devices.",
+                "**IPv4 (Version 4):**",
+                "- 32-bit integer.",
+                "- Dotted decimal notation (e.g., 192.0.2.146).",
+                "- Each part is 0-255.",
+                "**IPv6 (Version 6):**",
+                "- 128-bit address, developed to handle the shortage of IPv4 addresses."
+              ]
+            },
+            {
+              "slide_number": 38,
+              "slide_title": "Classes of IP Addresses",
+              "slide_content": [
+                "IPv4 addresses are divided into 5 classes (A-E).",
+                "**Class A:**",
+                "- First octet is network portion.",
+                "- Range: 0-127. Supports large networks.",
+                "**Class B:**",
+                "- First two octets are network portion.",
+                "- Range: 128-191. Supports medium networks.",
+                "**Class C:**",
+                "- First three octets are network portion.",
+                "- Range: 192-223. Supports small networks.",
+                "**Class D:** Multicast.",
+                "**Class E:** Experimental.",
+                "**Network Masks:** Used to identify which portion is the network address."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.8",
+          "section_title": "Unit Summary",
+          "slides": [
+            {
+              "slide_number": 39,
+              "slide_title": "Unit 2 Summary",
+              "slide_content": [
+                "**Transmission Media:**",
+                "- Guided (Cables) vs. Unguided (Wireless).",
+                "**Telecommunications:**",
+                "- System includes hardware, media, processors, and protocols.",
+                "**Mobile & Cellular:**",
+                "- Bluetooth (short-range), WLAN (Wi-Fi), Cellular (1G-5G).",
+                "**Satellite Networks:**",
+                "- Uses transponders to relay signals (Uplink/Downlink).",
+                "**Data Communication:**",
+                "- Transmission modes (Simplex, Half-duplex, Full-duplex).",
+                "**Internet Protocol:**",
+                "- IP addresses (IPv4/IPv6, Classes A-E, Network Masks)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.9",
+          "section_title": "Unit Review Exercise",
+          "slides": [
+            {
+              "slide_number": 40,
+              "slide_title": "Unit 2 Review Exercise",
+              "slide_content": [
+                "**Part I: True/False**",
+                "1. Fiber-optic cables use light pulses. (True)",
+                "2. Guided media use a physical conductor. (True)",
+                "**Part II: Multiple Choice**",
+                "Example: Which cable has an inner copper core and a second conducting sheath? (C. Coaxial)",
+                "**Part III: Discussion Questions**",
+                "- What are the two major categories of transmission media?",
+                "- Explain the role of access points in WLAN.",
+                "- What is the difference between omnidirectional and unidirectional waves?",
+                "Complete the exercises to reinforce your understanding."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Application Software",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Unit Overview",
+          "slides": [
+            {
+              "slide_number": 41,
+              "slide_title": "Unit 3: Application Software - Overview",
+              "slide_content": [
+                "This unit covers advanced features of key application software:",
+                "**Word Processing (Microsoft Word):**",
+                "- Creating, formatting, and managing tables.",
+                "- Inserting pictures, clip art, and shapes.",
+                "- Formatting page numbers.",
+                "**Spreadsheet (Microsoft Excel):**",
+                "- Understanding formulas and functions.",
+                "- Working with data (sort, filter, freeze panes).",
+                "- Creating charts and applying cell formatting.",
+                "**Presentation (PowerPoint):**",
+                "- Using animations and transitions.",
+                "- Creating and using a Slide Master."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Word Processing",
+          "slides": [
+            {
+              "slide_number": 42,
+              "slide_title": "Creating a Table in Word",
+              "slide_content": [
+                "**Methods to Insert a Table:**",
+                "1. **Dragging:**",
+                "   - Use the Insert Table menu and drag to select rows/columns.",
+                "2. **Insert Table Dialog Box:**",
+                "   - Specify exact number of columns and rows.",
+                "3. **Draw Table:**",
+                "   - Use a pencil tool to draw custom table boundaries.",
+                "4. **Quick Table:**",
+                "   - Insert preformatted tables (like calendars).",
+                "The Insert Control feature allows easy addition of new rows or columns by hovering and clicking a '+' icon."
+              ]
+            },
+            {
+              "slide_number": 43,
+              "slide_title": "Formatting a Table",
+              "slide_content": [
+                "**Applying a Style:**",
+                "- Use the Table Styles gallery (Design tab) to apply professional formatting.",
+                "**Resizing Rows and Columns:**",
+                "- Drag column markers on the ruler.",
+                "- Use the Table Properties dialog box for precise measurements.",
+                "**Inserting/Deleting Rows/Columns:**",
+                "- Right-click a row/column and choose Insert or Delete.",
+                "- Use the Insert Control feature.",
+                "**Other formatting:**",
+                "- Borders, shading, cell alignment, and text direction."
+              ]
+            },
+            {
+              "slide_number": 44,
+              "slide_title": "Inserting Pictures, Clip Art, and Shapes",
+              "slide_content": [
+                "**Pictures:**",
+                "- Insert from file using the 'Pictures' button (Insert tab).",
+                "- Images are embedded in the document.",
+                "**Screenshots:**",
+                "- Capture images of open windows or a specific screen area.",
+                "**Clip Art:**",
+                "- Predefined images from the Office library or online.",
+                "**Shapes:**",
+                "- Draw various shapes (rectangles, circles, arrows).",
+                "- Hold Shift while drawing to create a 'perfect' shape.",
+                "- Can be formatted with colors, outlines, and effects.",
+                "Use the Format tab to modify all these illustrations."
+              ]
+            },
+            {
+              "slide_number": 45,
+              "slide_title": "Formatting Page Numbers",
+              "slide_content": [
+                "**Steps to Add Page Numbers:**",
+                "1. Go to the **Insert** tab.",
+                "2. Click the **Page Number** command.",
+                "3. Choose position: Top of Page, Bottom of Page, or Page Margins.",
+                "4. Select a style.",
+                "5. The numbers will appear in the header/footer.",
+                "**To edit:** Double-click the header/footer to unlock it.",
+                "**To remove:**",
+                "- In the Page Number menu, select 'Remove Page Numbers'.",
+                "Page numbers can be formatted with different styles and can start from a specific number."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Spreadsheet",
+          "slides": [
+            {
+              "slide_number": 46,
+              "slide_title": "Understanding Formulas and Functions",
+              "slide_content": [
+                "**Formula:** A mathematical expression created by the user.",
+                "- Always starts with an equals sign (`=`).",
+                "- Example: `=A1+A2+A3`",
+                "**Function:** A predefined formula built into Excel.",
+                "- Example: `=SUM(A1:A3)`",
+                "**Order of Operations:**",
+                "1. Parentheses",
+                "2. Exponents",
+                "3. Multiplication and Division",
+                "4. Addition and Subtraction",
+                "**Common Functions:**",
+                "- `SUM()`: Adds values.",
+                "- `AVERAGE()`: Calculates the mean.",
+                "- `COUNT()`: Counts cells with numbers.",
+                "- `MAX()` / `MIN()`: Finds the largest/smallest value."
+              ]
+            },
+            {
+              "slide_number": 47,
+              "slide_title": "Working with Data",
+              "slide_content": [
+                "**Freezing Panes:**",
+                "- Keeps specific rows or columns visible while scrolling.",
+                "- On the View tab, select 'Freeze Panes'.",
+                "**Splitting a Worksheet:**",
+                "- Divides the sheet into separate scrollable panes.",
+                "- Useful for comparing different sections.",
+                "- On the View tab, select 'Split'.",
+                "**Sorting Data:**",
+                "- Reorganizes data alphabetically, numerically, etc.",
+                "- Sort a single column or a range of cells.",
+                "- Use the 'Sort & Filter' group on the Data tab.",
+                "**Filtering Data:**",
+                "- Shows only rows that meet specific criteria.",
+                "- Click the 'Filter' command and use the dropdown arrows in headers."
+              ]
+            },
+            {
+              "slide_number": 48,
+              "slide_title": "Working with Charts",
+              "slide_content": [
+                "**Charts** visually display data.",
+                "**How to create:**",
+                "1. Select the data (including labels).",
+                "2. Go to the **Insert** tab.",
+                "3. Choose a chart type (Column, Line, Pie, Bar).",
+                "4. The chart is inserted into the worksheet.",
+                "**Modifying charts:**",
+                "- **Chart Elements:** Add titles, legends, data labels.",
+                "- **Layout:** Quick Layouts for a different arrangement.",
+                "- **Style:** Use Chart Styles for different color themes.",
+                "Use the Design and Format tabs to customize the chart."
+              ]
+            },
+            {
+              "slide_number": 49,
+              "slide_title": "Applying Cell Formatting",
+              "slide_content": [
+                "**Font Formatting:**",
+                "- Change font, size, color.",
+                "- Apply Bold, Italic, Underline.",
+                "**Text Alignment:**",
+                "- Align left, center, right (horizontal).",
+                "- Align top, middle, bottom (vertical).",
+                "**Borders and Fill Colors:**",
+                "- Add borders to define cells.",
+                "- Fill colors to highlight cells.",
+                "**Cell Styles:**",
+                "- Use pre-designed styles for quick, professional formatting.",
+                "**Number Formatting:**",
+                "- Format numbers as currency, percentage, date, time, etc.",
+                "This improves readability and makes data more understandable."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "PowerPoint Presentation",
+          "slides": [
+            {
+              "slide_number": 50,
+              "slide_title": "Using Animation and Transitions",
+              "slide_content": [
+                "**Transitions:**",
+                "- Animated effects that occur when moving from one slide to the next.",
+                "- Applied to entire slides.",
+                "- Can control effect, speed, and sound.",
+                "**Animations:**",
+                "- Effects applied to individual objects on a slide (text, images).",
+                "- Control how and when objects appear/disappear.",
+                "- Use the 'Animations' tab.",
+                "**Best Practice:**",
+                "Use transitions and animations sparingly to avoid distracting the audience. Stick to a few consistent styles for a professional look."
+              ]
+            },
+            {
+              "slide_number": 51,
+              "slide_title": "Creating a Slide Master",
+              "slide_content": [
+                "**Slide Master:**",
+                "- The top slide that controls the layout, theme, and formatting for the entire presentation.",
+                "- Changes made here apply to all slides.",
+                "**To create/use a Slide Master:**",
+                "1. Go to the **View** tab and click **Slide Master**.",
+                "2. Make changes (e.g., add a logo, change background, fonts).",
+                "3. Delete unwanted default layouts.",
+                "4. Set page orientation (Portrait/Landscape).",
+                "5. Save as a PowerPoint Template (.potx) for reuse.",
+                "**Advantage:** Ensures consistency and saves time by applying a uniform look to every slide."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Unit Summary",
+          "slides": [
+            {
+              "slide_number": 52,
+              "slide_title": "Unit 3 Summary",
+              "slide_content": [
+                "**Word Processing:**",
+                "- Create and format tables for data organization.",
+                "- Insert graphics (pictures, clip art, shapes) to enhance documents.",
+                "- Use page numbers for professional document structure.",
+                "**Spreadsheets:**",
+                "- Use formulas and functions for calculations.",
+                "- Manage data with sorting and filtering.",
+                "- Visualize data with charts.",
+                "- Apply formatting to cells for clarity.",
+                "**Presentations:**",
+                "- Enhance with animations and transitions.",
+                "- Use Slide Master for consistent and professional design.",
+                "These skills are essential for effective communication and data management."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Unit Review Exercise",
+          "slides": [
+            {
+              "slide_number": 53,
+              "slide_title": "Unit 3 Review Exercise",
+              "slide_content": [
+                "**Part I: True/False**",
+                "1. A table has horizontal rows and vertical columns. (True)",
+                "2. Word Processor is for tabular data. (False)",
+                "**Part II: Multiple Choice**",
+                "Example: Which is not a word processing function? (A. Indexing)",
+                "**Part III: Practical & Discussion Questions**",
+                "- Open Word and create a table with days and months.",
+                "- In Excel, calculate totals and averages from a dataset.",
+                "- Create a line chart based on the data.",
+                "- In PowerPoint, create a slide master with a logo and title.",
+                "Practice these exercises to master the software."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Image Processing and Multimedia",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Unit Overview",
+          "slides": [
+            {
+              "slide_number": 54,
+              "slide_title": "Unit 4: Image Processing and Multimedia - Overview",
+              "slide_content": [
+                "This unit builds on Grade 9 image processing concepts.",
+                "It introduces the broader field of **Multimedia**.",
+                "Topics covered:",
+                "- Basics of multimedia and its components.",
+                "- Multimedia file formats.",
+                "- The process and people involved in multimedia production.",
+                "- Multimedia authoring and authoring tools.",
+                "- Editing multimedia content (text, images, video).",
+                "- Introduction to computer animation."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Basics of Multimedia",
+          "slides": [
+            {
+              "slide_number": 55,
+              "slide_title": "What is Multimedia?",
+              "slide_content": [
+                "**Multimedia:** The interactive and attractive presentation of information using a combination of text, audio, video, graphics, and animation.",
+                "**Importance in various fields:**",
+                "1. **Education:** Virtual learning, interactive programs.",
+                "2. **Entertainment:** Movies, music, interactive games.",
+                "3. **Public Places:** Kiosks in hotels, museums, and libraries.",
+                "4. **Collaboration:** Virtual meetings, video conferencing.",
+                "5. **Healthcare:** Telemedicine, virtual surgery, medical training."
+              ]
+            },
+            {
+              "slide_number": 56,
+              "slide_title": "Components of Multimedia",
+              "slide_content": [
+                "**1. Text:** Headlines, subtitles, captions, and navigation.",
+                "**2. Graphics:** Visual elements like photos, clip art, charts.",
+                "- Hypermedia: Graphics that serve as links.",
+                "**3. Audio:** Speech, music, and sound effects.",
+                "- Digitized sound or from a MIDI port.",
+                "**4. Video:** Photographic images played at speed to show motion.",
+                "- Digital video shows real-life objects.",
+                "**5. Animation:** Graphics that change or move.",
+                "- Used for attention, advertising, and teaching complex procedures.",
+                "**Multimedia Computer System** requires specific hardware (CPU, RAM, etc.) and software."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Multimedia File Formats",
+          "slides": [
+            {
+              "slide_number": 57,
+              "slide_title": "Common Multimedia File Formats",
+              "slide_content": [
+                "**Sound File Formats:**",
+                "- **WAV:** Windows Wave Format (standard).",
+                "- **MIDI:** Musical Instrument Digital Interface.",
+                "- **WMA:** Windows Media Audio.",
+                "**Image File Formats:**",
+                "- **TIFF:** Tagged Interchange File Format.",
+                "- **JPEG:** Joint Photographic Experts Group (common for photos).",
+                "- **GIF:** Graphics Interchange Format (supports animation).",
+                "- **PNG:** Portable Network Graphics (supports transparency).",
+                "- **BMP:** Windows Bitmap Format.",
+                "**Video File Formats:**",
+                "- **AVI:** Audio Video Interleave.",
+                "- **MPEG:** Moving Picture Experts Group."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Multimedia Production",
+          "slides": [
+            {
+              "slide_number": 58,
+              "slide_title": "Multimedia Production",
+              "slide_content": [
+                "**Multimedia Production:** Any production that uses imagery, text, audio, and graphics to tell a story (e.g., product sales, narration, education).",
+                "**People involved in production:**",
+                "1. Production Manager - Coordinates the process.",
+                "2. Content Specialist - Researches content.",
+                "3. Scriptwriter - Visualizes the 3D environment.",
+                "4. Text Editor - Revises text.",
+                "5. Multimedia Architect - Integrates all elements.",
+                "6. Computer Graphic Artist - Creates graphics and animations.",
+                "7. Audio/Video Specialist - Handles sound and video.",
+                "8. Computer Programmer - Writes the code.",
+                "The process begins with gathering content and ends with integration."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Multimedia Authoring and Authoring Tools",
+          "slides": [
+            {
+              "slide_number": 59,
+              "slide_title": "Multimedia Authoring",
+              "slide_content": [
+                "**Multimedia Authoring:** The process of assembling different media types (text, audio, image, video) into a single, interactive presentation.",
+                "**Stages of Authoring:**",
+                "1. **Analysis:** Determine the need and purpose.",
+                "2. **Design:** Create storyboards.",
+                "3. **Development:** Build a prototype.",
+                "4. **Evaluation:** Test and refine.",
+                "5. **Distribution:** Package and release.",
+                "**Authoring Tools:** Software to create these applications.",
+                "- Examples: Macromedia Flash, Adobe Premier.",
+                "- Tools like Flash provide a timeline, layers, and a toolbox."
+              ]
+            },
+            {
+              "slide_number": 60,
+              "slide_title": "Using Macromedia Flash",
+              "slide_content": [
+                "**Screen Elements in Flash:**",
+                "- **Menu Bar:** Commands.",
+                "- **Timeline Window:** Controls playback time.",
+                "- **Work Area:** The stage (white area) and workspace.",
+                "- **Layer Panel:** Manages layers.",
+                "- **Toolbox:** Tools for drawing/selecting.",
+                "**Basic Creation:**",
+                "- Use tools to draw shapes.",
+                "- Fill colors using the Paint Bucket.",
+                "**Simple Animation:**",
+                "- Insert keyframes in the timeline.",
+                "- Make slight changes (e.g., rotate an object) in each keyframe.",
+                "- Flash will create the motion between frames (Motion Tween)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "Multimedia Editing",
+          "slides": [
+            {
+              "slide_number": 61,
+              "slide_title": "Editing Text and Images",
+              "slide_content": [
+                "**Editing Text:**",
+                "- Use the Text Tool to create a text field.",
+                "- Format text using the Properties panel (font, color, alignment).",
+                "- Text can be typed directly or imported from other files.",
+                "**Working with Images:**",
+                "- Import images via 'File > Import'.",
+                "- Use 'Free Transform Tool' to scale, rotate, or skew images.",
+                "These operations are essential for customizing multimedia projects."
+              ]
+            },
+            {
+              "slide_number": 62,
+              "slide_title": "Page Transitions & Motion Icons",
+              "slide_content": [
+                "**Transitions:**",
+                "- Effects that phase out one clip and phase in the next.",
+                "- Can be single-sided (begin/end of clip) or double-sided (between clips).",
+                "- Used in video editing software (e.g., Adobe Premiere Elements).",
+                "**Motion Icon (Macromedia Flash):**",
+                "- A guide layer is used to create a path.",
+                "- A graphic symbol is attached to the path.",
+                "- Keyframes are set at the start and end of the path.",
+                "- 'Create Motion Tween' animates the object along the path.",
+                "**Positioning objects:** Transform properties (scale, rotation, opacity) can be adjusted."
+              ]
+            },
+            {
+              "slide_number": 63,
+              "slide_title": "Libraries and Working with Sound",
+              "slide_content": [
+                "**Libraries:**",
+                "- Contain reusable visual and audio elements (icons).",
+                "- Users can create, save, and open custom libraries.",
+                "**Working with Sound:**",
+                "- Import sound files (e.g., MP3, WAV).",
+                "- Drag the audio to the Timeline.",
+                "- Adjust playback speed using 'Time Stretch'.",
+                "- Volume and fade effects can be controlled.",
+                "**Working with Digital Movies:**",
+                "- Digital video is captured in formats like AVI, MPG.",
+                "- Use software like Adobe Premiere to trim, set durations, and add effects.",
+                "- 'Freeze Frame' creates a still image from a video clip."
+              ]
+            },
+            {
+              "slide_number": 64,
+              "slide_title": "Film Editing & Hypermedia",
+              "slide_content": [
+                "**Basics of Film Editing:**",
+                "- **Trimming:** Removing unwanted low-quality sections.",
+                "- **Smart Trim:** Manual or automatic removal.",
+                "- **Changing Speed:** Create slow-motion or fast-motion effects.",
+                "- **Setting Duration:** Adjust the length of a clip.",
+                "- **Freeze Frame:** Capturing a still image.",
+                "**Multimedia vs. Hypermedia:**",
+                "- **Multimedia:** Linear, integrated presentation of different media.",
+                "- **Hypermedia:** Non-linear, interactive content linked via hypertext (e.g., the World Wide Web)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.7",
+          "section_title": "Unit Summary",
+          "slides": [
+            {
+              "slide_number": 65,
+              "slide_title": "Unit 4 Summary",
+              "slide_content": [
+                "**Multimedia:** Integration of text, audio, video, graphics, and animation for interactive presentation.",
+                "**Authoring:** The process of assembling media into a single presentation using authoring tools.",
+                "**File Formats:** Different formats for audio (WAV, MIDI), images (JPEG, PNG), and video (AVI, MPEG).",
+                "**Editing:** Manipulating text, images, and video within multimedia projects.",
+                "**Computer Animation:** Creating moving images using computers.",
+                "These concepts are crucial for creating engaging and informative digital content."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.8",
+          "section_title": "Unit Review Exercise",
+          "slides": [
+            {
+              "slide_number": 66,
+              "slide_title": "Unit 4 Review Exercise",
+              "slide_content": [
+                "**Part I: True/False**",
+                "1. Multimedia uses a single media source. (False)",
+                "2. Authoring assembles different media types. (True)",
+                "**Part II: Multiple Choice**",
+                "Example: What does TIFF stand for? (C. Tagged Interchange File Format)",
+                "**Part III: Discussion & Practical Questions**",
+                "- Define multimedia and its components.",
+                "- Explain the stages of multimedia authoring.",
+                "- Identify screen elements in the provided Macromedia Flash figure.",
+                "- Explain the steps to import sound files.",
+                "Use these questions to prepare for the assessment."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Information and Computer Security",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Unit Overview",
+          "slides": [
+            {
+              "slide_number": 67,
+              "slide_title": "Unit 5: Information and Computer Security - Overview",
+              "slide_content": [
+                "This unit builds on Grade 9 security basics.",
+                "It addresses advanced concepts in securing information and computers.",
+                "Topics covered:",
+                "- **Information & Computer Security:** Definitions and importance.",
+                "- **Impact on Society:** The consequences of security breaches.",
+                "- **Privacy and Security:** Individual rights vs. data protection.",
+                "- **Computer Security Threats:** Viruses, worms, malware.",
+                "- **Threat Prevention Strategies:** Technical and non-technical solutions.",
+                "- **Cyber Security:** Protecting against attacks on systems and data."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Information and Computer Security",
+          "slides": [
+            {
+              "slide_number": 68,
+              "slide_title": "Information and Computer Security",
+              "slide_content": [
+                "**Information Security (InfoSec):** The practice of defending information from unauthorized access, use, disclosure, disruption, modification, or destruction.",
+                "**Computer Security (Cyber Security):** InfoSec applied to computing devices (computers, smartphones) and networks (including the Internet).",
+                "**The Three Main Reasons for Security:**",
+                "1. To prevent theft of or damage to **hardware**.",
+                "2. To prevent theft of or damage to **information**.",
+                "3. To prevent **disruption of service**.",
+                "Security is essential for protecting confidentiality, integrity, and availability."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Impact of Information and Computer Security on Society",
+          "slides": [
+            {
+              "slide_number": 69,
+              "slide_title": "Impact on Society",
+              "slide_content": [
+                "**Risks** arise from intentional or unintentional misuse of computers and networks.",
+                "**Potential Impacts:**",
+                "- Loss or damage to computer hardware and software.",
+                "- Loss of confidential information.",
+                "- Damage to data integrity.",
+                "- Loss of network and Internet availability.",
+                "**Hackers** can steal passwords or control computers remotely.",
+                "**Remember:** Security violations are punishable by law.",
+                "It is crucial for all users to be aware of risks and know how to act responsibly and safely."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Privacy and Security",
+          "slides": [
+            {
+              "slide_number": 70,
+              "slide_title": "Privacy vs. Security",
+              "slide_content": [
+                "**Privacy:**",
+                "- A person's right to manage their personal data.",
+                "- Rights to access, modify, or erase personal information.",
+                "**Data Privacy (Information Privacy):**",
+                "- Proper handling, processing, storage, and usage of personal information.",
+                "**Data Security:**",
+                "- Measures taken to prevent unauthorized access to data.",
+                "- Focuses on protecting data from breaches, theft, and corruption.",
+                "**Key Difference:** Privacy is about *who* can use the data and for *what* purpose. Security is about *how* the data is protected from threats."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Computer Security Threats",
+          "slides": [
+            {
+              "slide_number": 71,
+              "slide_title": "Common Computer Security Threats",
+              "slide_content": [
+                "**Security Threat:** A malicious act aiming to corrupt, steal, or disrupt data/systems.",
+                "**Common Types of Malware:**",
+                "1. **Computer Virus:** A program that replicates and infects files.",
+                "2. **Computer Worm:** Self-replicates and spreads across networks.",
+                "3. **Trojan Horse:** Disguises itself as legitimate software.",
+                "4. **Spyware:** Secretly monitors user activity.",
+                "5. **Adware:** Displays unwanted advertisements.",
+                "6. **Ransomware:** Encrypts files and demands payment for decryption.",
+                "A security event is an occurrence where data or a network may have been exposed."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Threat Prevention Strategies",
+          "slides": [
+            {
+              "slide_number": 72,
+              "slide_title": "Technical Prevention Strategies",
+              "slide_content": [
+                "**1. Data Backup:** Creating copies of data for recovery.",
+                "**2. Protective Devices:** UPS (Uninterruptible Power Supply) for power outages.",
+                "**3. Antivirus/Antispyware:** Programs to detect and remove malware.",
+                "**4. Firewall:** A barrier preventing unauthorized access to a private network.",
+                "**5. Encryption:** Scrambling data to prevent it from being read.",
+                "**6. User Account Management:** Creating accounts (Administrator, Standard, Guest) with specific permissions.",
+                "The Windows path for backup: Start → Control Panel → System & Security → Backup and Restore."
+              ]
+            },
+            {
+              "slide_number": 73,
+              "slide_title": "Firewall and User Accounts",
+              "slide_content": [
+                "**Firewall:**",
+                "- Monitors incoming and outgoing network traffic.",
+                "- Blocks or allows traffic based on a set of rules.",
+                "- Should always be kept on, even with another firewall.",
+                "- Can be managed in Windows Security settings.",
+                "**User Accounts:**",
+                "- **Administrator:** Full access to the computer.",
+                "- **Standard:** Can personalize the PC but limited system changes.",
+                "- **Guest:** Temporary users, limited access, no privacy.",
+                "Create and manage accounts in the Control Panel."
+              ]
+            },
+            {
+              "slide_number": 74,
+              "slide_title": "Non-Technical Prevention Strategies",
+              "slide_content": [
+                "While not all disasters can be prevented, careful planning can reduce damage.",
+                "**Non-Technical Measures:**",
+                "1. **Secure Location:** Keeping computers in a safe, lockable area.",
+                "2. **Safe Data Storage:** Storing physical media (backups) in a different location.",
+                "3. **Protecting Programs and Data:** Physical and procedural controls.",
+                "This includes ensuring physical security against theft, fire, flood, and other environmental threats.",
+                "Procedures like proper handling and documentation are also vital."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Cyber Security",
+          "slides": [
+            {
+              "slide_number": 75,
+              "slide_title": "What is Cyber Security?",
+              "slide_content": [
+                "**Cyber Security:** The application of technologies, processes, and controls to protect systems, networks, programs, devices, and data from cyber-attacks.",
+                "**Cyber-attacks** can cause:",
+                "- Electrical shutdowns.",
+                "- Failure of military equipment.",
+                "- Breaches of national security.",
+                "- Theft of valuable, sensitive data.",
+                "- Disruption of networks and services.",
+                "**Goal:** Reduce the risk of cyber-attacks and protect against unauthorized exploitation.",
+                "**Common Categories:** Network Security, Information Security, Operational Security, Disaster Recovery, and End-User Education."
+              ]
+            },
+            {
+              "slide_number": 76,
+              "slide_title": "Cyber Security Prevention Mechanisms",
+              "slide_content": [
+                "**1. Use Strong Passwords:** Complex, unique passwords.",
+                "**2. Secure Your Computer:** Install and update antivirus/firewall.",
+                "**3. Be Social-Media Savvy:** Don't overshare personal information.",
+                "**4. Secure Mobile Devices:** Use passcodes and install security apps.",
+                "**5. Install OS Updates:** Regularly patch vulnerabilities.",
+                "**6. Protect Your Data:** Encrypt sensitive files.",
+                "**7. Secure Wireless Network:** Use strong encryption (WPA2) and change default passwords.",
+                "**8. Protect Your E-Identity:** Be cautious about online interactions.",
+                "**9. Avoid Scams:** Be wary of phishing and suspicious links.",
+                "**Report** any illegal content or suspected cybercrime to the police."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.8",
+          "section_title": "Unit Summary",
+          "slides": [
+            {
+              "slide_number": 77,
+              "slide_title": "Unit 5 Summary",
+              "slide_content": [
+                "**Information & Computer Security:** Essential for protecting hardware, software, and data.",
+                "**Privacy:** Individual rights over personal data.",
+                "**Threats:** Viruses, worms, spyware, ransomware, etc.",
+                "**Prevention Strategies:**",
+                "- Technical (Backup, Antivirus, Firewall, Encryption, User Accounts).",
+                "- Non-technical (Physical security, safe data storage).",
+                "**Cyber Security:** A broad field defending all digital assets against attacks.",
+                "**Cyber Hygiene:** Simple practices like strong passwords and updates make a big difference.",
+                "Everyone has a role in protecting digital information."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.9",
+          "section_title": "Unit Review Exercise",
+          "slides": [
+            {
+              "slide_number": 78,
+              "slide_title": "Unit 5 Review Exercise",
+              "slide_content": [
+                "**Part I: True/False**",
+                "1. Firewalls protect against unauthorized attacks. (True)",
+                "2. Cyber security is not related to cybercrime. (False)",
+                "**Part II: Multiple Choice**",
+                "Example: Antivirus software needs continuous updates because... (A. The list of threats grows)",
+                "**Part III: Discussion Questions**",
+                "- Define computer security and its three elements.",
+                "- Discuss the reasons for taking regular backups.",
+                "- Explain what a firewall does.",
+                "- Describe the impact of cyber-attacks.",
+                "Complete these to test your understanding of key security principles."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Fundamentals of Programming",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Unit Overview",
+          "slides": [
+            {
+              "slide_number": 79,
+              "slide_title": "Unit 6: Fundamentals of Programming - Overview",
+              "slide_content": [
+                "This unit introduces the fundamental building blocks of computer programming.",
+                "Builds on Grade 9 problem-solving concepts.",
+                "Topics covered:",
+                "- **Basics of Algorithm:** What is an algorithm?",
+                "- **Definition of Algorithm:** Precise methods for solving problems.",
+                "- **Characteristics of Algorithm:** Unambiguous, finite, well-defined.",
+                "- **Algorithm Representation:** Using flowcharts and pseudocode.",
+                "- **Integrated Development Environment (IDE):** The tools used by programmers.",
+                "Focus is on the planning phase of programming."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Basics of Algorithm",
+          "slides": [
+            {
+              "slide_number": 80,
+              "slide_title": "What is an Algorithm?",
+              "slide_content": [
+                "**Algorithm:** A step-by-step process for solving a well-defined computational problem.",
+                "**Problem-Solving Steps in Computing:**",
+                "1. Analyze the problem thoroughly.",
+                "2. Break down the solution into a sequence of small tasks.",
+                "3. Prepare an algorithm to solve the problem.",
+                "4. Express the algorithm in precise notation.",
+                "5. Design a computer program in a high-level language.",
+                "6. Feed the program into the computer.",
+                "7. Execute the program and get the expected result.",
+                "Example: To calculate the sum of two numbers, A and B, the algorithm takes A and B as input, adds them, and outputs the sum."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Definition of Algorithm",
+          "slides": [
+            {
+              "slide_number": 81,
+              "slide_title": "Defining an Algorithm",
+              "slide_content": [
+                "An algorithm is a precise method of solving a problem.",
+                "It consists of a sequence of unambiguous, step-by-step instructions.",
+                "**A Program** is an algorithm that has been converted into code that a computer can execute.",
+                "**Key Characteristics in Definition:**",
+                "- **Finite:** Must have an end.",
+                "- **Step-by-step:** Clear sequence.",
+                "- **Language-independent:** Can be implemented in any programming language.",
+                "**Components of an Algorithm:**",
+                "- **Input:** Data provided to the algorithm.",
+                "- **Process:** The operations performed.",
+                "- **Output:** The result produced.",
+                "**Example:** Cooking a new recipe by following instructions is similar to executing an algorithm."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Characteristics of Algorithm",
+          "slides": [
+            {
+              "slide_number": 82,
+              "slide_title": "Characteristics of a Good Algorithm",
+              "slide_content": [
+                "For instructions to be considered an algorithm, they must have:",
+                "1. **Clear and Unambiguous:** Each step has only one meaning.",
+                "2. **Well-defined Inputs:** What is required as input is clearly specified.",
+                "3. **Well-defined Outputs:** The result is clearly defined.",
+                "4. **Finiteness:** It must terminate after a finite number of steps (no infinite loops).",
+                "5. **Feasible:** Simple and practical to execute with available resources.",
+                "6. **Language Independent:** The instructions are plain and can be coded in any language.",
+                "**Advantages:** Easy to understand, stepwise representation.",
+                "**Disadvantages:** Time-consuming to design, branching/looping can be difficult to show."
+              ]
+            },
+            {
+              "slide_number": 83,
+              "slide_title": "Examples of Algorithms",
+              "slide_content": [
+                "**Example 1: Sum of Two Numbers**",
+                "- Step 1: Take the first number (input).",
+                "- Step 2: Take the second number (input).",
+                "- Step 3: Add the two numbers (process).",
+                "- Step 4: Display the sum (output).",
+                "**Example 2: Check Positive/Negative**",
+                "- Step 1: Take a number from the user.",
+                "- Step 2: If number < 0, display 'Negative'.",
+                "- Step 3: If number > 0, display 'Positive'.",
+                "- Step 4: Otherwise, display 'Zero'.",
+                "**Example 3: Sum of 10 Numbers**",
+                "- The algorithm uses a loop to add numbers one by one and outputs the total."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Algorithm Representation",
+          "slides": [
+            {
+              "slide_number": 84,
+              "slide_title": "Representing Algorithms: Flowcharts",
+              "slide_content": [
+                "A **Flowchart** is a graphical representation of an algorithm.",
+                "**Common Symbols:**",
+                "- **Oval:** Start/End.",
+                "- **Parallelogram:** Input/Output.",
+                "- **Rectangle:** Process (calculation).",
+                "- **Diamond:** Decision (Yes/No).",
+                "- **Arrows:** Flow lines showing direction.",
+                "**Advantages:** Visual, easy to understand.",
+                "**Example:** A flowchart for adding two numbers starts, reads A and B, computes C = A + B, prints C, and ends."
+              ]
+            },
+            {
+              "slide_number": 85,
+              "slide_title": "Flowchart Examples",
+              "slide_content": [
+                "**Example 1: Sum of First 50 Natural Numbers**",
+                "- The flowchart uses a loop.",
+                "- A counter is initialized, a decision block checks if the counter ≤ 50.",
+                "- If yes, the counter is added to a running sum, and the counter is incremented.",
+                "- If no, the sum is output.",
+                "**Example 2: Check if a number is positive or negative**",
+                "- The flowchart reads a number `x`.",
+                "- A decision diamond checks if `x < 0`.",
+                "- If yes, it outputs 'Negative'.",
+                "- If no, it outputs 'Not Negative'.",
+                "These are standard ways to plan a program's logic."
+              ]
+            },
+            {
+              "slide_number": 86,
+              "slide_title": "Representing Algorithms: Pseudocode",
+              "slide_content": [
+                "**Pseudocode:** A program design aid that expresses logic in structured English-like statements.",
+                "- It is a textual representation, unlike a flowchart.",
+                "- No strict rules; it's a mix of code and English.",
+                "**Example: Sum of Two Numbers**",
+                "```",
+                "START",
+                "READ A, B",
+                "COMPUTE C = A + B",
+                "PRINT C",
+                "END",
+                "```",
+                "**Benefits:**",
+                "- Easier to translate to a programming language.",
+                "- Good for documenting logic for review.",
+                "**Drawback:** Not a visual representation."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Integrated Development Environment(IDE)",
+          "slides": [
+            {
+              "slide_number": 87,
+              "slide_title": "What is an IDE?",
+              "slide_content": [
+                "**Integrated Development Environment (IDE):**",
+                "An application that facilitates application development.",
+                "It consolidates all common programming tasks into a single application.",
+                "**Core Components:**",
+                "1. **Code Editor:** Specialized text editor for writing source code.",
+                "2. **Compiler/Interpreter:** Translates source code into an executable format.",
+                "3. **Debugger:** Helps test software and find issues (bugs).",
+                "**Other useful features:**",
+                "- Build automation tools.",
+                "- Class/Object browsers.",
+                "- Class hierarchy diagrams."
+              ]
+            },
+            {
+              "slide_number": 88,
+              "slide_title": "Benefits and Types of IDEs",
+              "slide_content": [
+                "**Benefits of IDEs:**",
+                "1. **Faster Setup:** All tools are integrated, no need to configure multiple applications.",
+                "2. **Faster Development:** Syntax checking, code completion, and instant feedback.",
+                "3. **Continual Learning:** Resources, samples, and updates keep developers informed.",
+                "4. **Standardization:** The IDE interface helps teams work together more smoothly.",
+                "**Types of IDEs:**",
+                "- **Multi-language:** Eclipse, NetBeans (support Java, Python, PHP, etc.).",
+                "- **Specific Application:**",
+                "  - Mobile: Android Studio.",
+                "  - Web: DreamWeaver.",
+                "  - Cloud-based: Nitrous."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.7",
+          "section_title": "Unit Summary",
+          "slides": [
+            {
+              "slide_number": 89,
+              "slide_title": "Unit 6 Summary",
+              "slide_content": [
+                "**Key Concepts:**",
+                "- **Algorithm:** A precise, step-by-step method for solving a problem.",
+                "- **Flowchart:** A graphical representation of the steps in a process.",
+                "- **Pseudocode:** A textual representation using structured English.",
+                "Using these tools leads to better program design, fewer errors, and easier debugging.",
+                "**IDE:** An integrated environment for writing, compiling, and debugging code.",
+                "- Popular IDEs like Eclipse and NetBeans support multiple languages.",
+                "**Algorithms are language-independent**, while **programs are the language-specific implementation**."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.8",
+          "section_title": "Unit Review Exercise",
+          "slides": [
+            {
+              "slide_number": 90,
+              "slide_title": "Unit 6 Review Exercise",
+              "slide_content": [
+                "**Part I: True/False**",
+                "1. Branching and looping are well-described using an algorithm. (False)",
+                "2. A flowchart is a graphical representation. (True)",
+                "**Part II: Multiple Choice**",
+                "Example: Which is NOT a characteristic of an algorithm? (A. Ambiguity)",
+                "**Part III: Discussion & Practical Questions**",
+                "- Define algorithm and explain its characteristics.",
+                "- Describe the symbols of a flowchart and draw one for a given problem.",
+                "- Explain what an IDE is and its benefits.",
+                "- Write an algorithm and draw a flowchart to find the greatest of three numbers.",
+                "These exercises will reinforce your understanding of programming fundamentals."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

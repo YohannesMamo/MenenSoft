@@ -1,0 +1,545 @@
+{
+  "subject": "Mathematics",
+  "grade": 12,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Sequences and Series",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Sequences",
+          "summary": "This section introduces the concept of a sequence as a function whose domain is a set of integers. It covers the definition of a sequence, its terms, and the general term (nth term). The distinction between finite and infinite sequences is made. The section also introduces two special sequences: the Fibonacci sequence, where each term is the sum of the two preceding terms, and the Mulatu sequence, a recursive sequence defined similarly. The process of finding terms of a sequence from a given rule and drawing graphs of sequences to observe patterns is also explained.",
+          "detailed_notes": "A sequence is an ordered list of numbers that follows a specific pattern or rule. Formally, it is a function whose domain is a set of consecutive integers (usually positive integers). The individual numbers in a sequence are called terms. The nth term, denoted by aₙ, is a formula that represents the general term of the sequence. A finite sequence has a last term, while an infinite sequence continues indefinitely. The Fibonacci sequence is defined recursively: F₀=1, F₁=1, and Fₙ = Fₙ₋₁ + Fₙ₋₂ for n ≥ 2. The Mulatu sequence is another recursive sequence defined by M₀=4, M₁=1, and Mₙ = Mₙ₋₁ + Mₙ₋₂. A recursive sequence defines a term using one or more of the preceding terms. Graphs of sequences, when plotted as points (n, aₙ), often reveal a pattern, such as a linear relationship for an arithmetic sequence.",
+          "keywords": [
+            {"keyword": "Sequence", "definition": "A function whose domain is the set of positive integers (or a subset thereof), producing an ordered list of numbers called terms."},
+            {"keyword": "Term", "definition": "Each individual number in a sequence."},
+            {"keyword": "General Term (nth term)", "definition": "A formula, denoted by aₙ, that defines the nth term of a sequence."},
+            {"keyword": "Finite Sequence", "definition": "A sequence that has a last term."},
+            {"keyword": "Infinite Sequence", "definition": "A sequence that continues indefinitely without a last term."},
+            {"keyword": "Recursive Sequence", "definition": "A sequence defined by a formula that relates a term to one or more of the preceding terms."},
+            {"keyword": "Fibonacci Sequence", "definition": "A special sequence where each term is the sum of the two preceding terms, starting with 1, 1, 2, 3, 5, 8, ..."},
+            {"keyword": "Mulatu Sequence", "definition": "A recursive sequence defined by M₀=4, M₁=1, and Mₙ = Mₙ₋₁ + Mₙ₋₂."}
+          ]
+        },
+        {
+          "section_number": "1.2.1",
+          "section_title": "Arithmetic Sequences",
+          "summary": "This section defines an arithmetic sequence (or arithmetic progression) as a sequence where the difference between consecutive terms is constant. This constant is called the common difference (d). It provides the formula for the nth term: Aₙ = A₁ + (n - 1)d. The section also covers finding the general term when given two terms, inserting arithmetic means between two numbers, and determining whether a given sequence is arithmetic by checking for a constant difference between consecutive terms.",
+          "detailed_notes": "An arithmetic sequence is characterized by a constant difference, d, between any two consecutive terms: A₂ - A₁ = A₃ - A₂ = ... = d. The first term is denoted by A₁. The general term (nth term) formula is derived from repeatedly adding the common difference: Aₙ = A₁ + (n - 1)d. This formula can be used to find any term if the first term and common difference are known. To find the general term when given two specific terms, a system of equations can be solved for A₁ and d. Inserting arithmetic means between two numbers means creating an arithmetic sequence with a specified number of terms between them. A sequence is arithmetic if the difference between its consecutive terms is constant.",
+          "keywords": [
+            {"keyword": "Arithmetic Sequence (Arithmetic Progression)", "definition": "A sequence in which the difference between any two consecutive terms is constant."},
+            {"keyword": "Common Difference", "definition": "The constant difference between consecutive terms in an arithmetic sequence, denoted by d."},
+            {"keyword": "Arithmetic Mean", "definition": "The term between two numbers in an arithmetic sequence; the average of the two numbers."}
+          ]
+        },
+        {
+          "section_number": "1.2.2",
+          "section_title": "Geometric Sequences",
+          "summary": "This section defines a geometric sequence (or geometric progression) as a sequence where the ratio between consecutive terms is a non-zero constant. This constant is the common ratio (r). The formula for the nth term is given: Gₙ = G₁ * r^(n-1). It also explains the concept of the geometric mean between two numbers, where m² = ab, and how to find it. The section also covers finding the general term and solving problems involving geometric sequences.",
+          "detailed_notes": "A geometric sequence is characterized by a constant ratio, r, between any two consecutive terms: G₂/G₁ = G₃/G₂ = ... = r, where r ≠ 0. The first term is denoted by G₁. The general term (nth term) formula is derived by repeated multiplication by the common ratio: Gₙ = G₁ * r^(n-1). The geometric mean (m) between two numbers a and b is found by solving r = m/a = b/m, which gives m² = ab, so m = ±√(ab). To find the nth term when given other terms, the formula can be used to set up equations and solve for G₁ and r.",
+          "keywords": [
+            {"keyword": "Geometric Sequence (Geometric Progression)", "definition": "A sequence in which the ratio between any two consecutive terms is a non-zero constant."},
+            {"keyword": "Common Ratio", "definition": "The constant ratio between consecutive terms in a geometric sequence, denoted by r."},
+            {"keyword": "Geometric Mean", "definition": "The term between two numbers in a geometric sequence, such that m² = ab."}
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Sigma Notation and Partial Sums",
+          "summary": "This section introduces the concepts of partial sums and sigma notation for representing the sum of a sequence. A partial sum, Sₙ, is the sum of the first n terms of a sequence. Sigma notation provides a concise way to write such sums using the summation symbol Σ. The section also covers the properties of sigma notation, including summing a constant, splitting sums, and factoring out constants. The formulas for the sum of an arithmetic sequence and the sum of a geometric sequence are derived and presented.",
+          "detailed_notes": "The sum of the first n terms of a sequence is called the nth partial sum, denoted by Sₙ = a₁ + a₂ + ... + aₙ. Sigma notation is a shorthand for writing sums: ∑_{k=1}^{n} aₖ = a₁ + a₂ + ... + aₙ. The index of summation is k, the lower limit is 1, and the upper limit is n. Properties of sigma notation include: ∑ caₖ = c∑aₖ, ∑ (aₖ ± bₖ) = ∑aₖ ± ∑bₖ, and ∑_{k=1}^{n} aₖ = ∑_{k=1}^{m} aₖ + ∑_{k=m+1}^{n} aₖ. The sum of an arithmetic sequence is Sₙ = (n/2)(A₁ + Aₙ) = (n/2)[2A₁ + (n-1)d]. The sum of a geometric sequence is Sₙ = G₁(1 - rⁿ)/(1 - r) for r ≠ 1, and Sₙ = nG₁ for r = 1.",
+          "keywords": [
+            {"keyword": "Partial Sum", "definition": "The sum of the first n terms of a sequence, denoted by Sₙ."},
+            {"keyword": "Sigma Notation", "definition": "A concise notation using the Greek letter Σ to represent the sum of a sequence."},
+            {"keyword": "Summation", "definition": "The process of adding the terms of a sequence."}
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Infinite Series",
+          "summary": "This section extends the idea of partial sums to infinite series, which are sums of infinitely many terms. The section discusses the convergence and divergence of infinite sequences. An infinite geometric series converges if |r| < 1, and its sum to infinity is S∞ = G₁/(1 - r). The section also covers the conversion of recurring decimals to fractions using the concept of infinite geometric series.",
+          "detailed_notes": "An infinite series is the sum of an infinite sequence: ∑_{n=1}^{∞} aₙ. The convergence or divergence of an infinite sequence is determined by the behavior of its terms as n approaches infinity. A sequence converges to a value L if the terms get arbitrarily close to L; otherwise, it diverges. For a geometric sequence Gₙ = rⁿ, it converges to 0 if |r| < 1, diverges to infinity if r > 1, and vibrates (no limit) if r ≤ -1. An infinite geometric series with first term G₁ and common ratio r converges to S∞ = G₁/(1 - r) if |r| < 1. This formula is used to convert recurring decimals, such as 0.333..., into fractions by expressing the decimal as an infinite geometric series.",
+          "keywords": [
+            {"keyword": "Infinite Series", "definition": "The sum of an infinite sequence of terms."},
+            {"keyword": "Convergence", "definition": "The property of an infinite sequence or series where the terms approach a finite limit as n goes to infinity."},
+            {"keyword": "Divergence", "definition": "The property of an infinite sequence or series where the terms do not approach a finite limit."},
+            {"keyword": "Sum to Infinity", "definition": "The sum of an infinite convergent geometric series, given by S∞ = G₁/(1 - r)."},
+            {"keyword": "Recurring Decimal", "definition": "A decimal number that has a digit or a block of digits that repeat infinitely."}
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Applications of Sequence and Series in Daily Life",
+          "summary": "This section applies the concepts of arithmetic and geometric sequences and series to solve real-life problems. Examples include calculating salary increases over time (arithmetic), compound interest on investments (geometric), population growth (geometric), and radioactive decay (geometric). The section also includes problems involving the sum of arithmetic and geometric series in contexts like savings plans and total earnings.",
+          "detailed_notes": "Arithmetic sequences are used to model situations with a constant rate of change, such as salary increases by a fixed amount each year, or the total number of items in a pattern that grows by a constant number each step. Geometric sequences model situations with a constant percentage change, such as compound interest on a bank deposit, population growth at a constant rate, or the decay of a radioactive substance. The sum of an arithmetic or geometric series is useful for calculating total quantities over a period, such as total earnings over several years or the total amount accumulated in an investment. The examples in this section demonstrate how to set up and solve these real-world problems using the formulas developed earlier.",
+          "keywords": [
+            {"keyword": "Application", "definition": "Using the concepts of sequences and series to model and solve problems in real-life situations."},
+            {"keyword": "Compound Interest", "definition": "Interest calculated on the initial principal and also on the accumulated interest of previous periods, modeled by a geometric sequence."},
+            {"keyword": "Growth", "definition": "An increase in quantity over time, often modeled by a geometric sequence."},
+            {"keyword": "Depreciation", "definition": "A decrease in the value of an asset over time, often modeled by a geometric sequence."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Introduction to Calculus",
+      "sections": [
+        {
+          "section_number": "2.1.1",
+          "section_title": "Understanding Rates of Change",
+          "summary": "This section introduces the concept of rate of change, which describes how one quantity changes in relation to another. It distinguishes between the average rate of change over an interval, calculated as the slope of the secant line, and the instantaneous rate of change at a point, which is the derivative. The difference between positive, negative, and zero rates of change is discussed, and the average rate of change is defined as Δy/Δx = (f(b) - f(a))/(b - a). The section also introduces the idea that the instantaneous rate of change is the limit of the average rate of change as the interval approaches zero.",
+          "detailed_notes": "Rate of change is a fundamental concept that describes how one variable changes with respect to another. It is calculated as the change in the dependent variable divided by the change in the independent variable. A positive rate of change indicates an increasing relationship, while a negative rate indicates a decreasing relationship. A zero rate indicates no change. The average rate of change over an interval [a, b] of a function y = f(x) is the slope of the secant line connecting the points (a, f(a)) and (b, f(b)), given by (f(b) - f(a))/(b - a). The instantaneous rate of change at a specific point is found by taking the limit of the average rate of change as the interval shrinks to zero, which is the derivative at that point.",
+          "keywords": [
+            {"keyword": "Rate of Change", "definition": "A measure of how one quantity changes in relation to another quantity."},
+            {"keyword": "Average Rate of Change", "definition": "The rate of change over an interval, equal to the slope of the secant line."},
+            {"keyword": "Instantaneous Rate of Change", "definition": "The rate of change at a specific point, equal to the derivative or slope of the tangent line."},
+            {"keyword": "Secant Line", "definition": "A line that intersects a curve at two points."},
+            {"keyword": "Slope", "definition": "The measure of the steepness of a line, defined as the ratio of the vertical change to the horizontal change."},
+            {"keyword": "Delta (Δ)", "definition": "A symbol used to denote a change in a quantity."}
+          ]
+        },
+        {
+          "section_number": "2.1.2",
+          "section_title": "Gradient of Curves and Rate of Changes",
+          "summary": "This section establishes the relationship between the gradient (slope) of a secant line and the average rate of change, and the gradient of a tangent line and the instantaneous rate of change. A tangent line touches a curve at exactly one point. The slope of the secant line gives the average rate of change over an interval, while the slope of the tangent line gives the instantaneous rate of change at that point. The section also provides the formula for the slope of a secant line.",
+          "detailed_notes": "The gradient or slope of a line is a measure of its steepness. For a secant line through two points on a curve, its slope is the average rate of change of the function over that interval. For a tangent line that touches a curve at a single point, its slope is the instantaneous rate of change at that point. The slope of a secant line through points (x₀, y₀) and (x₁, y₁) on the graph of y = f(x) is (y₁ - y₀)/(x₁ - x₀) = (f(x₁) - f(x₀))/(x₁ - x₀). The slope of the tangent line is found by taking the limit of the slope of the secant line as the second point approaches the first point.",
+          "keywords": [
+            {"keyword": "Tangent Line", "definition": "A line that touches a curve at exactly one point, representing the instantaneous rate of change."},
+            {"keyword": "Gradient", "definition": "A synonym for the slope of a line."},
+            {"keyword": "Point of Tangency", "definition": "The point where a tangent line touches a curve."}
+          ]
+        },
+        {
+          "section_number": "2.1.3",
+          "section_title": "Gradient at a Point on a Curve",
+          "summary": "This section formalizes the method for finding the gradient (slope) of the tangent line at a specific point on a curve. It uses the concept of a secant line through the point P(a, f(a)) and a nearby point Q(a + h, f(a + h)). The slope of this secant line is (f(a + h) - f(a))/h. As h approaches zero, the secant line approaches the tangent line, and its slope approaches the gradient of the tangent line at P. This limit is the derivative. This concept is also directly linked to the instantaneous rate of change.",
+          "detailed_notes": "To find the slope of the tangent line at point P(a, f(a)), consider a nearby point Q(a + h, f(a + h)). The slope of the secant line PQ is m_sec = (f(a + h) - f(a))/h. As h approaches zero, Q moves closer to P, and the secant line rotates to become the tangent line. The slope of the tangent line, m_tan, is the limit of the secant slope as h → 0: m_tan = lim_{h→0} (f(a + h) - f(a))/h. This limit, if it exists, is the derivative of f at a, denoted f'(a). This slope is the instantaneous rate of change of the function at x = a. The derivative gives the gradient of the curve at any point.",
+          "keywords": [
+            {"keyword": "Derivative", "definition": "The limit of the slope of a secant line as the interval approaches zero, representing the slope of the tangent line and the instantaneous rate of change."},
+            {"keyword": "Limit", "definition": "The value that a function or sequence approaches as the input approaches some value."},
+            {"keyword": "h", "definition": "The change in the x-coordinate used to find the slope of a secant line, often referred to as Δx."}
+          ]
+        },
+        {
+          "section_number": "2.1.4",
+          "section_title": "Definition of Derivative",
+          "summary": "This section provides the formal definition of the derivative as a function and at a point. It introduces derivative notation (f'(x), dy/dx, d/dx) and establishes the derivative as the slope of the tangent line and the instantaneous rate of change. The section also begins to explore derivatives of specific functions, such as constants, x², and √x, using the limit definition. It outlines the key rules of differentiation: the power rule, the constant multiple rule, the sum/difference rule, the product rule, and the quotient rule.",
+          "detailed_notes": "The derivative of a function f at a point a is defined as f'(a) = lim_{h→0} (f(a + h) - f(a))/h, provided the limit exists. This is also the slope of the tangent line at (a, f(a)). The derivative as a function is f'(x) = lim_{h→0} (f(x + h) - f(x))/h. Common notations for the derivative include f'(x), dy/dx, and (d/dx)f(x). Key differentiation rules: The Power Rule: d/dx (xⁿ) = nxⁿ⁻¹. Constant Multiple Rule: d/dx (kf(x)) = k f'(x). Sum/Difference Rule: d/dx (f(x) ± g(x)) = f'(x) ± g'(x). Product Rule: d/dx (f(x)g(x)) = f'(x)g(x) + f(x)g'(x). Quotient Rule: d/dx (f(x)/g(x)) = (f'(x)g(x) - f(x)g'(x))/(g(x))². The Chain Rule: d/dx (f(g(x))) = f'(g(x)) * g'(x).",
+          "keywords": [
+            {"keyword": "Derivative Definition", "definition": "The derivative of a function at a point is the limit of the difference quotient as the change in x approaches zero."},
+            {"keyword": "Differentiation", "definition": "The process of finding the derivative of a function."},
+            {"keyword": "Power Rule", "definition": "A differentiation rule stating that the derivative of xⁿ is nxⁿ⁻¹."},
+            {"keyword": "Product Rule", "definition": "A rule for differentiating the product of two functions."},
+            {"keyword": "Quotient Rule", "definition": "A rule for differentiating the quotient of two functions."},
+            {"keyword": "Chain Rule", "definition": "A rule for differentiating the composition of two functions."},
+            {"keyword": "Derivative Notations", "definition": "Symbols used to represent the derivative: f'(x), dy/dx, d/dx."}
+          ]
+        },
+        {
+          "section_number": "2.1.5",
+          "section_title": "Maximum and Minimum Points",
+          "summary": "This section covers the application of derivatives to find the maximum and minimum values of functions. It discusses increasing and decreasing functions, and introduces the concept of critical numbers (where the derivative is zero or undefined). The First Derivative Test is presented as a method to determine whether a critical point is a local maximum or minimum. The section also explains how to find absolute (global) maximum and minimum values on a closed interval by evaluating the function at critical points and endpoints.",
+          "detailed_notes": "A function is increasing where its derivative is positive and decreasing where its derivative is negative. Critical numbers are x-values where f'(x) = 0 or f'(x) does not exist. The First Derivative Test: If f' changes from positive to negative at a critical point c, then f(c) is a local maximum. If f' changes from negative to positive at c, then f(c) is a local minimum. If f' does not change sign, there is no local extremum. The absolute maximum and minimum on a closed interval [a, b] can be found by evaluating the function at all critical numbers within the interval and at the endpoints a and b. The largest value is the absolute maximum, and the smallest is the absolute minimum.",
+          "keywords": [
+            {"keyword": "Increasing Function", "definition": "A function whose values increase as the input increases; f'(x) ≥ 0."},
+            {"keyword": "Decreasing Function", "definition": "A function whose values decrease as the input increases; f'(x) ≤ 0."},
+            {"keyword": "Critical Number", "definition": "A point in the domain of a function where the derivative is zero or undefined."},
+            {"keyword": "Local (Relative) Maximum", "definition": "A point where a function has a higher value than all nearby points."},
+            {"keyword": "Local (Relative) Minimum", "definition": "A point where a function has a lower value than all nearby points."},
+            {"keyword": "Absolute (Global) Maximum", "definition": "The highest value of a function over its entire domain."},
+            {"keyword": "Absolute (Global) Minimum", "definition": "The lowest value of a function over its entire domain."},
+            {"keyword": "First Derivative Test", "definition": "A test using the sign of the derivative to determine the nature of a critical point."}
+          ]
+        },
+        {
+          "section_number": "2.1.6",
+          "section_title": "Equation of Tangents and Normal Lines to Curves",
+          "summary": "This section uses the derivative to find the equations of tangent and normal lines to a curve at a given point. The slope of the tangent line is given by the derivative at that point, f'(a). The equation of the tangent line is y = f'(a)(x - a) + f(a). The normal line is perpendicular to the tangent line, so its slope is the negative reciprocal of f'(a). The equation of the normal line is y = -1/f'(a)(x - a) + f(a), provided f'(a) ≠ 0.",
+          "detailed_notes": "The derivative f'(a) is the slope of the tangent line to the curve y = f(x) at the point (a, f(a)). Therefore, the equation of the tangent line can be found using the point-slope form: y - f(a) = f'(a)(x - a). The normal line is perpendicular to the tangent line. The product of the slopes of two perpendicular lines is -1. Hence, the slope of the normal line is -1/f'(a). The equation of the normal line is y - f(a) = (-1/f'(a))(x - a). Special cases include horizontal tangents (f'(a) = 0) and vertical tangents (f'(a) is undefined).",
+          "keywords": [
+            {"keyword": "Tangent Line Equation", "definition": "The equation of the tangent line at a point (a, f(a)): y = f'(a)(x - a) + f(a)."},
+            {"keyword": "Normal Line", "definition": "A line perpendicular to the tangent line at the point of tangency."},
+            {"keyword": "Normal Line Equation", "definition": "The equation of the normal line: y = -1/f'(a)(x - a) + f(a)."},
+            {"keyword": "Horizontal Tangent", "definition": "A tangent line with a slope of zero, where f'(a) = 0."},
+            {"keyword": "Vertical Tangent", "definition": "A tangent line with an undefined slope, where f'(a) is undefined."}
+          ]
+        },
+        {
+          "section_number": "2.2.1",
+          "section_title": "Applications of Derivatives in Finding Rate of Change",
+          "summary": "This section demonstrates the application of derivatives to solve related rates problems. These problems involve finding the rate at which one quantity changes with respect to time, given the rate of change of another related quantity. The key steps involve identifying the relationship between the variables, differentiating implicitly with respect to time, and then substituting known values to find the unknown rate.",
+          "detailed_notes": "Related rates problems involve finding the rate of change of one quantity in terms of the rate of change of another. The solution typically involves: (1) Identifying the variables and their rates of change. (2) Finding an equation that relates the variables. (3) Differentiating the equation with respect to time (t). (4) Substituting the known values and solving for the desired rate. Common applications include the rate of change of area, volume, and distance. In physics, the derivative of displacement with respect to time gives velocity, and the derivative of velocity gives acceleration.",
+          "keywords": [
+            {"keyword": "Related Rates", "definition": "Problems that involve finding the rate of change of one quantity in terms of the rate of change of another."},
+            {"keyword": "Implicit Differentiation", "definition": "Differentiating an equation that defines y implicitly as a function of x."},
+            {"keyword": "Velocity", "definition": "The rate of change of displacement with respect to time."},
+            {"keyword": "Acceleration", "definition": "The rate of change of velocity with respect to time."}
+          ]
+        },
+        {
+          "section_number": "2.2.2",
+          "section_title": "Applications of Derivatives in Business and Economics",
+          "summary": "This section applies derivatives to solve problems in business and economics, particularly in the context of marginal analysis. Concepts like marginal cost, marginal revenue, and marginal profit are defined as the derivatives of the cost, revenue, and profit functions, respectively. The section also shows how to find the level of production that maximizes profit or revenue by setting the marginal profit or marginal revenue to zero.",
+          "detailed_notes": "In economics, marginal analysis uses derivatives to analyze the effect of producing one more unit. Marginal cost (MC) is the derivative of the total cost function, C'(x). Marginal revenue (MR) is the derivative of the total revenue function, R'(x). Marginal profit (MP) is the derivative of the profit function, P'(x) = R'(x) - C'(x). Profit is maximized when marginal revenue equals marginal cost (MR = MC). Revenue is maximized when marginal revenue is zero (MR = 0). These concepts help businesses determine optimal production levels to maximize profit. Examples include finding optimal sales volume and the price to charge to maximize revenue.",
+          "keywords": [
+            {"keyword": "Marginal Cost", "definition": "The derivative of the cost function; the cost of producing one additional unit."},
+            {"keyword": "Marginal Revenue", "definition": "The derivative of the revenue function; the revenue from selling one additional unit."},
+            {"keyword": "Marginal Profit", "definition": "The derivative of the profit function; the profit from producing and selling one additional unit."},
+            {"keyword": "Optimization", "definition": "The process of finding the maximum or minimum value of a function."}
+          ]
+        },
+        {
+          "section_number": "2.2.3",
+          "section_title": "Application of Derivative in Road Taxation",
+          "summary": "This section presents a specific application of derivatives to a road taxation problem. It involves modeling the total annual cost of running a car, including fixed costs (tax and insurance), variable costs (fuel, service, depreciation), and then finding the annual mileage that minimizes the average cost per mile by differentiating the average cost function.",
+          "detailed_notes": "This is an example of an optimization problem. The total annual cost is expressed as a function of the annual mileage (x). The average cost per mile is found by dividing the total cost by x. To find the mileage that minimizes the average cost, the derivative of the average cost function is set to zero, and the resulting critical value is checked to ensure it corresponds to a minimum using the first derivative test. This example shows how calculus can be used to make cost-effective decisions in personal finance.",
+          "keywords": [
+            {"keyword": "Average Cost", "definition": "The total cost divided by the number of units (e.g., cost per mile)."},
+            {"keyword": "Total Cost", "definition": "The sum of all costs associated with a particular activity."}
+          ]
+        },
+        {
+          "section_number": "2.3.1",
+          "section_title": "Areas of Regions",
+          "summary": "This section introduces the concept of finding the area under a curve using geometry for simple functions like constants and linear functions. It explains that the area under a rate function represents the total accumulated change (e.g., distance from velocity). The section also previews the idea that for more complex curves, the area can be approximated using rectangles (Riemann sums), setting the stage for integration.",
+          "detailed_notes": "The area under the graph of a non-negative function over an interval represents the total accumulation of the quantity represented by the function. For a constant function (y = k), the area is a rectangle with area k * (b - a). For a linear function (y = mx), the area forms a triangle with area 1/2 * base * height. These cases show that the area function is an anti-derivative of the function. For more complex curves, exact area formulas are not known. Instead, we can approximate the area by partitioning the interval into small subintervals and constructing rectangles. The sum of the areas of these rectangles is a Riemann sum. As the number of rectangles increases, the approximation becomes more accurate.",
+          "keywords": [
+            {"keyword": "Area Under a Curve", "definition": "The area between the graph of a function and the x-axis over a given interval."},
+            {"keyword": "Riemann Sum", "definition": "An approximation of the area under a curve by summing the areas of rectangles."},
+            {"keyword": "Rate Function", "definition": "A function whose output represents a rate, such as velocity or marginal cost."},
+            {"keyword": "Accumulation", "definition": "The total amount accumulated from a rate function, represented by the area under its graph."}
+          ]
+        },
+        {
+          "section_number": "2.3.2",
+          "section_title": "Definite Integrals",
+          "summary": "This section formally defines the definite integral as the limit of a Riemann sum. It introduces the notation ∫_a^b f(x) dx and explains that for non-negative functions, the definite integral represents the exact area under the curve. The relationship between the definite integral and the anti-derivative is established through the Fundamental Theorem of Calculus.",
+          "detailed_notes": "The definite integral of a function f from a to b is the limit of the Riemann sum as the number of subintervals approaches infinity: ∫_a^b f(x) dx = lim_{n→∞} ∑_{i=1}^{n} f(x_i) Δx. If f(x) ≥ 0 on [a, b], the definite integral gives the exact area under the curve. The Fundamental Theorem of Calculus connects differentiation and integration: If F is an anti-derivative of f (F'(x) = f(x)), then ∫_a^b f(x) dx = F(b) - F(a). This theorem provides a powerful method for evaluating definite integrals by finding anti-derivatives. The definite integral of a negative function gives the negative of the area.",
+          "keywords": [
+            {"keyword": "Definite Integral", "definition": "The limit of a Riemann sum, denoted by ∫_a^b f(x) dx, representing the net signed area under a curve."},
+            {"keyword": "Fundamental Theorem of Calculus", "definition": "A theorem that links differentiation and integration, stating that ∫_a^b f(x) dx = F(b) - F(a) where F' = f."},
+            {"keyword": "Anti-derivative", "definition": "A function F whose derivative is f (F' = f)."},
+            {"keyword": "Limits of Integration", "definition": "The values a and b in the definite integral ∫_a^b f(x) dx, representing the interval of integration."},
+            {"keyword": "Integrand", "definition": "The function f(x) being integrated."}
+          ]
+        },
+        {
+          "section_number": "2.3.3",
+          "section_title": "Area and Definite Integrals",
+          "summary": "This section solidifies the relationship between the definite integral and area, emphasizing the procedure for finding the area under a non-negative curve: find an anti-derivative, evaluate at the upper and lower limits, and subtract. It provides practical examples of calculating areas using the Fundamental Theorem of Calculus.",
+          "detailed_notes": "The area under the curve y = f(x) from x = a to x = b, where f(x) ≥ 0, is given by the definite integral ∫_a^b f(x) dx. To evaluate it, find an anti-derivative F(x) (with the constant of integration set to zero for simplicity) and then compute F(b) - F(a). This is the Fundamental Theorem of Calculus in action. The area represents the total accumulation of the quantity modeled by f(x) over the interval. The examples in this section demonstrate the step-by-step process for calculating areas using this theorem.",
+          "keywords": [
+            {"keyword": "Area Calculation", "definition": "The process of finding the area under a curve using the definite integral."}
+          ]
+        },
+        {
+          "section_number": "2.3.4",
+          "section_title": "More on Area",
+          "summary": "This section explores areas for functions that are not entirely positive. The definite integral gives the net signed area: the sum of areas above the x-axis minus the sum of areas below the x-axis. To find the total physical area of a region bounded by a curve that crosses the x-axis, one must integrate over intervals where the function is positive and negative separately, taking absolute values.",
+          "detailed_notes": "When f(x) is negative on an interval, the definite integral ∫_a^b f(x) dx is negative, representing the negative of the area between the curve and the x-axis. The total area between the curve and the x-axis over an interval [a, b] is found by splitting the interval at points where f(x) = 0 and computing the sum of the absolute values of the definite integrals over each sub-interval: Area = ∫_a^c f(x) dx + ∫_c^b f(x) dx, where c is the x-intercept. This ensures that areas below the x-axis are added positively. The definite integral of a function over an interval gives the net area, which can be positive, negative, or zero.",
+          "keywords": [
+            {"keyword": "Net Signed Area", "definition": "The total area above the x-axis minus the total area below the x-axis, represented by the definite integral."},
+            {"keyword": "Physical Area", "definition": "The total geometric area between a curve and the x-axis, always positive."}
+          ]
+        },
+        {
+          "section_number": "2.3.5",
+          "section_title": "Application of Integration",
+          "summary": "This section demonstrates applications of integration beyond finding area, such as calculating total profit from marginal profit, determining displacement from velocity, and finding distance traveled from speed. It shows how the definite integral accumulates a rate of change over time to find the total change.",
+          "detailed_notes": "Integration is used to find the total change from a rate of change. For example, if P'(x) is the marginal profit, then the total profit from producing x units is P(x) = ∫_0^x P'(t) dt. If v(t) is the velocity, the displacement (net change in position) is s(t) = ∫ v(t) dt, and the distance traveled is ∫ |v(t)| dt. The process involves finding the indefinite integral (anti-derivative) and using initial conditions to determine the constant of integration, or evaluating a definite integral for a specific interval. These applications are fundamental in physics, economics, and other fields.",
+          "keywords": [
+            {"keyword": "Accumulation Function", "definition": "A function that represents the total accumulation of a rate, often found by integration."},
+            {"keyword": "Displacement", "definition": "The net change in position, found by integrating velocity."},
+            {"keyword": "Total Profit", "definition": "The total profit accumulated, found by integrating marginal profit."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Statistics",
+      "sections": [
+        {
+          "section_number": "3.1.1",
+          "section_title": "Range and Inter-quartile Range",
+          "summary": "This section introduces measures of absolute dispersion, specifically range and inter-quartile range (IQR). Range is the simplest measure of spread, defined as the difference between the maximum and minimum values. It is easy to compute but highly sensitive to extreme values. The inter-quartile range, defined as Q₃ - Q₁, measures the spread of the middle 50% of the data and is less sensitive to outliers. Formulas for calculating quartiles for both ungrouped and grouped data are provided.",
+          "detailed_notes": "Absolute measures of dispersion describe the variability of data in the same units as the data. The range (R) is the difference between the largest and smallest values: R = L - S. It is easy to calculate but only depends on the extremes. The inter-quartile range (IQR) is the difference between the third and first quartiles: IQR = Q₃ - Q₁. It measures the spread of the central 50% of the data. Quartiles divide a ranked data set into four equal parts. For ungrouped data, Q₁ is the median of the lower half, Q₂ is the median of the whole set, and Q₃ is the median of the upper half. For grouped data, quartiles are found using interpolation within the quartile class.",
+          "keywords": [
+            {"keyword": "Absolute Dispersion", "definition": "A measure of variability expressed in the same units as the original data."},
+            {"keyword": "Range", "definition": "The difference between the maximum and minimum values in a data set."},
+            {"keyword": "Inter-quartile Range (IQR)", "definition": "The difference between the upper and lower quartiles (Q₃ - Q₁), representing the spread of the middle 50% of data."},
+            {"keyword": "Quartiles", "definition": "Values that divide a data set into four equal parts."}
+          ]
+        },
+        {
+          "section_number": "3.1.2",
+          "section_title": "Mean Deviation and Quartile Deviation",
+          "summary": "This section covers mean deviation (MD) and quartile deviation (QD). Mean deviation is the average of the absolute deviations from a central value (mean, median, or mode). It is a more comprehensive measure than range as it uses all data points. However, the use of absolute values makes it mathematically less tractable. Quartile deviation is half the inter-quartile range: QD = (Q₃ - Q₁)/2. It is a measure of dispersion based on quartiles. Formulas for calculating mean deviation for ungrouped, discrete, and grouped data are provided.",
+          "detailed_notes": "Mean deviation (MD) is the average of the absolute differences between each data point and a measure of central tendency (mean, median, or mode). For the mean, MD(𝑥̄) = Σ|xᵢ - 𝑥̄| / n. For grouped data, MD(𝑥̄) = Σ fᵢ |mᵢ - 𝑥̄| / Σ fᵢ, where mᵢ is the class midpoint. The median is preferred when there are extreme values. Quartile deviation (QD) is half the inter-quartile range: QD = (Q₃ - Q₁)/2. It is a measure of dispersion that is not affected by extreme values. Mean deviation is more informative than range because it considers all data points, but it is not commonly used in advanced statistical analysis due to the absolute value.",
+          "keywords": [
+            {"keyword": "Mean Deviation (MD)", "definition": "The average of the absolute deviations of data points from a central value (mean, median, or mode)."},
+            {"keyword": "Quartile Deviation (QD)", "definition": "Half the inter-quartile range: (Q₃ - Q₁)/2."},
+            {"keyword": "Absolute Deviation", "definition": "The absolute value of the difference between a data point and a central value."}
+          ]
+        },
+        {
+          "section_number": "3.1.3",
+          "section_title": "Variance and Standard Deviation",
+          "summary": "This section introduces variance and standard deviation, the most commonly used measures of dispersion. Variance is the average of the squared deviations from the mean. Standard deviation is the positive square root of the variance, providing a measure of spread in the same units as the data. These measures are calculated using all data points and are less affected by the mathematical issues of mean deviation. Formulas are given for both ungrouped and grouped data.",
+          "detailed_notes": "Variance (σ²) is the average of the squared differences from the mean. For ungrouped data: σ² = Σ(xᵢ - 𝑥̄)² / n. For grouped data: σ² = Σ fᵢ(mᵢ - 𝑥̄)² / Σ fᵢ. The standard deviation (σ) is the positive square root of the variance. It is more interpretable than variance because it is expressed in the same units as the data. A low standard deviation indicates that data points are clustered close to the mean, while a high standard deviation indicates greater spread. Variance and standard deviation are rigidly defined and based on all observations, making them the preferred measures of dispersion in statistical analysis.",
+          "keywords": [
+            {"keyword": "Variance", "definition": "The average of the squared deviations from the mean."},
+            {"keyword": "Standard Deviation", "definition": "The positive square root of the variance."},
+            {"keyword": "Squared Deviation", "definition": "The square of the difference between a data point and the mean."}
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Interpretation of Relative Dispersions",
+          "summary": "This section explains the need for relative measures of dispersion to compare variability between different data sets or populations. It introduces several relative measures: coefficient of range, coefficient of quartile deviation, coefficient of mean deviation, and coefficient of variation. These coefficients are unitless and allow for comparison of variability regardless of the scale of measurement. The coefficient of variation (CV) is particularly useful for comparing the consistency of data sets.",
+          "detailed_notes": "Relative measures of dispersion are used to compare the variability of two or more data sets, especially when they are measured in different units or have different means. They are usually expressed as percentages. The coefficient of range (CR) = (L - S)/(L + S). The coefficient of quartile deviation (CQD) = (Q₃ - Q₁)/(Q₃ + Q₁). The coefficient of mean deviation (CMD) = MD / Mean (or Median). The coefficient of variation (CV) = (σ / 𝑥̄) × 100%. A higher CV indicates greater relative variability. CV is widely used to compare the consistency of data; a lower CV suggests more consistency.",
+          "keywords": [
+            {"keyword": "Relative Dispersion", "definition": "A measure of variability that is unitless, allowing for comparison between different data sets."},
+            {"keyword": "Coefficient of Variation (CV)", "definition": "A relative measure of dispersion given by (Standard Deviation / Mean) × 100%."},
+            {"keyword": "Coefficient of Range", "definition": "A relative measure based on the range."},
+            {"keyword": "Coefficient of Quartile Deviation", "definition": "A relative measure based on quartiles."},
+            {"keyword": "Coefficient of Mean Deviation", "definition": "A relative measure based on the mean deviation."}
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Use of Frequency Curves",
+          "summary": "This section discusses the shape of frequency distributions as represented by frequency curves. It explains how the relationship between the mean, median, and mode indicates the skewness of a distribution. A symmetrical distribution has mean = median = mode. A positively skewed distribution (skewed to the right) has mean > median > mode. A negatively skewed distribution (skewed to the left) has mean < median < mode. The section also introduces Pearson's and Bowley's coefficients of skewness as quantitative measures of skewness.",
+          "detailed_notes": "A frequency curve shows the shape of a distribution. Skewness describes the asymmetry of the distribution. In a perfectly symmetrical distribution, the mean, median, and mode are all equal. In a positively skewed distribution, the tail is longer on the right side, and the mean is pulled in the direction of the tail (mean > median > mode). In a negatively skewed distribution, the tail is longer on the left side (mean < median < mode). Pearson's coefficient of skewness: Sk = 3(Mean - Median) / Standard Deviation. Bowley's coefficient of skewness: Sk = (Q₃ + Q₁ - 2*Median) / (Q₃ - Q₁). A Sk of 0 indicates symmetry, a positive Sk indicates positive skewness, and a negative Sk indicates negative skewness.",
+          "keywords": [
+            {"keyword": "Skewness", "definition": "A measure of the asymmetry of a distribution."},
+            {"keyword": "Positively Skewed", "definition": "A distribution with a longer tail on the right side; mean > median > mode."},
+            {"keyword": "Negatively Skewed", "definition": "A distribution with a longer tail on the left side; mean < median < mode."},
+            {"keyword": "Symmetrical Distribution", "definition": "A distribution where the mean, median, and mode are equal."},
+            {"keyword": "Pearson's Coefficient of Skewness", "definition": "A measure of skewness based on the mean, median, and standard deviation."},
+            {"keyword": "Bowley's Coefficient of Skewness", "definition": "A measure of skewness based on quartiles."}
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Sampling Techniques",
+          "summary": "This section introduces the concepts of population and sample in statistics. It explains the importance of sampling and describes different probability sampling techniques: simple random sampling (lottery method, random number table), systematic sampling, stratified sampling, cluster sampling, and multistage sampling. The advantages and limitations of each method are discussed. The section also provides a brief introduction to using Microsoft Excel for statistical calculations.",
+          "detailed_notes": "A population is the entire group of individuals or items being studied. A sample is a subset of the population. Probability sampling methods ensure that every member of the population has a known, non-zero chance of being selected, allowing for unbiased inferences. Simple Random Sampling (SRS) is the most basic method, often implemented using a lottery or random number table. Systematic Sampling selects every kth item from a list. Stratified Sampling divides the population into homogeneous subgroups (strata) and samples from each. Cluster Sampling selects entire groups (clusters) at random. Multistage Sampling uses a combination of methods in stages. The choice of sampling technique depends on the population, resources, and objectives of the study. The section also briefly demonstrates how to compute range, variance, and standard deviation using Excel.",
+          "keywords": [
+            {"keyword": "Population", "definition": "The entire set of individuals or items of interest in a study."},
+            {"keyword": "Sample", "definition": "A subset of a population selected for study."},
+            {"keyword": "Simple Random Sampling", "definition": "A sampling method where each member of the population has an equal chance of being selected."},
+            {"keyword": "Systematic Sampling", "definition": "A sampling method where elements are selected from a list at regular intervals."},
+            {"keyword": "Stratified Sampling", "definition": "A sampling method where the population is divided into strata and a random sample is taken from each."},
+            {"keyword": "Cluster Sampling", "definition": "A sampling method where entire groups or clusters are randomly selected."},
+            {"keyword": "Multistage Sampling", "definition": "A complex sampling method involving sampling at multiple stages."},
+            {"keyword": "Sampling Frame", "definition": "A list of all individuals in the population from which a sample is drawn."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Introduction to Linear Programming",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Graphical Solutions of System of Linear Inequalities",
+          "summary": "This section covers the graphical solution of systems of linear inequalities. It begins with solving linear inequalities in one variable and then extends to two variables. The concept of a half-plane and the steps for graphing linear inequalities are explained. The solution region (feasible region) of a system of inequalities is the intersection of the half-planes that satisfy each inequality. The section also discusses the concept of a vertex (corner point) of the solution region.",
+          "detailed_notes": "A linear inequality in one variable (e.g., ax + b < 0) can be solved algebraically. A linear inequality in two variables (e.g., ax + by < c) has a solution set consisting of all points that lie on one side of the corresponding boundary line (ax + by = c). This side is called a half-plane. To graph a linear inequality, first graph the boundary line. If the inequality is strict (< or >), the line is dashed (not included). If it is non-strict (≤ or ≥), the line is solid (included). Then, test a point (like (0,0)) to determine which half-plane satisfies the inequality and shade that region. The solution to a system of linear inequalities is the intersection of the solution regions of all inequalities in the system. This solution region, also called the feasible region, can be bounded or unbounded. The vertices (corner points) of this region are the intersection points of the boundary lines.",
+          "keywords": [
+            {"keyword": "Linear Inequality", "definition": "An inequality that involves a linear expression."},
+            {"keyword": "Half-Plane", "definition": "One of the two regions into which a line divides a plane."},
+            {"keyword": "System of Linear Inequalities", "definition": "A set of two or more linear inequalities that must be satisfied simultaneously."},
+            {"keyword": "Feasible Region", "definition": "The set of all points that satisfy a system of linear inequalities."},
+            {"keyword": "Vertex (Corner Point)", "definition": "A point of intersection of two or more boundary lines of a feasible region."}
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Maximum and Minimum Values",
+          "summary": "This section introduces the fundamental concepts of linear programming. It defines the objective function, constraints, and feasible region. The key theorem is presented: the optimal value (maximum or minimum) of a linear objective function over a feasible region occurs at a vertex (corner point) of the region. The Corner Point Method is explained as a systematic way to find the optimal solution: graph the feasible region, find all corner points, evaluate the objective function at each corner point, and select the largest (for maximization) or smallest (for minimization) value. The section also covers the difference between bounded and unbounded feasible regions.",
+          "detailed_notes": "A Linear Programming Problem (LPP) involves optimizing (maximizing or minimizing) a linear objective function subject to a set of linear constraints. The objective function is the function to be optimized (e.g., maximize profit Z = ax + by). Constraints are the inequalities that limit the values of the decision variables (x and y). The feasible region is the graphical representation of all points that satisfy all constraints. The Corner Point Theorem states that if an optimal solution exists, it will be found at a corner point (vertex) of the feasible region. The Corner Point Method involves the following steps: (1) Graph the feasible region. (2) Determine the coordinates of all corner points. (3) Evaluate the objective function at each corner point. (4) Choose the point that gives the maximum or minimum value. If the feasible region is unbounded, an optimal solution may not exist.",
+          "keywords": [
+            {"keyword": "Linear Programming", "definition": "A mathematical method for finding the maximum or minimum value of a linear function subject to linear constraints."},
+            {"keyword": "Objective Function", "definition": "The linear function to be maximized or minimized."},
+            {"keyword": "Constraints", "definition": "The linear inequalities that define the feasible region."},
+            {"keyword": "Decision Variables", "definition": "The variables (x and y) whose values determine the objective function."},
+            {"keyword": "Optimal Solution", "definition": "The point in the feasible region that gives the maximum or minimum value of the objective function."},
+            {"keyword": "Bounded Feasible Region", "definition": "A feasible region that can be enclosed within a finite area."},
+            {"keyword": "Unbounded Feasible Region", "definition": "A feasible region that extends infinitely in some direction."},
+            {"keyword": "Corner Point Method", "definition": "A method for solving an LP problem by evaluating the objective function at all vertices of the feasible region."}
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Applications",
+          "summary": "This section presents real-world applications of linear programming. It covers diet problems, manufacturing problems, allocation problems, and transportation problems. Each type of problem requires formulating the objective function and constraints based on the given scenario. The section also includes a guide on using Microsoft Excel's Solver tool to solve linear programming problems, which is useful for problems with more than two variables where the graphical method is not practical.",
+          "detailed_notes": "Linear programming is widely used to solve practical problems in various fields. Diet Problems involve minimizing the cost of a diet subject to nutritional constraints. Manufacturing Problems involve maximizing profit subject to constraints on resources like labor, materials, and machine time. Allocation Problems involve allocating scarce resources to optimize a certain objective, such as minimizing the intake of a harmful substance. Transportation Problems involve minimizing the cost of transporting goods from supply points to demand points. The process of formulating an LP problem involves identifying the decision variables, writing the objective function, and writing the constraints. For more complex problems with multiple variables, a spreadsheet tool like Microsoft Excel Solver can be used to find the optimal solution by specifying the objective cell, changing cells (variables), and constraints.",
+          "keywords": [
+            {"keyword": "Diet Problem", "definition": "An LP problem to find the minimum-cost diet that meets nutritional requirements."},
+            {"keyword": "Manufacturing Problem", "definition": "An LP problem to maximize profit or minimize cost in production."},
+            {"keyword": "Allocation Problem", "definition": "An LP problem to allocate resources to optimize an objective."},
+            {"keyword": "Transportation Problem", "definition": "An LP problem to minimize the cost of transporting goods."},
+            {"keyword": "Excel Solver", "definition": "An optimization tool in Microsoft Excel for solving linear programming problems."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Mathematical Applications in Business",
+      "sections": [
+        {
+          "section_number": "5.1.1",
+          "section_title": "Ratio",
+          "summary": "This section defines a ratio as a comparison of two numbers by division. It covers the notation for ratios (a:b or a/b) and the importance of expressing quantities in the same units before finding the ratio. The distinction between part-to-whole and part-to-part ratios is made. Equivalent ratios are introduced, and the concept of a continued ratio (comparing three or more quantities) is explained. Practical examples of allocating amounts in a given ratio are also provided.",
+          "detailed_notes": "A ratio is a comparison of two quantities of the same kind. It is represented as a:b or a/b. The terms of a ratio (a and b) must be in the same units. A part-to-whole ratio compares a part of a group to the whole group. A part-to-part ratio compares two parts of a group. Equivalent ratios are obtained by multiplying or dividing both terms of a ratio by the same non-zero number. A continued ratio compares three or more quantities, such as a:b:c. To allocate an amount in a given ratio, divide the total amount by the sum of the ratio terms to find the value of one part, then multiply each term by this value.",
+          "keywords": [
+            {"keyword": "Ratio", "definition": "A comparison of two numbers by division."},
+            {"keyword": "Part-to-Whole Ratio", "definition": "A ratio comparing a part of a group to the whole group."},
+            {"keyword": "Part-to-Part Ratio", "definition": "A ratio comparing two parts of a group."},
+            {"keyword": "Continued Ratio", "definition": "A ratio comparing three or more quantities."},
+            {"keyword": "Equivalent Ratios", "definition": "Ratios that represent the same comparison."}
+          ]
+        },
+        {
+          "section_number": "5.1.2",
+          "section_title": "Rates",
+          "summary": "This section defines a rate as a ratio comparing two quantities with different units. It introduces the concept of a unit rate (a rate with a denominator of 1). The rate of change is defined as the change in a quantity relative to the original amount, which can be positive (increase) or negative (decrease). Examples of rates in business and everyday life are provided.",
+          "detailed_notes": "A rate is similar to a ratio but compares quantities with different units, such as speed (kilometers per hour) or price (Birr per kilogram). A unit rate has a denominator of 1 (e.g., 60 km/h). The rate of change is defined as (Final Amount - Original Amount) / Original Amount. A positive rate of change indicates an increase, while a negative rate indicates a decrease. Average rate of change is used to describe how a quantity changes on average over a period. In business, rates are used to describe costs, productivity, and growth.",
+          "keywords": [
+            {"keyword": "Rate", "definition": "A comparison of two quantities with different units."},
+            {"keyword": "Unit Rate", "definition": "A rate with a denominator of 1."},
+            {"keyword": "Unit Price", "definition": "The cost of one unit of an item, a type of unit rate."},
+            {"keyword": "Rate of Change", "definition": "The ratio of the change in a quantity to its original amount."}
+          ]
+        },
+        {
+          "section_number": "5.1.3",
+          "section_title": "Proportion",
+          "summary": "This section defines a proportion as an equation stating that two ratios are equal. The terms of a proportion are explained: the extremes (first and last terms) and the means (second and third terms). The key property that the product of the means equals the product of the extremes (cross-multiplication) is stated. The concept of direct proportion (x ∝ y), inverse proportion (x ∝ 1/y), and compound proportion (joint variation) are introduced.",
+          "detailed_notes": "A proportion is an equation of two equal ratios: a:b = c:d (or a/b = c/d). In the proportion a/b = c/d, the terms a and d are the extremes, and b and c are the means. The fundamental property is ad = bc. Direct proportion: Two quantities x and y are directly proportional if their ratio is constant (y = kx). Inverse proportion: Two quantities are inversely proportional if their product is constant (xy = k). Compound proportion (joint variation) occurs when one variable is proportional to the product of two or more other variables. These concepts are essential for solving problems involving scaling, rates, and relationships between variables.",
+          "keywords": [
+            {"keyword": "Proportion", "definition": "An equation that states two ratios are equal."},
+            {"keyword": "Extremes", "definition": "The first and last terms in a proportion (a and d in a:b = c:d)."},
+            {"keyword": "Means", "definition": "The second and third terms in a proportion (b and c in a:b = c:d)."},
+            {"keyword": "Direct Proportion", "definition": "A relationship where two quantities increase or decrease together at a constant ratio."},
+            {"keyword": "Inverse Proportion", "definition": "A relationship where one quantity increases as the other decreases, and vice versa."},
+            {"keyword": "Compound Proportion", "definition": "A situation where one quantity depends on two or more other quantities."}
+          ]
+        },
+        {
+          "section_number": "5.1.4",
+          "section_title": "Percentage",
+          "summary": "This section covers the concept of percentage, which is a ratio expressed as a fraction of 100. It explains the relationship between the base, rate, and percentage (Percentage = Base × Rate). The section also discusses practical applications of percentages, including markup (the difference between selling price and cost) and discount (a reduction in the regular price). Formulas for markup rate and discount rate are provided.",
+          "detailed_notes": "A percentage is a number or ratio expressed as a fraction of 100. The basic relationship is: Part = Whole × Rate, or Percentage = Base × Rate. Markup is the amount added to the cost of a product to determine its selling price: Markup = Selling Price - Cost. Markup rate can be expressed as a percentage of cost or selling price: Markup Rate (on cost) = Markup / Cost × 100%; Markup Rate (on selling price) = Markup / Selling Price × 100%. A discount is a reduction from the regular price: Discount = Regular Price - Sale Price. The discount rate is Discount / Regular Price × 100%. Percentages are widely used in business for calculating taxes, profits, interest, and discounts.",
+          "keywords": [
+            {"keyword": "Percentage", "definition": "A number or ratio expressed as a fraction of 100."},
+            {"keyword": "Base", "definition": "The whole amount to which a percentage is applied."},
+            {"keyword": "Rate", "definition": "The percentage expressed as a decimal or fraction."},
+            {"keyword": "Markup", "definition": "The difference between the selling price and the cost of an item."},
+            {"keyword": "Discount", "definition": "A reduction in the regular price of an item."}
+          ]
+        },
+        {
+          "section_number": "5.2.1",
+          "section_title": "Simple Interest",
+          "summary": "This section introduces simple interest, which is computed only on the principal amount. The simple interest formula is I = Prt, where P is the principal, r is the annual interest rate, and t is the time in years. The future value (amount) is A = P + I = P(1 + rt). The section also explains related terms like debtor, creditor, and term of a loan. Examples show how to calculate interest, future value, principal, rate, and time.",
+          "detailed_notes": "Simple interest is calculated only on the original principal. The formula is I = P × r × t, where I is interest, P is principal, r is the annual interest rate (as a decimal), and t is time in years. The total amount to be repaid (future value) is A = P + I = P(1 + rt). Key terms: Principal (the amount borrowed or invested), Interest (the cost of borrowing money), Rate (the percentage charged per year), Term (the duration of the loan). Simple interest is rarely used in modern banking but is a foundational concept. Formulas for finding other variables: P = I/(rt), r = I/(Pt), t = I/(Pr).",
+          "keywords": [
+            {"keyword": "Simple Interest", "definition": "Interest computed only on the principal amount."},
+            {"keyword": "Principal (P)", "definition": "The original amount of money invested or borrowed."},
+            {"keyword": "Interest Rate (r)", "definition": "The percentage of the principal charged as interest per time period."},
+            {"keyword": "Term (t)", "definition": "The duration of a loan or investment."},
+            {"keyword": "Future Value (A)", "definition": "The total amount of money accumulated after a period, including principal and interest."}
+          ]
+        },
+        {
+          "section_number": "5.2.2",
+          "section_title": "Compound Interest",
+          "summary": "This section introduces compound interest, where interest is earned on both the principal and the accumulated interest. The compound interest formula is A = P(1 + i)^(mt), where i = r/m is the interest rate per compounding period, m is the number of compounding periods per year, and t is the number of years. The section also covers the effective interest rate, which is the annually compounded rate equivalent to a given nominal rate and compounding frequency. The formula for the effective rate is EAR = (1 + r/m)^m - 1.",
+          "detailed_notes": "Compound interest is interest calculated on the initial principal and also on the accumulated interest of previous periods. The future value is found using A = P(1 + i)^n, where n = m × t is the total number of compounding periods, and i = r/m is the interest rate per period. The effective interest rate (EAR) is the simple annual interest rate that would produce the same amount of interest as the compounding at a given frequency. It is calculated as EAR = (1 + r/m)^m - 1. More frequent compounding leads to a higher effective rate. Compound interest is the standard method used by financial institutions.",
+          "keywords": [
+            {"keyword": "Compound Interest", "definition": "Interest calculated on the initial principal and the accumulated interest from previous periods."},
+            {"keyword": "Compounding Period", "definition": "The time interval between interest calculations (e.g., annually, semi-annually, monthly)."},
+            {"keyword": "Nominal Interest Rate", "definition": "The stated annual interest rate without considering compounding."},
+            {"keyword": "Effective Interest Rate (EAR)", "definition": "The annual interest rate that accounts for the effect of compounding."}
+          ]
+        },
+        {
+          "section_number": "5.2.3",
+          "section_title": "Annuity",
+          "summary": "This section defines an annuity as a series of equal payments made at regular time intervals. It distinguishes between ordinary annuities (payments at the end of each period) and annuities due (payments at the beginning). The formulas for the future value of both types are provided. The present value of an ordinary annuity is also discussed, with formulas for the present value annuity factor. The concept is applied to calculating regular payments for loans (amortization).",
+          "detailed_notes": "An annuity is a stream of equal payments at regular intervals. An ordinary annuity has payments at the end of each period, while an annuity due has payments at the beginning. The future value of an ordinary annuity is FV = R × S_{n|i}, where R is the periodic payment, and S_{n|i} = ((1+i)^n - 1)/i is the future value annuity factor. The future value of an annuity due is FV = R × S_{n|i} × (1+i). The present value of an ordinary annuity is PV = R × a_{n|i}, where a_{n|i} = S_{n|i} / (1+i)^n = (1 - (1+i)^(-n))/i is the present value annuity factor. An annuity can be used to accumulate a future sum (savings) or to amortize a loan (mortgage).",
+          "keywords": [
+            {"keyword": "Annuity", "definition": "A series of equal payments made at regular intervals."},
+            {"keyword": "Ordinary Annuity", "definition": "An annuity with payments at the end of each period."},
+            {"keyword": "Annuity Due", "definition": "An annuity with payments at the beginning of each period."},
+            {"keyword": "Future Value Annuity Factor (S_{n|i})", "definition": "The future value of an ordinary annuity with a periodic payment of 1."},
+            {"keyword": "Present Value Annuity Factor (a_{n|i})", "definition": "The present value of an ordinary annuity with a periodic payment of 1."}
+          ]
+        },
+        {
+          "section_number": "5.2.4",
+          "section_title": "Amortization",
+          "summary": "This section explains amortization, the process of paying off a debt with regular payments over time. An amortization schedule shows the breakdown of each payment into interest and principal components. The formula for calculating the payment amount on a loan is derived from the present value of an annuity. The section highlights key points about amortization: early payments are mostly interest, and the portion going to principal increases over time.",
+          "detailed_notes": "Amortization is the gradual repayment of a loan over a period through regular payments, which cover both interest and principal. An amortization schedule details each payment, showing the amount applied to interest, the amount applied to the principal, and the remaining balance. The payment amount R for a loan with principal PV, interest rate per period i, and number of payments n is found from the present value of an annuity formula: PV = R × a_{n|i}, so R = PV / a_{n|i}. In the early stages of a loan, the interest portion of the payment is high because the outstanding balance is large. As the balance decreases, the interest portion decreases, and the principal portion increases.",
+          "keywords": [
+            {"keyword": "Amortization", "definition": "The process of paying off a debt with regular payments over time."},
+            {"keyword": "Amortization Schedule", "definition": "A table showing the breakdown of each loan payment into interest and principal."},
+            {"keyword": "Payment to Principal", "definition": "The portion of a loan payment that reduces the outstanding principal balance."}
+          ]
+        },
+        {
+          "section_number": "5.2.5",
+          "section_title": "Depreciation",
+          "summary": "This section covers depreciation, the decline in the cash value of an asset over time. Two methods are discussed: declining balance depreciation (a fixed percentage of the current value) and straight-line depreciation (a fixed annual amount). The formulas for each method are provided, and the differences between them are compared. Examples include calculating the depreciated value of assets like cars and equipment.",
+          "detailed_notes": "Depreciation is the decrease in the value of an asset over time due to wear and tear or obsolescence. Appreciation is the increase in value. The declining balance method applies a fixed percentage rate to the asset's current value each year: Value at time n = Initial Value × (1 - Rate)^n. The straight-line method depreciates the asset by a fixed amount each year, calculated as (Initial Cost - Residual Value) / Useful Life. The value after t years is Initial Cost - (Annual Depreciation × t). The straight-line method results in a constant linear decline, while the declining balance method results in a larger depreciation in the early years that decreases over time.",
+          "keywords": [
+            {"keyword": "Depreciation", "definition": "A decrease in the value of an asset over time."},
+            {"keyword": "Appreciation", "definition": "An increase in the value of an asset over time."},
+            {"keyword": "Declining Balance Depreciation", "definition": "A depreciation method where a fixed percentage is applied to the current value of the asset."},
+            {"keyword": "Straight-Line Depreciation", "definition": "A depreciation method where a fixed amount of the asset's value is deducted each year."},
+            {"keyword": "Residual Value (Salvage Value)", "definition": "The estimated value of an asset at the end of its useful life."},
+            {"keyword": "Useful Life", "definition": "The expected period of time during which an asset will be usable."}
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Saving, Investing and Borrowing Money",
+          "summary": "This section discusses the fundamental concepts of personal and business finance. It defines money and its functions (medium of exchange, store of value, unit of account). It covers saving (low-risk, accessible) and investing (higher risk, potential for higher returns) and the reasons for each. It describes different saving institutions (commercial banks, saving and loan associations, credit unions). The section also introduces investment types: stocks (equity), bonds (debt), and mutual funds. It explains return on investment (ROI). Finally, it covers financing options: equity financing (selling ownership) and debt financing (borrowing).",
+          "detailed_notes": "Money functions as a medium of exchange, a store of value, and a unit of account. Saving is setting aside money for future use, typically in low-risk accounts. Investing involves purchasing assets (stocks, bonds, real estate) with the expectation of earning a return, but with higher risk. Savings institutions include commercial banks, savings and loan associations, and credit unions. Stocks represent ownership in a company and provide rights like voting and dividends. Bonds are debt instruments where the investor lends money to the issuer. Mutual funds pool money from many investors to invest in a diversified portfolio. Return on Investment (ROI) is a measure of profitability: ROI = (Current Value - Cost) / Cost × 100%. Financing can be obtained through equity (selling shares) or debt (borrowing money). Equity financing involves sharing ownership and profits, while debt financing involves paying interest and repaying the principal.",
+          "keywords": [
+            {"keyword": "Money", "definition": "A medium of exchange, a store of value, and a unit of account."},
+            {"keyword": "Saving", "definition": "Setting aside money for future use, often in low-risk accounts."},
+            {"keyword": "Investing", "definition": "Using money to purchase assets with the expectation of earning a financial return."},
+            {"keyword": "Stock", "definition": "A share of ownership in a corporation."},
+            {"keyword": "Bond", "definition": "A debt instrument where the issuer borrows money from the investor."},
+            {"keyword": "Mutual Fund", "definition": "An investment vehicle that pools money from many investors to invest in a diversified portfolio."},
+            {"keyword": "Return on Investment (ROI)", "definition": "A measure of the profitability of an investment."},
+            {"keyword": "Equity Financing", "definition": "Raising capital by selling ownership shares in the business."},
+            {"keyword": "Debt Financing", "definition": "Raising capital by borrowing money that must be repaid with interest."}
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Taxation",
+          "summary": "This section provides an overview of taxation in Ethiopia. It explains the objectives and principles of taxation, and distinguishes between direct and indirect taxes. The section details the main schedules of income tax under Ethiopian law: Schedule 'A' (Employment Income), Schedule 'B' (Income from Rental of Buildings), Schedule 'C' (Business Income), and Schedule 'D' (Other Incomes). The tax rates and calculation methods (progression and deduction) for each schedule are described. The section also covers indirect taxes, including Value Added Tax (VAT), Turnover Tax, Excise Tax, Customs Duty, and Stamp Duty.",
+          "detailed_notes": "Taxation is a compulsory financial charge imposed by the government to fund public expenditures. Direct taxes (e.g., income tax) are paid directly by the individual or business, while indirect taxes (e.g., VAT) are passed on to consumers. In Ethiopia, income tax is levied under four schedules: Schedule A (Employment Income) uses a progressive rate structure with tax brackets. Schedule B (Income from Rental of Buildings) taxes rental income after allowable deductions. Schedule C (Business Income) taxes business profits, with rates depending on the business category (A, B, or C). Schedule D (Other Incomes) covers royalties, dividends, interest, and other sources. Indirect taxes include Value Added Tax (VAT, 15% on most goods), Turnover Tax (2% on goods, 10% on services), Excise Tax (on specific goods like luxury items and alcohol), Customs Duty (on imports), and Stamp Duty (on legal instruments).",
+          "keywords": [
+            {"keyword": "Direct Tax", "definition": "A tax paid directly by the individual or entity on which it is imposed."},
+            {"keyword": "Indirect Tax", "definition": "A tax collected by an intermediary and passed on to the final consumer."},
+            {"keyword": "Income Tax", "definition": "A direct tax on the income of individuals and businesses."},
+            {"keyword": "Value Added Tax (VAT)", "definition": "An indirect tax on the value added to a product at each stage of production and distribution."},
+            {"keyword": "Turnover Tax", "definition": "An indirect tax on the gross revenue of a business."},
+            {"keyword": "Excise Tax", "definition": "A tax on specific goods, often luxury or harmful items."},
+            {"keyword": "Withholding Tax", "definition": "A tax deducted at the source of income."}
+          ]
+        }
+      ]
+    }
+  ]
+}

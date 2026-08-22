@@ -1,0 +1,1658 @@
+{
+  "subject": "Physics",
+  "grade": 11,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Physics and Human Society",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Importance of Physics to Society",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "What is Physics?",
+              "content": [
+                "Physics is a science that generates fundamental knowledge needed for future technological advances.",
+                "It drives the economic engines of the world by contributing to technological infrastructure.",
+                "Physics provides the foundational understanding for other disciplines like chemistry, engineering, and biomedical sciences."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Physics and Technology",
+              "content": [
+                "Modern conveniences like television, computers, and phones are possible due to physics discoveries.",
+                "Modern transportation (aircraft, automobiles, space shuttles) relies on physics.",
+                "Simple mechanical devices (pulleys, levers) and complex machines (quantum computers, nuclear reactors) are created using physics."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Everyday Objects and Physics",
+              "content": [
+                "Many ordinary objects rely on physics to function:",
+                "- Semiconductors",
+                "- Lasers",
+                "- X-rays",
+                "- GPS devices",
+                "- Radio transmitters",
+                "- Bar code scanners"
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Physics in Medicine",
+              "content": [
+                "Physics improves quality of life through medical applications:",
+                "- Computer Tomography (CT)",
+                "- Magnetic Resonance Imaging (MRI)",
+                "- Positron Emission Tomography (PET)",
+                "- Ultrasonic imaging",
+                "- Laser surgery"
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Physics and Global Challenges",
+              "content": [
+                "Physics plays an important role in developing strategies to combat climate change.",
+                "It contributes to the development of cleaner energies.",
+                "Physics and technology must work together to resolve the need for new technologies that decrease damage to our planet.",
+                "Physics helps develop solutions for deadly diseases and resource management."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Physics Communities and Their Roles",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "What are Physics Communities?",
+              "content": [
+                "Physics communities are organized groups of persons associated together for scientific purposes.",
+                "They are established at national, continental, and worldwide levels.",
+                "They aim to promote physics education, research, and collaboration."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Ethiopian Physical Society (EPS)",
+              "content": [
+                "Established by Ethiopian physics professionals to enhance physics research and education in Ethiopia.",
+                "Objectives include:",
+                "- Promoting physics education and research",
+                "- Organizing conferences and exchanging scientific information",
+                "- Popularizing physics to make students develop interest",
+                "- Contributing to the design and implementation of the physics curriculum",
+                "- Creating means for disseminating scientific information"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Other Physics Communities",
+              "content": [
+                "Ethiopian Physics Society in North America (EPSNA):",
+                "- Promotes physics education and research among Ethiopians in Ethiopia and North America.",
+                "- Donates educational materials, field equipment, computing facilities, and provides scholarships.",
+                "African Association of Physics Students (aaps):",
+                "- Student-run educational association.",
+                "- Encourages physics students in their scientific and professional work.",
+                "- Promotes relations between physics students from all over the world."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Making of Physics Knowledge",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Sources of Knowledge",
+              "content": [
+                "A Posteriori Knowledge: Knowledge through experience (seeing, hearing, feeling).",
+                "- Sensory perception, introspection, memory, and testimony.",
+                "A Priori Knowledge: Knowledge that does not come from experience.",
+                "- Derived from reason itself, such as logical and mathematical truths."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Scientific Method",
+              "content": [
+                "An ordered series of steps to acquire knowledge based on experimental evidence.",
+                "Steps:",
+                "1. Observation",
+                "2. Question",
+                "3. Research",
+                "4. Hypothesis",
+                "5. Experiment",
+                "6. Analysis",
+                "7. Conclusion"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Scientific Method Example",
+              "content": [
+                "Observation: Water boiled at a lower temperature in the mountains.",
+                "Question: Why does water boil at different temperatures?",
+                "Research: Boiling temperature depends on molecular bonds and pressure.",
+                "Hypothesis: Atmospheric pressure changes with altitude, affecting boiling temperature.",
+                "Experiment: Heat water at different altitudes and record the boiling temperature.",
+                "Analysis: Data shows boiling temperature decreases with increasing altitude.",
+                "Conclusion: The original hypothesis was correct."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "The Mission of Physics and Career Awareness",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Mission of Physics",
+              "content": [
+                "The mission of physics is to advance science, engineering, and innovation throughout the world for the benefit of all.",
+                "Serving society is a core part of the mission."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Careers in Physics",
+              "content": [
+                "Physics graduates have skills in high demand:",
+                "- Numeracy",
+                "- Problem-solving",
+                "- Data analysis",
+                "- Communication of complex ideas",
+                "Career opportunities exist in education, automotive, aerospace, defense, public sector, healthcare, energy, materials, technology, computing, and IT."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Physics Careers in Space, Astronomy, and Healthcare",
+              "content": [
+                "Space and Astronomy: Study the universe, collect data from satellites and telescopes.",
+                "Healthcare: Medical physics overlaps with biomedical engineering. Areas include radiology, radiation oncology, and nuclear medicine."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Physics Careers in Engineering, Energy, and Technology",
+              "content": [
+                "Engineering: Improve and develop products and manufacturing processes.",
+                "Energy: Work in renewable and non-renewable energy sectors (oil, gas, wind, solar).",
+                "Technology: Work in robotics, nanoscience, and nanotechnology."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Current Status of Physics",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Recent Discoveries in Physics",
+              "content": [
+                "Physics is the study of the physical world, from the smallest particles to galaxies and black holes.",
+                "Recent discoveries include: Exoplanets, Black holes, Quantum cryptography, Higgs boson, Gravitational waves, Global warming modeling, and the James Webb Space Telescope."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Exoplanets and Black Holes",
+              "content": [
+                "Exoplanets: Planets outside our solar system.",
+                "- As of October 2022, there are 5,197 confirmed exoplanets.",
+                "- Michel Mayor and Didier Queloz won the 2019 Nobel Prize in Physics for their discovery.",
+                "Black Holes: Regions of spacetime with such strong gravity that nothing can escape.",
+                "- Roger Penrose, Reinhard Genzel, and Andrea M. Ghez won the 2020 Nobel Prize for black hole discoveries."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Quantum Cryptography and Higgs Boson",
+              "content": [
+                "Quantum Cryptography: An application of quantum physics that enhances the security of information exchange.",
+                "Higgs Boson: A subatomic particle.",
+                "- Discovered on July 4, 2012, by CERN scientists.",
+                "- The experiment took 60 years to prove the existence of this particle."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Gravitational Waves and Global Warming",
+              "content": [
+                "Gravitational Waves: Waves in spacetime that travel at the speed of light.",
+                "- Hypothesized by Einstein in 1916.",
+                "- Proved to be right in 2016 by LIGO.",
+                "Global Warming: Increase in Earth's temperature and its impact on climate.",
+                "- Syukuro Manabe and Klaus Hasselmann won the 2021 Nobel Prize in Physics for modeling Earth's climate."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "James Webb Space Telescope (JWST) and Future Perspectives",
+              "content": [
+                "James Webb Space Telescope (JWST): An infrared telescope located 1.5 million km beyond Earth's orbit.",
+                "- It will tell us about the assembly of galaxies, birth of stars, and exoplanets.",
+                "Future Perspectives: Research at the forefront is very expensive and requires international collaboration.",
+                "Developing countries like Ethiopia must start doing physics at the highest level for national security and sustainable growth."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Vectors",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Vectors and Types of Vectors",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Scalars and Vectors",
+              "content": [
+                "Scalars: Physical quantities that have only magnitude (size) and unit.",
+                "- Examples: mass, speed, distance, density, volume.",
+                "Vectors: Physical quantities that have both magnitude and direction.",
+                "- Examples: force, velocity, acceleration, displacement."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Graphical Representation of Vectors",
+              "content": [
+                "A vector is represented graphically by an arrow:",
+                "- The length of the arrow represents the magnitude (drawn to scale).",
+                "- The tip of the arrow represents the direction of the vector.",
+                "A scale is used similar to maps (e.g., 1 cm = 10 km)."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Types of Vectors",
+              "content": [
+                "Parallel Vectors: Vectors in the same direction.",
+                "Antiparallel Vectors: Vectors in opposite directions.",
+                "Equal Vectors: Vectors with the same magnitude and direction.",
+                "Collinear Vectors: Vectors that lie along the same line or parallel lines.",
+                "Coplanar Vectors: Three or more vectors lying in the same plane.",
+                "Zero Vector: A vector with zero magnitude.",
+                "Orthogonal Vectors: Vectors that are perpendicular.",
+                "Unit Vector: A vector with a magnitude of exactly one unit.",
+                "Negative of a Vector: Same magnitude, opposite direction."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Graphical Method of Addition of Vectors in Two Dimensions (2-D)",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Graphical Vector Addition",
+              "content": [
+                "Graphical methods provide a visual understanding of vectors.",
+                "Vectors must have the same units to be added.",
+                "Translation of a vector: Moving it parallel to itself without changing magnitude or direction.",
+                "The result of adding vectors is called the resultant vector."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Triangle Law of Vector Addition",
+              "content": [
+                "Place the vectors head-to-tail.",
+                "The resultant vector is drawn from the tail of the first vector to the head of the second vector.",
+                "The order of addition does not matter (commutative): A + B = B + A"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Parallelogram Law of Vector Addition",
+              "content": [
+                "Place the vectors tail-to-tail.",
+                "Construct a parallelogram using the vectors as sides.",
+                "The resultant vector is the diagonal drawn from the tails to the opposite corner."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Polygon Law of Vector Addition and Subtraction",
+              "content": [
+                "Polygon Law: Used for more than two vectors.",
+                "- Place vectors head-to-tail in sequence.",
+                "- The resultant is drawn from the tail of the first to the head of the last.",
+                "Subtraction of Vectors: Subtracting a vector is the same as adding its negative.",
+                "- A - B = A + (-B)"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Algebraic Method of addition of vectors in Two Dimensions (2-D)",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Algebraic Vector Addition",
+              "content": [
+                "Algebraic methods provide exact results compared to graphical methods.",
+                "They use trigonometric functions to find the resultant.",
+                "Adding Collinear Vectors:",
+                "- Same direction: Add magnitudes.",
+                "- Opposite directions: Subtract magnitudes."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Adding Perpendicular Vectors",
+              "content": [
+                "Magnitude: Use the Pythagorean theorem.",
+                "- R = √(A² + B²)",
+                "Direction: Use trigonometry.",
+                "- tan θ = (opposite side) / (adjacent side)",
+                "The angle is measured from a reference direction."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Components of a Vector",
+              "content": [
+                "A vector can be resolved into its x and y components.",
+                "Ax = A cos θ (x-component)",
+                "Ay = A sin θ (y-component)",
+                "The components are projections of the vector onto the coordinate axes.",
+                "Resolution of a vector is the process of breaking it into its components."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Component Method of Vector Addition",
+              "content": [
+                "This is the most general method for adding vectors.",
+                "Resolve each vector into its x and y components.",
+                "Sum the x-components to get the resultant's x-component (Rx = ΣAx).",
+                "Sum the y-components to get the resultant's y-component (Ry = ΣAy).",
+                "Magnitude of the resultant: R = √(Rx² + Ry²).",
+                "Direction: θ = tan⁻¹(Ry/Rx)."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Unit Vectors",
+              "content": [
+                "A unit vector has a magnitude of exactly one.",
+                "It indicates direction only.",
+                "î (i-hat): unit vector in the positive x-direction.",
+                "ĵ (j-hat): unit vector in the positive y-direction.",
+                "A vector can be written as: A = Ax î + Ay ĵ.",
+                "The unit vector along a vector A is U_A = A / |A|."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Product of Vectors",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Multiplying a Vector by a Scalar",
+              "content": [
+                "Multiplying a vector A by a scalar c gives a new vector.",
+                "Magnitude: |c| times the magnitude of A.",
+                "Direction: If c > 0, the direction is the same as A. If c < 0, the direction is opposite to A."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Dot (Scalar) Product",
+              "content": [
+                "The dot product of two vectors A and B is a scalar quantity.",
+                "Definition: A·B = AB cos θ, where θ is the angle between them (placed tail-to-tail).",
+                "The result is a number (scalar) with no direction.",
+                "Alternative definition: A·B = AxBx + AyBy."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Applications of the Dot Product",
+              "content": [
+                "The dot product can be positive (θ < 90°), negative (θ > 90°), or zero (θ = 90°).",
+                "If A·B = 0, then A and B are perpendicular.",
+                "Work: W = F·d (force applied through a displacement).",
+                "Power: P = F·v (force applied to an object moving with velocity)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Motion in One and Two Dimensions",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Uniformly Accelerated Motion in 1D",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "What is Acceleration?",
+              "content": [
+                "Acceleration is the rate of change of velocity.",
+                "It is a vector quantity.",
+                "SI unit: m/s².",
+                "An object accelerates when its velocity changes in magnitude, direction, or both."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Average and Instantaneous Acceleration",
+              "content": [
+                "Average Acceleration: a_avg = (v_f - v_i) / Δt",
+                "- The change in velocity divided by the time interval.",
+                "Instantaneous Acceleration: acceleration at a specific instant.",
+                "- a_ins = lim (Δt → 0) Δv / Δt"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Understanding Acceleration Signs",
+              "content": [
+                "Negative acceleration does not always mean slowing down (deceleration).",
+                "It depends on the sign of the velocity.",
+                "If velocity and acceleration have the same sign (both positive or both negative), the object is speeding up.",
+                "If they have opposite signs, the object is slowing down."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Equations of Uniformly Accelerated Motion in 1D",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Kinematic Equations",
+              "content": [
+                "These equations apply only to uniformly accelerated motion (constant acceleration).",
+                "Variables:",
+                "- s = displacement",
+                "- u or v_i = initial velocity",
+                "- v or v_f = final velocity",
+                "- a = acceleration",
+                "- t = time"
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The Five Key Equations",
+              "content": [
+                "1. v_f = v_i + a t",
+                "2. v_avg = (v_i + v_f) / 2",
+                "3. s = ((v_i + v_f) / 2) t",
+                "4. s = v_i t + ½ a t²",
+                "5. v_f² = v_i² + 2 a s",
+                "These are vector equations, so sign convention must be consistent."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Stopping Distance",
+              "content": [
+                "Stopping distance is the total distance a vehicle travels from detecting a hazard to coming to a stop.",
+                "It is the sum of:",
+                "- Reaction Distance: distance traveled during the driver's reaction time.",
+                "  s_r = v × t (reaction time)",
+                "- Braking Distance: distance traveled while braking.",
+                "  s_b = v² / (2μg) where μ is the coefficient of friction.",
+                "Total Stopping Distance: s = v t + v² / (2μg)"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Graphical Representation of Uniformly accelerated Motion in 1 D",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Displacement-Time Graphs",
+              "content": [
+                "Shows how displacement changes with time.",
+                "The slope of the graph gives the velocity.",
+                "- A flat line (zero slope) means the object is at rest.",
+                "- A straight line with a constant slope means constant velocity.",
+                "- A curved line means changing velocity (acceleration or deceleration)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Velocity-Time Graphs",
+              "content": [
+                "Shows how velocity changes with time.",
+                "The slope of the graph gives the acceleration.",
+                "- A flat line (zero slope) means constant velocity (zero acceleration).",
+                "- A straight line with a constant slope means constant acceleration.",
+                "The area under the graph gives the displacement."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Acceleration-Time Graphs",
+              "content": [
+                "Shows how acceleration changes with time.",
+                "For uniformly accelerated motion, the graph is a horizontal line at a constant value.",
+                "For uniform motion (zero acceleration), the graph is a line at a = 0."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Summary of Graphical Analysis",
+              "content": [
+                "Displacement-time graph slope = velocity.",
+                "Velocity-time graph slope = acceleration.",
+                "Velocity-time graph area under curve = displacement.",
+                "These relationships are fundamental for interpreting motion graphs."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Vertical Motion",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Free Fall",
+              "content": [
+                "Free fall is motion under the influence of gravity alone.",
+                "The acceleration is constant and is called the acceleration due to gravity (g).",
+                "Near the Earth's surface, g ≈ 9.8 m/s² downward.",
+                "All objects, regardless of mass, fall with the same acceleration (neglecting air resistance)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Equations for Free Fall",
+              "content": [
+                "The kinematic equations apply, with 'a' replaced by 'g'.",
+                "For upward motion (projected upward):",
+                "- v = u - gt",
+                "- y = ut - ½gt²",
+                "- v² = u² - 2gy",
+                "For downward motion (dropped from rest or thrown downward):",
+                "- v = u + gt",
+                "- y = ut + ½gt²"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Terminal Velocity",
+              "content": [
+                "When an object falls through a fluid (like air), it experiences a drag force upward.",
+                "The drag force increases with speed.",
+                "Terminal velocity is reached when the upward drag force balances the downward weight.",
+                "At terminal velocity, the net force is zero, so acceleration is zero, and the object falls at a constant maximum speed."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Uniform Circular Motion",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Uniform Circular Motion",
+              "content": [
+                "An object moves in a circle at a constant speed.",
+                "The speed is constant, but the velocity is changing because its direction is constantly changing.",
+                "Changing direction means there is acceleration.",
+                "This acceleration is called centripetal acceleration (center-seeking)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Angular and Tangential Quantities",
+              "content": [
+                "Angular Displacement (θ): The angle swept out by the object.",
+                "- θ = s / r (where s is the arc length, r is the radius).",
+                "Angular Velocity (ω): The rate of change of angular displacement.",
+                "- ω = Δθ / Δt",
+                "Tangential Velocity (v_t): The linear speed along the circular path.",
+                "- v_t = r ω = 2πr / T (T is the period)"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Centripetal Acceleration and Force",
+              "content": [
+                "Centripetal Acceleration (a_c): a_c = v²/r = ω²r.",
+                "It is always directed towards the center of the circle.",
+                "Centripetal Force (F_c): The net force causing centripetal acceleration.",
+                "- F_c = m a_c = m v²/r = m ω²r",
+                "This force is not a new type of force; it is the net force from other forces (tension, friction, gravity)."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Examples of Circular Motion",
+              "content": [
+                "A ball on a string: Tension provides the centripetal force.",
+                "A car on a roundabout: Friction between tires and road provides the centripetal force.",
+                "A car on a banked road: The horizontal component of the normal force provides the centripetal force.",
+                "The conical pendulum: The horizontal component of tension provides the centripetal force."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Dynamics",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "The Concept of Force and Newton's Laws of motion",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "The Concept of Force",
+              "content": [
+                "A force is a push or a pull.",
+                "It is a vector quantity, having both magnitude and direction.",
+                "SI unit: Newton (N).",
+                "A force can change the speed, direction, or shape of an object."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Types of Forces",
+              "content": [
+                "Contact Forces: Result from physical contact between two bodies.",
+                "- Examples: Friction, tension, normal force.",
+                "Field Forces: Act at a distance without physical contact.",
+                "- Examples: Gravitational, electrostatic, magnetic forces.",
+                "The four fundamental forces in nature are all field forces."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Fundamental Forces in Nature",
+              "content": [
+                "1. Strong Nuclear Force: The strongest force; holds the nucleus together.",
+                "2. Electromagnetic Force: Acts between charged particles.",
+                "3. Weak Nuclear Force: Responsible for radioactive decay.",
+                "4. Gravitational Force: The weakest force; acts between all masses."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Newton's First Law (Law of Inertia)",
+              "content": [
+                "An object at rest remains at rest unless acted upon by an external net force.",
+                "An object in motion continues in straight-line motion at constant velocity unless acted upon by an external net force.",
+                "Inertia: The tendency of an object to resist changes in its state of motion.",
+                "Mass is a measure of inertia."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Newton's Second Law",
+              "content": [
+                "The acceleration of an object is directly proportional to the net force applied to it.",
+                "It is inversely proportional to the mass of the object.",
+                "Mathematically: F_net = m a",
+                "The direction of the acceleration is the same as the direction of the net force."
+              ]
+            },
+            {
+              "slide_number": 6,
+              "title": "Newton's Third Law (Action-Reaction)",
+              "content": [
+                "For every action force, there is an equal and opposite reaction force.",
+                "The action and reaction forces act on different objects.",
+                "Example: When you push a wall, the wall pushes back on you with an equal force.",
+                "Action and reaction forces do not cancel each other because they act on different objects."
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "Weight and Normal Force",
+              "content": [
+                "Weight (W): The gravitational force on an object.",
+                "- W = m g",
+                "- It is directed downward toward the center of the Earth.",
+                "Normal Force (F_N): The perpendicular contact force exerted by a surface on an object.",
+                "- On a level surface, F_N = W (if no other vertical forces).",
+                "- On an inclined plane, F_N = W cos θ."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Frictional Force",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "What is Friction?",
+              "content": [
+                "Friction is a force that opposes the motion (or attempted motion) of one surface over another.",
+                "It arises due to the roughness of the surfaces in contact.",
+                "Friction is a contact force.",
+                "It has both beneficial and detrimental effects."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Types of Friction",
+              "content": [
+                "Static Friction (F_s): The friction between surfaces at rest relative to each other.",
+                "- It can take any value from zero up to a maximum value.",
+                "- F_s,max = μ_s F_N",
+                "Kinetic Friction (F_k): The friction between surfaces sliding over each other.",
+                "- F_k = μ_k F_N",
+                "Generally, μ_s > μ_k, so static friction is greater than kinetic friction."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Coefficient of Friction",
+              "content": [
+                "The coefficient of friction (μ) is the ratio of the frictional force to the normal force.",
+                "- μ = F_f / F_N",
+                "It is a dimensionless number that depends on the nature of the surfaces in contact.",
+                "It does not depend on the area of contact."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Applications of Friction",
+              "content": [
+                "Friction is essential for walking, driving, and holding objects.",
+                "Without friction, car tires would not grip the road.",
+                "Friction can be reduced by using lubricants (oil, grease).",
+                "Friction causes energy loss as heat and causes wear and tear."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Free-Body Diagrams",
+              "content": [
+                "A free-body diagram is a drawing that shows all the forces acting on a single object.",
+                "It is essential for applying Newton's Laws to solve problems.",
+                "Steps:",
+                "- Draw the object.",
+                "- Draw each force as an arrow acting on the object.",
+                "- Label each force.",
+                "- Resolve forces into x and y components if needed."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The First Condition of Equilibrium",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Translational Equilibrium",
+              "content": [
+                "An object is in translational equilibrium when its acceleration is zero.",
+                "This means it is either at rest or moving with constant velocity.",
+                "The net force acting on the object must be zero."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "The First Condition of Equilibrium",
+              "content": [
+                "The vector sum of all forces acting on an object in equilibrium must be zero.",
+                "ΣF = 0",
+                "This can be written in component form:",
+                "- ΣFx = 0",
+                "- ΣFy = 0",
+                "These equations can be used to solve for unknown forces in static situations."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Work, Energy and Power",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Work",
+              "content": [
+                "Work is done when a force acts on an object and causes a displacement.",
+                "Work is the transfer of energy.",
+                "Definition: W = F·d = F d cos θ",
+                "SI unit: Joule (J).",
+                "Work can be positive, negative, or zero.",
+                "- Positive: Force and displacement are in the same direction.",
+                "- Negative: Force and displacement are in opposite directions (e.g., friction).",
+                "- Zero: Force and displacement are perpendicular."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Kinetic Energy and the Work-Energy Theorem",
+              "content": [
+                "Kinetic Energy (KE): The energy an object has due to its motion.",
+                "- KE = ½ m v²",
+                "The Work-Energy Theorem: The net work done on an object is equal to its change in kinetic energy.",
+                "- W_net = ΔKE = ½ m v_f² - ½ m v_i²"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Potential Energy",
+              "content": [
+                "Potential Energy (PE): Stored energy.",
+                "Gravitational Potential Energy: Energy due to an object's height above a reference point.",
+                "- PE_g = m g h",
+                "Elastic Potential Energy: Energy stored in a stretched or compressed spring.",
+                "- PE_s = ½ k x² (where k is the spring constant and x is the displacement from equilibrium)"
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Conservative and Non-Conservative Forces",
+              "content": [
+                "Conservative Forces: The work done by the force is independent of the path taken.",
+                "- Examples: Gravity, spring force.",
+                "- The work done around any closed path is zero.",
+                "Non-Conservative Forces: The work done depends on the path.",
+                "- Examples: Friction, air resistance.",
+                "- These forces convert mechanical energy into other forms (like heat)."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Power",
+              "content": [
+                "Power is the rate at which work is done or energy is transferred.",
+                "Average Power: P_avg = W / t",
+                "Instantaneous Power: P = dW / dt = F·v",
+                "SI unit: Watt (W). 1 W = 1 J/s."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Conservation of Mechanical Energy",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Conservation of Mechanical Energy",
+              "content": [
+                "Mechanical energy is the sum of kinetic and potential energy: E = KE + PE.",
+                "In the absence of non-conservative forces (like friction), the total mechanical energy of a system is conserved.",
+                "This means: KE_i + PE_i = KE_f + PE_f",
+                "Energy can transform between KE and PE, but the total remains constant."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Applications of Energy Conservation",
+              "content": [
+                "This principle is a powerful tool for solving problems.",
+                "It relates speeds and heights without considering the details of the motion.",
+                "Examples:",
+                "- A roller coaster in a frictionless track.",
+                "- An object in free fall.",
+                "- A pendulum swinging without air resistance."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "Impulse and Linear Momentum",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Linear Momentum",
+              "content": [
+                "Linear momentum (p) is the product of an object's mass and velocity.",
+                "p = m v",
+                "It is a vector quantity.",
+                "SI unit: kg·m/s.",
+                "Momentum describes how difficult it is to stop or set an object in motion."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Impulse and the Impulse-Momentum Theorem",
+              "content": [
+                "Impulse (J) is the product of the net force acting on an object and the time interval over which it acts.",
+                "J = F_net Δt",
+                "The Impulse-Momentum Theorem: The impulse on an object equals its change in momentum.",
+                "J = Δp = m v_f - m v_i",
+                "This theorem is a direct consequence of Newton's Second Law."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Conservation of Linear Momentum",
+              "content": [
+                "The Law of Conservation of Momentum: The total momentum of an isolated system (no external forces) remains constant.",
+                "p_initial = p_final",
+                "For two objects: m1 u1 + m2 u2 = m1 v1 + m2 v2",
+                "This applies to all types of collisions, regardless of whether energy is conserved."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Types of Collisions",
+              "content": [
+                "Elastic Collisions: Both momentum and kinetic energy are conserved.",
+                "Inelastic Collisions: Momentum is conserved, but kinetic energy is not.",
+                "Perfectly Inelastic Collisions: A special case where the objects stick together after collision.",
+                "- They move with the same final velocity.",
+                "- Maximum kinetic energy is lost."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Center of Mass",
+              "content": [
+                "The center of mass is the point where the total mass of a system can be considered to be concentrated.",
+                "It is the average position of all the mass in the system.",
+                "For a system of particles, the velocity of the center of mass is given by:",
+                "- v_cm = (Σ m_i v_i) / M_total",
+                "The center of mass moves as if all the external forces act on it and all mass is concentrated there."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Heat Conduction and Calorimetry",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "The Concept of Heat",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Heat and Temperature",
+              "content": [
+                "Heat is the transfer of thermal energy between objects due to a temperature difference.",
+                "It always flows spontaneously from a hotter object to a colder object.",
+                "Temperature is a measure of the average kinetic energy of the particles in a substance.",
+                "Heat is a process variable (energy in transit), while temperature is a state variable."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Internal Energy",
+              "content": [
+                "Internal energy is the total energy stored within a system.",
+                "It includes the kinetic energy of particle motion (translational, rotational, vibrational) and the potential energy from intermolecular forces.",
+                "When heat is added to a system, its internal energy increases (usually raising its temperature).",
+                "Work can also change the internal energy of a system."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Heat transfer mechanisms",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Conduction",
+              "content": [
+                "Conduction is the transfer of heat through a material by molecular collisions.",
+                "Energy is transferred from high-energy particles to low-energy particles.",
+                "It is most effective in solids, especially metals (good conductors).",
+                "Insulators (e.g., wood, wool) conduct heat poorly."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Convection",
+              "content": [
+                "Convection is the transfer of heat by the bulk movement of a fluid (liquid or gas).",
+                "It occurs due to differences in density.",
+                "- Warm fluid is less dense and rises.",
+                "- Cool fluid is denser and sinks.",
+                "This creates a convection current.",
+                "Examples: Boiling water, heating a room."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Radiation",
+              "content": [
+                "Radiation is the transfer of heat via electromagnetic waves.",
+                "It does not require a medium; it can travel through a vacuum.",
+                "All objects emit and absorb thermal radiation.",
+                "Examples: Heat from the Sun, heat from a fire."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Heat Capacity and Specific Heat Capacity",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Heat Capacity",
+              "content": [
+                "Heat Capacity (C): The amount of heat required to raise the temperature of an object by 1°C or 1 K.",
+                "C = Q / ΔT",
+                "SI unit: J/K.",
+                "Heat capacity depends on the object's mass and the material it is made of."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Specific Heat Capacity",
+              "content": [
+                "Specific Heat Capacity (c): The amount of heat required to raise the temperature of 1 kg of a substance by 1°C or 1 K.",
+                "c = Q / (m ΔT)",
+                "SI unit: J/(kg·K).",
+                "It is an intrinsic property of the material.",
+                "Different substances have different specific heat capacities."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Specific Heat Values and Significance",
+              "content": [
+                "Metals tend to have low specific heat (e.g., lead, copper).",
+                "Water has a very high specific heat (4186 J/kg·K).",
+                "This is why water is used as a coolant.",
+                "It also moderates coastal climates, as oceans absorb and release large amounts of heat without large temperature changes."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Thermal expansion",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Thermal Expansion",
+              "content": [
+                "Thermal expansion is the change in size of matter in response to a change in temperature.",
+                "Most substances expand when heated and contract when cooled.",
+                "Gases expand much more than liquids, and liquids expand more than solids."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Linear, Area, and Volume Expansion",
+              "content": [
+                "Linear Expansion: ΔL = L₀ α ΔT",
+                "- α is the coefficient of linear expansion.",
+                "Area (Surface) Expansion: ΔA = A₀ β ΔT",
+                "- β = 2α",
+                "Volume Expansion: ΔV = V₀ γ ΔT",
+                "- γ = 3α"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Applications and Anomalies",
+              "content": [
+                "Applications: Bimetallic strips (thermostats), riveting, fitting metal parts.",
+                "Water has a unique expansion property.",
+                "Its volume decreases as temperature rises from 0°C to 4°C.",
+                "This is why ice floats and lakes freeze from the top down."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Change of phase",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Phase Changes",
+              "content": [
+                "A phase change is a transition between solid, liquid, and gas states.",
+                "During a phase change, the temperature of the substance does not change.",
+                "Energy supplied during a phase change is used to change the arrangement of molecules, not their average kinetic energy.",
+                "This energy is called latent heat."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Latent Heat",
+              "content": [
+                "Latent Heat of Fusion (L_f): The heat required to change 1 kg of a substance from solid to liquid at its melting point.",
+                "Q = m L_f",
+                "Latent Heat of Vaporization (L_v): The heat required to change 1 kg of a substance from liquid to gas at its boiling point.",
+                "Q = m L_v",
+                "Examples: Melting ice, boiling water."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Phase Diagram",
+              "content": [
+                "A phase diagram is a graph of pressure vs. temperature showing the conditions for different phases.",
+                "Triple Point: Where all three phases (solid, liquid, gas) coexist in equilibrium.",
+                "Critical Point: Where the liquid and gas phases become indistinguishable."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Calorimetry",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "What is Calorimetry?",
+              "content": [
+                "Calorimetry is the measurement of heat exchange between substances.",
+                "It is based on the principle of conservation of energy.",
+                "In an isolated system: Heat lost by hot objects = Heat gained by cold objects.",
+                "A device used for this is called a calorimeter."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Method of Mixtures",
+              "content": [
+                "A hot object is placed in a calorimeter with cold water.",
+                "The final equilibrium temperature is measured.",
+                "By equating the heat lost by the hot object to the heat gained by the water and calorimeter, the specific heat capacity of the hot object can be calculated.",
+                "Equation: m_s c_s (T_s - T_f) = (m_w c_w + m_c c_c) (T_f - T_c)"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Electrical Method",
+              "content": [
+                "An electrical heater of known power is used to heat a substance.",
+                "The electrical energy supplied is: E = P t",
+                "This is equated to the heat gained by the substance: Q = m c ΔT.",
+                "This method is used to determine the specific heat capacity of solids and liquids."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Measuring Latent Heat",
+              "content": [
+                "Calorimetry can also be used to measure latent heats.",
+                "For example, to measure the latent heat of fusion of ice:",
+                "- Add a known mass of ice to warm water in a calorimeter.",
+                "- Measure the temperature drop of the water.",
+                "- Equate the heat lost by the water to the heat gained by the ice (to melt and warm to the final temperature).",
+                "A similar method can be used for the latent heat of vaporization of steam."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Electrostatics and Electric Circuit",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Coulomb's Law",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Electric Charge",
+              "content": [
+                "Charge is a fundamental property of matter.",
+                "There are two types: Positive (proton) and Negative (electron).",
+                "Like charges repel; unlike charges attract.",
+                "Charge is quantized: q = n e, where e = 1.6 × 10⁻¹⁹ C.",
+                "Charge is conserved."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Coulomb's Law",
+              "content": [
+                "Coulomb's Law describes the force between two point charges.",
+                "F = k |q₁ q₂| / r²",
+                "- k is Coulomb's constant (8.99 × 10⁹ N·m²/C²).",
+                "The force is attractive for opposite charges and repulsive for like charges.",
+                "The force is a vector, acting along the line connecting the charges."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Superposition Principle",
+              "content": [
+                "When multiple charges are present, the net force on any one charge is the vector sum of the forces exerted on it by all the other charges.",
+                "This is the principle of superposition.",
+                "F_net = F₁₂ + F₁₃ + ... + F₁ₙ",
+                "Use vector addition to find the net force."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Electric Fields",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Electric Field",
+              "content": [
+                "An electric field exists around any charged object.",
+                "It is defined as the electric force per unit charge.",
+                "E = F / q (for a positive test charge q).",
+                "SI unit: N/C or V/m.",
+                "The electric field is a vector field, having both magnitude and direction."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Field Lines",
+              "content": [
+                "Electric field lines are used to visualize the field.",
+                "Properties:",
+                "- Lines originate from positive charges and terminate on negative charges.",
+                "- Lines never cross.",
+                "- The density of lines indicates the strength of the field.",
+                "- Lines are perpendicular to the surface of conductors.",
+                "For a point charge: E = kQ/r²."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Electric Flux",
+              "content": [
+                "Electric flux (Φ) is a measure of the number of electric field lines passing through a surface.",
+                "Φ = E·A = E A cos θ",
+                "The area vector is perpendicular to the surface.",
+                "Flux is maximum when the field is perpendicular to the surface (θ = 0).",
+                "Flux is zero when the field is parallel to the surface (θ = 90°)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Electric Potential",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Electric Potential Energy and Potential",
+              "content": [
+                "Electric potential energy (U) is the energy a charge has due to its position in an electric field.",
+                "Electric potential (V) is the potential energy per unit charge.",
+                "V = U / q",
+                "SI unit: Volt (V) = J/C.",
+                "Unlike the electric field (a vector), electric potential is a scalar quantity."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Potential Difference",
+              "content": [
+                "Potential difference (voltage) between two points is the work done per unit charge to move a charge between those points.",
+                "ΔV = ΔU / q = W / q",
+                "The potential due to a point charge: V = kQ/r.",
+                "The potential difference in a uniform electric field: ΔV = E d."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Equipotential Surfaces",
+              "content": [
+                "Equipotential surfaces connect points with the same electric potential.",
+                "No work is done moving a charge along an equipotential surface.",
+                "Equipotential surfaces are always perpendicular to electric field lines.",
+                "For a point charge, equipotential surfaces are spheres."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Electric Current, Resistance and ohm's law",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Electric Current",
+              "content": [
+                "Electric current is the flow of electric charge.",
+                "I = ΔQ / Δt",
+                "SI unit: Ampere (A). 1 A = 1 C/s.",
+                "Conventional current flows from positive to negative.",
+                "Electrons flow from negative to positive."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Ohm's Law and Resistance",
+              "content": [
+                "Resistance (R) is the opposition to current flow.",
+                "SI unit: Ohm (Ω).",
+                "Ohm's Law: For ohmic conductors, V = I R.",
+                "A conductor obeys Ohm's law if the current is directly proportional to the voltage."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Resistors in Series",
+              "content": [
+                "Resistors connected end-to-end.",
+                "The same current flows through each resistor.",
+                "The total resistance is the sum of the individual resistances.",
+                "R_eq = R₁ + R₂ + ...",
+                "The voltage is divided among the resistors."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Resistors in Parallel",
+              "content": [
+                "Resistors connected across the same potential difference.",
+                "The same voltage is across each resistor.",
+                "The total current is the sum of the currents through each resistor.",
+                "The total resistance is found by:",
+                "1/R_eq = 1/R₁ + 1/R₂ + ...",
+                "The total resistance is less than the smallest individual resistor."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Kirchhoff's Rules",
+              "content": [
+                "For complex circuits, use Kirchhoff's rules.",
+                "Junction Rule (Current Rule): The sum of currents entering a junction equals the sum of currents leaving it.",
+                "- ΣI_in = ΣI_out",
+                "Loop Rule (Voltage Rule): The sum of all potential changes around a closed loop is zero.",
+                "- ΣΔV = 0",
+                "These rules are based on conservation of charge and energy."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Capacitors and Capacitance",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Capacitors",
+              "content": [
+                "A capacitor is a device that stores electric charge and energy.",
+                "It consists of two conductors (plates) separated by an insulator.",
+                "Charge is stored on the plates.",
+                "Circuit symbol:"
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Capacitance",
+              "content": [
+                "Capacitance (C) is the ratio of the charge stored to the potential difference.",
+                "C = Q / V",
+                "SI unit: Farad (F). 1 F = 1 C/V.",
+                "Practical units: μF, nF, pF.",
+                "The capacitance of a parallel-plate capacitor is: C = ε₀ A / d."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Dielectrics",
+              "content": [
+                "A dielectric is an insulating material placed between the plates.",
+                "It increases the capacitance by a factor of κ (the dielectric constant).",
+                "C = κ C₀",
+                "Dielectrics also increase the maximum voltage the capacitor can withstand."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Capacitors in Series and Parallel",
+              "content": [
+                "Capacitors in Parallel:",
+                "- The same voltage is across each.",
+                "- The total charge is the sum of the charges.",
+                "- C_eq = C₁ + C₂ + ...",
+                "Capacitors in Series:",
+                "- The same charge is on each.",
+                "- The total voltage is the sum of the voltages.",
+                "- 1/C_eq = 1/C₁ + 1/C₂ + ..."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Nuclear Physics",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "The nucleus",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Structure of the Nucleus",
+              "content": [
+                "The nucleus is at the center of the atom.",
+                "It contains protons (positive charge) and neutrons (neutral).",
+                "Protons and neutrons are collectively called nucleons.",
+                "Atomic Number (Z) = Number of protons.",
+                "Mass Number (A) = Number of protons + Number of neutrons.",
+                "Isotopes: Atoms of the same element (same Z) with different numbers of neutrons (different A)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Nuclear Forces",
+              "content": [
+                "The Strong Nuclear Force: The force that holds nucleons together.",
+                "- It is a very short-range force (≈10⁻¹⁵ m).",
+                "- It is much stronger than the electrostatic repulsion between protons.",
+                "The Weak Nuclear Force: Responsible for beta decay."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Mass Defect and Binding Energy",
+              "content": [
+                "The mass of a nucleus is always less than the sum of the masses of its individual nucleons.",
+                "This difference in mass is called the mass defect (Δm).",
+                "The missing mass is converted into energy that holds the nucleus together.",
+                "Einstein's equation: E = (Δm) c²",
+                "This energy is the binding energy of the nucleus.",
+                "Binding Energy per Nucleon: Total binding energy / A. It is a measure of nuclear stability."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Radioactivity",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Radioactive Decay",
+              "content": [
+                "Radioactivity is the spontaneous decay of an unstable nucleus.",
+                "It occurs to make the nucleus more stable.",
+                "Types of radiation: Alpha (α), Beta (β), and Gamma (γ)."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Alpha (α) Radiation",
+              "content": [
+                "Alpha particle: A helium-4 nucleus (⁴₂He).",
+                "High mass and charge (+2e).",
+                "High ionizing power.",
+                "Low penetrating power.",
+                "Stopped by a piece of paper or the outer layer of skin."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Beta (β) Radiation",
+              "content": [
+                "Beta-minus (β⁻): A high-speed electron.",
+                "Beta-plus (β⁺): A positron.",
+                "Moderate ionizing power.",
+                "Moderate penetrating power.",
+                "Stopped by a few millimeters of aluminum."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Gamma (γ) Radiation",
+              "content": [
+                "Gamma radiation: High-energy electromagnetic radiation.",
+                "No mass and no charge.",
+                "Low ionizing power.",
+                "High penetrating power.",
+                "Requires several centimeters of lead or meters of concrete to stop."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Radioactive Decay Law",
+              "content": [
+                "Radioactive decay is a random process.",
+                "Activity (A): The number of decays per second.",
+                "A = λ N, where λ is the decay constant.",
+                "N(t) = N₀ e^(-λt), the number of nuclei remaining after time t.",
+                "Half-life (T₁/₂): The time for half of the nuclei in a sample to decay.",
+                "T₁/₂ = ln(2) / λ = 0.693 / λ."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Use of nuclear radiation",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Medical Applications",
+              "content": [
+                "Radiotherapy: Using radiation to treat cancer.",
+                "- External: Gamma rays from a Cobalt-60 source.",
+                "- Internal (Brachytherapy): Placing a radioactive source inside the body.",
+                "Radioactive Tracers: Using isotopes to diagnose diseases.",
+                "- Example: Iodine-131 to examine thyroid function."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Radioactive Dating",
+              "content": [
+                "Using the known half-life of isotopes to determine the age of objects.",
+                "Carbon-14 Dating: For organic materials (up to ~50,000 years).",
+                "- Carbon-14 is produced in the atmosphere.",
+                "- Living organisms have a constant ratio of C-14 to C-12.",
+                "- When an organism dies, the ratio decreases as C-14 decays.",
+                "Other isotopes (Uranium-238, Potassium-40) are used for dating rocks."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Nuclear Reaction and Energy Production",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Nuclear Fission",
+              "content": [
+                "Fission is the splitting of a heavy nucleus into two lighter nuclei.",
+                "Example: ²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁸⁹₃₆Kr + 3 ¹₀n + Energy",
+                "Fission releases a large amount of energy.",
+                "Chain Reaction: The neutrons released can cause further fission events.",
+                "Controlled in nuclear reactors to generate electricity.",
+                "Uncontrolled in nuclear weapons."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Nuclear Fusion",
+              "content": [
+                "Fusion is the combining of two light nuclei to form a heavier nucleus.",
+                "Example: ²₁H + ³₁H → ⁴₂He + ¹₀n + Energy",
+                "This is the process that powers the Sun and stars.",
+                "Fusion requires extremely high temperatures (millions of degrees).",
+                "It could be a source of clean energy but is very difficult to achieve."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Safety Rules Against Hazards of Nuclear Radiation",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Radiation Hazards",
+              "content": [
+                "Ionizing radiation (alpha, beta, gamma) can damage living cells.",
+                "It can ionize atoms and molecules, disrupting biological processes.",
+                "Effects can be acute (burns, radiation sickness) or long-term (cancer, genetic mutations).",
+                "Protection is essential for anyone working with or near radioactive materials."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Principles of Radiation Protection",
+              "content": [
+                "Time: Minimize the time spent near a radiation source.",
+                "Distance: Maximize the distance from the source.",
+                "- The dose decreases rapidly with distance.",
+                "Shielding: Use appropriate barriers to absorb radiation.",
+                "- Examples: Lead, concrete, water.",
+                "These principles are used to reduce exposure."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Safe Handling of Radioactive Materials",
+              "content": [
+                "Use tongs or forceps to handle sources.",
+                "Keep sources at arm's length, pointing away from the body.",
+                "Store sources in a designated, shielded container.",
+                "Wear appropriate personal protective equipment.",
+                "Follow strict procedures for disposal of radioactive waste.",
+                "Regular monitoring of radiation levels is required."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

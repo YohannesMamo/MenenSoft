@@ -1,0 +1,1216 @@
+{
+  "subject": "Physics",
+  "grade": 9,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Physics and Human Society",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Definition and Nature of Physics",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "What is Physics?",
+              "content": [
+                "Physics is a branch of natural science.",
+                "It aims to describe the fundamental aspects of our universe.",
+                "The word 'physics' comes from the Greek word 'phusis', meaning nature.",
+                "Physics attempts to describe the basic mechanisms that make our universe behave the way it does."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "What Physics Explains",
+              "content": [
+                "Working principles of cars, airplanes, and space-rockets.",
+                "Working principles of refrigerators, radios, and televisions.",
+                "Daily utensils and tools.",
+                "Physical phenomena like walking on a smooth plane and why an electric fan rotates."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Importance of Physics",
+              "content": [
+                "Helps discover unknown parts of nature.",
+                "Makes you familiar with the modern world.",
+                "Helps you understand concepts in other subjects like Biology, Chemistry, Geology, and Astronomy.",
+                "Provides various career opportunities."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Career Opportunities in Physics",
+              "content": [
+                "Transportation",
+                "Aviation and space science",
+                "Medicine",
+                "Forensic and military science",
+                "Meteorology and metrology"
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Who is a Physicist?",
+              "content": [
+                "A person who studies physics is called a physicist.",
+                "Physicists study concepts, relationships, principles, and laws of nature."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Branches of Physics",
+          "presentation_slides": [
+            {
+              "slide_number": 6,
+              "title": "Branches of Physics",
+              "content": [
+                "Physics has expanded into many branches.",
+                "Branches include: Mechanics, Acoustics, Optics, Thermodynamics, Electromagnetism, Nuclear Physics, Astrophysics, etc."
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "Mechanics",
+              "content": [
+                "Deals with the motion of an object with or without the reference of force.",
+                "Divided into Quantum Mechanics (behavior of smallest particles) and Classical Mechanics (laws of motion of forces and physical objects)."
+              ]
+            },
+            {
+              "slide_number": 8,
+              "title": "Other Branches of Physics",
+              "content": [
+                "Acoustics: Study of sound and its transmission, production, and effects.",
+                "Optics: Study of the behavior, propagation, and properties of light.",
+                "Thermodynamics: Study of thermal energy and the transfer of heat.",
+                "Electromagnetism: Study of electromagnetic force like electric fields, light, magnetic fields.",
+                "Nuclear Physics: Study of the structure, properties, and reactions of atomic nuclei.",
+                "Astrophysics: Application of physics principles to study astronomical objects and phenomena."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Related Fields to Physics",
+          "presentation_slides": [
+            {
+              "slide_number": 9,
+              "title": "Physics and Other Sciences",
+              "content": [
+                "Physics is the foundation of many important scientific disciplines.",
+                "Chemistry: Rooted in atomic and molecular physics.",
+                "Engineering: Applies physics for structural stability, acoustics, heating, lighting, and cooling.",
+                "Geology: Uses physics in radioactive dating, earthquake analysis, and heat transfer.",
+                "Biophysics: Applies physics principles to study biological phenomena.",
+                "Geophysics: Applies physics principles to study the Earth.",
+                "Medical Physics: Uses physics for diagnostics and therapy like X-rays and MRI."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Historical Issues and Contributors",
+          "presentation_slides": [
+            {
+              "slide_number": 10,
+              "title": "Classical vs Modern Physics",
+              "content": [
+                "Classical Physics: Physics as it developed from the Renaissance to the end of the 19th century.",
+                "Modern Physics: Based on revolutionary discoveries starting at the beginning of the 20th century.",
+                "Many laws of classical physics were modified, leading to dramatic changes in technology, society, and our view of the universe."
+              ]
+            },
+            {
+              "slide_number": 11,
+              "title": "Isaac Newton",
+              "content": [
+                "Laid foundations for classical physics/classical mechanics.",
+                "Formulated three laws of motion (Newton's laws of motion).",
+                "Showed how the principle of universal gravitation explains the behavior of falling bodies on Earth and planets/celestial bodies."
+              ]
+            },
+            {
+              "slide_number": 12,
+              "title": "Michael Faraday",
+              "content": [
+                "Contributed to the field of electromagnetism.",
+                "In 1821, produced mechanical motion using a permanent magnet and electric current.",
+                "Invented the world's first electric generator by converting magnetic force into electrical force."
+              ]
+            },
+            {
+              "slide_number": 13,
+              "title": "James Prescott Joule",
+              "content": [
+                "Studied the nature of heat and discovered its relationship to mechanical work.",
+                "His work led to the law of conservation of energy.",
+                "Helped lay the foundation for the first law of thermodynamics."
+              ]
+            },
+            {
+              "slide_number": 14,
+              "title": "Marie Curie",
+              "content": [
+                "Conducted pioneering research in nuclear physics, particularly on radioactivity.",
+                "Considered the mother of modern nuclear physics.",
+                "Discovered the elements polonium and radium."
+              ]
+            },
+            {
+              "slide_number": 15,
+              "title": "Albert Einstein",
+              "content": [
+                "Known for developing the theory of relativity.",
+                "His theory had a profound impact on classical mechanics and the philosophy of physics.",
+                "Made important contributions to the development of quantum mechanics.",
+                "Widely acknowledged as one of the greatest physicists of all time."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Physical Quantities",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Scales, Standards, Units (prefixes)",
+          "presentation_slides": [
+            {
+              "slide_number": 16,
+              "title": "Measurement Scales",
+              "content": [
+                "A scale on a measuring device contains markings that show a certain amount of what is being measured.",
+                "The number of marks depends on how accurate a measurement can be.",
+                "As the number of marks increases, the precision of the device also increases."
+              ]
+            },
+            {
+              "slide_number": 17,
+              "title": "Standards in Measurement",
+              "content": [
+                "A standard must be readily accessible and possess a property that can be measured reliably.",
+                "Measurements taken by different people in different places must yield the same result.",
+                "Lack of standard measurement leads to inaccuracy and bias.",
+                "The SI system (International System of Units) is an adaptation of the metric system."
+              ]
+            },
+            {
+              "slide_number": 18,
+              "title": "SI Units of Fundamental Quantities",
+              "content": [
+                "The seven basic quantities are: length (m), mass (kg), time (s), temperature (K), current (A), amount of substance (mol), and luminous intensity (cd).",
+                "Length: Meter (m) is the SI unit, defined as the distance traveled by light in vacuum in 1/299792458 seconds.",
+                "Time: Second (s) is the SI unit, defined as 9,192,631,770 times the period of vibration of radiation from the cesium-133 atom.",
+                "Mass: Kilogram (kg) is the SI unit, defined using the Planck constant (h)."
+              ]
+            },
+            {
+              "slide_number": 19,
+              "title": "Scientific Notation",
+              "content": [
+                "Scientific notation is a way of writing very large or very small numbers.",
+                "General form: d × 10^n, where d is a decimal number between 0 and 10, and n is an integer.",
+                "If n > 0, the decimal point moves to the right.",
+                "If n < 0, the decimal point moves to the left.",
+                "Example: 3.24 × 10^3 = 3240; 3.24 × 10^-3 = 0.00324."
+              ]
+            },
+            {
+              "slide_number": 20,
+              "title": "Significant Figures and Prefixes",
+              "content": [
+                "Significant Figures: Each non-zero digit is significant. Zeroes are counted if they are between two non-zero digits or at the end of a decimal part.",
+                "When adding/subtracting, the answer should have the same number of decimal places as the term with the fewest decimal places.",
+                "When multiplying/dividing, the answer should have the same number of significant figures as the quantity with the fewest.",
+                "Prefixes: Used to modify units for very large or small sizes. Examples: kilo (10^3), milli (10^-3), micro (10^-6)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Measurement and Safety",
+          "presentation_slides": [
+            {
+              "slide_number": 21,
+              "title": "Measurement",
+              "content": [
+                "Measurement is the process of comparing an unknown quantity with another quantity of its kind (called the unit of measurement).",
+                "It involves three key elements: the physical quantity to be measured, the necessary measuring tools, and the units of measurements used."
+              ]
+            },
+            {
+              "slide_number": 22,
+              "title": "Measuring Length",
+              "content": [
+                "Length is a fundamental physical quantity describing the distance between two points.",
+                "The SI unit of length is the meter (m).",
+                "Non-SI units include: millimeter (mm), centimeter (cm), and kilometer (km).",
+                "Instruments: meter stick, tape measure."
+              ]
+            },
+            {
+              "slide_number": 23,
+              "title": "Measuring Mass and Time",
+              "content": [
+                "Mass: The amount of matter contained in a body. The SI unit is the kilogram (kg). Instruments: beam balance.",
+                "Time: Describes the duration between the beginning and end of an event. The SI unit is the second (s). Instruments: clocks, watches."
+              ]
+            },
+            {
+              "slide_number": 24,
+              "title": "Laboratory Safety Rules",
+              "content": [
+                "Always wear lab safety goggles.",
+                "Avoid wearing baggy clothing, bulky jewelry, and open-toed shoes.",
+                "NEVER work alone in the laboratory.",
+                "Do not eat, drink, apply cosmetics, or chew gum in the laboratory.",
+                "Report all accidents to the teacher immediately.",
+                "Exercise caution when working with electrical equipment.",
+                "Wash hands thoroughly after participating in any laboratory activity."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Classification of Physical Quantities",
+          "presentation_slides": [
+            {
+              "slide_number": 25,
+              "title": "Physical Quantities",
+              "content": [
+                "A physical quantity is anything that you can measure.",
+                "Measured values are described in terms of number and unit.",
+                "Classified as Fundamental (or Basic) and Derived physical quantities."
+              ]
+            },
+            {
+              "slide_number": 26,
+              "title": "Fundamental Physical Quantities",
+              "content": [
+                "Can be measured directly.",
+                "Cannot be described in terms of other physical quantities.",
+                "The units used are called fundamental units.",
+                "There are seven fundamental quantities: length (m), mass (kg), time (s), temperature (K), current (A), amount of substance (mol), and luminous intensity (cd)."
+              ]
+            },
+            {
+              "slide_number": 27,
+              "title": "Derived Physical Quantities",
+              "content": [
+                "Depend on one or more fundamental quantities for their measurements.",
+                "Units are called derived units.",
+                "Examples: Area (m²), Volume (m³), Speed (m/s), Density (kg/m³), Force (N = kg·m/s²), Work (J = kg·m²/s²), Pressure (Pa = kg/(m·s²))."
+              ]
+            },
+            {
+              "slide_number": 28,
+              "title": "Scalar and Vector Quantities",
+              "content": [
+                "Scalar Quantity: Has only magnitude (size). Examples: distance, mass, time, temperature, energy.",
+                "Vector Quantity: Has both magnitude and direction. Examples: displacement, velocity, acceleration, force.",
+                "A vector can be represented by a bold letter or a letter with an arrow (e.g., S or S with an arrow)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Unit conversion",
+          "presentation_slides": [
+            {
+              "slide_number": 29,
+              "title": "Unit Conversion",
+              "content": [
+                "Conversion between different units of measurement for the same physical quantity.",
+                "Typically through multiplicative conversion factors.",
+                "Length: 1 km = 1000 m, 1 m = 100 cm, 1 m = 1000 mm.",
+                "Mass: 1 kg = 1000 g, 1 tonne = 1000 kg.",
+                "Time: 1 hr = 60 min, 1 min = 60 s, 1 day = 24 hours."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Motion in a Straight Line",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Position, Distance and Displacement",
+          "presentation_slides": [
+            {
+              "slide_number": 30,
+              "title": "Position and Motion",
+              "content": [
+                "Motion: A continuous change in position of an object relative to a fixed object called a reference frame.",
+                "Frame of Reference: A set of coordinates used to determine positions of objects.",
+                "Position: A measurement of a location, with respect to some reference point (usually an origin).",
+                "An object is at rest if its position does not change with time in a reference frame. It is in motion if its position changes."
+              ]
+            },
+            {
+              "slide_number": 31,
+              "title": "Distance vs Displacement",
+              "content": [
+                "Distance: The total path length traveled by a body. It is a scalar quantity.",
+                "Displacement: The change in position of a body in a certain direction. It is a vector quantity.",
+                "The SI unit for both is the meter (m).",
+                "Displacement is independent of the path length taken.",
+                "Displacement = X_f - X_i (final position - initial position)."
+              ]
+            },
+            {
+              "slide_number": 32,
+              "title": "Comparing Distance and Displacement",
+              "content": [
+                "Distance depends on the path followed.",
+                "Displacement depends only on the initial and final positions.",
+                "Distance can be more than or equal to the magnitude of displacement.",
+                "The magnitude of displacement can be less than or equal to the distance."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Average Speed and Instantaneous Speed",
+          "presentation_slides": [
+            {
+              "slide_number": 33,
+              "title": "Speed",
+              "content": [
+                "Speed is the rate at which an object changes its location.",
+                "It is a scalar quantity (has magnitude but no direction).",
+                "SI unit: meter per second (m/s).",
+                "Formula: Speed = Distance / Time."
+              ]
+            },
+            {
+              "slide_number": 34,
+              "title": "Average Speed",
+              "content": [
+                "Average speed is the total distance traveled divided by the total time taken.",
+                "Formula: Average Speed = Total Distance / Total Time.",
+                "It is a scalar quantity."
+              ]
+            },
+            {
+              "slide_number": 35,
+              "title": "Instantaneous Speed",
+              "content": [
+                "Instantaneous speed is the speed at a specific instant in time.",
+                "It is shown by a speedometer.",
+                "Mathematically: v_ins = Δs / Δt as Δt approaches 0.",
+                "It is a scalar quantity."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Average Velocity and Instantaneous Velocity",
+          "presentation_slides": [
+            {
+              "slide_number": 36,
+              "title": "Velocity",
+              "content": [
+                "Velocity is the rate of change of displacement.",
+                "It is a vector quantity (has both magnitude and direction).",
+                "SI unit: meter per second (m/s).",
+                "Average Velocity: Total displacement divided by total time.",
+                "Average velocity points in the same direction as the displacement."
+              ]
+            },
+            {
+              "slide_number": 37,
+              "title": "Instantaneous Velocity",
+              "content": [
+                "Instantaneous velocity is the velocity at a specific instant in time.",
+                "For uniform motion, average and instantaneous velocities are the same.",
+                "The magnitude of instantaneous velocity is called instantaneous speed."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Acceleration",
+          "presentation_slides": [
+            {
+              "slide_number": 38,
+              "title": "Acceleration",
+              "content": [
+                "Acceleration is the rate of change of velocity.",
+                "It is a vector quantity.",
+                "SI unit: meter per second squared (m/s²).",
+                "Acceleration occurs when velocity changes in magnitude (speed), direction, or both.",
+                "Formula: Average Acceleration = (v_f - v_i) / (t_f - t_i)."
+              ]
+            },
+            {
+              "slide_number": 39,
+              "title": "Deceleration",
+              "content": [
+                "Deceleration is negative acceleration.",
+                "Occurs when the velocity of a body decreases.",
+                "If a body starts from rest, initial velocity is zero (v_i = 0).",
+                "If a body comes to rest, final velocity is zero (v_f = 0)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Uniform Motion",
+          "presentation_slides": [
+            {
+              "slide_number": 40,
+              "title": "Uniform Motion",
+              "content": [
+                "Motion along a straight line with a constant velocity (constant speed and direction).",
+                "The object travels equal distances in equal time intervals.",
+                "Acceleration is zero (a = 0).",
+                "Average velocity and instantaneous velocity are the same at all times.",
+                "Examples: A car moving on a straight road with a fixed speed, an airplane flying with constant speed in a given direction."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Graphical Representation of Motion",
+          "presentation_slides": [
+            {
+              "slide_number": 41,
+              "title": "Position-Time (s-t) Graphs",
+              "content": [
+                "Indicates the position of an object at any time.",
+                "The slope of an s-t graph represents the velocity of the object.",
+                "A constant slope means uniform velocity.",
+                "Slope = (change in position) / (change in time) = Δx / Δt = v."
+              ]
+            },
+            {
+              "slide_number": 42,
+              "title": "Velocity-Time (v-t) Graphs",
+              "content": [
+                "Shows how the velocity of an object changes with time.",
+                "The slope of a v-t graph represents the acceleration of the object.",
+                "The area under a v-t graph represents the distance covered by the object.",
+                "In uniform motion, the v-t graph is a horizontal line (constant velocity)."
+              ]
+            },
+            {
+              "slide_number": 43,
+              "title": "Speed Limit and Traffic Safety",
+              "content": [
+                "Speed limits are set to ensure traffic safety.",
+                "Vehicles moving at very high speed can cause accidents.",
+                "A speedometer is a device used to measure the instantaneous speed of a car.",
+                "It is important to keep speeds at an optimum level to save lives and avoid property damage."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Force, Work, Energy and Power",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "The Concept of Force",
+          "presentation_slides": [
+            {
+              "slide_number": 44,
+              "title": "What is Force?",
+              "content": [
+                "A force is a push or a pull exerted on a body.",
+                "It changes the state of motion of the body (velocity) or causes deformation (change in shape or size).",
+                "Force is a vector quantity (magnitude and direction).",
+                "SI unit: Newton (N).",
+                "Examples: Friction force, normal force, and the force of gravity."
+              ]
+            },
+            {
+              "slide_number": 45,
+              "title": "Contact vs Non-Contact Forces",
+              "content": [
+                "Contact Forces: Involve physical contact between objects.",
+                "Examples: Applied forces, normal forces, frictional forces, spring forces.",
+                "Non-Contact Forces: Do not involve physical contact.",
+                "Examples: Magnetic force, gravitational force."
+              ]
+            },
+            {
+              "slide_number": 46,
+              "title": "Measuring Force and Weight",
+              "content": [
+                "Force is measured using the deformation of a spring.",
+                "Weight is the magnitude of the gravitational force acting on a body.",
+                "Weight is measured in Newtons.",
+                "Weight is directed towards the center of the Earth."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Newton's Laws of Motion",
+          "presentation_slides": [
+            {
+              "slide_number": 47,
+              "title": "Newton's First Law (Law of Inertia)",
+              "content": [
+                "A body continues to be in its state of rest or of uniform motion in a straight line unless it is acted on by an unbalanced force.",
+                "Inertia is the tendency of an object to resist any attempt to change its velocity.",
+                "Mass is a measure of inertia.",
+                "An inertial frame is one in which Newton's first law is valid."
+              ]
+            },
+            {
+              "slide_number": 48,
+              "title": "Newton's Second Law",
+              "content": [
+                "The acceleration of a body is directly proportional to the net force acting on it and inversely proportional to its mass.",
+                "Formula: F = ma (Force = mass × acceleration).",
+                "1 N is the force that gives a 1 kg mass an acceleration of 1 m/s².",
+                "Weight (W) = mg, where g = 9.8 m/s² (acceleration due to gravity)."
+              ]
+            },
+            {
+              "slide_number": 49,
+              "title": "Newton's Third Law",
+              "content": [
+                "Every action has an equal and opposite reaction.",
+                "Forces always act in pairs.",
+                "If object 1 exerts a force on object 2 (F_12), then object 2 exerts an equal and opposite force on object 1 (F_21 = -F_12).",
+                "Action and reaction forces act on different objects."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Forces of Friction",
+          "presentation_slides": [
+            {
+              "slide_number": 50,
+              "title": "Friction Force",
+              "content": [
+                "Friction is the resistance to motion of an object from a surface it is in contact with.",
+                "It is very important in everyday life (walking, vehicle motion).",
+                "It is denoted by 'f'.",
+                "Classified into two main types: Static friction and Kinetic friction."
+              ]
+            },
+            {
+              "slide_number": 51,
+              "title": "Static and Kinetic Friction",
+              "content": [
+                "Static Friction: Exists between two surfaces in contact when one body tends to slide over the other without moving.",
+                "It requires a large force to overcome.",
+                "Kinetic Friction: Exists between two contacting surfaces when one slides or rolls over the other.",
+                "Its effect on motion is less than that of static friction.",
+                "Friction depends on the normal force and the nature of the surfaces (roughness)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "The Concept of Work",
+          "presentation_slides": [
+            {
+              "slide_number": 52,
+              "title": "Scientific Meaning of Work",
+              "content": [
+                "In physics, work is done when a force causes an object to move.",
+                "The force must be applied in the same direction as the direction of displacement.",
+                "Formula: W = F_parallel × S (Work = Force parallel to displacement × Displacement).",
+                "Work is a scalar quantity.",
+                "SI unit: Joule (J). 1 J = 1 N·m."
+              ]
+            },
+            {
+              "slide_number": 53,
+              "title": "Conditions for Work",
+              "content": [
+                "Work is only done when the force and displacement are in the same direction.",
+                "No work is done if the force is perpendicular to the displacement.",
+                "Example: Holding an object stationary requires effort but does no work because there is no displacement."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Kinetic and Potential Energies",
+          "presentation_slides": [
+            {
+              "slide_number": 54,
+              "title": "Energy and Kinetic Energy",
+              "content": [
+                "Energy is the capacity to do work.",
+                "It is a scalar quantity.",
+                "SI unit: Joule (J).",
+                "Kinetic Energy (E_k): Energy possessed by an object due to its motion.",
+                "Formula: E_k = 1/2 × m × v².",
+                "Depends on the mass and speed of the object."
+              ]
+            },
+            {
+              "slide_number": 55,
+              "title": "Potential Energy",
+              "content": [
+                "Potential Energy: Stored energy in an object by virtue of its position or configuration.",
+                "Gravitational Potential Energy (E_p): Energy of an object held in a vertical position.",
+                "Formula: E_p = m × g × h (mass × acceleration due to gravity × height).",
+                "Depends on the height and mass of the object.",
+                "Mechanical Energy = Kinetic Energy + Potential Energy."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "Power",
+          "presentation_slides": [
+            {
+              "slide_number": 56,
+              "title": "Power",
+              "content": [
+                "Power is the rate at which work is done or energy is transferred.",
+                "It is a scalar quantity.",
+                "Formula: P = W / t or P = E / t.",
+                "SI unit: Watt (W). 1 W = 1 J/s.",
+                "A higher power means work is done more quickly."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Simple Machines",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Simple Machines and their Purposes",
+          "presentation_slides": [
+            {
+              "slide_number": 57,
+              "title": "What are Simple Machines?",
+              "content": [
+                "A simple machine is a device that requires a single force to do mechanical work.",
+                "They do not create energy, but transfer mechanical energy.",
+                "They make work easier by:",
+                "- Changing the direction of force.",
+                "- Multiplying speed or distance.",
+                "- Multiplying force.",
+                "Effort: The force applied to a machine.",
+                "Load: The force exerted by the machine."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Simple Machines at Home",
+          "presentation_slides": [
+            {
+              "slide_number": 58,
+              "title": "Simple Machines at Home",
+              "content": [
+                "Simple machines are used extensively in homes.",
+                "They magnify or change the direction of force.",
+                "Examples: Scissors, knives, bottle openers, ramps, staplers.",
+                "They make tasks like cutting, lifting, and binding easier."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Simple Machines at Work Place",
+          "presentation_slides": [
+            {
+              "slide_number": 59,
+              "title": "Simple Machines at Work",
+              "content": [
+                "Simple machines are the building blocks of more complex machines.",
+                "Used in various workplaces.",
+                "Examples: Levers, pulleys, wheels and axles, inclined planes in tools and equipment."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Classification of Simple Machines",
+          "presentation_slides": [
+            {
+              "slide_number": 60,
+              "title": "Six Types of Simple Machines",
+              "content": [
+                "1. Lever",
+                "2. Wheel and Axle",
+                "3. Pulley",
+                "4. Inclined Plane",
+                "5. Wedge",
+                "6. Screw"
+              ]
+            },
+            {
+              "slide_number": 61,
+              "title": "Functional Classification",
+              "content": [
+                "Force Multipliers: Load is greater than effort (e.g., lever).",
+                "Speed Multipliers: Load moves a greater distance than the effort (e.g., bicycle).",
+                "Direction Changers: Load moves in a different direction than the effort (e.g., fixed pulley)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Mechanical Advantage, Velocity Ratio and Efficiency",
+          "presentation_slides": [
+            {
+              "slide_number": 62,
+              "title": "Mechanical Advantage (M.A)",
+              "content": [
+                "The ratio of load to effort.",
+                "Formula: M.A = Load / Effort.",
+                "It compares the force you get out to the force you put in.",
+                "If M.A > 1, the machine is a force multiplier.",
+                "It has no units."
+              ]
+            },
+            {
+              "slide_number": 63,
+              "title": "Velocity Ratio (V.R)",
+              "content": [
+                "The ratio of the distance moved by the effort to the distance moved by the load.",
+                "Formula: V.R = Distance moved by effort / Distance moved by load.",
+                "It has no units.",
+                "For a lever, V.R = d_E / d_L (distance from effort to fulcrum / distance from load to fulcrum).",
+                "For an inclined plane, V.R = length of slope / height.",
+                "For a wheel and axle, V.R = radius of wheel / radius of axle.",
+                "For a pulley, V.R = number of rope sections."
+              ]
+            },
+            {
+              "slide_number": 64,
+              "title": "Efficiency (η)",
+              "content": [
+                "The ratio of work output to work input.",
+                "Formula: η = Work output / Work input.",
+                "It can also be expressed as η = M.A / V.R.",
+                "Efficiency is usually expressed as a percentage.",
+                "In real machines, efficiency is always less than 100% due to energy losses (e.g., friction)."
+              ]
+            },
+            {
+              "slide_number": 65,
+              "title": "Levers",
+              "content": [
+                "A lever is a rigid bar that is free to turn about a point called the fulcrum.",
+                "Three classes of levers based on the relative position of fulcrum, load, and effort:",
+                "1st Class: Fulcrum between load and effort (e.g., seesaw).",
+                "2nd Class: Load between fulcrum and effort (e.g., wheelbarrow).",
+                "3rd Class: Effort between fulcrum and load (e.g., fishing rod)."
+              ]
+            },
+            {
+              "slide_number": 66,
+              "title": "Inclined Plane, Wedge, and Screw",
+              "content": [
+                "Inclined Plane: A sloping surface; M.A = Load/Effort, V.R = Length/Height.",
+                "Wedge: Two inclined planes back-to-back; used for splitting. V.R = Penetration length / Thickness.",
+                "Screw: An inclined plane wrapped around a cylinder. M.A = πd / Pitch (d = diameter, pitch = distance between threads)."
+              ]
+            },
+            {
+              "slide_number": 67,
+              "title": "Wheel and Axle and Pulley",
+              "content": [
+                "Wheel and Axle: A wheel secured to a smaller axle. M.A = Load/Effort, V.R = Radius of wheel / Radius of axle.",
+                "Fixed Pulley: Changes direction of force; V.R = 1.",
+                "Movable Pulley: Multiplies force; V.R = 2.",
+                "Compound Pulley: Combination of fixed and movable pulleys; V.R = number of rope sections."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Designing Simple Machine",
+          "presentation_slides": [
+            {
+              "slide_number": 68,
+              "title": "Designing Simple Machines",
+              "content": [
+                "Identify activities in the community that need simple machines.",
+                "Prioritize and select one activity.",
+                "Collect necessary materials.",
+                "Design a machine that includes at least two simple machines.",
+                "Build a prototype using locally available materials."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Mechanical Oscillation and Sound Wave",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Common Characteristics of Waves",
+          "presentation_slides": [
+            {
+              "slide_number": 69,
+              "title": "Introduction to Waves and Oscillation",
+              "content": [
+                "Oscillation (Periodic Motion): A to-and-fro movement that repeats itself over a fixed time interval.",
+                "Wave: A disturbance that moves from its source, accompanied by a transfer of energy.",
+                "Examples: Sound waves, water waves, waves on a string."
+              ]
+            },
+            {
+              "slide_number": 70,
+              "title": "Characteristics of Waves",
+              "content": [
+                "Crest: The highest point above the rest position.",
+                "Trough: The lowest point below the rest position.",
+                "Amplitude (A): Maximum displacement from equilibrium.",
+                "Wavelength (λ): Distance between identical points on adjacent waves.",
+                "Period (T): Time for one complete cycle.",
+                "Frequency (f): Number of complete waves passing a point per unit time. f = 1/T.",
+                "Wave Speed (v): Distance the wave travels per second. v = f × λ."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "String, Pendulum and Spring",
+          "presentation_slides": [
+            {
+              "slide_number": 71,
+              "title": "Simple Pendulum",
+              "content": [
+                "A simple pendulum consists of a point mass (bob) suspended by a massless, un-stretchable string.",
+                "The period of a pendulum is given by: T = 2π √(L/g).",
+                "The period depends only on the length (L) and the acceleration due to gravity (g).",
+                "It does NOT depend on the mass of the bob."
+              ]
+            },
+            {
+              "slide_number": 72,
+              "title": "Spring-Mass System",
+              "content": [
+                "A mass attached to a spring undergoes periodic motion.",
+                "Hooke's Law: The restoring force of a spring is proportional to its displacement. F_res = -kx, where k is the spring constant.",
+                "The period of a spring-mass system is: T = 2π √(m/k).",
+                "The period depends on the mass (m) and the spring constant (k)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Propagation of Waves and Energy Transmission",
+          "presentation_slides": [
+            {
+              "slide_number": 73,
+              "title": "Mechanical vs Electromagnetic Waves",
+              "content": [
+                "Mechanical Waves: Require a material medium to travel through (e.g., sound waves, water waves).",
+                "Electromagnetic Waves: Do not require a medium; can travel through a vacuum (e.g., light, radio waves, X-rays)."
+              ]
+            },
+            {
+              "slide_number": 74,
+              "title": "Transverse vs Longitudinal Waves",
+              "content": [
+                "Transverse Waves: The direction of propagation is perpendicular to the direction of vibration of particles (e.g., light, waves on a string).",
+                "Longitudinal Waves: The direction of propagation is parallel to the direction of vibration of particles (e.g., sound waves, pressure waves).",
+                "Longitudinal waves consist of compressions (particles pushed together) and rarefactions (particles spread apart)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Sound Waves",
+          "presentation_slides": [
+            {
+              "slide_number": 75,
+              "title": "Production and Nature of Sound",
+              "content": [
+                "Sound is a longitudinal wave.",
+                "It is produced by vibrating objects.",
+                "Sound requires a medium to travel through (solid, liquid, or gas).",
+                "It travels fastest in solids and slowest in gases."
+              ]
+            },
+            {
+              "slide_number": 76,
+              "title": "Speed of Sound",
+              "content": [
+                "The speed of sound depends on the medium's density and compressibility.",
+                "Speed of sound in air at 0°C: 331 m/s.",
+                "Speed increases with temperature: v = 331 m/s × √(1 + T_c/273).",
+                "Speed in liquids and solids is higher and less affected by temperature."
+              ]
+            },
+            {
+              "slide_number": 77,
+              "title": "Reflection, Refraction, Diffraction, and Interference",
+              "content": [
+                "Reflection (Echo): Sound bouncing back from hard surfaces.",
+                "Refraction: Bending of sound due to changes in its speed.",
+                "Diffraction: Spreading of sound around obstacles or through openings.",
+                "Interference: The combination of two or more sound waves."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Superposition of Waves",
+          "presentation_slides": [
+            {
+              "slide_number": 78,
+              "title": "Superposition Principle and Interference",
+              "content": [
+                "Superposition Principle: When two or more waves pass the same point, the resultant displacement is the sum of the individual displacements.",
+                "Constructive Interference: Waves are in phase; the resultant wave has a larger amplitude.",
+                "Destructive Interference: Waves are out of phase; the resultant wave has a smaller or zero amplitude.",
+                "Standing Waves: Formed by the superposition of two identical waves traveling in opposite directions.",
+                "Nodes: Points of zero displacement.",
+                "Antinodes: Points of maximum displacement."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Characteristics of Sound Waves",
+          "presentation_slides": [
+            {
+              "slide_number": 79,
+              "title": "Pitch, Loudness, and Timbre",
+              "content": [
+                "Pitch: Determined by the frequency of the sound wave. Higher frequency = higher pitch.",
+                "Loudness: Determined by the amplitude of the sound wave. Higher amplitude = louder sound. Measured in decibels (dB).",
+                "Timbre (Quality): Distinguishes sounds of the same pitch and loudness from different sources.",
+                "Sound Pollution: Elevated sound levels that can cause health issues like hearing loss and hypertension."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Temperature and Thermometry",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Temperature and Our Life",
+          "presentation_slides": [
+            {
+              "slide_number": 80,
+              "title": "What is Temperature?",
+              "content": [
+                "Temperature is the degree of hotness or coldness of a body.",
+                "It is related to the average kinetic energy of the particles in a sample of matter.",
+                "Human perception of temperature is relative and unreliable.",
+                "Human beings are comfortable at room temperature (18°C to 22°C).",
+                "Temperature affects clothing, eating habits, health, and economy."
+              ]
+            },
+            {
+              "slide_number": 81,
+              "title": "Temperature Zones on Earth",
+              "content": [
+                "Tropical Zone: Receives the most direct sunlight; high temperatures.",
+                "Temperate Zone: Moderate temperatures.",
+                "Polar Zone: Receives less sunlight; low temperatures.",
+                "Examples: Tropical rain forests (21°C to 31°C), Temperate climates (-3°C to 18°C), Polar winters (-50°C)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Extreme Temperature Safety",
+          "presentation_slides": [
+            {
+              "slide_number": 82,
+              "title": "Human Body Temperature and Safety",
+              "content": [
+                "Normal human body temperature: 98.6°F (37°C).",
+                "To maintain this, the surrounding environment needs to be about 82°F (28°C).",
+                "Safety precautions for extreme heat:",
+                "- Stay well-hydrated.",
+                "- Wear appropriate clothing.",
+                "- Use sunscreen.",
+                "- Avoid extremely hot places."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Temperature Change and its Effects",
+          "presentation_slides": [
+            {
+              "slide_number": 83,
+              "title": "Global Warming and the Greenhouse Effect",
+              "content": [
+                "Global warming is the increase in Earth's average temperature.",
+                "The natural warming of the Earth due to greenhouse gases is called the greenhouse effect.",
+                "Greenhouse gases include: Carbon dioxide (CO2), Methane (CH4), Nitrous oxide (N2O), and fluorinated gases.",
+                "Human activities (burning fossil fuels) are increasing the greenhouse effect, leading to global warming."
+              ]
+            },
+            {
+              "slide_number": 84,
+              "title": "Effects of Higher Temperatures",
+              "content": [
+                "More frequent and longer heat waves.",
+                "Affects: Agriculture, Water supply, Energy, Health, Forests, Plants, animals, and ecosystems.",
+                "If current emission rates continue, temperature could rise by 4 to 12°F.",
+                "Big changes in energy use could limit the rise to 2 to 5°F."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Measuring Temperature with Different Thermometric Scales",
+          "presentation_slides": [
+            {
+              "slide_number": 85,
+              "title": "Thermometer and Fixed Points",
+              "content": [
+                "Thermometer: A device used to measure temperature.",
+                "It works by utilizing the expansion/contraction of a substance.",
+                "Lower Fixed Point: Melting point of ice.",
+                "Upper Fixed Point: Boiling point of water at sea level.",
+                "The space between these points is divided into equal parts to create a scale."
+              ]
+            },
+            {
+              "slide_number": 86,
+              "title": "The Three Temperature Scales",
+              "content": [
+                "Celsius Scale (°C): Ice point = 0°C, Steam point = 100°C.",
+                "Fahrenheit Scale (°F): Ice point = 32°F, Steam point = 212°F.",
+                "Kelvin Scale (K): Ice point = 273.15 K, Steam point = 373.15 K.",
+                "The SI unit of temperature is Kelvin.",
+                "Absolute Zero (0 K): The lowest possible temperature (-273.15°C)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Types of Thermometers and Their Use",
+          "presentation_slides": [
+            {
+              "slide_number": 87,
+              "title": "Types of Thermometers",
+              "content": [
+                "Mercury Thermometer: Uses expansion of mercury. Range: -30°C to 300°C.",
+                "Alcohol Thermometer: Uses expansion of alcohol. Non-toxic. Range: -115°C to 78.15°C.",
+                "Resistance Thermometer: Uses the change in electrical resistance with temperature. Range: -270°C to +700°C.",
+                "Thermocouple: Uses voltage generated by two junctions. Range: -270°C to 2300°C.",
+                "Thermistor: Uses a semiconductor whose resistance changes with temperature.",
+                "Radiation Thermometer: Measures infrared radiation emitted by an object."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.6",
+          "section_title": "Conversion between Temperature Scales",
+          "presentation_slides": [
+            {
+              "slide_number": 88,
+              "title": "Conversion Formulas",
+              "content": [
+                "Celsius to Fahrenheit: T_C = 5/9 (T_F - 32)",
+                "Fahrenheit to Celsius: T_F = 9/5 T_C + 32",
+                "Celsius to Kelvin: T_K = T_C + 273.15",
+                "Kelvin to Celsius: T_C = T_K - 273.15",
+                "These formulas are derived from the fixed points of each scale."
+              ]
+            },
+            {
+              "slide_number": 89,
+              "title": "Design Your Own Temperature Scale",
+              "content": [
+                "You can create your own thermometer using a bottle, straw, and alcohol-water mixture.",
+                "Use a real thermometer for calibration.",
+                "You can define your own unit and scale.",
+                "This demonstrates the principles behind thermometry."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.7",
+          "section_title": "Thermal Expansion of Materials",
+          "presentation_slides": [
+            {
+              "slide_number": 90,
+              "title": "Thermal Expansion",
+              "content": [
+                "Most materials expand when heated and contract when cooled.",
+                "Linear Expansion: The increase in length of a solid.",
+                "Formula: ΔL = α × L₀ × ΔT",
+                "Where:",
+                "ΔL = Change in length",
+                "α = Coefficient of linear expansion (depends on material)",
+                "L₀ = Initial length",
+                "ΔT = Change in temperature"
+              ]
+            },
+            {
+              "slide_number": 91,
+              "title": "Coefficient of Linear Expansion",
+              "content": [
+                "Different materials have different coefficients of linear expansion.",
+                "Examples: Aluminum (2.6 × 10⁻⁵), Brass (1.9 × 10⁻⁵), Iron/Steel (1.2 × 10⁻⁵), Lead (2.9 × 10⁻⁵), Glass/Pyrex (3.3 × 10⁻⁶).",
+                "Gases expand more than liquids; liquids expand more than solids.",
+                "Understanding expansion is crucial in construction to allow for gaps (e.g., in bridges) to prevent bending."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

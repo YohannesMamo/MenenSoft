@@ -1,0 +1,1421 @@
+{
+  "subject": "Chemistry",
+  "chapters": [
+    {
+      "chapter": 1,
+      "chapter_title": "Acid-Base Equilibria",
+      "sections": [
+        {
+          "section": "1.1",
+          "section_title": "Acid-Base Concepts",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Unit 1: Acid-Base Equilibria",
+              "content": "Welcome to Unit 1! In this unit, we will explore:\n- Three different acid-base concepts\n- Ionic equilibria of weak acids and bases\n- The common ion effect and buffer solutions\n- Salt hydrolysis\n- Acid-base indicators and titrations",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Learning Objectives - Section 1.1",
+              "content": "By the end of this section, you will be able to:\n- Define acids and bases by the Arrhenius concept\n- Define acids and bases by the Brønsted-Lowry concept\n- Explain conjugate acid-base pairs\n- Identify acid-base conjugate pairs from reactions\n- Write equations for self-ionization of water and ammonia\n- Explain amphiprotic species\n- Define acids and bases by the Lewis concept\n- Calculate pH from [H+] and vice versa",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "1.1.1 Arrhenius Concept of Acids and Bases",
+              "content": "Proposed by Svante Arrhenius.\n\n**Definition:**\n- **Acid:** A substance that increases the concentration of H+ ions in aqueous solution\n- **Base:** A substance that increases the concentration of OH- ions in aqueous solution\n\n**Strong Acids:** Completely ionize in aqueous solution\n- Example: HClO4(aq) + H2O(l) → H3O+(aq) + ClO4-(aq)\n- Common strong acids: H2SO4, HI, HBr, HCl, HNO3\n\n**Strong Bases:** Completely ionize in aqueous solution\n- Example: NaOH(s) → Na+(aq) + OH-(aq)\n- Principal strong bases: Group IA and IIA hydroxides (except Be)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Limitations of Arrhenius Concept",
+              "content": "Despite its success, the Arrhenius theory has limitations:\n\n1. **Limited to aqueous solutions** - Cannot explain acid-base behavior in non-aqueous solvents\n\n2. **Cannot explain bases without OH-** - Ammonia (NH3) is a base but does not contain OH- ions\n\n3. **Cannot explain acidic behavior of some compounds** - Some compounds that act as acids don't produce H+ ions directly\n\nThese limitations led to the development of the Brønsted-Lowry concept.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "1.1.2 Brønsted-Lowry Concept of Acids and Bases",
+              "content": "Proposed independently by J.N. Brønsted and T.M. Lowry in 1923.\n\n**Definition:**\n- **Acid:** A proton (H+) donor\n- **Base:** A proton (H+) acceptor\n\n**Key Advantage:** Not limited to aqueous solutions!\n\n**Example - Ammonia in water:**\nNH3(aq) + H2O(l) ⇌ NH4+(aq) + OH-(aq)\n\n- Water acts as an acid (donates proton to NH3)\n- NH3 acts as a base (accepts proton from water)\n- NH4+ and OH- are formed - same ions as Arrhenius predicted!",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "1.1.2.1 Conjugate Acid-Base Pairs",
+              "content": "Brønsted-Lowry acids and bases always occur in **pairs** called **conjugate acid-base pairs**.\n\n**Conjugate Base:** What remains when an acid loses a proton\n- HCl → Cl- (Cl- is the conjugate base of HCl)\n\n**Conjugate Acid:** What forms when a base gains a proton\n- NH3 → NH4+ (NH4+ is the conjugate acid of NH3)\n\n**Key Relationship:**\n- Species differ by one H+ ion\n- Conjugate base has one fewer H and one more negative charge\n- Conjugate acid has one more H and one fewer negative charge",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Identifying Conjugate Acid-Base Pairs",
+              "content": "**Example 1.1:** Identify Brønsted-Lowry acids, bases, and their conjugates.\n\n**Reaction a:**\nNH3 + H2PO4- ⇌ NH4+ + HPO42-\n\n- H2PO4- donates a proton → HPO42- (conjugate base)\n  - So H2PO4- is the **acid**, HPO42- is its **conjugate base**\n- NH3 accepts a proton → NH4+ (conjugate acid)\n  - So NH3 is the **base**, NH4+ is its **conjugate acid**\n\n**Reaction b:**\nHCl + H2PO4- ⇌ Cl- + H3PO4\n\n- HCl donates a proton → Cl- (conjugate base)\n  - So HCl is the **acid**, Cl- is its **conjugate base**\n- H2PO4- accepts a proton → H3PO4 (conjugate acid)\n  - So H2PO4- is the **base**, H3PO4 is its **conjugate acid**",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "Strengths of Conjugate Acid-Base Pairs",
+              "content": "**Key Principle:**\n- The stronger the acid, the weaker its conjugate base\n- The stronger the base, the weaker its conjugate acid\n\n**Example:**\n- HCl (strong acid) → Cl- (very weak base)\n- CH3COOH (weak acid) → CH3COO- (relatively strong base)\n\n**Direction of Acid-Base Reactions:**\nA reaction proceeds in the direction where a stronger acid and stronger base form a weaker acid and weaker base.\n\n**Chart 1.1** (in textbook): Shows the strength relationship between conjugate acid-base pairs in a vertical format.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "1.1.2.2 Autoionization of Substances",
+              "content": "**Autoionization (Self-Ionization):**\nA reaction between two identical molecules to produce ions.\n\n**Autoionization of Water (Most Important):**\n2H2O(l) ⇌ H3O+(aq) + OH-(aq)\n\n- One water molecule acts as an **acid** (donates proton)\n- Another water molecule acts as a **base** (accepts proton)\n- Water is an **amphiprotic** species!\n\n**Autoionization of Ammonia:**\n2NH3 ⇌ NH4+ + NH2-\n\nAmmonia can also self-ionize, though to a lesser extent than water.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "1.1.2.3 Amphiprotic Species",
+              "content": "**Amphiprotic Species:** A molecule or ion that can either donate or accept a proton, depending on the other reactant.\n\n**Water (H2O):** The most important amphiprotic species\n- With acid: H2O + HCl → H3O+ + Cl- (water acts as base)\n- With base: NH3 + H2O → NH4+ + OH- (water acts as acid)\n\n**Other Amphiprotic Species:**\n- HCO3- (hydrogen carbonate)\n- H2PO4- (dihydrogen phosphate)\n- HPO42- (hydrogen phosphate)\n\n**Example:** HCO3- acts as:\n- Acid in presence of OH-: HCO3- + OH- → CO32- + H2O\n- Base in presence of HF: HCO3- + HF → H2CO3 + F-",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "1.1.3 Lewis Concept of Acids and Bases",
+              "content": "Proposed by G.N. Lewis based on electron-pair theory.\n\n**Definition:**\n- **Lewis Acid:** Electron-pair acceptor (needs electrons)\n- **Lewis Base:** Electron-pair donor (has lone pair electrons)\n\n**Key Advantage:** Most general concept - includes reactions without protons.\n\n**Example - BF3 and NH3:**\n- BF3 has only 6 valence electrons → wants 2 more (Lewis acid)\n- NH3 has a lone pair of electrons → can donate them (Lewis base)\n- Reaction: BF3 + NH3 → BF3-NH3\n\n**Look For:**\n1. Empty orbital to accept electron pair (Lewis acid)\n2. Lone-pair electrons to donate (Lewis base)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 12,
+              "title": "Examples of Lewis Acid-Base Reactions",
+              "content": "**Example 1: BH3 + (CH3)2S → H3BS(CH3)2**\n- BH3: Boron has only 6 valence electrons → **Lewis acid**\n- (CH3)2S: Sulfur has lone pairs → **Lewis base**\n\n**Example 2: CaO + CO2 → CaCO3**\n- CO2: Carbon accepts electron pair → **Lewis acid**\n- CaO: Oxygen donates electron pair → **Lewis base**\n\n**Example 3: BeCl2 + 2Cl- → BeCl42-**\n- BeCl2: Beryllium has only 4 electrons → **Lewis acid**\n- Cl-: Chloride has lone pairs → **Lewis base**",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 13,
+              "title": "Summary: Three Acid-Base Concepts Compared",
+              "content": "| Concept | Acid Definition | Base Definition | Limitation |\n|---------|----------------|----------------|------------|\n| **Arrhenius** | Increases H+ in water | Increases OH- in water | Aqueous solutions only |\n| **Brønsted-Lowry** | Proton donor | Proton acceptor | Requires protons |\n| **Lewis** | Electron-pair acceptor | Electron-pair donor | Most general |\n\n**Remember:**\n- All Arrhenius acids/bases are Brønsted-Lowry acids/bases\n- All Brønsted-Lowry acids/bases are Lewis acids/bases\n- The reverse is NOT true!",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "1.2",
+          "section_title": "Ionic Equilibria of Weak Acids and Bases",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 1.2: Ionic Equilibria of Weak Acids and Bases",
+              "content": "In this section, we will learn:\n- Describe the ionization of water\n- Derive the ion product for water (Kw)\n- Explain why water is a weak electrolyte\n- Calculate [H3O+] or [OH-] using Kw\n- Write expressions for percent ionization\n- Calculate percent dissociation of weak acids and bases\n- Write and use Ka and Kb expressions\n- Calculate pH and pOH from concentrations",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "1.2.1 Ionization of Water",
+              "content": "**Autoionization of Water:**\n2H2O(l) ⇌ H3O+(aq) + OH-(aq)\n\n**Key Facts:**\n- Water is a very weak electrolyte\n- Despite being a non-conductor, it does self-ionize to a small extent\n- At 25°C, [H3O+] = [OH-] = 1.0 × 10-7 M\n\n**Equilibrium Constant Expression:**\nKc = [H3O+][OH-] / [H2O]2\n\n**Ion-Product Constant for Water (Kw):**\nKw = [H3O+][OH-] = 1.0 × 10-14 at 25°C",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "The Ion-Product Constant (Kw)",
+              "content": "**Key Points about Kw:**\n\n1. **Temperature Dependent:**\n   - At 25°C: Kw = 1.0 × 10-14\n   - At 37°C (body temp): Kw = 2.5 × 10-14\n\n2. **Always Holds:** In ANY aqueous solution at a given temperature\n   [H3O+][OH-] = Kw = 1.0 × 10-14\n\n3. **For Pure Water:**\n   - [H3O+] = [OH-] = √Kw = 1.0 × 10-7 M\n\n4. **Neutral, Acidic, or Basic:**\n   - Neutral: [H3O+] = [OH-]\n   - Acidic: [H3O+] > [OH-]\n   - Basic: [OH-] > [H3O+]",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Calculating [H3O+] and [OH-]",
+              "content": "**Example 1.3:** Calculate [H+] or [OH-] for each solution and state whether neutral, acidic, or basic.\n\n**a.** [H+] = 1.0 × 10-7 M\n- [OH-] = Kw / [H+] = 1.0 × 10-14 / 1.0 × 10-7 = 1.0 × 10-7 M\n- [H+] = [OH-] → **Neutral**\n\n**b.** [OH-] = 1.0 × 10-4 M\n- [H+] = 1.0 × 10-14 / 1.0 × 10-4 = 1.0 × 10-10 M\n- [OH-] > [H+] → **Basic**\n\n**c.** [OH-] = 1.0 × 10-8 M\n- [H+] = 1.0 × 10-14 / 1.0 × 10-8 = 1.0 × 10-6 M\n- [H+] > [OH-] → **Acidic**",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "The pH Scale",
+              "content": "**Definition of pH:**\npH = -log[H3O+] = -log[H+]\n\n**Key Relationships:**\n- If [H+] = 2.5 × 10-3 M, pH = -log(2.5 × 10-3) = 2.60\n- To find [H+] from pH: [H+] = 10-pH\n- If pH = 4.5, [H+] = 10-4.5 = 3.2 × 10-5 M\n\n**pH Classes (at 25°C):**\n- Neutral: pH = 7\n- Acidic: pH < 7\n- Basic: pH > 7",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "pOH and pH Relationship",
+              "content": "**Definition of pOH:**\npOH = -log[OH-]\n\n**Relationship between pH and pOH:**\nFrom Kw = [H3O+][OH-] = 1.0 × 10-14\n\nTaking -log of both sides:\n-log[H3O+] - log[OH-] = -log(1.0 × 10-14)\npH + pOH = 14 (at 25°C)\n\n**Example:**\nIf pH = 7.40, then:\n- pOH = 14 - 7.40 = 6.60\n- [H+] = 10-7.40 = 4.0 × 10-8 M\n- [OH-] = 10-6.60 = 2.51 × 10-7 M",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "1.2.2 Measures of Acid/Base Strength",
+              "content": "There are several ways to measure acid/base strength:\n\n1. **Concentration of H+ and OH- ions**\n   - Strong acids → higher [H+]\n   - Strong bases → higher [OH-]\n\n2. **pH and pOH Values**\n   - Lower pH = stronger acid\n   - Higher pH = stronger base\n\n3. **Percent Ionization**\n   - % ionization = (ionized amount / initial amount) × 100%\n   - Higher % = stronger acid/base\n\n4. **Ka and Kb Values**\n   - Higher Ka = stronger acid\n   - Higher Kb = stronger base",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "1.2.2.3 Percent Ionization",
+              "content": "**Definition:**\nPercent ionization = (ionized acid concentration at equilibrium / Initial concentration of acid) × 100%\n\n**For Bases:**\nPercent ionization = (ionized base concentration at equilibrium / Initial concentration of base) × 100%\n\n**Key Points:**\n- Strong acids/bases have nearly 100% ionization\n- Weak acids/bases have small percent ionization\n- Percent ionization increases with dilution\n- For acetic acid at 0.10 M: 1.34% ionization\n- For HF at 0.50 M: 3.6% ionization",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "1.2.2.4 Acid Ionization Constant (Ka)",
+              "content": "**For a Weak Acid HA:**\nHA(aq) + H2O(l) ⇌ H3O+(aq) + A-(aq)\n\n**Ka Expression:**\nKa = [H3O+][A-] / [HA]\n\n**Key Relationships:**\n- Higher Ka = stronger acid\n- Lower Ka = weaker acid\n\n**Example Ka Values (25°C):**\n| Acid | Formula | Ka |\n|------|---------|-----|\n| Hydrofluoric acid | HF | 6.8 × 10-4 |\n| Acetic acid | CH3COOH | 1.8 × 10-5 |\n| Hypochlorous acid | HOCl | 3.0 × 10-8 |\n| Hydrocyanic acid | HCN | 4.9 × 10-10 |",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "Example: Calculating Ka from pH",
+              "content": "**Example 1.5:**\nA 0.250 M solution of butyric acid has pH = 2.72. Determine Ka.\n\n**Solution:**\n1. Find [H3O+] from pH:\n   [H3O+] = 10-2.72 = 1.9 × 10-3 M = x\n\n2. Set up ICE table:\n   CH3(CH2)2COOH + H2O ⇌ H3O+ + CH3(CH2)2COO-\n   Initial: 0.250 M\n   Change: -x\n   Equilibrium: 0.250 - x\n   [H3O+] = [A-] = x = 1.9 × 10-3 M\n\n3. Calculate Ka:\n   Ka = (x)(x) / (0.250 - x)\n   Ka = (1.9 × 10-3)2 / (0.250 - 1.9 × 10-3)\n   Ka = 1.5 × 10-5",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "Example: Calculating pH from Ka",
+              "content": "**Example 1.5:** Calculate pH of a 0.50 M HF solution (Ka = 6.8 × 10-4).\n\n**Solution:**\n1. Set up equation:\n   HF + H2O ⇌ H3O+ + F-\n   Initial: 0.50 M, Change: -x, Equilibrium: 0.50 - x\n   [H3O+] = [F-] = x\n\n2. Use Ka expression:\n   Ka = (x)(x) / (0.50 - x) = 6.8 × 10-4\n\n3. Approximation (since Ka is small):\n   x2 / 0.50 ≈ 6.8 × 10-4\n   x = √(0.50 × 6.8 × 10-4) = 1.8 × 10-2 M\n\n4. Check validity:\n   % ionization = (1.8 × 10-2 / 0.50) × 100% = 3.6% < 5% → Valid!\n\n5. pH = -log(1.8 × 10-2) = 1.74",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 12,
+              "title": "Base Ionization Constant (Kb)",
+              "content": "**For a Weak Base B:**\nB(aq) + H2O(l) ⇌ BH+(aq) + OH-(aq)\n\n**Kb Expression:**\nKb = [BH+][OH-] / [B]\n\n**Common Kb Values (25°C):**\n| Base | Formula | Kb |\n|------|---------|-----|\n| Ethylamine | C2H5NH2 | 4.7 × 10-4 |\n| Methylamine | CH3NH2 | 4.4 × 10-4 |\n| Ammonia | NH3 | 1.8 × 10-5 |\n| Pyridine | C5H5N | 1.7 × 10-9 |\n\n**Example 1.6:**\nCalculate [OH-] of 0.20 M ammonia (Kb = 1.8 × 10-5).\n\nNH3 + H2O ⇌ NH4+ + OH-\n\n[OH-] = √(Kb × C) = √(1.8 × 10-5 × 0.20) = 1.9 × 10-3 M",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "1.3",
+          "section_title": "Common Ion Effect and Buffer Solution",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 1.3: Common Ion Effect and Buffer Solutions",
+              "content": "In this section, we will learn:\n- Define the common ion effect\n- Explain the importance of the common ion effect\n- Define buffer solutions\n- Give examples of buffer systems\n- Explain how buffer solutions resist pH changes\n- Calculate pH of buffer solutions",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "1.3.1 The Common Ion Effect",
+              "content": "**Definition:**\nThe common ion effect is the shift in an ionic equilibrium caused by the addition of a solute that provides an ion that is already part of the equilibrium.\n\n**Le Chatelier's Principle:**\nAdding a product (or removing a reactant) shifts equilibrium toward reactants.\n\n**Example - Acetic Acid Equilibrium:**\nCH3COOH(aq) + H2O(l) ⇌ CH3COO-(aq) + H3O+(aq)\n\nWhen HCl is added:\n- HCl provides H3O+ ions (a product in the equilibrium)\n- Equilibrium shifts to the LEFT\n- Result: Ionization of acetic acid is suppressed\n\nThis is the common ion effect!",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Common Ion Effect - Another Example",
+              "content": "**Example:** Adding sodium acetate to acetic acid\n\n**Before addition:**\nCH3COOH + H2O ⇌ CH3COO- + H3O+\n\n**After adding CH3COONa:**\nCH3COONa(s) → CH3COO-(aq) + Na+(aq)\n\n**Effect:**\n- Added CH3COO- is a product in the equilibrium\n- Equilibrium shifts to the LEFT\n- Less CH3COOH ionizes\n\n**Key Result:** The presence of a common ion from a salt suppresses the ionization of the weak acid/base.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Example: Common Ion Effect Calculation",
+              "content": "**Example 1.7:**\nDetermine [H3O+] and [CH3COO-] in 0.10 M CH3COOH and 0.10 M HCl.\n\n**Given:** HCl is strong acid → [H3O+] = 0.10 M\n\n**ICE Table:**\nCH3COOH + H2O ⇌ CH3COO- + H3O+\nInitial: 0.10 M, 0, 0.10 M\nChange: -x, +x, +x\nEquilibrium: 0.10 - x, x, 0.10 + x\n\n**Ka Expression:**\n1.8 × 10-5 = (0.10 + x)(x) / (0.10 - x)\n\nSince Ka is small, x is negligible compared to 0.10:\n1.8 × 10-5 = (0.10)(x) / (0.10)\nx = [CH3COO-] = 1.8 × 10-5 M\n[H3O+] = 0.10 + 1.8 × 10-5 = 0.100018 M",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "1.3.2 Buffer Solutions - Introduction",
+              "content": "**What is a Buffer Solution?**\nA solution that resists changes in pH when small amounts of acid or base are added, or when diluted.\n\n**Composition of a Buffer:**\n- A mixture of a weak acid and its conjugate base\n  - Example: CH3COOH and CH3COONa\n- OR a mixture of a weak base and its conjugate acid\n  - Example: NH3 and NH4Cl\n\n**How Does it Work?**\n- Contains both acid and base components\n- Added acid is neutralized by the base component\n- Added base is neutralized by the acid component\n\n**Importance:**\n- Biological systems (blood pH = 7.4)\n- Chemical processes\n- Maintaining optimum pH for reactions",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Buffer Action - Example",
+              "content": "**Buffer System:** CH3COOH and CH3COO-\n\n**When Acid (H+) is Added:**\nCH3COO-(aq) + H+(aq) → CH3COOH(aq)\n- The buffer consumes the added H+\n- pH change is minimized\n\n**When Base (OH-) is Added:**\nCH3COOH(aq) + OH-(aq) → CH3COO-(aq) + H2O(l)\n- The buffer consumes the added OH-\n- pH change is minimized\n\n**Net Result:** The buffer maintains a relatively constant pH!",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Comparing Buffered vs Unbuffered Solutions",
+              "content": "**Comparison of 1.0 L Samples:**\n\n| Solution | Initial pH | pH after adding 0.010 mol NaOH | pH after adding 0.010 mol HCl |\n|----------|------------|-------------------------------|------------------------------|\n| **Unbuffered** (1.28 × 10-5 M HCl) | 4.81 | 2.0 | 2.0 |\n| **Buffered** (0.099 M CH3COOH + 0.097 M CH3COONa) | 4.84 | 4.8 | 4.7 |\n\n**Observation:**\n- Unbuffered solution pH changes dramatically (4.81 to 2.00)\n- Buffered solution pH barely changes (4.84 to 4.7)\n\nThis demonstrates the **resisting power** of buffers!",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "The Henderson-Hasselbalch Equation",
+              "content": "**For Acid Buffer:**\npH = pKa + log([conjugate base] / [weak acid])\n\n**Derivation:**\n- Start with Ka = [H3O+][A-] / [HA]\n- Rearrange: [H3O+] = Ka × [HA] / [A-]\n- Take -log: pH = pKa + log([A-] / [HA])\n\n**For Base Buffer:**\npOH = pKb + log([conjugate acid] / [weak base])\n\n**Where:**\npKa = -log Ka, pKb = -log Kb\n\n**Key Assumption:**\nThe change in concentrations is negligible as the system reaches equilibrium.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "Example: Buffer pH Calculation",
+              "content": "**Example 1.8:**\nWhat is the pH of a buffer solution containing 0.035 M NH3 and 0.050 M NH4+? (Ka for NH4+ = 5.6 × 10-10)\n\n**Solution:**\n1. Reaction: NH4+ ⇌ H+ + NH3\n2. Identify components:\n   - Acid: NH4+ (0.050 M)\n   - Base: NH3 (0.035 M)\n3. pKa = -log(5.6 × 10-10) = 9.25\n4. Use Henderson-Hasselbalch:\n   pH = pKa + log([base] / [acid])\n   pH = 9.25 + log(0.035 / 0.050)\n   pH = 9.25 + log(0.70)\n   pH = 9.25 + (-0.155)\n   pH = 9.09",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "Example: Buffer pH Using Kb",
+              "content": "**Example 1.8 (continued):**\nA buffer is made by mixing 0.060 M NH3 with 0.040 M NH4Cl. What is the pH? (Kb = 1.8 × 10-5)\n\n**Solution:**\n1. Reaction: NH3 + H2O ⇌ NH4+ + OH-\n2. Identify components:\n   - Weak base: NH3 (0.060 M)\n   - Conjugate acid: NH4+ (0.040 M)\n3. pKb = -log(1.8 × 10-5) = 4.745\n4. Use base Henderson-Hasselbalch:\n   pOH = pKb + log([conjugate acid] / [weak base])\n   pOH = 4.745 + log(0.040 / 0.060)\n   pOH = 4.745 + log(0.667)\n   pOH = 4.745 + (-0.176)\n   pOH = 4.569\n5. pH = 14 - pOH = 14 - 4.569 = 9.431",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "1.4",
+          "section_title": "Hydrolysis of Salts",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 1.4: Hydrolysis of Salts",
+              "content": "In this section, we will learn:\n- Define salt hydrolysis\n- Explain why salts of weak acids and strong bases give basic solutions\n- Explain why salts of strong acids and weak bases give acidic solutions\n- Explain why salts of weak acids and weak bases can give acidic, basic, or neutral solutions",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "What is Salt Hydrolysis?",
+              "content": "**Definition:**\nSalt hydrolysis is the reaction of the cation and/or anion of a salt with water to produce an acidic or basic solution.\n\n**From Greek:**\n- Hydro = water\n- Lysis = to break or unbind\n\n**General Principle:**\n- Ions from a salt can react with water\n- One part gets H+, the other gets OH-\n- The pH of the resulting solution depends on which ions hydrolyze\n\n**Key Question:**\n\"What are the parent acid and base of this salt?\"",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "1.4.1 Salts of Strong Acids and Strong Bases",
+              "content": "**Example:** NaCl from NaOH and HCl\n\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\n\n**Net Ionic Equation:**\nH+(aq) + OH-(aq) → H2O(l)\n\n**What Happens in Water?**\n- Na+ (conjugate acid of strong base NaOH) → **does NOT hydrolyze**\n- Cl- (conjugate base of strong acid HCl) → **does NOT hydrolyze**\n\n**Result:**\n- No ion reacts with water\n- Solution is **neutral** (pH = 7)\n\n**Other Examples:**\nKCl, NaNO3, KNO3, CaCl2, KBr",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "1.4.2 Salts of Weak Acids and Strong Bases",
+              "content": "**Example:** CH3COONa from CH3COOH and NaOH\n\nCH3COOH(aq) + NaOH(aq) → CH3COONa(aq) + H2O(l)\n\n**What Happens in Water?**\n- Na+ → **does NOT hydrolyze** (from strong base)\n- CH3COO- (conjugate base of weak acid) → **DOES hydrolyze**\n\n**Hydrolysis Reaction:**\nCH3COO-(aq) + H2O(aq) ⇌ CH3COOH(aq) + OH-(aq)\n\n**Result:**\n- OH- ions are produced\n- Solution is **basic** (pH > 7)\n\n**General Rule:**\nSalts of weak acids and strong bases give **basic** solutions.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "1.4.3 Salts of Strong Acids and Weak Bases",
+              "content": "**Example:** NH4Cl from NH3 and HCl\n\nNH3(aq) + HCl(aq) → NH4Cl(aq)\n\n**What Happens in Water?**\n- Cl- → **does NOT hydrolyze** (from strong acid)\n- NH4+ (conjugate acid of weak base) → **DOES hydrolyze**\n\n**Hydrolysis Reaction:**\nNH4+(aq) + H2O(aq) ⇌ NH3(aq) + H3O+(aq)\n\n**Result:**\n- H3O+ ions are produced\n- Solution is **acidic** (pH < 7)\n\n**General Rule:**\nSalts of strong acids and weak bases give **acidic** solutions.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "1.4.4 Salts of Weak Acids and Weak Bases",
+              "content": "**Example:** NH4F from NH3 and HF\n\n**Both ions can hydrolyze:**\n- NH4+ (conjugate acid of weak base NH3) produces H3O+\n  NH4+ + H2O ⇌ NH3 + H3O+\n- F- (conjugate base of weak acid HF) produces OH-\n  F- + H2O ⇌ HF + OH-\n\n**Determining the pH:**\n- Compare Ka of the cation (NH4+ = 5.6 × 10-10)\n- Compare Kb of the anion (F- = 1.4 × 10-11)\n\n**Rule:**\n- If Ka > Kb → acidic solution\n- If Kb > Ka → basic solution\n- If Ka = Kb → neutral solution",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Example: Predicting Salt Solution pH",
+              "content": "**Problem:** Determine whether solutions of NH4F, NH4CNS, and CH3COONH4 are acidic, basic, or neutral.\n\n**Given Values:**\n| Anion | Kb | Cation | Ka |\n|-------|-----|--------|-----|\n| F- | 1.4 × 10-11 | NH4+ | 5.6 × 10-10 |\n| CNS- | 2.0 × 10-5 | NH4+ | 5.6 × 10-10 |\n| CH3COO- | 5.6 × 10-10 | NH4+ | 5.6 × 10-10 |\n\n**Analysis:**\n- **NH4F:** Ka(5.6 × 10-10) > Kb(1.4 × 10-11) → **Acidic**\n- **NH4CNS:** Kb(2.0 × 10-5) > Ka(5.6 × 10-10) → **Basic**\n- **CH3COONH4:** Ka(5.6 × 10-10) = Kb(5.6 × 10-10) → **Neutral**",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "1.5",
+          "section_title": "Acid-Base Indicators and Titrations",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 1.5: Acid-Base Indicators and Titrations",
+              "content": "In this section, we will learn:\n- Define acid-base indicators and give examples\n- Suggest suitable indicators for acid-base titrations\n- Explain equivalents of acids and bases\n- Calculate normality of acidic/basic solutions\n- Define acid-base titration\n- Distinguish between end point and equivalence point\n- Discuss titration curves",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "1.5.1 Acid-Base Indicators",
+              "content": "**What are Acid-Base Indicators?**\nWeak organic acids (HIn) or bases (In-) that indicate whether a solution is acidic, basic, or neutral.\n\n**How They Work:**\nHIn + H2O ⇌ H3O+ + In-\n(Acid color) (Base color)\n\n**Le Chatelier's Principle:**\n- In acidic medium (high [H3O+]): Equilibrium shifts LEFT → Acid color\n- In basic medium (low [H3O+]): Equilibrium shifts RIGHT → Base color\n\n**Key Point:**\nA small amount of indicator does NOT affect the pH of the solution.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Common Acid-Base Indicators",
+              "content": "**Common Indicators and Their pH Ranges:**\n\n| Indicator | Acid Color | Base Color | pH Range |\n|-----------|------------|------------|----------|\n| Methyl violet | Yellow | Violet | 0.0 - 1.6 |\n| Methyl orange | Red | Yellow | 3.2 - 4.4 |\n| Bromcresol green | Yellow | Blue | 3.8 - 5.4 |\n| Methyl red | Red | Yellow | 4.8 - 6.0 |\n| Litmus | Red | Blue | 5.0 - 8.0 |\n| Phenolphthalein | Colorless | Pink | 8.2 - 10.0 |\n\n**Example:**\nFor a buffer with pH = 4.44, methyl orange (3.2-4.4) would show yellow color.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "1.5.2 Equivalents of Acids and Bases",
+              "content": "**What is an Equivalent?**\nThe amount of a substance that reacts with or supplies one mole of H+ ions in an acid-base reaction.\n\n**For Acids:**\n- HCl: 1 equivalent (provides 1 H+)\n- H2SO4: 2 equivalents (provides 2 H+)\n- H3PO4: 3 equivalents (provides 3 H+)\n\n**For Bases:**\n- NaOH: 1 equivalent (provides 1 OH-)\n- Ca(OH)2: 2 equivalents (provides 2 OH-)\n- Al(OH)3: 3 equivalents (provides 3 OH-)\n\n**Normality (N):**\nNormality = Number of equivalents of solute / Liters of solution",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Normality in Acid-Base Reactions",
+              "content": "**Key Equation for Titration:**\nN1 × V1 = N2 × V2 (for acid-base neutralization)\n\nWhere:\n- N1 = Normality of acid\n- V1 = Volume of acid\n- N2 = Normality of base\n- V2 = Volume of base\n\n**Example 1.10:**\nWhat volume of 2.0 N NaOH is required to neutralize 25.0 mL of 2.70 N H2SO4?\n\n**Solution:**\nV2 = (N1 × V1) / N2\nV2 = (2.70 N × 25.0 mL) / 2.0 N\nV2 = 33.8 mL NaOH",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "1.5.3 Acid-Base Titrations - Introduction",
+              "content": "**What is an Acid-Base Titration?**\nA procedure for determining the amount of acid (or base) in a solution by determining the volume of base (or acid) of known concentration that will completely react with it.\n\n**Key Terms:**\n- **Titrant:** The solution of known concentration added from the burette (usually the base)\n- **Analyte:** The solution of unknown concentration being analyzed (usually the acid)\n- **Equivalence Point:** The point at which moles of acid = moles of base\n- **End Point:** The point at which the indicator changes color\n- **Titration Curve:** A plot of pH vs. volume of titrant added",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Equivalence Point vs. End Point",
+              "content": "**Equivalence Point:**\n- Stoichiometric point\n- Moles of acid = Moles of base\n- Theoretical point based on calculations\n- Solution contains only salt and water\n\n**End Point:**\n- Observational point\n- Where indicator changes color\n- Should match the equivalence point\n\n**Ideal Titration:**\nThe end point should be as close as possible to the equivalence point.\n\n**Indicator Selection:**\nChoose an indicator whose pH range includes the pH of the equivalence point.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "Titration Experiment",
+              "content": "**Experiment 1.1: Acid-Base Titration**\n\n**Objective:** Find the normality of a given HCl solution by titrating against 0.1 N NaOH.\n\n**Apparatus:**\n- 10 mL pipette, burette, 150 mL Erlenmeyer flask, beaker, funnel\n\n**Procedure Summary:**\n1. Clean and rinse burette with NaOH solution\n2. Fill burette with 0.1 N NaOH (record initial volume)\n3. Measure exactly 10 mL of HCl into flask\n4. Add 2-3 drops of phenolphthalein indicator\n5. Titrate until pink color persists\n6. Record final volume\n\n**Calculations:**\nV(NaOH) × N(NaOH) = V(HCl) × N(HCl)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "Titration Setup",
+              "content": "[Figure 1.2: The Techniques of Titration]\n[Figure 1.3: Titration Setup]\n\n**Key Components:**\n1. Burette (contains NaOH titrant)\n2. Erlenmeyer flask (contains HCl analyte + indicator)\n3. Burette clamp and stand\n\n**Procedure Steps:**\n1. Hold the flask neck in one hand\n2. Control the stopcock with the other hand\n3. Swirl flask gently and continuously\n4. Add NaOH until pink color persists\n\n**Observation:**\n- Color change: colorless to pink\n- Record initial and final burette readings",
+              "slide_type": "content"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "chapter_title": "Electrochemistry",
+      "sections": [
+        {
+          "section": "2.1",
+          "section_title": "Oxidation-Reduction Reactions",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Unit 2: Electrochemistry",
+              "content": "Welcome to Unit 2! In this unit, we will explore:\n- Oxidation-reduction (redox) reactions\n- Electrolysis of aqueous solutions\n- Quantitative aspects of electrolysis\n- Industrial applications of electrolysis\n- Voltaic cells\n- Corrosion and its prevention",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Section 2.1: Oxidation-Reduction Reactions",
+              "content": "By the end of this section, you will be able to:\n- Define redox reactions\n- Define oxidation in terms of electron transfer and change in oxidation number\n- Define reduction in terms of electron transfer and change in oxidation number\n- Identify oxidizing and reducing agents\n- Balance redox reactions using oxidation number and half-reaction methods",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "2.1.1 Oxidation - Definition",
+              "content": "**Original Definition:**\nThe addition of oxygen to a compound.\n\n**Modern Definition:**\nOxidation is a process in which an atom/element:\n- **Loses electrons**\n- **Increases its oxidation number**\n\n**Examples:**\n- Mg → Mg2+ + 2e- (loses 2 electrons)\n- Fe2+ → Fe3+ + e- (loses 1 electron)\n- S2- → S + 2e- (loses 2 electrons)\n\n**Key Concept:**\nThe species that is oxidized is called the **reducing agent**.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "2.1.2 Reduction - Definition",
+              "content": "**Original Definition:**\nThe production of a metal from its ore (removal of oxygen).\n\n**Modern Definition:**\nReduction is a process in which an atom/element:\n- **Gains electrons**\n- **Decreases its oxidation number**\n\n**Examples:**\n- Cu2+ + 2e- → Cu (gains 2 electrons)\n- Fe3+ + e- → Fe2+ (gains 1 electron)\n- Cl2 + 2e- → 2Cl- (gains 2 electrons)\n\n**Key Concept:**\nThe species that is reduced is called the **oxidizing agent**.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Redox Reactions - Key Concepts",
+              "content": "**Definition:**\nA redox reaction involves the transfer of electrons from a reducing agent to an oxidizing agent.\n\n**Key Points:**\n1. Oxidation and reduction ALWAYS occur together\n2. Can't have one without the other!\n3. The number of electrons lost = number of electrons gained\n\n**Example:**\nMg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)\n\n- Mg: 0 → +2 (losses 2e-) → **Oxidized**\n- H+: +1 → 0 (gains 2e-) → **Reduced**\n- Cl-: spectator ions\n\n**Reducing Agent:** Mg (causes reduction of H+)\n**Oxidizing Agent:** H+ (causes oxidation of Mg)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "2.1.3 Balancing Redox Reactions",
+              "content": "**Two Methods for Balancing Redox Reactions:**\n\n**1. Change in Oxidation Number Method:**\n- Used for reactions not in aqueous solution\n- Uses changes in oxidation numbers to balance electrons\n\n**2. Half-Reaction Method (Ion-Electron Method):**\n- Used for reactions in aqueous solution\n- Separates into oxidation and reduction half-reactions\n- Balances atoms and charges separately",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Oxidation Number Method - Steps",
+              "content": "**Step 1:** Write the unbalanced chemical equation\n\n**Step 2:** Assign oxidation numbers to all elements\n\n**Step 3:** Identify oxidized and reduced species\n\n**Step 4:** Compute electrons lost and gained\n\n**Step 5:** Multiply by factors to equalize electrons lost/gained\n\n**Step 6:** Complete balancing by inspection",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "Example: Oxidation Number Method",
+              "content": "**Example 2.1:** Balance: PbS + O2 → PbO + SO2\n\n**Step 1:** PbS + O2 → PbO + SO2\n\n**Step 2:** Pb(+2)S(-2) + O(0) → Pb(+2)O(-2) + S(+4)O2(-2)\n\n**Step 3:**\n- S: -2 → +4 (loses 6e-) → Oxidized\n- O: 0 → -2 (gains 2e- each) → Reduced\n\n**Step 4:** S loses 6e-, O gains 4e- total\n\n**Step 5:** Multiply O2 by 3/2 to equalize: 6e- lost = 6e- gained\n\n**Step 6:** PbS + 3/2 O2 → PbO + SO2\n\n**Balanced equation:** 2PbS + 3O2 → 2PbO + 2SO2",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "Half-Reaction Method - Steps",
+              "content": "**Step 1:** Separate into oxidation and reduction half-reactions\n\n**Step 2:** Balance each half-reaction:\n- Balance atoms (other than O and H first)\n- Balance O: Add H2O\n- Balance H: Add H+ (acidic) or H+ + OH- (basic)\n- Balance charge: Add e-\n\n**Step 3:** Multiply half-reactions to equalize electrons\n\n**Step 4:** Add half-reactions and cancel electrons\n\n**Step 5:** Check atoms and charges are balanced",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "Example: Half-Reaction Method (Acidic)",
+              "content": "**Example 2.2:** Balance in acidic medium:\nFe2+ + Cr2O72- → Fe3+ + Cr3+\n\n**Step 1:** Separate half-reactions\n- Oxidation: Fe2+ → Fe3+\n- Reduction: Cr2O72- → Cr3+\n\n**Step 2:** Balance each\n- Oxidation: Fe2+ → Fe3+ + e-\n- Reduction (acidic): 14H+ + Cr2O72- + 6e- → 2Cr3+ + 7H2O\n\n**Step 3:** Equalize electrons (multiply oxidation by 6)\n- Oxidation: 6Fe2+ → 6Fe3+ + 6e-\n- Reduction: 14H+ + Cr2O72- + 6e- → 2Cr3+ + 7H2O\n\n**Step 4:** Add:\n6Fe2+ + 14H+ + Cr2O72- → 6Fe3+ + 2Cr3+ + 7H2O",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "Example: Half-Reaction Method (Basic)",
+              "content": "**Example 2.2:** Balance in basic medium:\nMnO4- + I- → MnO2 + I2\n\n**Step 1:** Separate\n- Oxidation: I- → I2\n- Reduction: MnO4- → MnO2\n\n**Step 2:** Balance (as if acidic first)\n- Oxidation: 2I- → I2 + 2e-\n- Reduction: MnO4- + 4H+ + 3e- → MnO2 + 2H2O\n\n**Step 3:** Equalize (multiply oxidation by 3, reduction by 2)\n- Oxidation: 6I- → 3I2 + 6e-\n- Reduction: 2MnO4- + 8H+ + 6e- → 2MnO2 + 4H2O\n\n**Step 4:** Add: 6I- + 2MnO4- + 8H+ → 3I2 + 2MnO2 + 4H2O\n\n**Step 5:** Add OH- to both sides for basic:\n6I- + 2MnO4- + 4H2O → 3I2 + 2MnO2 + 8OH-",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "2.2",
+          "section_title": "Electrolysis of Aqueous Solutions",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 2.2: Electrolysis of Aqueous Solutions",
+              "content": "In this section, we will learn:\n- Differentiate between metallic and electrolytic conductivity\n- Draw and label electrolytic cells\n- Define preferential discharge\n- Explain factors affecting preferential discharge\n- Describe electrolysis of dilute H2SO4, NaOH, NaCl\n- Describe electrolysis of CuSO4 with inert and active electrodes",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Conductivity - Two Types",
+              "content": "**1. Metallic (Electronic) Conduction:**\n- Occurs in metals and alloys\n- Due to flow of delocalized electrons\n- NO chemical change\n- Conductivity decreases with temperature\n\n**2. Electrolytic Conduction:**\n- Occurs in electrolytes (molten or dissolved)\n- Due to movement of ions\n- Chemical changes occur at electrodes\n- Conductivity increases with temperature\n\n**Key Distinction:**\nMetallic conduction = electron flow\nElectrolytic conduction = ion movement",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Experiment 2.1: Electrical Conductivity Test",
+              "content": "**Objective:** Classify substances as conductors and insulators.\n\n**Materials:**\nCopper wire, light bulb, power supply, scotch tape, distilled water, 1M NaCl, 1M H2SO4, 1M CH3COOH, 1M sugar solution, magnesium ribbon, iron nail.\n\n**Procedure:**\n1. Polish copper, iron, and magnesium strips\n2. Connect as shown in Figure 2.2\n3. Test solid materials\n4. Test solutions: water, NaCl, H2SO4, CH3COOH, sugar\n\n**Results:**\n- **Strong electrolytes:** NaCl, H2SO4 (bright light)\n- **Weak electrolyte:** CH3COOH (dim light)\n- **Non-electrolyte:** Sugar (no light)\n- **Conductors:** Iron, magnesium\n- **Insulator:** Sulphur",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "2.2.1 Electrolytic Cells",
+              "content": "**What is an Electrolytic Cell?**\nA device that uses electrical energy to drive a non-spontaneous chemical reaction.\n\n**Components:**\n1. **Electrolyte:** Ionic compound in molten or aqueous state\n2. **Electrodes:**\n   - Anode (+): Oxidation occurs\n   - Cathode (-): Reduction occurs\n3. **Power Source:** Supplies the electrical energy\n\n**Ion Movement:**\n- Cations (+) → move toward cathode (-)\n- Anions (-) → move toward anode (+)\n\n**Key Difference from Galvanic Cell:**\n- Electrolytic: Non-spontaneous, requires external energy\n- Galvanic: Spontaneous, produces electrical energy",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "2.2.2 Preferential Discharge",
+              "content": "**Definition:**\nPreferential discharge is the selective discharge of one type of ion at an electrode when multiple ions are present.\n\n**Factors Affecting Preferential Discharge:**\n\n**1. Position in Electrochemical Series:**\n- Ions lower in the series discharge first\n- Example: Cu2+ (lower) vs. Na+ (higher) → Cu2+ discharges first\n\n**2. Concentration of Ions:**\n- Higher concentration favors discharge\n- Example: Concentrated NaCl → Cl- at anode\n- Dilute NaCl → OH- at anode\n\n**3. Nature of Electrode:**\n- Inert electrodes (graphite, Pt): Don't participate\n- Active electrodes (Cu, Ag): Can participate in reaction",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Activity Series of Metals",
+              "content": "**Reactivity Series (Table 2.1):**\n\n**Most Reactive (Displace H from cold water, steam, acids):**\nLi > K > Ba > Sr > Ca > Na\n\n**Reactive (Displace H from steam and acids):**\nMg > Al > Zn > Cr > Fe > Cd\n\n**Moderately Reactive (Displace H from acids only):**\nCo > Ni > Sn > Pb\n\n**Hydrogen:** Included for comparison\n\n**Least Reactive (Unreactive):**\nCu > Hg > Ag > Pt > Au\n\n**Key Rule:**\nA metal can displace metal ions BELOW it in the series, but NOT above.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Ease of Discharge of Ions",
+              "content": "**Cations (Discharge at Cathode):**\n- From bottom to top (easier to harder):\n  Au3+ > Ag+ > Cu2+ > H+ > Fe2+ > Zn2+ > Al3+ > Na+ > K+\n\n**Anions (Discharge at Anode):**\n- From bottom to top (easier to harder):\n  S2- > I- > Br- > Cl- > OH- > NO3- > SO42-\n\n**Example:**\nIf a solution has K+ and Cu2+:\n- Cu2+ discharges first (lower in series)\n- K+ remains in solution\n\n**Example:**\nIf a solution has OH- and Cl-:\n- OH- normally discharges first\n- But if Cl- is very concentrated, Cl- may discharge first",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "2.2.3 Electrolysis of Aqueous Solutions",
+              "content": "**General Process:**\n- Ions migrate to electrodes\n- Cations reduced at cathode\n- Anions oxidized at anode\n\n**Factors to Consider:**\n1. Which ions are present?\n2. Which ion will discharge preferentially?\n\n**Selected Solutions:**\n1. Dilute NaCl\n2. Concentrated NaCl (brine)\n3. Dilute H2SO4\n4. Dilute NaOH\n5. CuSO4 (with inert electrodes)\n6. CuSO4 (with Cu electrodes)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "Electrolysis of Concentrated NaCl (Brine)",
+              "content": "**Ions Present:** Na+, H+, Cl-, OH-\n\n**Cathode (-):**\nH+ (reduction potential: -0.83V) vs Na+ (-2.71V)\n→ H+ discharges preferentially\n2H+ + 2e- → H2(g)\n\n**Anode (+):**\nCl- vs OH- (both possible, but concentrated Cl- wins)\n2Cl- → Cl2(g) + 2e-\n\n**Overall Reaction:**\n2H+ + 2Cl- → H2(g) + Cl2(g)\n\n**Byproduct:**\nNaOH forms as OH- concentration increases\n\n**Uses:**\n- H2: Fuel, chemical feedstock\n- Cl2: Water treatment, bleach production\n- NaOH: Soap, paper, aluminum production",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "Experiment 2.2: Electrolysis of NaCl",
+              "content": "**Objective:** Electrolyze NaCl solution and observe reactions at electrodes.\n\n**Procedure:**\n1. Prepare 0.1 M NaCl solution\n2. Transfer to beaker\n3. Immerse graphite electrodes\n4. Set up as shown in Figure 2.5\n\n**Observations:**\n- Gas bubbles at both electrodes\n- Cathode: H2 gas (pop test)\n- Anode: Cl2 gas (bleach smell)\n\n**Electrode Reactions:**\n- Cathode: 2H+ + 2e- → H2(g)\n- Anode: 2Cl- → Cl2(g) + 2e-\n\n**Overall:** 2H+ + 2Cl- → H2 + Cl2",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "Electrolysis of Dilute NaCl",
+              "content": "**Ions Present:** Na+, H+, Cl-, OH-\n\n**At Dilute Concentrations:**\n- OH- is lower in electrochemical series than Cl-\n- OH- discharges preferentially at anode\n\n**Cathode:**\n2H+ + 2e- → H2(g)\n\n**Anode:**\n4OH- → 2H2O + O2(g) + 4e-\n\n**Overall Reaction:**\n4H+ + 4OH- → 2H2 + O2 + 2H2O\n- This is essentially the electrolysis of water!\n\n**Key Difference:**\n- Concentrated NaCl → Cl2 at anode\n- Dilute NaCl → O2 at anode",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 12,
+              "title": "Electrolysis of Dilute H2SO4",
+              "content": "**Ions Present:** H+, SO42-, OH-\n\n**Cathode:**\nH+ discharges\n4H+ + 4e- → 2H2(g)\n\n**Anode:**\nOH- discharges (lower than SO42-)\n4OH- → 2H2O + O2(g) + 4e-\n\n**Overall Reaction:**\n2H2O → 2H2(g) + O2(g)\n\n**Observation:**\n- The water decomposes into H2 and O2\n- The acid concentration increases (H+ from water left behind)\n- Same as electrolysis of water!",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 13,
+              "title": "Electrolysis of Dilute NaOH",
+              "content": "**Ions Present:** Na+, OH-\n\n**Cathode:**\n2H2O + 2e- → H2(g) + 2OH-\n\n**Anode:**\n4OH- → 2H2O + O2(g) + 4e-\n\n**Overall Reaction:**\n2H2O → 2H2(g) + O2(g)\n\n**Observation:**\n- Again, water decomposes!\n- Na+ remains in solution\n- NaOH concentration increases\n\n**Key Point:**\nElectrolysis of dilute H2SO4, NaOH, and NaCl all result in decomposition of water.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 14,
+              "title": "Electrolysis of CuSO4 with Inert Electrodes",
+              "content": "**Ions Present:** Cu2+, H+, SO42-, OH-\n\n**Cathode:**\nCu2+ discharges (higher reduction potential than H+)\nCu2+ + 2e- → Cu(s)\n\n**Anode:**\nOH- discharges (lower than SO42-)\n4OH- → 2H2O + O2(g) + 4e-\n\n**Overall Reaction:**\n2Cu2+ + 4OH- → 2Cu(s) + 2H2O + O2(g)\n\n**Results:**\n- Cu metal deposited on cathode\n- O2 gas evolved at anode\n- Solution becomes acidic (H+ and SO42- form H2SO4)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 15,
+              "title": "Electrolysis of CuSO4 with Cu Electrodes",
+              "content": "**Active Electrodes (Copper):**\n\n**Cathode:**\nCu2+ + 2e- → Cu(s) (deposited)\n\n**Anode:**\nCu(s) → Cu2+ + 2e- (dissolves)\n\n**Overall Reaction:**\nCu(anode) → Cu(cathode)\n\n**Results:**\n- Mass of cathode increases\n- Mass of anode decreases\n- CuSO4 concentration remains constant\n- This is the principle of **copper refining**\n\n**Application:**\n- Purification of copper\n- Electroplating of copper",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "2.3",
+          "section_title": "Quantitative Aspects of Electrolysis",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 2.3: Quantitative Aspects of Electrolysis",
+              "content": "In this section, we will learn:\n- State Faraday's first law of electrolysis\n- Write mathematical expressions for the first law\n- Perform calculations using the first law\n- State Faraday's second law of electrolysis\n- Write mathematical expressions for the second law\n- Perform calculations using the second law",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "2.3.1 Faraday's First Law of Electrolysis",
+              "content": "**Statement:**\nThe mass of a substance (m) deposited or dissolved at an electrode during electrolysis is directly proportional to the quantity of electricity (Q) passed through the electrolyte.\n\n**Mathematically:**\n- m ∝ Q\n- m = zQ (where z is electrochemical equivalent)\n- m = (E × I × t) / F\n\n**Where:**\n- E = Equivalent weight of substance\n- I = Current in amperes\n- t = Time in seconds\n- F = Faraday's Constant = 96,500 C/mol e-\n\n**Equivalent Weight:**\nE = Molar mass / Valence\n\n**Alternative Form:**\nm = (M × I × t) / (n × F)\nWhere n = number of electrons transferred per ion",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Understanding the First Law",
+              "content": "**Key Relationships:**\n\n1 mole of electrons = 6.02 × 1023 electrons = 96,500 C (1 Faraday)\n\n**Examples:**\n- To deposit 1 mol of Na: need 1 mol e-\n- To deposit 1 mol of Mg: need 2 mol e-\n- To deposit 1 mol of Al: need 3 mol e-\n\n**Half-Reactions:**\n- Na+ + e- → Na\n- Mg2+ + 2e- → Mg\n- Al3+ + 3e- → Al\n\n**Stoichiometry:**\n- 2 mol e- produce 1 mol Mg (24.3 g)\n- 3 mol e- produce 1 mol Al (27.0 g)\n- 1 mol e- produces 1 mol Ag (107.9 g)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Example: Faraday's First Law Calculation",
+              "content": "**Example 2.4:**\nCalculate the mass of calcium metal and chlorine gas produced when a current of 0.452 A is passed through molten CaCl2 for 1.5 h.\n\n**Step 1:** Write half-reactions\n- Cathode: Ca2+ + 2e- → Ca(s)\n- Anode: 2Cl- → Cl2(g) + 2e-\n\n**Step 2:** Calculate charge\nQ = I × t = 0.452 A × (1.5 × 60 × 60 s) = 0.452 × 5400 = 2440.8 C\n\n**Step 3:** Calculate moles of electrons\nmoles e- = Q / F = 2440.8 / 96,500 = 0.0253 mol e-\n\n**Step 4:** Calculate mass of Ca\n2 mol e- → 1 mol Ca (40.08 g)\n0.0253 mol e- → x g Ca\nx = (0.0253 × 40.08) / 2 = 0.507 g Ca\n\n**Step 5:** Calculate mass of Cl2\n2 mol e- → 1 mol Cl2 (71 g)\n0.0253 mol e- → x g Cl2\nx = (0.0253 × 71) / 2 = 0.898 g Cl2",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "2.3.2 Faraday's Second Law of Electrolysis",
+              "content": "**Statement:**\nThe masses of different substances liberated or dissolved by the same quantity of electricity are proportional to their equivalent masses.\n\n**Mathematically:**\nm1 / m2 = E1 / E2\n\n**For Multiple Cells in Series:**\nm1 / E1 = m2 / E2 = m3 / E3 = k (constant)\n\n**Example:**\nThree cells connected in series with H2SO4, CuSO4, and AgNO3:\n- H2SO4: H2 and O2 liberated\n- CuSO4: Cu deposited\n- AgNO3: Ag deposited",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Example: Faraday's Second Law Calculation",
+              "content": "**Example 2.5:**\nCalculate the mass of copper deposited by electrolysis of CuSO4 in series with AgNO3 when 0.108 g of Ag is deposited.\n\n**Step 1:** Find equivalent weights\n- Ag: Ag+ + e- → Ag\n  EAg = 108 / 1 = 108 g/eq\n- Cu: Cu2+ + 2e- → Cu\n  ECu = 63.5 / 2 = 31.75 g/eq\n\n**Step 2:** Use the proportion\nmAg / EAg = mCu / ECu\n\n**Step 3:** Solve for mCu\nmCu = (ECu × mAg) / EAg\nmCu = (31.75 × 0.108) / 108\nmCu = 0.032 g",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "2.4",
+          "section_title": "Industrial Application of Electrolysis",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 2.4: Industrial Applications of Electrolysis",
+              "content": "In this section, we will learn:\n- Mention industrial applications of electrolysis\n- Explain electroplating and electrorefining\n- Demonstrate copper refining\n- Explain how electrolysis is used to produce metals, nonmetals, and compounds",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Industrial Applications of Electrolysis",
+              "content": "**Major Applications:**\n\n1. **Extraction of Highly Reactive Metals**\n   - Aluminum, sodium, magnesium\n   - Can't be obtained by chemical reduction\n\n2. **Refining of Metals**\n   - Purification of copper, zinc, tin\n   - Removes impurities\n\n3. **Electroplating**\n   - Decorative coating\n   - Corrosion protection\n\n4. **Production of Nonmetals and Compounds**\n   - Chlorine, sodium hydroxide\n   - Fluorine",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Extraction of Metals by Electrolysis",
+              "content": "**Why Electrolysis for Active Metals?**\nMetals more reactive than carbon cannot be reduced by carbon.\n\n**Example: Extraction of Aluminum**\n\n**Raw Material:** Bauxite (Al2O3)\n\n**Process:**\n- Electrolyte: Molten Al2O3 in cryolite\n- Electrodes: Graphite\n\n**Reactions:**\n- Cathode (reduction): 4Al3+ + 12e- → 4Al\n- Anode (oxidation): 6O2- → 3O2 + 12e-\n- Overall: 4Al3+ + 6O2- → 4Al + 3O2\n\n**Products:**\n- Molten aluminum at cathode (drains away)\n- Oxygen gas at anode (bubbles off)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Electrolytic Refining of Copper",
+              "content": "**Figure 2.7: Purification of Copper by Electrolysis**\n\n**Setup:**\n- Anode: Impure copper\n- Cathode: Pure copper strip\n- Electrolyte: CuSO4 solution with acid\n\n**Reactions:**\n- Anode: Cu → Cu2+ + 2e- (copper dissolves)\n- Cathode: Cu2+ + 2e- → Cu (pure copper deposits)\n\n**Impurities:**\n- Soluble impurities: Go into solution\n- Insoluble impurities: Settle as \"anode mud\"\n\n**Anode Mud Contains:**\n- Gold, silver, platinum, other precious metals\n- Can be recovered separately",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Experiment 2.3: Electroplating an Iron Key with Copper",
+              "content": "**Objective:** Electroplate an iron key with copper.\n\n**Setup (Figure 2.8):**\n- Anode (+): Copper plate\n- Cathode (-): Iron key\n- Electrolyte: CuSO4 + H2SO4\n\n**Procedure:**\n1. Clean copper plate and iron key with sandpaper\n2. Place copper plate as anode (positive terminal)\n3. Place iron key as cathode (negative terminal)\n4. Pass current for 15 minutes\n5. Remove and observe\n\n**Observations:**\n- Iron key becomes coated with copper\n- Copper plate loses mass\n\n**Reactions:**\n- Anode: Cu → Cu2+ + 2e-\n- Cathode: Cu2+ + 2e- → Cu",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Electrosynthesis of Nonmetals and Compounds",
+              "content": "**Production of Chlorine and Sodium Hydroxide:**\n\n**Brine Electrolysis (Chlor-Alkali Industry):**\n\n**Reactions (with graphite electrodes):**\n- Anode: 2Cl- → Cl2(g) + 2e-\n- Cathode: 2H2O + 2e- → H2(g) + 2OH-\n\n**Overall:**\n2NaCl + 2H2O → 2Na+ + 2OH- + Cl2 + H2\n\n**Products:**\n- Chlorine gas (Cl2)\n- Hydrogen gas (H2)\n- Sodium hydroxide (NaOH)\n\n**Other Electrolysis Products:**\n- Fluorine (from HF + KF melt)\n- Oxygen (from water electrolysis)",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "2.5",
+          "section_title": "Voltaic Cells",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 2.5: Voltaic Cells",
+              "content": "In this section, we will learn:\n- Define voltaic cells and salt bridges\n- Define electrode potential and cell potential\n- Explain standard electrode potential measurement\n- Describe the electrochemical series\n- Use the Nernst equation\n- Understand concentration cells\n- Explain corrosion and its prevention",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Introduction to Voltaic Cells",
+              "content": "**Definition:**\nA voltaic (galvanic) cell converts chemical energy from a spontaneous redox reaction into electrical energy.\n\n**Key Differences from Electrolytic Cell:**\n| Feature | Voltaic Cell | Electrolytic Cell |\n|---------|--------------|-------------------|\n| Reaction | Spontaneous | Non-spontaneous |\n| Energy | Produces electrical energy | Consumes electrical energy |\n| Anode | Negative (-) | Positive (+) |\n| Cathode | Positive (+) | Negative (-) |\n\n**Example: Daniell Cell**\n- Zn/ZnSO4 half-cell\n- Cu/CuSO4 half-cell",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "The Daniell Cell - Construction",
+              "content": "**Figure 2.9: Daniell Cell**\n\n**Components:**\n1. Zn electrode in ZnSO4 solution (anode)\n2. Cu electrode in CuSO4 solution (cathode)\n3. Salt bridge connecting solutions\n4. External wire connecting electrodes\n\n**Reactions:**\n- Anode (oxidation): Zn → Zn2+ + 2e-\n- Cathode (reduction): Cu2+ + 2e- → Cu\n- Overall: Zn + Cu2+ → Zn2+ + Cu\n\n**Electron Flow:**\nZn → wire → Cu (external circuit)\n\n**Ion Flow:**\n- K+ from salt bridge → CuSO4 solution\n- Cl- from salt bridge → ZnSO4 solution",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Purpose of the Salt Bridge",
+              "content": "**Function:**\n- Completes the electrical circuit\n- Maintains charge neutrality\n\n**Problem without Salt Bridge:**\n- As Zn dissolves: [Zn2+] increases → positive charge builds up\n- As Cu deposits: [Cu2+] decreases → negative charge builds up\n- This charge buildup stops the reaction\n\n**How Salt Bridge Works:**\n- Ions move to balance charge\n- K+ moves to cathode (CuSO4) to balance negative charge\n- Cl- moves to anode (ZnSO4) to balance positive charge\n\n**Ideal Salt Bridge Electrolyte:**\n- Ions that won't react with other ions or electrodes\n- Common choices: KCl, KNO3, NH4NO3",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Cell Notation",
+              "content": "**Purpose:** Shorthand notation for voltaic cells.\n\n**Conventions:**\n- Anode (oxidation) on LEFT\n- Cathode (reduction) on RIGHT\n- Single line | = phase boundary (electrode | solution)\n- Double line || = salt bridge\n\n**Example: Daniell Cell**\nZn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)\n\n**With Concentrations:**\nZn(s) | Zn2+(aq, 1.0M) || Cu2+(aq, 1.0M) | Cu(s)\n\n**General Form:**\nanode | anode electrolyte || cathode electrolyte | cathode\n\n**For Inert Electrodes (graphite):**\ngraphite | I-(aq) | I2(s) || MnO4-(aq), H+(aq), Mn2+(aq) | graphite",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Standard Electrode Potentials",
+              "content": "**The Standard Hydrogen Electrode (SHE):**\n\n**Reference Electrode:**\n2H+(1M) + 2e- → H2(1 atm) E° = 0.00 V\n\n**Construction (Figure 2.10):**\n- Pt electrode\n- H2 gas at 1 atm\n- HCl solution at 1 M\n\n**Measuring Unknown Potentials:**\nE°cell = E°cathode - E°anode\n\n**Example - Zn/Zn2+:**\n- Zn electrode with SHE\n- E°cell = 0.76 V\n- E°cell = E°H+/H2 - E°Zn2+/Zn\n- 0.76 = 0 - E°Zn2+/Zn\n- E°Zn2+/Zn = -0.76 V",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Standard Reduction Potentials Table",
+              "content": "**Table 2.3: Standard Reduction Potentials (25°C)**\n\n| Half-Reaction | E° (V) |\n|---------------|--------|\n| F2 + 2e- → 2F- | +2.87 |\n| Au3+ + 3e- → Au | +1.50 |\n| Cl2 + 2e- → 2Cl- | +1.36 |\n| O2 + 4H+ + 4e- → 2H2O | +1.23 |\n| Ag+ + e- → Ag | +0.80 |\n| Cu2+ + 2e- → Cu | +0.34 |\n| 2H+ + 2e- → H2 | 0.00 |\n| Fe2+ + 2e- → Fe | -0.44 |\n| Zn2+ + 2e- → Zn | -0.76 |\n| Al3+ + 3e- → Al | -1.66 |\n| Mg2+ + 2e- → Mg | -2.37 |\n| Na+ + e- → Na | -2.71 |\n| Li+ + e- → Li | -3.05 |\n\n**Key Relationships:**\n- Higher E° = stronger oxidizing agent (left side)\n- Lower (more negative) E° = stronger reducing agent (right side)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "Calculating Cell Potential",
+              "content": "**Formula:**\nE°cell = E°cathode - E°anode\n\n**Example 2.7:**\nCalculate E°cell for a cell with Mg and Ag electrodes.\n\n**Step 1:** Identify half-reactions\n- Mg2+ + 2e- → Mg: E° = -2.37 V\n- Ag+ + e- → Ag: E° = +0.80 V\n\n**Step 2:** Determine anode and cathode\n- Ag will be reduced (higher E°): cathode\n- Mg will be oxidized (lower E°): anode\n\n**Step 3:** Calculate\nE°cell = E°cathode - E°anode\nE°cell = 0.80 - (-2.37) = 3.17 V\n\n**Interpretation:**\nPositive E°cell = spontaneous reaction",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "The Nernst Equation",
+              "content": "**Purpose:** Calculate cell potential under non-standard conditions.\n\n**Equation:**\nEcell = E°cell - (0.0592/n) log Q\n\n**Where:**\n- Ecell = cell potential (non-standard)\n- E°cell = standard cell potential\n- n = number of electrons transferred\n- Q = reaction quotient\n\n**Example:**\nFor Zn + Cu2+ → Zn2+ + Cu\nE°cell = 1.10 V, n = 2\n\nIf [Cu2+] = 0.100 M and [Zn2+] = 1.0 × 10-5 M:\nQ = [Zn2+] / [Cu2+] = (1.0 × 10-5) / 0.100 = 1.0 × 10-4\nEcell = 1.10 - (0.0592/2) log(1.0 × 10-4)\nEcell = 1.10 - (0.0296)(-4) = 1.10 + 0.118 = 1.22 V",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "Concentration Cells",
+              "content": "**Definition:**\nA voltaic cell with two half-cells of the same material but different concentrations.\n\n**Figure 2.14: Concentration Cell**\n\n**Example:** Cu | Cu2+(0.10M) || Cu2+(1.0M) | Cu\n\n**Reactions:**\n- Anode (dilute): Cu → Cu2+(0.10M) + 2e-\n- Cathode (concentrated): Cu2+(1.0M) + 2e- → Cu\n\n**Overall:** Cu2+(1.0M) → Cu2+(0.10M)\n\n**Cell Potential:**\nEcell = 0 - (0.0592/2) log(0.10/1.0) = 0 + 0.0296 = 0.0296 V\n\n**How It Works:**\n- Dilute solution becomes more concentrated\n- Concentrated solution becomes more dilute\n- Cell operates until concentrations are equal",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "Batteries - Types",
+              "content": "**1. Primary Batteries (Non-rechargeable):**\n- Chemical reaction is irreversible\n- Discarded when dead\n\n**Examples:**\n- Dry cell (Leclanché cell)\n- Alkaline battery\n- Mercury battery\n\n**2. Secondary Batteries (Rechargeable):**\n- Chemical reaction is reversible\n- Can be recharged\n\n**Examples:**\n- Lead-storage battery (car battery)\n- Nickel-cadmium battery\n- Lithium-ion battery\n\n**3. Fuel Cells:**\n- Require continuous supply of reactants\n- Hydrogen-oxygen fuel cell (Figure 2.16)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 12,
+              "title": "Corrosion - The Rusting of Iron",
+              "content": "**Definition:**\nCorrosion is the deterioration of metals by an electrochemical process.\n\n**Key Facts about Rusting:**\n1. Moisture must be present\n2. Oxygen must be present\n3. Occurs at different places on the same object\n4. Faster at low pH\n5. Faster in ionic solutions\n\n**Electrochemical Process:**\n- Anodic region (site of iron loss):\n  Fe → Fe2+ + 2e-\n- Cathodic region (site of oxygen reduction):\n  O2 + 4H+ + 4e- → 2H2O",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 13,
+              "title": "Corrosion Prevention Methods",
+              "content": "**1. Protective Coating:**\n- Paint, oil, grease\n- Problem: Damage exposes bare metal\n\n**2. Galvanizing (Sacrificial Protection):**\n- Coat iron with zinc\n- Zinc is more active (E° = -0.76 V vs -0.44 V for Fe)\n- Zinc corrodes instead of iron\n- \"Sacrificial anode\"\n\n**3. Cathodic Protection:**\n- Connect iron to a more active metal\n- Example: Mg or Zn attached to pipelines, ships\n- Active metal acts as anode\n- Iron becomes cathode (protected)\n\n**4. Alloying:**\n- Stainless steel (Fe + Cr + Ni)\n- Chromium oxide layer protects\n\n**5. Barrier Methods:**\n- Non-conducting rubber/plastic spacers\n- Prevents metal-metal contact",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 14,
+              "title": "Figure 2.18 & 2.19: Metal-Metal Contact",
+              "content": "**Figure 2.18: Fe in contact with Cu (corrodes faster)**\n\n- Cu is less active than Fe\n- Fe acts as anode (loses electrons)\n- Corrosion is enhanced\n\n**Why?**\n- Fe prefers to be oxidized vs Cu\n- Creates a galvanic couple\n\n**Figure 2.19: Fe in contact with Zn (no corrosion)**\n\n- Zn is more active than Fe\n- Zn acts as anode (sacrificial)\n- Fe acts as cathode (protected)\n\n**This is \"Cathodic Protection\"**\n\n**Application:**\n- Galvanized steel\n- Sacrificial anodes on ships\n- Underground pipelines",
+              "slide_type": "content"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "chapter_title": "Industrial Chemistry",
+      "sections": [
+        {
+          "section": "3.1",
+          "section_title": "Introduction",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Unit 3: Industrial Chemistry",
+              "content": "Welcome to Unit 3! In this unit, we will explore:\n- Natural resources and industry\n- Manufacturing of valuable chemicals\n  - Ammonia, nitric acid, sulfuric acid\n  - Nitrogen-based fertilizers\n  - Sodium carbonate, sodium hydroxide\n- Manufacturing industries in Ethiopia\n  - Glass, ceramics, cement\n  - Sugar, paper and pulp\n  - Tannery, food processing\n  - Ethanol, soap and detergent",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Section 3.1: Introduction",
+              "content": "By the end of this section, you will be able to:\n- Define industrial chemistry\n- List general characteristics of chemical industries\n- Mention the role of industrial chemistry in society",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "What is Industrial Chemistry?",
+              "content": "**Definition:**\nA branch of chemistry that applies physical and chemical procedures to transform natural raw materials and their derivatives into products beneficial to humanity.\n\n**Key Role:**\nBridges the gap between chemistry as taught in schools and chemistry as practiced commercially.\n\n**Historical Context:**\n- 19th century industrial revolution\n- Chemical industries developed rapidly\n- Demand for chemical products increased\n- Today: synthetic fibers, plastics, rubber, fertilizers, dyes, drugs",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Characteristics of Chemical Industries",
+              "content": "**General Characteristics:**\n\n1. **Raw Materials:**\n   - Use naturally or artificially available raw materials\n   - Transform them into desired products\n\n2. **Chemical Reactions:**\n   - Involve chemical reactions to convert raw materials\n   - Produce finished and semi-finished products\n\n3. **Energy Consumption:**\n   - Consume relatively large quantities of energy\n   - During manufacturing processes\n\n4. **Safety:**\n   - Use safe operation methods\n   - Protect workers and environment\n\n5. **Quality Control:**\n   - Test products during and after manufacture\n   - Ensure products meet specifications",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Ethiopia's Industrial Potential",
+              "content": "**Mineral Resources:**\n- Iron, lead, copper, gold, platinum, tantalum\n- Many rare-earth metals\n- Rock salt, gypsum, coal, crude oil\n\n**Need for Industrial Revolution:**\n- Use mineral deposits\n- Produce various chemicals on a large scale\n- Economic growth and development\n\n**Current State:**\n- Industrial chemistry is crucial for developing countries\n- Ethiopia needs to develop its chemical industry\n- Imported chemicals can be replaced by local production",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "3.2",
+          "section_title": "Natural Resources and Industry",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 3.2: Natural Resources and Industry",
+              "content": "By the end of this section, you will be able to:\n- Define natural resources\n- List types of natural resources\n- Classify chemical industries by raw materials\n- Classify chemical industries by product type\n- Describe applications of minerals in industry",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "3.2.1 Natural Resources - Sources",
+              "content": "**Natural Resources are Raw Materials from:**\n\n**1. Atmosphere:**\n- 5 × 1015 tons of gases\n- N2, O2, CO2, Ne, Ar, Kr, Xe\n- Unlimited industrial supply\n\n**2. Hydrosphere:**\n- 1.5 × 1021 liters of seawater\n- NaCl, Mg, Br (3.5% dissolved solids)\n\n**3. Lithosphere:**\n- Mineral ores, carbon, hydrocarbons\n- Coal, natural gas, crude petroleum\n\n**4. Biosphere:**\n- Vegetation and animals\n- Oils, fats, waxes, resins\n- Sugar, natural fibers, leather",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Classification of Natural Resources",
+              "content": "**1. Renewable Resources:**\n\n**Definition:** Can be replenished through rapid natural cycles.\n\n**Examples:**\n- Plants (crops, forests) - reproduce\n- Animals - reproduce\n- Wood and wood products\n- Natural rubber, cotton, jute, wool, silk\n- Leather, pulp products\n- Water, soil\n- Solar energy (inexhaustible)\n\n**2. Non-Renewable Resources:**\n\n**Definition:** Exist in fixed amounts, cannot be replenished.\n\n**Examples:**\n- Fossil fuels (coal, petroleum, natural gas)\n- Minerals and ores",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Classification of Chemical Industries",
+              "content": "**Classification Based on Raw Materials:**\n\n**1. Use Natural Resources:**\n- Sugar industry: uses sugarcane\n- Paper industry: uses wood pulp\n\n**2. Use Products from Other Industries:**\n- Soap and detergent: uses caustic soda, caustic potash\n- Plastics: uses petroleum products\n\n**Classification Based on Product Type:**\n\n- Food processing industries\n- Beverage industries\n- Textile industries\n- Leather industries\n- Paper and chemical industries",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "3.3",
+          "section_title": "Manufacturing of Valuable Products/Chemicals",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 3.3: Manufacturing of Valuable Products",
+              "content": "In this section, we will learn about:\n- General methods of industrial production\n- Ammonia (Haber-Bosch process)\n- Nitric acid (Ostwald process)\n- Nitrogen-based fertilizers (urea, DAP)\n- Sulfuric acid (Contact process)\n- Pesticides and herbicides\n- Sodium carbonate (Solvay process)\n- Sodium hydroxide (NaOH)",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "3.3.1 Ammonia - Haber-Bosch Process",
+              "content": "**Properties of Ammonia:**\n- Colorless gas, sharp irritating odor\n- Density: 0.769 kg/m3 (lighter than air)\n- Melting point: -77.7°C, Boiling point: -33.35°C\n- Highly soluble in water (34% w/w at 25°C)\n- Weak base (forms NH4OH in water)\n\n**Uses of Ammonia:**\n- Cleaning agent, antimicrobial agent\n- Raw material for nitrogen fertilizers\n- Explosives (nitrocellulose, TNT)\n- Soda ash production\n- Nitric acid production (Ostwald process)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "The Haber-Bosch Process",
+              "content": "**Reaction:**\nN2 + 3H2 ⇌ 2NH3 (ΔH = -92 kJ/mol)\n\n**Conditions:**\n- Temperature: 300-500°C\n- Pressure: 15-25 MPa\n- Catalyst: Finely divided iron\n\n**Source of Reactants:**\n- N2: Fractional distillation of air\n- H2: Natural gas (methane) reforming\n\n**Process Steps:**\n1. Prepare H2 and N2\n2. React in chamber with iron catalyst\n3. Condense NH3 (boils at -33°C)\n4. Recycle unreacted gases\n\n**Yield:** ~97% conversion",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Figure 3.2: Ammonia Production",
+              "content": "[Figure 3.2: Production of NH3 using Haber-Bosch process]\n\n**Key Features:**\n1. Hydrogen and nitrogen mixed\n2. Passed over iron catalyst\n3. High pressure and moderate temperature\n4. Ammonia condensed out\n5. Unreacted gases recycled\n\n**Le Chatelier's Principle:**\n- High pressure favors product (fewer gas moles)\n- Low temperature favors product (exothermic)\n- But low temperature slows reaction\n- Catalyst allows moderate temperature",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "3.3.2 Nitric Acid - Ostwald Process",
+              "content": "**Properties:**\n- Colorless liquid, pungent odor\n- Density: 1.51 g/cm3\n- Turns brown on exposure to light (forms NO2)\n- Strong acid, strong oxidizing agent\n- Highly corrosive\n\n**Uses:**\n- Ammonium nitrate fertilizer\n- Organic nitrogen compounds (nitrobenzene)\n- Explosives (TNT, nitroglycerine)\n- Plastics, drugs, dyes\n\n**Reaction with Light:**\n4HNO3 → 4NO2 + O2 + 2H2O (brown gas)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "The Ostwald Process - Steps",
+              "content": "**Step 1:** Oxidation of ammonia\n4NH3 + 5O2 → 4NO + 6H2O\nCatalyst: Pt, Temperature: 850°C\n\n**Step 2:** Oxidation of NO to NO2\n2NO + O2 → 2NO2\n\n**Step 3:** Absorption in water\n3NO2 + H2O → 2HNO3 + NO\n\n**Recycling:**\n- NO from Step 3 returned to Step 2\n- Maximizes efficiency\n\n**Figure 3.7:** Nitric acid manufacturing process flow",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "3.3.3 Nitrogen-Based Fertilizers",
+              "content": "**Types of Nitrogen Fertilizers:**\n\n1. **Anhydrous Ammonia (NH3):**\n   - Pressurized liquid\n   - Injected into soil\n   - Most basic form\n\n2. **Urea ((NH2)2CO):**\n   - 46% nitrogen content\n   - Reacts: 2NH3 + CO2 → (NH2)2CO + H2O\n   - Soil reaction: (NH2)2CO + H2O → CO2 + 2NH3\n\n3. **UAN Solutions:**\n   - Urea + ammonium nitrate in water\n   - 50% amide-N, 25% ammonium-N, 25% nitrate-N\n\n4. **DAP ((NH4)2HPO4):**\n   - Contains N and P\n   - Produced from NH3 + H3PO4",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "DAP - Diammonium Monohydrogen Phosphate",
+              "content": "**Production:**\n\n**Step 1:**\n3NH3 + 2H3PO4 → NH4H2PO4 + (NH4)2HPO4\n\n**Step 2:**\nNH4H2PO4 + NH3 → (NH4)2HPO4\n\n**Uses of DAP:**\n- Fertilizer (both N and P essential)\n- Fire retardant\n- Yeast nutrient in wine and beer making\n\n**Soil Reaction:**\n- Temporarily increases soil acidity\n- Long-term: becomes more acidic\n- Nitrification of ammonium contributes to acidification",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "3.3.4 Sulfuric Acid - Contact Process",
+              "content": "**Properties:**\n- Colorless, odorless, heavy oily liquid\n- Molar mass: 98 g/mol\n- Melting point: 10.5°C, Boiling point: 338°C\n- Highly corrosive, exothermic with water\n- Strong oxidizing and dehydrating agent\n\n**Common Concentrations:**\n- 33.5%: Battery acid\n- 62.18%: Chamber acid (fertilizer production)\n\n**Reaction with Metals:**\nCu + 2H2SO4 → CuSO4 + SO2 + 2H2O",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "The Contact Process - Steps",
+              "content": "**Step 1: Production of SO2**\nS + O2 → SO2 (burning sulfur)\nOr: 4FeS2 + 11O2 → 2Fe2O3 + 8SO2 (roasting pyrite)\n\n**Step 2: Oxidation of SO2 to SO3**\n2SO2 + O2 ⇌ 2SO3\nCatalyst: V2O5, Temperature: 400-450°C, Pressure: 1-2 atm\n\n**Step 3: Formation of Oleum**\nSO3 + H2SO4 → H2S2O7 (oleum)\n\n**Step 4: Dilution to Sulfuric Acid**\nH2S2O7 + H2O → 2H2SO4\n\n**Figure 3.10:** Production of sulfuric acid (contact process)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "3.3.5 Pesticides and Herbicides",
+              "content": "**Definition:**\nChemicals used to prevent or control pests, diseases, weeds, and other plant pathogens.\n\n**Classification of Pesticides:**\n\n1. **Organochlorines:**\n   - C, H, Cl, O atoms\n   - Soluble in lipids, accumulate in fatty tissue\n   - Toxic to many animals, long-term persistence\n\n2. **Organophosphates:**\n   - Phosphorus-containing\n   - Less persistent than organochlorines\n\n3. **Carbamates:**\n   - Derived from carbamic acid\n   - Shorter persistence\n\n**Herbicides:**\n- Chlorophenoxy acids (2,4-D, 2,4,5-T)\n- Triazines (atrazine, simazine, hexazinone)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 12,
+              "title": "3.3.6 Sodium Carbonate - Solvay Process",
+              "content": "**Properties:**\n- White crystalline solid\n- Na2CO3·10H2O (decahydrate)\n- Melting point: 851°C, Boiling point: 1600°C\n- Hygroscopic, soluble in water\n- Forms alkaline solution (hydrolysis)\n\n**Uses:**\n- Glass manufacturing\n- Detergents, soaps\n- Water softening\n- Paper production\n\n**Solvay Process (Figure 3.10):**\n- Raw materials: NaCl, CaCO3, NH3, H2O\n- Main reactions given in textbook",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 13,
+              "title": "3.3.7 Sodium Hydroxide (NaOH)",
+              "content": "**Properties:**\n- White, translucent crystalline solid\n- Melting point: 591 K\n- Corrosive (caustic soda)\n- Dissolves readily in water (alkaline solution)\n- Moderately soluble in alcohol\n\n**Production Methods:**\n1. Castner-Kellner process (mercury cathode)\n2. Nelson Diaphragm cell\n3. Loewig's process\n\n**Castner-Kellner Process:**\n- Brine solution (NaCl)\n- Anode: Titanium (Cl2 produced)\n- Cathode: Mercury (Na amalgam formed)\n- Na amalgam + H2O → NaOH + H2 + Hg",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 14,
+              "title": "NaOH - Reactions and Uses",
+              "content": "**Reactions:**\nAnode: 2Cl- → Cl2 + 2e-\nCathode: 2Na+ + 2e- → 2Na (amalgam)\nAmalgam: 2Na + 2H2O → 2NaOH + H2\n\n**Uses:**\n- Pulp and paper manufacturing\n- Alumina extraction from bauxite (aluminum)\n- Textiles industry\n- Drinking water production\n- Soap and detergents\n- Washing soda production\n- Saponification reactions\n- Basic catalyst\n\n**Safety:**\n- Corrosive (skin and eye irritation)\n- High affinity for water (forms hydrates)\n- Requires careful storage",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "3.4",
+          "section_title": "Some Manufacturing Industries in Ethiopia",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 3.4: Manufacturing Industries in Ethiopia",
+              "content": "In this section, we will learn about:\n- Glass manufacturing\n- Ceramics manufacturing\n- Cement production\n- Sugar manufacturing\n- Paper and pulp\n- Tannery\n- Food processing and preservation\n- Ethanol manufacturing\n- Soap and detergent production\n\n**Current Status:**\n- More than 2228 manufacturing industries in Ethiopia\n- Chemical industry at nascent stage\n- Strong demand for development",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "3.4.1 Glass Manufacturing",
+              "content": "**What is Glass?**\n- Amorphous (non-crystalline) solid\n- Inexpensive to make\n- Easily shaped when molten\n- Reasonably heat resistant\n- Chemically inert\n- Can be recycled\n\n**Main Component:** Silica (SiO2)\n\n**Raw Materials:**\n- Sand (SiO2) - 60%\n- Sodium carbonate - 21%\n- Limestone - 19%\n\n**Steps:**\n1. Batch preparation (mixing)\n2. Glass melting (~1600°C)\n3. Glass forming (shaping)\n4. Annealing (slow cooling)\n5. Inspection\n6. Packing and dispatching",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "3.4.2 Ceramics Manufacturing",
+              "content": "**What are Ceramics?**\n- Inorganic, non-metallic solids\n- Prepared by heating and cooling\n\n**Types:**\n\n**Traditional Ceramics:**\n- Porcelain, tiles, pottery\n- Minerals: clay, talc, feldspar\n\n**Industrial Ceramics:**\n- Silicon carbide, alumina\n- Barium titanate, titanium carbide\n- Extremely pure powders\n\n**Steps:**\n1. Moulding (shaping with binders)\n2. Densification (1000-1700°C)\n\n**Properties:**\n- Hard, wear-resistant, brittle\n- Thermal and electrical insulators\n- Oxidation-resistant, chemically stable\n\n**Uses:** Art, kitchenware, tiles, electrical insulators, dental replacements",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "3.4.3 Cement Production",
+              "content": "**Raw Materials:**\n- Limestone (major)\n- Clay, silica sand\n- Gypsum, pumice\n- Calcium silicate, calcium aluminate\n\n**Manufacturing Process:**\n1. Heat limestone, clay, silica to 1450°C (calcination)\n2. Produces hard substance called **clinker**\n3. Grind clinker with gypsum\n4. Result: Ordinary Portland cement (OPC)\n\n**Kiln Reactions:**\n- Upper: Remove moisture\n- Middle: CaCO3 → CaO + CO2\n- Lower (1600°C): Forms calcium aluminates and silicates\n\n**Setting of Cement:**\n- Forms plastic mass with water\n- Hardens via cross-links\n- First set: 24 hours\n- Full hardening: 2 weeks",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "3.4.4 Sugar Manufacturing",
+              "content": "**Raw Material:** Sugarcane\n\n**Steps:**\n1. **Collecting Harvest:** Cut canes, remove leaves\n2. **Cleansing and Grinding:** Wash, shred, spray hot water\n3. **Juicing:** Rollers extract juice; bagasse (pulp) used as fuel\n4. **Clarifying:** Add CO2 and lime; removes impurities\n5. **Evaporation:** Boil under vacuum; forms syrup\n6. **Crystallization:** Evaporate water; crystals form\n7. **Refinery:** Remove molasses; filter; decolorize with SO2\n8. **Separation and Packaging:** Screen crystals\n\n**Product:** Sucrose (C12H22O11)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "3.4.5 Paper and Pulp",
+              "content": "**What is Paper?**\n- Mixture of rags and wood pulp\n- Additives, bleached, dried\n\n**Raw Materials:**\n- Softwoods: spruce, pine, fir\n- Hardwoods: eucalyptus, aspen, birch\n\n**Pulping Methods:**\n\n1. **Mechanical Pulping:**\n   - Steam, pressure, heat\n   - Short, weak fibres\n   - Used for newspapers\n\n2. **Chemical Pulping:**\n   - **Kraft Process:** NaOH + Na2S, 170°C\n   - **Sulphite Process:** NaHSO3 or Mg(HSO3)2\n   - Stronger, higher quality fibres",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Paper Manufacturing Steps",
+              "content": "**Steps:**\n\n1. **Harvesting:** Cut trees, transport to mill\n\n2. **Preparation:** Remove bark, chip wood\n\n3. **Pulping:** Convert wood to pulp\n   - Mechanical: Steam and pressure\n   - Chemical: Kraft or Sulphite process\n\n4. **Bleaching:** Remove colour, increase brightness\n   - Agents: Cl2, ClO2, O3, H2O2\n\n5. **Paper Making:**\n   - Pour pulp suspension on screen\n   - Water drains away\n   - Rollers compress and dry\n\n**Figure 3.16:** Paper production process",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "3.4.6 Tannery",
+              "content": "**Definition:**\nProcess of converting raw animal hides and skin to leather using tannin.\n\n**Stages:**\n\n1. **Preparatory Stages:**\n   - Curing: Salt or dry to prevent decay\n   - Soaking: Remove salt, dirt, blood\n   - Flesh removal: Strip flesh\n   - Hair removal: Liming (lime + water)\n   - Scudding: Remove remaining hair/fat\n   - Deliming: Remove lime with acid\n\n2. **Tanning:**\n   - **Vegetable:** Tannin from bark, leaves\n   - **Mineral:** Chromium sulfate (chrome tanning)\n\n3. **Crusting:** Dyeing, stretching, finishing",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "3.4.7 Food Processing and Preservation",
+              "content": "**Definition:**\nTreating and handling food to stop or reduce spoilage.\n\n**Causes of Spoilage:**\n- Bacteria, fungi, microorganisms\n- Oxidation of fats (rancidity)\n\n**Modern Methods:**\n\n1. **Freezing:**\n   - Commercial and domestic use\n   - Preserves wide range of foods\n\n2. **Freeze-Drying:**\n   - Gentle water vapor escape\n   - Maintains shape, taste, colour, aroma\n   - Coffee, tea, juices, vegetables, fish, meat\n\n3. **Other Methods:**\n   - Vacuum-packing\n   - Pasteurization",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "3.4.8 Manufacturing of Ethanol",
+              "content": "**Industrial Preparation:**\n\n**1. Fermentation of Carbohydrates:**\nC12H22O11 + H2O → C6H12O6 + C6H12O6 (sucrose → glucose + fructose)\n\nC6H12O6 → 2C2H5OH + 2CO2 (glucose → ethanol + CO2)\n\nCatalyst: Zymase (enzyme in yeast)\n\n**2. Catalytic Hydration of Ethene:**\nCH2=CH2 + H2O → CH3CH2OH\nCatalyst: H3PO4, Conditions: 573K, 60 atm",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "Ethanol: Alcoholic Beverages",
+              "content": "**Beer:**\n- Raw materials: Barley, hops\n- Process: Germination (malt) → Grind → Mash → Ferment → Store → Pasteurize\n- Alcohol: 2-6% by volume\n\n**Wine:**\n- Raw materials: Grapes (must)\n- Process: Crush → Ferment → Settle → Filter → Age\n- Alcohol: 10-16% by volume\n\n**Liquor:**\n- Higher alcohol content (30-45%)\n- Distilled from fermented solutions\n- Examples: Whisky (rye), cognac (grape), rum (sugarcane)\n\n**Local Ethiopian: Araki**\n- Barley → Bikel → Gesho (Rhamnus prinoides) → Ferment → Distill",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 12,
+              "title": "3.4.9 Soap and Detergent",
+              "content": "**Soap:**\n- Sodium or potassium salts of long-chain carboxylic acids\n- Hard soap: Sodium salt (Na+)\n- Soft soap: Potassium salt (K+)\n\n**Saponification Reaction:**\nFat + NaOH → Glycerol + Sodium carboxylate (Soap)\n\n**Example:**\nC3H5(OOC17H35)3 + 3NaOH → C3H5(OH)3 + 3C17H35COONa (glycerol + sodium stearate)\n\n**Structure:**\n- Hydrophobic (oil-soluble) end: Long hydrocarbon chain\n- Hydrophilic (water-soluble) end: -COONa group",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 13,
+              "title": "Soap Production Steps",
+              "content": "**Industrial Soap Production:**\n\n**Step 1: Saponification**\n- Mix tallow (animal fat) and coconut oil with NaOH\n- Heat\n\n**Step 2: Glycerine Removal**\n- Add salt (NaCl)\n- Soap separates from glycerine (more valuable)\n\n**Step 3: Soap Purification**\n- Neutralize excess NaOH with weak acid\n- Remove 2/3 of water\n\n**Step 4: Finishing**\n- Add preservatives, colour, perfume\n- Shape into bars\n\n**Figure 3.20:** Flow chart of soap making process",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 14,
+              "title": "Detergents vs Soap",
+              "content": "**Detergents (Soapless Soaps):**\n- Sodium salts of sulfonated long-chain organic alcohols\n- Structure: R-C6H4-SO3Na\n\n**Advantages of Detergents:**\n- Lather well in soft AND hard water\n- More soluble than soap\n- Don't form scum with hard water\n- Ca and Mg salts are soluble\n\n**Example: Sodium Lauryl Sulfate**\nC12H25OH + H2SO4 → C12H25OSO2OH (lauryl hydrogen sulfate)\nC12H25OSO2OH + NaOH → C12H25OSO2ONa + H2O (sodium lauryl sulfate)\n\n**Soap vs Detergent:**\n- Soap: -COONa group (forms scum with hard water)\n- Detergent: -SO3Na group (no scum formation)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 15,
+              "title": "Dry Cleaning",
+              "content": "**Definition:**\nCleaning clothes without water using organic solvents.\n\n**Why Dry Clean?**\n- Some clothes quality decreases with water\n- Natural fibres mixed with artificial fibres\n\n**Chemicals Used:**\n- Tetrachloromethane (CCl4)\n- Tetrachloroethylene (Cl2C=CCl2)\n- Benzene\n- Gasoline\n\n**How It Works:**\n- Solvents dissolve grease and stains\n- Similar to soaps but without water\n\n**Example:** Silk turns yellow with strong soap; dry cleaning preserves it.",
+              "slide_type": "content"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "chapter_title": "Polymers",
+      "sections": [
+        {
+          "section": "4.1",
+          "section_title": "Introduction to Polymers",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Unit 4: Polymers",
+              "content": "Welcome to Unit 4! In this unit, we will explore:\n- Introduction to polymers and monomers\n- Polymerization reactions (addition and condensation)\n- Classification of polymers\n- Natural and synthetic polymers\n- Properties and uses of common polymers\n- Polymer structures and applications",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Section 4.1: Introduction to Polymers",
+              "content": "By the end of this section, you will be able to:\n- Define the term monomer\n- Define the term polymer\n- Identify materials with polymeric nature\n\n**Key Terms:**\n- **Polymer:** From Greek \"poly\" (many) + \"meros\" (part)\n- **Monomer:** Small molecule building block\n- **Oligomer:** Few monomer units (<100)\n- **Degree of Polymerization (DP):** Number of monomer units",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "What is a Polymer?",
+              "content": "**Definition:**\nA large chainlike molecule built up from many repeating smaller molecules (monomers).\n\n**Examples of Polymers:**\n- Polyethylene (plastic bags)\n- Cellulose (wood, cotton)\n- Proteins (hair, skin, muscles)\n- DNA (genetic material)\n- Natural rubber\n\n**Structures:**\n- Linear (straight chains)\n- Slightly branched\n- Highly interconnected (3D network)\n\n**Size Measurement:**\n- Molar mass\n- Degree of Polymerization (DP)\n  - DP = Molar mass of polymer / Molar mass of monomer",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "What is a Monomer?",
+              "content": "**Definition:**\nThe small molecule used as the basic building block for polymers.\n\n**Examples:**\n- Ethylene (CH2=CH2) → Polyethylene\n- Glucose (C6H12O6) → Cellulose (wood)\n- Amino acids → Proteins\n- Styrene → Polystyrene\n- Vinyl chloride → PVC\n\n**Key Point:**\nMonomers must have two or more functional groups to form bonds with other monomers.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Activity 4.1: Identifying Polymers",
+              "content": "**Materials to Categorize:**\n- Textile fibre of your clothes\n- Your hair and skin\n- The wood from which your desk is made\n- The glass of the window\n\n**Discussion:**\n1. Which of these are polymers?\n2. What are the polymers made of?\n3. What are the monomer units?\n\n**Answers:**\n- Textile fibres: Polymers (natural or synthetic)\n- Hair and skin: Polymers (proteins, keratin)\n- Wood: Polymer (cellulose)\n- Glass: NOT a polymer (amorphous solid, not built from monomers)",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "4.2",
+          "section_title": "Polymerization Reactions",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 4.2: Polymerization Reactions",
+              "content": "In this section, we will learn:\n- Describe polymerization reactions\n- List types of polymerization\n- Give examples of addition polymers\n- Explain common uses of addition polymers\n- Give examples of condensation polymers\n- Explain uses of condensation polymers\n- List steps in addition polymerization",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "What is Polymerization?",
+              "content": "**Definition:**\nThe chemical change by which monomer units combine to form a polymer.\n\n**Essential Feature of Monomer:**\n- Must have two or more functional groups (polyfunctional)\n- Capacity to form bonds to at least two other monomers\n\n**Types of Polymers by Monomer Functionality:**\n- Bifunctional: Form linear chains\n- Higher functionality: Form cross-linked, network polymers\n\n**Two Main Types of Polymerization:**\n1. Addition Polymerization (Chain-Growth)\n2. Condensation Polymerization (Step-Growth)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Addition Polymerization (Chain-Growth)",
+              "content": "**Definition:**\nA chain reaction that adds new monomer units to the growing polymer molecule one at a time.\n\n**Key Features:**\n- Involves unsaturated monomers (alkenes)\n- Double bond converts to single bond\n- No loss of small molecules\n- Also called chain-growth polymerization\n\n**Example - Polyethylene:**\nnCH2=CH2 → [-CH2-CH2-]n\n\n**Example - Polystyrene:**\nnCH2=CH-C6H5 → [-CH2-CH(C6H5)-]n",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Steps of Addition Polymerization",
+              "content": "**1. Chain Initiation:**\n- Reactive initiator attacks monomer\n- Creates active site (free radical, cation, or anion)\n- Example: R· + CH2=CH2 → R-CH2-CH2·\n\n**2. Chain Propagation:**\n- Monomer adds to growing chain\n- Active site transfers to chain end\n- Chain grows rapidly\n\n**3. Chain Termination:**\n- Active site is neutralized\n- Stops chain growth\n- Two mechanisms:\n  - Combination: Two chains link\n  - Chain transfer: Activity moves to another chain",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Example: Determining Monomer from Polymer",
+              "content": "**Example 4.3:** PVC structure\n-[-CH2-CHCl-]n-\n\n**A. What is the monomer?**\n- Find the repeating unit: -CH2-CHCl-\n- Convert to monomer: CH2=CHCl (vinyl chloride)\n\n**B. How many monomer units in 1.33 × 105 g/mol PVC?**\n- Molar mass of vinyl chloride: 62.5 g/mol\n- n = (1.33 × 105) / 62.5 = 2,128 monomer units\n\n**Key Concept:**\nThe molecular formula of a polymer is n times that of the monomer.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Condensation Polymerization (Step-Growth)",
+              "content": "**Definition:**\nPolymerization where monomers combine with the release of a small molecule (water, methanol, etc.).\n\n**Key Features:**\n- Monomers with two or more functional groups\n- Small molecule (condensate) is eliminated\n- Also called step-growth polymerization\n\n**Examples:**\n- Polyamides (nylon): Diacid + Diamine → Nylon + H2O\n- Polyesters (Dacron): Diacid + Diol → Polyester + H2O\n- Proteins: Amino acids → Protein + H2O\n- Starch/Cellulose: Glucose → Polysaccharide + H2O",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Nylon 66 - A Condensation Polymer",
+              "content": "**Reaction:**\nnHOOC-(CH2)4-COOH + nH2N-(CH2)6-NH2 → ...\n\n**Polymer Structure:**\n-[-OC-(CH2)4-CO-NH-(CH2)6-NH-]n-\n\n**Monomers:**\n1. Adipic acid: HOOC-(CH2)4-COOH\n2. Hexamethylene diamine: H2N-(CH2)6-NH2\n\n**Name \"66\":**\n- Six carbon atoms in each monomer\n- (6 from diamine + 6 from diacid = 66)\n\n**Uses of Nylon:**\n- Parachutes, ropes, clothes\n- Hair combs, rugs\n- Stockings, carpet fibres\n- Reinforcing automobile tires",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "Dacron (Polyethylene Terephthalate)",
+              "content": "**Reaction:**\nnHOOC-C6H4-COOH + nHO-CH2CH2-OH → ...\n\n**Polymer Structure:**\n-[-OC-C6H4-COO-CH2CH2-O-]n-\n\n**Monomers:**\n1. Terephthalic acid: HOOC-C6H4-COOH\n2. Ethylene glycol: HO-CH2CH2-OH\n\n**Properties:**\n- Strong and impact resistant\n- Colourless, high transparency\n- Crease-resistant when mixed with cotton\n\n**Uses:**\n- Synthetic fibres (Dacron)\n- Bottles and packaging materials\n- Fabrics (durable, easily dyed)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "Experiment 4.1: Synthesis of Nylon",
+              "content": "**Objective:** Prepare nylon and study its properties.\n\n**Procedure:**\n1. Solution A: Hexamethylenediamine + NaOH solution\n2. Solution B: Adipoyl chloride in cyclohexane\n3. Slowly add B to A (pour down side of beaker)\n4. Nylon forms at the interface\n5. Draw thread using forceps/copper wire hook\n6. Wash, dry, and test:\n   - Stretch for strength\n   - Heat for melting behaviour\n   - Add HNO3 for acid resistance\n\n**Observations:**\n- Nylon forms at liquid-liquid interface\n- Strong fibre\n- Melts on heating\n- Resists acid attack",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "4.3",
+          "section_title": "Classification of Polymers",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 4.3: Classification of Polymers",
+              "content": "In this section, we will learn:\n- Categorize polymers based on different criteria\n- Identify natural and synthetic polymers\n- Know the monomer of natural rubber\n- List properties and applications of polymers\n- Draw structures of common polymers\n- Distinguish between thermoplastics and thermosets",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Classification by Monomer Composition",
+              "content": "**1. Homopolymers:**\n- Made from only ONE type of monomer\n- Example: Polyethylene from ethene\n  nCH2=CH2 → [-CH2-CH2-]n\n\n**2. Copolymers:**\n- Made from TWO or MORE types of monomers\n- Example: Ethene + Propene copolymer\n  nCH2=CH2 + mCH2=CH-CH3 → copolymer\n\n**Types of Copolymers:**\n- **Random:** Monomers arranged randomly\n  A-B-B-A-A-B-A-A\n- **Regular:** Monomers in regular alternating sequence\n  A-B-A-B-A-B-A-B",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Classification by Origin",
+              "content": "**Natural Polymers (Biopolymers):**\n\nOccur in nature and can be extracted.\n\n**Examples:**\n- **Carbohydrates:**\n  - Monosaccharides: glucose, fructose\n  - Disaccharides: sucrose, lactose, maltose\n  - Polysaccharides: starch, cellulose\n- **Proteins:** Enzymes, collagen, keratin\n- **Fibres:** Wool, silk, cotton\n- **Polyisoprenes:** Natural rubber\n- **Nucleic acids:** DNA, RNA\n\n**Synthetic Polymers (Plastics):**\n\nHuman-made polymers.\n\n**Examples:**\n- Polyethylene, polypropylene\n- Polyvinyl chloride (PVC)\n- Polytetrafluoroethylene (Teflon)\n- Polymethyl methacrylate (PMMA)\n- Polystyrene",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Classification by Thermal Behavior",
+              "content": "**1. Thermoplastics:**\n\n**Behaviour:** Melt when heated, resolidify when cooled.\n\n**Structure:** Linear or lightly branched chains.\n\n**Key Feature:** Can be remelted and reprocessed (recyclable).\n\n**Examples:**\n- Polyethylene (PE)\n- Polypropylene (PP)\n- Polyvinyl chloride (PVC)\n- Teflon (PTFE)\n- Nylon\n- Polyester (Dacron)\n- Polystyrene\n\n**2. Thermosetting Polymers (Thermosets):**\n\n**Behaviour:** Do NOT melt when heated; decompose irreversibly at high temperatures.\n\n**Structure:** Extensive 3D network of covalent bonds (cross-linked).\n\n**Key Feature:** Not recyclable.\n\n**Examples:**\n- Bakelite\n- Vulcanized rubber\n- Epoxy resins\n- Polyurethane",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Important Synthetic Polymers",
+              "content": "**Polyethylene (PE):**\n- Monomer: Ethylene (CH2=CH2)\n- Uses: Squeeze bottles, trash bags, electrical insulation\n- Figure 4.3: Structure\n\n**Polypropylene (PP):**\n- Monomer: Propylene (CH2=CHCH3)\n- Uses: Food containers, ropes, fishing nets, carpets\n- Figure 4.5: Structure\n\n**Polyvinyl Chloride (PVC):**\n- Monomer: Vinyl chloride (CH2=CHCl)\n- Uses: Pipes, floor tiles, raincoats, shoes\n- Figure 4.7: Structure",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "More Synthetic Polymers",
+              "content": "**Polymethyl Methacrylate (PMMA):**\n- Trade names: Lucite, Plexiglass\n- Monomer: Methyl methacrylate\n- Uses: Glass substitute (airplane windows, streetlights)\n- Figure 4.9: Structure\n\n**Polytetrafluoroethylene (PTFE):**\n- Trade name: Teflon\n- Monomer: Tetrafluoroethylene (CF2=CF2)\n- Properties: Chemical resistance, non-stick\n- Uses: Coating cookware, electrical insulation\n- Figure 4.10: Structure\n\n**Polystyrene:**\n- Monomer: Styrene\n- Uses: Foam cups, packaging\n\n**Bakelite:**\n- Thermoset polymer\n- Monomers: Phenol and formaldehyde\n- Uses: Electrical insulation, handles",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Natural Polymers - Carbohydrates",
+              "content": "**Monosaccharides (Glucose):**\n[Figure 4.1a: Glucose structure]\n\n**Disaccharides:**\n- Sucrose = glucose + fructose (Figure 4.1b)\n- Maltose = glucose + glucose\n- Lactose = glucose + galactose\n\n**Polysaccharides:**\n\n**Starch (Figure 4.2):**\n- α-1,4-glycosidic bonds\n- 300-600 glucose units\n- Energy storage in plants\n\n**Cellulose (Figure 4.2):**\n- β-1,4-glycosidic bonds\n- Structural polymer in wood, cotton\n- Most abundant organic compound on Earth",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "Natural Polymers - Protein and Rubber",
+              "content": "**Proteins (Figure 4.2):**\n- Monomers: Amino acids\n  - General formula: NH2-CH(R)-COOH\n- Structure: Chains of amino acids linked by peptide bonds\n- Examples: Skin, hair, muscles, enzymes\n- Formed by condensation polymerization\n\n**Natural Rubber (Figure 4.2):**\n- Monomer: Isoprene (2-methyl-1,3-butadiene)\n- Structure: Polyisoprene\n- Properties: Elastic, flexible\n- Source: Latex from rubber tree (Hevea brasiliensis)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "Natural Polymers - Nucleic Acids",
+              "content": "**DNA (Deoxyribonucleic Acid):**\n(Figure 4.2: Portion of DNA structure)\n\n**Monomer:** Nucleotide\n\n**Components:**\n1. Phosphate group\n2. Deoxyribose sugar\n3. Nitrogenous base (A, T, G, C)\n\n**Function:**\n- Hereditary material\n- Stores genetic information\n- Directs protein synthesis\n\n**RNA (Ribonucleic Acid):**\n- Similar to DNA\n- Ribose sugar (not deoxyribose)\n- Single-stranded\n- Uracil (U) instead of thymine (T)\n- Involved in protein synthesis",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "Summary: Polymer Classification",
+              "content": "**Classification Methods:**\n\n1. **By Monomer Composition:**\n   - Homopolymer (one monomer type)\n   - Copolymer (two or more monomer types)\n\n2. **By Polymerization Type:**\n   - Addition polymers (no loss of small molecules)\n   - Condensation polymers (loss of small molecules)\n\n3. **By Origin:**\n   - Natural polymers (biopolymers)\n   - Synthetic polymers (plastics)\n\n4. **By Thermal Behaviour:**\n   - Thermoplastics (melt and resolidify)\n   - Thermosets (decompose irreversibly)",
+              "slide_type": "content"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "chapter_title": "Introduction to Environmental Chemistry",
+      "sections": [
+        {
+          "section": "5.1",
+          "section_title": "Introduction",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Unit 5: Introduction to Environmental Chemistry",
+              "content": "Welcome to Unit 5! In this unit, we will explore:\n- Components of the environment\n- Natural cycles (hydrological, carbon, nitrogen, oxygen, sulfur, phosphorus)\n- Environmental pollution (air, water, land)\n- Global warming and climate change\n- Green chemistry and cleaner production",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Section 5.1: Introduction",
+              "content": "By the end of this section, you will be able to:\n- Define environmental chemistry\n- Define pollutant, contaminant, sink, BOD, TLV\n- List and describe components of the environment\n- Explain natural cycles\n- Write important reactions in each component\n\n**Environmental Chemistry Definition:**\nThe branch of chemistry dealing with the production, transport, reactions, effects, and fates of chemical species in the environment and the effects of human activities.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "5.1.1 Components of the Environment",
+              "content": "**Figure 5.2: Components of the Environment**\n\n**1. Atmosphere:**\n- Layers of gases (78% N2, 21% O2)\n- Temperature control, UV protection\n- Important reactions: Ozone depletion, acid rain formation\n\n**2. Hydrosphere:**\n- Combined mass of water on Earth\n- Oceans, rivers, lakes, groundwater\n- 1% fresh water\n\n**3. Lithosphere:**\n- Earth's crust and upper mantle\n- Rocks and soil\n\n**4. Biosphere:**\n- Realm of living organisms\n- Interactions with the environment",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Atmosphere - Important Reactions",
+              "content": "**1. Oxidation of Nitric Oxide:**\n2NO + O2 → 2NO2 (UV light)\n\n**2. Acid Rain Formation:**\nSO2 + H2O → H2SO3 (sulfurous acid)\nSO3 + H2O → H2SO4 (sulfuric acid)\nNO2 + H2O → HNO3 (nitric acid)\n\n**3. Ozone Depletion by CFCs:**\nCF2Cl2 + UV → CF2Cl + Cl·\nCl· + O3 → ClO· + O2\n\n**Key Points:**\n- Atmosphere absorbs IR radiation\n- Blocks damaging UV radiation\n- Allows transmission of visible light",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Hydrosphere - Important Reactions",
+              "content": "**Nitrification in Water Bodies:**\n\nBiological oxidation of NH4+ to nitrite and nitrate:\nNH4+ + 2O2 → NO3- + 2H+ + H2O\n\n**Source of Ammonia:**\n- Agriculture\n- Aquaculture\n- Industry\n\n**Effects:**\n- Toxicity to fish\n- Eutrophication (excess nutrients)\n- Accelerated aquatic plant growth\n\n**Eutrophication:**\n- Excess nutrients (nitrates, phosphates)\n- Algal blooms\n- Oxygen depletion\n- Death of aquatic life",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Lithosphere - Important Reactions",
+              "content": "**Bacterial Oxidation of Minerals:**\n\n2FeCO3 + 1/2O2 + 3H2O → 2Fe(OH)3 + 2CO2\n(by Ferrobacillus bacteria)\n\n**Chemical Weathering of Rocks:**\nFe2O3 + H2O → Fe2O3·H2O (hydration)\n\n**Other Reactions:**\n- Oxidation of minerals\n- Reduction of minerals\n- Formation of new compounds\n\n**Importance:**\n- Soil formation\n- Nutrient cycling\n- Rock weathering",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Biosphere - Important Reactions",
+              "content": "**1. Photosynthesis:**\n6CO2 + 6H2O → C6H12O6 + 6O2 (sunlight, chlorophyll)\n\n- Endothermic reaction\n- Absorbs 2803 kJ/mol of energy\n- Produces glucose and oxygen\n\n**2. Respiration:**\nC6H12O6 + 6O2 → 6CO2 + 6H2O + Energy\n\n- Exothermic reaction\n- Releases 2803 kJ/mol of energy\n- Consumes glucose and oxygen\n\n**3. Decomposition:**\n- Organic matter → CO2 + H2O + nutrients\n- Returns carbon to atmosphere",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "5.1.2 Natural Cycles - Introduction",
+              "content": "**Natural Cycles:**\nContinuous circulation of essential constituents in the environment.\n\n**Major Cycles:**\n1. **Hydrologic Cycle** (water cycle)\n2. **Oxygen Cycle**\n3. **Nitrogen Cycle**\n4. **Phosphorus Cycle**\n5. **Sulfur Cycle**\n6. **Carbon Cycle**\n\n**Importance:**\n- Maintain balance in the environment\n- Sustain life processes\n- Provide continuous supply of essential elements",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "The Hydrologic Cycle (Figure 5.3)",
+              "content": "**Processes:**\n1. **Evaporation:** Water → Water vapour (oceans, lakes)\n2. **Condensation:** Water vapour → Clouds\n3. **Precipitation:** Rain, snow, hail\n4. **Infiltration:** Water into soil/groundwater\n5. **Runoff:** Water flows to rivers, oceans\n\n**Key Points:**\n- 10% of evaporative losses from oceans precipitate on land\n- Groundwater percolates to surface soil\n- Continuous exchange between compartments\n\n**Importance:**\n- Most important natural cycle\n- Provides fresh water\n- Regulates climate",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "The Oxygen Cycle (Figure 5.4)",
+              "content": "**Important Reactions:**\n\n1. **Energy Production:**\n   CH4 + 2O2 → CO2 + 2H2O + Energy\n\n2. **Degradation of Organic Material:**\n   C6H12O6 + 6O2 → 6CO2 + 6H2O\n\n3. **Weathering of Minerals:**\n   4FeO + O2 → 2Fe2O3\n\n4. **Photosynthesis:**\n   6CO2 + 6H2O → C6H12O6 + 6O2 (sunlight)\n\n5. **Ozone Formation:**\n   O2 → O + O'\n   O + O2 → O3",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "The Nitrogen Cycle (Figure 5.5)",
+              "content": "**Important Reactions:**\n\n1. **Nitrogen Fixation (Bacteria/Algae):**\n   2N2 + 3CH2O + 3H2O + 4H+ → 3CO2 + 4NH4+\n\n2. **Nitrification (Nitrosomas/Nitrobacteria):**\n   2NH4+ + 3O2 → 2NO2- + 4H+ + 2H2O\n   2NO2- + O2 → 2NO3-\n\n3. **Nitrate Reduction:**\n   2NO3- + CH2O → 2NO2- + H2O + CO2\n\n4. **Denitrification:**\n   2NO3- + 5CH2O + 4H+ → N2 + 7H2O + 5CO2",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 12,
+              "title": "The Phosphorus Cycle (Figure 5.6)",
+              "content": "**Key Points:**\n- Essential for DNA, RNA, ATP\n- Growth/maintenance of bones and teeth\n\n**Sources:**\n- Inorganic phosphorus (soluble: H2PO4-, HPO42-)\n- Insoluble: Ca5(OH)(PO4)3, Fe3(PO4)2·8H2O\n\n**Processes:**\n1. Plants convert inorganic phosphate to organic phosphate\n2. Animals obtain phosphate by eating plants\n3. Phosphorus returned to soil upon death\n4. Soil microorganisms convert to soluble inorganic phosphate (mineralization)\n\n**Solubility Control:**\n- Acidic conditions: Fe and Al availability\n- Basic conditions: Ca availability",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 13,
+              "title": "The Sulfur Cycle",
+              "content": "**Importance:**\n- Essential component of amino acids\n- Present in all living matter\n\n**Forms of Sulfur:**\n- Sulfate (SO42-): Oxidation state +6\n- Sulfide (S2-): Oxidation state -2\n\n**Reactions:**\n\n**Atmospheric Oxidation:**\n2H2S + 4O2 → 2SO42- + 4H+\n\n**Sulfide Formation (Reduction):**\nSO42- + 2CH2O → S2- + 2H2O + 2CO2\n\n**Bacterial Oxidation:**\nS2- + 2O2 → SO42-\n\n**Sources:**\n- Volcanic emissions\n- Fossil fuel combustion\n- Bacterial activity",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 14,
+              "title": "The Carbon Cycle (Figure 5.7)",
+              "content": "**Key Process - Photosynthesis:**\n6CO2 + 6H2O → C6H12O6 + 6O2 (ΔH = +2803 kJ/mol)\n\n**Key Process - Respiration:**\nC6H12O6 + 6O2 → 6CO2 + 6H2O (ΔH = -2803 kJ/mol)\n\n**Carbon Returns to Environment:**\n1. Respiration (plants and animals)\n2. Decomposition of organic matter\n3. Combustion of fossil fuels\n4. Volcanic activity\n\n**Carbon Sinks:**\n- Oceans\n- Forests\n- Fossil fuel deposits\n\n**Carbon Dioxide Increase:**\n- 0.035% in atmosphere\n- Increasing due to human activities\n- Major contributor to global warming",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 15,
+              "title": "5.1.3 Key Concepts in Environmental Chemistry",
+              "content": "**Pollutant:**\nSubstance whose concentration has increased due to human activity, with detrimental effects.\nExample: SO2, CO2, O3, Pb, Hg\n\n**Contaminant:**\nSubstance introduced into the environment through human activity.\nExample: CFCs, PCBs\n(Becomes pollutant when it causes harm)\n\n**Sink:**\nMedium that interacts with and retains pollutants or converts them chemically.\n\n**Dissolved Oxygen (DO):**\n- Oxygen dissolved in water\n- Vital for aquatic life\n- Optimum: 4-8 mg/L\n- <4 mg/L = polluted\n\n**Biological Oxygen Demand (BOD):**\n- Measures oxygen consumed by decomposition of organic matter\n- Measured over 5 days\n- Higher BOD = more organic pollution\n\n**Threshold Limit Value (TLV):**\n- Permissible level of toxic pollutant\n- 8-hour exposure without adverse effects",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "5.2",
+          "section_title": "Environmental Pollution",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 5.2: Environmental Pollution",
+              "content": "In this section, we will learn:\n- Define environmental pollution\n- Describe air, water, and land pollution\n- Identify pollutants for each type\n- Describe effects of pollutants\n- Discuss methods to reduce pollution",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "Introduction to Pollution",
+              "content": "**Definition:**\nAny discharge of a solid, liquid, or gaseous substance or radiation into an environment that causes unwanted changes.\n\n**Effects:**\n- Short-term or long-term harm\n- Affects earth's ecological balance\n- Lowers quality of life\n\n**Types of Pollution:**\n1. Air Pollution\n2. Water Pollution\n3. Land Pollution\n\n**Pollutant:**\nAny substance that changes air, water, or natural resources in a way that impairs their use.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "5.2.1 Air Pollution",
+              "content": "**Atmospheric Composition (Table 5.1):**\n- Nitrogen: 78%\n- Oxygen: 20.95%\n- Argon: 0.93%\n- Water vapour: 0.08%\n- CO2: 0.04% (increasing)\n\n**Common Air Pollutants:**\n1. SO2 (sulphur dioxide)\n2. NOx (nitrogen oxides)\n3. CO (carbon monoxide)\n4. O3 (ozone)\n5. Hydrocarbons\n6. Particulates\n7. CFCs\n8. Lead compounds",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Air Pollutants - Sources and Effects",
+              "content": "**SO2:**\n- Sources: Combustion of coal/petroleum, metal extraction\n- Effects: Coughing, chest pains, bronchitis, lung disease\n\n**NOx:**\n- Sources: Combustion of fossil fuels, engines, furnaces\n- Effects: Ozone depletion, acid rain, photochemical smog\n\n**Reactions:**\nNO + O3 → NO2 + O2 (ozone depletion)\n2NO + O2 → 2NO2 (UV light)\n\n**Acid Rain Formation:**\nSO2 + H2O → H2SO3\nSO3 + H2O → H2SO4\nNO2 + H2O → HNO3",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Air Pollutants - More Examples",
+              "content": "**Hydrocarbons and Ozone:**\n- Cause photochemical smog (reddish-brown haze)\n- Irritates eyes, nose, lungs\n- Damages vegetation\n- Sources: Evaporation of gasoline, auto exhaust\n\n**Carbon Monoxide (CO):**\n- Sources: Incomplete combustion of fuel\n- Effects: Headaches, heart strain\n- Reduces oxygen-carrying capacity of blood (reacts with hemoglobin)\n\n**Particulates:**\n- Sources: Dust storms, forest fires, mining, burning coal\n- Effects: Irritate lungs, affect breathing\n- Contains: Limestone, coal, cement, silica",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "CFCs and Ozone Depletion",
+              "content": "**CFCs (Chlorofluorocarbons):**\n- Sources: Refrigerants, solvents, plastic foam-blowing agents\n- Penetrate upper atmosphere\n\n**Ozone Depletion Reactions:**\nCF2Cl2 + UV → CF2Cl + Cl·\nCl· + O3 → ClO· + O2\n\n**Result:**\n- Conversion of ozone to molecular oxygen\n- Depletion of ozone layer\n\n**Effects of Ozone Depletion:**\n- Dangerous UV radiation reaches Earth\n- Causes skin cancer in humans\n- Affects ecosystems\n\n**VOCs (Volatile Organic Compounds):**\n- Sources: Gasoline, paints, solvents, cleaners\n- Contribute to smog formation",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "CO2 and Global Warming",
+              "content": "**CO2 Sources:**\n- Combustion of coal and petroleum\n- 20 billion tonnes released annually\n\n**Greenhouse Effect:**\n- CO2 and H2O absorb infrared radiation\n- Behaves like glass in a greenhouse\n- Traps heat in the atmosphere\n\n**Global Warming:**\n- Increase in average global temperature\n- Melting of polar ice\n- Rising sea levels\n- Flooding of coastlines\n\n**Lead Contamination:**\n- Sources: Tetraethyl lead in fuels, lead paints\n- Effects: Damage to brain, kidneys, liver",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "Methods of Reducing Air Pollution",
+              "content": "**Individual Actions:**\n- Use public transport\n- Turn off lights when not in use\n- Recycle and reuse\n- Avoid using plastic bags\n- Reduce forest fires and smoking\n- Use fans instead of air conditioners\n\n**Industrial/Governmental Actions:**\n- Use filters for chimneys\n- Implement afforestation\n- Avoid using products with chemicals\n- Reduce usage of crackers\n- Use cleaner fuels",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 9,
+              "title": "5.2.2 Water Pollution",
+              "content": "**Definition:**\nDegradation of water quality by discharge of untreated sewage, industrial and agricultural waste, and oil spillage.\n\n**Major Water Pollutants:**\n1. Nitrate and phosphate fertilizers\n2. Phosphate detergents\n3. Untreated sewage\n4. Insecticides and herbicides\n5. Heavy metal ions\n6. Acidic/basic industrial residues\n\n**Sources:**\n- Agriculture (fertilizers, pesticides)\n- Industry (chemical waste, heavy metals)\n- Domestic (sewage, detergents)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 10,
+              "title": "Eutrophication",
+              "content": "**Definition:**\nThe process where excess nutrients (nitrates, phosphates) cause excessive growth of aquatic plants and algae.\n\n**Steps:**\n1. Nutrients enter water (fertilizers, sewage)\n2. Algae blooms (rapid growth)\n3. Algae block sunlight\n4. Bottom plants die\n5. Bacteria decompose dead plants\n6. Oxygen is consumed\n7. Dissolved oxygen decreases\n8. Fish and aquatic life die\n\n**Result:**\n- Dead zones in water bodies\n- Loss of aquatic life\n- Water quality degradation\n\n**Other Sources:**\n- Domestic sewage (contains nitrates/phosphates)\n- Solid waste (improper disposal)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 11,
+              "title": "Water Pollution - Other Pollutants",
+              "content": "**Fertilizers:**\n- Causes nitrate and phosphate pollution\n- From agriculture and animal waste\n- Leads to eutrophication\n\n**Insecticides (Pesticides) and Herbicides:**\n- Washed into water bodies\n- Some are persistent (do not decompose easily)\n- Bioaccumulate in food chain\n\n**Lead:**\n- Dangerous toxin\n- Dissolves readily in water\n- Leads to devastating health problems\n\n**Heavy Metals:**\n- Sources: Industrial waste, mining\n- Effects: Toxic to humans and aquatic life\n- Bioaccumulate in organisms",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 12,
+              "title": "Methods of Reducing Water Pollution",
+              "content": "**Treatment:**\n- Treat water before discharge into rivers/lakes\n- Wastewater treatment plants\n\n**Temperature Control:**\n- Industries should not discharge heat-ladened water\n- Maintain natural water temperatures\n\n**Waste Management:**\n- Recycle industrial and agricultural wastes\n- Proper disposal of hazardous waste\n\n**Agricultural Practices:**\n- Use moderate amounts of agricultural chemicals\n- Increase use of organic fertilizers\n- Use biological methods for pest control",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 13,
+              "title": "5.2.3 Land Pollution",
+              "content": "**Definition:**\nDegradation of land caused by human activities, including spillage of oil, leaching of harmful chemicals, and dumping of non-biodegradable wastes.\n\n**Causes:**\n1. Spillage of oil from leaking pipelines\n2. Harmful heavy metal ions from buried waste\n3. Leaching of chemicals from corroded metal drums\n4. Dumping of non-biodegradable wastes (plastics)\n5. Excessive use of synthetic fertilizers\n\n**Examples of Pollutants:**\n- Garbage\n- Plastics\n- Mercury (from batteries)\n- Electronic waste",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 14,
+              "title": "Non-Biodegradable Waste",
+              "content": "**Definition:**\nWaste that cannot be broken down by decomposers.\n\n**Examples:**\n- Glass\n- Medical waste\n- Plastics\n- Man-made synthetic materials\n- Electronic components (e-waste)\n- Cans\n- Nuclear waste\n- Man-made polymers\n- Artificial rubber\n\n**Problems:**\n- Remain unchanged for decades/hundreds of years\n- Accumulate in soil\n- Hinder air and water movement\n- Affect plant growth\n- Major source of soil, air, and water pollution\n- Cause serious diseases (cancer)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 15,
+              "title": "Methods of Reducing Land Pollution",
+              "content": "**Waste Management:**\n- Reduce non-biodegradable waste\n- Recycle plastics and metals\n- Proper disposal of hazardous waste\n\n**Agricultural Practices:**\n- Reduce excessive use of fertilizers\n- Use organic fertilizers\n- Practice sustainable agriculture\n\n**Safe Disposal Methods:**\n- Incineration (with proper controls)\n- Recycling\n- Composting organic waste\n- Landfill management\n- Waste-to-energy conversion\n\n**Prevention:**\n- Use biodegradable materials\n- Reduce consumption\n- Reuse items\n- Proper storage of chemicals",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "5.3",
+          "section_title": "Global Warming and Climate Change",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 5.3: Global Warming and Climate Change",
+              "content": "In this section, we will learn:\n- Describe global warming and climate change\n- List common greenhouse gases\n- Describe greenhouse gases and greenhouse effect\n- Discuss the chemistry of greenhouse gases\n- Classify greenhouse gases",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "5.3.1 Global Warming and Climate Change",
+              "content": "**What is Global Warming?**\nThe long-term increase in Earth's average surface temperature due to the enhanced greenhouse effect.\n\n**What is Climate Change?**\nLong-term changes in temperature, precipitation, wind patterns, and other aspects of Earth's climate system.\n\n**Chemistry's Role:**\n- Emission of certain substances causes greenhouse effect\n- Mainly from combustion of fuel:\n  CxHy + O2 → CO2 + H2O + energy\n\n**Key Sources:**\n- Combustion of fossil fuels\n- Manufactured products (CFCs, VOCs)\n- Natural sources (methane from oceans)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "Evidence of Global Warming",
+              "content": "**CO2 Emissions:**\n- Global CO2 emissions increased by >10 factors since 1900\n- US Department of Energy data\n- Mainly from fossil fuel combustion\n\n**Other Greenhouse Gases:**\n- Solvents\n- Chlorofluorocarbons\n- Volatile Organic Compounds (VOCs)\n- Nitrogen oxides\n- Sulphur oxides\n\n**Key Points:**\n- Some gases have greater greenhouse effect than CO2\n- Released in lower amounts\n- Many are generated with CO2 in combustion",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "5.3.2 The Greenhouse Effect",
+              "content": "**What is the Greenhouse Effect?**\nThe natural process where certain gases (greenhouse gases) trap heat in the Earth's atmosphere.\n\n**How It Works:**\n1. Sunlight reaches Earth's surface\n2. Earth emits infrared (IR) radiation\n3. Greenhouse gases absorb IR radiation\n4. Heat is trapped in the atmosphere\n5. Earth's temperature is maintained\n\n**Without Greenhouse Effect:**\n- Average temperature: 255 K (-18°C)\n\n**With Greenhouse Effect:**\n- Average temperature: 288 K (15°C)\n- 33°C warmer",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Greenhouse Gases",
+              "content": "**Main Greenhouse Gases:**\n1. Carbon dioxide (CO2)\n2. Methane (CH4)\n3. Nitrous oxide (N2O)\n4. Ozone (O3)\n5. Water vapour (H2O)\n6. Fluorinated gases (CFCs, HFCs)\n\n**Key Points:**\n- These gases absorb IR radiation\n- Present in small amounts but effective\n- N2 and O2 do NOT absorb IR\n- N2 and O2 are the most abundant but don't contribute to greenhouse effect\n\n**Greenhouse Effect Contributors:**\n- CO2: Most important anthropogenic gas\n- H2O: Most abundant greenhouse gas\n- CH4: More effective per molecule than CO2",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Contribution of Greenhouse Gases (Table 5.2)",
+              "content": "**1. Carbon Dioxide (CO2):**\n- Sources: Fuel use, deforestation, cement production\n- Atmosphere lifetime: 80% lasts 200 years, 20% up to 30,000 years\n- Contribution: 52.92%\n\n**2. Methane (CH4):**\n- Sources: Livestock, agriculture, sewage, fossil fuel distribution\n- Atmosphere lifetime: ~12 years\n- Contribution: 14.88%\n\n**3. Halogenated Compounds (CFCs & HCFCs):**\n- Sources: Refrigeration, AC, electronics, medicine\n- Atmosphere lifetime: Months to 10,000+ years\n- Contribution: 10.78%",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "More Greenhouse Gases (Table 5.2 cont.)",
+              "content": "**4. Tropospheric Ozone (O3):**\n- Sources: Reaction of CO, NO2, VOCs during fuel burning\n- Atmosphere lifetime: Months\n- Contribution: 10.72%\n\n**5. Nitrous Oxide (N2O):**\n- Sources: Fertilizers, fuel use, chemical production, sewage\n- Atmosphere lifetime: ~114 years\n- Contribution: 10.70%\n\n**Total Contribution:** ~95% of global warming from these five gases.\n\n**Other Gases:**\n- Water vapour (natural)\n- Perfluorocarbons (PFCs)\n- Sulfur hexafluoride (SF6)",
+              "slide_type": "content"
+            }
+          ]
+        },
+        {
+          "section": "5.4",
+          "section_title": "Green Chemistry and Cleaner Production",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "title": "Section 5.4: Green Chemistry and Cleaner Production",
+              "content": "In this section, we will learn:\n- Define green chemistry and cleaner production\n- Discuss the 12 principles of green chemistry\n- Explain atom economy\n- Calculate atom economy\n- Apply green chemistry principles in laboratory activities",
+              "slide_type": "title"
+            },
+            {
+              "slide_number": 2,
+              "title": "What is Green Chemistry?",
+              "content": "**Definition:**\nA movement to make chemical industries more environmentally friendly and sustainable.\n\n**Core Question:**\n\"Why generate pollution if there is a greener alternative?\"\n\n**Key Concept:**\nDesign processes that are \"benign by design\" - from raw materials to the end of the product's useful life.\n\n**Examples of Green Chemistry Solutions:**\n- Using liquid CO2 instead of toxic organic solvents in dry cleaning\n- Making ibuprofen in fewer steps (less waste, less energy)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 3,
+              "title": "The 12 Principles of Green Chemistry",
+              "content": "**1. Prevention:**\nBetter to prevent waste than to treat or clean it up.\n\n**2. Atom Economy:**\nMaximize incorporation of all materials into the final product.\n\n**3. Less Hazardous Chemical Synthesis:**\nDesign syntheses to use or generate substances with little or no toxicity.\n\n**4. Designing Safer Chemicals:**\nDesign chemicals with minimal toxicity while still fulfilling their function.\n\n**5. Safer Solvents and Auxiliaries:**\nAvoid solvents or use safer, innocuous ones.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 4,
+              "title": "Principles 6-12",
+              "content": "**6. Design for Energy Efficiency:**\nRun reactions at room temperature and pressure when possible.\n\n**7. Use of Renewable Feedstock:**\nUse renewable raw materials rather than depletable ones.\n\n**8. Reduce Derivatives:**\nMinimize unnecessary derivatization (blocking groups, protection/deprotection).\n\n**9. Catalysis:**\nUse catalytic reagents to improve efficiency and reduce waste.\n\n**10. Design for Degradation:**\nDesign products that break down into harmless degradation products.\n\n**11. Real-time Analysis for Pollution Prevention:**\nMonitor reactions in real-time to prevent byproduct formation.\n\n**12. Inherently Safer Chemistry for Accident Prevention:**\nChoose substances and processes that minimize the risk of accidents.",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 5,
+              "title": "Atom Economy - Definition",
+              "content": "**Definition:**\nA measure of the amount of starting materials that end up as useful products.\n\n**Formula:**\nAtom Economy = (Mass of desired product / Total mass of all products) × 100%\n\nOR\n\nAtom Economy = (Mass of desired product / Total mass of all reactants) × 100%\n\n**Perfect Atom Economy:**\n- 100% atom economy\n- All atoms of reactants become useful products\n- No byproducts formed\n- Example: Synthesis of ammonia (N2 + 3H2 → 2NH3)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 6,
+              "title": "Calculating Atom Economy - Example",
+              "content": "**Example:** Extracting iron\n\n**Reaction:**\nFe2O3 + 3CO → 2Fe + 3CO2\n\n**Step 1:** Calculate molar masses\n- Fe2O3: 2(56) + 3(16) = 160 g/mol\n- CO: 12 + 16 = 28 g/mol\n- Fe: 56 g/mol\n- CO2: 12 + 32 = 44 g/mol\n\n**Step 2:** Total mass of reactants = 160 + 3(28) = 244 g\n\n**Step 3:** Desired product = Fe (2 × 56 = 112 g)\n\n**Step 4:** Atom Economy = (112 / 244) × 100% = 45.9%\n\n**Interpretation:**\n- 45.9% of reactant atoms end up as useful iron\n- 54.1% become waste (CO2)",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 7,
+              "title": "Cleaner Production",
+              "content": "**Definition:**\nThe continuous application of an integrated, preventive environmental strategy to processes, products, and services.\n\n**Goals:**\n1. Reduce adverse environmental impacts through innovative choices\n2. Develop processes based on renewable raw materials\n3. Develop less toxic products\n4. Develop products that degrade more readily\n5. Reduce use of hazardous solvents\n6. Improve energy efficiency\n7. Minimize byproducts (better atom economy)\n\n**Ideal Chemical Reaction:**\n- Safe\n- Simple\n- Selective\n- High yield\n- Energy efficient\n- Renewable/recyclable materials\n- No hazardous byproducts",
+              "slide_type": "content"
+            },
+            {
+              "slide_number": 8,
+              "title": "Benefits of Green Chemistry",
+              "content": "**Environmental Benefits:**\n- Fewer raw materials and natural resources used\n- Cleaner production technologies\n- Reduced emissions\n- Smaller quantities of hazardous waste\n- Less waste to treat and dispose\n\n**Economic Benefits:**\n- Less waste = lower disposal costs\n- Energy efficiency = lower energy costs\n- Better atom economy = higher profits\n\n**Examples of Success:**\n- Ibuprofen synthesis: 6 steps (40% atom economy) → 3 steps (80% atom economy)\n- Recognized with EPA Greener Synthetic Pathways Award\n\n**Challenge:**\n- Awareness of benefits\n- Developing recyclable chemicals\n- Reducing hazardous waste\n- (Not: training for cleaning up spills - that's pollution control, not prevention)",
+              "slide_type": "content"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

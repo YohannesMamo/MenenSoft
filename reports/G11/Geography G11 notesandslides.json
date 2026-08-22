@@ -1,0 +1,965 @@
+{
+  "subject": "Geography",
+  "grade": 11,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "FORMATION OF CONTINENTS",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "FORMATION OF CONTINENTS",
+          "summary": "This section discusses the formation of the Earth and its continents. The Earth, along with other planets, forms the Solar System, which originated from the 'Big Bang' theory, a cosmic explosion about 10-20 billion years ago. The Earth itself formed about 4.5 billion years ago from gas and dust. The first cosmic rocks solidified around 4600-3900 Ma, forming the early continent 'Rodinia'. Over time, through continental drift, various supercontinents like Gondwana and Laurasia formed and eventually broke apart. Pangaea, the most recent supercontinent, existed around 255-210 Ma and began to break up around 180 Ma. This breakup continued, leading to the formation of the present-day continents and oceans. Continental drift, driven by sea-floor spreading, continues to shape the Earth's surface.",
+          "notes": [
+            "The Earth is part of the Solar System, formed from a mixture of gas and dust.",
+            "The 'Big Bang' theory is the most widely accepted explanation for the origin of the universe.",
+            "The Earth is estimated to be about 4.5 billion years old.",
+            "Early land masses gathered to form the continent 'Rodinia' around 750 Ma.",
+            "Gondwana, a supercontinent, evolved around the South Pole during the late Cambrian period.",
+            "Four major continents (Gondwana, Baltica, Siberia, and Laurasia) existed by 458 Ma.",
+            "Laurasia collided with Baltica, closing the Iapetus Sea around 425 Ma.",
+            "The pre-Pangaea continent formed during the early Devonian period (about 390 Ma).",
+            "The supercontinent Pangaea existed from about 255-210 Ma.",
+            "Pangaea began to break apart around 210-180 Ma, a process that continued through the Tertiary and Quaternary periods.",
+            "Continental drift is the process by which continents move apart, driven by sea-floor spreading at mid-ocean ridges.",
+            "The breakup of Pangaea led to the formation of the Atlantic Ocean and the current configuration of continents."
+          ],
+          "keywords": [
+            {"term": "Big Bang", "definition": "The leading scientific theory about the origin of the universe, positing that it began with a massive explosion from a highly dense and hot state."},
+            {"term": "Pangaea", "definition": "A supercontinent that existed during the late Paleozoic and early Mesozoic eras, before it fragmented into the continents we know today."},
+            {"term": "Continental drift", "definition": "The gradual movement of continents across the Earth's surface over geological time, driven by plate tectonics."},
+            {"term": "Rodinia", "definition": "A supercontinent that existed before Pangaea, formed about 750 million years ago."},
+            {"term": "Mid-oceanic ridge", "definition": "An underwater mountain range formed by plate tectonics where new oceanic crust is created through volcanic activity."},
+            {"term": "Solar System", "definition": "The Sun and all the celestial bodies that orbit it, including planets, moons, asteroids, and comets."}
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "THE GEOLOGICAL TIMESCALE",
+          "summary": "This section explains the geological timescale, which is a framework for understanding Earth's history. It covers the major geological processes, resultant landforms, and the succession of life-forms. The timescale is developed by studying Earth's rocks, using both relative and absolute dating methods. Relative dating determines the sequence of events, while absolute dating assigns numerical ages using radioactive decay. The timescale is divided into Eons, Eras, Periods, and Epochs. The major geological eras are the Precambrian (oldest), Paleozoic (ancient life), Mesozoic (middle life/age of dinosaurs), and Cenozoic (recent life/age of mammals). Each era is characterized by specific life forms and geological events, such as the formation of Pangaea and mass extinctions.",
+          "notes": [
+            "The geological timescale is a timeline showing the age of the Earth and the evolution of life.",
+            "It is established by scientists through the study of rock layers and fossils.",
+            "Relative age determines the sequence of geological events without giving exact dates.",
+            "Absolute age determines the actual age of rocks in years, using radioactive decay.",
+            "Three principles are used in relative dating: Original Horizontality, Superposition, and Cross-Cutting Relationships.",
+            "Radioactive decay is the process where unstable parent elements transform into stable daughter elements.",
+            "Half-life is the time it takes for half of the parent isotope to change into the daughter product.",
+            "The geological timescale divides Earth's history into Eons, Eras, Periods, and Epochs.",
+            "The four main geological eras are Precambrian, Paleozoic, Mesozoic, and Cenozoic.",
+            "The Precambrian era is the oldest, covering about 85% of Earth's geological history.",
+            "The Paleozoic era is known as the age of ancient life, including the first shelled animals and fish.",
+            "The Mesozoic era is the age of dinosaurs, ending with a mass extinction.",
+            "The Cenozoic era is the age of mammals and modern humans."
+          ],
+          "keywords": [
+            {"term": "Absolute age", "definition": "The numerical age of a rock or fossil, determined through methods like radiometric dating."},
+            {"term": "Half-life", "definition": "The time required for half of the radioactive parent isotope to decay into the stable daughter isotope."},
+            {"term": "Epoch", "definition": "A subdivision of a geological period, representing a shorter timescale of Earth's history."},
+            {"term": "Period", "definition": "A subdivision of an era in the geological timescale."},
+            {"term": "Geological era", "definition": "A major division of the geological timescale, such as the Paleozoic, Mesozoic, and Cenozoic."},
+            {"term": "Radioactive decay", "definition": "The process by which an unstable atomic nucleus loses energy by emitting radiation, transforming into a different element."},
+            {"term": "Isotope", "definition": "Atoms of the same element with the same number of protons but a different number of neutrons."},
+            {"term": "Relative age", "definition": "The age of a rock or fossil determined in relation to other rocks or fossils, rather than in absolute years."},
+            {"term": "Geological timescale", "definition": "A system of chronological dating that relates geological strata to time, used by geologists to describe Earth's history."}
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "DISTRIBUTION OF THE CONTINENTS AND OCEANS",
+          "summary": "This section describes the relative sizes and distribution of continents and oceans on Earth. The Earth's surface is about 71% water, with the oceans being the largest water bodies. The distribution of land and water is uneven: the Northern Hemisphere has a land-to-ocean ratio of about 1:1.5, while the Southern Hemisphere has a ratio of 1:4. There are seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America, each with unique characteristics. The world's oceans are divided into five groups: Arctic, Atlantic, Indian, Pacific, and Southern. The section also provides brief descriptions of each continent and ocean, including their size, location, and notable features.",
+          "notes": [
+            "The Earth's surface area is approximately 510,072,000 km².",
+            "Oceans cover more than 71% of the Earth's surface.",
+            "The distribution of continents and oceans is uneven, with more land in the Northern Hemisphere.",
+            "There are seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+            "Africa is the second-largest continent and is crossed by the Equator, Tropic of Cancer, and Tropic of Capricorn.",
+            "Asia is the largest continent, covering one-third of the Earth's land area.",
+            "Australia is the smallest continent and is often called an island continent.",
+            "Europe is the second smallest continent, home to the industrial revolution.",
+            "North America and South America are connected by the Isthmus of Panama.",
+            "The world's oceans are the Arctic, Atlantic, Indian, Pacific, and Southern Oceans.",
+            "The Pacific Ocean is the largest and deepest ocean, containing the Mariana Trench.",
+            "The Atlantic Ocean is the second-largest and receives the most freshwater from continental runoff.",
+            "The Indian Ocean has the warmest surface temperatures due to its proximity to the equator.",
+            "The Southern Ocean is the newest and fourth-largest ocean, surrounding Antarctica."
+          ],
+          "keywords": [
+            {"term": "Continents", "definition": "Large, continuous, discrete masses of land, generally separated by oceans, such as Africa, Asia, Europe, North America, South America, Australia, and Antarctica."},
+            {"term": "Oceans", "definition": "The large, interconnected bodies of salt water that cover most of the Earth's surface. The five main oceans are the Pacific, Atlantic, Indian, Arctic, and Southern Oceans."},
+            {"term": "Isthmus of Panama", "definition": "A narrow strip of land connecting North and South America."},
+            {"term": "Trench", "definition": "A deep, elongated depression in the ocean floor, often associated with subduction zones."}
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "CHANGING POSITION OF CONTINENTS AND OCEANS OVER GEOLOGICAL TIMES",
+          "summary": "This section discusses the changing positions of continents and oceans over geological time. The location of continents and oceans is not fixed; plate tectonics cause them to move. During the Triassic period (about 210 Ma), all continents were joined in a single supercontinent called Pangaea, surrounded by a single ocean called Panthalassa. Over time, Pangaea broke apart, with Laurasia moving north and Gondwana positioned around the South Pole. By the late Cretaceous (65 Ma), the separation between the continents increased, forming the Atlantic, Pacific, Arctic, and Southern Oceans. Today, the continents and oceans occupy their current positions, with most land in the Northern Hemisphere and most water in the Southern Hemisphere. This movement is ongoing.",
+          "notes": [
+            "The positions of continents and oceans have been changing throughout Earth's history due to plate tectonics.",
+            "During the Triassic period (about 210 Ma), all continents were joined as Pangaea.",
+            "Pangaea was surrounded by a single ocean called Panthalassa.",
+            "Laurasia was located around the equator, while Gondwana was around the South Pole.",
+            "Pangaea began to break apart in the late Triassic period (about 180 Ma).",
+            "By the late Cretaceous (65 Ma), the separation between Eurasia and North America increased.",
+            "Africa, South America, India, and Arabia separated and moved towards the equator.",
+            "The Atlantic Ocean formed between Africa, Eurasia, and the Americas.",
+            "The Pacific Ocean formed between the Americas, Eurasia, and Australia.",
+            "The Arctic Ocean covers the area north of the Arctic Circle.",
+            "The Indian Ocean covers the area between Africa, Southern Ocean, Asia, and Australia.",
+            "Today, most continents are in the Northern Hemisphere, and oceans dominate the Southern Hemisphere."
+          ],
+          "keywords": [
+            {"term": "Continental drift", "definition": "The gradual movement of the continents over the Earth's surface through geological time, driven by plate tectonics."},
+            {"term": "Plate tectonics", "definition": "The theory that Earth's outer shell is divided into several plates that move and interact, causing earthquakes, volcanoes, and the formation of mountains."},
+            {"term": "Rodinia", "definition": "An ancient supercontinent that formed about 1 billion years ago and broke up before Pangaea."},
+            {"term": "Panthalassa", "definition": "The single, global ocean that surrounded the supercontinent Pangaea."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "CRITERIA FOR CLIMATE CLASSIFICATION",
+          "summary": "This section introduces the concept of climate classification, explaining its purpose and different approaches. Climate classification helps to simplify, recognize, and clarify climatic similarities and variations across geographic regions. It has a long history, starting with the ancient Greeks who divided the world into Frigid, Temperate, and Torrid zones based on Earth-Sun relationships. Modern classification methods are divided into two main types: genetic and empirical. Genetic classification relies on the major forcing processes that shape climate, such as air masses and atmospheric circulation. Empirical classification uses data like temperature and precipitation to define climate types. The section highlights the strengths and weaknesses of each approach and sets the stage for discussing specific classification systems in later sections.",
+          "notes": [
+            "Climate is a complex concept that includes information on all aspects of the global environment.",
+            "Climate classification is used to identify, clarify, and simplify climatic similarities and variations.",
+            "The ancient Greeks classified climates into Frigid, Temperate, and Torrid zones based on temperature.",
+            "Climate classification methods are divided into genetic and empiric systems.",
+            "Genetic classification is based on the major forcing processes that shape climate, such as air masses and atmospheric circulation.",
+            "Empirical classification is based on observed data like temperature and precipitation.",
+            "Köppen's classification system is an example of an empirical system.",
+            "Genetic systems are more scientifically desirable but more complex to implement.",
+            "Empirical systems are easier to implement and are widely used."
+          ],
+          "keywords": [
+            {"term": "Genetic classification", "definition": "A method of classifying climates based on the major forcing processes that shape climate, such as air masses and atmospheric circulation."},
+            {"term": "Empirical classification", "definition": "A method of classifying climates based on observed data like temperature and precipitation, using specified class boundaries."},
+            {"term": "Köppen's climate classification", "definition": "A widely used empirical climate classification system that uses temperature and precipitation data to define climate zones."},
+            {"term": "Climate", "definition": "The long-term pattern of weather in a particular area, including temperature, precipitation, and wind."}
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "KÖPPEN'S CLIMATE CLASSIFICATION",
+          "summary": "This section provides a comprehensive overview of the Köppen climate classification system. It explains the system's basis in natural vegetation and its use of temperature and precipitation data to define climate boundaries. The main climate types are: A (Tropical), B (Dry), C (Meso-thermal/Mild), D (Micro-thermal/Cold), and E (Polar). The section also describes the modified Köppen-Geiger system, which adds further subdivisions to more precisely classify regional climates. For each main climate type, the criteria (such as temperature thresholds and precipitation patterns) are given, along with examples of where they are found. The section also discusses the merits and demerits of the Köppen system.",
+          "notes": [
+            "The Köppen climate classification system is commonly used because of its simplicity and its strong alignment with natural vegetation.",
+            "The system distinguishes five major climate types: A, B, C, D, and E.",
+            "Type A (Tropical) climates have an average temperature above 18°C in all months.",
+            "Type B (Dry) climates have deficient precipitation most of the year.",
+            "Type C (Meso-thermal or Mid-latitude Mild) climates have cold winters and warm summers.",
+            "Type D (Micro-thermal or Mid-latitude Cold) climates have cold winters and warm summers.",
+            "Type E (Polar) climates are extremely cold, with the warmest month below 10°C.",
+            "The modified Köppen-Geiger system adds second and third-order subdivisions for more precise classification.",
+            "Second-order subdivisions for A, C, and D climates indicate precipitation patterns (e.g., 'f' for wet all year, 'm' for monsoon).",
+            "Third-order subdivisions for C and D climates indicate summer temperature characteristics (e.g., 'a' for hot summers).",
+            "The Dry (B) climate has further subdivisions based on the degree of aridity and temperature.",
+            "The merits of the Köppen system include its clear, quantifiable method and its link to vegetation types.",
+            "The demerits of the system include its failure to account for factors like wind, sunlight, and extreme weather events."
+          ],
+          "keywords": [
+            {"term": "Climate classification", "definition": "A system for categorizing the world's climates based on specific criteria, such as temperature and precipitation."},
+            {"term": "Modified Köppen", "definition": "The Köppen climate classification system as revised by Rudolf Geiger, which adds more subdivisions for greater precision."},
+            {"term": "Simplified Köppen", "definition": "A basic version of the Köppen climate classification system, showing the major climate types."},
+            {"term": "Tropical climate (A)", "definition": "A climate zone where all months have an average temperature above 18°C, with no real winter."},
+            {"term": "Dry climate (B)", "definition": "A climate zone characterized by deficient precipitation for most of the year."},
+            {"term": "Meso-thermal (C)", "definition": "A mid-latitude climate with mild winters and warm summers, where the coldest month is between -3°C and 18°C."},
+            {"term": "Micro-thermal (D)", "definition": "A mid-latitude climate with cold winters, where the coldest month drops below -3°C."},
+            {"term": "Polar climate (E)", "definition": "A climate zone with extremely cold conditions, where the warmest month is below 10°C."},
+            {"term": "Evapotranspiration", "definition": "The combined process of evaporation from the soil and transpiration from plants, representing the total water loss from a landscape."},
+            {"term": "Arid", "definition": "A climate characterized by a severe lack of precipitation, often leading to desert conditions."}
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "WORLD CLIMATIC REGIONS",
+          "summary": "This section describes the major world climatic regions based on the Köppen classification system. These regions are grouped into three broad categories: low-latitude, mid-latitude, and high-latitude climates. Low-latitude climates include the Tropical Wet (Af), Tropical Wet and Dry (Aw), and Dry Desert (BWh) and Steppe (BSh) regions. Mid-latitude climates include Mid-latitude Desert (BWk) and Steppe (BSk), Mid-latitude Wet (Cf), Mid-latitude Winter Dry (Cw, Dw), and Mid-latitude Summer Dry (Cs). High-latitude climates include Polar Tundra (ET) and Polar Ice Cap (EF). For each region, the section describes its location, typical weather patterns, controlling air masses, and dominant vegetation.",
+          "notes": [
+            "World climates are categorized into low-latitude, mid-latitude, and high-latitude climates.",
+            "Low-latitude climates are found in the tropics and subtropics, between 0° and 30° latitude.",
+            "The Tropical Wet region (Af) is found along the equator and is characterized by high temperatures and consistent precipitation year-round.",
+            "The Tropical Wet and Dry region (Aw) is found between 6° and 15° latitude and has distinct wet and dry seasons.",
+            "The Dry Desert (BWh) and Steppe (BSh) regions are found between 15° and 25° latitude and are dominated by continental tropical air masses.",
+            "Mid-latitude climates are found between 25° and 55° latitude, where tropical and polar air masses interact.",
+            "The Mid-latitude Wet region (Cf) is characterized by precipitation evenly distributed throughout the year.",
+            "The Mid-latitude Summer Dry region (Cs), also known as Mediterranean, has dry summers and wet winters.",
+            "High-latitude climates are found in the polar regions.",
+            "The Polar Tundra (ET) region has cold winters, cool summers, and low precipitation.",
+            "The Polar Ice Cap (EF) region is characterized by continuous ice cover and is found in Greenland and Antarctica."
+          ],
+          "keywords": [
+            {"term": "Climatic regions", "definition": "Geographic areas that share similar climate characteristics, such as temperature and precipitation patterns."},
+            {"term": "Highlands", "definition": "Areas of high elevation that have unique climate characteristics due to altitude."},
+            {"term": "High-latitude", "definition": "Latitudes near the poles, generally above 60° North or South, characterized by cold climates."},
+            {"term": "Low-latitude", "definition": "Latitudes near the equator, generally between 0° and 30°, characterized by warm or hot climates."},
+            {"term": "Mid-latitude", "definition": "Latitudes between the tropics and the polar circles, generally between 30° and 60°, characterized by temperate climates."},
+            {"term": "Intertropical Convergence Zone (ITCZ)", "definition": "A low-pressure zone near the equator where trade winds converge, leading to rising air and heavy precipitation."},
+            {"term": "Biome", "definition": "A large community of plants and animals that occupies a distinct region, defined by its climate and vegetation."}
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "FACTORS INFLUENCING THE WORLD CLIMATIC REGIONS",
+          "summary": "This section examines the various factors that influence the distribution of world climates. The factors include latitude (which determines solar radiation and seasonality), continentality (distance from large water bodies), atmospheric circulation (which distributes heat and moisture), the seasonal movement of the subtropical high-pressure belt, the Coriolis effect, ocean circulation, and topography (elevation). Each factor is explained in detail, with examples of how it affects temperature, precipitation, and regional climate patterns. The section emphasizes that climate is a product of multiple interacting factors.",
+          "notes": [
+            "Latitude is the most fundamental factor influencing climate, as it determines the angle of solar radiation and the length of daylight.",
+            "Continentality refers to the effect of distance from large water bodies on climate, with inland areas experiencing greater temperature extremes.",
+            "Atmospheric circulation patterns, such as the global circulation cells and jet streams, transport heat and moisture around the planet.",
+            "The seasonal movement of the subtropical high-pressure belt influences the location and timing of precipitation.",
+            "The Coriolis effect, caused by the Earth's rotation, deflects moving objects and influences wind patterns.",
+            "Ocean circulation, including surface currents, redistributes heat and influences coastal climates.",
+            "Topography, especially elevation, affects temperature and precipitation, with mountains creating orographic rainfall and rain shadows.",
+            "The relationship between the Earth's axis and the sun creates seasons and influences day length and solar intensity."
+          ],
+          "keywords": [
+            {"term": "Atmospheric Circulation", "definition": "The large-scale movement of air that redistributes thermal energy and moisture around the Earth, driving weather patterns and climate zones."},
+            {"term": "Latitude", "definition": "Geographic coordinates that determine a location's distance from the equator, influencing the angle of solar radiation and climate."},
+            {"term": "Ocean Circulation", "definition": "The large-scale movement of water in the oceans, driven by wind, temperature, and salinity differences, which redistributes heat and influences climate."},
+            {"term": "Centrifugal", "definition": "An outward force experienced by objects moving in a circular path, which influences wind direction and atmospheric motion."},
+            {"term": "Subtropical High Pressure", "definition": "A persistent high-pressure belt located around 30° latitude, characterized by descending air and generally dry conditions."},
+            {"term": "Elevation", "definition": "The height of a location above sea level, which significantly influences temperature and precipitation patterns."},
+            {"term": "Orographic rainfall", "definition": "Precipitation that occurs when moist air is forced to rise over a mountain range, cooling and condensing to form rain."}
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "LOCAL/INDIGENOUS CLIMATE CLASSIFICATION OF ETHIOPIA",
+          "summary": "This section describes the traditional climate classification system used in Ethiopia, which is based on altitude, temperature, and growing season length. The country is divided into five primary climatic zones: Bereha (hot lowlands below 500m), Kolla (warm to hot lowlands between 500-1500m), Woina-Dega (temperate highlands between 1500-2300m), Dega (cold temperate highlands between 2300-3300m), and Wurch (alpine climate above 3300m). Each zone is characterized by a specific range of temperatures, rainfall, and agricultural potential. The section explains the characteristics of each zone, including the types of crops grown and the primary human activities.",
+          "notes": [
+            "Ethiopia's local climate classification is based on altitude, temperature, and growing season length.",
+            "The five primary climatic zones are Bereha, Kolla, Woina-Dega, Dega, and Wurch.",
+            "Bereha is the hot lowlands below 500m, with temperatures above 30°C and low rainfall, mainly inhabited by pastoralists.",
+            "Kolla is the warm to hot lowlands between 500-1500m, with temperatures between 20-30°C and variable rainfall.",
+            "Woina-Dega is the temperate highlands between 1500-2300m, with temperatures between 15-20°C and moderate rainfall.",
+            "Dega is the cold temperate highlands between 2300-3300m, with temperatures below 10°C and high rainfall.",
+            "Wurch is the alpine climate above 3300m, with temperatures below 10°C and significant rainfall."
+          ],
+          "keywords": [
+            {"term": "Local Climate classification", "definition": "A system of climate classification that is specific to a particular region, often based on local knowledge and environmental factors."},
+            {"term": "Bereha", "definition": "The hot lowlands climate zone in Ethiopia, below 500 meters, characterized by high temperatures and arid conditions."},
+            {"term": "Kolla", "definition": "The warm to hot lowlands climate zone in Ethiopia, between 500 and 1500 meters."},
+            {"term": "Woina-Dega", "definition": "The temperate highlands climate zone in Ethiopia, between 1500 and 2300 meters."},
+            {"term": "Dega", "definition": "The cold temperate highlands climate zone in Ethiopia, between 2300 and 3300 meters."},
+            {"term": "Wurch", "definition": "The alpine climate zone in Ethiopia, above 3300 meters, characterized by cold temperatures and Afro-alpine vegetation."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "NATURAL RESOURCES AND CONFLICTS OVER RESOURCES",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "THE FUNCTIONS AND MANAGEMENT OF LAND",
+          "summary": "This section discusses the importance of land as a natural resource, its various functions, and the principles of land management. Land is viewed as a fundamental resource that provides food, shelter, and space, and includes natural resources like soils, water, and forests. The section classifies natural resources based on regeneration (renewable vs. non-renewable), origin (biotic vs. abiotic), and other parameters. It describes the production, waste disposal, economic, and cultural functions of land. The section emphasizes the need for proper land management to control degradation and balance resource exploitation with regeneration.",
+          "notes": [
+            "Land is the ultimate resource and foundation of all human activity.",
+            "Natural resources are materials occurring in the environment that can be used by humans.",
+            "Renewable resources can be replenished or reproduced after use, while non-renewable resources exist in a finite supply.",
+            "Renewable resources include plants, animals, soil, and water, but they can be depleted if used unsustainably.",
+            "Non-renewable resources include minerals and fossil fuels, which cannot be replaced after use.",
+            "Land functions include production, waste disposal, and serving as an economic and cultural asset.",
+            "Land management involves the proper use and protection of land resources to provide long-term ecosystem services.",
+            "Land management strategies include afforestation, controlled grazing, terracing, and using renewable energy sources."
+          ],
+          "keywords": [
+            {"term": "Land", "definition": "The Earth's surface, including its soils, water, vegetation, and underlying geology, considered as a resource and environment."},
+            {"term": "Non-renewable resources", "definition": "Resources that exist in a finite supply and do not replace themselves after use, such as minerals and fossil fuels."},
+            {"term": "Land management", "definition": "The process of using and protecting land resources to ensure their long-term productivity and sustainability."},
+            {"term": "Renewable resources", "definition": "Resources that can be replenished or reproduced after use, such as plants, animals, and water."},
+            {"term": "Natural resources", "definition": "Materials or substances occurring in nature that can be used for economic gain."}
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "RESOURCES UNDER PRESSURE",
+          "summary": "This section identifies the renewable resources most affected by human pressure: soils, water, and forests. It highlights that these resources are often treated as common-pool assets, leading to overuse and degradation. The section discusses the main causes and consequences of soil degradation (e.g., erosion, nutrient loss), water stress (e.g., pollution, scarcity), and deforestation. It also outlines various measures that can be taken to manage these resources more sustainably, including soil conservation, recycling wastewater, and implementing afforestation programs.",
+          "notes": [
+            "Soils, water, and forests are the renewable resources under the most intense human pressure.",
+            "Soil degradation is caused by erosion, nutrient depletion, pollution, and salinization.",
+            "Water resources are threatened by domestic and industrial pollution, and water scarcity is a growing problem in many regions.",
+            "Forests are being cleared for agriculture, logging, and fuel-wood, leading to deforestation.",
+            "The overuse of common-pool resources leads to the 'tragedy of the commons'.",
+            "Measures to manage water resources include safe waste disposal, recycling, and watershed management.",
+            "Measures to conserve forests include afforestation, reforestation, and promoting alternative energy sources."
+          ],
+          "keywords": [
+            {"term": "Afforestation", "definition": "The process of planting trees on land that has not been forested for a long time."},
+            {"term": "Soil degradation", "definition": "The deterioration of soil quality due to factors such as erosion, nutrient depletion, and pollution."},
+            {"term": "Water stress", "definition": "A condition of water scarcity, where demand for water exceeds supply."},
+            {"term": "Watershed management", "definition": "The process of managing the land and water resources within a watershed to protect water quality and quantity."}
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "LAND RESOURCE DEPLETION AND DEGRADATION",
+          "summary": "This section defines land resource degradation as the overall loss of quality and quantity of land resources, including soils, water, and biological mass. It explains the concepts of proximate and underlying causes of degradation. Underlying causes include rapid population growth and climate change, while proximate causes include intensive land use, deforestation, and poor farming methods. The section describes the consequences of degradation, such as loss of biodiversity, desertification, and food insecurity. Finally, it provides a comprehensive list of remedial measures, including afforestation, reforestation, terracing, and soil conservation practices.",
+          "notes": [
+            "Land degradation is the decline in the quality and quantity of land resources.",
+            "Underlying causes of degradation include rapid population growth, climate change, and poor policy.",
+            "Proximate causes include intensive land use, deforestation, overgrazing, and poor farming methods.",
+            "Consequences of degradation include loss of biodiversity, desertification, reduced agricultural yields, and poverty.",
+            "Remedial measures include afforestation, reforestation, terracing, check dams, and mulching.",
+            "Soil and water conservation structures, such as stone bunds and terraces, help reduce erosion."
+          ],
+          "keywords": [
+            {"term": "Proximate cause", "definition": "The immediate or direct causes of an event, such as deforestation or overgrazing for land degradation."},
+            {"term": "Resource degradation", "definition": "The overall decline in the quality and quantity of natural resources."},
+            {"term": "Resource management", "definition": "The process of using and protecting natural resources sustainably to prevent degradation."},
+            {"term": "Underlying causes", "definition": "The fundamental or root causes of an event, such as population pressure or climate change for land degradation."},
+            {"term": "Desertification", "definition": "The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture."},
+            {"term": "Biodiversity", "definition": "The variety of plant and animal life in a particular habitat or ecosystem."}
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "TRANSBOUNDARY RIVERS",
+          "summary": "This section introduces transboundary rivers, which are watercourses shared by two or more countries. There are over 263 such river and lake channels worldwide, covering about 60% of the world's freshwater flows and supporting about 40% of the global population. The section discusses the prospects of these rivers for cooperation, development, and poverty reduction, but also notes their potential as sources of conflict. It provides a table of major shared river basins, including their source, drainage size, flow volume, and riparian countries. Examples of economic projects and dams on African rivers are given.",
+          "notes": [
+            "Transboundary rivers are watercourses shared by two or more countries.",
+            "There are 263 transboundary river and lake channels in the world.",
+            "These rivers support about 40% of the global population.",
+            "Transboundary rivers provide opportunities for cooperation and regional integration.",
+            "They can also be sources of conflict between riparian states.",
+            "The Nile, Congo, Niger, and Zambezi are examples of major transboundary rivers in Africa.",
+            "Dams and economic projects on shared rivers can lead to both development and contention."
+          ],
+          "keywords": [
+            {"term": "Riparian countries", "definition": "Countries that border or are located along a particular river or watercourse."},
+            {"term": "Shared watercourses", "definition": "Rivers, lakes, and aquifers that are shared by two or more countries."},
+            {"term": "Transboundary", "definition": "Crossing or extending across national boundaries."}
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "REGIONAL COOPERATION FOR SUSTAINABLE USE OF TRANSBOUNDARY RIVERS",
+          "summary": "This section emphasizes the need for regional cooperation to manage shared water resources sustainably. It explains that shared rivers often cross jurisdictions with different priorities, making coordination essential. The section introduces various regional institutions and treaties established to facilitate this cooperation, such as the Nile Basin Initiative (NBI), the Lesotho Highlands Development Authority, the Zambezi River Authority, and the US-Canada International Joint Commission. These institutions work to promote equitable use, development, and conflict resolution.",
+          "notes": [
+            "Regional cooperation is essential for the sustainable management of transboundary rivers.",
+            "Shared watercourses can be managed more rationally through formal agreements.",
+            "The Nile Basin Initiative (NBI) was established to coordinate management of the Nile's resources.",
+            "The Lesotho Highlands Development Authority (LHDA) manages water transfer projects between Lesotho and South Africa.",
+            "The Zambezi River Authority (ZRA) operates between Zambia and Zimbabwe to manage the Kariba Dam.",
+            "The US-Canada International Joint Commission (IJC) manages water resources in the Great Lakes region."
+          ],
+          "keywords": [
+            {"term": "Regional cooperation", "definition": "Cooperation between countries in a specific geographic region to manage shared resources and address common challenges."},
+            {"term": "Regional institutions", "definition": "Organizations established by countries in a region to facilitate cooperation and manage shared resources."},
+            {"term": "Sustainable use", "definition": "Using resources in a way that meets the needs of the present without compromising the ability of future generations to meet their own needs."},
+            {"term": "Nile Basin Initiative (NBI)", "definition": "A regional partnership involving the countries of the Nile Basin, aiming to promote sustainable development and management of Nile water resources."}
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "POTENTIAL AND ACTUAL USE OF WATER IN ETHIOPIA, SUDAN AND EGYPT",
+          "summary": "This section compares the water resource potential and actual use in Ethiopia, Sudan, and Egypt, which share the Nile River. It notes that Ethiopia contributes over 85% of the Nile's water but has historically been excluded from major water-sharing agreements. The per capita water use in Ethiopia is relatively low, while Sudan and Egypt have higher usage. The section summarizes the historical treaties and conventions that have shaped Nile water allocation, including the 1929 and 1959 agreements. It highlights the conflicts and contentions that arise from these agreements and the ongoing disputes over the Grand Ethiopian Renaissance Dam (GERD).",
+          "notes": [
+            "Ethiopia, Sudan, and Egypt are key countries in the Nile Basin.",
+            "Ethiopia contributes over 85% of the Nile's flow.",
+            "Historical treaties, such as the 1929 and 1959 agreements, allocated most of the Nile's water to Egypt and Sudan.",
+            "Ethiopia was not a party to these agreements and has contested their validity.",
+            "The Grand Ethiopian Renaissance Dam (GERD) is a source of contention between Ethiopia, Sudan, and Egypt.",
+            "Ethiopia's per capita water use is about 1,666 m³/year, Sudan's is 1,981 m³/year, and Egypt's is about 830 m³/year."
+          ],
+          "keywords": [
+            {"term": "Actual water use", "definition": "The amount of water that is actually consumed or withdrawn for various purposes, such as agriculture or industry."},
+            {"term": "Potential water use", "definition": "The maximum amount of water that could be used from a given source, considering available technology and economic factors."},
+            {"term": "Conventions", "definition": "Agreements or treaties between states on specific issues, such as the use of international waters."},
+            {"term": "GERD (Grand Ethiopian Renaissance Dam)", "definition": "A large hydroelectric dam on the Blue Nile in Ethiopia, which has become a point of contention between Ethiopia, Sudan, and Egypt."}
+          ]
+        },
+        {
+          "section_number": "3.7",
+          "section_title": "CONFLICTS OVER RESOURCES",
+          "summary": "This section discusses the concept of resource conflict, which arises from disputes over accessing, controlling, and using natural resources. It identifies the causes of such conflicts, including resource scarcity, poor management, and inequitable sharing. The section categorizes resource conflicts into secessionist conflicts, disputes over new laws, grievances over specific projects, and cumulative impacts of small-scale clashes. It provides examples of conflicts over water, land, timber, fuel, and minerals (conflict minerals) from around the world. Finally, it outlines conflict handling strategies, such as avoidance, coercion, negotiation, and arbitration.",
+          "notes": [
+            "Resource conflicts are disputes over accessing, controlling, and using natural resources.",
+            "Causes of resource conflicts include resource scarcity, poor management, and inequitable sharing.",
+            "Secessionist conflicts occur when resource-rich regions seek to break away from a country.",
+            "Water and pasture shortages are common causes of conflict, e.g., in Darfur and between Somali and Afar pastoralists.",
+            "Land ownership and border disputes are also major sources of conflict.",
+            "Fuel scarcity, particularly petroleum, has led to conflicts in the Middle East and other regions.",
+            "Conflict minerals, such as diamonds, have fueled wars in Africa.",
+            "Conflict handling strategies include avoidance, coercion, negotiation, and arbitration."
+          ],
+          "keywords": [
+            {"term": "Arbitration", "definition": "A process where a conflict is submitted to a mutually agreeable third party who makes a binding decision."},
+            {"term": "Resource conflict", "definition": "Disputes arising over accessing, controlling, and using materials found in nature."},
+            {"term": "Negotiation", "definition": "A voluntary process where parties in conflict reach an agreement through discussion and compromise."},
+            {"term": "Conflict minerals", "definition": "Minerals that are mined in conflict zones and sold to fund armed conflict."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "GLOBAL POPULATION DYNAMICS AND CHALLENGES",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "THE GROWTH OF WORLD POPULATION",
+          "summary": "This section discusses the trends in world population growth, focusing on the demographic transition model. The model describes the shift from high birth and death rates to low birth and death rates in five stages. It explains how population growth was historically slow but accelerated rapidly in the 20th century, especially in less developed countries (LDCs). The section presents data and projections showing that the global population is expected to reach 8.5 billion by 2030 and 9.7 billion by 2050. It contrasts population trends in LDCs (where growth is high) and more developed countries (MDCs) (where growth is slow or negative). The concept of the demographic dividend is introduced.",
+          "notes": [
+            "The demographic transition model describes population change in five stages.",
+            "Stage 1: High birth and death rates, slow population growth.",
+            "Stage 2: Death rates decline, birth rates remain high, rapid population growth.",
+            "Stage 3: Birth rates decline, population growth slows.",
+            "Stage 4: Low birth and death rates, stable population.",
+            "Stage 5: Birth rates may rise slightly, low death rates.",
+            "The world population has grown dramatically, from 1 billion in 1800 to 7.7 billion in 2019.",
+            "Global population is projected to reach 9.7 billion by 2050.",
+            "Less developed countries have higher growth rates than more developed countries.",
+            "Sub-Saharan Africa is expected to account for more than half of the world's population growth between 2019 and 2050.",
+            "The demographic dividend occurs when the working-age population grows faster than the dependent population."
+          ],
+          "keywords": [
+            {"term": "World population", "definition": "The total number of humans currently living on Earth."},
+            {"term": "More-developed countries (MDCs)", "definition": "Countries with advanced economies, high incomes, and low population growth."},
+            {"term": "Less-developed countries (LDCs)", "definition": "Countries with developing economies, lower incomes, and higher population growth."},
+            {"term": "Demographic transition model", "definition": "A model that describes the shift from high birth and death rates to low birth and death rates as a country develops economically."},
+            {"term": "Demographic dividend", "definition": "The economic growth potential that can result from changes in a country's age structure, particularly when the working-age population is large relative to the dependent population."}
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "FACTORS RESPONSIBLE FOR ACCELERATED POPULATION GROWTH",
+          "summary": "This section examines the key factors that have contributed to accelerated population growth, especially in developing countries. The major factors include advances in agriculture, medical knowledge, and public health, which have led to a significant reduction in death rates. The section explains the concept of fertility and its measures, including Crude Birth Rate (CBR), Total Fertility Rate (TFR), Gross Reproductive Rate (GRR), and General Fertility Rate (GFR). It also discusses mortality and its measures, such as the Crude Death Rate (CDR) and Infant Mortality Rate (IMR). These measures are used to analyze population growth patterns.",
+          "notes": [
+            "Advances in agriculture and medical knowledge have led to a decrease in death rates.",
+            "Fertility is the actual occurrence of live births and reflects a population's reproductive performance.",
+            "Crude Birth Rate (CBR) is the number of live births per 1,000 people in a year.",
+            "Total Fertility Rate (TFR) estimates the average number of children a woman will have in her lifetime.",
+            "Gross Reproductive Rate (GRR) is similar to TFR but counts only female births.",
+            "General Fertility Rate (GFR) measures the number of live births per 1,000 women of reproductive age.",
+            "Mortality is the occurrence of death and can be measured using Crude Death Rate (CDR) and Infant Mortality Rate (IMR).",
+            "CDR is the number of deaths per 1,000 people in a year.",
+            "IMR is the number of deaths of infants under one year old per 1,000 live births."
+          ],
+          "keywords": [
+            {"term": "Accelerated", "definition": "Increased in speed or rate, used to describe the rapid growth of the population."},
+            {"term": "Fertility measurements", "definition": "Measures used to quantify the reproductive rate of a population, such as CBR, TFR, and GRR."},
+            {"term": "Mortality measurements", "definition": "Measures used to quantify the death rate of a population, such as CDR and IMR."},
+            {"term": "Crude Birth Rate (CBR)", "definition": "The number of live births per 1,000 people in a given year."},
+            {"term": "Total Fertility Rate (TFR)", "definition": "The average number of children a woman would have over her lifetime, based on current age-specific fertility rates."},
+            {"term": "Gross Reproductive Rate (GRR)", "definition": "The average number of female children a woman would have over her lifetime."},
+            {"term": "General Fertility Rate (GFR)", "definition": "The number of live births per 1,000 women of reproductive age (15-49) in a given year."},
+            {"term": "Crude Death Rate (CDR)", "definition": "The number of deaths per 1,000 people in a given year."},
+            {"term": "Infant Mortality Rate (IMR)", "definition": "The number of deaths of infants under one year old per 1,000 live births."}
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "INTERNATIONAL MIGRATION",
+          "summary": "This section discusses international migration as a key component of population change. It distinguishes between free and forced migration and identifies the main sending and receiving countries. The section explains that migration is driven by a combination of 'push' factors in the source country (e.g., weak job opportunities) and 'pull' factors in the destination country (e.g., better jobs). It presents data showing that Europe, Northern America, and Australia are net recipients of migrants, while Africa, Asia, and Latin America are net senders. The United States is the world's most popular destination for migrants. The impacts of migration on population growth, labor markets, and culture are discussed.",
+          "notes": [
+            "Migration is the movement of people from one place to another.",
+            "International migration has no direct impact on global population but affects population distribution.",
+            "Migration is driven by 'push' factors (e.g., poverty, conflict) and 'pull' factors (e.g., better jobs, safety).",
+            "Europe, Northern America, and Australia are net recipients of international migrants.",
+            "Africa, Asia, Latin America, and the Caribbean are net senders.",
+            "The United States is the most popular destination for international migrants.",
+            "Migration impacts population growth, labor markets, and cultural diversity.",
+            "Measures of migration include immigration rate, emigration rate, and net migration rate."
+          ],
+          "keywords": [
+            {"term": "International migration", "definition": "The movement of people across international borders."},
+            {"term": "Push factors", "definition": "Conditions that drive people to leave their home country, such as poverty, conflict, or lack of opportunity."},
+            {"term": "Pull factors", "definition": "Conditions that attract people to a new country, such as better jobs, safety, or family reunification."},
+            {"term": "Net migration", "definition": "The difference between immigration and emigration in a given area."},
+            {"term": "Forced migration", "definition": "The movement of people due to external factors, such as war, persecution, or natural disasters."}
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "POPULATION POLICIES",
+          "summary": "This section defines population policies as government declarations, choices, and measures designed to impact population size, growth, distribution, and composition. The policies aim to promote economic development and social welfare. The section discusses two main categories of policy: those affecting population growth (e.g., pro-natalist or anti-natalist) and those affecting migration and distribution. It provides examples of direct policies (e.g., free family planning) and indirect policies (e.g., compulsory education). The section also outlines strategies for managing urbanization and internal migration, such as encouraging redistribution and providing services for the urban poor.",
+          "notes": [
+            "Population policies are government actions to influence population dynamics.",
+            "Policies can be direct (explicit) or indirect (implicit).",
+            "Direct policies include free family planning services, raising the age of marriage, and immigration laws.",
+            "Indirect policies include compulsory secondary education, restricting child labor, and promoting women's education.",
+            "Policies on migration and distribution aim to manage urbanization and internal migration.",
+            "Examples include encouraging redistribution from dense urban areas and providing basic services for the urban poor."
+          ],
+          "keywords": [
+            {"term": "Population growth", "definition": "The increase in the number of individuals in a population over time."},
+            {"term": "Policies", "definition": "Government strategies or actions to address specific issues, such as population growth."},
+            {"term": "Socioeconomic development", "definition": "The process of improving the economic and social well-being of a society."},
+            {"term": "Migration and distribution", "definition": "The movement of people and their spatial arrangement within a country, which population policies aim to manage."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "GEOGRAPHICAL LOCATION AND ECONOMIC DEVELOPMENT",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "EFFECTS OF GEOGRAPHIC LOCATION ON DEVELOPMENT",
+          "summary": "This section explores the relationship between geographic location and economic development. It defines economic growth and development, highlighting the difference between quantitative (GDP) and qualitative (HDI) measures. It introduces two contrasting schools of thought: Geographic Determinism (where location is seen as the sole determinant of development) and Possibilism (where location is seen as a factor that humans can overcome). The section discusses three classic theories of location: von Thünen's agricultural land use model, Weber's least-cost industrial location model, and Christaller's central place theory. Each theory explains how geographic factors influence the location of economic activities.",
+          "notes": [
+            "Economic growth is an increase in the production of goods and services (GDP).",
+            "Economic development is a broader concept that includes improvements in quality of life.",
+            "The Human Development Index (HDI) measures well-being using life expectancy, education, and income.",
+            "Geographic Determinism argues that the environment and location exclusively determine development.",
+            "Possibilism argues that humans can overcome environmental limitations through technology and innovation.",
+            "von Thünen's model explains agricultural land use patterns based on distance from a central market.",
+            "Weber's model explains industrial location based on minimizing transport, labor, and agglomeration costs.",
+            "Christaller's central place theory explains the size, spacing, and hierarchy of settlements and service centers."
+          ],
+          "keywords": [
+            {"term": "Administrative principle", "definition": "A principle in Christaller's central place theory where the hierarchy of control dictates the distribution of settlements."},
+            {"term": "Geographic location", "definition": "The position of a place on the Earth's surface, which influences its economic activities."},
+            {"term": "Agricultural land use", "definition": "The use of land for farming and growing crops."},
+            {"term": "Marketing principle", "definition": "A principle in Christaller's theory where the goal is to serve the maximum number of consumers from a few service centers."},
+            {"term": "Least cost", "definition": "A concept in Weber's industrial location theory, where firms choose a location that minimizes total costs."},
+            {"term": "Possibilism", "definition": "The theory that humans can modify and adapt to their environment through technology and innovation."},
+            {"term": "Development", "definition": "The process of improving the economic and social well-being of a society."},
+            {"term": "Service centers", "definition": "Settlements that provide goods and services to the surrounding population."},
+            {"term": "Economic growth", "definition": "An increase in the production of goods and services in an economy."},
+            {"term": "Settlements", "definition": "Places where people live, ranging from small villages to large cities."},
+            {"term": "Geographic determinism", "definition": "The theory that the environment and location exclusively determine the development of a society."},
+            {"term": "Transportation principle", "definition": "A principle in Christaller's theory where the goal is to minimize travel distance and increase connectivity."}
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "CLIMATE EXTREMES AND POVERTY",
+          "summary": "This section examines the relationship between extreme climate events (such as droughts, floods, and heatwaves) and poverty. It explains how climate change is increasing the frequency and intensity of these events, which disproportionately affect poor people in developing countries. The section discusses how climate extremes erode the livelihoods of poor households by reducing crop yields, damaging assets, and causing food insecurity. It introduces the concept of 'poverty traps,' where repeated shocks push people deeper into poverty. Case studies from Ethiopia and Burkina Faso illustrate these impacts. The section also highlights the geographic distribution of poverty and climate vulnerability.",
+          "notes": [
+            "Climate extremes are excessive temperature and rainfall events that cause environmental hazards.",
+            "Human-induced warming is causing more frequent and intense climate extremes.",
+            "Poor people are disproportionately affected by climate extremes due to their vulnerability.",
+            "Climate extremes can erode assets, reduce food security, and cause health problems.",
+            "A 'poverty trap' is a situation where people are unable to escape poverty due to repeated shocks.",
+            "Sub-Saharan Africa and South Asia have the highest levels of extreme poverty and climate vulnerability.",
+            "Measures to address climate-poverty linkages include disaster risk management and building adaptive capacity."
+          ],
+          "keywords": [
+            {"term": "Climate extremes", "definition": "Excessive or unusual weather events, such as droughts, floods, and heatwaves, often exacerbated by climate change."},
+            {"term": "Critical thresholds", "definition": "The point beyond which a system experiences irreversible harm, such as a climate-related shock that pushes a household into poverty."},
+            {"term": "Droughts", "definition": "Prolonged periods of abnormally low rainfall, leading to water shortages and crop failure."},
+            {"term": "Flooding events", "definition": "Occurrences of excessive water covering normally dry land, often causing damage to property and agriculture."},
+            {"term": "Impacts", "definition": "The effects or consequences of an event, such as climate extremes, on human livelihoods."},
+            {"term": "Poverty traps", "definition": "A situation where people are unable to escape poverty due to a combination of factors, including lack of resources and repeated shocks."},
+            {"term": "Vulnerability", "definition": "The susceptibility of a community or individual to the negative effects of a hazard."}
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "DISADVANTAGES OF LANDLOCKED COUNTRIES",
+          "summary": "This section explains the challenges faced by landlocked countries (LLDCs), which do not have direct access to the sea. These countries face significant disadvantages in international trade, including higher transport costs, longer transit times, and dependence on their transit neighbors' infrastructure. The section discusses the political disadvantages, such as weak negotiating power and vulnerability to border closures. It provides examples of African landlocked countries, like Ethiopia, and their reliance on ports in Djibouti, Sudan, and other countries. The section concludes that lack of sea access is a major constraint on economic development.",
+          "notes": [
+            "Landlocked countries do not have direct access to the sea.",
+            "They incur higher transport costs for imports and exports.",
+            "They are dependent on their transit neighbors' infrastructure and policies.",
+            "Political relations with transit countries can affect trade.",
+            "Delays and border closures can disrupt trade.",
+            "Ethiopia is a landlocked country that relies on the port of Djibouti for its trade.",
+            "Lack of sea access is a significant disadvantage for economic development."
+          ],
+          "keywords": [
+            {"term": "Disadvantages", "definition": "Drawbacks or negative aspects, such as the challenges faced by landlocked countries."},
+            {"term": "Landlocked countries", "definition": "Countries that do not have a coastline and are enclosed by land."},
+            {"term": "Sea access", "definition": "Direct access to the sea or an ocean, which is crucial for international trade."},
+            {"term": "Political disadvantages", "definition": "Challenges arising from political relations, such as a landlocked country's dependency on a transit neighbor."},
+            {"term": "Transportation disadvantages", "definition": "Challenges related to the movement of goods, such as higher costs and delays for landlocked countries."}
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "INTRAREGIONAL TRADE IN AFRICA",
+          "summary": "This section examines trade patterns within Africa. It notes that intra-African agricultural trade has increased, but overall participation in world trade remains low. The section identifies the major Regional Economic Communities (RECs) such as COMESA, ECOWAS, and SADC, and describes the flow of trade between them. It lists the top exporters and importers of agricultural products in Africa, with South Africa being the dominant player. The section also discusses the commodity composition of trade and the main challenges to regional integration, including tariff and non-tariff barriers, administrative delays, and the use of informal currency exchange.",
+          "notes": [
+            "Intra-African trade has increased over the past two decades.",
+            "Regional Economic Communities (RECs) like COMESA, ECOWAS, and SADC facilitate trade.",
+            "South Africa is the largest exporter of agricultural products within Africa.",
+            "Top exporters also include Egypt, Uganda, Kenya, and Tanzania.",
+            "Top importers include South Africa, Kenya, Egypt, and Nigeria.",
+            "Tariff and non-tariff barriers are major challenges to intra-African trade.",
+            "Administrative delays and informal currency exchange hinder trade."
+          ],
+          "keywords": [
+            {"term": "Intra-Regional trade", "definition": "Trade between countries within the same geographic region."},
+            {"term": "Commodity", "definition": "A raw material or primary agricultural product that can be bought and sold."},
+            {"term": "Exports", "definition": "Goods and services produced domestically and sold abroad."},
+            {"term": "Imports", "definition": "Goods and services purchased from abroad."},
+            {"term": "Trade flows", "definition": "The movement of goods and services between countries."},
+            {"term": "Trade policies", "definition": "Government laws and regulations that affect international trade."},
+            {"term": "Trade challenges", "definition": "Obstacles to trade, such as tariffs, non-tariff barriers, and administrative delays."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "MAJOR GLOBAL ENVIRONMENTAL CHANGES",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "PERSISTENT ENVIRONMENTAL CHANGES",
+          "summary": "This section discusses the persistent environmental changes affecting the planet, focusing on four main issues: habitat destruction, agricultural intensification, overexploitation of resources, and the spread of invasive species. Habitat destruction is driven by landscape modification from human activities and natural processes. Agricultural intensification, while increasing food production, has negative impacts like biodiversity loss, soil degradation, and pollution. Overexploitation refers to the unsustainable harvesting of resources such as fish, forests, and water, leading to depletion. The section also covers invasive species, which are non-native organisms that disrupt ecosystems. It categorizes invasive species by habitat (terrestrial vs. aquatic) and describes their spread and impacts.",
+          "notes": [
+            "Habitat destruction is a major cause of biodiversity loss and species extinction.",
+            "Agricultural intensification increases food production but harms the environment.",
+            "Overexploitation leads to the depletion of fish stocks, forests, and water resources.",
+            "Invasive species are non-native organisms that disrupt ecosystems.",
+            "Invasive species can be terrestrial or aquatic.",
+            "Prevention is the most cost-effective way to manage invasive species."
+          ],
+          "keywords": [
+            {"term": "Agricultural intensification", "definition": "Increasing agricultural output per unit of input, often through high-yield varieties and chemicals."},
+            {"term": "Overexploitation of resources", "definition": "Harvesting natural resources at an unsustainable rate."},
+            {"term": "Environmental changes", "definition": "Alterations to the environment, often caused by human activities."},
+            {"term": "Habitat destruction", "definition": "The process of altering or eliminating the natural environment in which organisms live."},
+            {"term": "Invasive alien species", "definition": "Non-native species that spread rapidly and cause harm to the environment, economy, or human health."}
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "POVERTY-ENVIRONMENT NEXUS",
+          "summary": "This section explains the complex relationship between poverty and environmental degradation, often described as a 'vicious cycle.' It argues that poverty can drive environmental degradation as poor people rely on natural resources for their livelihoods and may overexploit them. Conversely, environmental degradation can exacerbate poverty by reducing the availability of resources. The section specifically discusses the links between poverty and land degradation, and poverty and deforestation. It suggests that addressing poverty and environmental degradation requires integrated approaches that balance environmental protection with poverty reduction.",
+          "notes": [
+            "The poverty-environment nexus is a 'vicious cycle' of poverty leading to degradation and degradation leading to more poverty.",
+            "Poverty can lead to overexploitation of land, water, and forests.",
+            "Land degradation reduces agricultural productivity and worsens poverty.",
+            "Deforestation can reduce access to resources for poor communities.",
+            "Solutions require integrated approaches that benefit both the poor and the environment."
+          ],
+          "keywords": [
+            {"term": "Deforestation", "definition": "The clearing or removal of forests, often for agriculture, logging, or fuelwood."},
+            {"term": "Environment", "definition": "The natural world, including land, water, air, and living organisms."},
+            {"term": "Land degradation", "definition": "The decline in the quality and productivity of land resources."},
+            {"term": "Poverty", "definition": "A state of deprivation, lacking access to basic needs and resources."}
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "ENVIRONMENTAL DEGRADATION AND SUSTAINABLE DEVELOPMENT",
+          "summary": "This section defines environmental degradation as the deterioration of the environment through the destruction of ecosystems, pollution, and resource depletion. It lists the main types of degradation: soil, water, and atmospheric degradation, as well as other types of pollution. The causes include land disturbance, pollution, overpopulation, landfills, and deforestation. The effects include impacts on human health, loss of biodiversity, ozone depletion, and resource scarcity. The section then introduces the concept of sustainable development, which aims to meet the needs of the present without compromising the ability of future generations. It emphasizes the need for environmental protection, sustainable resource use, and balancing economic growth with environmental conservation.",
+          "notes": [
+            "Environmental degradation is the deterioration of the environment.",
+            "Types include soil, water, and atmospheric degradation.",
+            "Causes include land disturbance, pollution, overpopulation, and deforestation.",
+            "Effects include health problems, biodiversity loss, and resource scarcity.",
+            "Sustainable development aims to balance economic growth with environmental protection.",
+            "Adapting for sustainability involves diverse and integrated management practices."
+          ],
+          "keywords": [
+            {"term": "Environmental degradation", "definition": "The deterioration of the environment through depletion of resources, destruction of ecosystems, and pollution."},
+            {"term": "Sustainable development", "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "GEOGRAPHIC ISSUES AND PUBLIC CONCERNS",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "POPULATION-RELATED CONCERNS OF OUR CONTEMPORARY WORLD",
+          "summary": "This section discusses major population-related concerns, including challenges in developing countries (DCs) such as rapid population growth, urbanization, and its socioeconomic and environmental consequences. It also covers the relationships between family size, education, and income, highlighting the different household structures and their impacts on well-being. The section then explains the contrasting views on the relationship between population and economic growth: the pessimistic Malthusian/Neo-Malthusian view and the optimistic Anti-Malthusian (Marxist and Boserupian) view. Finally, it addresses unemployment and underemployment, defining these concepts and presenting methods to calculate unemployment rates.",
+          "notes": [
+            "Developing countries face severe challenges from rapid population growth, including environmental change, poverty, and inadequate services.",
+            "Family size, education, and income are interconnected; larger families in DCs often have less investment per child in education.",
+            "Households are the primary units for decision-making about childbearing, education, and other key aspects of life.",
+            "Malthusian theory argues that population growth outstrips food supply, leading to poverty and famine.",
+            "Neo-Malthusians advocate for family planning to control population growth.",
+            "Anti-Malthusians like Boserup and Marx argue that population growth can drive innovation and that economic systems are the root cause of poverty.",
+            "Unemployment is a major issue in DCs, measured as the percentage of the labor force without work.",
+            "Underemployment refers to situations where workers are underutilized, such as part-time work or jobs that don't use their skills."
+          ],
+          "keywords": [
+            {"term": "Economic growth rates", "definition": "The rate at which a country's economy expands, typically measured by GDP growth."},
+            {"term": "Household income", "definition": "The total earnings of all members of a household."},
+            {"term": "Education", "definition": "The process of learning and acquiring knowledge, skills, and values."},
+            {"term": "Population growth", "definition": "The increase in the number of people in a population."},
+            {"term": "Employment", "definition": "The state of having paid work."},
+            {"term": "Underemployment", "definition": "A situation where workers are employed but not to their full capacity or potential."},
+            {"term": "Unemployment", "definition": "The state of being without paid work."},
+            {"term": "Family size", "definition": "The number of individuals in a family unit."},
+            {"term": "Household", "definition": "A group of people living together and sharing resources."},
+            {"term": "Economic Dependency Ratio (EDR)", "definition": "The ratio of the non-working population (dependents) to the working-age population."}
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "LAND DEGRADATION AND DESERTIFICATION",
+          "summary": "This section defines land degradation as the long-term decline in the quality and quantity of land resources. It identifies the three main forms of degradation: physical (e.g., compaction, crusting), chemical (e.g., nutrient loss, salinization), and biological (e.g., loss of biodiversity, deforestation). The causes include both natural (e.g., flooding, volcanic eruptions) and human factors (e.g., population pressure, poor farming practices). The section then focuses on desertification, which is a form of land degradation that occurs in dry, arid, and semi-arid areas. It explains the causes (largely anthropogenic) and impacts of desertification, such as reduced agricultural productivity, biodiversity loss, and increased soil salinity. It also suggests mitigation measures.",
+          "notes": [
+            "Land degradation is the long-term decline in the quality and productivity of land.",
+            "Physical degradation includes compaction, crusting, and thinning of soils.",
+            "Chemical degradation includes loss of nutrients and salinization.",
+            "Biological degradation includes loss of biodiversity and deforestation.",
+            "Causes include natural factors and human activities like population pressure and poor management.",
+            "Desertification is land degradation in drylands.",
+            "Desertification is caused by population pressure, expansion of farming, and climate change.",
+            "Impacts include reduced productivity, biodiversity loss, and increased soil salinity.",
+            "Measures to combat desertification include drought-resistant crops, terracing, and water harvesting."
+          ],
+          "keywords": [
+            {"term": "Desertification", "definition": "The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture."},
+            {"term": "Land degradation", "definition": "The long-term decline in the quality and quantity of land resources, including soil, water, and vegetation."},
+            {"term": "Physical degradation", "definition": "The deterioration of land resources due to mechanical damage, such as compaction or erosion."},
+            {"term": "Chemical degradation", "definition": "The deterioration of land resources due to changes in their chemical composition, such as nutrient loss or salinization."},
+            {"term": "Biological degradation", "definition": "The deterioration of land resources due to a loss of biological diversity, such as deforestation or overgrazing."}
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "RECURRENT DROUGHTS AND FAMINES",
+          "summary": "This section explains the concepts of drought and famine, their causes, and their impacts. Drought is defined as a prolonged period of deficient moisture, categorized into meteorological, hydrological, agricultural, and socioeconomic types. Famine is a severe and widespread shortage of food leading to starvation and death. The section notes that drought and famine are closely linked, with drought often being a major trigger for famine. It discusses global trends of drought and their impacts, including on agriculture, health, and livelihoods. The section also covers response and mitigation strategies, such as improved monitoring, water management, and early-warning systems.",
+          "notes": [
+            "Drought is a prolonged deficiency of moisture and water.",
+            "Types of drought include meteorological, hydrological, agricultural, and socioeconomic.",
+            "Famine is a severe and widespread food shortage.",
+            "Droughts and famines are closely linked and often occur in drylands.",
+            "Impacts of drought include crop failure, water shortages, and food insecurity.",
+            "Famines are caused by natural events and human factors like conflict and inequality.",
+            "Mitigation strategies include improved monitoring, water management, and early-warning systems."
+          ],
+          "keywords": [
+            {"term": "Drought", "definition": "A prolonged period of deficient rainfall or moisture, leading to water shortages."},
+            {"term": "Famine", "definition": "A severe and widespread shortage of food, causing starvation and death."}
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "DEFORESTATION",
+          "summary": "This section focuses on deforestation, the removal of forest trees. It identifies the underlying and proximate causes of deforestation. Underlying causes include climate change, population pressure, and government policies that lead to tenure insecurity and weak law enforcement. Proximate (direct) causes include clearing for farmland, fuel-wood collection, settlement expansion, logging, and overgrazing. The section also discusses the consequences of deforestation, such as carbon stock reduction, biodiversity loss, disruption of hydrological cycles, and increased soil erosion. Finally, it suggests strategies for minimizing deforestation, including afforestation, reforestation, and using alternative energy sources.",
+          "notes": [
+            "Deforestation is the removal of forest trees.",
+            "Underlying causes include population pressure, climate change, and flawed policies.",
+            "Proximate causes include clearing for farmland, fuel-wood collection, and logging.",
+            "Consequences include loss of biodiversity, climate change, and soil erosion.",
+            "Strategies to reduce deforestation include afforestation, reforestation, and alternative energy."
+          ],
+          "keywords": [
+            {"term": "Deforestation", "definition": "The clearing or removal of forests, often for agriculture, logging, or fuelwood."}
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "THE WORLDWIDE DIGITAL DIVIDE",
+          "summary": "This section defines the digital divide as the gap in access to information and communication technologies (ICTs) between different regions, countries, and socioeconomic groups. It explains that the divide is driven by factors like income, education, and geographic location. The section discusses the consequences of the digital divide, including the loss of jobs, increased income inequality, and personal security risks. It also highlights the advantages of digitalization, such as providing access to education, telemedicine, and financial services, especially for remote or underserved populations.",
+          "notes": [
+            "The digital divide is the gap in access to ICTs.",
+            "Factors include income, education, and geographic location.",
+            "Consequences include loss of jobs, increased inequality, and security risks.",
+            "Advantages of digitalization include access to education, telemedicine, and financial services.",
+            "Governments can play a key role in bridging the digital divide by providing e-services and ICT access."
+          ],
+          "keywords": [
+            {"term": "Digital divide", "definition": "The gap between those who have access to and can use digital technologies and those who do not."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "GEO-SPATIAL INFORMATION AND DATA PROCESSING",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "REPRESENTATION OF RELIEF FEATURES ON TOPOGRAPHIC MAPS",
+          "summary": "This section explains how relief features (landforms) are represented on topographic maps. It defines relief as the difference in elevation between the highest and lowest points in a landscape. The primary methods for representing relief are hachures and contour lines. Hachures are short lines drawn in the direction of the slope to show steepness, but they do not indicate exact height. Contour lines are more accurate and are imaginary lines connecting points of equal elevation. The section explains the properties of contours and how they represent various landforms, including hills, ridges, valleys, saddles, depressions, plateaus, gorges, spurs, cliffs, and fills. It also discusses how to identify drainage basins and patterns on contour maps.",
+          "notes": [
+            "Relief is the difference in elevation between the highest and lowest points on a landscape.",
+            "Hachures are short lines used to show slopes, but they are not precise.",
+            "Contour lines are imaginary lines connecting points of equal elevation.",
+            "Contours can represent hills, mountains, valleys, ridges, and other landforms.",
+            "Contours have properties: they never cross, they never branch, and they are numbered in the direction of increasing altitude.",
+            "Different landform patterns on maps include: concentric circles for hills, V-shapes for valleys, and tick marks for depressions.",
+            "Drainage basins can be identified on a contour map by tracing the watershed divide."
+          ],
+          "keywords": [
+            {"term": "Contour", "definition": "An imaginary line on a map connecting points of equal elevation."},
+            {"term": "Hachures", "definition": "Short disconnected lines used on maps to represent slopes and indicate the steepness of terrain."},
+            {"term": "Relief features", "definition": "The variations in elevation and shape of the Earth's surface, such as mountains, valleys, and plateaus."},
+            {"term": "Topographic map", "definition": "A detailed and accurate map showing natural and man-made features, including elevation contours."}
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "BASIC CONCEPTS OF GEOGRAPHICAL INFORMATION SYSTEM (GIS)",
+          "summary": "This section introduces the basic concepts of a Geographic Information System (GIS). GIS is defined as a computer-based system for capturing, storing, analyzing, and displaying geographically referenced data. The section explains the importance of GIS for solving problems related to climate change, resource management, urban planning, and disaster management. The five key components of GIS are: hardware (computers, GPS, scanners), software (like ArcGIS and QGIS), data (spatial and attribute data), people (users and specialists), and methods (analysis rules). It distinguishes between vector data (points, lines, polygons) and raster data (grids/pixels), and explains the importance of both spatial data (location) and attribute data (characteristics).",
+          "notes": [
+            "GIS is a computer-based system for capturing, storing, analyzing, and displaying geospatial data.",
+            "GIS is used in various fields, including environmental management, urban planning, and public health.",
+            "The five key components of GIS are hardware, software, data, people, and methods.",
+            "Hardware includes computers, GPS devices, and scanners.",
+            "Software includes programs like ArcMap and QGIS.",
+            "Data includes spatial data (location) and attribute data (characteristics).",
+            "Vector data represents features as points, lines, or polygons.",
+            "Raster data represents features as grids or cells."
+          ],
+          "keywords": [
+            {"term": "GIS", "definition": "A computer-based system for capturing, storing, analyzing, managing, and presenting spatial or geographic data."},
+            {"term": "Spatial data", "definition": "Data that describes the location and shape of geographic features."},
+            {"term": "Attribute data", "definition": "Data that describes the characteristics of a geographic feature, such as its name or classification."},
+            {"term": "Vector data", "definition": "Geographic data represented as points, lines, or polygons."},
+            {"term": "Raster data", "definition": "Geographic data represented as a grid of cells or pixels."}
+          ]
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "ARCMAP AND MAIN TOOLS",
+          "summary": "This section provides a practical guide to using ArcMap, a primary GIS application within the ArcGIS software suite. It covers how to open, save, and close ArcMap documents (.mxd files). The section describes the main menus and tools in ArcMap, including adding data layers, zooming tools, and the identify and measure tools. It also introduces ArcToolbox, which contains various geoprocessing toolsets (like Analysis and Conversion tools). Finally, it explains how to add, remove, and display data in ArcMap, including the use of the Data View and Layout View.",
+          "notes": [
+            "ArcMap is the main program for adding data, making maps, and analyzing GIS data.",
+            "ArcMap documents (.mxd) contain links to data and display information.",
+            "Menus and tools include adding layers, zooming, and querying data.",
+            "ArcToolbox contains specialized tools for geoprocessing tasks.",
+            "Data can be added to ArcMap using the Add Data button.",
+            "Data can be removed by right-clicking on the layer in the Table of Contents.",
+            "Data can be displayed in either Data View (focus on the map) or Layout View (focus on map elements)."
+          ],
+          "keywords": [
+            {"term": "Adding", "definition": "In GIS, adding refers to the process of bringing new datasets into a project."},
+            {"term": "ArcMap", "definition": "A primary GIS application within ArcGIS software, used for map creation, analysis, and data management."},
+            {"term": "Closing", "definition": "Ending a session of ArcMap."},
+            {"term": "Displaying", "definition": "Showing data visually in map form."},
+            {"term": "Opening", "definition": "Starting a new or existing ArcMap session."},
+            {"term": "Removing", "definition": "Deleting data layers from a map document."},
+            {"term": "Saving", "definition": "Storing the current ArcMap project."},
+            {"term": "Tools", "definition": "Functions within GIS software used for specific operations, such as zooming or identifying features."}
+          ]
+        }
+      ]
+    }
+  ],
+  "presentation_slides": {
+    "subject": "Geography",
+    "grade": 11,
+    "unit_1": {
+      "unit_title": "FORMATION OF CONTINENTS",
+      "slides": [
+        {"slide_number": 1, "title": "Unit 1: Formation of Continents", "content": "Overview of Earth's Geological History, Formation of Continents, Distribution of Continents and Oceans, Changing Positions over Geological Times."},
+        {"slide_number": 2, "title": "1.1 Formation of the Continents", "content": "The Earth formed about 4.5 billion years ago. The 'Big Bang' theory explains the origin of the universe. Early land masses formed 'Rodinia'. Later supercontinents: Gondwana, Laurasia, and Pangaea (255-210 Ma). Continental drift led to the breakup of Pangaea and the formation of current continents."},
+        {"slide_number": 3, "title": "1.1 Key Terms", "content": "Big Bang, Pangaea, Continental Drift, Rodinia, Mid-oceanic Ridge, Solar System."},
+        {"slide_number": 4, "title": "1.2 The Geological Timescale", "content": "A timeline of Earth's history. Uses relative and absolute dating. Relative dating uses principles: Original Horizontality, Superposition, Cross-Cutting. Absolute dating uses radioactive decay and half-lives. Eons, Eras, Periods, Epochs."},
+        {"slide_number": 5, "title": "1.2 Geological Eras", "content": "Precambrian: oldest (85% of Earth's time). Paleozoic: ancient life, age of fish. Mesozoic: middle life, age of dinosaurs. Cenozoic: recent life, age of mammals."},
+        {"slide_number": 6, "title": "1.2 Key Terms", "content": "Absolute age, Half-life, Epoch, Period, Geological Era, Radioactive decay, Isotope, Relative age, Geological timescale."},
+        {"slide_number": 7, "title": "1.3 Distribution of Continents and Oceans", "content": "Earth's surface: 71% water, 29% land. Uneven distribution: more land in Northern Hemisphere. Seven Continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America. Five Oceans: Arctic, Atlantic, Indian, Pacific, Southern."},
+        {"slide_number": 8, "title": "1.3 Key Terms", "content": "Continents, Oceans, Isthmus of Panama, Trench."},
+        {"slide_number": 9, "title": "1.4 Changing Positions of Continents and Oceans", "content": "Positions are not fixed due to plate tectonics. Pangaea was a single landmass surrounded by Panthalassa. Breakup started ~180 Ma. Formation of Atlantic, Pacific, Arctic, and Southern Oceans. Current positions are a result of millions of years of drift."},
+        {"slide_number": 10, "title": "1.4 Key Terms", "content": "Continental drift, Plate tectonics, Rodinia, Panthalassa."}
+      ]
+    },
+    "unit_2": {
+      "unit_title": "CLIMATE CLASSIFICATION AND CLIMATE REGIONS OF OUR WORLD",
+      "slides": [
+        {"slide_number": 11, "title": "Unit 2: Climate Classification", "content": "Criteria, Köppen's System, World Climatic Regions, Influencing Factors, Local Classification in Ethiopia."},
+        {"slide_number": 12, "title": "2.1 Criteria for Climate Classification", "content": "Purpose: simplify and clarify climate patterns. Ancient Greek: Frigid, Temperate, Torrid. Modern: Genetic (air masses) and Empirical (temperature/precipitation)."},
+        {"slide_number": 13, "title": "2.1 Key Terms", "content": "Genetic classification, Empirical classification, Köppen's climate classification, Climate."},
+        {"slide_number": 14, "title": "2.2 Köppen's Climate Classification", "content": "Five main types: A-Tropical, B-Dry, C-Meso-thermal, D-Micro-thermal, E-Polar. Subdivisions based on precipitation and temperature. Modified Köppen-Geiger adds detail."},
+        {"slide_number": 15, "title": "2.2 Climate Types", "content": "A: Tropical wet (Af, Am, Aw). B: Dry desert (BW) and steppe (BS). C: Humid subtropical (Cfa), Marine west coast (Cfb), Mediterranean (Cs). D: Continental climates. E: Tundra (ET) and Ice Cap (EF). H: Highland."},
+        {"slide_number": 16, "title": "2.2 Merits and Demerits of Köppen", "content": "Merits: simple, linked to vegetation. Demerits: ignores wind, sunlight, extremes, and is empirical (not always precise)."},
+        {"slide_number": 17, "title": "2.2 Key Terms", "content": "Climate classification, Modified Köppen, Simplified Köppen, Tropical climate (A), Dry climate (B), Meso-thermal (C), Micro-thermal (D), Polar climate (E), Evapotranspiration, Arid."},
+        {"slide_number": 18, "title": "2.4 World Climatic Regions", "content": "Three broad categories: Low-latitude, Mid-latitude, High-latitude. Low-latitude: Tropical Wet, Tropical Wet & Dry, Dry Desert & Steppe. Mid-latitude: Desert & Steppe, Wet, Winter Dry, Summer Dry. High-latitude: Tundra, Ice Cap."},
+        {"slide_number": 19, "title": "2.4 Key Terms", "content": "Climatic regions, Highlands, High-latitude, Low-latitude, Mid-latitude, Intertropical Convergence Zone (ITCZ), Biome."},
+        {"slide_number": 20, "title": "2.5 Factors Influencing Climate", "content": "Latitude, Continentality, Atmospheric Circulation, Seasonal Movement of Subtropical High, Coriolis Effect, Ocean Circulation, Topography."},
+        {"slide_number": 21, "title": "2.5 Key Terms", "content": "Atmospheric Circulation, Latitude, Ocean Circulation, Centrifugal, Subtropical High Pressure, Elevation, Orographic rainfall."},
+        {"slide_number": 22, "title": "2.6 Local Climate Classification of Ethiopia", "content": "Based on altitude, temperature, and growing season. Five zones: Bereha (<500m), Kolla (500-1500m), Woina-Dega (1500-2300m), Dega (2300-3300m), Wurch (>3300m)."},
+        {"slide_number": 23, "title": "2.6 Key Terms", "content": "Local Climate classification, Bereha, Kolla, Woina-Dega, Dega, Wurch."}
+      ]
+    },
+    "unit_3": {
+      "unit_title": "NATURAL RESOURCES AND CONFLICTS OVER RESOURCES",
+      "slides": [
+        {"slide_number": 24, "title": "Unit 3: Natural Resources and Conflicts", "content": "Functions of land, Resources under pressure, Depletion, Transboundary rivers, Regional Cooperation, Conflicts over resources."},
+        {"slide_number": 25, "title": "3.1 Functions and Management of Land", "content": "Land is a fundamental resource. Renewable vs. Non-renewable resources. Land functions: production, waste disposal, economic/cultural asset. Land management: controlling degradation, sustainable use."},
+        {"slide_number": 26, "title": "3.1 Key Terms", "content": "Land, Non-renewable resources, Land management, Renewable resources, Natural resources."},
+        {"slide_number": 27, "title": "3.2 Resources Under Pressure", "content": "Soils, water, and forests are under intense pressure. Soil degradation: physical, chemical, biological. Water stress: pollution, scarcity. Deforestation: clearing for agriculture, fuel, timber."},
+        {"slide_number": 28, "title": "3.2 Key Terms", "content": "Afforestation, Soil degradation, Water stress, Watershed management."},
+        {"slide_number": 29, "title": "3.3 Land Resource Depletion and Degradation", "content": "Degradation: loss of quality/quantity. Proximate causes (direct): intensive use, deforestation. Underlying causes (root): population growth, climate change. Consequences: loss of biodiversity, desertification, poverty. Remedial measures: afforestation, terracing, mulching."},
+        {"slide_number": 30, "title": "3.3 Key Terms", "content": "Proximate cause, Resource degradation, Resource management, Underlying causes, Desertification, Biodiversity."},
+        {"slide_number": 31, "title": "3.4 Transboundary Rivers", "content": "Rivers shared by two or more countries. 263 worldwide, covering 60% of freshwater. Opportunities: cooperation, development. Threats: conflict. Examples: Nile, Congo, Niger, Zambezi."},
+        {"slide_number": 32, "title": "3.4 Key Terms", "content": "Riparian countries, Shared watercourses, Transboundary."},
+        {"slide_number": 33, "title": "3.5 Regional Cooperation", "content": "Essential for sustainable use. Need for coordination and agreements. Examples: Nile Basin Initiative (NBI), Lesotho Highlands Development Authority, Zambezi River Authority, US-Canada IJC."},
+        {"slide_number": 34, "title": "3.5 Key Terms", "content": "Regional cooperation, Regional institutions, Sustainable use, Nile Basin Initiative (NBI)."},
+        {"slide_number": 35, "title": "3.6 Water Use: Ethiopia, Sudan, Egypt", "content": "Ethiopia contributes >85% of Nile flow. Historical treaties (1929, 1959) allocated water to Egypt and Sudan, excluding Ethiopia. Contentions over GERD. Per capita water use: Ethiopia low, Egypt very low."},
+        {"slide_number": 36, "title": "3.6 Key Terms", "content": "Actual water use, Potential water use, Conventions, GERD."},
+        {"slide_number": 37, "title": "3.7 Conflicts Over Resources", "content": "Disputes over accessing/controlling resources. Causes: scarcity, poor management, inequitable sharing. Examples: water (Darfur), land (Ethiopia-Eritrea), fuel (Middle East), conflict minerals (Africa). Handling strategies: avoidance, coercion, negotiation, arbitration."},
+        {"slide_number": 38, "title": "3.7 Key Terms", "content": "Arbitration, Resource conflict, Negotiation, Conflict minerals."}
+      ]
+    },
+    "unit_4": {
+      "unit_title": "GLOBAL POPULATION DYNAMICS AND CHALLENGES",
+      "slides": [
+        {"slide_number": 39, "title": "Unit 4: Global Population Dynamics", "content": "Growth of World Population, Factors for Accelerated Growth, International Migration, Population Policies."},
+        {"slide_number": 40, "title": "4.1 Growth of World Population", "content": "Demographic Transition Model (5 stages). World population grew slowly until 1800, then rapidly. 7.7 billion in 2019, projected 9.7 billion by 2050. LDCs have high growth, MDCs have low or negative growth."},
+        {"slide_number": 41, "title": "4.1 Key Terms", "content": "World population, More-developed countries (MDCs), Less-developed countries (LDCs), Demographic transition model, Demographic dividend."},
+        {"slide_number": 42, "title": "4.2 Factors for Accelerated Growth", "content": "Advances in agriculture, medicine, and public health reduced death rates. Fertility measures: CBR, TFR, GRR, GFR. Mortality measures: CDR, IMR."},
+        {"slide_number": 43, "title": "4.2 Key Terms", "content": "Accelerated, Fertility measurements, Mortality measurements, Crude Birth Rate (CBR), Total Fertility Rate (TFR), Gross Reproductive Rate (GRR), General Fertility Rate (GFR), Crude Death Rate (CDR), Infant Mortality Rate (IMR)."},
+        {"slide_number": 44, "title": "4.3 International Migration", "content": "Movement of people across borders. Push factors (e.g., poverty) and pull factors (e.g., jobs). Net recipients: Europe, North America, Australia. Net senders: Africa, Asia, Latin America. Impacts on population growth, labor, culture."},
+        {"slide_number": 45, "title": "4.3 Key Terms", "content": "International migration, Push factors, Pull factors, Net migration, Forced migration."},
+        {"slide_number": 46, "title": "4.4 Population Policies", "content": "Government actions to influence population dynamics. Direct policies (e.g., family planning). Indirect policies (e.g., education). Policies on migration and distribution to manage urbanization."},
+        {"slide_number": 47, "title": "4.4 Key Terms", "content": "Population growth, Policies, Socioeconomic development, Migration and distribution."}
+      ]
+    },
+    "unit_5": {
+      "unit_title": "GEOGRAPHICAL LOCATION AND ECONOMIC DEVELOPMENT",
+      "slides": [
+        {"slide_number": 48, "title": "Unit 5: Location and Development", "content": "Effects of Location on Development, Climate Extremes and Poverty, Disadvantages of Landlocked Countries, Intraregional Trade in Africa."},
+        {"slide_number": 49, "title": "5.1 Effects of Location on Development", "content": "Economic growth vs. development. Determinism: environment decides fate. Possibilism: humans can overcome. Theories: von Thünen (agriculture), Weber (industry), Christaller (settlements)."},
+        {"slide_number": 50, "title": "5.1 Key Terms", "content": "Administrative principle, Geographic location, Agricultural land use, Marketing principle, Least cost, Possibilism, Development, Service centers, Economic growth, Settlements, Geographic determinism, Transportation principle."},
+        {"slide_number": 51, "title": "5.2 Climate Extremes and Poverty", "content": "Extreme events (droughts, floods) worsen poverty. Poor people more vulnerable. 'Poverty traps' occur when repeated shocks erode livelihoods. SSA and South Asia most vulnerable."},
+        {"slide_number": 52, "title": "5.2 Key Terms", "content": "Climate extremes, Critical thresholds, Droughts, Flooding events, Impacts, Poverty traps, Vulnerability."},
+        {"slide_number": 53, "title": "5.3 Disadvantages of Landlocked Countries", "content": "No direct sea access. Higher transport costs, dependence on transit neighbors, political vulnerability. Examples: Ethiopia, which relies on Djibouti, Sudan."},
+        {"slide_number": 54, "title": "5.3 Key Terms", "content": "Disadvantages, Landlocked countries, Sea access, Political disadvantages, Transportation disadvantages."},
+        {"slide_number": 55, "title": "5.4 Intraregional Trade in Africa", "content": "Increased intra-African trade but still low. SADC and COMESA dominate. South Africa largest exporter. Barriers: tariffs, non-tariff measures, administrative delays."},
+        {"slide_number": 56, "title": "5.4 Key Terms", "content": "Intra-Regional trade, Commodity, Exports, Imports, Trade flows, Trade policies, Trade challenges."}
+      ]
+    },
+    "unit_6": {
+      "unit_title": "MAJOR GLOBAL ENVIRONMENTAL CHANGES",
+      "slides": [
+        {"slide_number": 57, "title": "Unit 6: Major Global Environmental Changes", "content": "Persistent Environmental Changes, Poverty-Environment Nexus, Environmental Degradation and Sustainable Development."},
+        {"slide_number": 58, "title": "6.1 Persistent Environmental Changes", "content": "Habitat destruction, Agricultural intensification (impacts on biodiversity, soil), Overexploitation (fishing, logging, water), Invasive species (terrestrial, aquatic)."},
+        {"slide_number": 59, "title": "6.1 Key Terms", "content": "Agricultural intensification, Overexploitation of resources, Environmental changes, Habitat destruction, Invasive alien species."},
+        {"slide_number": 60, "title": "6.2 Poverty-Environment Nexus", "content": "The 'vicious cycle': poverty leads to degradation (land, deforestation) which worsens poverty. Integrated approaches needed to address both."},
+        {"slide_number": 61, "title": "6.2 Key Terms", "content": "Deforestation, Environment, Land degradation, Poverty."},
+        {"slide_number": 62, "title": "6.3 Environmental Degradation and Sustainable Development", "content": "Types: soil, water, atmospheric degradation. Causes: land disturbance, pollution, overpopulation. Effects: health, biodiversity loss, resource scarcity. Sustainable development: meeting present needs without compromising future generations."},
+        {"slide_number": 63, "title": "6.3 Key Terms", "content": "Environmental degradation, Sustainable development."}
+      ]
+    },
+    "unit_7": {
+      "unit_title": "GEOGRAPHIC ISSUES AND PUBLIC CONCERNS",
+      "slides": [
+        {"slide_number": 64, "title": "Unit 7: Geographic Issues and Public Concerns", "content": "Population-related concerns, Land degradation & desertification, Drought & famine, Deforestation, Digital Divide."},
+        {"slide_number": 65, "title": "7.1 Population-Related Concerns", "content": "Challenges in DCs: rapid growth, urbanization. Family size, education, income interconnections. Malthusian vs. Anti-Malthusian views. Unemployment and underemployment issues."},
+        {"slide_number": 66, "title": "7.1 Key Terms", "content": "Economic growth rates, Household income, Education, Population growth, Employment, Underemployment, Unemployment, Family size, Household, Economic Dependency Ratio (EDR)."},
+        {"slide_number": 67, "title": "7.2 Land Degradation and Desertification", "content": "Long-term loss of land quality. Forms: physical, chemical, biological. Causes: natural and human. Desertification: degradation in drylands. Impacts: reduced productivity, biodiversity loss. Mitigation: terracing, water harvesting."},
+        {"slide_number": 68, "title": "7.2 Key Terms", "content": "Desertification, Land degradation, Physical degradation, Chemical degradation, Biological degradation."},
+        {"slide_number": 69, "title": "7.3 Recurrent Droughts and Famines", "content": "Drought: prolonged moisture deficiency (meteorological, hydrological, agricultural, socioeconomic). Famine: severe food shortage. Link between drought and famine. Impacts: crop failure, food insecurity. Mitigation: early warning, water management."},
+        {"slide_number": 70, "title": "7.3 Key Terms", "content": "Drought, Famine."},
+        {"slide_number": 71, "title": "7.4 Deforestation", "content": "Removal of forests. Underlying causes: population pressure, policy. Proximate causes: clearing for farms, logging. Consequences: biodiversity loss, climate change, soil erosion. Solutions: afforestation, reforestation, alternative energy."},
+        {"slide_number": 72, "title": "7.4 Key Terms", "content": "Deforestation."},
+        {"slide_number": 73, "title": "7.5 The Digital Divide", "content": "Gap in ICT access. Driven by income, education, location. Consequences: loss of jobs, inequality. Advantages of digitalization: access to education, telemedicine."},
+        {"slide_number": 74, "title": "7.5 Key Terms", "content": "Digital divide."}
+      ]
+    },
+    "unit_8": {
+      "unit_title": "GEO-SPATIAL INFORMATION AND DATA PROCESSING",
+      "slides": [
+        {"slide_number": 75, "title": "Unit 8: Geo-Spatial Information and Data Processing", "content": "Representation of Relief on Topographic Maps, Basic GIS Concepts, ArcMap and Main Tools."},
+        {"slide_number": 76, "title": "8.1 Representation of Relief Features", "content": "Relief: difference in elevation. Hachures: show slope direction. Contours: lines of equal elevation. Properties: never cross, never branch. Representing landforms: hills (concentric), valleys (V-shape), depressions (tick marks), etc."},
+        {"slide_number": 77, "title": "8.1 Key Terms", "content": "Contour, Hachures, Relief features, Topographic map."},
+        {"slide_number": 78, "title": "8.2 Basic Concepts of GIS", "content": "Computer-based system for spatial data. Components: Hardware, Software, Data, People, Methods. Data types: Vector (points, lines, polygons) and Raster (grids). Spatial data (location) vs. Attribute data (characteristics)."},
+        {"slide_number": 79, "title": "8.2 Key Terms", "content": "GIS, Spatial data, Attribute data, Vector data, Raster data."},
+        {"slide_number": 80, "title": "8.3 ArcMap and Main Tools", "content": "Opening, saving, closing documents (.mxd). Main menus and tools (Add Data, Zoom, Identify, Measure). ArcToolbox (analysis, conversion tools). Adding, removing, displaying data. Data View vs. Layout View."},
+        {"slide_number": 81, "title": "8.3 Key Terms", "content": "Adding, ArcMap, Closing, Displaying, Opening, Removing, Saving, Tools."}
+      ]
+    }
+  }
+}

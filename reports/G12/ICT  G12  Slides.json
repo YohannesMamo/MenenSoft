@@ -1,0 +1,608 @@
+{
+  "presentation_title": "Grade 12 Information Technology - Complete Course Presentation",
+  "subject": "Information Technology",
+  "slides": [
+    {
+      "slide_number": 1,
+      "chapter": "Unit 1: Information Systems and their Applications",
+      "section": "1.1.1 - Ethical and Legal Issues in Information System",
+      "content": {
+        "title": "Ethical and Legal Issues in Information Systems",
+        "key_points": [
+          "Ethics = principles of making right or wrong decisions",
+          "Technology creates new situations not covered by traditional laws",
+          "Four major ethical/legal issues:",
+          "  • Privacy – unauthorized access to personal data",
+          "  • Digital Ownership – controlling online creations",
+          "  • Information Gathering – consent for data collection",
+          "  • Information Security & Liability – protecting data and reporting breaches",
+          "In Ethiopia, report cyber breaches to INSA"
+        ],
+        "visual_suggestion": "Icon grid showing 4 issues (lock, copyright, database, shield)"
+      }
+    },
+    {
+      "slide_number": 2,
+      "chapter": "Unit 1: Information Systems and their Applications",
+      "section": "1.1.2 - Social Issues in Information System",
+      "content": {
+        "title": "Social Issues in Information Systems",
+        "key_points": [
+          "Socialization Gaps – less real-world interaction",
+          "Cyberbullying – harmful content sent online",
+          "Social Media & Gaming Addiction – impairs life areas",
+          "Plagiarism – presenting others' work as your own",
+          "Cybercrime – fraud, identity theft, privacy violations",
+          "Automation & Job Displacement – routine jobs lost, new skills needed",
+          "Students should be mindful, responsible digital citizens"
+        ],
+        "visual_suggestion": "Split screen – positive vs negative social impacts"
+      }
+    },
+    {
+      "slide_number": 3,
+      "chapter": "Unit 1: Information Systems and their Applications",
+      "section": "1.1.3 - Environmental Issues Caused by Information Systems",
+      "content": {
+        "title": "Environmental Issues from Information Systems",
+        "key_points": [
+          "E-waste – discarded electronics with toxic materials",
+          "Hazardous substances: cadmium, lead, mercury",
+          "E-waste Management – systematic collection, recycling, safe disposal",
+          "Green/Clean Technology – eco-friendly solutions (solar, EVs)",
+          "Paperless systems – reduce deforestation",
+          "Responsibility: use and dispose of tech smartly"
+        ],
+        "visual_suggestion": "Diagram showing e-waste cycle and green tech icons"
+      }
+    },
+    {
+      "slide_number": 4,
+      "chapter": "Unit 1: Information Systems and their Applications",
+      "section": "1.1.4 - Health Issues Caused by Information Systems",
+      "content": {
+        "title": "Health Issues from Information Systems",
+        "key_points": [
+          "Mental health: sleeping disorders, stress, loss of attention",
+          "Musculoskeletal problems: back, neck, shoulders, wrists",
+          "Vision problems: eye strain, headaches",
+          "Obesity from prolonged sitting",
+          "Solution: take breaks, maintain good posture, use devices responsibly",
+          "Balance benefits of health IT with mindful usage"
+        ],
+        "visual_suggestion": "Body diagram highlighting affected areas"
+      }
+    },
+    {
+      "slide_number": 5,
+      "chapter": "Unit 1: Information Systems and their Applications",
+      "section": "1.2 - Intellectual Property",
+      "content": {
+        "title": "Intellectual Property Rights",
+        "key_points": [
+          "Intellectual Property = intangible rights over creative works",
+          "Four types relevant to IT:",
+          "  • Trade Secrets – confidential business info (e.g., Coca-Cola recipe)",
+          "  • Patents – exclusive rights for inventions (e.g., Google PageRank)",
+          "  • Copyrights – automatic protection for original works (e.g., software)",
+          "  • Trademarks – signs distinguishing goods/services (e.g., Microsoft logo)",
+          "Ethiopian Intellectual Property Office (EIPO) manages IP applications"
+        ],
+        "visual_suggestion": "4 boxes with icons for each IP type"
+      }
+    },
+    {
+      "slide_number": 6,
+      "chapter": "Unit 1: Information Systems and their Applications",
+      "section": "1.3 - Digital Identity Management",
+      "content": {
+        "title": "Digital Identity Management",
+        "key_points": [
+          "Digital Identity = online collection of information about a person",
+          "Management involves:",
+          "  • Limiting data given out",
+          "  • Avoiding excessive storage",
+          "  • Checking and correcting personal data",
+          "Verification methods: documents, biometrics, database checks",
+          "Ethiopia: National ID project under Digital Ethiopia 2025 strategy"
+        ],
+        "visual_suggestion": "Infographic of identity verification methods"
+      }
+    },
+    {
+      "slide_number": 7,
+      "chapter": "Unit 1: Information Systems and their Applications",
+      "section": "1.4 - Collaboration Through Digital Technologies",
+      "content": {
+        "title": "Digital Collaboration",
+        "key_points": [
+          "Digital collaboration = working together using digital tools",
+          "Three components:",
+          "  • People – heart of collaboration",
+          "  • Collaborative Tools – communication, file sharing, project management",
+          "  • Devices – smartphones, tablets, laptops",
+          "Tool examples: Teams, Zoom, Google Drive, Trello, Tableau, OneNote",
+          "Improves productivity, communication, and efficiency"
+        ],
+        "visual_suggestion": "Three pillars: People, Tools, Devices"
+      }
+    },
+    {
+      "slide_number": 8,
+      "chapter": "Unit 1: Information Systems and their Applications",
+      "section": "1.5 - Engaging in Citizenship through Digital Technologies",
+      "content": {
+        "title": "Digital Citizenship",
+        "key_points": [
+          "Digital citizenship = responsible technology use",
+          "Good citizenship:",
+          "  • Make community better",
+          "  • Engage respectfully online",
+          "  • Make your voice heard",
+          "  • Validate online sources",
+          "Poor citizenship: cyberbullying, careless sharing, ignoring safety",
+          "Example: #It_is_my_dam campaign for GERD awareness"
+        ],
+        "visual_suggestion": "Image of GERD with social media icons"
+      }
+    },
+    {
+      "slide_number": 9,
+      "chapter": "Unit 2: Emerging Technologies",
+      "section": "2.1 - Introduction to Big Data",
+      "content": {
+        "title": "Big Data: The 5 V's",
+        "key_points": [
+          "Big Data = massive, complex datasets hard to process traditionally",
+          "5 V's of Big Data:",
+          "  • Volume – enormous amount of data",
+          "  • Variety – structured, unstructured, semi-structured data",
+          "  • Velocity – speed data is created",
+          "  • Value – extracting useful insights",
+          "  • Veracity – reliability of data",
+          "Applications: healthcare, education, banking, agriculture, retail, transport",
+          "Challenges: growth, security, lack of skilled professionals"
+        ],
+        "visual_suggestion": "5 V's diagram with icons"
+      }
+    },
+    {
+      "slide_number": 10,
+      "chapter": "Unit 2: Emerging Technologies",
+      "section": "2.2 - Cloud Computing",
+      "content": {
+        "title": "Cloud Computing",
+        "key_points": [
+          "Delivery of computing services over the Internet",
+          "Benefits: accessibility, flexibility, auto-updates, cost-effective",
+          "Limitations: downtime, security/privacy, data ownership concerns",
+          "4 Types: Public, Private, Hybrid, Community",
+          "3 Service Models:",
+          "  • SaaS – ready-to-use software (e.g., Gmail)",
+          "  • PaaS – platform for development (e.g., Windows Azure)",
+          "  • IaaS – virtualized infrastructure (e.g., AWS)",
+          "Examples: Google Maps, Netflix, Spotify"
+        ],
+        "visual_suggestion": "Cloud diagram with service models and types"
+      }
+    },
+    {
+      "slide_number": 11,
+      "chapter": "Unit 2: Emerging Technologies",
+      "section": "2.3 - Fog Computing",
+      "content": {
+        "title": "Fog Computing",
+        "key_points": [
+          "Extension of cloud computing – processes data closer to source",
+          "Fog nodes near data sources have higher processing power",
+          "Benefits: low latency, location awareness, reduced bandwidth use",
+          "Processes data locally then sends summary to cloud",
+          "Essential for real-time applications (autonomous vehicles, smart traffic)",
+          "Bridges gap between IoT devices and the cloud"
+        ],
+        "visual_suggestion": "Layered diagram: IoT → Fog → Cloud"
+      }
+    },
+    {
+      "slide_number": 12,
+      "chapter": "Unit 2: Emerging Technologies",
+      "section": "2.4 - Internet of Things (IoT)",
+      "content": {
+        "title": "Internet of Things (IoT)",
+        "key_points": [
+          "Network of physical objects with sensors to collect/exchange data",
+          "Advantages: efficiency, time-saving, improved decisions",
+          "Disadvantages: security risks, complexity, high cost",
+          "4 Components:",
+          "  • Sensors/Devices – collect data",
+          "  • Connectivity – transfer data",
+          "  • Data Processing – analyze data",
+          "  • User Interface – present information",
+          "Applications: Smart Home, Smart City, Supply Chain, Healthcare"
+        ],
+        "visual_suggestion": "4-component cycle diagram with smart home example"
+      }
+    },
+    {
+      "slide_number": 13,
+      "chapter": "Unit 3: Database Management System",
+      "section": "3.1 - Overview of Relational Database Management System",
+      "content": {
+        "title": "RDBMS Overview",
+        "key_points": [
+          "RDBMS = software to create, maintain, and access relational databases",
+          "Relational database = data stored in 2D tables",
+          "Fields/Columns/Attributes – represent properties",
+          "Records/Rows/Tuples – represent single entries",
+          "Data Types: Text, Integer, Date/Time, Currency",
+          "Primary Key – uniquely identifies each record",
+          "Foreign Key – links tables (primary key in another table)",
+          "Examples: Access, Oracle, MySQL, SQLite"
+        ],
+        "visual_suggestion": "Table diagram showing fields and records"
+      }
+    },
+    {
+      "slide_number": 14,
+      "chapter": "Unit 3: Database Management System",
+      "section": "3.2.1 - Using SQL in Microsoft Access",
+      "content": {
+        "title": "Using SQL in Microsoft Access",
+        "key_points": [
+          "SQL = Structured Query Language for databases",
+          "Launch Access → Create blank database",
+          "Create Query → Switch to SQL View",
+          "Write SQL commands in SQL View",
+          "Run query using 'Run' button (Design tab)",
+          "Common commands: CREATE, SELECT, UPDATE, INSERT",
+          "Double-click saved query to run later"
+        ],
+        "visual_suggestion": "Screenshot of Access showing SQL View"
+      }
+    },
+    {
+      "slide_number": 15,
+      "chapter": "Unit 3: Database Management System",
+      "section": "3.2.2 - Data Definition Language (DDL)",
+      "content": {
+        "title": "DDL - Data Definition Language",
+        "key_points": [
+          "DDL: Create and restructure database objects",
+          "Commands:",
+          "  • CREATE TABLE – define new table with columns and data types",
+          "  • ALTER TABLE – modify existing table (add, drop, change columns)",
+          "  • DROP TABLE – delete table completely",
+          "Common data types: CHAR, TEXT, INTEGER, DATETIME, CURRENCY",
+          "REFERENCES keyword creates foreign key relationships",
+          "Careful: DROP TABLE is permanent"
+        ],
+        "visual_suggestion": "Command syntax examples for CREATE, ALTER, DROP"
+      }
+    },
+    {
+      "slide_number": 16,
+      "chapter": "Unit 3: Database Management System",
+      "section": "3.2.3 - Data Manipulation Language (DML)",
+      "content": {
+        "title": "DML - Data Manipulation Language",
+        "key_points": [
+          "DML: Manage data in tables",
+          "Commands:",
+          "  • INSERT – add new records",
+          "  • UPDATE – modify existing records",
+          "  • DELETE – remove records",
+          "Use WHERE clause in UPDATE and DELETE to target specific rows",
+          "Without WHERE: all rows are affected!",
+          "For DELETE, foreign key constraints may prevent deletion"
+        ],
+        "visual_suggestion": "Example code snippets showing INSERT, UPDATE, DELETE"
+      }
+    },
+    {
+      "slide_number": 17,
+      "chapter": "Unit 3: Database Management System",
+      "section": "3.2.4 - Data Query Language - SELECT Command",
+      "content": {
+        "title": "SELECT - Data Query Language",
+        "key_points": [
+          "SELECT = retrieve data from database",
+          "Basic syntax: SELECT ... FROM ... WHERE ... ORDER BY ...",
+          "SELECT * FROM table – all records",
+          "SELECT column1, column2 – limited columns",
+          "WHERE – filter records with conditions",
+          "ORDER BY – sort results (ASC/DESC)",
+          "Join tables: SELECT ... FROM table1, table2 WHERE table1.key = table2.key"
+        ],
+        "visual_suggestion": "Example SELECT query with output table"
+      }
+    },
+    {
+      "slide_number": 18,
+      "chapter": "Unit 4: Web Authoring",
+      "section": "4.1 - Introduction to XML",
+      "content": {
+        "title": "XML - Extensible Markup Language",
+        "key_points": [
+          "XML = store and structure data, not present it",
+          "Components of XML document:",
+          "  • XML Declaration – version, encoding",
+          "  • Document Type Declaration (DTD) – document structure",
+          "  • Root Element – single parent element",
+          "  • Start/End Tags – define elements",
+          "  • Data – content between tags",
+          "  • Attributes – name-value pairs",
+          "  • Comments – ignored by parser",
+          "Syntax rules: one root, case-sensitive, proper nesting, quoted attributes"
+        ],
+        "visual_suggestion": "Example XML document with labeled components"
+      }
+    },
+    {
+      "slide_number": 19,
+      "chapter": "Unit 4: Web Authoring",
+      "section": "4.2 - HTML vs. XML",
+      "content": {
+        "title": "HTML vs. XML Comparison",
+        "key_points": [
+          "HTML: Presentation/display of data",
+          "XML: Storage/transport of data",
+          "Key differences:",
+          "  • HTML = predefined tags; XML = custom tags",
+          "  • HTML = format-driven; XML = content-driven",
+          "  • HTML = case-insensitive; XML = case-sensitive",
+          "  • HTML = tolerant of errors; XML = strict, no errors",
+          "  • HTML = .html; XML = .xml",
+          "They are complementary, not competing"
+        ],
+        "visual_suggestion": "Comparison table with side-by-side examples"
+      }
+    },
+    {
+      "slide_number": 20,
+      "chapter": "Unit 4: Web Authoring",
+      "section": "4.2.1 - Advantages and Disadvantages of XML",
+      "content": {
+        "title": "XML: Pros and Cons",
+        "key_points": [
+          "Advantages:",
+          "  • Transportable across systems",
+          "  • Separates data from HTML",
+          "  • Simplifies platform exchange",
+          "Disadvantages:",
+          "  • Needs processing application",
+          "  • Confusing syntax",
+          "  • No intrinsic data types",
+          "  • Redundant/syntactically heavy"
+        ],
+        "visual_suggestion": "Two-column table: Pros vs Cons"
+      }
+    },
+    {
+      "slide_number": 21,
+      "chapter": "Unit 4: Web Authoring",
+      "section": "4.3 - Publishing Website",
+      "content": {
+        "title": "Website Publishing",
+        "key_points": [
+          "Website = organized files with root directory",
+          "Root has subfolders: pages, images, CSS, scripts",
+          "index.html = default homepage",
+          "Publishing = upload files to web host's remote server",
+          "Domain name = unique website address (e.g., moe.gov.et)",
+          "Domain extensions: .com, .edu, .gov, .org, .mil, .net",
+          "Security: HTTPS + SSL certificate (encrypts data)",
+          "Secure sites show locked padlock in browser"
+        ],
+        "visual_suggestion": "Website directory structure diagram"
+      }
+    },
+    {
+      "slide_number": 22,
+      "chapter": "Unit 5: Maintenance and Troubleshooting",
+      "section": "5.1.1 - Installing Software",
+      "content": {
+        "title": "Installing Software",
+        "key_points": [
+          "PC Installation:",
+          "  • Insert installation disc or download from source",
+          "  • Run installation program",
+          "  • Follow on-screen instructions",
+          "  • Agree to license, enter serial number",
+          "  • Restart if prompted",
+          "Mobile Installation:",
+          "  • Use trusted app stores only (Google Play, Apple App Store)",
+          "  • Unknown sources may contain malware",
+          "  • Check security settings to scan for harmful apps"
+        ],
+        "visual_suggestion": "Step-by-step installation flowchart"
+      }
+    },
+    {
+      "slide_number": 23,
+      "chapter": "Unit 5: Maintenance and Troubleshooting",
+      "section": "5.1.2 - Uninstalling Software",
+      "content": {
+        "title": "Uninstalling Software",
+        "key_points": [
+          "Reasons: free up space, improve speed",
+          "PC Uninstallation:",
+          "  • Control Panel → Programs and Features",
+          "  • Select program → Uninstall/Change",
+          "  • Follow on-screen instructions",
+          "Mobile Uninstallation:",
+          "  • Delete apps from app list",
+          "  • System apps may be locked (cannot uninstall)",
+          "Always consult owner/technician before uninstalling"
+        ],
+        "visual_suggestion": "Screenshot of Programs and Features window"
+      }
+    },
+    {
+      "slide_number": 24,
+      "chapter": "Unit 5: Maintenance and Troubleshooting",
+      "section": "5.2 - Software Troubleshooting",
+      "content": {
+        "title": "Software Troubleshooting",
+        "key_points": [
+          "Troubleshooting = systematic approach to find and fix faults",
+          "Frozen/slow application: close, reopen, update, or force quit",
+          "Slow computer: scan for malware, free disk space, defrag",
+          "Sound not working: check volume, speakers, drivers",
+          "Task Manager: Ctrl+Alt+Delete to force quit",
+          "Consult online resources or experts for persistent issues",
+          "Troubleshooting is a learned skill"
+        ],
+        "visual_suggestion": "Task Manager screenshot showing frozen app"
+      }
+    },
+    {
+      "slide_number": 25,
+      "chapter": "Unit 5: Maintenance and Troubleshooting",
+      "section": "5.3 - Tools to Speedup Computer System",
+      "content": {
+        "title": "System Maintenance Tools",
+        "key_points": [
+          "Disk Defragmenter: rearranges files to improve retrieval",
+          "Disk Cleanup: deletes temporary/unused files",
+          "Windows Update: installs security patches and features",
+          "Check Disk: scans and fixes hard drive errors",
+          "System Restore: creates restore points or reverts to previous state",
+          "Close Unwanted Programs: free up memory via Task Manager"
+        ],
+        "visual_suggestion": "Icons for each system tool with brief description"
+      }
+    },
+    {
+      "slide_number": 26,
+      "chapter": "Unit 5: Maintenance and Troubleshooting",
+      "section": "5.4 - Network Troubleshooting",
+      "content": {
+        "title": "Network Troubleshooting Steps & Tools",
+        "key_points": [
+          "Network problems: cable fault, connectivity, config issues",
+          "Troubleshooting steps:",
+          "  1. Identify the Problem",
+          "  2. Develop a Scenario",
+          "  3. Test the Scenario",
+          "  4. Plan of Action",
+          "  5. Implement Solution",
+          "  6. Verify Functionality",
+          "  7. Document the Issue",
+          "Command-line tools: ipconfig, ping, tracert, nslookup, netstat"
+        ],
+        "visual_suggestion": "7-step troubleshooting flowchart"
+      }
+    },
+    {
+      "slide_number": 27,
+      "chapter": "Unit 5: Maintenance and Troubleshooting",
+      "section": "5.5 - Network Maintenance Tools",
+      "content": {
+        "title": "Network Hardware Maintenance Tools",
+        "key_points": [
+          "Wire Crimper – attaches connectors to cable ends",
+          "Cable Tester – verifies signal transmission",
+          "Punch Down Tool – connects wires to patch panel",
+          "Tone Generator – sends signal through wires",
+          "Multimeter – measures voltage, current, resistance"
+        ],
+        "visual_suggestion": "Photos of each hardware tool with labels"
+      }
+    },
+    {
+      "slide_number": 28,
+      "chapter": "Unit 6: Fundamentals of Programming",
+      "section": "6.1.1 - Conditionals Program Flow Controls",
+      "content": {
+        "title": "Conditional (Branching) Statements",
+        "key_points": [
+          "Conditionals = program makes decisions at runtime",
+          "Comparison operators: ==, !=, >, <, >=, <=",
+          "Logical operators: AND, OR, NOT",
+          "Python conditional statements:",
+          "  • if – executes code if condition is true",
+          "  • if...else – executes one block if true, another if false",
+          "  • if...elif...else – handles multiple conditions",
+          "Syntax rules: colon (:) after expression, proper indentation"
+        ],
+        "visual_suggestion": "Flowchart showing if-elif-else decision paths"
+      }
+    },
+    {
+      "slide_number": 29,
+      "chapter": "Unit 6: Fundamentals of Programming",
+      "section": "6.1.2 - Loops or Iteration Program Flow Controls",
+      "content": {
+        "title": "Loops (Iteration) in Python",
+        "key_points": [
+          "Loops = repeat a block of code multiple times",
+          "For Loop: iterates over a sequence (list, string, range)",
+          "  • for variable in sequence:",
+          "  • range(x), range(x,y), range(x,y,z)",
+          "While Loop: continues while condition is true",
+          "  • while expression:",
+          "Control statements:",
+          "  • break – exits loop immediately",
+          "  • continue – skips current iteration"
+        ],
+        "visual_suggestion": "Code examples showing for and while loops"
+      }
+    },
+    {
+      "slide_number": 30,
+      "chapter": "Unit 6: Fundamentals of Programming",
+      "section": "6.2 - Comments in Python",
+      "content": {
+        "title": "Comments in Python",
+        "key_points": [
+          "Comments = descriptive text ignored by interpreter",
+          "Denoted by hash symbol (#)",
+          "Single-line: # This is a comment",
+          "Multi-line: each line starts with #",
+          "Purposes: describe code, improve readability, prevent execution",
+          "IDLE: Format menu → Comment Out Region (Alt+3)",
+          "Uncomment Region (Alt+4)"
+        ],
+        "visual_suggestion": "Code snippet showing commented and uncommented regions"
+      }
+    },
+    {
+      "slide_number": 31,
+      "chapter": "Unit 6: Fundamentals of Programming",
+      "section": "6.3 - Python Interpreter",
+      "content": {
+        "title": "Python Interpreter",
+        "key_points": [
+          "Python = interpreted language",
+          "Interpreter executes source code line by line",
+          "Compilation step: source → bytecode (.pyc file)",
+          "Bytecode executed by Python Virtual Machine (PVM)",
+          "Popular interpreters: IDLE, CPython, PyPy",
+          "IDLE features: interactive mode (REPL) and script execution"
+        ],
+        "visual_suggestion": "Diagram: Source Code → Bytecode → PVM"
+      }
+    },
+    {
+      "slide_number": 32,
+      "chapter": "Unit 6: Fundamentals of Programming",
+      "section": "6.4 - Testing and Debugging Programs",
+      "content": {
+        "title": "Debugging in Python",
+        "key_points": [
+          "Bug = unexpected problem in program",
+          "Debugging = process of finding and fixing bugs",
+          "Debug Mode: Debug → Debugger in IDLE menu",
+          "Breakpoint = line where execution pauses",
+          "Set breakpoint: right-click line → Set Breakpoint",
+          "Debug Control buttons:",
+          "  • Go – run to next breakpoint",
+          "  • Step – execute next line",
+          "  • Over – line-by-line execution",
+          "Inspect variables in Debug Control Window"
+        ],
+        "visual_suggestion": "IDLE Debug Control window screenshot"
+      }
+    }
+  ]
+}

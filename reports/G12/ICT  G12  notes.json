@@ -1,0 +1,423 @@
+{
+  "subject": "Information Technology - Grade 12",
+  "chapters": [
+    {
+      "unit_number": 1,
+      "unit_title": "Information Systems and their Applications",
+      "sections": [
+        {
+          "section_number": "1.1.1",
+          "section_title": "Ethical and Legal Issues in Information System",
+          "summary": "This section defines ethics as the principles of right and wrong and highlights its growing importance in the digital age due to the lack of standardized ethical guidelines for information systems. It identifies four main ethical and legal issues: Privacy, which concerns unauthorized access to personal data; Digital Ownership, which deals with the difficulty of protecting and controlling one's digital creations online; Information Gathering, which raises consent issues about the collection of user data by applications; and Information Security and Liability, which concerns the responsibility of organizations to protect data from breaches and the need to report cyber incidents to relevant authorities like INSA in Ethiopia.",
+          "notes": "Ethics in information systems is crucial because technology creates new situations not previously covered by law or social norms. Privacy is a major concern because personal data is widely distributed and vulnerable. Digital ownership is challenged by the ease of copying and pasting digital content. Information gathering by apps raises questions about user consent and intent. Organizations face legal liability if they fail to secure sensitive data. In Ethiopia, any cybersecurity breach must be reported to the designated government unit responsible for national information infrastructure protection. Users must be aware of these issues to act responsibly and avoid legal consequences.",
+          "keywords": {
+            "Ethics": "The discipline concerned with what is morally good and bad and morally right and wrong.",
+            "Privacy (in IT)": "The state of being free from unauthorized intrusion into one's personal data stored on computer systems.",
+            "Digital Ownership": "The ability to access, use, and protect data, information, and knowledge about oneself or things one owns in the digital world.",
+            "Information Security": "The practice of preventing unauthorized access, use, disclosure, disruption, modification, or destruction of information.",
+            "Liability": "The state of being legally responsible for something, such as a security breach."
+          }
+        },
+        {
+          "section_number": "1.1.2",
+          "section_title": "Social Issues in Information System",
+          "summary": "This section explores the negative social consequences of widespread information system use. It covers Socialization Gaps, where technology leads to less real-world interaction among families and friends; Cyberbullying, the use of digital platforms to send harmful or embarrassing content; Social Media and Gaming Addiction, behavioral addictions that impair important life areas; Plagiarism, the act of presenting someone else's work as one's own without credit; and Cybercrime, illegal activities conducted through computers like fraud and identity theft. It also mentions the impact of automation on job opportunities, highlighting the need for new skills to avoid job displacement.",
+          "notes": "While technology offers many benefits, it also creates social challenges. Excessive use can weaken family bonds and real-world communication. Cyberbullying can cause significant emotional harm and embarrassment. Addiction to social media and games can negatively impact mental health, academic performance, and relationships. Plagiarism is a serious offense in education and the workplace, leading to loss of credibility and potential dismissal. Cybercrime is a growing threat that requires national vigilance. Furthermore, automation replaces many routine jobs, but also creates new ones. This means individuals must acquire new skills to remain employable in a technology-driven economy. Students are encouraged to be mindful and responsible digital citizens.",
+          "keywords": {
+            "Socialization Gaps": "The weakening of real-world social bonds and interactions due to excessive use of technology.",
+            "Cyberbullying": "The practice of sending, posting, or disseminating unfavorable, hurtful, or malicious content about someone else online.",
+            "Social Media Addiction": "A behavioral addiction characterized by excessive concern for social media, driven by an uncontrollable urge to log on or use it, to the point of impairing other important life areas.",
+            "Plagiarism": "Presenting work or ideas from another source as your own, with or without consent, by incorporating it into your work without full acknowledgement.",
+            "Cybercrime": "The use of a computer as an instrument to further illegal ends, such as committing fraud, stealing identities, or violating privacy.",
+            "Digital Sovereignty": "The concept that a nation has the right and ability to protect its digital resources from external threats and crime."
+          }
+        },
+        {
+          "section_number": "1.1.3",
+          "section_title": "Environmental Issues Caused by Information Systems",
+          "summary": "This section discusses the negative impact of technology on the environment. It highlights the problem of e-waste, where electronic devices containing hazardous materials like cadmium, lead, and mercury are improperly disposed of, leading to soil and water contamination. It introduces the concept of e-waste management as a systematic process to collect, recycle, and dispose of e-waste safely. The section also presents Green Technologies (clean technologies) as environmentally friendly solutions (like solar panels and electric vehicles) that aim to monitor or reduce negative environmental impact. Paperless communication through information systems is also discussed as a way to reduce deforestation.",
+          "notes": "Technological advancement comes with environmental costs. The improper disposal of e-waste is a significant problem because it releases toxic materials into the environment. To mitigate this, e-waste should be managed properly through collection, recovery, and safe disposal. A shift towards green or clean technology is crucial for creating a sustainable, low-carbon economy. Information systems themselves can contribute to environmental protection by enabling paperless systems, which saves trees. It is our collective responsibility to use and dispose of technology in a smart and responsible manner to protect the environment.",
+          "keywords": {
+            "E-waste": "Discarded electronic or electrical devices. E-waste contains hazardous materials that are unsafe for the environment.",
+            "E-waste Management": "A systematic procedure for gathering e-waste, recovering and recycling material in a safe manner, and disposing of e-waste to minimize negative environmental effects.",
+            "Green Technology (Clean Technology)": "Environmentally friendly technology that is used to monitor and/or reduce the negative impact of technology on the environment."
+          }
+        },
+        {
+          "section_number": "1.1.4",
+          "section_title": "Health Issues Caused by Information Systems",
+          "summary": "While health information systems can improve care delivery and patient empowerment, this section focuses on the health-related challenges caused by the unmanaged use of information systems. It identifies problems such as sleeping disorders, lack of productivity, loss of attention, and stress. It also details physical health problems from prolonged device use, including musculoskeletal problems (back, neck, shoulders), vision problems/eye strain, headaches, and obesity due to a sedentary lifestyle. The section emphasizes that users must be aware of proper usage to minimize harm.",
+          "notes": "The widespread use of mobile devices and information systems can have significant health consequences. Overuse can lead to mental health issues like stress and loss of focus. Physically, poor posture and long hours of sitting can cause back, neck, and shoulder pain. Staring at screens for extended periods strains the eyes and can cause headaches. Users should be proactive about their digital well-being by taking breaks, maintaining good posture, and using devices responsibly. The goal is to benefit from health information systems without causing harm to one's physical and mental health.",
+          "keywords": {
+            "Digital Well-being": "The state of being healthy and balanced in one's use of digital technology.",
+            "Musculoskeletal Problems": "Issues with muscles, bones, and joints, often caused by poor posture or repetitive movements.",
+            "Vision Problems (Digital Eye Strain)": "Physical eye discomfort and vision issues caused by prolonged use of digital screens."
+          }
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Intellectual Property",
+          "summary": "Intellectual property (IP) refers to intangible rights of ownership over a creative work. This section describes four types of IP rights relevant to the software and information system industry: Trade Secrets, which protect confidential business information; Patents, which grant exclusive rights for an invention (including some software); Copyrights, which automatically protect original works of authorship (including software); and Trademarks, which are signs that distinguish the goods or services of one enterprise from another. In Ethiopia, the Ethiopian Intellectual Property Office is the authority to manage IP applications. The section clarifies the differences and purposes of each type of IP protection.",
+          "notes": "Intellectual Property Rights are essential for protecting creators and innovators. A trade secret is not publicly known and gives a business a competitive advantage. A patent is a time-limited monopoly granted for a new, useful, and non-obvious invention. In Ethiopia, software can be patented if it meets certain criteria. A copyright is automatic upon creation and protects the expression of an idea, which is how it protects software code. A trademark protects brand identity. It is crucial for students to understand these concepts to respect the work of others and to protect their own creations.",
+          "keywords": {
+            "Intellectual Property (IP)": "A legal right over a creative work of the human intellect, including patent, trademark, registration certificate and copyright.",
+            "Trade Secret": "Intellectual Property rights on confidential information which may be sold or licensed. It is protected from unauthorized acquisition, use, or disclosure.",
+            "Patent": "An exclusive right granted for an invention, providing the patent owner with the right to decide how, or whether, the invention can be used by others.",
+            "Copyright": "A type of intellectual property protection that protects original works of authorship, including literary works, music, art, and software.",
+            "Trademark": "A sign capable of distinguishing the goods or services of one enterprise from those of other enterprises."
+          }
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Digital Identity Management",
+          "summary": "Digital identity is the collection of information about a person that exists online. This section explains that every individual should have a trusted digital identity to access services like banking and healthcare. It outlines the management of digital identity, which involves limiting the data given out, avoiding excessive storage, checking stored data, correcting incorrect data, and avoiding redundancy. The section also mentions various verification methods like database checks, document verification, and biometric verification. It highlights the Ethiopian National ID project as part of the Digital Ethiopia 2025 strategy to provide a robust digital identification for all citizens and residents.",
+          "notes": "A digital identity is a representation of a person, organization, or device online. It is built from various pieces of information and is used by businesses and governments to identify individuals. Managing your digital identity involves being mindful of what data you share and with whom. It includes checking and correcting incorrect data to maintain a reliable identity. Verification methods help secure access to online services. The Ethiopian National ID project aims to enhance access to fundamental services and improve digital identity management practices at a national level.",
+          "keywords": {
+            "Digital Identity": "A collection of information about a person that exists online, used to create a digital image of that person.",
+            "Digital Identity Management": "The process of limiting personal data given out, avoiding excessive storage, checking what data is stored, making corrections, and avoiding redundant data."
+          }
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Collaboration Through Digital Technologies",
+          "summary": "Digital collaboration means working with others using digital devices and technology to achieve a goal. This section explains that it improves workplace collaboration, communication, and information flow. It identifies the main components of digital collaboration as People, Collaborative Tools, and Devices. Various types of collaborative tools are listed: Communication tools (e.g., Microsoft Teams, Zoom), Documentation and file-sharing tools (e.g., Google Drive, Dropbox), Project Management tools (e.g., Trello, Asana), Data Visualization tools (e.g., Tableau, Power BI), and Notetaking tools (e.g., Evernote, OneNote). The section also includes a practical activity for students to use these tools.",
+          "notes": "Digital collaboration is essential in the modern world, allowing teams to work together effectively regardless of location. The success of digital collaboration depends on the right combination of people, appropriate tools, and reliable devices. Different types of tools serve different purposes. Communication tools facilitate real-time interaction. Documentation tools enable shared file creation and management. Project management tools help organize tasks and timelines. The choice of tool should be based on specific needs, features, and ease of use. This technology significantly boosts productivity and efficiency in organizations.",
+          "keywords": {
+            "Digital Collaboration": "Working with other individuals or teams and getting things done using digital devices and technology.",
+            "Collaborative Tools": "Software, apps, and services that allow people to work together, such as those for communication, file sharing, and project management."
+          }
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Engaging in Citizenship through Digital Technologies",
+          "summary": "Digital citizenship is the responsible use of technology to engage with society. It requires the ability to participate positively, critically, and competently in the digital environment while respecting human rights and dignity. This section contrasts good digital citizenship (e.g., using technology to make a community better, engaging respectfully online, and making one's voice heard) with poor digital citizenship (e.g., online bullying and careless social media use). An example is given of the #It_is_my_dam hashtag campaign on social media, which was used to support the Grand Ethiopian Renaissance Dam and create global awareness.",
+          "notes": "Digital citizenship is about more than just avoiding risks; it's about actively and positively participating in society using digital tools. It involves using technology to solve problems, empathize with others, and build connections. Individuals should use their digital voice to engage with public leaders and the global community on important issues. Good digital citizens also practice critical thinking to validate online information. The GERD hashtag campaign is a powerful example of how Ethiopians used digital technology to unite and create awareness about a national project. It shows how digital platforms can be used for social and political engagement.",
+          "keywords": {
+            "Digital Citizenship": "The responsible use of technology by anyone who uses computers, the Internet, and digital devices to engage with society on any level.",
+            "Good Digital Citizenship": "Using digital tools to communicate, empathize, build connections, and create thoughtful, empathetic digital citizens who engage with important ethical questions."
+          }
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Emerging Technologies",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Introduction to Big Data",
+          "summary": "This section defines Big Data as massive and complex data sets that are difficult to process with traditional tools. It explains that the exponential growth of data is driven by the rise of computers, the Internet, and IoT devices. The section details the 5 V's of Big Data: Volume (the huge amount of data), Variety (different data types like structured, unstructured, and semi-structured), Velocity (the speed at which data is created), Value (the importance of extracting useful information), and Veracity (the reliability of data). It lists benefits such as customer acquisition, targeted ads, and risk management, and explores applications in various sectors like healthcare, education, banking, agriculture, manufacturing, retail, and transportation. Challenges are also highlighted, including managing data growth, a lack of skilled professionals, and security.",
+          "notes": "Big Data is a defining characteristic of our digital age. It starts with the massive amount of data we generate. The 'V's help to understand its key aspects: the sheer amount (Volume), the different forms (Variety), the fast pace (Velocity), the need for meaningful insight (Value), and the importance of trustworthiness (Veracity). Its applications are widespread. In healthcare, it improves patient care and reduces costs. In education, it enables personalized learning. In banking, it's used for fraud detection. Big Data is a powerful resource for decision-making, but it also presents significant challenges in storage, security, and finding qualified professionals.",
+          "keywords": {
+            "Big Data": "A collection of data sources that are so massive and complex that they become challenging to process using typical data processing software.",
+            "Volume (in Big Data)": "The immense amount of data being generated.",
+            "Variety (in Big Data)": "The different types of data, including structured, unstructured, and semi-structured.",
+            "Velocity (in Big Data)": "The speed at which data is being created in real-time.",
+            "Value (in Big Data)": "The valuable, reliable, and trustworthy data that needs to be analyzed to find insights.",
+            "Veracity (in Big Data)": "The degree of reliability that the data has to offer."
+          }
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Cloud Computing",
+          "summary": "Cloud computing is the delivery of computing services (servers, storage, networking, databases) over the Internet. This section highlights its benefits, such as accessibility from anywhere, flexibility, automatic updates, and cost-effectiveness. The limitations are also discussed, including server downtime, security and privacy issues, concerns over data ownership, and potential inflexibility. It describes the four types of cloud: Public (resources shared across clients), Private (dedicated resources), Hybrid (combination of public and private), and Community (shared by specific organizations with common concerns). The three main service models are explained: Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS).",
+          "notes": "Cloud computing has revolutionized how we access and manage technology. Instead of owning physical hardware, users can rent resources on demand from a provider. This offers great flexibility, scalability, and cost savings. However, it's not without drawbacks. Service interruptions can occur, and data security depends heavily on the provider. It's also essential to understand the different cloud types and service models to choose the right solution. Public clouds offer shared resources, private clouds offer more control, and hybrid clouds offer the best of both worlds. SaaS provides ready-to-use software, PaaS provides a platform for development, and IaaS provides the basic infrastructure.",
+          "keywords": {
+            "Cloud Computing": "Storing and accessing data and computing services over the Internet.",
+            "Public Cloud": "A cloud computing model where a service provider's resources are shared across different clients.",
+            "Private Cloud": "A cloud model where all resources are dedicated to a single application or organization.",
+            "Hybrid Cloud": "A combination of public cloud and private cloud.",
+            "Software as a Service (SaaS)": "A software distribution model where applications are hosted by a vendor and made available to customers over a network or the Internet.",
+            "Platform as a Service (PaaS)": "A cloud computing service that offers users a whole cloud platform, including hardware, software, and infrastructure, for creating, administering, and using applications.",
+            "Infrastructure as a Service (IaaS)": "A form of cloud computing that provides virtualized computing resources over the internet."
+          }
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Fog Computing",
+          "summary": "Fog computing is introduced as an extension of cloud computing. It aims to address the congestion and latency issues of cloud computing by processing data closer to the source (like IoT devices). The section introduces the concept of 'fog nodes' located near the data source, which have higher processing and storage capabilities than simple IoT devices but are not as powerful as the cloud. Fog computing provides low latency and location awareness, which is crucial for applications like autonomous vehicles and smart city traffic management. It handles and processes data locally first, then sends summarized or relevant data to the cloud, optimizing bandwidth.",
+          "notes": "Fog computing bridges the gap between cloud and IoT. With billions of devices sending data to the cloud, networks can become congested, and delays can be introduced. Fog computing places an intermediate layer—the fog—between the IoT devices and the cloud. This layer processes data locally, which reduces latency (time delay) and bandwidth usage. For example, a smart traffic light system can process traffic data locally and make immediate adjustments without waiting for instructions from a distant cloud server. Only critical or historical data is sent to the cloud. This architecture is essential for real-time applications.",
+          "keywords": {
+            "Fog Computing": "A decentralized computing infrastructure in which data, compute, storage and applications are located somewhere between the data source and the cloud.",
+            "Fog Node": "A device located closer to the data source with higher processing and storage capability than a basic sensor, but less than a cloud data center."
+          }
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Internet of Things (IoT)",
+          "summary": "The Internet of Things (IoT) is a network of physical objects ('things') embedded with sensors, software, and other technologies to collect and exchange data. This section explains that IoT aims to extend internet connectivity beyond computers and smartphones to everyday objects. Major advantages include efficiency through real-time data, time-saving through automation, and improved decision-making. Key disadvantages are security issues (vulnerability to hackers), complexity and integration challenges, and higher costs. The section details the four components of an IoT system: Sensors/Devices (collect data), Connectivity (transfer data), Data Processing (analyze data), and User Interface (present information to the user). Applications are explored in areas like Smart Home, Smart City, and Supply Chain.",
+          "notes": "IoT transforms ordinary objects into 'smart' devices by connecting them to the internet. This allows for remote control, data collection, and automation. For example, a smart thermostat can learn user preferences and automatically adjust the temperature. A supply chain can use IoT for real-time tracking of goods. The IoT system works by sensors collecting data, which is then sent via a network, processed by software, and finally presented to the user for action. Despite its benefits, IoT introduces significant security risks because it increases the number of vulnerable entry points to a network. The complexity and cost of deploying a large-scale IoT system are also major hurdles.",
+          "keywords": {
+            "Internet of Things (IoT)": "A network of physical objects or people referred to as 'things' that are equipped with software, electronics, networks, and sensors to collect and exchange data.",
+            "Sensor": "A device that detects and responds to some type of input from the physical environment (e.g., temperature, motion, moisture).",
+            "Connectivity (in IoT)": "The various methods by which IoT devices send and receive data, such as cellular, Wi-Fi, or Bluetooth."
+          }
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Database Management System",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Overview of Relational Database Management System",
+          "summary": "This section defines a Relational Database Management System (RDBMS) as software for creating, maintaining, and providing controlled access to a relational database. A relational database is based on the relational data model, where data is stored in two-dimensional tables. These tables consist of columns (fields/attributes) and rows (records/tuples). The section explains key concepts like attributes (properties of an entity) and records (a row in a table). It also covers data types for fields (e.g., Text, Integer, Date/Time, Currency). The concept of primary keys (unique identifiers) and foreign keys (which link tables) is introduced to show how relationships are created in a database.",
+          "notes": "An RDBMS is the standard way to organize and manage data. It structures information into logical, user-friendly tables. Each attribute has a specified data type to ensure data integrity. The primary key uniquely identifies each record in a table. A foreign key is a field in one table that is the primary key in another, allowing relationships to be created. These relationships are crucial for a normalized, non-redundant database. Popular RDBMS examples include Microsoft Access, Oracle, and MySQL.",
+          "keywords": {
+            "Relational Database Management System (RDBMS)": "Various types of software systems developed in order to create, maintain, and provide controlled access to a relational database.",
+            "Relational Database": "A database based on the relational data model, where data is stored in two-dimensional tables.",
+            "Field (Column, Attribute)": "A single piece of information in a table; it represents an attribute of an entity.",
+            "Record (Row, Tuple)": "A single entry in a table, containing a value for each field.",
+            "Primary Key": "A field in a table that uniquely identifies each record. It cannot be duplicated.",
+            "Foreign Key": "A field in one table that is the primary key in another table. It is used to create a relationship between tables.",
+            "Data Type": "The type of data value a field can store (e.g., CHAR, INTEGER, DATETIME)."
+          }
+        },
+        {
+          "section_number": "3.2.1",
+          "section_title": "Using SQL in Microsoft Access",
+          "summary": "This section provides a practical guide on how to use the SQL language within the Microsoft Access environment. It begins by explaining what SQL (Structured Query Language) is—a standard language for accessing and manipulating databases. It then gives step-by-step instructions on how to launch Access, create a blank database, and create a new query. It covers how to open the SQL view by clicking on 'Query Design' and then selecting 'SQL View' to write commands like CREATE, SELECT, UPDATE, and INSERT. Finally, it explains how to run these SQL commands using the 'Run' button on the Design tab.",
+          "notes": "Microsoft Access is a common RDBMS that allows users to interact with databases using SQL. To start, you must create a database file. The 'Query Design' button is the entry point to writing custom SQL queries. The key is to switch from the 'Design View' to the 'SQL View'. This allows users to type in their commands directly. Running a query executes the commands and shows the results in a datasheet view. If an error occurs, Access will display a pop-up message. SQL in Access provides powerful data definition, manipulation, and querying capabilities.",
+          "keywords": {
+            "SQL (Structured Query Language)": "A standard language for accessing and manipulating a relational database.",
+            "SQL View": "A mode in Microsoft Access that allows users to write and edit SQL commands directly.",
+            "Query": "A set of instructions in SQL used to retrieve or manipulate data in a database."
+          }
+        },
+        {
+          "section_number": "3.2.2",
+          "section_title": "Data Definition Language (DDL)",
+          "summary": "This section focuses on the Data Definition Language (DDL), which is used to create and restructure database objects. It covers three fundamental DDL commands: CREATE TABLE (to create a new table with specified columns, data types, and optional primary keys), ALTER TABLE (to modify an existing table by adding, dropping, or changing columns), and DROP TABLE (to completely delete a table from the database). The section provides detailed syntax for these commands, including how to define relationships between tables using the REFERENCES keyword. It also includes tables showing common data types in MS Access SQL, like CHAR, TEXT, INTEGER, DATETIME, and CURRENCY.",
+          "notes": "DDL is essential for defining the structure of your database. The CREATE TABLE command establishes the blueprint for a table, specifying each column's name and data type. It is also where you can set a primary key. The ALTER TABLE command allows for structural changes after a table is created, such as adding a new column, changing a column's data type, or adding a foreign key relationship to another table. The DROP TABLE command is used to remove a table entirely. It's a powerful but destructive command. Understanding these commands is the first step to building a functional relational database.",
+          "keywords": {
+            "Data Definition Language (DDL)": "A category of SQL commands that allow you to create or modify tables and establish relationships between tables in your database structure.",
+            "CREATE TABLE": "An SQL command used to create a new table in a database.",
+            "ALTER TABLE": "An SQL command used to modify the structure of an existing table, such as adding, dropping, or changing columns.",
+            "DROP TABLE": "An SQL command used to delete a table and all its data from the database."
+          }
+        },
+        {
+          "section_number": "3.2.3",
+          "section_title": "Data Manipulation Language (DML)",
+          "summary": "This section covers the Data Manipulation Language (DML), which includes commands for managing and modifying the data within database tables. It explains three main DML commands: INSERT (to add new records to a table), UPDATE (to modify existing records), and DELETE (to remove records). The section provides syntax and examples for each. It explains the two options for the INSERT command (inserting all values or only selected columns). It details how the UPDATE command uses the SET and WHERE clauses to change specific values in one or more rows. It also emphasizes the importance of using the WHERE clause carefully in UPDATE and DELETE commands to avoid unintended changes or data loss.",
+          "notes": "DML commands are used to interact with the actual data in a database. INSERT adds new rows, UPDATE changes values in existing rows, and DELETE removes rows. A common pitfall is forgetting the WHERE clause in UPDATE and DELETE statements. Without a WHERE clause, an UPDATE will change all rows in the table, and a DELETE will erase all rows. Always specify the condition to target the exact record(s). For relationships, deleting a record with a foreign key referenced by another table may require deleting the child records first. The examples in Access demonstrate these concepts clearly.",
+          "keywords": {
+            "Data Manipulation Language (DML)": "A category of SQL commands that allow you to manage the database by performing operations such as inserting, updating, deleting, and navigating through data.",
+            "INSERT": "An SQL command used to add new records to a table.",
+            "UPDATE": "An SQL command used to modify existing records in a table.",
+            "DELETE": "An SQL command used to remove records from a table."
+          }
+        },
+        {
+          "section_number": "3.2.4",
+          "section_title": "Data Query Language - SELECT Command",
+          "summary": "This section covers the Data Query Language (DQL), specifically the SELECT command, which is the primary tool for querying and retrieving data from a database. It explains the basic syntax (SELECT ... FROM ... WHERE ... ORDER BY ...). It details how to select all records (*) or specific columns. The WHERE clause is explained for filtering records using comparison operators (e.g., =, >) and logical operators (AND, OR). The ORDER BY clause is described for sorting results in ascending (ASC) or descending (DESC) order. Finally, the section explains how to join data from two tables by referencing fields from both tables and using a join condition (e.g., WHERE table1.column1 = table2.column2).",
+          "notes": "The SELECT command is the most frequently used SQL command. It allows users to ask specific questions of the database. The SELECT clause specifies which columns to return. The FROM clause specifies which tables to use. The WHERE clause filters the rows based on conditions. The ORDER BY clause sorts the output. To query data from multiple related tables, you must specify a join condition to connect them. This creates a more complete and meaningful dataset. The examples in the section show various practical applications of these clauses, making them easier to understand.",
+          "keywords": {
+            "Data Query Language (DQL)": "A category of SQL used for querying or selecting all or subsets of data from a database.",
+            "SELECT": "An SQL command used to retrieve data from one or more tables.",
+            "WHERE": "An SQL clause that specifies criteria that must be met by each record to be included in the results.",
+            "ORDER BY": "An SQL clause that specifies how to sort the results, in ascending or descending order."
+          }
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Web Authoring",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Introduction to XML",
+          "summary": "This section introduces XML (Extensible Markup Language), a markup language designed for storing and structuring data. It contrasts XML with HTML, stating that HTML is for presentation, while XML is for describing data content. It details the key elements of an XML document, including the XML declaration, Document Type Declaration (DTD), root element (e.g., <people>), start and end tags, elements, and data. Other concepts like attributes and comments are also explained. It describes how to create XML documents using any text editor and view them in a web browser or XML Notepad. The section concludes with seven essential syntax rules for creating a 'well-formed' XML document.",
+          "notes": "XML is a flexible way to structure information using custom tags. This makes data more organized and searchable. A well-formed XML document follows strict rules: it must have one root element, tags are case-sensitive, elements must be properly nested, attributes must be quoted, and special characters must be replaced with entity references. Comments and an XML declaration are also part of a standard XML document. The ability to define custom tags makes XML powerful for data exchange. The document is represented as a tree structure, with the root at the top.",
+          "keywords": {
+            "XML (Extensible Markup Language)": "A markup language that provides a standard open format and mechanisms for structuring a document so that it can be exchanged and manipulated.",
+            "XML Declaration": "A statement at the beginning of an XML document that defines the XML version and character encoding used.",
+            "Root Element": "The single top-level element that contains all other elements in an XML document.",
+            "Element": "The basic building block of an XML document, consisting of a start tag, content, and an end tag.",
+            "Attribute": "A name-value pair that provides additional information about an XML element. Values must be quoted.",
+            "Well-Formed XML": "An XML document that conforms to all syntax rules of the XML standard.",
+            "PCDATA": "Parsed Character DATA. The text found between the start and end tags of an XML element."
+          }
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "HTML vs. XML",
+          "summary": "This section provides a comparison between HTML and XML, the two most common markup languages. It clarifies that HTML is a predefined language for creating and designing the layout and structure of web pages, while XML is a framework for specifying custom markup languages to store and transfer data. Key differences highlighted include: HTML is format-driven, XML is content-driven; HTML is case-insensitive, XML is case-sensitive; HTML has predefined tags, XML allows custom tags; HTML ignores small errors, XML requires perfect syntax. The table in the section summarizes these differences across various parameters like purpose, structural details, and learning curve.",
+          "notes": "HTML and XML serve different but complementary purposes. HTML is designed for web display, meaning it tells a browser how to visually present information. XML is designed for data description, meaning it tells a computer what the information is. This is why XML has such strict syntax rules: the computer needs to parse the data perfectly to understand it, while a human can often guess the intent of a broken web page. They are not competitors, but rather two tools for different jobs. XML is a meta-language used to define new markup languages, whereas HTML is a single, predefined language.",
+          "keywords": {
+            "HTML (HyperText Markup Language)": "A predefined markup language for creating and designing web content and defining the layout of a web page.",
+            "Format-Driven": "Describes a language like HTML, where the primary concern is how the data looks when displayed.",
+            "Content-Driven": "Describes a language like XML, where the primary concern is what the data is and its structure."
+          }
+        },
+        {
+          "section_number": "4.2.1",
+          "section_title": "Advantages and Disadvantages of XML",
+          "summary": "This section lists the advantages and disadvantages of XML. The advantages include its transportability across different systems and applications, its separation of data from presentation (HTML), and its simplification of platform exchange. The disadvantages include the requirement for a processing application, its potentially confusing syntax, the lack of intrinsic data type support, and its redundant syntax.",
+          "notes": "XML's primary strength is its role as a universal standard for data exchange. It makes it easy to move data between different systems, regardless of the underlying technology. However, because it is highly flexible, it requires a separate application to process and interpret the data. Its verbose syntax can also make documents larger and more complex than necessary.",
+          "keywords": {
+            "Transportable": "The ability of XML to be exchanged quickly and easily between different platforms and applications."
+          }
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Publishing Website",
+          "summary": "This section explains the process of making a website accessible online. It covers the structure of a website, including the root directory and sub-folders for pages, images, CSS, and scripts. It emphasizes that the `index.html` file is the default homepage. The section describes publishing as uploading website files to a web host's remote server. It also explains the importance of registering a unique domain name with an appropriate extension (.com, .edu, .gov, etc.) and the role of security options like HTTPS and SSL certificates. SSL encrypts data transfer, and a secure site is indicated by a locked padlock icon in the browser address bar.",
+          "notes": "Publishing a website makes it available on the World Wide Web. To do this, you need a web hosting service to store your files and a registered domain name for people to find your site. A website's files are organized logically, with a root folder for the domain and subfolders for images, CSS styles, and scripts. Security is critical; HTTPS with an SSL certificate encrypts data, protecting user information. A secure site builds trust and is a standard for modern websites. A website is a collection of files. The web server is the remote computer that stores those files. The web host is the company that provides the server space.",
+          "keywords": {
+            "Website Publishing": "The process of publishing the website's original content onto the Internet, or specifically onto a remote server.",
+            "Web Hosting": "A service providing online space for the storage of websites on a web server.",
+            "Domain Name": "The unique name that identifies a website on the internet, coming after 'www'.",
+            "HTTPS": "Hypertext Transfer Protocol Secure; a protocol that provides security over the Internet by encrypting data.",
+            "SSL Certificate": "A certificate that enables a secure online connection by encrypting information transferred between the website and its visitors.",
+            "Index.html": "The default homepage file of a website that a web server returns when no specific file name is requested."
+          }
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Maintenance and Troubleshooting",
+      "sections": [
+        {
+          "section_number": "5.1.1",
+          "section_title": "Installing Software",
+          "summary": "This section explains the general steps for installing software on personal computers and mobile devices. For PCs, the process involves inserting an installation disk, running the installation program (or downloading it), following on-screen instructions (including reading software licenses and entering serial numbers), and restarting the system if prompted. For mobile devices, it highlights the importance of downloading apps only from trusted sources like official app stores to protect against malware. The section emphasizes using reliable sources and checking a device's security settings.",
+          "notes": "Installing software is the process of making a program ready for execution. It can involve configuring hardware and software. For PC installation, the AutoPlay feature often starts the installer automatically; otherwise, the setup file can be run manually from the drive. It is crucial to download software only from reputable developers and app stores. On mobile devices, unknown sources can be dangerous. Both processes require user attention to terms and conditions.",
+          "keywords": {
+            "Installation": "The process of getting a program ready to run, including configuring hardware or software.",
+            "Device Driver": "A special kind of software program that controls a specific hardware device attached to a computer."
+          }
+        },
+        {
+          "section_number": "5.1.2",
+          "section_title": "Uninstalling Software",
+          "summary": "This section covers the uninstallation process for removing unwanted programs from a computer. It explains how to uninstall software from a PC via the Control Panel > Programs and Features. It outlines the steps: selecting the program, clicking the Uninstall/Change button, and following the on-screen directions. For mobile devices, the process involves deleting apps from the application list. It also notes that system apps that come pre-installed on a device cannot always be uninstalled. The section emphasizes consulting device owners or technicians before uninstalling software.",
+          "notes": "Uninstalling software is the opposite of installing it; it removes a program from the system. It is important to use the proper uninstall method to prevent leftover files. The Control Panel provides a standard interface for uninstalling Windows programs. In some cases, a User Account Control prompt may require administrative confirmation. On mobile devices, pre-installed system apps are often locked and cannot be removed. If physical media (like a CD) was used for installation, it may be needed for the uninstallation process.",
+          "keywords": {
+            "Uninstalling": "The process of removing a program from a system which was previously installed."
+          }
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Software Troubleshooting",
+          "summary": "This section defines troubleshooting as a systematic approach to finding the cause of a fault in a computer system. It explains that software troubleshooting involves identifying and fixing problems with the operating system and application software. It provides examples and solutions for common problems: a slow or frozen application (solution: close and reopen, update, or force quit via Task Manager); a slow computer (solutions: scan for malware, free up disk space, run Disk Defragmenter); and sound not working (solutions: check volume controls, external speakers, and update sound drivers). It encourages seeking help from online resources or experts for persistent issues.",
+          "notes": "Software problems can range from minor glitches to major system failures. A methodical approach can help resolve many issues. For a frozen application, the 'Force Quit' function (via Task Manager) is a practical first step. If the entire computer is slow, it could be due to malware, low disk space, or fragmentation. Sound issues often have simple fixes like checking the volume, ensuring speakers are plugged in, or updating drivers. A key skill is knowing when to apply a solution, when to consult the internet, and when to seek professional help.",
+          "keywords": {
+            "Troubleshooting": "A systematic approach to locating the fault and identifying the cause of the fault in a computer system.",
+            "Task Manager": "A system utility in Windows that shows running processes and allows the user to force quit frozen applications.",
+            "Force Quit (or End Task)": "The action of stopping a program that is not responding to user input."
+          }
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Tools to Speedup Computer System",
+          "summary": "This section describes built-in system tools in Windows for maintaining and improving computer performance. It covers Disk Defragmenter, which rearranges fragmented files to improve data retrieval efficiency; Disk Cleanup, which deletes unused temporary files to free up disk space; Windows Update, which ensures the system is up-to-date with security patches and features; Check Disk, which scans for and fixes hard drive errors; and System Restore, which creates a restore point or reverts the system to a previous state to recover from malfunctions. It also mentions closing unwanted programs using Task Manager to free up resources.",
+          "notes": "Regular maintenance is key to a healthy and fast computer. Fragmentation slows down file access because the computer has to read from multiple parts of a disk. Disk Defragmenter consolidates these parts. Disk Cleanup is a simple way to quickly free up space by deleting temporary files, cache, and other 'junk'. Windows Updates are crucial for security and stability. Check Disk is a more in-depth tool that attempts to fix file system errors. Finally, System Restore is a safety net that allows users to undo changes that caused problems. Closing unnecessary programs helps free up memory.",
+          "keywords": {
+            "Disk Defragmenter": "A system tool used to rearrange files on the disk so they are stored in a continuous sequence, increasing data retrieval efficiency.",
+            "Disk Cleanup": "A system tool that deletes unused and unwanted files on the hard disk to free up disk space.",
+            "Windows Update": "A tool that ensures the computer is up-to-date with new features and the latest security patches from Microsoft.",
+            "System Restore": "A system tool used to create a new restore point or to restore the system to a previous restore point to fix system malfunctions."
+          }
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Network Troubleshooting",
+          "summary": "Network troubleshooting is the process of diagnosing and fixing problems in a computer network. This section covers basic network problems like cable issues, connectivity problems, configuration issues, software compatibility issues, and network overload. It provides a step-by-step guide to troubleshooting: Identify the Problem, Develop a Scenario, Test the Scenario, Plan of Action, Implement the Solution, Verify System Functionality, and Document the Issue. It also lists common command-line tools for network analysis including `ipconfig`, `ping`, `tracert`, `nslookup`, and `netstat`. It notes the difference between local and outside networks, emphasizing that outside networks require assistance from their administrators.",
+          "notes": "Network issues can be caused by hardware, software, or configuration problems. Troubleshooting is a logical, repeatable process. The first step is gathering information to identify the problem's symptoms. Then, develop and test a hypothesis (scenario). The plan of action should be implemented, followed by verification. Documenting the entire process is essential for future reference. Tools like `ipconfig` help find a system's IP address, `ping` tests connectivity to a host, and `tracert` shows the route to a destination. Knowing when a problem is outside your control is key to efficient problem-solving.",
+          "keywords": {
+            "Network Troubleshooting": "The collection of techniques and procedures used to locate, analyze, and fix issues in a computer network.",
+            "ipconfig": "A Windows utility that verifies network settings and can tell you a host's IP address, subnet mask, and default gateway.",
+            "ping": "A utility that transmits a datagram to another host to check if it is reachable and functioning.",
+            "tracert": "A utility that determines the route data takes to get to a particular destination.",
+            "nslookup": "A DNS utility that displays the IP address of a hostname or vice versa.",
+            "netstat": "A utility that shows the status of each active network connection."
+          }
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Network Maintenance Tools",
+          "summary": "This section provides an overview of hardware tools used for network maintenance and troubleshooting. It describes the purpose of each tool: Wire Crimpers (to attach connectors to cables and make/modify network cables); Cable Testers (to verify signal transmission and diagnose cable problems); Punch Down Tools (to connect cable wires to a patch panel); Tone Generators (to verify signals pass through wires); and Multimeters (to measure electrical properties like voltage and current in network components).",
+          "notes": "Network maintenance goes beyond software. Physical cabling is the backbone of a network. A wire crimper is needed to create custom-length cables. A cable tester is essential to quickly check if a cable is working. Punch-down tools are used in structured cabling for connecting wires to jacks and panels. Tone generators help trace and identify specific wires in a bundle. A multimeter is a general-purpose tool used for electrical troubleshooting and can test power supplies or cable continuity. These tools help network professionals diagnose and repair the physical layer of the network.",
+          "keywords": {
+            "Wire Crimper": "A tool that attaches media connectors to the ends of cables.",
+            "Cable Tester": "A tool that verifies if a signal is transmitted by a given cable.",
+            "Punch Down Tool": "A tool used to connect cable wires directly to a patch panel or punch-down block.",
+            "Tone Generator": "A device that sends an electrical signal through wires to verify signal passage.",
+            "Multimeter": "An electronic measuring instrument that takes electrical measurements such as voltage, current, and resistance."
+          }
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Fundamentals of Programming",
+      "sections": [
+        {
+          "section_number": "6.1.1",
+          "section_title": "Conditionals Program Flow Controls",
+          "summary": "This section explains conditional programming flow controls, which allow a program to make decisions. It introduces conditional expressions using comparison operators (e.g., ==, !=, >, <) and logical operators (AND, OR, NOT). Three main conditional statements in Python are covered: `if` (executes code if a condition is true), `if...else` (provides an alternative if the condition is false), and `if...elif...else` (handles multiple conditions). The section also highlights Python's specific syntax rules, such as the use of a colon `:` after the condition and the crucial role of indentation for defining code blocks. Examples of using AND and OR with if statements are provided.",
+          "notes": "Conditionals are fundamental for decision-making in programming. They allow a program to execute different code based on the input or state. The `if` statement is the basic building block. `if...else` offers a binary choice. `if...elif...else` allows for complex branching logic. A key aspect of Python is indentation; it is not just for readability but is syntactically required. Inconsistent or missing indentation causes errors. Understanding comparison and logical operators is essential for building correct conditions.",
+          "keywords": {
+            "Conditional Statement (Branching)": "A program construct that allows the program to decide at runtime whether some parts of the code should or should not be executed.",
+            "Expression": "A piece of code that can be evaluated to a value, often true or false.",
+            "Indentation": "The spaces at the beginning of a code line. In Python, indentation is used to define a block of code.",
+            "Comparison Operators": "Operators that compare two values (e.g., ==, !=, >, <).",
+            "Logical Operators": "Operators that combine conditional statements (e.g., AND, OR, NOT)."
+          }
+        },
+        {
+          "section_number": "6.1.2",
+          "section_title": "Loops or Iteration Program Flow Controls",
+          "summary": "This section covers iterative or looping statements, which allow a program to execute a block of code repeatedly. It introduces two main types of loops in Python: the `for` loop, often used to iterate over a sequence like a list or using a range, and the `while` loop, which continues as long as a condition is true. The `range()` function is explained, showing how to generate sequences with one, two, or three parameters. Control statements with loops are introduced: `break` (to exit a loop immediately) and `continue` (to skip the current iteration and move to the next). Examples of iterating over lists, strings, and using `range` are given.",
+          "notes": "Loops are crucial for automation, allowing a program to perform repetitive tasks efficiently. A `for` loop is a counted loop, ideal for iterating a specific number of times or over the items in a sequence. A `while` loop is a conditional loop, perfect when the number of iterations is unknown and depends on a condition. The `range` function is a convenient way to generate number sequences for `for` loops. The `break` statement provides an emergency exit, while `continue` allows skipping specific iterations.",
+          "keywords": {
+            "Loop (Iteration)": "A statement or group of statements that run repeatedly for a fixed number of times, or until a condition is satisfied.",
+            "For Loop": "A loop in Python used to iterate over a sequence (like a list, string, or range).",
+            "While Loop": "A loop that continues to execute while a given condition is true.",
+            "range()": "A built-in Python function that returns a sequence of consecutive integers.",
+            "break": "A keyword used to stop a loop before it has looped through all the items.",
+            "continue": "A keyword used to stop the current iteration of the loop and continue with the next one."
+          }
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Comments in Python",
+          "summary": "This section explains the importance and use of comments in programming. Comments are descriptive texts in the source code that are ignored by the Python interpreter. In Python, comments are denoted by the hash symbol (#). Comments can be single-line or multi-line (each starting with #). The section discusses three uses of comments: to describe the program code, to make it more readable, and to prevent the execution of certain parts of code during testing. It also mentions the IDLE IDE features ('Format' menu) for commenting and uncommenting blocks of code.",
+          "notes": "Comments are critical for writing maintainable and understandable code. They serve as documentation for the programmer and other developers. Adding comments helps explain the logic behind the code, which can be especially useful for finding bugs. The ability to 'comment out' or uncomment code sections is a powerful debugging technique. It allows you to isolate problematic lines to test and fix issues. Code is read more often than it is written, so clear comments are a sign of good programming practice.",
+          "keywords": {
+            "Comment": "A descriptive text in a program's source code that is ignored by the compiler or interpreter."
+          }
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Python Interpreter",
+          "summary": "This section provides an overview of the Python interpreter's role in program execution. It explains that Python is an interpreted language, where a program (the interpreter) reads and executes the source code. The interpreter works between the program and the computer hardware. It mentions various interpreters (like IDLE, CPython, PyPy) and explains that the source code is compiled into bytecode (.pyc file), which is then executed by the Python Virtual Machine (PVM). The section describes IDLE's interactive mode (Read-Eval-Print Loop - REPL) and the process of writing and running scripts.",
+          "notes": "The interpreter translates the human-readable Python code into instructions the computer can understand. The IDLE environment is a popular IDE (Integrated Development Environment) that includes this interpreter. When you run a Python program, it first compiles to bytecode, which is a lower-level, platform-independent representation. This bytecode is then interpreted by the PVM. The `>>>` prompt in IDLE represents the interactive interpreter, allowing for quick testing of code snippets, while scripts are used for more complex programs.",
+          "keywords": {
+            "Interpreter": "A program that executes instructions written in a programming language, either directly or by translating them into a more efficient representation first.",
+            "Bytecode": "The compiled, platform-independent version of Python source code (stored in .pyc files) that is executed by the Python Virtual Machine.",
+            "Python Virtual Machine (PVM)": "The runtime engine of Python that interprets and executes the bytecode.",
+            "IDE (Integrated Development Environment)": "A software application that provides comprehensive facilities to computer programmers for software development, including an interpreter, editor, and debugger."
+          }
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Testing and Debugging Programs",
+          "summary": "This section explains the process of testing and debugging to find and fix errors (bugs) in a program. It introduces the concept of a bug, an unexpected problem. The section covers how to use the Python IDLE's built-in debugger. It explains how to enter Debug Mode by selecting 'Debug -> Debugger' from the menu. It describes setting breakpoints (right-click on a line) to pause execution and inspect variables. The Debug Control window is explained, with buttons like 'Go' (run to next breakpoint), 'Step' (execute next line), and 'Over' (execute line-by-line without going into functions). A practical example of debugging a program with a TypeError is used to demonstrate the process.",
+          "notes": "Debugging is an essential part of the programming process. Bugs are a reality, and the ability to systematically find and fix them is what separates a good programmer from a novice. The Python debugger helps by allowing step-by-step execution and inspection of variables. Setting a breakpoint tells the debugger where to pause. Using 'Step' and 'Go' lets you follow the program's flow and inspect the state of variables at each stage. This helps pinpoint exactly where and why the program is failing, leading to a faster solution.",
+          "keywords": {
+            "Bug": "An unexpected problem in a program.",
+            "Debugging": "The process of identifying and removing bugs from a program.",
+            "Breakpoint": "A line of code that has been identified as a place where the interpreter should pause while running your code.",
+            "Debug Mode": "A special mode in an IDE that allows the programmer to pause execution, inspect variables, and step through a program."
+          }
+        }
+      ]
+    }
+  ]
+}

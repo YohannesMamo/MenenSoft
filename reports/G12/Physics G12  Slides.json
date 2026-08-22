@@ -1,0 +1,619 @@
+{
+  "subject": "Physics (Grade 12)",
+  "presentation_slides": [
+    {
+      "unit_number": 1,
+      "unit_title": "Application of physics in other fields",
+      "sections": [
+        {
+          "section_number": 1.1,
+          "section_title": "Physics and other sciences",
+          "slides": [
+            {
+              "slide_number": 1,
+              "slide_title": "Unit 1: Introduction",
+              "slide_content": "Science is a collection of different fields that help us understand the world. Disciplines don't have fixed borders and rely on each other. Physics strongly influences most scientific developments."
+            },
+            {
+              "slide_number": 2,
+              "slide_title": "Section 1.1: Physics and Other Sciences",
+              "slide_content": "Physics is the most essential field of science. It has a strong influence on many modern sciences like chemistry, biology, geology, and astronomy."
+            },
+            {
+              "slide_number": 3,
+              "slide_title": "Physics and Chemistry: Shared Ground",
+              "slide_content": "Both physics and chemistry study matter and its interaction with energy. They use similar methods to study the behavior of large numbers of particles. The laws governing atoms (atomic and subatomic physics) are crucial for understanding chemical bonds (covalent, ionic)."
+            },
+            {
+              "slide_number": 4,
+              "slide_title": "Physics and Chemistry: Key Concepts",
+              "slide_content": "Physics explains atomic structure, X-ray diffraction, radioactivity, periodic properties, and molecular structure. Thermodynamics (heat energy) tells chemists if a reaction is possible and what the equilibrium composition will be. Spectroscopy, developed by physicists and chemists, is fundamental for studying atomic and molecular structure."
+            },
+            {
+              "slide_number": 5,
+              "slide_title": "Physics and Biology: Newtonian Mechanics",
+              "slide_content": "Physics explains many life processes. Newtonian mechanics explains how animals and humans move. \n- Stable equilibrium occurs when the center of mass is over the base of support.\n- A wider base and lower center of gravity make an object more stable (harder to knock over)."
+            },
+            {
+              "slide_number": 6,
+              "slide_title": "Physics and Biology: Fluid Dynamics & Sound",
+              "slide_content": "Fluid Dynamics: Physics of fluid flow is essential for understanding blood circulation, blood pressure, and how soft-bodied animals like earthworms move using Pascal's principle.\nSound Waves: The vocal cords vibrate to produce sound when air passes through them. This vibration disturbs air molecules, creating a sound wave that travels to the ear, causing the eardrum to vibrate, which the brain interprets."
+            },
+            {
+              "slide_number": 7,
+              "slide_title": "Physics and Biology: Electricity & Optics",
+              "slide_content": "Electricity: The nervous system transmits information via electrical pulses sent through neurons.\nOptics: Light is vital for life. Plants use it for photosynthesis, and animals have evolved eyes to see it. Optical physics is the study of light and includes applications like microscopes, telescopes, and lasers."
+            },
+            {
+              "slide_number": 8,
+              "slide_title": "Physics and Astronomy: Newton's Laws",
+              "slide_content": "Newton's law of gravitation is used to describe the motion of planets around the sun. Knowledge of centripetal and centrifugal forces helps us understand what keeps objects in orbit. This applies to planets, moons, and artificial satellites."
+            },
+            {
+              "slide_number": 9,
+              "slide_title": "Physics and Astronomy: Electromagnetic Waves",
+              "slide_content": "Astronomers use telescopes to detect different parts of the electromagnetic spectrum (radio, infrared, optical). This radiation helps study the birth/death of stars, their temperature, distance, and how the universe was formed.\n- Inverse Square Law: Apparent brightness ∝ True Brightness / Distance²\n- A Light Year is the distance light travels in one year."
+            },
+            {
+              "slide_number": 10,
+              "slide_title": "Physics and Astronomy: Atomic Physics",
+              "slide_content": "Atomic astrophysics uses atomic physics calculations to interpret astronomical observations. The light emitted by astronomical objects comes from atomic transitions. When electrons jump between orbits, they emit or absorb photons of specific wavelengths. The nature of this light determines the compositions and temperatures of stars."
+            },
+            {
+              "slide_number": 11,
+              "slide_title": "Physics and Geology",
+              "slide_content": "Understanding geological processes requires knowledge of force, optics, atomic structure, electromagnetic radiation, heat flow, electricity, magnetism, stress, strain, and fluid flow.\nGeologists use these concepts to study rocks and minerals' properties like density, magnetization, radioactivity, and elasticity. This knowledge helps detect economically useful deposits like ore minerals and fossil fuels."
+            }
+          ]
+        },
+        {
+          "section_number": 1.2,
+          "section_title": "Physics and engineering",
+          "slides": [
+            {
+              "slide_number": 12,
+              "slide_title": "Section 1.2: Physics and Engineering",
+              "slide_content": "Physics generates fundamental knowledge used by different branches of engineering. Physical laws (Mechanics, Thermodynamics, Electromagnetism) are key inputs for solving complex engineering problems. Understanding natural laws allows engineers to predict how their constructions will behave."
+            },
+            {
+              "slide_number": 13,
+              "slide_title": "Civil Engineering and Physics",
+              "slide_content": "Civil engineering involves designing and building structures like skyscrapers, roads, bridges, and dams. It relies on physics knowledge of forces, fluid pressure, gravity, tension, and elasticity. Advancements in physics, especially laws of motion and energy, have enabled complex modern civil engineering projects."
+            },
+            {
+              "slide_number": 14,
+              "slide_title": "Mechanical Engineering and Physics",
+              "slide_content": "Mechanical engineering uses mathematics, physics (mechanics, thermodynamics), and materials science to create mechanical systems.\n- Key concepts: mechanics, dynamics, thermodynamics, forces, stresses, and aerodynamics.\n- Applications: aircraft, watercraft, engines, robotics, and vehicles."
+            },
+            {
+              "slide_number": 15,
+              "slide_title": "Electrical Engineering and Physics",
+              "slide_content": "Electrical engineering involves designing electrical circuits, motors, electronic appliances, and communication links. It demands a strong understanding of electromagnetism, mechanics, and thermodynamics. Engineers often need to convert electrical energy into other forms like mechanical or thermal energy."
+            },
+            {
+              "slide_number": 16,
+              "slide_title": "Chemical Engineering and Physics",
+              "slide_content": "Chemical engineering involves producing products through chemical processes. Laws of physics and physical chemistry govern the efficiency of operations. It requires understanding molecular physics (physical properties of molecules, chemical bonds) and thermodynamics (energy changes)."
+            },
+            {
+              "slide_number": 17,
+              "slide_title": "Technology Generating New Physics",
+              "slide_content": "Physics and technology are interwoven. While physics provides the basis for technology, technology also enables new physics discoveries.\n- Example: Rocket technology allows for space-based measurements.\n- Example: X-ray technology helped advance the study of atomic structure and spectral analysis.\n- The cycle: Physics → Engineering → Technology → New Physics Discoveries"
+            }
+          ]
+        },
+        {
+          "section_number": 1.3,
+          "section_title": "Medical physics",
+          "slides": [
+            {
+              "slide_number": 18,
+              "slide_title": "Section 1.3: Medical Physics",
+              "slide_content": "Medical physics applies physics principles to medical diagnosing and treating abnormal tissues. The discovery of X-rays by Roentgen in 1895 revolutionized medicine and gave birth to this field."
+            },
+            {
+              "slide_number": 19,
+              "slide_title": "Magnetic Resonance Imaging (MRI)",
+              "slide_content": "MRI uses the magnetic property of hydrogen protons (found in water molecules in the body).\n- Protons act like tiny magnets and align in a strong magnetic field.\n- A radiofrequency pulse disturbs this alignment.\n- When the pulse stops, protons relax and release energy, which is detected.\n- Different tissues emit different amounts of energy, creating a detailed image."
+            },
+            {
+              "slide_number": 20,
+              "slide_title": "X-ray and CT Scan",
+              "slide_content": "X-ray imaging: Based on the absorption of X-rays. Denser elements (like calcium in bone) block X-rays and appear white; less dense elements (like nitrogen in lungs) allow X-rays to pass and appear dark.\nCT Scan (Computerized Tomography): Uses a rotating X-ray source and detectors to take many images from different angles. A computer combines them to create detailed cross-sectional images ('slices'), providing more information than a standard X-ray."
+            },
+            {
+              "slide_number": 21,
+              "slide_title": "Clinical Use of Sound: Stethoscope & Ultrasound",
+              "slide_content": "Stethoscope: A simple instrument used to listen to body sounds (heart, lungs, intestines) by conducting sound through a tube to the examiner's ears.\nUltrasound: Uses high-frequency sound waves (>20 kHz).\n- Waves penetrate tissue and are reflected, scattered, and absorbed.\n- An image is created based on the echoes.\n- Anechoic (black, fluid-filled), Hypoechoic (dark gray, few echoes), Hyperechoic (light gray, many echoes)."
+            },
+            {
+              "slide_number": 22,
+              "slide_title": "Radiation Therapy",
+              "slide_content": "Radiation therapy uses high-energy photons (X-rays, gamma rays) or particles to destroy cancer cells by ripping off electrons from biological molecules.\n- Implantation: A radioactive source is placed near the tumor.\n- External Beam: Radiation is directed from outside the body. The beam's direction is often changed to minimize damage to healthy tissue while targeting the tumor."
+            }
+          ]
+        },
+        {
+          "section_number": 1.4,
+          "section_title": "Physics and defense technology",
+          "slides": [
+            {
+              "slide_number": 23,
+              "slide_title": "Section 1.4: Physics and Defense Technology",
+              "slide_content": "Modern defense forces (Air Force, Army, Navy, Space Force) demand physics for laser guidance, satellite tech, electronics, optics, sensing systems, atomic/nuclear physics, and more. Specific needs include oceanographic physics for the Navy, fluid dynamics for the Air Force, and night vision for the Army."
+            },
+            {
+              "slide_number": 24,
+              "slide_title": "Radar Technology",
+              "slide_content": "RADAR (Radio Detection And Ranging) uses electromagnetic signals to detect and track objects.\n- A transmitter sends a signal. The signal reflects off a target (e.g., aircraft).\n- A receiver detects the echo.\n- Range (R) is calculated using: R = (c * t) / 2, where c is the speed of light and t is the time for the signal to travel to the target and back."
+            },
+            {
+              "slide_number": 25,
+              "slide_title": "Missiles",
+              "slide_content": "A missile is a rocket- or jet-propelled weapon.\n- Ballistic Missile: Rocket-powered initially, then follows a ballistic trajectory under gravity and air resistance (governed by Newtonian mechanics).\n- Cruise Missile: Jet-propelled throughout its flight and can be controlled.\n- Missiles use complex electronic, digital, and mechanical subsystems for guidance from launcher to target."
+            },
+            {
+              "slide_number": 26,
+              "slide_title": "Infrared (IR) Detection for Night Vision",
+              "slide_content": "All objects emit infrared light based on their temperature. IR devices detect these heat emissions to identify objects in the dark.\n- Infrared imaging systems create electronic images based on temperature differences (hotter objects appear brighter).\n- The image is often represented in green, as this wavelength enhances natural night vision in humans.\n- Used for night vision, navigation, hunting, and targeting."
+            }
+          ]
+        },
+        {
+          "section_number": 1.5,
+          "section_title": "Physics in communication",
+          "slides": [
+            {
+              "slide_number": 27,
+              "slide_title": "Section 1.5: Physics in Communication",
+              "slide_content": "Communication is the transfer of information from one point to another. It requires a transmission medium.\n- Wired Communication: Uses wires or optical fibers.\n- Wireless Communication: Uses radio waves, microwaves, and infrared waves.\n- Examples: satellite communication, ground wave communication, fiber optics."
+            },
+            {
+              "slide_number": 28,
+              "slide_title": "Physics Principles in Communication",
+              "slide_content": "All communication technologies demand a deep understanding of physics:\n- Electromagnetic Theory: Understanding radio waves, microwaves, infrared waves, and visible light.\n- Electricity and Magnetism: Fundamental for electronic circuits in communication devices.\n- Wave Phenomena: Reflection, diffraction, refraction, interference, and compression/rarefaction of wave propagation are crucial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Two-dimensional motion",
+      "sections": [
+        {
+          "section_number": 2.1,
+          "section_title": "Projectile motion",
+          "slides": [
+            {
+              "slide_number": 29,
+              "slide_title": "Unit 2: Introduction to 2D Motion",
+              "slide_content": "Kinematics is the study of motion without considering its causes. Two-dimensional motion follows curved paths, unlike one-dimensional motion in a straight line. Examples include a kicked football, planetary orbits, and a bicycle rounding a curve."
+            },
+            {
+              "slide_number": 30,
+              "slide_title": "Section 2.1: Projectile Motion",
+              "slide_content": "A projectile is an object that moves only under the influence of gravity. Its trajectory is a parabola. Assumptions:\n1. Acceleration due to gravity (g = 9.8 m/s²) is constant and downward.\n2. Air resistance is negligible.\n3. Horizontal velocity is constant.\nThe horizontal and vertical motions are completely independent."
+            },
+            {
+              "slide_number": 31,
+              "slide_title": "Horizontal Projection",
+              "slide_content": "Projected horizontally from a height (initial vertical velocity = 0).\n- Horizontal Motion: Δx = v₀ₓ * t (constant velocity).\n- Vertical Motion: Δy = ½ * g * t²; v_y = g * t.\n- Time of flight: t = √(2Δy / g).\n- Range: R = v₀ₓ * √(2Δy / g)."
+            },
+            {
+              "slide_number": 32,
+              "slide_title": "Inclined Projectile Motion",
+              "slide_content": "Projected with an initial velocity v₀ at an angle θ.\n- v₀ₓ = v₀ cos θ (constant)\n- v₀ᵧ = v₀ sin θ (changes due to gravity).\n- Horizontal Displacement: Δx = v₀ cos θ * t.\n- Vertical Displacement: Δy = v₀ sin θ * t + ½ * g * t².\n- Time to Max Height: t = v₀ sin θ / g (when vᵧ = 0)."
+            },
+            {
+              "slide_number": 33,
+              "slide_title": "Inclined Projectile: Time of Flight & Range",
+              "slide_content": "Time of Flight (total): t_total = (2 v₀ sin θ) / g (valid for launch and landing at same height).\nRange (R): R = (v₀² sin 2θ) / g.\nMaximum Height (H): H = (v₀² sin² θ) / (2g).\nRange is maximum at θ = 45°."
+            },
+            {
+              "slide_number": 34,
+              "slide_title": "Relation Between Range and Max Height",
+              "slide_content": "The relationship between range (R) and maximum height (H) is: H = (R * tan θ) / 4."
+            }
+          ]
+        },
+        {
+          "section_number": 2.2,
+          "section_title": "Rotational Motion",
+          "slides": [
+            {
+              "slide_number": 35,
+              "slide_title": "Section 2.2: Rotational Motion",
+              "slide_content": "Rotational motion is the motion of an object in a circle around a fixed axis (e.g., a CD spinning, a wheel rotating).\n- Rigid Body: An object with a perfectly defined and unchanging shape.\n- All points on a rigid body rotate through the same angle in the same time."
+            },
+            {
+              "slide_number": 36,
+              "slide_title": "Angular Quantities",
+              "slide_content": "Angular Displacement (Δθ): The change in the angle of rotation. Units: radians (revolution = 2π rad).\nAngular Velocity (ω): The rate of change of angular displacement (ω_av = Δθ/Δt). Units: rad/s.\nAngular Acceleration (α): The rate of change of angular velocity (α = Δω/Δt). Units: rad/s².\nThe right-hand rule determines the direction of ω and α."
+            },
+            {
+              "slide_number": 37,
+              "slide_title": "Equations of Rotational Motion (Constant α)",
+              "slide_content": "For constant angular acceleration:\n1. ω_f = ω₀ + αΔt\n2. Δθ = ω₀Δt + ½ * α * (Δt)²\n3. ω_f² = ω₀² + 2αΔθ"
+            },
+            {
+              "slide_number": 38,
+              "slide_title": "Relationship Between Linear and Angular Quantities",
+              "slide_content": "For a point at a distance r from the axis of rotation:\n- Arc Length: s = rθ\n- Tangential Speed: v = rω\n- Tangential Acceleration: a = rα\nTable Analogy:\n- Linear: v_f = v₀ + aΔt ↔ Angular: ω_f = ω₀ + αΔt\n- Linear: Δs = v₀t + ½ a t² ↔ Angular: Δθ = ω₀t + ½ α t²\n- Linear: v_f² = v₀² + 2aΔs ↔ Angular: ω_f² = ω₀² + 2αΔθ"
+            }
+          ]
+        },
+        {
+          "section_number": 2.3,
+          "section_title": "Rotational Dynamics",
+          "slides": [
+            {
+              "slide_number": 39,
+              "slide_title": "Section 2.3: Rotational Dynamics",
+              "slide_content": "Torque (τ) is the rotational effect of force, causing angular acceleration.\n- Magnitude: τ = rF sinθ, where r is the distance from the axis and θ is the angle between r and F.\n- SI Unit: Nm.\n- Direction determined by the right-hand rule."
+            },
+            {
+              "slide_number": 40,
+              "slide_title": "Moment of Inertia (I)",
+              "slide_content": "The moment of inertia is the measure of an object's resistance to a change in its angular velocity (rotational inertia).\n- Depends on mass and the distance from the axis of rotation.\n- For a point mass: I = mr².\n- For a system: I = Σ m_i r_i².\n- SI Unit: kgm².\nRotational analog of Newton's second law: τ_net = Iα."
+            }
+          ]
+        },
+        {
+          "section_number": 2.4,
+          "section_title": "Planetary motion and Kepler's laws",
+          "slides": [
+            {
+              "slide_number": 41,
+              "slide_title": "Section 2.4: Planetary Motion and Kepler's Laws",
+              "slide_content": "Johannes Kepler formulated three laws of planetary motion based on Tycho Brahe's observations.\n1st Law (Law of Ellipses): The orbit of a planet is an ellipse with the Sun at one focus.\n2nd Law (Law of Equal Areas): A line from the Sun to a planet sweeps out equal areas in equal times. The planet moves fastest at perihelion (closest to Sun) and slowest at aphelion (farthest)."
+            },
+            {
+              "slide_number": 42,
+              "slide_title": "Kepler's Third Law (Law of Harmonies)",
+              "slide_content": "The square of a planet's orbital period (T) is proportional to the cube of the semi-major axis (average distance, R) of its orbit.\n- Mathematically: T² / R³ = K, where K is a constant for all planets orbiting the Sun.\n- Example: Mercury (inner planet) has a shorter period than Saturn (outer planet).\n- This law is valid for both circular and elliptical orbits."
+            }
+          ]
+        },
+        {
+          "section_number": 2.5,
+          "section_title": "Newton's law of universal Gravitation",
+          "slides": [
+            {
+              "slide_number": 43,
+              "slide_title": "Section 2.5: Newton's Law of Universal Gravitation",
+              "slide_content": "Newton proved the force causing an apple to fall is the same force keeping the Moon in orbit.\n- Universal Law: Every particle attracts every other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them.\n- F_g = G (m₁m₂) / r².\n- G = 6.67 × 10⁻¹¹ Nm²/kg² (Universal Gravitational Constant)."
+            },
+            {
+              "slide_number": 44,
+              "slide_title": "Gravity and Kepler's Third Law",
+              "slide_content": "The gravitational force of the Sun provides the centripetal force for planetary orbits.\n- Centripetal Force: F_c = m_p v² / r.\n- Equating F_c and F_g: m_p v² / r = G M_s m_p / r².\n- This gives v² = G M_s / r.\n- Since v = 2πr/T, substituting and rearranging yields: T²/r³ = 4π²/(GM_s). This is Kepler's Third Law, showing K = 4π²/(GM_s)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Fluid Mechanics",
+      "sections": [
+        {
+          "section_number": 3.1,
+          "section_title": "Fluid Statics",
+          "slides": [
+            {
+              "slide_number": 45,
+              "slide_title": "Unit 3: Introduction to Fluid Mechanics",
+              "slide_content": "Matter exists as solids, liquids, or gases. Liquids and gases are fluids; they cannot resist shear stress and flow under force. Fluid mechanics studies fluid behavior at rest (statics) and in motion (dynamics)."
+            },
+            {
+              "slide_number": 46,
+              "slide_title": "Section 3.1: Fluid Statics - Properties",
+              "slide_content": "Solids: Atoms fixed, resist stress, incompressible.\nLiquids: Atoms in close contact but can slide, flow, nearly incompressible.\nGases: Atoms far apart, weak forces, flow easily, compressible.\nFluid statics deals with fluids at rest, where only normal stress (pressure) exists."
+            },
+            {
+              "slide_number": 47,
+              "slide_title": "Pressure in Fluids",
+              "slide_content": "Pressure (P) is the normal force per unit area: P = F/A.\n- SI Unit: Pascal (Pa) = N/m².\n- Other units: atm, mmHg, torr, psi.\n- 1 atm = 760 mmHg = 760 torr = 101.3 kPa = 14.7 psi.\nPressure is a scalar quantity.\nGauge pressure: P_gauge = P_abs - P_atm."
+            },
+            {
+              "slide_number": 48,
+              "slide_title": "Density and Specific Gravity",
+              "slide_content": "Density (ρ) is mass per unit volume: ρ = m/V (kg/m³).\nSpecific Gravity (SG) is the ratio of a substance's density to the density of water (at 4°C): SG = ρ / ρ_H₂O (dimensionless).\nIdeal Gas Law: PV = nRT = (m/M)RT = ρR_specific T. This relates density and pressure for gases."
+            }
+          ]
+        },
+        {
+          "section_number": 3.2,
+          "section_title": "Pressure in fluids at rest",
+          "slides": [
+            {
+              "slide_number": 49,
+              "slide_title": "Section 3.2: Pressure in Fluids at Rest",
+              "slide_content": "Pascal's Principle: A change in pressure applied to an enclosed static fluid is transmitted undiminished to every point of the fluid and the container walls.\nHydraulic Press: Uses Pascal's principle to multiply force. F₂ = (A₂/A₁) * F₁.\nPressure Variation with Depth: P = P₀ + ρgh, where P₀ is pressure at the surface. This pressure is independent of the shape/size of the container."
+            },
+            {
+              "slide_number": 50,
+              "slide_title": "Measuring Pressure",
+              "slide_content": "Barometer: Measures atmospheric pressure using a column of mercury. P_atm = ρ_Hg * g * h.\nManometer: Measures gas pressure. A U-shaped tube with a liquid.\n- If P_gas > P_atm: P_gas = P_atm + ρgh.\n- If P_gas < P_atm: P_gas = P_atm - ρgh.\n- For closed-end: P_gas = ρgh."
+            }
+          ]
+        },
+        {
+          "section_number": 3.3,
+          "section_title": "Archimedes' principle",
+          "slides": [
+            {
+              "slide_number": 51,
+              "slide_title": "Section 3.3: Archimedes' Principle",
+              "slide_content": "Buoyant Force (F_B): Upward force exerted by a fluid on an immersed object. Originates from pressure increasing with depth (greater upward pressure on bottom than downward on top).\nArchimedes' Principle: F_B = Weight of displaced fluid = ρ_fluid * g * V_disp."
+            },
+            {
+              "slide_number": 52,
+              "slide_title": "Archimedes' Principle: Submerged & Floating",
+              "slide_content": "Totally Submerged Object: V_disp = V_obj.\n- Net Force = F_B - W = (ρ_fluid - ρ_obj) g V_obj.\n- If ρ_obj < ρ_fluid → Object floats (accelerates up).\n- If ρ_obj > ρ_fluid → Object sinks.\n- If ρ_obj = ρ_fluid → Object is in equilibrium.\nFloating Object: F_B = W → ρ_fluid g V_disp = ρ_obj g V_obj → V_disp/V_obj = ρ_obj/ρ_fluid."
+            }
+          ]
+        },
+        {
+          "section_number": 3.4,
+          "section_title": "Fluid flow",
+          "slides": [
+            {
+              "slide_number": 53,
+              "slide_title": "Section 3.4: Fluid Flow",
+              "slide_content": "Steady (Laminar) Flow: Smooth paths that never cross; velocity at a point is constant.\nTurbulent Flow: Irregular, chaotic flow with eddies.\nFlow Rate (Q): Volume of fluid flowing past a point per unit time: Q = V/t (m³/s)."
+            },
+            {
+              "slide_number": 54,
+              "slide_title": "Equation of Continuity",
+              "slide_content": "For an incompressible fluid (e.g., liquids), the flow rate is constant throughout a pipe.\n- Equation: A₁v₁ = A₂v₂.\n- A is the cross-sectional area, v is the fluid speed.\n- If the pipe narrows (A decreases), the fluid speed increases (v increases).\n- Bernoulli's Principle: As a fluid's speed increases, the pressure it exerts on a surface decreases."
+            }
+          ]
+        },
+        {
+          "section_number": 3.5,
+          "section_title": "Safety and high pressure",
+          "slides": [
+            {
+              "slide_number": 55,
+              "slide_title": "Section 3.5: Safety and High Pressure",
+              "slide_content": "High pressure (> 50 atm) has many applications: pressure cookers, LPG cylinders, tire inflators, pressure washers.\nHazards: Explosions, flying debris, fire, release of hazardous fluids.\nCauses of Risk: Poor design, lack of maintenance, operator error, incorrect installation."
+            },
+            {
+              "slide_number": 56,
+              "slide_title": "Safety Measures for High Pressure",
+              "slide_content": "General Safety: Proper design, regular maintenance, trained operators, correct installation.\nLPG Cylinders: Keep upright in a well-ventilated area, away from flames/physical damage. Turn off valve after use. Keep out of reach of children.\nHigh-Pressure Washers: Wear safety glasses, gloves, and enclosed shoes. Never point at people/animals. Turn off machine before disconnecting hoses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Electromagnetism",
+      "sections": [
+        {
+          "section_number": 4.1,
+          "section_title": "Magnets and Magnetic field",
+          "slides": [
+            {
+              "slide_number": 57,
+              "slide_title": "Unit 4: Introduction to Electromagnetism",
+              "slide_content": "Electromagnetism is one of the four fundamental forces, combining electricity and magnetism. Oersted discovered that an electric current produces a magnetic field. Faraday and Henry showed that a changing magnetic field can produce an electric current (electromagnetic induction)."
+            },
+            {
+              "slide_number": 58,
+              "slide_title": "Section 4.1: Magnets and Magnetic Field",
+              "slide_content": "A magnet produces a magnetic field. Magnetic poles (N and S) always exist in pairs; monopoles don't exist. Like poles repel, opposite poles attract.\nPermanent Magnets: Retain magnetism.\nElectromagnets: Coil of wire around an iron core; magnetic only when current flows.\nEarth's magnetic field resembles a giant bar magnet (magnetic poles near geographic poles)."
+            },
+            {
+              "slide_number": 59,
+              "slide_title": "Electric Field vs. Magnetic Field",
+              "slide_content": "Electric Field: Produced by an electric charge (positive or negative). Unit: N/C. Field lines start on positive and end on negative charges.\nMagnetic Field: Produced by a magnetic dipole (N and S poles). Unit: Tesla (T). Field lines form closed loops, no beginning or end."
+            }
+          ]
+        },
+        {
+          "section_number": 4.2,
+          "section_title": "Magnetic field lines",
+          "slides": [
+            {
+              "slide_number": 60,
+              "slide_title": "Section 4.2: Magnetic Field Lines",
+              "slide_content": "Magnetic field lines are visual tools. Key properties:\n1. They are continuous, closed loops.\n2. They never intersect.\n3. Direction is from N to S outside the magnet, and S to N inside.\n4. Strength is proportional to the density of lines (closer together = stronger field).\nUnlike electric field lines, they have no beginning or end."
+            }
+          ]
+        },
+        {
+          "section_number": 4.3,
+          "section_title": "Current and Magnetism",
+          "slides": [
+            {
+              "slide_number": 61,
+              "slide_title": "Section 4.3: Current and Magnetism",
+              "slide_content": "An electric current produces a magnetic field (Oersted's experiment).\nAmpere's Law: The magnetic field created by a current is proportional to the current.\nField around a long straight wire: B = μ₀I / (2πr).\n- μ₀ = 4π × 10⁻⁷ T·m/A (permeability of free space).\n- I is the current, r is distance from wire.\nRight-Hand Rule: Thumb points in direction of current; fingers curl in direction of magnetic field."
+            }
+          ]
+        },
+        {
+          "section_number": 4.4,
+          "section_title": "Electromagnetic Induction",
+          "slides": [
+            {
+              "slide_number": 62,
+              "slide_title": "Section 4.4: Electromagnetic Induction",
+              "slide_content": "Electromagnetic induction is the production of an emf (voltage) in a conductor due to a changing magnetic field.\nMagnetic Flux (Φ_B): A measure of the total magnetic field passing through an area.\n- Φ_B = B * A * cosθ, where θ is the angle between B and the normal to the surface.\n- SI Unit: Weber (Wb).\nAn emf is induced only when the flux through a circuit changes."
+            }
+          ]
+        },
+        {
+          "section_number": 4.5,
+          "section_title": "Faraday's Law of electromagnetic Induction",
+          "slides": [
+            {
+              "slide_number": 63,
+              "slide_title": "Section 4.5: Faraday's Law & Lenz's Law",
+              "slide_content": "Faraday's Law: The magnitude of the induced emf is proportional to the rate of change of magnetic flux.\n- ε = -N (ΔΦ_B / Δt).\n- N is the number of turns in the coil.\nLenz's Law: The direction of the induced current is such that it opposes the change in flux that produced it.\n- The negative sign in Faraday's Law reflects Lenz's Law.\n- It is a consequence of the conservation of energy."
+            }
+          ]
+        },
+        {
+          "section_number": 4.6,
+          "section_title": "Transformers",
+          "slides": [
+            {
+              "slide_number": 64,
+              "slide_title": "Section 4.6: Transformers",
+              "slide_content": "A transformer transfers electrical energy between circuits via electromagnetic induction. It operates on AC.\n- Step-up Transformer: Increases voltage (N_S > N_P).\n- Step-down Transformer: Decreases voltage (N_S < N_P).\nVoltage Ratio: V_P / V_S = N_P / N_S.\nIdeal Transformer: V_P * I_P = V_S * I_S (Power in = Power out)."
+            },
+            {
+              "slide_number": 65,
+              "slide_title": "Transformers in Daily Life",
+              "slide_content": "Phone/Laptop Chargers: Step down high mains voltage (e.g., 220V) to a safe low voltage for devices.\nPower Grids: Step up voltage for efficient long-distance transmission, step down for safe home use.\nMicrowaves: Use a step-up transformer to create the high voltage needed for the magnetron."
+            }
+          ]
+        },
+        {
+          "section_number": 4.7,
+          "section_title": "Application and safety",
+          "slides": [
+            {
+              "slide_number": 66,
+              "slide_title": "Section 4.7: Applications of Electromagnetism",
+              "slide_content": "Electromagnetism has countless applications:\n- Electric Motors: Convert electrical energy to mechanical energy (rotation).\n- Generators: Convert mechanical energy to electrical energy.\n- Relays: Electromagnetic switches.\n- Electric Bells: Use electromagnets to strike a bell.\n- Graphic Tablets: Use magnetic induction to detect a pen's position."
+            },
+            {
+              "slide_number": 67,
+              "slide_title": "Safety with Electromagnets",
+              "slide_content": "General safety precautions:\n- Strong electromagnets can damage electronic devices like hard drives and credit cards.\n- Magnets can distort images on older CRT monitors/TVs.\nIn industrial settings:\n- Consider the weight of the load and potential air gaps when lifting with electromagnets.\n- Ensure proper setup and operation to avoid accidents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Basics of electronics",
+      "sections": [
+        {
+          "section_number": 5.1,
+          "section_title": "Semiconductors",
+          "slides": [
+            {
+              "slide_number": 68,
+              "slide_title": "Unit 5: Introduction to Electronics",
+              "slide_content": "Electronic devices are crucial in daily life (calculators, phones, computers). They simplify activities and are used in aerospace, automobiles, and medicine (MRI, CT, X-ray). This unit covers basic components and concepts in electronics."
+            },
+            {
+              "slide_number": 69,
+              "slide_title": "Section 5.1: Semiconductors",
+              "slide_content": "Semiconductors have conductivity between conductors and insulators. Examples: Silicon, Germanium.\n- Act as insulators at low temperatures (0 K) and conductors at higher temperatures.\n- Conduction occurs when electrons break free from their covalent bonds.\nLattice Structure: Atoms bonded in a regular structure. Covalent bonds are formed by sharing valence electrons. At higher temperatures, electrons can break free, creating a hole."
+            },
+            {
+              "slide_number": 70,
+              "slide_title": "Types of Semiconductors: Intrinsic & Extrinsic",
+              "slide_content": "Intrinsic Semiconductors: Pure, undoped materials (e.g., pure silicon/germanium).\nExtrinsic Semiconductors: Doped with impurities to improve conductivity. Doping is the process of adding impurities.\nN-type Semiconductors: Doped with pentavalent atoms (Group V: P, As, Sb). Adds extra electrons (majority carriers).\nP-type Semiconductors: Doped with trivalent atoms (Group III: B, Ga, In). Creates holes (majority carriers)."
+            }
+          ]
+        },
+        {
+          "section_number": 5.2,
+          "section_title": "Diodes and their Functions",
+          "slides": [
+            {
+              "slide_number": 71,
+              "slide_title": "Section 5.2: P-N Junction Diode",
+              "slide_content": "A diode allows current to flow in only one direction. Formed by joining P-type and N-type semiconductors.\n- Depletion Region: Area near the junction with no mobile charge carriers.\n- Barrier Potential: Potential difference across the junction (~0.7V for Si, 0.3V for Ge).\nDiode Symbol: Anode (P-side), Cathode (N-side)."
+            },
+            {
+              "slide_number": 72,
+              "slide_title": "Biasing a Diode",
+              "slide_content": "Applying an external voltage to a diode is called biasing.\nForward Bias: Positive terminal to P-side, negative to N-side. Depletion region narrows, allowing current flow (low resistance).\nReverse Bias: Negative terminal to P-side, positive to N-side. Depletion region widens, blocking current (high resistance).\nI-V Characteristics: Shows current is low until cut-in voltage in forward bias; current is negligible in reverse bias until breakdown voltage."
+            }
+          ]
+        },
+        {
+          "section_number": 5.3,
+          "section_title": "Rectification",
+          "slides": [
+            {
+              "slide_number": 73,
+              "slide_title": "Section 5.3: Rectification",
+              "slide_content": "Rectification is the process of converting AC to DC using diodes.\nHalf-Wave Rectifier: Uses one diode, conducts during only one half-cycle of AC input. Output is a pulsating DC that is zero for half the time.\nFull-Wave Rectifier: Uses a bridge of four diodes, conducts during both half-cycles. Output is a pulsating DC that never drops to zero."
+            },
+            {
+              "slide_number": 74,
+              "slide_title": "Smoothing and Practical Diodes",
+              "slide_content": "Smoothing Capacitor: Used in rectifier circuits to reduce ripples. It charges during the peak and discharges when the voltage drops, producing a more steady DC output.\nLight Emitting Diode (LED): Emits light when forward-biased.\nPhotodiode: Generates current when exposed to light."
+            }
+          ]
+        },
+        {
+          "section_number": 5.4,
+          "section_title": "Transistors and their application",
+          "slides": [
+            {
+              "slide_number": 75,
+              "slide_title": "Section 5.4: Transistors",
+              "slide_content": "A transistor is a three-terminal semiconductor device used for amplification and switching.\nBipolar Junction Transistor (BJT): Consists of three layers.\n- NPN: N-P-N structure.\n- PNP: P-N-P structure.\nRegions: Emitter (heavily doped), Base (lightly doped, thin), Collector (moderately doped).\nSchematic symbols show the arrow on the emitter indicating conventional current direction."
+            },
+            {
+              "slide_number": 76,
+              "slide_title": "Transistor Operation",
+              "slide_content": "For transistor operation:\n- Emitter-Base junction is forward-biased.\n- Collector-Base junction is reverse-biased.\nIn an NPN transistor: Emitter current (I_E) = Base current (I_B) + Collector current (I_C).\nCurrent Gain (β): β = I_C / I_B.\nTransistor Configurations: Common-Base (CB), Common-Collector (CC), Common-Emitter (CE). The CE configuration is most common as it provides both current and voltage gain."
+            },
+            {
+              "slide_number": 77,
+              "slide_title": "Transistor Applications",
+              "slide_content": "Amplification: Increases the strength of a weak electronic signal. A small change in base current (I_B) causes a large change in collector current (I_C).\nSwitching: Acts as a fast electronic switch, turning circuits on and off.\nUsed in logic gates, microprocessors, integrated circuits, and modern telecommunications."
+            }
+          ]
+        },
+        {
+          "section_number": 5.5,
+          "section_title": "Integrated Circuits",
+          "slides": [
+            {
+              "slide_number": 78,
+              "slide_title": "Section 5.5: Integrated Circuits",
+              "slide_content": "An Integrated Circuit (IC or microchip) is a complete electronic circuit fabricated on a single piece of semiconductor material (typically silicon).\nImportance: Revolutionized electronics by allowing complex circuits to be built in a very small space.\nComponents: Diodes, transistors, resistors, capacitors fabricated together."
+            },
+            {
+              "slide_number": 79,
+              "slide_title": "Advantages and Disadvantages of ICs",
+              "slide_content": "Advantages:\n- Extremely small size.\n- Low power consumption and high speed.\n- High reliability (fewer connections).\n- Low manufacturing cost.\nDisadvantages:\n- Cannot handle large currents or voltages (risk of overheating/insulation breakdown).\n- Cannot be repaired if faulty; must be replaced."
+            }
+          ]
+        },
+        {
+          "section_number": 5.6,
+          "section_title": "Logic gates and logic circuits",
+          "slides": [
+            {
+              "slide_number": 80,
+              "slide_title": "Section 5.6: Logic Gates",
+              "slide_content": "Digital electronics uses discrete signals, typically binary: '0' (low) and '1' (high).\nLogic Gate: A digital circuit that performs a logical operation on inputs to produce an output.\nPositive Logic: '1' = high voltage, '0' = low voltage.\nNegative Logic: '1' = low voltage, '0' = high voltage."
+            },
+            {
+              "slide_number": 81,
+              "slide_title": "Basic Logic Gates",
+              "slide_content": "AND Gate (y = A·B): Outputs '1' only if ALL inputs are '1'.\nOR Gate (y = A+B): Outputs '1' if ANY input is '1'.\nNOT Gate (y = Ā): Inverts the input.\nNAND Gate (y = A·B̄): AND followed by NOT. Outputs '0' only if all inputs are '1'.\nNOR Gate (y = A+B̄): OR followed by NOT. Outputs '1' only if all inputs are '0'.\nNAND and NOR are universal gates."
+            }
+          ]
+        },
+        {
+          "section_number": 5.7,
+          "section_title": "Application of electronics",
+          "slides": [
+            {
+              "slide_number": 82,
+              "slide_title": "Section 5.7: Application of Electronics",
+              "slide_content": "Aerospace: Used in spacecraft, satellites, aircraft for power management and navigation.\nMedical: MRI, CT scans, X-ray machines, robotic check-ups, and needle-free diabetes care.\nAutomobile: Engine control units, transmission, safety features, entertainment systems.\nAgriculture: Sensors for monitoring crop quality, soil moisture, and salinity.\nCommunication: Used for processing, storage, display, and transfer of information.\nResidential: Air conditioners, computers, cooking appliances.\nMilitary: Drones, night vision devices, targeting systems."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "subject": "Physics",
+  "grade": 12,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Application of physics in other fields",
+      "sections": [
+        {
+          "section_number": 1.1,
+          "section_title": "Physics and other sciences",
+          "summary": "This section explores the fundamental relationship between physics and other scientific disciplines. It establishes that physics is the most essential science, influencing many modern scientific developments. The relationship with chemistry is highlighted through shared concepts like matter, energy, atomic and subatomic physics, spectroscopy, and thermodynamics, with chemistry being rooted in atomic and molecular physics. In biology, physics explains processes like human motion (Newtonian mechanics), blood circulation (fluid dynamics), sound production and hearing (wave physics), nerve signal transmission (electricity), and vision (optical physics). The section also covers the role of physics in astronomy, where Newton's laws, electromagnetic wave physics, and atomic physics are used to study celestial objects and the universe. Finally, it touches on the application of physics in geology for studying the Earth's composition and processes.",
+          "detailed_notes": "Physics is the most fundamental science and has a strong influence on most scientific developments. It shares a deep connection with chemistry, as both study matter and its interaction with energy. The laws governing atoms and molecules (atomic and subatomic physics) are crucial for understanding chemical bonding, molecular structure, and the energetics of reactions. Spectroscopy, a collaborative field, is a primary tool for investigating atomic and molecular structure. In biology, physics provides the foundation for understanding various life processes. Newtonian mechanics explains the equilibrium and movement of animals and humans. Fluid dynamics is essential for understanding blood flow and pressure in the circulatory system. The physics of sound waves explains how we produce and hear sounds. Electrical physics governs the nervous system, where neurons transmit signals through electrical pulses. Optical physics is vital for understanding vision and photosynthesis. Astronomy relies heavily on physics. Newton's law of gravitation and laws of motion explain planetary orbits. The study of electromagnetic radiation from space objects helps astronomers determine their composition, temperature, distance, and motion. Atomic physics allows astronomers to analyze the light emitted by stars to understand their composition and physical properties. In geology, concepts from physics such as force, optics, atomic structure, electromagnetic radiation, heat flow, electricity, magnetism, and wave mechanics are used to study the Earth's structure, composition, and processes.",
+          "keywords": [
+            {"keyword": "Spectroscopy", "definition": "The study of the interaction between matter and electromagnetic radiation, used to probe the structure of atoms and molecules."},
+            {"keyword": "Newtonian Mechanics", "definition": "The branch of physics based on Newton's laws of motion, used to describe the motion of macroscopic objects."},
+            {"keyword": "Fluid Dynamics", "definition": "The study of fluids (liquids and gases) in motion, including concepts like viscosity, pressure, and flow rate."},
+            {"keyword": "Electromagnetic Spectrum", "definition": "The entire range of wavelengths or frequencies of electromagnetic radiation, from radio waves to gamma rays."},
+            {"keyword": "Astrophysics", "definition": "A branch of astronomy that deals with the physics of celestial objects, including their properties, behavior, and life cycles."},
+            {"keyword": "Inverse Square Law", "definition": "A law stating that the intensity of an effect (like light or gravity) is inversely proportional to the square of the distance from its source."},
+            {"keyword": "Light Year", "definition": "A unit of astronomical distance defined as the distance that light travels in one year."},
+            {"keyword": "Atomic Transitions", "definition": "The process by which electrons move between different energy levels (orbits) within an atom, resulting in the emission or absorption of light."}
+          ]
+        },
+        {
+          "section_number": 1.2,
+          "section_title": "Physics and engineering",
+          "summary": "This section describes the application of physics in various branches of engineering. It emphasizes that physics provides the fundamental knowledge needed for engineering disciplines. Civil engineering uses physics concepts like forces, fluid pressure, and gravity for designing and building infrastructure. Mechanical engineering relies on mechanics, thermodynamics, and dynamics for designing mechanical systems. Electrical engineering is based on electromagnetism, while chemical engineering requires knowledge of molecular physics and thermodynamics. The section also highlights the symbiotic relationship between physics and technology, where technological advancements (e.g., rocket technology, X-rays) enable further scientific discovery, completing a cycle of interdependence.",
+          "detailed_notes": "Physics generates the foundational knowledge that is essential for all engineering disciplines. Civil engineering applies the laws of physics, particularly mechanics (forces, tension, elasticity) and fluid mechanics, to design and construct buildings, bridges, dams, and transportation systems. Mechanical engineering utilizes concepts such as mechanics, dynamics, thermodynamics, and materials science to create engines, vehicles, aircraft, and various mechanical systems. Electrical engineering is fundamentally based on the principles of electromagnetism and electricity for designing circuits, motors, and communication systems. Chemical engineering applies principles from molecular physics and thermodynamics to design and operate chemical processes for producing various materials. The relationship between physics and technology is reciprocal. While physics provides the basis for new technologies, technological advancements also enable new physics discoveries. For example, rocket technology allows for space-based experiments, and the development of X-ray technology advanced the study of atomic structure. This cycle of discovery and application is crucial for progress in both fields.",
+          "keywords": [
+            {"keyword": "Civil Engineering", "definition": "A branch of engineering concerned with the design, construction, and maintenance of the physical and naturally built environment, such as buildings, roads, and bridges."},
+            {"keyword": "Mechanical Engineering", "definition": "A branch of engineering that uses physics and materials science principles to design, analyze, manufacture, and maintain mechanical systems."},
+            {"keyword": "Electrical Engineering", "definition": "A branch of engineering that deals with the study and application of electricity, electronics, and electromagnetism."},
+            {"keyword": "Chemical Engineering", "definition": "A branch of engineering that applies chemistry, physics, and biology to design and operate processes that convert raw materials into valuable products."},
+            {"keyword": "Thermodynamics", "definition": "The branch of physics that deals with heat, work, and temperature, and their relation to energy, radiation, and physical properties of matter."},
+            {"keyword": "Molecular Physics", "definition": "The study of the physical properties of molecules and the chemical bonds between atoms."}
+          ]
+        },
+        {
+          "section_number": 1.3,
+          "section_title": "Medical physics",
+          "summary": "This section discusses the application of physics principles in medicine for diagnosis and treatment. It covers the foundational discovery of X-rays and its impact. The section details the principles and working mechanisms of several key medical imaging technologies: Magnetic Resonance Imaging (MRI), which uses the magnetic properties of hydrogen protons to generate detailed images of soft tissues; X-ray Computed Tomography (CT), which uses rotating X-ray beams to produce cross-sectional images; and Ultrasound, which uses high-frequency sound waves to visualize body structures. It also explains the clinical use of the stethoscope and the therapeutic application of radiation (Radiation Therapy) for treating cancer.",
+          "detailed_notes": "Medical physics is a branch of physics that applies the principles of physics to medicine, particularly for diagnosis and treatment. The discovery of X-rays in 1895 was a pivotal moment that led to the development of medical imaging. MRI (Magnetic Resonance Imaging) uses the magnetic properties of protons (hydrogen nuclei) within the body. When placed in a strong magnetic field, these protons align. A radiofrequency pulse disrupts this alignment, and as they relax back, they release energy. Different tissues emit different amounts of energy, which is detected and processed by a computer to create detailed images of soft tissues. CT (Computed Tomography) scan uses a rotating X-ray source and detectors to take multiple X-ray images from different angles. A computer combines these images to create cross-sectional 'slices' of the body, providing more detailed information than a standard X-ray. Ultrasound uses high-frequency sound waves (above 20 kHz). A transducer emits sound waves into the body, and the reflected echoes are detected to create an image. The appearance of tissues is described as anechoic (no echoes, fluid-filled), hypoechoic (few echoes), or hyperechoic (many echoes). The stethoscope is a simple acoustic device used to listen to internal body sounds (heart, lungs). Radiation therapy uses high-energy radiation (X-rays, gamma rays, or particle beams) to destroy cancer cells. The radiation damages the DNA of rapidly dividing cancer cells. The treatment is often targeted to minimize damage to surrounding healthy tissue, sometimes using external beams or implanted radioactive sources.",
+          "keywords": [
+            {"keyword": "Medical Imaging", "definition": "Technologies used to view the human body for the purpose of diagnosing, monitoring, or treating medical conditions."},
+            {"keyword": "Magnetic Resonance Imaging (MRI)", "definition": "A medical imaging technique that uses a strong magnetic field and radio waves to generate detailed images of the body's soft tissues."},
+            {"keyword": "Computed Tomography (CT) Scan", "definition": "A medical imaging technique that uses rotating X-ray beams to create cross-sectional images of the body."},
+            {"keyword": "Ultrasound", "definition": "A medical imaging technique that uses high-frequency sound waves to visualize internal body structures."},
+            {"keyword": "Anechoic", "definition": "An area on an ultrasound image that appears black because it does not reflect sound waves, typically indicating a fluid-filled region."},
+            {"keyword": "Hyperechoic", "definition": "An area on an ultrasound image that appears light gray because it reflects many sound waves."},
+            {"keyword": "Hypoechoic", "definition": "An area on an ultrasound image that appears dark gray because it reflects few sound waves."},
+            {"keyword": "Radiation Therapy", "definition": "The use of high-energy radiation to treat cancer by destroying the DNA of cancer cells."},
+            {"keyword": "Stethoscope", "definition": "A medical instrument used for listening to sounds produced within the body, such as heart and lung sounds."}
+          ]
+        },
+        {
+          "section_number": 1.4,
+          "section_title": "Physics and defense technology",
+          "summary": "This section explains the critical role of physics in modern defense technology. It highlights that branches of the military (Air Force, Army, Navy, Space Force) rely on physics for various applications. The section focuses on three key areas: Radar technology, which uses radio waves to detect and track objects; Missiles, which are guided by Newtonian mechanics and electronic systems; and Infrared (IR) detection, which uses heat signatures for night vision and target acquisition. The underlying physics principles for these technologies include electromagnetism, optics, and mechanics.",
+          "detailed_notes": "Physics is fundamental to the development of modern defense technologies. Radar (Radio Detection And Ranging) uses electromagnetic waves to detect and track objects like aircraft, ships, and missiles. It works by transmitting a radio signal and analyzing the echo reflected from the target to determine its range and location. Missiles are projectile weapons guided by principles of mechanics (rocket propulsion, aerodynamics) and electronics. Ballistic missiles are rocket-powered initially and then follow a ballistic trajectory, while cruise missiles are jet-powered throughout their flight. Infrared (IR) detection is used for night vision and target acquisition. All objects emit infrared radiation based on their temperature (thermal radiation). IR devices, such as night vision goggles, detect these temperature differences to create an image, allowing vision in the absence of visible light. Other defense applications include laser guidance, satellite technology, and underwater acoustics for the navy.",
+          "keywords": [
+            {"keyword": "Radar", "definition": "An acronym for Radio Detection And Ranging; a system that uses radio waves to detect and locate objects."},
+            {"keyword": "Missile", "definition": "A rocket-propelled or jet-propelled weapon designed to deliver an explosive warhead to a target with high accuracy."},
+            {"keyword": "Ballistic Missile", "definition": "A missile that is rocket-powered in its initial phase and then follows a ballistic trajectory influenced only by gravity and air resistance."},
+            {"keyword": "Cruise Missile", "definition": "A jet-propelled missile that is powered throughout its flight and flies at a relatively low altitude."},
+            {"keyword": "Infrared (IR) Detection", "definition": "A technology that detects infrared radiation (heat) emitted by objects to create an image, used for night vision and target acquisition."},
+            {"keyword": "Night Vision Goggles", "definition": "Devices that use infrared detection or image intensification to allow vision in low-light conditions."}
+          ]
+        },
+        {
+          "section_number": 1.5,
+          "section_title": "Physics in communication",
+          "summary": "This section explains the essential role of physics in communication technologies. It discusses the two main categories of communication systems: wired (using wires or optical fibers) and wireless (using radio waves, microwaves, or infrared waves). The fundamental physics principles behind these technologies are the electromagnetic theory, electricity, magnetism, and wave phenomena (such as reflection, diffraction, and refraction). The understanding of these concepts is crucial for the functioning of devices like telephones, cell phones, and computers.",
+          "detailed_notes": "Communication is the process of transferring information from one point to another. This requires a transmission medium. Communication systems are classified as wired or wireless based on this medium. Wired communication uses physical connections like copper wires or optical fibers to transmit signals. Wireless communication uses electromagnetic waves like radio waves, microwaves, and infrared light for signal transmission without a physical medium. All forms of communication technology are deeply rooted in physics. Electromagnetic theory is essential for understanding the generation, propagation, and reception of radio waves and microwaves. Concepts from electricity and magnetism are fundamental for designing the electronic circuits in communication devices. Wave phenomena such as reflection, refraction, diffraction, and interference are key to understanding how signals travel and can be manipulated. Examples of communication technologies include satellite communication, ground wave communication, and fiber optics.",
+          "keywords": [
+            {"keyword": "Communication System", "definition": "A system that is used for transferring information (messages) from one point to another."},
+            {"keyword": "Wired Communication", "definition": "Communication that uses a physical medium like wires or optical fibers to transmit signals."},
+            {"keyword": "Wireless Communication", "definition": "Communication that uses electromagnetic waves (radio, microwave, infrared) to transmit signals without a physical medium."},
+            {"keyword": "Electromagnetic Theory", "definition": "The foundational physics theory that describes the behavior of electric and magnetic fields and their interaction, crucial for understanding waves like radio and microwaves."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Two-dimensional motion",
+      "sections": [
+        {
+          "section_number": 2.1,
+          "section_title": "Projectile motion",
+          "summary": "This section covers the kinematics of projectile motion, which is the motion of an object under the sole influence of gravity. It establishes that projectile motion can be analyzed as two independent components: horizontal motion (constant velocity, no acceleration) and vertical motion (constant acceleration due to gravity). The section derives the key equations for horizontal and vertical displacement and velocity. It specifically addresses two cases: horizontal projection (from a height) and inclined projection (launched at an angle). For inclined projection, it derives equations for time of flight, maximum height, and horizontal range. It also discusses the relationship between range and maximum height, highlighting that the range is maximized at a 45-degree launch angle (assuming no air resistance).",
+          "detailed_notes": "A projectile is an object whose motion is governed solely by the force of gravity after its initial launch. Its trajectory is a parabola. The analysis of projectile motion relies on three key assumptions: (1) the acceleration due to gravity is constant and directed downward, (2) air resistance is negligible, and (3) horizontal velocity is constant because there is no horizontal acceleration. The motion is broken down into independent horizontal and vertical components, with time as the common linking variable. For horizontal projection (launched horizontally from a height), the initial vertical velocity is zero. The horizontal displacement is given by Δx = v0x * t, and the vertical displacement is Δy = (1/2)gt^2. The time of flight is determined solely by the height, t = sqrt(2Δy/g). The range is then R = v0x * sqrt(2Δy/g). For inclined projectile motion (launched at an angle θ with velocity v0), the initial velocity components are v0x = v0 cos θ and v0y = v0 sin θ. The horizontal velocity is constant (vx = v0 cos θ), and the vertical velocity changes as vy = v0 sin θ + gt. Displacements are Δx = v0 cos θ * t and Δy = v0 sin θ * t + (1/2)gt^2. The time to reach maximum height is t = v0 sin θ / g. The total time of flight (for launch and landing at the same height) is t_total = 2v0 sin θ / g. The maximum height H = (v0^2 sin^2 θ) / 2g. The horizontal range R = (v0^2 sin 2θ) / g. The range is maximum at θ = 45°. The relation between range and maximum height is H = (R tan θ)/4.",
+          "keywords": [
+            {"keyword": "Projectile", "definition": "An object that is launched and moves only under the influence of gravity."},
+            {"keyword": "Trajectory", "definition": "The path followed by a projectile; a parabola in the absence of air resistance."},
+            {"keyword": "Horizontal Projection", "definition": "Projectile motion where the object is launched horizontally from a height."},
+            {"keyword": "Inclined Projection", "definition": "Projectile motion where the object is launched at an angle to the horizontal."},
+            {"keyword": "Time of Flight", "definition": "The total time a projectile spends in the air."},
+            {"keyword": "Range", "definition": "The maximum horizontal distance a projectile travels."},
+            {"keyword": "Maximum Height", "definition": "The highest vertical position reached by a projectile."}
+          ]
+        },
+        {
+          "section_number": 2.2,
+          "section_title": "Rotational Motion",
+          "summary": "This section introduces the kinematics of rotational motion for a rigid body rotating about a fixed axis. It defines key angular quantities analogous to linear motion: angular displacement (Δθ), angular velocity (ω), and angular acceleration (α). The relationships between these angular quantities and their linear counterparts (tangential displacement s, tangential speed v, and tangential acceleration a) for a point on the rotating body are established as s = rθ, v = rω, and a = rα. The section also presents the equations of rotational kinematics for constant angular acceleration and provides a table comparing them to the linear equations of motion. The right-hand rule is described for determining the direction of angular velocity and acceleration.",
+          "detailed_notes": "Rotational motion is the motion of an object in a circle around a fixed axis. A rigid body is an object with a fixed shape where the distance between any two points remains constant. Angular displacement (Δθ) is the change in the angle of rotation, measured in radians. One complete revolution is 2π radians. Angular velocity (ω) is the rate of change of angular displacement, given by ω_av = Δθ/Δt, with units of rad/s. Angular acceleration (α) is the rate of change of angular velocity, given by α = Δω/Δt, with units of rad/s². The direction of ω and α is along the axis of rotation, determined by the right-hand rule: curling fingers in the direction of rotation gives the direction of ω with the thumb. For constant angular acceleration, the kinematic equations are: ω_f = ω_0 + αΔt, Δθ = ω_0Δt + (1/2)αΔt², and ω_f² = ω_0² + 2αΔθ. The relationships between angular and linear quantities for a point at a distance r from the axis are: s = rΔθ (arc length), v = rω (tangential speed), and a = rα (tangential acceleration). The linear speed is greater for points farther from the axis of rotation, although all points share the same angular speed.",
+          "keywords": [
+            {"keyword": "Rotational Motion", "definition": "The motion of an object in a circle around a fixed axis."},
+            {"keyword": "Rigid Body", "definition": "An object with a fixed shape and a constant distance between any two of its points."},
+            {"keyword": "Angular Displacement", "definition": "The change in the angle of rotation of an object."},
+            {"keyword": "Angular Velocity", "definition": "The rate of change of angular displacement of a rotating object."},
+            {"keyword": "Angular Acceleration", "definition": "The rate of change of angular velocity of a rotating object."},
+            {"keyword": "Radian", "definition": "The SI unit of angular measurement, where one revolution equals 2π radians."},
+            {"keyword": "Right-Hand Rule", "definition": "A rule used to determine the direction of the angular velocity vector; curling fingers in the direction of rotation gives the direction of ω with the thumb."},
+            {"keyword": "Tangential Speed", "definition": "The linear speed of a point on a rotating object, given by v = rω."},
+            {"keyword": "Tangential Acceleration", "definition": "The linear acceleration of a point on a rotating object, given by a = rα."}
+          ]
+        },
+        {
+          "section_number": 2.3,
+          "section_title": "Rotational Dynamics",
+          "summary": "This section covers the dynamics of rotational motion, introducing the concepts of torque and moment of inertia. Torque is defined as the rotational effect of a force, given by τ = rF sinθ. It is the analog of force in linear motion and causes angular acceleration. The moment of inertia (I) is defined as the rotational inertia of an object, representing its resistance to changes in angular velocity. For a system of point masses, I = Σ m_i r_i². The rotational analog of Newton's second law is established as τ_net = Iα. Sample problems demonstrate how to calculate net torque, moment of inertia, and the resulting angular acceleration.",
+          "detailed_notes": "Torque (τ) is the measure of the force's ability to cause rotational motion. It depends on the magnitude of the force, the distance from the axis of rotation to where the force is applied, and the angle between the force vector and the lever arm. The magnitude of torque is given by τ = rF sinθ. Its SI unit is Newton-meter (Nm), and its direction is along the axis of rotation. The moment of inertia (I) is the rotational analog of mass. It quantifies an object's resistance to changes in its rotational motion. It depends on the mass distribution of the object relative to the axis of rotation. For a point mass, I = mr². For a system of particles, I = Σ m_i r_i². The rotational analog of Newton's second law (F = ma) is τ_net = Iα, which states that the net torque on an object is equal to its moment of inertia times its angular acceleration.",
+          "keywords": [
+            {"keyword": "Torque", "definition": "The rotational effect of a force, causing an object to acquire angular acceleration."},
+            {"keyword": "Moment of Inertia", "definition": "The quantitative measure of an object's rotational inertia; its resistance to changes in angular velocity."},
+            {"keyword": "Axis of Rotation", "definition": "The imaginary line around which an object rotates."}
+          ]
+        },
+        {
+          "section_number": 2.4,
+          "section_title": "Planetary motion and Kepler's laws",
+          "summary": "This section presents Kepler's three laws of planetary motion, which describe the orbits of planets around the Sun. Kepler's First Law (Law of Ellipses) states that planets orbit the Sun in elliptical paths with the Sun at one focus. Kepler's Second Law (Law of Equal Areas) states that an imaginary line from the Sun to a planet sweeps out equal areas in equal times, meaning planets move faster when closer to the Sun (perihelion) and slower when farther (aphelion). Kepler's Third Law (Law of Harmonies) states that the square of a planet's orbital period (T) is proportional to the cube of its average orbital radius (R), or T²/R³ = K, where K is a constant for all planets orbiting the Sun.",
+          "detailed_notes": "Kepler's laws were derived from extensive astronomical observations made by Tycho Brahe. The First Law: The orbit of each planet is an ellipse with the Sun at one focus. An ellipse is a closed curve where the sum of the distances from any point on the curve to the two foci is constant. The Second Law: A line joining the planet and the Sun sweeps out equal areas during equal intervals of time. This implies that a planet's orbital speed is not constant; it is fastest at perihelion (closest to the Sun) and slowest at aphelion (farthest from the Sun). The Third Law: The square of the orbital period (T) of a planet is proportional to the cube of the semi-major axis (average distance, R) of its orbit. Mathematically, T² ∝ R³, or T²/R³ = K. The constant K is approximately the same for all planets in our solar system. This law links the time it takes for a planet to orbit the Sun to its distance from the Sun.",
+          "keywords": [
+            {"keyword": "Kepler's First Law", "definition": "The orbit of a planet around the Sun is an ellipse with the Sun at one of the foci."},
+            {"keyword": "Kepler's Second Law", "definition": "A line joining a planet and the Sun sweeps out equal areas in equal times."},
+            {"keyword": "Kepler's Third Law", "definition": "The square of a planet's orbital period is proportional to the cube of the semi-major axis of its orbit (T² ∝ R³)."},
+            {"keyword": "Ellipse", "definition": "An oval-shaped closed curve. The orbit of a planet is an ellipse."},
+            {"keyword": "Focus (Foci)", "definition": "One of the two fixed points inside an ellipse. The Sun is at one focus of a planet's orbit."},
+            {"keyword": "Perihelion", "definition": "The point in a planet's orbit where it is closest to the Sun."},
+            {"keyword": "Aphelion", "definition": "The point in a planet's orbit where it is farthest from the Sun."},
+            {"keyword": "Orbital Period", "definition": "The time it takes for a planet or other object to complete one full orbit around another object."}
+          ]
+        },
+        {
+          "section_number": 2.5,
+          "section_title": "Newton's law of universal Gravitation",
+          "summary": "This section introduces Newton's Universal Law of Gravitation, which states that every particle in the universe attracts every other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between their centers. The gravitational constant G is introduced. The section also explains how this law provides the physical basis for Kepler's laws. It derives that the centripetal force required for a planet's circular orbit is provided by the Sun's gravitational pull. By equating centripetal force (F_c = mv²/r) with the gravitational force, it derives the relationship for orbital speed and shows that it leads to Kepler's Third Law, identifying the constant K as 4π²/(GM_s).",
+          "detailed_notes": "Newton's Law of Universal Gravitation is a fundamental law of physics. It states that the force of gravity (F_g) between two objects is attractive and acts along the line connecting their centers. The magnitude is given by F_g = G * (m1 * m2) / r², where G is the universal gravitational constant (6.67 x 10⁻¹¹ Nm²/kg²), m1 and m2 are the masses of the two objects, and r is the distance between their centers. This law explains why planets orbit the Sun. The gravitational force of the Sun provides the necessary centripetal force (F_c = mv²/r) to keep a planet in a curved path. For a planet of mass m_p in a circular orbit of radius r around the Sun of mass M_s, the centripetal force is provided by gravity: m_p v² / r = G M_s m_p / r². This simplifies to v² = G M_s / r. Since the orbital speed v = 2πr/T, substituting and rearranging gives T²/r³ = 4π²/(GM_s), which is Kepler's Third Law. The value of the constant K is 4π²/(GM_s), which is the same for all planets orbiting the Sun. This derivation successfully connects Newton's mechanics with Kepler's empirical laws.",
+          "keywords": [
+            {"keyword": "Newton's Law of Universal Gravitation", "definition": "A law stating that every particle in the universe attracts every other particle with a force directly proportional to the product of their masses and inversely proportional to the square of the distance between them."},
+            {"keyword": "Universal Gravitational Constant (G)", "definition": "A fundamental physical constant used in the calculation of gravitational forces, with a value of 6.67 x 10⁻¹¹ Nm²/kg²."},
+            {"keyword": "Centripetal Force", "definition": "A force that acts on a body moving in a circular path and is directed toward the center around which the body is moving."},
+            {"keyword": "Orbital Speed", "definition": "The speed at which an object travels in its orbit around another object."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Fluid Mechanics",
+      "sections": [
+        {
+          "section_number": 3.1,
+          "section_title": "Fluid Statics",
+          "summary": "This section introduces the fundamental concepts of fluid mechanics, focusing on fluids at rest (fluid statics). It explains the differences between solids, liquids, and gases in terms of molecular arrangement, intermolecular forces, and compressibility. Pressure is defined as force per unit area (P = F/A), and its SI unit (the Pascal) and other common units are introduced. The concepts of absolute pressure, gauge pressure, and atmospheric pressure are defined, along with their relationship (P_abs = P_gauge + P_atm). The section also covers density (ρ = m/V) and its measurement, specific gravity (relative density), and the ideal gas law (PV = nRT) as it relates to the density and pressure of gases.",
+          "detailed_notes": "Fluid statics is the study of fluids at rest. Matter exists in three states: solid (fixed shape and volume, atoms vibrate at fixed positions), liquid (fixed volume but takes the shape of its container, atoms can slide past each other), and gas (no fixed shape or volume, atoms are far apart and move freely). Fluids (liquids and gases) cannot resist shear (tangential) stress; they flow under any such force. The normal stress in a fluid at rest is called pressure. Pressure is defined as the normal force per unit area, P = F/A. The SI unit of pressure is the Pascal (Pa), where 1 Pa = 1 N/m². Other units include atmosphere (atm), mmHg, torr, and psi. Absolute pressure is the total pressure measured relative to a perfect vacuum. Gauge pressure is the pressure measured relative to the local atmospheric pressure: P_gauge = P_abs - P_atm. Density (ρ) is the mass per unit volume of a substance, ρ = m/V. Specific gravity (or relative density) is the ratio of a substance's density to the density of a reference substance, usually water at 4°C. The ideal gas law, PV = nRT = (m/M)RT = ρR_specific T, relates the pressure, volume, temperature, and mass of a gas, providing a link between density and pressure for gases.",
+          "keywords": [
+            {"keyword": "Fluid", "definition": "A substance, such as a liquid or gas, that can flow and does not resist shear stress."},
+            {"keyword": "Fluid Statics", "definition": "The branch of fluid mechanics that studies fluids at rest."},
+            {"keyword": "Pressure", "definition": "The normal force exerted by a fluid or solid per unit area."},
+            {"keyword": "Pascal (Pa)", "definition": "The SI unit of pressure, equal to one newton per square meter (N/m²)."},
+            {"keyword": "Absolute Pressure", "definition": "The actual pressure at a given position, measured relative to a perfect vacuum."},
+            {"keyword": "Gauge Pressure", "definition": "The pressure measured relative to the local atmospheric pressure."},
+            {"keyword": "Atmospheric Pressure", "definition": "The pressure exerted by the weight of the atmosphere at a given location."},
+            {"keyword": "Density", "definition": "The mass per unit volume of a substance."},
+            {"keyword": "Specific Gravity (Relative Density)", "definition": "The ratio of the density of a substance to the density of a standard substance, typically water."},
+            {"keyword": "Ideal Gas Law", "definition": "An equation of state that describes the relationship between the pressure, volume, temperature, and amount of an ideal gas (PV = nRT)."}
+          ]
+        },
+        {
+          "section_number": 3.2,
+          "section_title": "Pressure in fluids at rest",
+          "summary": "This section explains how pressure behaves in stationary fluids. It introduces Pascal's Principle, stating that a pressure change applied to a confined fluid is transmitted undiminished throughout the fluid. This principle is applied to hydraulic presses, explaining how they can multiply force. The variation of pressure with depth in a fluid is derived as P = P₀ + ρgh, where P₀ is the pressure at the surface. The section also describes the measurement of pressure, including the atmospheric pressure measurement using a barometer and the measurement of gas pressure using a manometer.",
+          "detailed_notes": "In a fluid at rest, pressure acts equally in all directions at a given point. Pascal's Principle states that a change in pressure applied to an enclosed, static fluid is transmitted undiminished to every point in the fluid and to the walls of the container. This principle is the basis for hydraulic presses and lifts, which amplify force. The output force is F₂ = (A₂/A₁) * F₁. The pressure in a fluid increases with depth due to the weight of the fluid above. For a fluid of density ρ, the pressure at a depth h below the surface is given by P = P₀ + ρgh, where P₀ is the pressure at the surface (often atmospheric pressure). This pressure is independent of the shape or size of the container. Atmospheric pressure is measured using a barometer, which typically uses a column of mercury. The height of the mercury column (h) in a barometer is directly proportional to the atmospheric pressure: P_atm = ρ_mercury * g * h. A manometer is a U-shaped tube used to measure the pressure of a gas. The difference in liquid levels in the two arms (h) indicates the gauge pressure of the gas. For an open manometer, the gas pressure is P_gas = P_atm + ρgh (if P_gas > P_atm) or P_gas = P_atm - ρgh (if P_gas < P_atm).",
+          "keywords": [
+            {"keyword": "Pascal's Principle", "definition": "A principle stating that a change in pressure applied to an enclosed static fluid is transmitted undiminished to every part of the fluid and the container walls."},
+            {"keyword": "Hydraulic Press", "definition": "A machine that uses Pascal's Principle to multiply force, using two pistons of different areas connected by a fluid."},
+            {"keyword": "Barometer", "definition": "A device used to measure atmospheric pressure."},
+            {"keyword": "Manometer", "definition": "A U-shaped device used to measure the pressure of a gas, often relative to atmospheric pressure."},
+            {"keyword": "Hydrostatic Pressure", "definition": "The pressure exerted by a fluid at rest due to the weight of the fluid above it (P = ρgh)."}
+          ]
+        },
+        {
+          "section_number": 3.3,
+          "section_title": "Archimedes' principle",
+          "summary": "This section focuses on the buoyant force, which is the upward force exerted by a fluid on an immersed object. Archimedes' Principle is stated: the buoyant force on an object is equal to the weight of the fluid it displaces (F_B = ρ_fluid * g * V_disp). The section explains the origin of this force (pressure increasing with depth). It analyzes the conditions for a submerged object to sink, float, or remain suspended based on the comparison of its density to that of the fluid. For a floating object, the fraction of its volume submerged is equal to the ratio of its density to the fluid's density (V_disp/V_obj = ρ_obj/ρ_fluid).",
+          "detailed_notes": "A fluid exerts an upward force on any object submerged in it, known as the buoyant force (or upthrust). This force arises because the pressure in a fluid increases with depth, resulting in a greater upward force on the bottom of the object than the downward force on the top. Archimedes' Principle states that the magnitude of the buoyant force on an object is equal to the weight of the fluid that the object displaces. Mathematically, F_B = ρ_fluid * g * V_disp, where V_disp is the volume of fluid displaced. For a totally submerged object, V_disp = V_obj. The net force on the object is F_net = F_B - W = (ρ_fluid - ρ_obj) * g * V_obj. Therefore, if ρ_obj < ρ_fluid, the object accelerates upward (floats). If ρ_obj > ρ_fluid, the object sinks. If ρ_obj = ρ_fluid, the object remains in equilibrium at any depth. For an object that floats (partially submerged), the buoyant force equals the object's weight: ρ_fluid * g * V_disp = ρ_obj * g * V_obj. This simplifies to V_disp/V_obj = ρ_obj/ρ_fluid, meaning the fraction of the floating object that is submerged is equal to the ratio of its density to the fluid's density.",
+          "keywords": [
+            {"keyword": "Buoyant Force", "definition": "The upward force exerted by a fluid on any object immersed in it."},
+            {"keyword": "Archimedes' Principle", "definition": "A principle stating that the buoyant force on an object is equal to the weight of the fluid it displaces."},
+            {"keyword": "Upthrust", "definition": "Another term for the buoyant force."},
+            {"keyword": "Apparent Weight", "definition": "The weight of an object when submerged in a fluid, which is less than its true weight due to the buoyant force."}
+          ]
+        },
+        {
+          "section_number": 3.4,
+          "section_title": "Fluid flow",
+          "summary": "This section covers the behavior of fluids in motion. It distinguishes between steady (laminar) flow, where fluid particles follow smooth, non-crossing paths, and turbulent flow, which is irregular and chaotic. The concept of flow rate (Q = V/t) is introduced. The equation of continuity (A₁v₁ = A₂v₂) is derived and stated, which expresses the principle of mass conservation for an incompressible fluid, showing that the product of cross-sectional area and fluid speed remains constant along a flow tube.",
+          "detailed_notes": "Fluid flow is classified into two main types: steady (or laminar) flow and turbulent flow. In steady or laminar flow, every fluid particle follows a smooth path (streamline), and the paths of different particles never cross. The velocity at any given point is constant in time. Turbulent flow is irregular and chaotic, characterized by eddies and mixing of fluid layers. A streamline is the path followed by a fluid particle in steady flow. The flow rate (Q) is the volume of fluid passing through a given area per unit time, Q = V/t. Its SI unit is m³/s. For an incompressible fluid, the principle of conservation of mass requires that the flow rate be constant throughout a pipe or flow tube. This leads to the equation of continuity: A₁v₁ = A₂v₂, where A and v are the cross-sectional area and fluid speed at two different points in the pipe. This equation shows that where the pipe is narrower (smaller A), the fluid speed must be higher, and vice versa.",
+          "keywords": [
+            {"keyword": "Steady (Laminar) Flow", "definition": "Fluid flow in which each particle follows a smooth, non-crossing path, and the velocity at any point is constant in time."},
+            {"keyword": "Turbulent Flow", "definition": "Irregular, chaotic fluid flow characterized by eddies and mixing."},
+            {"keyword": "Flow Rate", "definition": "The volume of fluid that passes through a given area per unit time (Q = V/t)."},
+            {"keyword": "Equation of Continuity", "definition": "A principle for fluid flow stating that for an incompressible fluid, the product of cross-sectional area and fluid speed is constant along a flow tube (A₁v₁ = A₂v₂)."},
+            {"keyword": "Streamline", "definition": "The path followed by a fluid particle in steady flow."},
+            {"keyword": "Viscosity", "definition": "A measure of a fluid's resistance to flow, representing internal friction between adjacent layers of fluid."},
+            {"keyword": "Bernoulli's Principle", "definition": "A principle stating that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy."}
+          ]
+        },
+        {
+          "section_number": 3.5,
+          "section_title": "Safety and high pressure",
+          "summary": "This section discusses high-pressure systems, their applications, and associated safety measures. It identifies common high-pressure equipment like compressors, pressure vessels, and piping. The hazards of high-pressure systems are outlined, including explosions, impact from debris, fire, and release of hazardous fluids. Common causes of risks are also listed. The section provides specific safety measures for common high-pressure applications, such as using Liquefied Petroleum Gas (LPG) cylinders and operating high-pressure washers, emphasizing the importance of proper handling, storage, and personal protective equipment.",
+          "detailed_notes": "High pressure is generally considered to be pressure significantly greater than 1 atmosphere (often > 50 atm). High-pressure systems are used in various applications, including pressure cookers, gas cylinders (LPG), tire inflators, and industrial cleaning equipment (pressure washers). Such systems can present serious hazards if not handled correctly, including explosions, flying debris, fire from flammable gases or liquids, and impact from escaping fluids. Risks often arise from poor design, lack of maintenance, operator error, or incorrect installation. Safety measures are crucial for preventing accidents. For LPG cylinders, they must be stored upright, in a well-ventilated area, away from flammable materials and physical impact. The valve should always be turned off after use. For high-pressure washers, operators must wear safety glasses, enclosed shoes, and gloves. The nozzle should never be pointed at people or animals, and the machine should be turned off before disconnecting hoses.",
+          "keywords": [
+            {"keyword": "High Pressure", "definition": "Pressure significantly greater than 1 atmosphere, often > 50 atm."},
+            {"keyword": "Compressor", "definition": "A mechanical device that increases the pressure of a gas by reducing its volume."},
+            {"keyword": "Pressure Vessel", "definition": "A container designed to hold fluids under pressure."},
+            {"keyword": "Pascalization", "definition": "A process of preserving food by applying high pressure to kill microorganisms."},
+            {"keyword": "Liquefied Petroleum Gas (LPG)", "definition": "A flammable mixture of hydrocarbon gases, often propane and butane, stored in pressurized cylinders for use as fuel."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Electromagnetism",
+      "sections": [
+        {
+          "section_number": 4.1,
+          "section_title": "Magnets and Magnetic field",
+          "summary": "This section introduces the basic concepts of magnetism. It defines a magnet as an object that generates a magnetic field, which is the region where its magnetic force is felt. Every magnet has two poles: a North (N) and a South (S) pole. Like poles repel, and opposite poles attract. The section explains that magnetic poles always exist in pairs (dipoles) and cannot be isolated. It distinguishes between permanent magnets and electromagnets. The Earth's magnetic field is described as resembling a giant bar magnet, with its magnetic poles near the geographic poles. Finally, the differences between electric and magnetic fields are briefly listed.",
+          "detailed_notes": "A magnet is a material that produces a magnetic field, which exerts forces on other magnets or magnetic materials (like iron, nickel, and cobalt). The strongest forces are at the poles, called the North (N) and South (S) poles. Magnetic poles are always found in pairs; a monopole (a single pole) does not exist. If a magnet is cut in half, each piece becomes a new magnet with its own N and S poles. Permanent magnets are naturally magnetic or magnetized and retain their magnetism for a long time. Electromagnets are made by wrapping a coil of wire around an iron core. They are only magnetic when an electric current flows through the coil. The Earth itself acts like a giant bar magnet. Its geographic North Pole is near its magnetic South Pole, and vice versa. A compass needle aligns itself with the Earth's magnetic field, pointing towards the magnetic North Pole, which is geographically in the south. Magnetic field is the region around a magnet where its force is felt. It is a vector quantity. The key differences between electric and magnetic fields include their sources (electric charges vs. magnetic dipoles), units (N/C vs. Tesla), and the nature of their field lines (starting/ending on charges vs. forming closed loops).",
+          "keywords": [
+            {"keyword": "Magnet", "definition": "An object that produces a magnetic field and attracts ferromagnetic materials."},
+            {"keyword": "Magnetic Field", "definition": "The region around a magnet or moving electric charge where magnetic forces are felt."},
+            {"keyword": "Magnetic Pole", "definition": "The part of a magnet where the magnetic force is strongest, either north (N) or south (S)."},
+            {"keyword": "Permanent Magnet", "definition": "A magnet that retains its magnetic properties for a long time without the need for an external power source."},
+            {"keyword": "Electromagnet", "definition": "A magnet created by wrapping a coil of wire around an iron core; it is magnetic only while an electric current flows."},
+            {"keyword": "Tesla (T)", "definition": "The SI unit of magnetic field strength."}
+          ]
+        },
+        {
+          "section_number": 4.2,
+          "section_title": "Magnetic field lines",
+          "summary": "This section describes magnetic field lines as a visual tool for representing magnetic fields. The properties of these lines are detailed: they form continuous closed loops, they never cross, their direction is from the north pole to the south pole outside the magnet (and south to north inside), and their density indicates the field's strength. A comparison is made between magnetic and electric field lines, noting that unlike electric field lines, magnetic field lines do not have a beginning or an end.",
+          "detailed_notes": "Magnetic field lines are imaginary lines that represent the direction and strength of a magnetic field. They are a visual tool used for mapping fields. The key properties of magnetic field lines are: (1) They form continuous, closed loops. Outside a magnet, they emerge from the N pole and enter the S pole. Inside the magnet, they go from the S pole to the N pole, completing the loop. (2) They never intersect each other, which means the field at any point has a unique direction. (3) The direction of the field at any point is tangent to the field line at that point. This is the direction a compass needle would point. (4) The strength of the field is proportional to the density of the lines; they are closer together where the field is stronger (near the poles) and farther apart where it is weaker. Unlike electric field lines, which start on positive charges and end on negative charges, magnetic field lines have no starting or ending point; they are always closed loops, reflecting the fact that magnetic monopoles do not exist.",
+          "keywords": [
+            {"keyword": "Magnetic Field Lines", "definition": "Imaginary lines used to visually represent the direction and strength of a magnetic field."},
+            {"keyword": "Closed Loops", "definition": "The property of magnetic field lines where they have no beginning or end, forming continuous paths."}
+          ]
+        },
+        {
+          "section_number": 4.3,
+          "section_title": "Current and Magnetism",
+          "summary": "This section establishes the connection between electricity and magnetism, showing that an electric current produces a magnetic field. It introduces Ampere's Law, stating that the magnetic field created by an electric current is proportional to the current. The magnetic field around a long straight current-carrying wire is described, and its magnitude is given by B = μ₀I/(2πr). The section also explains how to determine the direction of the magnetic field using the right-hand rule.",
+          "detailed_notes": "The relationship between electricity and magnetism was first demonstrated by Oersted. A current-carrying conductor produces a magnetic field. The magnitude of the magnetic field (B) created by a long straight wire is directly proportional to the current (I) in the wire and inversely proportional to the distance (r) from the wire: B = μ₀I/(2πr), where μ₀ is the permeability of free space (4π x 10⁻⁷ T·m/A). The SI unit of magnetic field is the Tesla (T). Ampere's Law is a more general form of this relationship, stating that the magnetic field around an electric current is proportional to the current. The direction of the magnetic field around a straight wire is given by the right-hand rule: if you point the thumb of your right hand in the direction of the conventional current, your fingers curl in the direction of the magnetic field lines (which form concentric circles around the wire). The strength of the field increases with current and decreases with distance.",
+          "keywords": [
+            {"keyword": "Ampere's Law", "definition": "A law stating that the magnetic field created by an electric current is proportional to the magnitude of that current."},
+            {"keyword": "Permeability of Free Space (μ₀)", "definition": "A physical constant that describes how a magnetic field permeates a vacuum, with a value of 4π × 10⁻⁷ T·m/A."},
+            {"keyword": "Right-Hand Rule (for current)", "definition": "A rule used to determine the direction of the magnetic field around a current-carrying wire: point the thumb in the direction of current, and the fingers curl in the direction of the magnetic field."}
+          ]
+        },
+        {
+          "section_number": 4.4,
+          "section_title": "Electromagnetic Induction",
+          "summary": "This section introduces the phenomenon of electromagnetic induction, where a changing magnetic field induces an electromotive force (emf) in a conductor. It explains that moving a magnet relative to a coil generates an emf and an induced current. The concept of magnetic flux is introduced as a measure of the total magnetic field passing through an area, defined as Φ_B = BA cosθ, where θ is the angle between the magnetic field and the normal to the surface. The SI unit of magnetic flux is the Weber (Wb).",
+          "detailed_notes": "Electromagnetic induction was discovered by Faraday and Henry. It is the process of generating an electromotive force (emf) and subsequently an electric current in a circuit due to a changing magnetic field. This can be achieved by moving a magnet near a coil, moving a coil in a magnetic field, or changing the current in a nearby circuit. The key to induction is a change in magnetic flux. Magnetic flux (Φ_B) is a measure of the number of magnetic field lines passing through a given area. For a uniform magnetic field B, the flux through a surface of area A is Φ_B = BA cosθ, where θ is the angle between the magnetic field vector and the normal to the surface. The SI unit of magnetic flux is the Weber (Wb). The flux is maximum when the field is perpendicular to the surface (θ = 0°) and zero when it is parallel (θ = 90°). An induced emf is only produced when the flux through the circuit is changing.",
+          "keywords": [
+            {"keyword": "Electromagnetic Induction", "definition": "The production of an electromotive force (emf) across an electrical conductor in a changing magnetic field."},
+            {"keyword": "Magnetic Flux", "definition": "A measure of the total magnetic field passing through a given area, defined as Φ_B = BA cosθ."},
+            {"keyword": "Weber (Wb)", "definition": "The SI unit of magnetic flux."},
+            {"keyword": "Electromotive Force (emf)", "definition": "The voltage generated by a source such as a battery or by a changing magnetic field."}
+          ]
+        },
+        {
+          "section_number": 4.5,
+          "section_title": "Faraday's Law of electromagnetic Induction",
+          "summary": "This section presents Faraday's Law of electromagnetic induction, which quantifies the relationship between the induced emf and the rate of change of magnetic flux. The law states that the magnitude of the induced emf is directly proportional to the rate of change of magnetic flux through the circuit: ε = -N(ΔΦ_B/Δt). The negative sign is explained by Lenz's Law, which states that the direction of the induced current is such that it opposes the change in flux that caused it. Lenz's Law is derived from the principle of conservation of energy.",
+          "detailed_notes": "Faraday's Law of electromagnetic induction states that the magnitude of the induced emf (ε) in a circuit is equal to the time rate of change of the magnetic flux through the circuit. For a coil with N turns, the law is expressed as ε = -N (ΔΦ_B / Δt). The negative sign in the equation is a consequence of Lenz's Law. Lenz's Law states that the direction of the induced current is such that its own magnetic field opposes the change in magnetic flux that caused it. This law is a direct consequence of the conservation of energy; it ensures that the induced current does not create energy from nothing but rather opposes the change. For example, if a north pole is moved towards a coil, the induced current creates a magnetic field that repels the magnet (opposes the approach). The induced emf can be increased by increasing the number of turns (N), increasing the magnetic field strength (B), increasing the area (A), or by increasing the rate of change of flux (ΔΦ/Δt).",
+          "keywords": [
+            {"keyword": "Faraday's Law", "definition": "A law stating that the induced electromotive force (emf) in a circuit is proportional to the rate of change of magnetic flux through the circuit."},
+            {"keyword": "Lenz's Law", "definition": "A law stating that the direction of an induced current is such that it opposes the change in magnetic flux that produced it."},
+            {"keyword": "Induced Current", "definition": "An electric current produced in a conductor by a changing magnetic field."}
+          ]
+        },
+        {
+          "section_number": 4.6,
+          "section_title": "Transformers",
+          "summary": "This section explains the working principle of a transformer, an electrical device that uses electromagnetic induction to transfer electrical energy between circuits and change voltage levels. It operates on alternating current (AC). The relationship between primary and secondary voltage and the number of turns is given by V_P/V_S = N_P/N_S. A step-up transformer increases voltage (N_S > N_P), while a step-down transformer decreases voltage (N_S < N_P). The use of transformers in common household appliances, like phone and laptop chargers, is also briefly mentioned, highlighting their role in stepping down high mains voltage to safe levels for devices.",
+          "detailed_notes": "A transformer is a device that transfers electrical energy from one circuit to another through electromagnetic induction, without changing the frequency. It consists of two coils of wire, the primary and secondary, wound around a common iron core. An alternating current (AC) in the primary coil creates a changing magnetic flux in the core, which induces an alternating voltage in the secondary coil. The voltage ratio is determined by the turns ratio: V_P/V_S = N_P/N_S. If the secondary has more turns than the primary (N_S > N_P), it is a step-up transformer (V_S > V_P). If the secondary has fewer turns (N_S < N_P), it is a step-down transformer (V_S < V_P). For an ideal transformer (neglecting losses), the power output equals the power input, so P_P = P_S, or V_P * I_P = V_S * I_S. Transformers are essential for the efficient distribution of electrical power (stepping up voltage for transmission to reduce losses, stepping down for safe use in homes). They are also used in many small appliances like phone chargers and laptop power supplies to step down the high voltage from wall outlets to the low voltage required by the device's electronics.",
+          "keywords": [
+            {"keyword": "Transformer", "definition": "An electrical device that transfers energy between circuits via electromagnetic induction, used to change voltage levels."},
+            {"keyword": "Primary Coil", "definition": "The input coil of a transformer, which receives the AC voltage."},
+            {"keyword": "Secondary Coil", "definition": "The output coil of a transformer, where the induced voltage is produced."},
+            {"keyword": "Step-up Transformer", "definition": "A transformer that increases voltage from the primary to the secondary coil."},
+            {"keyword": "Step-down Transformer", "definition": "A transformer that decreases voltage from the primary to the secondary coil."},
+            {"keyword": "Turns Ratio", "definition": "The ratio of the number of turns in the secondary coil to the number of turns in the primary coil."}
+          ]
+        },
+        {
+          "section_number": 4.7,
+          "section_title": "Application and safety",
+          "summary": "This section provides an overview of various applications of electromagnetism in daily life and industry. It highlights the use of electromagnets in electric motors, generators, relays, and electric bells. It also mentions applications in modern devices like graphics tablets. The section also discusses safety considerations for electromagnets, noting that while generally safe, powerful electromagnets can damage electronic devices like hard drives, and magnets can distort CRT monitors. Safety is also crucial in industrial settings where electromagnets are used for lifting heavy loads.",
+          "detailed_notes": "Electromagnetism has countless applications in modern life. Electromagnets are used in many household appliances such as electric fans, doorbells, and in devices like headphones, loudspeakers, and magnetic relays. A magnetic relay is a switch that can be activated magnetically, for example in telephone equipment. Electric bells work by using an electromagnet to strike a bell, with the circuit repeatedly breaking and remaking. A DC electric motor converts electrical energy into rotational mechanical energy using the interaction between a current-carrying coil and a magnetic field. An AC generator (dynamo) converts mechanical energy into electrical energy using electromagnetic induction. While electromagnets are generally safe, precautions must be taken. Strong electromagnets can damage hard drives or credit card strips, and they can distort images on older CRT televisions. In industrial settings, factors like the weight of the load and potential air gaps must be considered when using electromagnets for lifting.",
+          "keywords": [
+            {"keyword": "Electric Motor", "definition": "A device that converts electrical energy into mechanical energy (rotation) using electromagnetism."},
+            {"keyword": "Electric Generator (Dynamo)", "definition": "A device that converts mechanical energy into electrical energy through electromagnetic induction."},
+            {"keyword": "Magnetic Relay", "definition": "An electromechanical switch operated by an electromagnet."},
+            {"keyword": "Electric Bell", "definition": "A device that uses an electromagnet to ring a bell."},
+            {"keyword": "Graphics Tablet", "definition": "An input device that uses electromagnetic induction to detect the position of a pen on a surface."}
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Basics of electronics",
+      "sections": [
+        {
+          "section_number": 5.1,
+          "section_title": "Semiconductors",
+          "summary": "This section introduces semiconductors, materials with electrical conductivity between conductors and insulators. The lattice structure of semiconductors like silicon and germanium is described, focusing on the covalent bonds between atoms. The concept of holes as charge carriers is introduced. The distinction between intrinsic (undoped) and extrinsic (doped) semiconductors is made. Extrinsic semiconductors are further divided into N-type (doped with pentavalent atoms, creating extra electrons as majority carriers) and P-type (doped with trivalent atoms, creating holes as majority carriers). The process of adding impurities to change conductivity is called doping.",
+          "detailed_notes": "Semiconductors, such as silicon (Si) and germanium (Ge), have electrical conductivity between that of conductors and insulators. They behave as insulators at very low temperatures and as conductors at higher temperatures. The conductivity of pure (intrinsic) semiconductors can be greatly increased by doping, which is the addition of small amounts of impurities. Intrinsic semiconductors are pure, undoped materials. Extrinsic semiconductors are doped. In a pure silicon crystal, each silicon atom shares its four valence electrons in covalent bonds with four neighboring atoms, forming a regular lattice. At higher temperatures, some electrons gain enough energy to break free from their bonds, leaving behind a vacancy called a hole. Both the free electron and the hole can carry current. Doping creates two types of extrinsic semiconductors: N-type and P-type. N-type semiconductors are formed by adding pentavalent impurities (like phosphorus, arsenic, antimony) that have five valence electrons. The extra electron becomes a free carrier, making electrons the majority charge carriers. P-type semiconductors are formed by adding trivalent impurities (like boron, gallium, indium) that have three valence electrons. This creates a deficiency of one electron, resulting in a hole, making holes the majority charge carriers.",
+          "keywords": [
+            {"keyword": "Semiconductor", "definition": "A material with electrical conductivity between that of a conductor and an insulator."},
+            {"keyword": "Doping", "definition": "The intentional addition of impurities to a pure semiconductor to increase its conductivity."},
+            {"keyword": "Intrinsic Semiconductor", "definition": "A pure semiconductor material with no impurities added."},
+            {"keyword": "Extrinsic Semiconductor", "definition": "A semiconductor material that has been doped with impurities to alter its electrical properties."},
+            {"keyword": "N-type Semiconductor", "definition": "A doped semiconductor with an excess of free electrons (majority carriers), created by doping with pentavalent atoms."},
+            {"keyword": "P-type Semiconductor", "definition": "A doped semiconductor with an excess of holes (majority carriers), created by doping with trivalent atoms."},
+            {"keyword": "Hole", "definition": "A vacancy in the crystal lattice of a semiconductor where an electron is missing, behaving like a positive charge carrier."},
+            {"keyword": "Donor Atom", "definition": "An impurity atom (like phosphorus) that contributes an extra free electron to a semiconductor."},
+            {"keyword": "Acceptor Atom", "definition": "An impurity atom (like boron) that creates a hole in a semiconductor by accepting an electron."}
+          ]
+        },
+        {
+          "section_number": 5.2,
+          "section_title": "Diodes and their Functions",
+          "summary": "This section discusses the P-N junction diode, formed by joining P-type and N-type semiconductors. The resulting depletion region and barrier potential are described. The diode's behavior under two biasing conditions is explained: forward bias (diode conducts current easily) and reverse bias (diode blocks current). The I-V characteristics of a diode are also presented, showing the cut-in voltage and the reverse breakdown region. The diode is described as a two-terminal electronic component that conducts current primarily in one direction.",
+          "detailed_notes": "A P-N junction diode is formed by joining a P-type semiconductor and an N-type semiconductor. At the junction, electrons from the N-side diffuse to the P-side and recombine with holes, creating a depletion region devoid of mobile charge carriers. This region has a built-in potential barrier (approximately 0.7V for silicon, 0.3V for germanium) that prevents further diffusion. Applying an external DC voltage to a diode is called biasing. Forward bias occurs when the positive terminal of the battery is connected to the P-side and the negative terminal to the N-side. This reduces the depletion region and allows a large current to flow. Reverse bias occurs when the negative terminal is connected to the P-side and the positive to the N-side. This widens the depletion region and blocks the flow of current (except for a very small leakage current). The current-voltage (I-V) characteristic curve of a diode shows that it conducts negligible current in reverse bias until the breakdown voltage is reached. In forward bias, very little current flows until the applied voltage exceeds the cut-in voltage, after which the current increases sharply.",
+          "keywords": [
+            {"keyword": "Diode", "definition": "A two-terminal electronic component that allows current to flow primarily in one direction (forward bias)."},
+            {"keyword": "P-N Junction", "definition": "The interface formed when P-type and N-type semiconductor materials are joined together."},
+            {"keyword": "Depletion Region", "definition": "A region in a P-N junction diode with no mobile charge carriers, acting as an insulator."},
+            {"keyword": "Barrier Potential", "definition": "The potential difference across the depletion region of a P-N junction, typically 0.7V for silicon."},
+            {"keyword": "Forward Bias", "definition": "The condition where the P-side of a diode is at a higher potential than the N-side, allowing current to flow."},
+            {"keyword": "Reverse Bias", "definition": "The condition where the N-side of a diode is at a higher potential than the P-side, blocking current flow."},
+            {"keyword": "Cut-in Voltage", "definition": "The minimum forward voltage required for a diode to conduct a significant amount of current."},
+            {"keyword": "Breakdown Voltage", "definition": "The reverse voltage at which a diode suddenly conducts a large amount of current."}
+          ]
+        },
+        {
+          "section_number": 5.3,
+          "section_title": "Rectification",
+          "summary": "This section covers the process of rectification, which is the conversion of alternating current (AC) to direct current (DC) using diodes. Two types of rectifiers are discussed: half-wave rectifier (uses one diode, only conducts during one half-cycle of the AC input) and full-wave rectifier (uses four diodes in a bridge configuration, conducts during both half-cycles, producing a pulsating DC output). The role of a capacitor in smoothing the ripples in the output voltage is also explained. Practical uses of diodes, including Light Emitting Diodes (LEDs) and photodiodes, are briefly described.",
+          "detailed_notes": "Rectification is the process of converting an alternating current (AC) signal into a unidirectional (DC) signal, a primary function of diodes. A half-wave rectifier uses a single diode. It allows current to flow only during the positive half-cycle of the AC input and blocks it during the negative half-cycle. The output is a pulsating DC that is zero for half of the cycle. A full-wave bridge rectifier uses four diodes arranged in a bridge configuration. It conducts current during both half-cycles of the AC input. During the positive half-cycle, two diodes conduct, and during the negative half-cycle, the other two conduct. This results in a pulsating DC that is never zero, doubling the frequency. The ripples in the output of a rectifier are smoothed using a capacitor. The capacitor stores charge during the peak of the voltage and releases it during the troughs, producing a more constant DC voltage. Diodes have other practical applications: LEDs (Light Emitting Diodes) emit light when forward-biased, and photodiodes generate current when exposed to light.",
+          "keywords": [
+            {"keyword": "Rectification", "definition": "The process of converting AC voltage to DC voltage using diodes."},
+            {"keyword": "Rectifier", "definition": "An electronic circuit that converts AC to DC."},
+            {"keyword": "Half-wave Rectifier", "definition": "A rectifier that uses one diode to allow current flow during only one half-cycle of the AC input."},
+            {"keyword": "Full-wave Rectifier", "definition": "A rectifier that uses four diodes to allow current flow during both half-cycles of the AC input."},
+            {"keyword": "Smoothing Capacitor", "definition": "A capacitor used in a rectifier circuit to reduce the ripple in the output voltage."},
+            {"keyword": "Light Emitting Diode (LED)", "definition": "A diode that emits light when a forward current passes through it."},
+            {"keyword": "Photodiode", "definition": "A diode that generates an electric current when exposed to light."}
+          ]
+        },
+        {
+          "section_number": 5.4,
+          "section_title": "Transistors and their application",
+          "summary": "This section explains the bipolar junction transistor (BJT), a three-terminal semiconductor device used for amplification and switching. It describes the construction of NPN and PNP transistors, which consist of three doped regions: the emitter (heavily doped), the base (lightly doped and thin), and the collector (moderately doped). The section details the biasing conditions for transistor operation (emitter-base junction forward biased, collector-base junction reverse biased) and explains the current flow mechanism. The three main transistor configurations (common-base, common-emitter, common-collector) are briefly described, with the common-emitter configuration highlighted for its voltage and current gain. The current gain (β = I_C/I_B) is defined. The output characteristics of a common-emitter transistor are discussed. Finally, the main applications of transistors (amplification and switching) are listed.",
+          "detailed_notes": "A bipolar junction transistor (BJT) is a three-layer semiconductor device consisting of either an NPN or PNP structure. The three layers are the emitter (E), base (B), and collector (C). The emitter is heavily doped to supply charge carriers, the base is very thin and lightly doped, and the collector is moderately doped and larger. For a transistor to operate, the emitter-base junction must be forward biased and the collector-base junction must be reverse biased. In an NPN transistor, electrons are the majority carriers. They flow from the emitter, through the base (where a small fraction recombine, forming the base current I_B), and are collected by the collector (forming the collector current I_C). The emitter current I_E = I_B + I_C. In a PNP transistor, holes are the majority carriers, and the biasing voltages are reversed. A transistor can be configured in three ways: common-base (CB), common-collector (CC), and common-emitter (CE). The CE configuration is the most widely used because it provides both current and voltage gain. The current gain (β) is the ratio of collector current to base current: β = I_C/I_B. The output characteristics of a CE transistor show that a small change in base current can cause a much larger change in collector current, demonstrating amplification. The main applications of transistors are amplification of electrical signals and as high-speed electronic switches.",
+          "keywords": [
+            {"keyword": "Transistor", "definition": "A three-terminal semiconductor device used to amplify or switch electronic signals."},
+            {"keyword": "Bipolar Junction Transistor (BJT)", "definition": "A type of transistor that uses both electron and hole charge carriers."},
+            {"keyword": "NPN Transistor", "definition": "A bipolar transistor with a P-type base between two N-type regions."},
+            {"keyword": "PNP Transistor", "definition": "A bipolar transistor with an N-type base between two P-type regions."},
+            {"keyword": "Emitter (E)", "definition": "The heavily doped region of a transistor that supplies charge carriers."},
+            {"keyword": "Base (B)", "definition": "The thin, lightly doped middle region of a transistor that controls the flow of charge carriers."},
+            {"keyword": "Collector (C)", "definition": "The moderately doped region of a transistor that collects the majority charge carriers."},
+            {"keyword": "Common-Emitter (CE) Configuration", "definition": "A transistor circuit configuration where the emitter is common to both the input and output circuits, providing both current and voltage gain."},
+            {"keyword": "Current Gain (β)", "definition": "The ratio of collector current to base current in a transistor (β = I_C/I_B)."},
+            {"keyword": "Amplification", "definition": "The process of increasing the strength of a weak signal, a key function of transistors."}
+          ]
+        },
+        {
+          "section_number": 5.5,
+          "section_title": "Integrated Circuits",
+          "summary": "This section introduces integrated circuits (ICs), also known as chips or microchips, which are complete electronic circuits fabricated on a single piece of semiconductor material. The importance of ICs in modern electronics is discussed, noting their small size, low power consumption, high speed, and reliability. The main components of an IC are listed (diodes, transistors, resistors, capacitors). The advantages (small size, low cost, reliability) and disadvantages (cannot handle large currents or voltages, cannot be repaired) of ICs are compared.",
+          "detailed_notes": "An integrated circuit (IC) is a miniaturized electronic circuit consisting of many interconnected components (transistors, diodes, resistors, capacitors) fabricated on a single, small piece of semiconductor material, typically silicon. ICs have revolutionized electronics by allowing complex circuits to be produced at low cost and in very small sizes. The invention of the IC is credited to Jack Kilby and Robert Noyce. The most significant advantages of ICs are their extremely small size, low power consumption, high operating speeds, and high reliability. Because the internal connections are permanent and the components are fabricated simultaneously, they are more reliable than circuits made with discrete components. They also reduce the cost of electronic equipment. However, ICs have limitations. They cannot handle large amounts of current or voltage due to their small size and the risk of overheating or insulation breakdown. Furthermore, if an IC fails, it cannot be repaired; the entire chip must be replaced.",
+          "keywords": [
+            {"keyword": "Integrated Circuit (IC)", "definition": "A complete electronic circuit fabricated on a small chip of semiconductor material."},
+            {"keyword": "Microchip", "definition": "Another term for an integrated circuit."}
+          ]
+        },
+        {
+          "section_number": 5.6,
+          "section_title": "Logic gates and logic circuits",
+          "summary": "This section covers the basics of digital electronics, focusing on logic gates as the building blocks of digital circuits. It distinguishes between analog (continuous) and digital (discrete) signals, introducing binary logic (0 and 1) and the concepts of positive and negative logic. The section describes the function, symbol, equivalent switch circuit, and truth table for the basic logic gates: OR, AND, NOT, NOR, and NAND gates. Boolean expressions for each gate are provided. The applications of these logic gates are mentioned, and sample exercises on logic circuits are included.",
+          "detailed_notes": "In digital electronics, signals are discrete, typically represented by two voltage levels: '0' (low) and '1' (high). This binary system is the foundation of digital logic. A logic gate is a digital circuit that performs a specific logical operation on one or more inputs to produce a single output. The operation is described by a truth table and a Boolean expression. The basic gates are AND, OR, and NOT. An AND gate outputs '1' only if all its inputs are '1' (Boolean: y = A·B). An OR gate outputs '1' if any of its inputs is '1' (y = A+B). A NOT gate (inverter) outputs the opposite of its single input (y = Ā). NOR is an OR gate followed by a NOT gate (y = A+B̄). NAND is an AND gate followed by a NOT gate (y = A·B̄). NOR and NAND gates are called 'universal' gates because any other logic function can be constructed using only NOR gates or only NAND gates. These logic gates are used to build more complex digital circuits, such as those found in computers and other digital devices.",
+          "keywords": [
+            {"keyword": "Analog Signal", "definition": "A continuous signal that can take any value within a range."},
+            {"keyword": "Digital Signal", "definition": "A discrete signal that can only take on a finite number of values, typically '0' and '1'."},
+            {"keyword": "Logic Gate", "definition": "A digital circuit that performs a logical operation on one or more binary inputs to produce a single binary output."},
+            {"keyword": "Truth Table", "definition": "A table that shows all possible input combinations and the corresponding output for a logic gate."},
+            {"keyword": "Boolean Expression", "definition": "A mathematical expression using Boolean algebra to represent the function of a logic gate."},
+            {"keyword": "AND Gate", "definition": "A logic gate that outputs a '1' only when all its inputs are '1'."},
+            {"keyword": "OR Gate", "definition": "A logic gate that outputs a '1' when any of its inputs is '1'."},
+            {"keyword": "NOT Gate (Inverter)", "definition": "A logic gate that outputs the inverse of its single input."},
+            {"keyword": "NAND Gate", "definition": "A logic gate that is an AND gate followed by a NOT gate; outputs '0' only when all inputs are '1'."},
+            {"keyword": "NOR Gate", "definition": "A logic gate that is an OR gate followed by a NOT gate; outputs '1' only when all inputs are '0'."},
+            {"keyword": "Positive Logic", "definition": "A logic system where a higher voltage represents logic '1' and a lower voltage represents logic '0'."},
+            {"keyword": "Negative Logic", "definition": "A logic system where a higher voltage represents logic '0' and a lower voltage represents logic '1'."}
+          ]
+        },
+        {
+          "section_number": 5.7,
+          "section_title": "Application of electronics",
+          "summary": "This section highlights the widespread application of electronics across various sectors. It provides examples in the aerospace industry (spacecraft, aircraft systems), medical field (MRI, X-ray, robotic check-ups), automobile industry (engine control units, entertainment systems), agriculture (sensors for monitoring crops), communication (information processing and transfer), residential (appliances), and military (drones, night vision devices). The section reinforces how electronics simplifies tasks and solves problems in numerous areas of modern life.",
+          "detailed_notes": "Electronics is an integral part of modern life and is used extensively in many fields. In the Aerospace industry, it is crucial for power management, navigation, and control systems in spacecraft and aircraft. In the Medical field, diagnostic and therapeutic tools like MRI, CT scanners, X-ray machines, and robotic check-ups rely heavily on electronics for their operation and precision. The Automobile industry uses electronics in engine control units, transmission systems, active safety features, and in-car entertainment. In Agriculture, electronic sensors are used to monitor crop quality, soil moisture, and nutrition levels for precision farming. Electronics is the foundation of modern Communication systems, handling the acquisition, processing, storage, and transfer of information. In Residential areas, electronics in appliances like air conditioners, cooking appliances, and personal computers make daily life easier. The Military uses advanced electronics in equipment such as unmanned aerial vehicles (UAVs), drones, night vision devices, and targeting systems.",
+          "keywords": [
+            {"keyword": "Aerospace Electronics", "definition": "Electronic systems used in aircraft and spacecraft for control, navigation, and communication."},
+            {"keyword": "Medical Electronics", "definition": "Electronic devices and systems used in medicine for diagnosis, treatment, and monitoring."},
+            {"keyword": "Automotive Electronics", "definition": "Electronic systems used in vehicles for engine control, safety, and passenger comfort."},
+            {"keyword": "Agricultural Electronics", "definition": "Electronic sensors and systems used to monitor and improve agricultural processes."},
+            {"keyword": "Military Electronics", "definition": "Electronic devices and systems used for defense and military operations."}
+          ]
+        }
+      ]
+    }
+  ]
+}

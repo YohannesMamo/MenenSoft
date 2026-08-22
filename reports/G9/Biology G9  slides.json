@@ -1,0 +1,1940 @@
+{
+  "subject": "Biology",
+  "grade": 9,
+  "presentation_slides": {
+    "unit_1": {
+      "unit_title": "Introduction to Biology",
+      "sections": [
+        {
+          "section_title": "1.1 Definition of Biology",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "What is Biology?",
+              "content": [
+                "Biology is the scientific study of life or living things.",
+                "Derived from Greek: 'bios' (life) + 'logos' (study).",
+                "Biology is a science of inquiry and observation."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Characteristics of Living Things",
+              "content": [
+                "Living things are composed of one or more cells.",
+                "They can grow, reproduce, and transmit genetic information.",
+                "They need energy to accomplish work.",
+                "They maintain homeostasis (relatively constant internal conditions).",
+                "They are capable of evolutionary adaptation to the environment."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "What is a Scientific Study?",
+              "content": [
+                "Biologists study living things using the scientific method.",
+                "The process involves asking questions, suggesting possible answers, and testing their validity.",
+                "Study can be direct (using sense organs) or indirect (using tools like microscopes)."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Biology's Relationship with Other Sciences",
+              "content": [
+                "Biology merges information and tools from all natural sciences.",
+                "Chemistry: Studies elements, chemical bonding, molecules, acids, bases in living organisms.",
+                "Physics: Explains energy conversion, like photosynthesis (radiant energy to organic molecules)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.2 Why do we study Biology?",
+          "slides": [
+            {
+              "slide_number": 5,
+              "title": "Applications of Biology in Daily Life",
+              "content": [
+                "Wine-making, brewing, baking, and cheese production depend on fermentation by yeasts and bacteria.",
+                "Antibiotics (e.g., penicillin) are produced by mould fungi or bacteria.",
+                "Production of industrial chemicals like citric acid uses bacteria or fungi.",
+                "Sewage disposal depends on bacteria in filter beds."
+              ]
+            },
+            {
+              "slide_number": 6,
+              "title": "Importance of Studying Biology",
+              "content": [
+                "Helps understand how living things work and interact with the environment.",
+                "Biology touches everyday life: disease treatment, ecosystem function, genetics, forensics.",
+                "Helps evaluate environmental issues like global warming.",
+                "Used in treating diseases like AIDS, tuberculosis, and cancer."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.3 The Scientific Method",
+          "slides": [
+            {
+              "slide_number": 7,
+              "title": "Steps of the Scientific Method",
+              "content": [
+                "1. Observation: Careful study of a problem.",
+                "2. Asking Questions: Formulating inquiries based on observations.",
+                "3. Forming a Hypothesis: Proposing a possible explanation that is testable.",
+                "4. Testing the Hypothesis: Conducting experiments.",
+                "5. Making Conclusions: Determining if data supports or rejects the hypothesis.",
+                "6. Communicating Findings: Sharing results via scientific journals."
+              ]
+            },
+            {
+              "slide_number": 8,
+              "title": "Hypothesis and Experimentation",
+              "content": [
+                "A hypothesis is a proposed scientific explanation for a set of questions.",
+                "It must be testable through experimentation.",
+                "Experiments must be repeatable to be scientifically valid.",
+                "If a hypothesis is not supported, a new hypothesis can be proposed."
+              ]
+            },
+            {
+              "slide_number": 9,
+              "title": "Activity: Effect of Temperature on Germination",
+              "content": [
+                "Objective: Determine the importance of temperature for seed germination.",
+                "Materials: Bean seeds, different temperature environments.",
+                "Groups: Room temperature, cold place (refrigerator), hot place (kitchen).",
+                "Measure: Time of germination and length of seedlings.",
+                "Create: Bar graph with time on X-axis and length on Y-axis.",
+                "Interpret and report results."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.4 Tools of a Biologist",
+          "slides": [
+            {
+              "slide_number": 10,
+              "title": "Laboratory Tools: Observation and Magnification",
+              "content": [
+                "Hand Lens: A convex lens providing enlarged images of objects.",
+                "Microscope: The most important tool for observing small objects, providing magnification and resolution."
+              ]
+            },
+            {
+              "slide_number": 11,
+              "title": "Laboratory Tools: Culturing and Sterilization",
+              "content": [
+                "Autoclave: Sterilizes equipment and media with high-pressure steam.",
+                "Incubator: Maintains optimal temperature for microorganism growth.",
+                "Petri Dishes: Used with gelling media like agar for culturing.",
+                "Culture Tubes: Used for growing microorganisms in solid or liquid media.",
+                "Flasks: Used for large-volume broth cultures."
+              ]
+            },
+            {
+              "slide_number": 12,
+              "title": "Laboratory Tools: Measuring and Handling",
+              "content": [
+                "Balance: Weighs specimens and ingredients.",
+                "Dropper: Controls addition of liquids.",
+                "Tongs: Handles hot objects.",
+                "Dissecting Kit: Contains tools for dissection (scalpel, forceps, scissors).",
+                "Dissecting Pan: Holds specimens during dissection.",
+                "Crucible: Withstands high temperatures for melting substances.",
+                "Beaker: Holds or heats liquids.",
+                "Hot Plate: Heats solutions.",
+                "pH Meter: Measures acidity/basicity.",
+                "Thermometer: Measures temperature.",
+                "Forceps: Holds or picks up small objects.",
+                "Spatula: Mixes, stirs, or scrapes substances.",
+                "Wash Bottles: Rinse laboratory materials."
+              ]
+            },
+            {
+              "slide_number": 13,
+              "title": "Field Tools",
+              "content": [
+                "Insect Net: Used for collecting insects; made of cloth or fine mesh.",
+                "Fishing Net: Used for capturing fish; often in a grid-like structure."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.5 The Light Microscope",
+          "slides": [
+            {
+              "slide_number": 14,
+              "title": "Introduction to the Light Microscope",
+              "content": [
+                "A light microscope uses a beam of light to view specimens.",
+                "Compound light microscope has two or more glass lenses.",
+                "Total magnification = Magnification of eyepiece × Magnification of objective lens.",
+                "Example: 10x eyepiece × 40x objective = 400x total magnification."
+              ]
+            },
+            {
+              "slide_number": 15,
+              "title": "Parts and Functions: Structural Parts",
+              "content": [
+                "Arm: Supports the microscope; used for carrying.",
+                "Base: The bottom support of the microscope.",
+                "Stage: Platform where the specimen is placed for viewing.",
+                "Stage Clips: Hold the slide in place on the stage.",
+                "Aperture: Hole on the stage for light to pass through.",
+                "Body Tube: Connects the eyepiece to the objective lenses."
+              ]
+            },
+            {
+              "slide_number": 16,
+              "title": "Parts and Functions: Optical Parts",
+              "content": [
+                "Eyepiece (Ocular): Top part used to look through (typically 10x magnification).",
+                "Objective Lenses: Main magnifying lenses (4x, 10x, 40x, 100x).",
+                "Nose Piece: Rotating mechanism holding objective lenses.",
+                "Adjustment Knobs: Coarse focus (brings specimen into general focus) and fine focus (sharpens image)."
+              ]
+            },
+            {
+              "slide_number": 17,
+              "title": "Parts and Functions: Light System",
+              "content": [
+                "Microscopic Illuminator: The light source at the base of the microscope.",
+                "Condenser: Lenses below the stage that focus light onto the specimen.",
+                "Diaphragm (Iris): Controls the amount of light reaching the specimen."
+              ]
+            },
+            {
+              "slide_number": 18,
+              "title": "Handling and Using a Light Microscope",
+              "content": [
+                "Carry with one hand on the arm and the other supporting the base.",
+                "Always start with the lowest power objective (4x).",
+                "Focus with coarse adjustment first, then use fine adjustment.",
+                "Never touch lenses with fingers; clean with lens paper and alcohol.",
+                "Use immersion oil only with the 100x objective.",
+                "Always lower the stage and remove the slide when finished.",
+                "Before storing, place the 4x objective over the stage and lower the stage completely."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.6 General Laboratory Safety Rules",
+          "slides": [
+            {
+              "slide_number": 19,
+              "title": "Importance of Laboratory Safety",
+              "content": [
+                "Safety is the condition of being protected from harm or danger.",
+                "It involves recognizing and controlling hazards.",
+                "Working carefully, addressing problems early, and maintaining constant safety awareness."
+              ]
+            },
+            {
+              "slide_number": 20,
+              "title": "General Safety Rules (Part 1)",
+              "content": [
+                "Follow the instructions: Read and listen to all procedures carefully.",
+                "Know safety equipment: Know the location of fire extinguisher, first-aid kit, and eyewash.",
+                "Dress for the lab: Wear safety goggles, lab coat, gloves, long pants, and closed-toe shoes.",
+                "Never eat or drink in the laboratory."
+              ]
+            },
+            {
+              "slide_number": 21,
+              "title": "General Safety Rules (Part 2)",
+              "content": [
+                "Never taste or sniff chemicals: Label containers and read before use.",
+                "Act responsibly: Do not randomly mix chemicals.",
+                "Clean the experiment area: Begin and end each session with a clean workspace.",
+                "Handle chemicals properly: Wear a respirator mask for toxic chemicals."
+              ]
+            },
+            {
+              "slide_number": 22,
+              "title": "General Safety Rules (Part 3)",
+              "content": [
+                "Know what to do with accidents: Flood burns with cold water immediately.",
+                "Always prioritize safety and chemical hygiene.",
+                "Never leave containers open; all containers must be labeled.",
+                "Never use unlabelled chemicals."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_title": "Characteristics and Classification of Organisms",
+      "sections": [
+        {
+          "section_title": "2.1 Characteristics of living things",
+          "slides": [
+            {
+              "slide_number": 23,
+              "title": "What Makes Something Living?",
+              "content": [
+                "Living things exhibit a variety of shapes and forms.",
+                "They share a common set of characteristics.",
+                "These characteristics distinguish them from non-living matter."
+              ]
+            },
+            {
+              "slide_number": 24,
+              "title": "Key Characteristics of Life",
+              "content": [
+                "Made of cells (unicellular or multicellular).",
+                "Require energy (autotrophs or heterotrophs).",
+                "Respond to stimuli.",
+                "Grow (increase in size and mass).",
+                "Reproduce (sexual or asexual)."
+              ]
+            },
+            {
+              "slide_number": 25,
+              "title": "Additional Characteristics of Life",
+              "content": [
+                "Excrete: Remove metabolic wastes like carbon dioxide.",
+                "Display ordered complexity: Atoms to molecules to organelles to cells to tissues, etc.",
+                "Maintain homeostasis: Regulate internal conditions (e.g., body temperature).",
+                "Possess adaptations that evolve over time."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.2 Taxonomy of living things",
+          "slides": [
+            {
+              "slide_number": 26,
+              "title": "What is Taxonomy?",
+              "content": [
+                "Taxonomy is the science of naming, identifying, and classifying organisms.",
+                "Classification groups organisms based on similarities.",
+                "Assumption: Greater physical similarity = closer biological relationship."
+              ]
+            },
+            {
+              "slide_number": 27,
+              "title": "History of Classification",
+              "content": [
+                "Aristotle (384-322 BC) developed the first widely accepted classification system.",
+                "He used simple morphological characters (trees, shrubs, herbs).",
+                "He also divided animals into those with red blood and those without."
+              ]
+            },
+            {
+              "slide_number": 28,
+              "title": "Linnaean Taxonomic Hierarchy",
+              "content": [
+                "Developed by Carolus Linnaeus (1707-1778), the 'father of taxonomy'.",
+                "He introduced a ranked hierarchy of classification.",
+                "The ranks are: Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species.",
+                "Each level is called a taxon (plural: taxa)."
+              ]
+            },
+            {
+              "slide_number": 29,
+              "title": "The Three Domains of Life",
+              "content": [
+                "Bacteria: Prokaryotic cells, common bacteria.",
+                "Archaea: Prokaryotic cells, often inhabit extreme environments.",
+                "Eukarya: Eukaryotic cells (protists, fungi, plants, animals)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.3 Relevance of classification",
+          "slides": [
+            {
+              "slide_number": 30,
+              "title": "Why is Classification Important?",
+              "content": [
+                "Identifies harmful and beneficial organisms.",
+                "Reduces time and energy to study organisms.",
+                "Helps understand relationships between organisms (e.g., birds and dinosaurs).",
+                "Useful in agriculture, forestry, and medicine.",
+                "Helps discover new sources of lumber, foods, medicines, and energy."
+              ]
+            },
+            {
+              "slide_number": 31,
+              "title": "Example of Classification Application",
+              "content": [
+                "A taxonomist may know a certain tree species has disinfectant properties.",
+                "This knowledge can lead to the discovery of similar useful substances in related plant species.",
+                "Expands the potential sources for important chemicals."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.4 Linnaean system of nomenclature",
+          "slides": [
+            {
+              "slide_number": 32,
+              "title": "Introduction to Binomial Nomenclature",
+              "content": [
+                "Developed by Carl Linnaeus.",
+                "An internationally agreed system for naming organisms.",
+                "Each organism has a unique, two-part scientific name.",
+                "Avoids confusion caused by local and common names."
+              ]
+            },
+            {
+              "slide_number": 33,
+              "title": "Rules for Binomial Nomenclature",
+              "content": [
+                "The first name is the Genus (capitalized).",
+                "The second name is the specific epithet (lowercase).",
+                "Example: Homo sapiens for humans.",
+                "Scientific names are underlined when handwritten or italicized when printed.",
+                "Example: Zea mays (maize)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.5 Common Ethiopian animals and plants",
+          "slides": [
+            {
+              "slide_number": 34,
+              "title": "Ethiopia's Biodiversity",
+              "content": [
+                "High biodiversity due to geographical location, topographical diversity, and diverse climatic features.",
+                "Hotspot for wild plant and animal species with high endemism.",
+                "Primary center of diversity for crops like noog (Guizotia abyssinica) and tef (Eragrostis tef).",
+                "Also diverse in barley, sorghum, durum wheat, finger millet, and various legumes."
+              ]
+            },
+            {
+              "slide_number": 35,
+              "title": "Common Ethiopian Animals",
+              "content": [
+                "Elephant: Loxodonta africana.",
+                "Ethiopian Wolf: Canis simensis.",
+                "Gelada Baboon: Theropithecus gelada.",
+                "Lion: Panthera leo.",
+                "Walia Ibex: Capra walie.",
+                "Ostrich: Struthio camelus.",
+                "Watched Ibis: Bostrychia carunculata."
+              ]
+            },
+            {
+              "slide_number": 36,
+              "title": "Common Ethiopian Plants",
+              "content": [
+                "Enset (False Banana): Ensete ventricosum.",
+                "Maize: Zea mays.",
+                "Noug: Guizotia abyssinica.",
+                "Tef: Eragrostis tef.",
+                "Wheat: Triticum aestivum."
+              ]
+            },
+            {
+              "slide_number": 37,
+              "title": "Dichotomous Keys",
+              "content": [
+                "Used to identify unfamiliar organisms.",
+                "Made up of pairs of contrasting features.",
+                "'Dichotomous' means two branches.",
+                "Start with general characteristics and progress to more specific ones.",
+                "By making appropriate choices, the organism can be correctly identified."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.6 The five-kingdom system of classification",
+          "slides": [
+            {
+              "slide_number": 38,
+              "title": "Why the Five-Kingdom System?",
+              "content": [
+                "The two-kingdom (plant and animal) system was inadequate.",
+                "Many organisms did not fit into either category.",
+                "Whittaker (1969) proposed a five-kingdom system.",
+                "Criteria: cell structure, body organization, mode of nutrition, reproduction, and evolutionary relationships."
+              ]
+            },
+            {
+              "slide_number": 39,
+              "title": "The Five Kingdoms",
+              "content": [
+                "1. Kingdom Monera: Prokaryotic, unicellular.",
+                "2. Kingdom Protista: Eukaryotic, mostly unicellular, diverse.",
+                "3. Kingdom Fungi: Eukaryotic, heterotrophic, chitin cell wall.",
+                "4. Kingdom Plantae: Eukaryotic, autotrophic, cellulose cell wall.",
+                "5. Kingdom Animalia: Eukaryotic, heterotrophic, no cell wall."
+              ]
+            },
+            {
+              "slide_number": 40,
+              "title": "Why Viruses Are Not Included",
+              "content": [
+                "Viruses are not considered living organisms.",
+                "They lack key characteristics of life: growth, development, respiration.",
+                "They are made of nucleic acids (DNA or RNA) in a protein coat.",
+                "They can only replicate inside a host cell."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.1. Kingdom Monera",
+          "slides": [
+            {
+              "slide_number": 41,
+              "title": "Characteristics of Monera",
+              "content": [
+                "Simple prokaryotic, unicellular organisms.",
+                "Lack a well-defined nucleus or membrane-bound organelles.",
+                "Most have a rigid cell wall.",
+                "Various modes of nutrition: autotrophic (photosynthetic or chemosynthetic) or heterotrophic.",
+                "Known as decomposers and mineralizers in the biosphere."
+              ]
+            },
+            {
+              "slide_number": 42,
+              "title": "Eubacteria vs. Archaebacteria",
+              "content": [
+                "Eubacteria (True Bacteria): Strong cell walls, found in most habitats, can be harmful or helpful.",
+                "Archaebacteria (Archaea): Different cell walls, live in extreme environments (swamps, hot springs, salt ponds), often chemosynthetic."
+              ]
+            },
+            {
+              "slide_number": 43,
+              "title": "Importance of Bacteria",
+              "content": [
+                "Beneficial: Help with digestion, produce cheese and yogurt, fix nitrogen for plants.",
+                "Harmful: Cause diseases like tuberculosis (Mycobacterium tuberculosis) and chancroid.",
+                "Some bacteria release toxins that attack the host."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.2. Kingdom Protista",
+          "slides": [
+            {
+              "slide_number": 44,
+              "title": "Characteristics of Protists",
+              "content": [
+                "The most diverse kingdom.",
+                "All are eukaryotes (have a nucleus and membrane-bound organelles).",
+                "Can be unicellular or multicellular.",
+                "Some are microscopic, others are large."
+              ]
+            },
+            {
+              "slide_number": 45,
+              "title": "Types of Protists",
+              "content": [
+                "Animal-like (Protozoans): Heterotrophs.",
+                "Plant-like (Algae): Photosynthetic autotrophs, basis of aquatic food chains, produce much of Earth's oxygen.",
+                "Fungus-like: Decomposers."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.3. Kingdom Fungi",
+          "slides": [
+            {
+              "slide_number": 46,
+              "title": "Characteristics of Fungi",
+              "content": [
+                "Eukaryotic organisms.",
+                "Can be unicellular (yeasts) or multicellular (moulds, mushrooms).",
+                "Made of long, slender thread-like structures called hyphae.",
+                "Cell wall made of chitin.",
+                "Heterotrophic (absorb nutrients after extracellular digestion)."
+              ]
+            },
+            {
+              "slide_number": 47,
+              "title": "Types of Fungi",
+              "content": [
+                "Saprophytes (Decomposers): Absorb nutrients from dead organic matter.",
+                "Parasites: Absorb nutrients from living hosts, causing disease (e.g., athlete's foot).",
+                "Mutualists: Benefit the host (e.g., lichens, mycorrhizae)."
+              ]
+            },
+            {
+              "slide_number": 48,
+              "title": "Fungal Reproduction",
+              "content": [
+                "Asexual: Fragmentation, fission, budding (yeast), or spore formation.",
+                "Sexual: Through the fusion of hyphae.",
+                "Spores are produced in distinct structures called fruiting bodies."
+              ]
+            },
+            {
+              "slide_number": 49,
+              "title": "Importance of Fungi",
+              "content": [
+                "Decompose organic matter, recycling nutrients.",
+                "Used in baking and brewing (yeast).",
+                "Some cause diseases, but many are beneficial."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.4. Kingdom Plantae",
+          "slides": [
+            {
+              "slide_number": 50,
+              "title": "Characteristics of Plants",
+              "content": [
+                "Eukaryotic, multicellular autotrophs.",
+                "Make their own food through photosynthesis.",
+                "Contain chloroplasts with chlorophyll.",
+                "Have rigid cell walls made of cellulose.",
+                "Do not move from place to place."
+              ]
+            },
+            {
+              "slide_number": 51,
+              "title": "Major Plant Groups",
+              "content": [
+                "Bryophytes: No vascular tissue (e.g., mosses, liverworts, hornworts).",
+                "Gymnosperms: Vascular, produce 'naked' seeds (e.g., conifers).",
+                "Angiosperms: Vascular, flowering plants, seeds in fruits."
+              ]
+            },
+            {
+              "slide_number": 52,
+              "title": "Angiosperms: Monocots and Dicots",
+              "content": [
+                "Monocots: One seed leaf, parallel leaf veins (e.g., grasses, lilies).",
+                "Dicots: Two seed leaves, branching leaf veins (e.g., beans, roses)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.5 Kingdom Animalia",
+          "slides": [
+            {
+              "slide_number": 53,
+              "title": "Characteristics of Animals",
+              "content": [
+                "Multicellular, heterotrophic, eukaryotic organisms.",
+                "Ingest food and digest it internally.",
+                "Lack cell walls (held together by collagen).",
+                "Have specialized muscle and nerve cells.",
+                "Most reproduce sexually."
+              ]
+            },
+            {
+              "slide_number": 54,
+              "title": "Major Animal Groups",
+              "content": [
+                "Invertebrates (No Backbone): Sponges, flatworms, roundworms, annelids, molluscs, arthropods.",
+                "Vertebrates (Backbone): Fish, amphibians, reptiles, birds, mammals."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.7 Renowned Taxonomists in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 55,
+              "title": "Prominent Ethiopian Taxonomists",
+              "content": [
+                "Dr. Mesfin Taddese - Botanist, contributed to Flora of Ethiopia.",
+                "Professor Sebsebe Demissew - Botanist, Director of Flora of Ethiopia and Gullele Botanical Garden.",
+                "Professor Ensermu Kelbessa - Botanist.",
+                "Professor Silesh Nemomissa - Botanist.",
+                "Professor Abebe Getahun - Zoologist."
+              ]
+            },
+            {
+              "slide_number": 56,
+              "title": "Contributions of Professor Sebsebe Demissew",
+              "content": [
+                "Published books and articles on the vegetation and plants of Ethiopia and Africa.",
+                "Member of national and international professional organizations.",
+                "Served as Chair of the Biological Society of Ethiopia.",
+                "Secretary-General of the Association for the Taxonomic Study of Flora of Tropical Africa.",
+                "Director of Flora of Ethiopia and Gullele Botanical Garden."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_title": "Cells",
+      "sections": [
+        {
+          "section_title": "3.1. What is a cell?",
+          "slides": [
+            {
+              "slide_number": 57,
+              "title": "Definition of a Cell",
+              "content": [
+                "The cell is the smallest and basic unit of living things.",
+                "All living things are composed of one or more cells.",
+                "Unicellular organisms: Composed of a single cell (e.g., Paramecium).",
+                "Multicellular organisms: Composed of many specialized cells (e.g., plants, animals, humans)."
+              ]
+            },
+            {
+              "slide_number": 58,
+              "title": "Cells and Specialization",
+              "content": [
+                "In multicellular organisms, cells are specialized for specific functions.",
+                "Muscle cells: Responsible for movement.",
+                "Nerve cells: Gather information and transmit signals.",
+                "Brain cells: Interpret messages and coordinate actions.",
+                "All activities of the body are results of cooperative work among cells."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.2. Cell theory",
+          "slides": [
+            {
+              "slide_number": 59,
+              "title": "History of Cell Discovery",
+              "content": [
+                "Robert Hooke (1665): First to observe cells and use the word 'cell' (viewed cork).",
+                "Anton van Leeuwenhoek (1674): First to observe living cells (protozoa and bacteria) using his microscopes."
+              ]
+            },
+            {
+              "slide_number": 60,
+              "title": "The Cell Theory",
+              "content": [
+                "The cell theory is the unifying foundation of cell biology.",
+                "The three tenets of the cell theory:",
+                "1. All living organisms are composed of one or more cells.",
+                "2. The cell is the smallest unit of life.",
+                "3. Cells arise only by the division of a pre-existing cell."
+              ]
+            },
+            {
+              "slide_number": 61,
+              "title": "Contributors to Cell Theory",
+              "content": [
+                "Matthias Schleiden (1838): Stated that plants are made of cells.",
+                "Theodor Schwann (1839): Stated that animals are made of cells.",
+                "Rudolf Virchow (1855): Stated that cells arise from pre-existing cells."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.3. Cell structure and function",
+          "slides": [
+            {
+              "slide_number": 62,
+              "title": "Common Cell Structures",
+              "content": [
+                "All cells share three common structural features:",
+                "1. Cell Membrane: Selectively permeable outer boundary.",
+                "2. Cytoplasm: Fluid-filled region containing organelles.",
+                "3. Nucleus: Control center containing DNA (except in prokaryotes)."
+              ]
+            },
+            {
+              "slide_number": 63,
+              "title": "Cell Membrane and Nucleus",
+              "content": [
+                "Cell Membrane: A thin, selectively permeable barrier that controls the movement of substances in and out of the cell.",
+                "Nucleus: The largest organelle, contains DNA, and controls all cell activities and cell division."
+              ]
+            },
+            {
+              "slide_number": 64,
+              "title": "Cytoplasm and Ribosomes",
+              "content": [
+                "Cytoplasm: A thick fluid containing organelles; site of many chemical reactions (e.g., protein synthesis).",
+                "Ribosomes: Small structures found in large numbers; function is to synthesize proteins."
+              ]
+            },
+            {
+              "slide_number": 65,
+              "title": "Endoplasmic Reticulum (ER)",
+              "content": [
+                "A complex system of interconnected double membranes.",
+                "Rough ER: Studded with ribosomes; synthesizes and stores proteins.",
+                "Smooth ER: Lacks ribosomes; important for lipid synthesis."
+              ]
+            },
+            {
+              "slide_number": 66,
+              "title": "Golgi Apparatus and Vesicles",
+              "content": [
+                "Golgi Apparatus: A smooth, concave membranous structure that modifies, packages, and distributes proteins and lipids.",
+                "Vesicles: Small sacs that store and transport materials within or outside the cell."
+              ]
+            },
+            {
+              "slide_number": 67,
+              "title": "Mitochondria and Lysosomes",
+              "content": [
+                "Mitochondria: The 'powerhouse' of the cell; site of respiration and energy (ATP) production.",
+                "Lysosomes: Membrane-bound sacs of digestive enzymes that break down bacteria, unwanted substances, and damaged organelles."
+              ]
+            },
+            {
+              "slide_number": 68,
+              "title": "Vacuoles and Chloroplasts",
+              "content": [
+                "Vacuoles: Storage sacs. Plant cells have a large central vacuole; animal cells have small vacuoles.",
+                "Chloroplasts: Site of photosynthesis in plant cells; contain the green pigment chlorophyll."
+              ]
+            },
+            {
+              "slide_number": 69,
+              "title": "Centrioles, Cilia, and Flagella",
+              "content": [
+                "Centrioles: Involved in cell division (found in animal cells).",
+                "Cilia: Short, hair-like structures for locomotion or creating fluid currents.",
+                "Flagella: Long, thread-like structures for movement (e.g., sperm tail)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.4 Types of cells",
+          "slides": [
+            {
+              "slide_number": 70,
+              "title": "Prokaryotic vs. Eukaryotic Cells",
+              "content": [
+                "Prokaryotic Cells: No nucleus; no membrane-bound organelles; small and simple; always unicellular; have a cell wall.",
+                "Eukaryotic Cells: Have a nucleus and membrane-bound organelles; larger and more complex; usually multicellular."
+              ]
+            },
+            {
+              "slide_number": 71,
+              "title": "Key Differences",
+              "content": [
+                "Organelles: Eukaryotes have them; Prokaryotes do not.",
+                "Ribosomes: Eukaryotes have larger ribosomes.",
+                "Chromosomes: Eukaryotic DNA is linear and associated with proteins; Prokaryotic DNA is circular and not associated with proteins.",
+                "Cell Wall: Present in prokaryotes and plant cells; absent in animal cells.",
+                "Cilia/Flagella: Present in some eukaryotes and prokaryotes."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.5. Animal and plant cells",
+          "slides": [
+            {
+              "slide_number": 72,
+              "title": "Similarities and Differences",
+              "content": [
+                "Similarities: Both have a cell membrane, nucleus, cytoplasm, mitochondria, and Golgi apparatus.",
+                "Differences: Plant cells have a cell wall, chloroplasts, and a large central vacuole.",
+                "Animal cells have centrioles and lysosomes (which are less common in plant cells)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.6 Observing cells under a microscope",
+          "slides": [
+            {
+              "slide_number": 73,
+              "title": "Preparing a Slide: Plant Cell",
+              "content": [
+                "1. Peel a thin layer of epidermal tissue from an onion.",
+                "2. Place it on a glass slide.",
+                "3. Add iodine solution (stain) to make structures visible.",
+                "4. Gently lower a coverslip at a 45° angle to avoid air bubbles.",
+                "5. View under a microscope, starting with the lowest power."
+              ]
+            },
+            {
+              "slide_number": 74,
+              "title": "Preparing a Slide: Animal Cell",
+              "content": [
+                "1. Rinse mouth to remove food particles.",
+                "2. Rub a cotton swab on the inside of the cheek.",
+                "3. Transfer the sample to a clean slide.",
+                "4. Add methylene blue dye (stain).",
+                "5. Gently lower a coverslip to avoid air bubbles.",
+                "6. View under the microscope."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.7 The cell and its environment",
+          "slides": [
+            {
+              "slide_number": 75,
+              "title": "Cell Membrane Function",
+              "content": [
+                "The cell membrane is selectively permeable.",
+                "It controls what enters and leaves the cell.",
+                "Substances can pass through via:",
+                "- Passive Transport (no energy needed): Diffusion and Osmosis.",
+                "- Active Transport (energy needed)."
+              ]
+            },
+            {
+              "slide_number": 76,
+              "title": "Diffusion",
+              "content": [
+                "The net movement of molecules from a region of high concentration to a region of low concentration.",
+                "It is a passive process.",
+                "Examples: Oxygen diffusing into cells; the smell of perfume spreading.",
+                "Factors affecting diffusion: Concentration gradient, Temperature, Mass of molecule, Distance traveled, Surface area."
+              ]
+            },
+            {
+              "slide_number": 77,
+              "title": "Osmosis",
+              "content": [
+                "The diffusion of water molecules across a semi-permeable membrane.",
+                "Water moves from a region of high water concentration (dilute solution) to low water concentration (concentrated solution).",
+                "It is a passive process."
+              ]
+            },
+            {
+              "slide_number": 78,
+              "title": "Osmosis and Solutions",
+              "content": [
+                "Hypotonic: Lower solute concentration, higher water concentration (water moves into the cell).",
+                "Isotonic: Equal solute and water concentration (no net water movement).",
+                "Hypertonic: Higher solute concentration, lower water concentration (water moves out of the cell)."
+              ]
+            },
+            {
+              "slide_number": 79,
+              "title": "Osmosis in Plant Cells",
+              "content": [
+                "Hypotonic: Water enters, cell becomes turgid (rigid).",
+                "Isotonic: No net change.",
+                "Hypertonic: Water leaves, cell becomes flaccid and plasmolysed (shrunken).",
+                "Turgor pressure is important for keeping plants upright."
+              ]
+            },
+            {
+              "slide_number": 80,
+              "title": "Osmosis in Animal Cells",
+              "content": [
+                "Animal cells lack a cell wall.",
+                "Hypotonic: Water enters, cell swells and may burst (hemolysis).",
+                "Hypertonic: Water leaves, cell shrinks.",
+                "Blood and tissue fluid are maintained at a concentration isotonic to cells."
+              ]
+            },
+            {
+              "slide_number": 81,
+              "title": "Active Transport",
+              "content": [
+                "The movement of molecules from an area of lower concentration to an area of higher concentration (against the concentration gradient).",
+                "Requires energy (from respiration).",
+                "Examples: Ion uptake by root hairs; glucose uptake by epithelial cells of villi.",
+                "Allows cells to maintain internal concentrations different from the environment."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.8. Levels of Biological Organization",
+          "slides": [
+            {
+              "slide_number": 82,
+              "title": "The Hierarchy of Life",
+              "content": [
+                "Life is organized in a hierarchy from simple to complex.",
+                "The main levels are:",
+                "Atoms → Molecules → Organelles → Cells → Tissues → Organs → Organ Systems → Organisms → Populations → Communities → Ecosystems → Biosphere."
+              ]
+            },
+            {
+              "slide_number": 83,
+              "title": "Cellular and Organism Level",
+              "content": [
+                "Cellular Level: Atoms form molecules, which make organelles within cells.",
+                "Organism Level: Similar cells form tissues; tissues form organs; organs form organ systems; organ systems work together to form an organism."
+              ]
+            },
+            {
+              "slide_number": 84,
+              "title": "Examples of Tissues, Organs, and Systems",
+              "content": [
+                "Tissues: Groups of similar cells with a common function (e.g., muscle tissue, nerve tissue).",
+                "Organs: Structures made of different tissues that work together (e.g., heart, stomach, leaf).",
+                "Systems: Groups of organs that perform a major body function (e.g., digestive system, nervous system)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_title": "Reproduction",
+      "sections": [
+        {
+          "section_title": "4.1 Introduction to reproduction",
+          "slides": [
+            {
+              "slide_number": 85,
+              "title": "Why Reproduction?",
+              "content": [
+                "Reproduction is a unique characteristic of life.",
+                "It allows for the continuity of a species from generation to generation.",
+                "Two main modes: Asexual and Sexual reproduction."
+              ]
+            },
+            {
+              "slide_number": 86,
+              "title": "Asexual vs. Sexual Reproduction",
+              "content": [
+                "Asexual: One parent, no gametes, genetically identical offspring.",
+                "Sexual: Two parents, gametes (sperm and egg), genetically different offspring."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.2 Asexual reproduction",
+          "slides": [
+            {
+              "slide_number": 87,
+              "title": "What is Asexual Reproduction?",
+              "content": [
+                "Production of individuals without gametes.",
+                "Involves a single parent.",
+                "Results in offspring that are genetically identical to the parent.",
+                "Common in bacteria, protists, fungi, plants, and some invertebrates.",
+                "Absent in vertebrates."
+              ]
+            },
+            {
+              "slide_number": 88,
+              "title": "Advantages and Disadvantages",
+              "content": [
+                "Advantages: No mate needed; all good traits passed on; rapid reproduction in favorable environments.",
+                "Disadvantages: Little genetic variation; adaption to change is unlikely; if parent is susceptible to disease, all offspring are; competition for resources."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.3 Types of asexual reproduction",
+          "slides": [
+            {
+              "slide_number": 89,
+              "title": "Fission",
+              "content": [
+                "The organism divides into two (binary fission) or more (multiple fission) equal parts.",
+                "Common in bacteria, algae, and protozoa.",
+                "Binary fission: Parent divides into two equal parts.",
+                "Multiple fission: Nucleus divides repeatedly, producing many daughter cells."
+              ]
+            },
+            {
+              "slide_number": 90,
+              "title": "Fragmentation",
+              "content": [
+                "The parent organism breaks into parts, each of which develops into a whole organism.",
+                "Common in fungi, algae, plants, and some animals (e.g., worms).",
+                "Example: Spirogyra (green algae) fragments into many filaments."
+              ]
+            },
+            {
+              "slide_number": 91,
+              "title": "Budding",
+              "content": [
+                "A new organism develops as an outgrowth (bud) on the parent.",
+                "The two daughter cells are unequal in size.",
+                "Common in yeast (fungi) and Hydra (invertebrate).",
+                "The nucleus divides, and one daughter nucleus migrates into the bud."
+              ]
+            },
+            {
+              "slide_number": 92,
+              "title": "Vegetative Propagation (Natural)",
+              "content": [
+                "A method of asexual reproduction in plants.",
+                "Structures with meristems (roots, stems, buds, leaves) give rise to new plants.",
+                "Stolons (Runners): Horizontal stems that grow along the soil surface (e.g., strawberry).",
+                "Rhizomes: Horizontal stems that grow underground (e.g., couch grass).",
+                "Corms: Round, fleshy underground stems (e.g., gladiolus).",
+                "Tubers: Swollen, modified stems that store starch (e.g., potato).",
+                "Bulbs: Modified stems with fleshy leaves (e.g., onion)."
+              ]
+            },
+            {
+              "slide_number": 93,
+              "title": "Vegetative Propagation (Artificial)",
+              "content": [
+                "Methods used by humans to create new plants.",
+                "Grafting: Joining a stem (scion) from one plant to the root (stock) of another.",
+                "Cutting: Placing a portion of a stem in soil or water to root.",
+                "Layering: Bending a stem to the ground and covering it with soil."
+              ]
+            },
+            {
+              "slide_number": 94,
+              "title": "Parthenogenesis",
+              "content": [
+                "A form of asexual reproduction where an unfertilized egg develops into an adult organism.",
+                "Also known as 'virgin birth'.",
+                "Example: In honeybees, unfertilized eggs develop into male drones."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.4 Sexual reproduction in Humans",
+          "slides": [
+            {
+              "slide_number": 95,
+              "title": "Introduction to Sexual Reproduction",
+              "content": [
+                "Involves two parent organisms.",
+                "Gametes (sex cells) are produced through meiosis.",
+                "The male gamete is sperm (small, motile).",
+                "The female gamete is the egg (larger, non-motile).",
+                "Fertilization is the union of sperm and egg.",
+                "This results in a single-celled zygote."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.5 Primary and secondary sexual characteristics",
+          "slides": [
+            {
+              "slide_number": 96,
+              "title": "Primary Sexual Characteristics",
+              "content": [
+                "These are the reproductive organs present at birth.",
+                "Males: Penis, scrotum, and testicles.",
+                "Females: Vagina, uterus, and ovaries."
+              ]
+            },
+            {
+              "slide_number": 97,
+              "title": "Secondary Sexual Characteristics in Males",
+              "content": [
+                "Develop during puberty due to the hormone testosterone.",
+                "Deepening of the voice.",
+                "Growth of facial, chest, and pubic hair.",
+                "Increased muscle mass and broadening of shoulders.",
+                "Increased growth of long bones in arms and legs."
+              ]
+            },
+            {
+              "slide_number": 98,
+              "title": "Secondary Sexual Characteristics in Females",
+              "content": [
+                "Develop during puberty due to the hormone estrogen.",
+                "Breast development.",
+                "Widening of hips.",
+                "Deposition of fat in breasts, buttocks, and thighs.",
+                "Growth of underarm and pubic hair.",
+                "Beginning of the menstrual cycle."
+              ]
+            },
+            {
+              "slide_number": 99,
+              "title": "Psychological and Social Changes During Puberty",
+              "content": [
+                "Young people undergo significant psychological and social changes.",
+                "There is a wide range of 'normal' development.",
+                "Body image can be a concern.",
+                "Early or late maturation can lead to psychological challenges.",
+                "Adolescence is the period between puberty and adulthood, marked by social learning and the achievement of economic and moral adulthood."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.6 Male reproductive structures",
+          "slides": [
+            {
+              "slide_number": 100,
+              "title": "Parts of the Male Reproductive System",
+              "content": [
+                "Testes: Produce sperm and testosterone.",
+                "Scrotum: Sac holding the testes outside the body for temperature regulation.",
+                "Epididymis: Stores and matures sperm.",
+                "Vas Deferens: Tube that transports sperm from the epididymis to the urethra.",
+                "Seminal Vesicles: Secrete fructose-rich fluid for sperm nutrition.",
+                "Prostate Gland: Secretes alkaline fluid to protect sperm.",
+                "Bulbourethral Glands: Secrete lubricating mucus.",
+                "Penis: Organ for sexual intercourse."
+              ]
+            },
+            {
+              "slide_number": 101,
+              "title": "Structure of Sperm",
+              "content": [
+                "Head: Contains the nucleus (DNA) and an enzyme to penetrate the egg.",
+                "Midpiece: Contains many mitochondria for energy production.",
+                "Tail (Flagellum): Provides movement for swimming toward the egg."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.7. Female reproductive structures",
+          "slides": [
+            {
+              "slide_number": 102,
+              "title": "Parts of the Female Reproductive System",
+              "content": [
+                "Ovaries: Produce eggs (ova) and hormones (estrogen, progesterone).",
+                "Oviducts (Fallopian Tubes): Transport eggs; site of fertilization.",
+                "Uterus: Hollow organ where the embryo implants and develops.",
+                "Cervix: Opening of the uterus into the vagina.",
+                "Vagina: Organ of intercourse and the birth canal.",
+                "Vulva: External genitalia."
+              ]
+            },
+            {
+              "slide_number": 103,
+              "title": "Ovulation",
+              "content": [
+                "The process of releasing a mature egg from an ovary.",
+                "A woman is born with thousands of eggs.",
+                "During her fertile years, only 300-400 eggs mature.",
+                "Occurs approximately once every 28 days.",
+                "The egg is released into the oviduct."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.8 The Menstrual cycle",
+          "slides": [
+            {
+              "slide_number": 104,
+              "title": "The Menstrual Cycle",
+              "content": [
+                "A monthly series of changes in the female reproductive system.",
+                "The average cycle is about 28 days.",
+                "It is controlled by hormones: FSH, LH, estrogen, and progesterone.",
+                "It prepares the uterus for a potential pregnancy."
+              ]
+            },
+            {
+              "slide_number": 105,
+              "title": "Phases of the Menstrual Cycle",
+              "content": [
+                "1. Flow Phase (Menstruation): Shedding of the uterine lining. Day 1-5.",
+                "2. Follicular Phase: FSH stimulates a follicle to mature; uterus lining thickens. Day 6-14.",
+                "3. Ovulation: LH surge triggers release of a mature egg from the ovary. Day 14.",
+                "4. Luteal Phase: Corpus luteum produces progesterone to prepare for pregnancy. Day 15-28.",
+                "If fertilization does not occur, the corpus luteum breaks down, and the cycle repeats."
+              ]
+            },
+            {
+              "slide_number": 106,
+              "title": "Menstrual Hygiene",
+              "content": [
+                "Wear lightweight, breathable clothing.",
+                "Change menstrual products regularly to prevent infection.",
+                "Wash the external genital area daily with water only.",
+                "Use unscented products.",
+                "Drink enough water.",
+                "Track your period as a health marker.",
+                "Visit a healthcare provider for annual check-ups."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.9 Fertilization and pregnancy",
+          "slides": [
+            {
+              "slide_number": 107,
+              "title": "Fertilization",
+              "content": [
+                "The fusion of a sperm nucleus and an egg nucleus.",
+                "Occurs in the oviduct (Fallopian tube).",
+                "The resulting single cell is called a zygote.",
+                "The zygote is a unique combination of genetic material from both parents."
+              ]
+            },
+            {
+              "slide_number": 108,
+              "title": "Pregnancy and Development",
+              "content": [
+                "The zygote undergoes cell division as it travels down the oviduct.",
+                "It forms a solid ball of cells (morula), then a blastocyst.",
+                "Implantation: The blastocyst embeds itself into the uterine lining.",
+                "The embryo is surrounded by amniotic fluid for protection.",
+                "The placenta develops to exchange nutrients, gases, and waste between mother and fetus."
+              ]
+            },
+            {
+              "slide_number": 109,
+              "title": "Twins",
+              "content": [
+                "Identical (Monozygotic) Twins: From one fertilized egg that splits into two.",
+                "Fraternal (Dizygotic) Twins: From two separate eggs fertilized by two different sperm."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.10 Methods of birth control",
+          "slides": [
+            {
+              "slide_number": 110,
+              "title": "Natural Methods",
+              "content": [
+                "Abstinence: Avoiding sexual intercourse.",
+                "Fertility Awareness (Rhythm Method): Avoiding sex during ovulation by tracking the menstrual cycle, temperature, and cervical mucus.",
+                "Withdrawal (Coitus Interruptus): Pulling the penis out before ejaculation."
+              ]
+            },
+            {
+              "slide_number": 111,
+              "title": "Artificial Methods: Barrier",
+              "content": [
+                "Male Condom: Latex sheath on the penis; prevents sperm from entering the vagina; protects against STIs.",
+                "Female Condom: Polyurethane sheath in the vagina; protects against STIs.",
+                "Diaphragm: Dome-shaped rubber disk covering the cervix; used with spermicide.",
+                "Spermicides: Chemicals that kill sperm; used with other barrier methods."
+              ]
+            },
+            {
+              "slide_number": 112,
+              "title": "Artificial Methods: Hormonal and Surgical",
+              "content": [
+                "Contraceptive Pill: Daily pill with hormones to prevent ovulation.",
+                "Contraceptive Implant: Small tube under the skin that slowly releases hormones.",
+                "Contraceptive Injection: Hormone injection effective for 8-12 weeks.",
+                "Intrauterine Device (IUD): Small device inserted into the uterus to prevent implantation.",
+                "Vasectomy: Male sterilization by cutting the vas deferens.",
+                "Laparotomy (Tubal Ligation): Female sterilization by blocking the oviducts."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.11 Sexually transmitted infections (STIs): Transmission and prevention",
+          "slides": [
+            {
+              "slide_number": 113,
+              "title": "Common STIs in Ethiopia",
+              "content": [
+                "Trichomoniasis: Caused by a protozoan (Trichomonas vaginalis).",
+                "Chlamydia: Caused by bacteria (Chlamydia trachomatis).",
+                "Gonorrhea: Caused by bacteria (Neisseria gonorrhoeae).",
+                "Syphilis: Caused by bacteria (Treponema pallidum).",
+                "HIV/AIDS: Caused by a virus (Human Immunodeficiency Virus)."
+              ]
+            },
+            {
+              "slide_number": 114,
+              "title": "Transmission of STIs",
+              "content": [
+                "STIs are primarily transmitted through sexual contact.",
+                "They can also be transmitted through blood transfusions, sharing needles, and from mother to child during childbirth or breast milk.",
+                "Many STIs may not show early symptoms, which allows for their spread."
+              ]
+            },
+            {
+              "slide_number": 115,
+              "title": "Prevention and Control of STIs",
+              "content": [
+                "Abstinence is the most effective method of prevention.",
+                "Using condoms (male and female) significantly reduces the risk of transmission.",
+                "Being faithful to one partner reduces risk.",
+                "Bacterial STIs (chlamydia, gonorrhea, syphilis) are treatable with antibiotics.",
+                "Viral STIs (HIV/AIDS) have no cure, but medications can manage the disease and prolong life."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_title": "Human Health, Nutrition, and Disease",
+      "sections": [
+        {
+          "section_title": "5.1. What is food?",
+          "slides": [
+            {
+              "slide_number": 116,
+              "title": "Definition and Importance of Food",
+              "content": [
+                "Food is any beneficial substance consumed to provide nutritional support.",
+                "Its importance includes:",
+                "Energy: Fuels all biological activities.",
+                "Growth: Provides substances for making new cells and tissues.",
+                "Repair: Replaces damaged tissues.",
+                "Protection: Prevents deficiency diseases."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.2 Nutrition",
+          "slides": [
+            {
+              "slide_number": 117,
+              "title": "What is Nutrition?",
+              "content": [
+                "Nutrition is the process of taking in food and converting it into energy and other vital nutrients.",
+                "It is the overall process by which an organism obtains and uses food.",
+                "Good nutrition is fundamental for survival, health, growth, and proper functioning of the body."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.3. Nutrients",
+          "slides": [
+            {
+              "slide_number": 118,
+              "title": "Classes of Nutrients",
+              "content": [
+                "1. Carbohydrates: Provide energy (16 kJ/g).",
+                "2. Lipids (Fats and Oils): Provide concentrated energy (37 kJ/g), insulation, and vitamin absorption.",
+                "3. Proteins: Needed for growth and repair (17 kJ/g).",
+                "4. Vitamins: Regulate body processes (micronutrients).",
+                "5. Minerals: Essential for various body functions (micronutrients).",
+                "6. Water: Essential for all life processes.",
+                "7. Fiber (Roughage): Indigestible; prevents constipation."
+              ]
+            },
+            {
+              "slide_number": 119,
+              "title": "Carbohydrates: Sources and Function",
+              "content": [
+                "Sources: Starch (potatoes, bread, rice, maize), sugars (fruits, sugarcane, honey).",
+                "Energy source for the body.",
+                "Provides dietary fiber (cellulose) to prevent constipation and maintain colon health.",
+                "Monosaccharides: Simple sugars (glucose, fructose, galactose).",
+                "Disaccharides: Two sugars linked (sucrose, lactose).",
+                "Polysaccharides: Many sugars linked (starch, glycogen, cellulose)."
+              ]
+            },
+            {
+              "slide_number": 120,
+              "title": "Lipids: Sources and Function",
+              "content": [
+                "Sources: Fats (animal sources, butter, cheese), Oils (plant sources, sunflower seeds, fruits).",
+                "High-energy nutrient.",
+                "Insulates the body against heat loss.",
+                "Serves as a vehicle for fat-soluble vitamins (A, D, E, K)."
+              ]
+            },
+            {
+              "slide_number": 121,
+              "title": "Proteins: Sources and Function",
+              "content": [
+                "Sources: Animal (meat, fish, eggs, milk), Plant (beans, chickpeas, soy, nuts).",
+                "Essential for growth, tissue repair, and making enzymes, hormones, and cell structures."
+              ]
+            },
+            {
+              "slide_number": 122,
+              "title": "Vitamins: Types and Functions",
+              "content": [
+                "Vitamin A: Good vision, healthy skin, and mucous membranes.",
+                "Vitamin B (Complex): Help with energy release and nervous system function.",
+                "Vitamin C (Ascorbic Acid): Tissue repair, immune function, and wound healing.",
+                "Vitamin D: Absorption of calcium and phosphorus for strong bones and teeth.",
+                "Vitamin E: Protects cells from damage.",
+                "Vitamin K: Essential for blood clotting."
+              ]
+            },
+            {
+              "slide_number": 123,
+              "title": "Minerals: Types and Functions",
+              "content": [
+                "Calcium: Bone and teeth formation, muscle and nerve function.",
+                "Iron: Formation of hemoglobin in red blood cells for oxygen transport.",
+                "Iodine: Production of thyroid hormones (regulates metabolism).",
+                "Phosphorus: Bone and teeth formation, energy storage and use.",
+                "Sodium and Potassium: Nerve signal transmission and fluid balance."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.4. Balanced diets",
+          "slides": [
+            {
+              "slide_number": 124,
+              "title": "What is a Balanced Diet?",
+              "content": [
+                "A diet that contains all the nutrients in the correct amount and proportion.",
+                "Includes adequate carbohydrates and fats for energy.",
+                "Includes enough protein of the right kind for growth and repair.",
+                "Contains vitamins, minerals, fiber, and water."
+              ]
+            },
+            {
+              "slide_number": 125,
+              "title": "Nutritional Needs for Different Groups",
+              "content": [
+                "Children: Need more energy and protein for growth.",
+                "Pregnant/Lactating Women: Increased nutritional needs for fetal development and milk production.",
+                "Elderly: Generally lower energy and protein needs, but a balanced diet is still crucial.",
+                "Athletes: High energy and protein requirements for muscle development and performance.",
+                "Men vs. Women: Men usually need more energy due to higher muscle mass."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.5 Deficiency diseases",
+          "slides": [
+            {
+              "slide_number": 126,
+              "title": "Common Deficiency Diseases",
+              "content": [
+                "Kwashiorkor: Protein deficiency; symptoms: swelling of abdomen and legs, dry/flaky skin.",
+                "Marasmus: Energy deficiency; symptoms: extreme thinness, muscle wasting, old-looking face.",
+                "Anemia: Iron deficiency; symptoms: weakness, tiredness, irritability.",
+                "Rickets: Vitamin D deficiency; symptoms: soft, deformed bones.",
+                "Scurvy: Vitamin C deficiency; symptoms: bleeding gums, poor wound healing."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.6 Malnutrition",
+          "slides": [
+            {
+              "slide_number": 127,
+              "title": "What is Malnutrition?",
+              "content": [
+                "Malnutrition is the insufficient, excessive, or imbalanced consumption of nutrients.",
+                "It includes both undernutrition and overnutrition.",
+                "Causes: Poverty, famine, disease, lack of nutritional knowledge."
+              ]
+            },
+            {
+              "slide_number": 128,
+              "title": "Undernutrition and Overnutrition",
+              "content": [
+                "Undernutrition: Wasting (low weight for height), Stunting (low height for age), Underweight (low weight for age), Micronutrient deficiencies.",
+                "Overnutrition: Obesity, which is caused by an energy imbalance.",
+                "Obesity is a risk factor for heart disease, diabetes, high blood pressure, and arthritis."
+              ]
+            },
+            {
+              "slide_number": 129,
+              "title": "Body Mass Index (BMI)",
+              "content": [
+                "BMI = Body mass (kg) / Height² (m²).",
+                "BMI Categories:",
+                "Underweight: < 18.5",
+                "Normal: 18.5 - 24.9",
+                "Overweight: 25.0 - 29.9",
+                "Obese: ≥ 30.0",
+                "BMI is a useful guide, but it does not account for muscle mass."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.7. Substance abuse",
+          "slides": [
+            {
+              "slide_number": 130,
+              "title": "What is Substance Abuse?",
+              "content": [
+                "Substance abuse is using legal or illegal drugs in the wrong way or in excess.",
+                "Legal substances that can be abused: Tobacco (nicotine), Alcohol, Khat.",
+                "Illegal drugs: Heroin, Cannabis.",
+                "Doping: Use of prohibited substances in sports."
+              ]
+            },
+            {
+              "slide_number": 131,
+              "title": "Effects of Tobacco Smoke: Tar",
+              "content": [
+                "Tar is a black, sticky substance in cigarette smoke.",
+                "Effects on the respiratory system:",
+                "Chronic Bronchitis: Irritates and damages airways, causing excess mucus and narrowing.",
+                "Emphysema: Destroys alveoli, reducing oxygen absorption.",
+                "Lung Cancer: Contains carcinogens (cancer-causing agents)."
+              ]
+            },
+            {
+              "slide_number": 132,
+              "title": "Effects of Tobacco Smoke: Carbon Monoxide and Nicotine",
+              "content": [
+                "Carbon Monoxide: A poisonous gas that irreversibly binds to hemoglobin, reducing oxygen transport.",
+                "Effect: Increases risk of heart disease and stroke.",
+                "Nicotine: A stimulant and addictive substance.",
+                "Effect: Increases heart rate and blood pressure; narrows blood vessels."
+              ]
+            },
+            {
+              "slide_number": 133,
+              "title": "Effects of Drinking Alcohol",
+              "content": [
+                "Alcohol is a depressant that slows down the brain and nervous system.",
+                "Short-term effects: Loss of coordination, loss of judgment, slower reaction times.",
+                "Long-term effects: Liver cirrhosis (scarring of liver tissue), stomach ulcers, heart disease, brain damage."
+              ]
+            },
+            {
+              "slide_number": 134,
+              "title": "Other Substances: Khat, Cannabis, Heroin",
+              "content": [
+                "Khat: Contains cathinone; a stimulant causing alertness, but can lead to depression, sleep disorders, gastritis, and social problems.",
+                "Cannabis: Contains THC; a psychoactive drug affecting perception and memory; mental health risks.",
+                "Heroin: A powerful depressant; highly addictive; risk of overdose and infection from needle sharing."
+              ]
+            },
+            {
+              "slide_number": 135,
+              "title": "Doping in Sports",
+              "content": [
+                "Doping is the use of prohibited substances to gain an unfair advantage in sports.",
+                "Banned classes: Anabolic steroids, stimulants, peptide hormones, blood doping.",
+                "Health risks: Cardiovascular, central nervous system, hormonal, and psychological side effects.",
+                "Consequences: Suspension, loss of medals, financial penalties, legal issues."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.8. Infectious and noninfectious diseases",
+          "slides": [
+            {
+              "slide_number": 136,
+              "title": "Infectious Diseases: Transmission",
+              "content": [
+                "Infectious diseases are caused by pathogens (bacteria, viruses, protozoa, fungi).",
+                "Transmission methods:",
+                "Airborne (droplets from coughs/sneezes).",
+                "Direct contact (body fluids).",
+                "Contaminated food or water (fecal-oral).",
+                "Vector-borne (e.g., mosquitoes).",
+                "Sexual contact."
+              ]
+            },
+            {
+              "slide_number": 137,
+              "title": "Prevention of Infectious Diseases",
+              "content": [
+                "Vaccination: Builds immunity against specific pathogens.",
+                "Personal hygiene: Handwashing, covering coughs.",
+                "Hygienic food preparation: Washing, cooking thoroughly.",
+                "Boiling drinking water: Kills pathogens.",
+                "Proper waste disposal: Prevents breeding of vectors.",
+                "Using condoms: Reduces risk of STIs."
+              ]
+            },
+            {
+              "slide_number": 138,
+              "title": "HIV/AIDS",
+              "content": [
+                "Caused by the Human Immunodeficiency Virus (HIV).",
+                "HIV attacks and destroys T-lymphocytes (immune cells).",
+                "As T-cells decrease, the body becomes susceptible to opportunistic infections.",
+                "AIDS (Acquired Immune Deficiency Syndrome) is the late stage of HIV infection.",
+                "Transmission: Sexual contact, blood transfusions, shared needles, mother to child.",
+                "Prevention: Abstinence, condoms, sterile needles, antiretroviral drugs during pregnancy."
+              ]
+            },
+            {
+              "slide_number": 139,
+              "title": "Tuberculosis (TB)",
+              "content": [
+                "Caused by the bacterium Mycobacterium tuberculosis.",
+                "Spread through airborne droplets when infected people cough or sneeze.",
+                "Symptoms: Persistent cough, chest pain, fever, weight loss.",
+                "Prevention: BCG vaccine, avoiding overcrowding, covering mouth when coughing.",
+                "Treatment: Long-term antibiotic therapy; drug resistance is a growing concern."
+              ]
+            },
+            {
+              "slide_number": 140,
+              "title": "Malaria",
+              "content": [
+                "Caused by a protozoan parasite (Plasmodium).",
+                "Transmitted by the bite of an infected female Anopheles mosquito.",
+                "Control methods:",
+                "Reducing mosquito populations (eliminate breeding sites).",
+                "Preventing bites (insect nets, repellents).",
+                "Using antimalarial drugs (e.g., Artemisinin-based therapies)."
+              ]
+            },
+            {
+              "slide_number": 141,
+              "title": "COVID-19",
+              "content": [
+                "Caused by the SARS-CoV-2 virus.",
+                "Spread through respiratory droplets from coughs, sneezes, and talking.",
+                "Symptoms: Fever, cough, fatigue, loss of taste or smell.",
+                "Prevention: Social distancing, mask-wearing, frequent handwashing, vaccination."
+              ]
+            },
+            {
+              "slide_number": 142,
+              "title": "Non-Infectious Diseases",
+              "content": [
+                "Diseases not caused by pathogens.",
+                "Causes: Genetics, lifestyle factors, malnutrition, environmental factors.",
+                "Examples: Kwashiorkor (protein deficiency), Scurvy (vitamin C deficiency), Lung cancer (smoking), Diabetes, Cardiovascular disease, Sickle cell anemia."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.9 Renowned Nutritionists in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 143,
+              "title": "Ethiopian Nutritionists",
+              "content": [
+                "Nutritionists are researchers who study nutrition and its impact on health.",
+                "Their work is vital for addressing malnutrition and food insecurity in Ethiopia.",
+                "Through research and policy advice, they contribute to improving public health."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "unit_6": {
+      "unit_title": "Ecology",
+      "sections": [
+        {
+          "section_title": "6.1 Ecology",
+          "slides": [
+            {
+              "slide_number": 144,
+              "title": "What is Ecology?",
+              "content": [
+                "Ecology is the branch of biology that studies the interactions among organisms and with their environment.",
+                "Scientists who study ecology are called ecologists.",
+                "They study the relationships between living things (biotic factors) and their non-living environment (abiotic factors)."
+              ]
+            },
+            {
+              "slide_number": 145,
+              "title": "Key Ecological Concepts",
+              "content": [
+                "Ecosystem: A community of organisms and their physical environment.",
+                "Habitat: The place where an organism lives.",
+                "Niche: The role or job an organism plays in its ecosystem (what it eats, where it lives, etc.).",
+                "Ecologists use both qualitative observations and quantitative measurements."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.2. Biotic and abiotic components",
+          "slides": [
+            {
+              "slide_number": 146,
+              "title": "Abiotic Factors",
+              "content": [
+                "Abiotic factors are non-living components of the ecosystem.",
+                "Examples:",
+                "Solar energy: Powers most ecosystems.",
+                "Temperature: Affects metabolism and distribution of organisms.",
+                "Water: Essential for all life; availability limits distribution.",
+                "Nutrients: Like nitrogen and phosphorus, vital for plant growth.",
+                "Salinity: Salt concentration in aquatic environments.",
+                "Oxygen: Critical for aquatic organisms."
+              ]
+            },
+            {
+              "slide_number": 147,
+              "title": "Biotic Factors",
+              "content": [
+                "Biotic factors are the living components of an ecosystem.",
+                "Examples:",
+                "Predators: Organisms that kill and eat prey.",
+                "Herbivores: Animals that eat plants.",
+                "Parasites: Organisms that live on or in a host and harm it.",
+                "Competition: Organisms competing for the same resource.",
+                "Pathogens: Disease-causing organisms."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.3. Ecological levels",
+          "slides": [
+            {
+              "slide_number": 148,
+              "title": "Levels of Ecological Organization",
+              "content": [
+                "Organism: An individual living thing.",
+                "Population: A group of the same species in the same area.",
+                "Community: All the different populations in an area.",
+                "Ecosystem: The community plus its abiotic environment.",
+                "Biosphere: The sum of all ecosystems on Earth."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.4. Ecosystems",
+          "slides": [
+            {
+              "slide_number": 149,
+              "title": "What is an Ecosystem?",
+              "content": [
+                "An ecosystem is a self-supporting unit of a community and its abiotic environment.",
+                "Energy flows through an ecosystem (from the sun to producers to consumers).",
+                "Matter is recycled within an ecosystem."
+              ]
+            },
+            {
+              "slide_number": 150,
+              "title": "Types of Ecosystems",
+              "content": [
+                "Terrestrial Ecosystems (on land):",
+                "Forests, grasslands, deserts, tundra.",
+                "Aquatic Ecosystems (in water):",
+                "Freshwater: Lakes, ponds, rivers, streams.",
+                "Marine: Oceans, coral reefs, estuaries."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.5 Biomes",
+          "slides": [
+            {
+              "slide_number": 151,
+              "title": "What is a Biome?",
+              "content": [
+                "A biome is a large geographic area characterized by its vegetation (terrestrial) or physical environment (aquatic).",
+                "They are classified by climate, especially temperature and precipitation.",
+                "The same biome can occur in different locations with similar climates."
+              ]
+            },
+            {
+              "slide_number": 152,
+              "title": "Major Terrestrial Biomes (Part 1)",
+              "content": [
+                "Tropical Rainforest: Near equator, high rainfall, high biodiversity.",
+                "Desert: Very low rainfall, extreme temperatures, water-conserving species.",
+                "Savanna: Grassland with scattered trees, seasonal rainfall, large herbivores.",
+                "Temperate Grassland (Prairie): Seasonal temperature extremes, fertile soil."
+              ]
+            },
+            {
+              "slide_number": 153,
+              "title": "Major Terrestrial Biomes (Part 2)",
+              "content": [
+                "Temperate Broadleaf Forest: Deciduous trees, moderate climate.",
+                "Boreal Forest (Taiga): Cold, coniferous forest.",
+                "Tundra: Extremely cold, permafrost, low-growing vegetation."
+              ]
+            },
+            {
+              "slide_number": 154,
+              "title": "Major Aquatic Biomes",
+              "content": [
+                "Freshwater Biomes: Lakes, streams, rivers, wetlands.",
+                "Marine Biomes: Oceans, intertidal zones, coral reefs, estuaries.",
+                "Photic Zone: Zone with sufficient light for photosynthesis.",
+                "Aphotic Zone: Zone with little to no light."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.6 Ecological succession",
+          "slides": [
+            {
+              "slide_number": 155,
+              "title": "What is Ecological Succession?",
+              "content": [
+                "Succession is the orderly, natural change in the composition of communities over time.",
+                "It is a process of gradual replacement of species."
+              ]
+            },
+            {
+              "slide_number": 156,
+              "title": "Primary Succession",
+              "content": [
+                "Starts in a virtually lifeless area with no soil (e.g., new volcanic island, retreating glacier).",
+                "Pioneer species (lichens, mosses) are the first to colonize.",
+                "They break down rock, creating soil.",
+                "Over time, grasses, shrubs, and trees replace the pioneers.",
+                "Eventually leads to a stable climax community."
+              ]
+            },
+            {
+              "slide_number": 157,
+              "title": "Secondary Succession",
+              "content": [
+                "Occurs after a major disturbance that removes most but not all of the community.",
+                "The soil remains intact.",
+                "Example: After a forest fire or clearing for agriculture.",
+                "Pioneer species are fast-growing weeds and grasses.",
+                "This process is faster than primary succession and eventually reaches a climax community."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "6.2. Ecological relationships",
+          "slides": [
+            {
+              "slide_number": 158,
+              "title": "Types of Ecological Interactions",
+              "content": [
+                "Competition (-/-): Both species are harmed.",
+                "Predation (+/-): One species benefits (predator), the other is harmed (prey).",
+                "Herbivory (+/-): One species benefits (herbivore), the other is harmed (plant).",
+                "Parasitism (+/-): Parasite benefits, host is harmed.",
+                "Mutualism (+/+): Both species benefit.",
+                "Commensalism (+/0): One species benefits, the other is unaffected."
+              ]
+            },
+            {
+              "slide_number": 159,
+              "title": "Competition and Predation",
+              "content": [
+                "Competition: Interaction where individuals of different species use the same resource.",
+                "Examples: Weeds competing with garden plants; lions competing for prey.",
+                "Predation: Interaction where one species (predator) kills and eats another (prey).",
+                "Examples: Lion eating a zebra; rotifer eating a protist."
+              ]
+            },
+            {
+              "slide_number": 160,
+              "title": "Herbivory and Parasitism",
+              "content": [
+                "Herbivory: An organism (herbivore) eats parts of a plant or alga.",
+                "Examples: Goats eating grass; caterpillars eating leaves.",
+                "Parasitism: One organism (parasite) derives nourishment from another (host), harming it.",
+                "Examples: Tapeworm in the intestine; tick on a dog."
+              ]
+            },
+            {
+              "slide_number": 161,
+              "title": "Mutualism and Commensalism",
+              "content": [
+                "Mutualism: Interaction that benefits both species.",
+                "Examples: Pollination (bees and flowers); Mycorrhizae (fungi and plant roots).",
+                "Commensalism: Interaction that benefits one species and does not harm or help the other.",
+                "Examples: Cattle egrets following grazing animals to eat insects."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

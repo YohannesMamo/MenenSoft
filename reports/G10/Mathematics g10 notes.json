@@ -1,0 +1,1016 @@
+{
+  "subject": "Mathematics",
+  "grade": "10",
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Relations and Functions",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Relations",
+          "summary": "This section introduces the concept of a relation as a set of ordered pairs. It begins by revising patterns, both arithmetic and geometric, to establish the idea of sequences. The Cartesian coordinate system is then defined as a two-dimensional plane formed by perpendicular axes, used to graphically represent relations. The concept of a relation is formally defined as any set of ordered pairs. The section covers how to represent relations using ordered pairs, arrow diagrams, and graphs. It also defines the domain (set of first elements) and range (set of second elements) of a relation. The section concludes with methods for sketching the graphs of relations, including those defined by linear inequalities, by identifying the boundary line and the appropriate region that satisfies the relation.",
+          "notes": "A pattern is a regular, repeated, or recurring form or design. The arithmetic pattern involves a constant difference between terms (addition or subtraction), while the geometric pattern involves a constant ratio (multiplication or division).\n\nThe Cartesian coordinate system is formed by two perpendicular number lines, the x-axis and y-axis, intersecting at the origin (0,0). Points are located by ordered pairs (x, y), where x is the abscissa and y is the ordinate. The axes divide the plane into four quadrants.\n\nA relation R is a set of ordered pairs (x, y). The set of all first components (x-values) is the domain, and the set of all second components (y-values) is the range.\n\nTo sketch the graph of a relation like y = 2x, a table of values is created, the points are plotted on the Cartesian plane, and they are connected to form a line. For inequalities like y > x, the boundary line y = x is drawn (as a broken line if the inequality is strict), a test point is chosen, and the region satisfying the inequality is shaded. Systems of inequalities involve finding the overlapping region that satisfies all conditions.",
+          "keywords": [
+            {
+              "term": "Pattern",
+              "definition": "A regular, repeated, or recurring form or design. In mathematics, it is a sequence of numbers or shapes that follow a predictable rule."
+            },
+            {
+              "term": "Arithmetic Pattern",
+              "definition": "A sequence of numbers where the difference between consecutive terms is constant. This difference is found by addition or subtraction."
+            },
+            {
+              "term": "Geometric Pattern",
+              "definition": "A sequence of numbers where the ratio between consecutive terms is constant. This ratio is found by multiplication or division."
+            },
+            {
+              "term": "Cartesian Coordinate System",
+              "definition": "A two-dimensional system defined by an ordered pair of perpendicular lines (axes), a unit of length, and an orientation. It is used to uniquely determine the position of a point in a plane."
+            },
+            {
+              "term": "Abscissa",
+              "definition": "The first coordinate of a point in the Cartesian plane, which represents its horizontal distance from the y-axis, often denoted as x."
+            },
+            {
+              "term": "Ordinate",
+              "definition": "The second coordinate of a point in the Cartesian plane, which represents its vertical distance from the x-axis, often denoted as y."
+            },
+            {
+              "term": "Origin",
+              "definition": "The point where the x-axis and y-axis intersect in the Cartesian coordinate system. Its coordinates are (0, 0)."
+            },
+            {
+              "term": "Relation",
+              "definition": "A set of ordered pairs (x, y). It describes a pairing between elements of two sets."
+            },
+            {
+              "term": "Domain of a Relation",
+              "definition": "The set of all first components (x-values) of the ordered pairs in a relation."
+            },
+            {
+              "term": "Range of a Relation",
+              "definition": "The set of all second components (y-values) of the ordered pairs in a relation."
+            },
+            {
+              "term": "Graph of a Relation",
+              "definition": "A visual representation of a relation on the Cartesian coordinate plane, where each ordered pair corresponds to a plotted point."
+            },
+            {
+              "term": "Inequality (in graphing)",
+              "definition": "A relation that uses symbols like ≤, ≥, <, or >. Its graph is a region of the coordinate plane, with a boundary line that is solid for ≤ or ≥ and broken for < or >."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Functions",
+          "summary": "This section defines a function as a special type of relation where each element in the domain has exactly one image in the range. It explains the concept of a function using arrow diagrams and ordered pairs, emphasizing the 'one-to-one or many-to-one' rule. The domain, codomain, and range of a function are discussed. The section covers operations on functions, including addition, subtraction, multiplication, and division, and how to determine the domain of the resulting function. Different types of functions are classified: one-to-one (injective), onto (surjective), and bijective (one-to-one correspondence). It then details the graphing of functions, starting with linear functions (y = ax + b), covering slope, intercepts, and the effect of the slope on the graph's direction. The section proceeds to quadratic functions (y = ax² + bx + c), describing their parabolic shape, vertex, axis of symmetry, and how to sketch them using transformations (shifting, stretching) and completing the square. Finally, it connects the algebraic and graphical representations of functions and introduces the vertical line test.",
+          "notes": "A function f is a set of ordered pairs where no two distinct ordered pairs have the same first element. This means for every input x, there is only one output y. It can be denoted as f: A → B, where A is the domain and B is the codomain. The range is the subset of B that is actually mapped to.\n\nFor functions f and g, their combination is defined as:\n- Sum: (f+g)(x) = f(x) + g(x)\n- Difference: (f-g)(x) = f(x) - g(x)\n- Product: (fg)(x) = f(x) * g(x)\n- Quotient: (f/g)(x) = f(x) / g(x), g(x) ≠ 0\nThe domain of these combined functions is the intersection of the domains of f and g, with the additional restriction for the quotient that g(x) ≠ 0.\n\nTypes of functions:\n- Injective (One-to-One): Each element in the domain maps to a distinct element in the codomain.\n- Surjective (Onto): Every element in the codomain has at least one pre-image in the domain.\n- Bijective: The function is both injective and surjective.\n\nLinear functions are of the form f(x) = ax + b, where a is the slope and b is the y-intercept. The graph is a straight line. If a > 0, the line increases; if a < 0, it decreases; if a = 0, it's a horizontal line.\n\nQuadratic functions are of the form f(x) = ax² + bx + c. Their graph is a parabola. The vertex, the turning point, can be found by completing the square to get the form f(x) = a(x - h)² + k, where (h, k) is the vertex. The axis of symmetry is x = h. The parabola opens upwards if a > 0 and downwards if a < 0.",
+          "keywords": [
+            {
+              "term": "Function",
+              "definition": "A relation in which every element of the domain is associated with exactly one element of the range. No two distinct ordered pairs have the same first element."
+            },
+            {
+              "term": "Domain of a Function",
+              "definition": "The set of all possible input values (x) for which a function is defined."
+            },
+            {
+              "term": "Codomain of a Function",
+              "definition": "The set of all possible output values (y) that a function could potentially produce."
+            },
+            {
+              "term": "Range of a Function",
+              "definition": "The set of all actual output values (y) that a function produces from its given domain."
+            },
+            {
+              "term": "Functional Value",
+              "definition": "The image of an element x under a function f, denoted as f(x). It is the output corresponding to the input x."
+            },
+            {
+              "term": "Sum of Functions",
+              "definition": "A new function (f+g)(x) = f(x) + g(x), where x belongs to the intersection of the domains of f and g."
+            },
+            {
+              "term": "Difference of Functions",
+              "definition": "A new function (f-g)(x) = f(x) - g(x), where x belongs to the intersection of the domains of f and g."
+            },
+            {
+              "term": "Product of Functions",
+              "definition": "A new function (fg)(x) = f(x) * g(x), where x belongs to the intersection of the domains of f and g."
+            },
+            {
+              "term": "Quotient of Functions",
+              "definition": "A new function (f/g)(x) = f(x) / g(x), where x belongs to the intersection of the domains of f and g, and g(x) ≠ 0."
+            },
+            {
+              "term": "Vertical Line Test",
+              "definition": "A method to determine if a graph represents a function: if any vertical line intersects the graph at more than one point, the graph does not represent a function."
+            },
+            {
+              "term": "One-to-One Function (Injective)",
+              "definition": "A function where each element of the domain maps to a distinct element in the codomain. If f(a) = f(b), then a = b."
+            },
+            {
+              "term": "Onto Function (Surjective)",
+              "definition": "A function where every element in the codomain is the image of at least one element in the domain."
+            },
+            {
+              "term": "Bijective Function",
+              "definition": "A function that is both one-to-one (injective) and onto (surjective). It is a one-to-one correspondence."
+            },
+            {
+              "term": "Linear Function",
+              "definition": "A function of the form f(x) = ax + b, where a and b are real numbers and a ≠ 0. Its graph is a straight line."
+            },
+            {
+              "term": "Slope (of a line)",
+              "definition": "A measure of the steepness of a line, often denoted by m. In a linear function f(x) = ax + b, the slope is 'a'."
+            },
+            {
+              "term": "y-intercept",
+              "definition": "The y-coordinate of the point where a line or curve crosses the y-axis. For a linear function f(x) = ax + b, the y-intercept is b."
+            },
+            {
+              "term": "x-intercept",
+              "definition": "The x-coordinate of the point where a line or curve crosses the x-axis. Found by setting y = 0 in the equation."
+            },
+            {
+              "term": "Quadratic Function",
+              "definition": "A function of the form f(x) = ax² + bx + c, where a, b, and c are real numbers and a ≠ 0. Its graph is a parabola."
+            },
+            {
+              "term": "Parabola",
+              "definition": "The U-shaped graph of a quadratic function. It can open upwards (if a > 0) or downwards (if a < 0)."
+            },
+            {
+              "term": "Vertex",
+              "definition": "The minimum or maximum point on a parabola, which is the turning point of the graph of a quadratic function."
+            },
+            {
+              "term": "Axis of Symmetry",
+              "definition": "A vertical line that divides a parabola into two mirror-image halves. It passes through the vertex."
+            },
+            {
+              "term": "Completing the Square",
+              "definition": "An algebraic method used to rewrite a quadratic expression ax² + bx + c in the form a(x - h)² + k, which makes it easy to identify the vertex (h, k) of the parabola."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Applications of Relations and Functions",
+          "summary": "This section demonstrates how relations and functions are used to model and solve real-world problems. It covers linear applications, such as finding a person's height from femur length using a linear relationship. Quadratic applications are explored through problems involving maximum or minimum values, like finding the maximum area of a rectangle given a fixed perimeter, or determining the minimum product of two numbers with a fixed difference. The section also introduces solving quadratic equations graphically by finding the x-intercepts of the corresponding quadratic function. Finally, it explains how to solve quadratic inequalities graphically by identifying the regions of the parabola that are above or below the x-axis.",
+          "notes": "Relations and functions can model many real-world scenarios. A linear relationship, like height vs. femur length, allows us to predict one variable from another.\n\nFor quadratic functions, the maximum or minimum value occurs at the vertex. This is useful for optimization problems. For example, if the area of a rectangle is A = -x² + 28x, completing the square gives A = 196 - (x - 14)², showing the maximum area is 196 when x = 14.\n\nGraphical method for solving quadratic equations: The solutions of the equation ax² + bx + c = 0 are the x-coordinates of the points where the graph of y = ax² + bx + c intersects the x-axis (x-intercepts).\n\nGraphical method for solving quadratic inequalities: For an inequality like ax² + bx + c < 0, the solution is the x-values where the graph of the parabola is below the x-axis. For ax² + bx + c > 0, the solution is where the graph is above the x-axis. The boundary points are the x-intercepts.",
+          "keywords": [
+            {
+              "term": "Optimization",
+              "definition": "The process of finding the best possible value (maximum or minimum) of a function under given constraints, often involving quadratic functions."
+            },
+            {
+              "term": "Graphical Solution (Quadratic Equation)",
+              "definition": "Finding the roots of a quadratic equation by determining the x-coordinates of the points where its graph intersects the x-axis."
+            },
+            {
+              "term": "Graphical Solution (Quadratic Inequality)",
+              "definition": "Finding the range of x-values that satisfy a quadratic inequality by identifying the intervals on the x-axis where the graph of the corresponding quadratic function is either above or below the x-axis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Polynomial Functions",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Definition of Polynomial Function",
+          "summary": "This section defines a polynomial function as a mathematical expression of the form p(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0, where n is a non-negative integer and the coefficients a_i are real numbers, with a_n ≠ 0. Key concepts introduced are the degree of the polynomial (the highest power of x), the leading coefficient (a_n), and the constant term (a_0). The section distinguishes polynomials from non-polynomial functions by checking if the exponents are non-negative integers and if the function can be expressed in the general form. It also covers classifying polynomial functions by degree (e.g., constant, linear, quadratic, cubic) and emphasizes that the domain of any polynomial function is the set of all real numbers.",
+          "notes": "A polynomial function is defined as p(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0. The exponent n must be a non-negative integer. The numbers a_n, a_{n-1}, ..., a_0 are coefficients, with a_n being the leading coefficient (must be non-zero), and a_0 being the constant term. The degree of the polynomial is the value of n.\n\nFunctions like f(x) = 4x^{-2} + 3x - 7 are not polynomial functions because the exponent -2 is not a non-negative integer. Functions like h(x) = 2^x are also not polynomial functions because they cannot be written in the general polynomial form.\n\nThe classification of common polynomial functions by degree:\n- Degree 0: Constant function (e.g., f(x) = 5)\n- Degree 1: Linear function (e.g., f(x) = 2x - 3)\n- Degree 2: Quadratic function (e.g., f(x) = x² + 4x + 1)\n- Degree 3: Cubic function (e.g., f(x) = x³ - x)\n\nThe domain of every polynomial function is all real numbers (R).",
+          "keywords": [
+            {
+              "term": "Polynomial Function",
+              "definition": "A function of the form p(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0, where n is a non-negative integer and a_n ≠ 0."
+            },
+            {
+              "term": "Degree of a Polynomial",
+              "definition": "The highest power of the variable x in a polynomial function."
+            },
+            {
+              "term": "Leading Coefficient",
+              "definition": "The coefficient of the term with the highest power of x (a_n) in a polynomial function."
+            },
+            {
+              "term": "Constant Term",
+              "definition": "The term in a polynomial that does not contain the variable x (a_0)."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Operations on polynomial functions",
+          "summary": "This section details the four fundamental arithmetic operations on polynomial functions: addition, subtraction, multiplication, and division. Addition and subtraction involve combining like terms by adding or subtracting their coefficients. Multiplication is performed by applying the distributive property to multiply every term of one polynomial by every term of the other. Division of polynomials is carried out using a long division process, similar to arithmetic long division, which yields a quotient and a remainder. The section highlights the resulting properties, such as the degree of the sum or product, and emphasizes that the result of these operations (except division by zero) is always another polynomial function.",
+          "notes": "Addition of polynomials: Add the coefficients of like terms. For example, (2x³ + 5x²) + (3x³ - x²) = 5x³ + 4x².\n\nSubtraction of polynomials: Distribute the negative sign and then add like terms. For example, (5x² + 3x) - (2x² - x) = 5x² + 3x - 2x² + x = 3x² + 4x.\n\nMultiplication: Multiply each term of the first polynomial by each term of the second polynomial using the distributive property. For example, (2x+3)(x²-5x+6) = 2x³ - 10x² + 12x + 3x² - 15x + 18 = 2x³ - 7x² - 3x + 18.\n\nDivision: The long division process for polynomials. Given f(x) = d(x)q(x) + r(x), where d(x) is the divisor, q(x) is the quotient, and r(x) is the remainder (with degree of r(x) < degree of d(x)). The quotient and remainder are polynomial functions.",
+          "keywords": [
+            {
+              "term": "Like Terms",
+              "definition": "Terms in an expression or polynomial that have the same variable(s) raised to the same powers. Only the coefficients of like terms can be combined."
+            },
+            {
+              "term": "Addition of Polynomials",
+              "definition": "The operation of combining two polynomial functions by adding the coefficients of like terms. The result is a polynomial function."
+            },
+            {
+              "term": "Subtraction of Polynomials",
+              "definition": "The operation of combining two polynomial functions by subtracting the coefficients of like terms. The result is a polynomial function."
+            },
+            {
+              "term": "Multiplication of Polynomials",
+              "definition": "The operation of multiplying two polynomial functions by applying the distributive property. The result is a polynomial function."
+            },
+            {
+              "term": "Division of Polynomials",
+              "definition": "The operation of dividing one polynomial function by another using a long division process. The result is a quotient and a remainder, both of which are polynomial functions."
+            },
+            {
+              "term": "Long Division (Polynomials)",
+              "definition": "An algorithm for dividing one polynomial by another, analogous to long division for integers. It yields a quotient and a remainder."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Theorems on polynomial functions",
+          "summary": "This section introduces two fundamental theorems about polynomials: the Polynomial Division Theorem (also known as the Remainder Theorem's basis) and the Factor Theorem. The Polynomial Division Theorem states that for polynomials f(x) and d(x) (with d(x) ≠ 0 and deg(d) ≤ deg(f)), there exist unique quotient q(x) and remainder r(x) such that f(x) = d(x)q(x) + r(x), where the remainder is either zero or has a degree less than the divisor. The Remainder Theorem specifies that when f(x) is divided by a linear polynomial x - c, the remainder is exactly f(c). The Factor Theorem states that x - c is a factor of f(x) if and only if f(c) = 0. These theorems provide powerful tools for simplifying and factoring polynomials.",
+          "notes": "Polynomial Division Theorem: For any polynomial f(x) and a non-zero polynomial d(x), there exist unique polynomials q(x) and r(x) such that f(x) = d(x)q(x) + r(x), where r(x) = 0 or deg(r(x)) < deg(d(x)).\n\nRemainder Theorem: If a polynomial f(x) is divided by (x - c), the remainder is the constant f(c). This is a direct application of the Division Theorem where d(x) = x - c. The remainder must be a constant because the divisor is of degree 1.\n\nFactor Theorem: A linear polynomial (x - c) is a factor of f(x) if and only if f(c) = 0. This follows from the Remainder Theorem: if the remainder is zero, then f(x) = (x - c)q(x), so (x - c) is a factor.",
+          "keywords": [
+            {
+              "term": "Polynomial Division Theorem",
+              "definition": "A theorem stating that for polynomials f(x) and d(x) ≠ 0, there exist unique quotient q(x) and remainder r(x) such that f(x) = d(x)q(x) + r(x), with deg(r) < deg(d) or r(x)=0."
+            },
+            {
+              "term": "Remainder Theorem",
+              "definition": "A theorem stating that when a polynomial f(x) is divided by a linear divisor (x - c), the remainder is equal to the functional value f(c)."
+            },
+            {
+              "term": "Factor Theorem",
+              "definition": "A theorem stating that (x - c) is a factor of a polynomial f(x) if and only if f(c) = 0."
+            },
+            {
+              "term": "Zero of a Polynomial",
+              "definition": "A number c for which f(c) = 0. It is a solution to the equation f(x) = 0."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Zeros of polynomial functions",
+          "summary": "This section focuses on finding the zeros (roots) of polynomial functions. It begins with the Factor Theorem to find zeros from factored forms. It then introduces the concept of multiplicity of a zero, where a factor (x - c)^k indicates that c is a zero of multiplicity k. The Location Theorem is presented as a tool to estimate where real zeros lie, stating that if f(a) and f(b) have opposite signs, then there is at least one zero between a and b. Finally, the Rational Zero Test is provided as a method to find all possible rational zeros of a polynomial with integer coefficients by listing the factors of the constant term divided by the factors of the leading coefficient.",
+          "notes": "Finding Zeros: Use the Factor Theorem. If f(x) is factored into linear factors like (x - c1)(x - c2), then c1 and c2 are zeros.\n\nMultiplicity: If (x - c)^k is a factor but (x - c)^{k+1} is not, then c is a zero of multiplicity k. A zero of multiplicity 1 is a simple zero. A zero of even multiplicity means the graph touches the x-axis at that point; a zero of odd multiplicity means the graph crosses the x-axis.\n\nLocation Theorem (Intermediate Value Theorem for polynomials): If f(a) and f(b) have opposite signs, then the graph crosses the x-axis at least once between x = a and x = b.\n\nRational Zero Test: For a polynomial with integer coefficients, any rational zero p/q (in simplest form) must have p as a factor of the constant term a0 and q as a factor of the leading coefficient an.",
+          "keywords": [
+            {
+              "term": "Zero of a Polynomial",
+              "definition": "A value c where f(c) = 0. It is also called a root or solution of f(x) = 0."
+            },
+            {
+              "term": "Multiplicity of a Zero",
+              "definition": "The number of times a particular factor corresponding to a zero is repeated. If (x - c)^k is a factor but not (x - c)^{k+1}, then c has multiplicity k."
+            },
+            {
+              "term": "Location Theorem",
+              "definition": "A theorem stating that if for polynomial f(x), f(a) and f(b) have opposite signs, then at least one real zero of f(x) lies between a and b."
+            },
+            {
+              "term": "Rational Zero Test",
+              "definition": "A method for finding all possible rational zeros of a polynomial with integer coefficients. Possible zeros are of the form ±(factor of constant term) / (factor of leading coefficient)."
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Graphs of polynomial functions",
+          "summary": "This section explores the graphical properties of polynomial functions. It emphasizes that the graph of a polynomial is a smooth and continuous curve with no sharp corners or breaks. The behavior of the graph is largely determined by its degree and leading coefficient. For even-degree polynomials with a positive leading coefficient, the graph rises to the right and left; with a negative leading coefficient, it falls to the right and left. For odd-degree polynomials with a positive leading coefficient, the graph falls to the left and rises to the right; with a negative leading coefficient, it rises to the left and falls to the right. The section also discusses the number of turning points (at most n-1) and the maximum number of x-intercepts (at most n).",
+          "notes": "Graphs of polynomial functions are smooth and continuous. They do not have sharp corners or discontinuities.\n\nEnd Behavior: Determined by the degree and leading coefficient:\n- Even degree, positive leading coefficient: Up, Up\n- Even degree, negative leading coefficient: Down, Down\n- Odd degree, positive leading coefficient: Down, Up\n- Odd degree, negative leading coefficient: Up, Down\n\nTurning Points: The number of times the graph changes direction is at most n - 1, where n is the degree.\n\nx-intercepts: The graph can cross the x-axis a maximum of n times. The multiplicity of a zero determines if the graph crosses (odd multiplicity) or touches (even multiplicity) the x-axis.",
+          "keywords": [
+            {
+              "term": "Smooth Curve",
+              "definition": "A continuous curve with no sharp corners or jagged edges. The graph of a polynomial function is always smooth."
+            },
+            {
+              "term": "Continuous Function",
+              "definition": "A function whose graph has no breaks, holes, or jumps. Polynomial functions are continuous for all real numbers."
+            },
+            {
+              "term": "End Behavior",
+              "definition": "The direction the graph of a polynomial function goes as x approaches positive or negative infinity. It is determined by the degree and the leading coefficient."
+            },
+            {
+              "term": "Turning Point",
+              "definition": "A point on the graph where the function changes from increasing to decreasing (maximum) or from decreasing to increasing (minimum). A polynomial of degree n has at most n-1 turning points."
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Applications",
+          "summary": "This section applies polynomial functions to solve real-world optimization problems involving area and volume. The primary method is to define a quadratic function that represents the quantity to be maximized or minimized (e.g., area, product) based on given constraints (e.g., perimeter, sum). By completing the square or using the vertex formula, the maximum or minimum value can be found. Examples include finding the maximum area of a rectangle with a fixed perimeter, determining the minimum product of two numbers with a fixed difference, and calculating the volume of an open-top box made from a rectangular sheet by cutting out corners.",
+          "notes": "These problems often require setting up a quadratic equation from a problem context.\n\nOptimization Strategy:\n1. Define variables for unknown quantities.\n2. Express the quantity to be optimized (e.g., Area, Volume) as a function of one variable.\n3. Identify the domain of the variable from the problem constraints.\n4. Find the vertex of the quadratic function. If the parabola opens downward (a < 0), the vertex is the maximum; if it opens upward (a > 0), it is the minimum.\n5. The x-coordinate of the vertex gives the conditions for the optimal value.",
+          "keywords": [
+            {
+              "term": "Optimization (Polynomials)",
+              "definition": "The process of finding the maximum or minimum value of a polynomial function, often a quadratic, in a real-world context."
+            },
+            {
+              "term": "Vertex (Application)",
+              "definition": "In optimization, the vertex of a parabola represents the point where the function attains its maximum or minimum value."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Exponential and Logarithmic Functions",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Exponents and Logarithms",
+          "summary": "This section provides a foundational review of exponents and introduces logarithms as their inverse. It starts with the definition of exponents for natural numbers, then extends to zero, negative, and rational exponents, presenting all the laws of exponents. A significant portion is dedicated to defining logarithms (log_a c = b iff a^b = c) and establishing their properties and laws, such as the product, quotient, and power laws. The section also covers the change of base formula, common logarithms (base 10), and how to use logarithm and antilogarithm tables for computational purposes. The concept of natural logarithms (base e) is introduced.",
+          "notes": "Exponents Laws: a^m * a^n = a^{m+n}, a^m / a^n = a^{m-n}, (a^m)^n = a^{mn}, (ab)^n = a^n b^n, (a/b)^n = a^n / b^n. Also, a^0 = 1 and a^{-n} = 1/a^n for a ≠ 0.\n\nDefinition of Logarithm: For a > 0, a ≠ 1, and c > 0, log_a c = b if and only if a^b = c.\n\nLaws of Logarithms (for a > 0, a ≠ 1, M, N > 0):\n- log_a(MN) = log_a M + log_a N\n- log_a(M/N) = log_a M - log_a N\n- log_a(M^r) = r log_a M\n- Change of Base: log_a M = log_b M / log_b a\n- log_a a = 1, log_a 1 = 0\n\nCommon Logarithms: Base 10, denoted as log M.\nNatural Logarithms: Base e (≈2.71828), denoted as ln M.\n\nUsing log tables: The logarithm of a number is the sum of its characteristic (integer part based on scientific notation) and its mantissa (decimal part found in the table). Antilog is the inverse operation.",
+          "keywords": [
+            {
+              "term": "Base (Exponent)",
+              "definition": "The number that is being multiplied by itself. In a^n, a is the base."
+            },
+            {
+              "term": "Exponent",
+              "definition": "A number that indicates how many times the base is multiplied by itself. In a^n, n is the exponent."
+            },
+            {
+              "term": "Laws of Exponents",
+              "definition": "Rules that govern how to manipulate expressions with exponents, including multiplication, division, and raising to a power."
+            },
+            {
+              "term": "Rational Exponent",
+              "definition": "An exponent that is a fraction, such as a^(m/n), defined as the n-th root of a raised to the m-th power, or (a^(1/n))^m."
+            },
+            {
+              "term": "Logarithm",
+              "definition": "The exponent to which a fixed base must be raised to produce a given number. If a^b = c, then log_a c = b."
+            },
+            {
+              "term": "Laws of Logarithms",
+              "definition": "Rules used to simplify and manipulate logarithmic expressions, corresponding to the laws of exponents."
+            },
+            {
+              "term": "Change of Base Formula",
+              "definition": "A formula that allows the conversion of a logarithm from one base to another: log_a M = log_b M / log_b a."
+            },
+            {
+              "term": "Common Logarithm",
+              "definition": "A logarithm with base 10, typically written as log x."
+            },
+            {
+              "term": "Natural Logarithm",
+              "definition": "A logarithm with base e (Euler's number), typically written as ln x."
+            },
+            {
+              "term": "Mantissa",
+              "definition": "The fractional part of a common logarithm. It is a number between 0 and 1 and is found in logarithm tables."
+            },
+            {
+              "term": "Characteristic",
+              "definition": "The integer part of a common logarithm, representing the power of 10 in the number's scientific notation."
+            },
+            {
+              "term": "Antilogarithm",
+              "definition": "The inverse operation of taking a logarithm. If log M = N, then M = antilog N."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "The Exponential Functions and Their Graphs",
+          "summary": "This section defines the exponential function f(x) = a^x (a > 0, a ≠ 1) and explores its graphical properties. The domain is all real numbers, and the range is all positive real numbers. The graph always passes through (0, 1). For a > 1, the function is increasing and exhibits rapid growth as x increases, while 0 < a < 1 produces a decreasing function that approaches zero. The x-axis (y = 0) is a horizontal asymptote. The section also introduces the natural exponential function f(x) = e^x, where e ≈ 2.71828, which is widely used in mathematical applications.",
+          "notes": "Definition: f(x) = a^x, where a > 0, a ≠ 1. 'a' is the base, 'x' is the exponent.\n\nDomain: All real numbers (R).\nRange: All positive real numbers (R+).\ny-intercept: (0, 1).\nNo x-intercept (as y > 0).\nAsymptote: The x-axis (y=0).\n\nFor a > 1: Increasing function, rises to the right, approaches 0 to the left.\nFor 0 < a < 1: Decreasing function, rises to the left, approaches 0 to the right.\n\nThe natural exponential function has base 'e', a special irrational number approximately equal to 2.71828. Its graph has the same characteristics as other exponential functions with a > 1.",
+          "keywords": [
+            {
+              "term": "Exponential Function",
+              "definition": "A function of the form f(x) = a^x, where the variable x is the exponent, and a is a constant base with a > 0 and a ≠ 1."
+            },
+            {
+              "term": "Natural Exponential Function",
+              "definition": "An exponential function with base e, an irrational number approximately equal to 2.71828, denoted as f(x) = e^x."
+            },
+            {
+              "term": "Horizontal Asymptote",
+              "definition": "A horizontal line that a graph approaches but never touches or crosses. For exponential functions, the x-axis (y=0) is a horizontal asymptote."
+            },
+            {
+              "term": "Euler's Number (e)",
+              "definition": "A mathematical constant, approximately equal to 2.71828, that is the base of the natural logarithm and natural exponential function."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "The Logarithmic Functions and Their Graphs",
+          "summary": "This section defines the logarithmic function y = log_a x as the inverse of the exponential function y = a^x. Its domain is all positive real numbers, and its range is all real numbers. The graph of a logarithmic function passes through (1, 0) and has the y-axis (x = 0) as a vertical asymptote. For a > 1, the function is increasing, while for 0 < a < 1 it is decreasing. The natural logarithmic function, f(x) = ln x, is introduced as the inverse of e^x. The section emphasizes the inverse relationship between exponential and logarithmic functions, which is reflected in their graphs being mirror images across the line y = x.",
+          "notes": "Definition: The logarithmic function is the inverse of the exponential function. f(x) = log_a x means that a^{f(x)} = x.\n\nDomain: All positive real numbers (R+).\nRange: All real numbers (R).\nx-intercept: (1, 0).\nNo y-intercept (as x cannot be 0).\nAsymptote: The y-axis (x=0).\n\nFor a > 1: Increasing function.\nFor 0 < a < 1: Decreasing function.\n\nThe natural logarithmic function has base e: f(x) = ln x.\n\nRelationship with Exponential Functions: The functions y = a^x and y = log_a x are inverses. Their graphs are reflections of each other across the line y = x. This means the domain of one is the range of the other.",
+          "keywords": [
+            {
+              "term": "Logarithmic Function",
+              "definition": "The inverse of an exponential function, defined as y = log_a x, where a > 0, a ≠ 1, and x > 0."
+            },
+            {
+              "term": "Natural Logarithmic Function",
+              "definition": "A logarithmic function with base e, denoted as f(x) = ln x."
+            },
+            {
+              "term": "Inverse Function",
+              "definition": "A function that reverses the effect of the original function. If f(a) = b, then f^{-1}(b) = a. Exponential and logarithmic functions are inverses."
+            },
+            {
+              "term": "Vertical Asymptote",
+              "definition": "A vertical line that a graph approaches but never touches or crosses. For logarithmic functions, the y-axis (x=0) is a vertical asymptote."
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Solving Exponential and Logarithmic Equations",
+          "summary": "This section provides strategies for solving equations involving exponents and logarithms. Exponential equations (where the variable is in the exponent) are solved by isolating the exponential term and then taking a logarithm of both sides (using the power rule to bring the exponent down). Logarithmic equations (where the variable is inside a logarithm) are solved by stating the domain restrictions, using logarithmic laws to combine terms, and then rewriting the equation in exponential form. The section uses the common logarithm for computations and emphasizes checking solutions against the domain.",
+          "notes": "Solving Exponential Equations:\n1. Isolate the exponential term (a^x).\n2. Apply a logarithm to both sides of the equation (usually log or ln).\n3. Use the power rule: log(a^x) = x log(a), to bring the variable down from the exponent.\n4. Solve the resulting linear or algebraic equation for x.\n\nSolving Logarithmic Equations:\n1. State the Universe (domain restrictions): arguments of all logarithms must be positive.\n2. Use the laws of logarithms (product, quotient, power) to combine the logarithmic terms into a single logarithm on one side.\n3. Rewrite the equation in exponential form: if log_a M = b, then M = a^b.\n4. Solve for the variable.\n5. Check if the solution satisfies the original domain.",
+          "keywords": [
+            {
+              "term": "Exponential Equation",
+              "definition": "An equation in which the unknown variable appears in the exponent (e.g., 2^x = 16)."
+            },
+            {
+              "term": "Logarithmic Equation",
+              "definition": "An equation that involves the logarithm of an expression containing the variable (e.g., log_2(x+3) = 4)."
+            },
+            {
+              "term": "Universe (Log Equations)",
+              "definition": "The set of all possible values for the variable that satisfy the domain restrictions of the logarithmic expressions in an equation."
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Relation between Exponential and Logarithmic functions",
+          "summary": "This section formally establishes the inverse relationship between exponential and logarithmic functions. It shows that the graphs of y = a^x and y = log_a x are reflections across the line y = x. This relationship is used to state that the domain of an exponential function equals the range of its corresponding logarithmic function, and vice versa. This is presented for both cases: a > 1 and 0 < a < 1.",
+          "notes": "Key Relation: y = a^x and y = log_a x are inverse functions.\n\nReflection: The graph of the logarithmic function is the reflection of the graph of the exponential function across the line y = x.\n\nDomain and Range Relationship:\nDomain of y = a^x = Range of y = log_a x.\nRange of y = a^x = Domain of y = log_a x.\n\nThis inverse property is fundamental and explains why the graphs are reflections and why the laws of logarithms correspond to the laws of exponents.",
+          "keywords": [
+            {
+              "term": "Inverse Relationship",
+              "definition": "The mathematical connection between an exponential function and a logarithmic function with the same base, where one operation 'undoes' the other."
+            },
+            {
+              "term": "Reflection (Graphical)",
+              "definition": "The graph of the inverse function is obtained by reflecting the graph of the original function across the line y = x."
+            }
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Applications",
+          "summary": "This section applies exponential and logarithmic functions to model real-world phenomena. Topics covered include compound interest (with formulas for different compounding periods, including continuous compounding A = Pe^{rt}), population growth (modeled by P(t) = P_0 e^{kt}), and the pH scale in chemistry (pH = -log[H^+]). The section demonstrates how logarithms are used to solve for variables in the exponent, such as finding the time to double an investment or a population.",
+          "notes": "Compound Interest: A(t) = P(1 + r/n)^{nt}. For continuous compounding, A(t) = Pe^{rt}.\n\nPopulation Growth: P(t) = P_0 e^{kt}, where P_0 is initial population, k is growth rate, t is time.\n\npH Scale: pH = -log[H^+], where [H+] is the hydrogen ion concentration in moles per liter. This is a logarithmic application where the pH is a measure of acidity.",
+          "keywords": [
+            {
+              "term": "Compound Interest",
+              "definition": "Interest calculated on the initial principal, which also includes all of the accumulated interest from previous periods on a deposit or loan."
+            },
+            {
+              "term": "Continuous Compounding",
+              "definition": "The mathematical limit of compound interest as the compounding period becomes infinitesimally small, calculated by A = Pe^{rt}."
+            },
+            {
+              "term": "Exponential Growth",
+              "definition": "A process that increases at a rate proportional to its current value, often modeled by P(t) = P_0 e^{kt}."
+            },
+            {
+              "term": "pH Scale",
+              "definition": "A logarithmic scale used to specify the acidity or basicity of an aqueous solution, defined as pH = -log[H+]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Trigonometric Functions",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Radian Measure of angle",
+          "summary": "This section introduces the concept of angle measurement and the two primary units: degrees and radians. It defines an angle, the initial and terminal sides, and positive/negative rotation (anticlockwise/clockwise). An angle in standard position has its vertex at the origin and initial side on the positive x-axis. The radian is defined as the angle subtended at the center of a circle by an arc equal in length to the circle's radius (l = rθ). The key conversion between degrees and radians is established: π radians = 180°. Therefore, to convert degrees to radians, multiply by π/180, and to convert radians to degrees, multiply by 180/π.",
+          "notes": "An angle is the measure of rotation of a ray about its vertex. Positive angles are formed by anticlockwise rotation; negative angles by clockwise rotation.\n\nAn angle is in standard position if its vertex is at the origin and its initial side lies on the positive x-axis.\n\nDegree measure: 1° = 1/360 of a complete revolution. Subdivisions are minutes (') and seconds ('').\n\nRadian measure: 1 radian is the angle subtended by an arc of length equal to the radius. The formula relating arc length, radius, and angle is l = rθ (where θ is in radians).\n\nConversion:\nRadian measure = (π / 180) * Degree measure\nDegree measure = (180 / π) * Radian measure",
+          "keywords": [
+            {
+              "term": "Angle",
+              "definition": "The measure of rotation of a ray about its initial point (vertex) from an initial side to a terminal side."
+            },
+            {
+              "term": "Standard Position",
+              "definition": "The position of an angle where its vertex is at the origin of a coordinate system and its initial side lies on the positive x-axis."
+            },
+            {
+              "term": "Degree",
+              "definition": "A unit of angle measure equal to 1/360 of a complete revolution."
+            },
+            {
+              "term": "Radian",
+              "definition": "The angle subtended at the center of a circle by an arc whose length is equal to the radius of the circle."
+            },
+            {
+              "term": "Initial Side",
+              "definition": "The starting ray of an angle before rotation."
+            },
+            {
+              "term": "Terminal Side",
+              "definition": "The final ray of an angle after rotation from the initial side."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Basic Trigonometric Function",
+          "summary": "This section extends the concept of trigonometric ratios from right-angled triangles (sin, cos, tan) to trigonometric functions for any angle. It introduces the unit circle as a tool to define the sine and cosine of any real number angle: cos x is the x-coordinate and sin x is the y-coordinate of a point on the unit circle. The section defines reciprocal trigonometric functions (secant, cosecant, cotangent) and discusses the signs of trigonometric functions in the four quadrants. It covers key concepts like complementary angles, supplementary angles, reference angles, and coterminal angles, which are essential for evaluating trigonometric functions for any angle. The section also introduces the graphs of sine, cosine, and tangent functions, detailing their domains, ranges, periods, and key characteristics.",
+          "notes": "The unit circle (radius 1, center at origin) defines trigonometric functions for any angle. For angle θ, the corresponding point P on the unit circle has coordinates (cos θ, sin θ).\n\nReciprocal Functions:\n- sec θ = 1/cos θ\n- csc θ = 1/sin θ\n- cot θ = 1/tan θ = cos θ / sin θ\n\nSigns in Quadrants (ASTC rule):\n- Quadrant I: all functions positive.\n- Quadrant II: sin and its reciprocal positive (csc), others negative.\n- Quadrant III: tan and its reciprocal positive (cot), others negative.\n- Quadrant IV: cos and its reciprocal positive (sec), others negative.\n\nReference Angle: The acute angle formed by the terminal side of an angle θ and the x-axis. It is used to evaluate trigonometric functions for angles in any quadrant.\n\nCoterminal Angles: Angles that share the same terminal side. They are found by adding or subtracting multiples of 360° (or 2π radians).\n\nGraph of sin x: Domain R, Range [-1,1]. Period 360° (2π).\nGraph of cos x: Domain R, Range [-1,1]. Period 360° (2π).\nGraph of tan x: Domain {x | x ≠ π/2 + nπ, n∈Z}, Range R. Period 180° (π).",
+          "keywords": [
+            {
+              "term": "Unit Circle",
+              "definition": "A circle with a radius of one, centered at the origin of the coordinate plane, used to define trigonometric functions."
+            },
+            {
+              "term": "Sine (sin)",
+              "definition": "In a right triangle, it is the ratio of the length of the side opposite the angle to the length of the hypotenuse. In the unit circle, it is the y-coordinate of a point."
+            },
+            {
+              "term": "Cosine (cos)",
+              "definition": "In a right triangle, it is the ratio of the length of the side adjacent to the angle to the length of the hypotenuse. In the unit circle, it is the x-coordinate of a point."
+            },
+            {
+              "term": "Tangent (tan)",
+              "definition": "In a right triangle, it is the ratio of the length of the opposite side to the adjacent side. In the unit circle, it is sin/cos."
+            },
+            {
+              "term": "Secant (sec)",
+              "definition": "The reciprocal of cosine: sec θ = 1 / cos θ."
+            },
+            {
+              "term": "Cosecant (csc)",
+              "definition": "The reciprocal of sine: csc θ = 1 / sin θ."
+            },
+            {
+              "term": "Cotangent (cot)",
+              "definition": "The reciprocal of tangent: cot θ = 1 / tan θ = cos θ / sin θ."
+            },
+            {
+              "term": "Reference Angle",
+              "definition": "The acute angle formed by the terminal side of an angle and the x-axis. It is used to find the trigonometric values of angles in different quadrants."
+            },
+            {
+              "term": "Coterminal Angles",
+              "definition": "Angles that share the same initial and terminal sides. They differ by multiples of 360° (2π radians)."
+            },
+            {
+              "term": "Periodic Function",
+              "definition": "A function that repeats its values at regular intervals. The sine, cosine, and tangent functions are periodic."
+            },
+            {
+              "term": "Period",
+              "definition": "The smallest positive interval over which a periodic function repeats its values. The period of sine and cosine is 2π, and of tangent is π."
+            },
+            {
+              "term": "Amplitude",
+              "definition": "The maximum absolute value of a periodic function. The amplitude of sine and cosine is 1."
+            },
+            {
+              "term": "Complementary Angles",
+              "definition": "Two angles whose sum is 90° (π/2 radians)."
+            },
+            {
+              "term": "Supplementary Angles",
+              "definition": "Two angles whose sum is 180° (π radians)."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Trigonometric Identities & Equation",
+          "summary": "This section focuses on trigonometric identities and equations. The three fundamental Pythagorean identities are derived from the unit circle: sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, and 1 + cot²θ = csc²θ. It then covers formulas for addition and subtraction of angles (sin(α ± β), cos(α ± β)), double-angle formulas (sin 2θ, cos 2θ), and half-angle formulas (sin(θ/2), cos(θ/2)). The section also demonstrates how to solve trigonometric equations by using algebraic methods, trigonometric identities, and finding reference angles, often over specified intervals.",
+          "notes": "Pythagorean Identities:\n- sin²θ + cos²θ = 1\n- 1 + tan²θ = sec²θ\n- 1 + cot²θ = csc²θ\n\nAddition/Subtraction Formulas:\n- sin(α ± β) = sin α cos β ± cos α sin β\n- cos(α ± β) = cos α cos β ∓ sin α sin β\n\nDouble Angle Formulas:\n- sin 2θ = 2 sin θ cos θ\n- cos 2θ = cos²θ - sin²θ = 1 - 2sin²θ = 2cos²θ - 1\n\nHalf Angle Formulas:\n- sin(θ/2) = ±√((1 - cos θ)/2)\n- cos(θ/2) = ±√((1 + cos θ)/2)\nThe sign depends on the quadrant of θ/2.\n\nSolving Trigonometric Equations:\n1. Isolate the trigonometric function.\n2. Use identities to simplify if needed.\n3. Find the reference angle (acute).\n4. Determine the solutions based on the sign and the given interval.\n5. Add the period to find all general solutions.",
+          "keywords": [
+            {
+              "term": "Trigonometric Identity",
+              "definition": "An equation that is true for all values of the variable for which both sides of the equation are defined."
+            },
+            {
+              "term": "Pythagorean Identity",
+              "definition": "A fundamental trigonometric identity derived from the Pythagorean theorem, such as sin²θ + cos²θ = 1."
+            },
+            {
+              "term": "Double-Angle Formula",
+              "definition": "Formulas that relate trigonometric functions of an angle 2θ to functions of θ."
+            },
+            {
+              "term": "Half-Angle Formula",
+              "definition": "Formulas that relate trigonometric functions of an angle θ/2 to functions of θ."
+            },
+            {
+              "term": "Trigonometric Equation",
+              "definition": "An equation involving trigonometric functions of an unknown angle. The solution often involves finding angles that satisfy the equation."
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Application",
+          "summary": "This section applies trigonometric functions to solve real-world problems involving right triangles. The primary applications are related to angles of elevation and depression. The angle of elevation is the angle above the horizontal line of sight to an object, while the angle of depression is the angle below the horizontal line of sight. Problems involve using trigonometric ratios (sine, cosine, tangent) to find unknown heights or distances. For example, finding the height of a tree or cliff given a distance and an angle of elevation, or finding the distance to an object given a height and angle of depression.",
+          "notes": "Angle of Elevation: The angle from the horizontal upward to an object.\nAngle of Depression: The angle from the horizontal downward to an object.\n\nThese problems typically involve setting up a right-angled triangle where the horizontal distance is the adjacent side, the vertical height is the opposite side, and the line of sight is the hypotenuse. The appropriate trigonometric ratio is then used to solve for the unknown length.",
+          "keywords": [
+            {
+              "term": "Angle of Elevation",
+              "definition": "The angle formed by a line of sight and the horizontal plane, when the object being viewed is above the observer."
+            },
+            {
+              "term": "Angle of Depression",
+              "definition": "The angle formed by a line of sight and the horizontal plane, when the object being viewed is below the observer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Circles",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Symmetrical properties of circles",
+          "summary": "This section establishes the fundamental symmetrical properties of a circle. A circle is defined as the locus of points equidistant from a fixed point (center). A key property is that any diameter is a line of symmetry, meaning the circle can be folded along a diameter and the two halves will perfectly coincide. The section then presents and proves several theorems about chords: the perpendicular from the center to a chord bisects the chord; equal chords are equidistant from the center; and chords of equal length subtend equal angles at the center, and vice versa.",
+          "notes": "A circle is defined by its center O and radius r. A diameter is a line segment that passes through the center and whose endpoints are on the circle.\n\nThe symmetrical properties are based on the fact that any diameter is an axis of symmetry.\n\nTheorem 5.1: The line from the center to the midpoint of a chord is perpendicular to the chord.\nTheorem 5.2: The line from the center perpendicular to a chord bisects the chord.\nTheorem 5.3: Equal chords of a circle are equidistant from the center.\nTheorem 5.4: Equal angles at the center subtend equal chords.\nTheorem 5.5: Equal chords subtend equal angles at the center.",
+          "keywords": [
+            {
+              "term": "Circle",
+              "definition": "A closed curve where every point is at a fixed distance (radius) from a central point (center)."
+            },
+            {
+              "term": "Center of a Circle",
+              "definition": "The fixed point inside a circle from which all points on the circle are equidistant."
+            },
+            {
+              "term": "Radius",
+              "definition": "The distance from the center of a circle to any point on the circle. It is also a line segment with endpoints at the center and a point on the circle."
+            },
+            {
+              "term": "Diameter",
+              "definition": "A line segment that passes through the center of a circle and has endpoints on the circle. It is twice the radius."
+            },
+            {
+              "term": "Chord",
+              "definition": "A line segment with both endpoints on the circumference of a circle."
+            },
+            {
+              "term": "Line of Symmetry",
+              "definition": "A line that divides a figure into two identical parts, such that one part is a mirror image of the other."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Angle properties of circles",
+          "summary": "This section explores the relationships between angles in a circle. It defines and distinguishes between central angles (vertex at the center) and inscribed angles (vertex on the circle). The central angle is a key theorem (Theorem 5.6) stating that an inscribed angle is half the measure of its intercepted central angle. This leads to the Inscribed Angle Theorem, which states that angles subtended by the same arc are equal (Theorem 5.7). A crucial corollary is Thales' Theorem (Theorem 5.8), which states that any angle inscribed in a semicircle is a right angle. The section also covers cyclic quadrilaterals (Theorem 5.9), proving that their opposite angles are supplementary (sum to 180°).",
+          "notes": "Central Angle: Vertex at the center of the circle. Its measure equals the measure of its intercepted arc.\nInscribed Angle: Vertex on the circle. Its sides are chords. Its measure is half of its intercepted arc.\n\nTheorem 5.6: The measure of an inscribed angle is half the measure of its intercepted central angle.\nTheorem 5.7: Inscribed angles that intercept the same arc are equal.\nTheorem 5.8 (Thales' Theorem): An angle inscribed in a semicircle is a right angle (90°).\nTheorem 5.9: In a cyclic quadrilateral, the sum of a pair of opposite angles is 180°.",
+          "keywords": [
+            {
+              "term": "Central Angle",
+              "definition": "An angle whose vertex is at the center of a circle and whose sides are radii."
+            },
+            {
+              "term": "Inscribed Angle",
+              "definition": "An angle whose vertex is on the circumference of a circle and whose sides are chords of the circle."
+            },
+            {
+              "term": "Intercepted Arc",
+              "definition": "The arc that lies in the interior of an angle, with endpoints on the angle's sides."
+            },
+            {
+              "term": "Thales' Theorem",
+              "definition": "The theorem stating that an angle inscribed in a semicircle is always a right angle."
+            },
+            {
+              "term": "Cyclic Quadrilateral",
+              "definition": "A quadrilateral whose vertices all lie on the circumference of a single circle."
+            },
+            {
+              "term": "Arc",
+              "definition": "A portion of the circumference of a circle."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Arc length, perimeters and areas of segments and sectors Arc length",
+          "summary": "This section provides formulas for calculating the arc length, perimeter, and area of sectors and segments of a circle. The arc length is a fraction of the circle's circumference, proportional to the central angle: s = rθ (in radians) or s = 2πr * (θ/360) (in degrees). The length of a chord is also given as l = 2r sin(θ/2). The area and perimeter of a sector are found by considering the sector as a fraction of the whole circle, with perimeter = 2r + arc length. The area of a segment is the area of the sector minus the area of the isosceles triangle formed by the two radii and the chord.",
+          "notes": "Arc Length: s = rθ (where θ is in radians). In degrees: s = 2πr * (θ/360).\nChord Length: l = 2r sin(θ/2).\nArea of a Sector: A_sector = (1/2)r²θ (in radians) or A_sector = πr² * (θ/360) (in degrees).\nPerimeter of a Sector: P_sector = 2r + s.\nArea of a Segment: A_segment = A_sector - A_triangle = (1/2)r²(θ - sinθ) (in radians). In degrees: A_segment = πr²*(θ/360) - (1/2)r² sinθ.",
+          "keywords": [
+            {
+              "term": "Arc Length",
+              "definition": "The distance along the circumference of a circle between two points on the circle."
+            },
+            {
+              "term": "Sector",
+              "definition": "A region bounded by two radii and their intercepted arc."
+            },
+            {
+              "term": "Segment (of a circle)",
+              "definition": "A region bounded by a chord and its corresponding arc."
+            },
+            {
+              "term": "Chord Length",
+              "definition": "The straight-line distance between two points on the circle."
+            },
+            {
+              "term": "Major Arc",
+              "definition": "An arc of a circle that is greater than a semicircle (more than 180°)."
+            },
+            {
+              "term": "Minor Arc",
+              "definition": "An arc of a circle that is less than a semicircle (less than 180°)."
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Theorems on angles and arcs determined by lines intersecting inside, on and outside a circle.",
+          "summary": "This section covers theorems for angles formed by intersecting chords, secants, and tangents. For two chords intersecting inside a circle, the measure of an angle formed is half the sum of the measures of the arcs intercepted by the angle and its vertical angle. For secants, tangents, or a secant and tangent intersecting outside a circle, the measure of the angle formed is half the positive difference of the measures of the intercepted arcs. This provides a unified way to calculate angles based on the position of the intersection point relative to the circle.",
+          "notes": "Theorem 5.10 (Inside Circle): If two chords intersect inside a circle, the measure of each angle formed is one-half the sum of the measures of the arcs intercepted by the angle and its vertical angle.\n\nTheorem 5.11 (Outside Circle): If two secants, two tangents, or a secant and a tangent intersect outside a circle, the measure of the angle formed is one-half the positive difference of the measures of the intercepted arcs.",
+          "keywords": [
+            {
+              "term": "Secant",
+              "definition": "A line that intersects a circle at two points."
+            },
+            {
+              "term": "Tangent",
+              "definition": "A line that touches a circle at exactly one point."
+            },
+            {
+              "term": "Intersecting Chords Theorem",
+              "definition": "A theorem stating the product of the lengths of the segments of one chord equals the product of the lengths of the segments of the other when two chords intersect inside a circle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Solid Figures",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Revision of Cylinders and Prisms.",
+          "summary": "This section reviews the definitions and formulas for surface area and volume of prisms and cylinders. A prism is a solid with two congruent parallel bases and lateral faces that are parallelograms (rectangles for a right prism). A cylinder is similar but has circular bases. Formulas for a right prism: Lateral Surface Area (LSA) = perimeter of base (p) * height (h); Total Surface Area (TSA) = LSA + 2 * Base Area (BA); Volume (V) = BA * h. For a right circular cylinder: LSA = 2πrh; TSA = 2πrh + 2πr²; V = πr²h.",
+          "notes": "Prisms and cylinders are solids with uniform cross-sections. Their volume is the product of the base area and the height.\n\nFormulas for Right Prism:\nLSA = p * h\nTSA = LSA + 2BA\nV = BA * h\n\nFormulas for Right Circular Cylinder:\nLSA = 2πrh\nTSA = 2πr² + 2πrh = 2πr(r+h)\nV = πr²h",
+          "keywords": [
+            {
+              "term": "Right Prism",
+              "definition": "A prism where the lateral edges are perpendicular to the bases."
+            },
+            {
+              "term": "Lateral Surface Area (Prism)",
+              "definition": "The sum of the areas of the lateral faces (faces that are not bases)."
+            },
+            {
+              "term": "Total Surface Area (Prism)",
+              "definition": "The sum of the lateral surface area and the area of the two bases."
+            },
+            {
+              "term": "Volume (Prism)",
+              "definition": "The amount of space inside the prism, calculated as Base Area * Height."
+            },
+            {
+              "term": "Right Circular Cylinder",
+              "definition": "A cylinder with circular bases where the line joining the centers of the bases is perpendicular to the bases."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Pyramids, cones and Spheres.",
+          "summary": "This section introduces pyramids, cones, and spheres. A pyramid has a polygonal base and triangular lateral faces meeting at an apex (vertex). A cone has a circular base and a lateral surface meeting at a point. A sphere is a solid with all points equidistant from a center. Formulas for a regular pyramid: LSA = (1/2)pl (where p is base perimeter, l is slant height); TSA = LSA + BA; V = (1/3)BA*h. For a right circular cone: LSA = πrl; TSA = πrl + πr²; V = (1/3)πr²h. For a sphere: Surface Area (SA) = 4πr²; Volume (V) = (4/3)πr³. The section also covers the horizontal cross-sections of pyramids and cones, stating that the ratio of the area of a cross-section to the base area is the square of the ratio of their distances from the vertex (k²/h²).",
+          "notes": "Pyramids and cones have a single vertex opposite the base. Their volume is one-third of the product of the base area and the height.\n\nFormulas for Regular Pyramid:\nLSA = (1/2) * p * l\nTSA = BA + LSA\nV = (1/3) * BA * h\n\nFormulas for Right Circular Cone:\nLSA = πrl\nTSA = πr² + πrl = πr(l+r)\nV = (1/3)πr²h\n\nSphere Formulas:\nSA = 4πr²\nV = (4/3)πr³\n\nCross-Sections: For a pyramid or cone, the ratio of the area of a cross-section parallel to the base to the area of the base is (k/h)², where k is the distance from the vertex to the cross-section and h is the height.",
+          "keywords": [
+            {
+              "term": "Pyramid",
+              "definition": "A solid figure with a polygonal base and triangular faces that meet at a common point (apex)."
+            },
+            {
+              "term": "Apex",
+              "definition": "The vertex of a pyramid or cone that is not part of the base."
+            },
+            {
+              "term": "Slant Height",
+              "definition": "The height of a lateral face of a pyramid or the distance from the vertex to any point on the base circle of a cone."
+            },
+            {
+              "term": "Cone",
+              "definition": "A solid figure with a circular base and a lateral surface that tapers to an apex."
+            },
+            {
+              "term": "Sphere",
+              "definition": "A solid figure where every point on its surface is equidistant from a central point."
+            },
+            {
+              "term": "Great Circle",
+              "definition": "A circle on a sphere whose plane passes through the center of the sphere, dividing it into two hemispheres."
+            },
+            {
+              "term": "Hemisphere",
+              "definition": "Half of a sphere, formed by a plane passing through the sphere's center."
+            },
+            {
+              "term": "Horizontal Cross-Section",
+              "definition": "The intersection of a plane parallel to the base with a pyramid, cone, or other solid."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Frustum of pyramids and cones.",
+          "summary": "This section defines a frustum as the part of a pyramid or cone that remains after cutting it with a plane parallel to the base and removing the top portion. The lateral faces of a frustum are trapeziums (for pyramids) or an annular region (for cones). The formulas for lateral surface area of a regular frustum are derived. For a regular frustum of a pyramid: LSA = (1/2)l(p + p'), where l is the slant height, and p and p' are the perimeters of the larger and smaller bases. For a frustum of a right circular cone: LSA = πl(r + r'). The volume of a frustum is given by V = (1/3)h(A + A' + √(AA')), where h is the height and A and A' are the areas of the two bases.",
+          "notes": "A frustum is created by a cross-section parallel to the base. It has two parallel bases: a larger one from the original solid and a smaller one from the cross-section.\n\nLateral faces of a regular frustum of a pyramid are congruent isosceles trapeziums.\n\nFrustum of a Regular Pyramid:\nLSA = (1/2)l(p + p')\nTSA = LSA + A + A'\nV = (1/3)h(A + A' + √(AA'))\n\nFrustum of a Right Circular Cone:\nLSA = πl(r + r')\nTSA = LSA + πr² + πr'²\nV = (1/3)πh(r² + r'² + rr')",
+          "keywords": [
+            {
+              "term": "Frustum",
+              "definition": "The part of a pyramid or cone that lies between two parallel planes, typically its base and a cross-section parallel to the base."
+            },
+            {
+              "term": "Slant Height (Frustum)",
+              "definition": "The distance along the lateral face of a frustum between the two bases."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Surface areas and volumes of composed solids.",
+          "summary": "This section addresses how to find the total surface area and volume of a solid composed of two or more simpler solids. The strategy is to decompose the solid into its basic components (e.g., cylinders, cones, prisms, spheres). The volume of the composite solid is the sum of the volumes of its parts. The total surface area is the sum of the areas of the exposed surfaces of its parts, ensuring not to double-count the areas where the parts are joined together.",
+          "notes": "A composite solid is a 3D shape made by combining two or more standard solids.\n\nVolume: The total volume is the sum of the volumes of the individual components.\n\nSurface Area: The total surface area is the sum of the exposed surface areas of all the parts. Care must be taken to not include the internal surfaces where two solids are fused together.",
+          "keywords": [
+            {
+              "term": "Composite Solid",
+              "definition": "A three-dimensional object formed by combining two or more solid figures."
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Applications",
+          "summary": "This section provides applications of the formulas for surface area and volume to solve practical problems. Examples include calculating the volume of water a bucket (a frustum) can hold, determining the cost of materials based on surface area, and computing the volume of concrete needed for a structure. It also covers applications like finding the volume of paint needed to coat a surface, and using volume to determine density or other physical properties.",
+          "notes": "Real-world problems often require converting between units (e.g., liters to cubic centimeters) and calculating costs based on surface area or volume.",
+          "keywords": [
+            {
+              "term": "Application Problems (Solid Figures)",
+              "definition": "Real-world scenarios where formulas for surface area and volume of solid figures are used to solve practical problems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Coordinate Geometry",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Distance between two points",
+          "summary": "This section derives the formula for the distance between two points in the Cartesian plane using the Pythagorean Theorem. For points P(x1, y1) and Q(x2, y2), the distance d is given by d = √[(x2 - x1)² + (y2 - y1)²]. The formula is a direct application of right-angled triangle geometry, treating the difference in x-coordinates as one leg and the difference in y-coordinates as the other.",
+          "notes": "The distance between any two points is always positive and symmetric: d(P,Q) = d(Q,P).\n\nFor points that are horizontal (y1 = y2), d = |x2 - x1|. For points that are vertical (x1 = x2), d = |y2 - y1|.",
+          "keywords": [
+            {
+              "term": "Distance Formula",
+              "definition": "A formula used to calculate the straight-line distance between two points in a coordinate plane: d = √[(x2 - x1)² + (y2 - y1)²]."
+            },
+            {
+              "term": "Pythagorean Theorem",
+              "definition": "A theorem in geometry stating that in a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides."
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Division of a line segment.",
+          "summary": "This section presents the section formula for finding the coordinates of a point that divides a line segment internally in a given ratio. If P(x1, y1) and Q(x2, y2) are endpoints, and point R divides PQ in the ratio p:q, then the coordinates of R are R = ((p*x2 + q*x1)/(p+q), (p*y2 + q*y1)/(p+q)). The midpoint formula is a special case where p = q = 1, giving R = ((x1+x2)/2, (y1+y2)/2).",
+          "notes": "Section Formula: R(x, y) = ((p*x2 + q*x1)/(p+q), (p*y2 + q*y1)/(p+q)). This formula is derived using similar triangles.\n\nMidpoint Formula: M(x, y) = ((x1+x2)/2, (y1+y2)/2).",
+          "keywords": [
+            {
+              "term": "Section Formula",
+              "definition": "A formula to find the coordinates of a point that divides a line segment internally in a given ratio."
+            },
+            {
+              "term": "Midpoint Formula",
+              "definition": "A formula used to find the coordinates of the midpoint of a line segment, which is a special case of the section formula with ratio 1:1."
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Equation of a line.",
+          "summary": "This section covers the different forms of the equation of a straight line. It starts with defining the slope (gradient) m of a line as the ratio of the vertical change to the horizontal change between any two points: m = (y2 - y1)/(x2 - x1). It also relates slope to the angle of inclination θ: m = tan θ. The three main forms of a linear equation are presented: the point-slope form (y - y1 = m(x - x1)), the slope-intercept form (y = mx + b, where b is the y-intercept), and the two-point form (y - y1 = (y2 - y1)/(x2 - x1) * (x - x1)). The general form is Ax + By + C = 0.",
+          "notes": "The slope m describes the steepness and direction of a line.\n\nPoint-Slope Form: y - y1 = m(x - x1), used when slope and one point are known.\nSlope-Intercept Form: y = mx + b, used when slope and y-intercept are known.\nTwo-Point Form: y - y1 = ((y2 - y1)/(x2 - x1))(x - x1), used when two points are known.\nGeneral Form: Ax + By + C = 0.",
+          "keywords": [
+            {
+              "term": "Slope (Gradient)",
+              "definition": "A measure of the steepness of a line, calculated as the ratio of the vertical change to the horizontal change between two points."
+            },
+            {
+              "term": "Point-Slope Form",
+              "definition": "A form of the equation of a line given by y - y1 = m(x - x1), where m is the slope and (x1, y1) is a point on the line."
+            },
+            {
+              "term": "Slope-Intercept Form",
+              "definition": "A form of the equation of a line given by y = mx + b, where m is the slope and b is the y-intercept."
+            },
+            {
+              "term": "Two-Point Form",
+              "definition": "A form of the equation of a line given by y - y1 = ((y2 - y1)/(x2 - x1))(x - x1), where (x1, y1) and (x2, y2) are two points on the line."
+            },
+            {
+              "term": "General Form of a Line",
+              "definition": "The standard linear equation Ax + By + C = 0, where A, B, and C are constants."
+            },
+            {
+              "term": "Angle of Inclination",
+              "definition": "The angle θ measured counterclockwise from the positive x-axis to the line."
+            },
+            {
+              "term": "x-intercept",
+              "definition": "The x-coordinate of the point where a line crosses the x-axis (y=0)."
+            },
+            {
+              "term": "y-intercept",
+              "definition": "The y-coordinate of the point where a line crosses the y-axis (x=0)."
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Slopes of parallel and perpendicular lines.",
+          "summary": "This section explores the relationship between the slopes of parallel and perpendicular lines. Two non-vertical lines are parallel if they have the same slope (m1 = m2). Two non-vertical lines are perpendicular if the product of their slopes is -1 (m1 * m2 = -1), meaning they are negative reciprocals of each other.",
+          "notes": "Parallel Lines: Have equal slopes and never intersect.\nPerpendicular Lines: Intersect at a right angle (90°). Their slopes are negative reciprocals.",
+          "keywords": [
+            {
+              "term": "Parallel Lines (Slope)",
+              "definition": "Two or more lines in the same plane that never intersect. They have the same slope."
+            },
+            {
+              "term": "Perpendicular Lines (Slope)",
+              "definition": "Two lines that intersect at a right angle (90°). The product of their slopes is -1."
+            },
+            {
+              "term": "Negative Reciprocal",
+              "definition": "The number obtained by inverting a fraction and changing its sign. For a slope m, its negative reciprocal is -1/m."
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Equation of a Circle.",
+          "summary": "This section derives and presents the equation of a circle in the coordinate plane. The standard form for a circle with center (h, k) and radius r is (x - h)² + (y - k)² = r². When the center is at the origin, this simplifies to x² + y² = r². The section also covers the general form of a circle's equation: x² + y² + lx + my + n = 0, which can be converted to standard form by completing the square to find the center and radius.",
+          "notes": "Standard Form: (x - h)² + (y - k)² = r², where (h,k) is the center and r is the radius.\n\nCenter at Origin: x² + y² = r².\n\nGeneral Form: x² + y² + lx + my + n = 0.\n\nTo find the center and radius from the general form, complete the square for both x and y to rewrite it in standard form.",
+          "keywords": [
+            {
+              "term": "Standard Form of a Circle",
+              "definition": "The equation of a circle expressed as (x - h)² + (y - k)² = r², where (h,k) is the center and r is the radius."
+            },
+            {
+              "term": "General Form of a Circle",
+              "definition": "The expanded form of a circle's equation: x² + y² + lx + my + n = 0."
+            },
+            {
+              "term": "Completing the Square",
+              "definition": "An algebraic technique used to rewrite a quadratic expression in the form (x - h)² + k, which is essential for converting the general form of a circle to its standard form."
+            }
+          ]
+        },
+        {
+          "section_number": "7.6",
+          "section_title": "Applications",
+          "summary": "This section applies the concepts of coordinate geometry to find the area of a triangle and solve geometric problems. The area of a triangle with vertices (x1,y1), (x2,y2), and (x3,y3) is given by A = (1/2) |x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2)|. This formula is used to find the area of triangles in the coordinate plane and to classify triangles as right-angled, isosceles, or equilateral by calculating side lengths and checking slopes.",
+          "notes": "The area formula is derived from the shoelace method or as a determinant. It gives the area of any triangle given its vertices.\n\nCoordinate geometry can be used to classify triangles by calculating the lengths of their sides and the slopes of their sides.",
+          "keywords": [
+            {
+              "term": "Area of a Triangle (Coordinate)",
+              "definition": "The formula to find the area of a triangle from the coordinates of its vertices: A = (1/2) |x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2)|."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

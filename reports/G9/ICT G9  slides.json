@@ -1,0 +1,602 @@
+{
+  "subject": "Information Technology",
+  "grade": 9,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Organization of Files",
+      "sections": [
+        {
+          "section_number": 1.1,
+          "section_title": "Basics of Files and Folders",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Chapter 1: Organization of Files",
+              "content": "Unit Outcomes:\n- Explain file, folder and drive.\n- Manipulate file and folder.\n- Explore drive on computer system.\n\nOverview: This unit introduces files and file organization. It covers manipulating files (creating, copying, renaming, deleting, searching) and using folders to keep files organized."
+            },
+            {
+              "slide_number": 2,
+              "title": "What is a File?",
+              "content": "A file is a collection of data stored in one unit, identified by a filename.\n\nExamples:\n- Word document\n- Spreadsheet\n- PowerPoint presentation\n- Picture\n- Video\n- Audio\n\nFiles are represented by icons (small graphical representations) that help identify the file type or associated program."
+            },
+            {
+              "slide_number": 3,
+              "title": "What is a Folder?",
+              "content": "A folder (also called a directory) is a container used to store related files together.\n\n- A folder can contain another folder inside (called a subfolder).\n- Analogy: Like a manila folder (dossier) in an office used to store papers or reports."
+            },
+            {
+              "slide_number": 4,
+              "title": "Importance of Folders",
+              "content": "Benefits of using folders:\n\n- Keep related files organized together.\n- Makes it easier to locate files.\n- Prevents file clutter.\n- Allows having multiple files with the same name in different folders (e.g., My-letter.doc in 'My Documents' and another in 'Letter collection').\n\nWithout folders, all documents, programs, and operating system files would be located in the same place, requiring each file to have a unique name."
+            }
+          ]
+        },
+        {
+          "section_number": 1.2,
+          "section_title": "Managing Files and Folders",
+          "slides": [
+            {
+              "slide_number": 5,
+              "title": "Introduction to File Explorer",
+              "content": "In Windows, the primary way of interacting with files and folders is through the File Explorer application.\n\nKey parts of File Explorer:\n\n1. Navigation Pane - view and access file/folder structure\n2. Forward and Back buttons - navigate previously opened folders\n3. Ribbon - perform layout, formatting, and sharing tasks\n4. Address bar - go to different folders\n5. Column headings - display and sort files\n6. Search box - search for items in current folder\n7. File and folder listing - displays contents of current folder\n8. Preview/Details pane - preview items without opening\n9. Status bar - displays information about selected folder"
+            },
+            {
+              "slide_number": 6,
+              "title": "Opening File Explorer",
+              "content": "Methods to open File Explorer:\n\n1. Click on the File Explorer icon located in the taskbar.\n2. Click on the Start button and then click on File Explorer.\n3. Use keyboard shortcut: Windows key + E\n\nNote: File Explorer was called Windows Explorer in versions before Windows 10."
+            },
+            {
+              "slide_number": 7,
+              "title": "Creating Files",
+              "content": "A file is created using a computer software program.\n\nExamples:\n- Plain text file: Use Notepad or Notepad++\n- Text document: Use WordPad, Microsoft Word, or LibreOffice Writer\n- Image file: Use Microsoft Paint, Paint 3D, Gimp, or Adobe Photoshop\n\nRemember: The Notepad program saves text files with .txt file extension (plain text with no special formatting)."
+            },
+            {
+              "slide_number": 8,
+              "title": "Creating a New Folder",
+              "content": "Steps to create a new folder:\n\n1. Navigate to the location where you want to create the folder.\n2. In File Explorer, click on the Home menu item.\n3. From the Home tab, click on the New folder button.\n4. Enter the name of your new folder.\n5. Click anywhere outside the text area to complete creation."
+            },
+            {
+              "slide_number": 9,
+              "title": "Copying a File",
+              "content": "Steps to copy a file or multiple files:\n\n1. Go to the files or folders you want to copy.\n2. Highlight the file(s) by clicking once (use Ctrl or Shift keys for multiple files).\n3. Right-click one of the highlighted files and select Copy (or press Ctrl + C).\n4. Open the destination folder, right-click an empty space and choose Paste (or press Ctrl + V).\n\nThis creates a duplicate copy of the file(s) in the new location."
+            },
+            {
+              "slide_number": 10,
+              "title": "Renaming File and Folder",
+              "content": "Methods to rename a file or folder in Windows:\n\nMethod 1: Right-click the file/folder and select Rename from the menu.\n\nMethod 2: Highlight the file/folder and press the F2 key.\n\nMethod 3: Highlight the file/folder and click File at the top of the window, then select Rename.\n\nMethod 4: Single-click to highlight, wait a few seconds, and click the name again (a box will appear to rename).\n\nTo rename multiple files at once:\n1. Select all files you want to rename.\n2. Press F2 and type the new name (e.g., typing 'test' renames files to test, test (1), test (2), etc.)."
+            },
+            {
+              "slide_number": 11,
+              "title": "Accessing Files and Folders",
+              "content": "Methods to navigate to files and folders in File Explorer:\n\n1. Using the Address bar (located at the top of File Explorer) - shows the full path of your current location.\n\n2. Using Forward and Backward buttons - navigate through previously visited folders.\n\n3. Using the Folders/Navigation pane - browse folder structure.\n\n4. Using the Search function - searches file names and contents in the current folder."
+            },
+            {
+              "slide_number": 12,
+              "title": "Displaying Subfolders Using Navigation Pane",
+              "content": "The Navigation pane displays a directory tree of all folders on your computer.\n\nSections in Navigation pane:\n- Quick Access\n- OneDrive\n- This PC\n- Network\n\nTo view a folder's subfolders:\n- Click on the right-pointing triangle (>) next to the folder.\n- The triangle turns into a down-pointing triangle and subfolders will be displayed.\n\nTo hide subfolders:\n- Click on the down-pointing triangle to collapse the folder."
+            },
+            {
+              "slide_number": 13,
+              "title": "Moving Files and Folders",
+              "content": "Methods to move files in Windows:\n\nOption 1: Cut and Paste\n- Select the file, right-click and select Cut (or Ctrl + X).\n- Browse to the destination folder, right-click and select Paste (or Ctrl + V).\n\nOption 2: Drag-and-drop\n- Highlight the files, press and hold the right mouse button, drag to the destination, and select 'Move here' from the menu.\n\nOption 3: Move to Folder command\n- Select the file, click Home menu, select Move to Folder, browse to destination, and click Move.\n\nNote: Moving removes the file from the original location; copying creates a duplicate."
+            },
+            {
+              "slide_number": 14,
+              "title": "Deleting File and Folder",
+              "content": "Methods to delete files or folders:\n\nMethod 1: Delete key\n- Highlight the file/folder and press the Delete key.\n- For permanent deletion (skips Recycle Bin): Hold Shift + Delete.\n\nMethod 2: Right-click method\n- Right-click the file/folder and choose Delete from the pop-up menu.\n\nMethod 3: Home menu\n- Select the file/folder, click Home in the top menu bar, and select Delete.\n\nImportant: Deleted files go to Recycle Bin (unless permanently deleted) and can be restored from there."
+            },
+            {
+              "slide_number": 15,
+              "title": "Searching a File on a Computer",
+              "content": "Methods to search for files in Microsoft Windows:\n\nOption 1: Using Start button\n- Press the Windows key, type part or the entire file name you want to find.\n- In the search results, click the file name to open it.\n\nOption 2: Using File Explorer\n- Open File Explorer, click This PC or a specific drive in the left pane.\n- Near the top-right of File Explorer, click in the Search field and enter part or the entire file name.\n\nYou don't need to know the full file name to search."
+            }
+          ]
+        },
+        {
+          "section_number": 1.3,
+          "section_title": "Computer Drives",
+          "slides": [
+            {
+              "slide_number": 16,
+              "title": "Introduction to Computer Drives",
+              "content": "A drive is a computer hardware component used to store and retrieve data, files, programs, operating system, etc.\n\nTypes of drives:\n- Hard disk drive (HDD) - usually designated as the 'C: drive' (main storage)\n- CD/DVD drive (optical disc drive) - usually designated as 'D: or G: drive'\n- USB flash drive (removable disk) - portable storage device\n\nLinux operating system uses a tree structure starting from root represented by forward slash (/)."
+            },
+            {
+              "slide_number": 17,
+              "title": "Accessing Drives in Windows 10",
+              "content": "To view all mounted or attached drives in Windows 10:\n\n1. Open File Explorer (Windows key + E).\n2. In the left pane, select This PC.\n3. All drives are shown on the right.\n\nNote: Drives are often referred to by their letter (C:, D:, F:, etc.) in Windows.\n\nImportant distinction:\n- Drive: Mechanical or solid-state hardware for storing data\n- Driver: Software code that enables hardware devices to communicate with the operating system"
+            }
+          ]
+        },
+        {
+          "section_number": 1.4,
+          "section_title": "Unit Summary",
+          "slides": [
+            {
+              "slide_number": 18,
+              "title": "Unit 1 Summary - Key Points",
+              "content": "Key concepts covered in this unit:\n\n1. A file is a collection of similar data stored in a computer system (document, picture, audio, video, application, etc.).\n\n2. A folder is a container for files and other folders, helping organize similar files together.\n\n3. File Explorer is the main application for managing files and folders in Windows.\n\n4. Managing files includes: creating, deleting, renaming, sorting, viewing, copying, moving, and searching.\n\n5. Navigation Pane has sections: Quick Access, OneDrive, This PC, and Network.\n\n6. Quick Access allows fast navigation to Desktop, Downloads, Documents, Pictures, and frequently accessed folders."
+            },
+            {
+              "slide_number": 19,
+              "title": "Unit 1 Summary - Navigation and Movement",
+              "content": "Navigation methods in File Explorer:\n\n- Using the Address bar (located at the top)\n- Forward and Backward buttons\n- From the Folders/Navigation pane\n- Using the Search function\n- Clicking the right-pointing triangle next to a folder to view subfolders\n\nMoving files methods:\n- Cut and paste (Ctrl + X / Ctrl + V)\n- Drag-and-drop (right-click and drag)\n- Use the 'Move to Folder' command\n\nRenaming: Use F2 shortcut key after selecting the file/folder.\n\nOpening File Explorer: Use taskbar shortcut, Start menu, or Windows key + E."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Computer Network",
+      "sections": [
+        {
+          "section_number": 2.1,
+          "section_title": "Definition of Network",
+          "slides": [
+            {
+              "slide_number": 20,
+              "title": "Chapter 2: Computer Network",
+              "content": "Unit Outcomes:\n- Define what a computer network is.\n- Identify the building blocks of a computer network.\n- Compare and contrast basic types of networks (LAN, MAN, WAN, Client-Server vs. Peer-to-Peer).\n- Describe topologies of networks.\n- Discuss advantages and disadvantages of networks.\n- Draw simple network diagrams using network device symbols."
+            },
+            {
+              "slide_number": 21,
+              "title": "What is a Network?",
+              "content": "A network is a connection of two or more computers linked together to share resources (printers, files, disks) or allow electronic communications.\n\nExample: Using Bluetooth to share files between mobile phones.\n\nInternet: The largest global network.\n\nA network connects devices like laptops, tablets, mobile phones, and televisions to a central network device, which connects to a global network through an Internet Service Provider (ISP) like Ethio-telecom."
+            }
+          ]
+        },
+        {
+          "section_number": 2.2,
+          "section_title": "Fundamental Elements of Network",
+          "slides": [
+            {
+              "slide_number": 22,
+              "title": "Four Basic Elements of a Network",
+              "content": "Networks are comprised of four basic elements:\n\n1. Hardware: End devices and intermediary devices.\n\n2. Network Software: Manages connected end devices and services the network provides.\n\n3. Protocols: Set of rules to facilitate electronic communication across connected devices.\n\n4. Connection Medium: Wired or wireless media that carries messages between end devices.\n\nAll data networks require these four elements to function."
+            },
+            {
+              "slide_number": 23,
+              "title": "End Devices (Hosts)",
+              "content": "End devices are devices used to send or receive data over the network.\n\n- Sending device: Sender\n- Receiving device: Receiver\n\nExamples of end devices:\n- Computers (desktops, laptops, file servers, web servers)\n- Network printers\n- Security cameras\n- Mobile handheld devices (smartphones, tablets)"
+            },
+            {
+              "slide_number": 24,
+              "title": "Intermediary Devices",
+              "content": "Intermediary devices interconnect end devices and work behind the scenes to ensure data flow.\n\nTypes of intermediary devices:\n\na) Network Interface Card (NIC): Connects a computer to a computer network.\n\nb) Repeater: Extends network coverage by regenerating weak signals.\n\nc) Switch: Interconnects devices (computers, printers, servers) in a network and forwards packets to specific destinations.\n\nd) Router: Connects different networks and selects the best route for messages.\n\ne) Wireless Access Point (WAP): Allows wireless devices to connect to a wired network."
+            },
+            {
+              "slide_number": 25,
+              "title": "Communication Protocol",
+              "content": "A protocol is a set of rules that governs data communications.\n\n- Network devices must follow the same protocols to interact with each other.\n- Protocols are software that instructs network devices on how to connect and interact.\n\nExample: Internet Protocol (IP)\n- Used for addressing network devices.\n- Used for forwarding data from one network to another.\n\nIP and its classes will be studied in detail in Grade 10."
+            },
+            {
+              "slide_number": 26,
+              "title": "Connection Media",
+              "content": "Connection media carry messages from sender to receiver.\n\nTwo types:\n\n1. Wired (Guided) Medium:\n- Uses cables to connect end devices.\n- Copper cables (e.g., Unshielded Twisted-Pair/UTP) - uses electric signals, maximum distance 100 meters.\n- Fiber optic cables - uses light signals, faster and longer distance.\n\n2. Wireless (Unguided) Medium:\n- Communicates through air, water, or vacuum.\n- Radio waves, microwaves, infrared waves, satellite communications."
+            }
+          ]
+        },
+        {
+          "section_number": 2.3,
+          "section_title": "Types of Networks",
+          "slides": [
+            {
+              "slide_number": 27,
+              "title": "Network Classification Categories",
+              "content": "Networks are classified based on four categories:\n\n1. Network media (wired or wireless)\n\n2. Size of the network or geographical coverage (PAN, LAN, MAN, WAN)\n\n3. Topology (bus, mesh, star, ring)\n\n4. Resource security and access (Peer-to-Peer vs. Client-Server)\n\nWired Network (Ethernet):\n- Collection of computers, printers, and devices linked by Ethernet cables.\n- Most common type of Local Area Network (LAN).\n\nWireless Network:\n- Uses high-frequency radio waves rather than wires.\n- Connects through wireless access points (WAP).\n- Allows device sharing without cables and increases mobility."
+            },
+            {
+              "slide_number": 28,
+              "title": "Types of Networks Based on Size",
+              "content": "Networks categorized by geographic area and number of connected computers:\n\n1. PAN (Personal Area Network): Smallest network, organized around one person within a single building. Example: Bluetooth network connecting a computer with peripherals.\n\n2. LAN (Local Area Network): Privately owned network within a single office, building, or campus (few kilometers). Used to share resources (storage, printers, programs, data).\n\n3. MAN (Metropolitan Area Network): Network designed to cover an entire city. Example: A bank connecting three branches in a city.\n\n4. WAN (Wide Area Network): Occupies a very large area such as a country or the entire world. The Internet is the best-known example."
+            },
+            {
+              "slide_number": 29,
+              "title": "Network Topologies",
+              "content": "Network topology defines how various computers or electronic devices (nodes) are connected to one another.\n\nFour typical network topologies:\n\n1. Bus Topology: Uses a long cable (bus) as a backbone connecting all nodes. Easy to install but fault isolation is difficult.\n\n2. Mesh Topology: Each node is connected to every other node. Robust with no traffic congestion, but requires extensive cabling.\n\n3. Star Topology: Each device has a dedicated point-to-point link only to a central controller (switch). Cheaper than mesh and robust, but if the switch fails, the whole network fails.\n\n4. Ring Topology: Each node is directly connected to only its two adjacent neighbors. Easy to install but if one node fails, the whole network fails."
+            },
+            {
+              "slide_number": 30,
+              "title": "Peer-to-Peer Network",
+              "content": "In a Peer-to-Peer network:\n\n- Each machine is a 'peer' and can participate in sharing files or resources.\n- No server is required (no additional cost for a dedicated machine).\n- All computers are equal (hierarchy does not exist).\n- Usually limited to 10 computers or less (difficult to manage beyond this).\n\nAdvantages:\n- Server not required.\n- All computers are equal.\n- No additional cost for a dedicated machine.\n\nDisadvantages:\n- Provides share-level security (trust-based).\n- Can work in small environments only."
+            },
+            {
+              "slide_number": 31,
+              "title": "Client-Server Network",
+              "content": "In a Client-Server network:\n\n- Multiple clients (workstations) connect to at least one central server.\n- Most resources are installed on the server.\n- Clients access resources from the server.\n- Clients function as workstations without sharing resources.\n- Servers are more powerful machines.\n\nAdvantages:\n- Easier to upgrade software applications and files.\n- System-wide services can be provided through server software.\n- Enhanced security (handled by the server).\n\nClient: A computer that requests resources and services.\nServer: A computer that provides services and resources according to client requests."
+            }
+          ]
+        },
+        {
+          "section_number": 2.4,
+          "section_title": "Advantages and Disadvantages of Network",
+          "slides": [
+            {
+              "slide_number": 32,
+              "title": "Advantages of Networks",
+              "content": "Benefits of networking:\n\n1. Sharing data and information: Easily share documents, images, photos, songs, and videos between devices.\n\n2. Communication: Quick communication via chatting, instant messaging (Skype, WhatsApp, Viber), video conferencing, email, TV, and radio.\n\n3. Sharing hardware: Share expensive devices (printers, scanners, storage servers, supercomputers) among all users.\n\n4. Sharing software: Share application software and Internet-based services (e-learning, computer games) for all licensed users.\n\n5. Transferring money: Securely transfer money between banks and users digitally."
+            },
+            {
+              "slide_number": 33,
+              "title": "Disadvantages of Networks",
+              "content": "Potential drawbacks of networking:\n\n1. Virus and malware: Viruses and malware can spread more easily between computers on a network.\n\n2. Vulnerabilities: Remote accessibility introduces new security issues and vulnerabilities to computers, users, and data.\n\n3. Complexity: Networks are complex to set up and manage, requiring experienced or certified personnel.\n\n4. Cost: Setting up, managing, and administering network hardware and software incurs significant costs.\n\n5. Social media effects: Youths and students may waste time on social media and unsafe Internet resources. Cyber threats include cyberbullying, disinformation/misinformation, and identity theft."
+            }
+          ]
+        },
+        {
+          "section_number": 2.5,
+          "section_title": "Unit Summary",
+          "slides": [
+            {
+              "slide_number": 34,
+              "title": "Unit 2 Summary - Key Points",
+              "content": "Summary of main points covered:\n\n- A computer network interconnects two or more computers or devices.\n- Networking hardware includes end devices, intermediate devices, connection media, and protocols.\n- End devices: Senders and receivers capable of composing, sending, and receiving messages.\n- Intermediate devices: Interconnect end devices (NICs, routers, switches, modems, repeaters).\n- Protocols: Common rules to manage communication through a network.\n- Connection media: Wired (guided) and wireless (unguided) media.\n\nBased on size:\n- PAN: Smallest, can be made using Bluetooth.\n- LAN: Larger than PAN, smaller than MAN (office, campus, school).\n- MAN: Covers area of a city.\n- WAN: Covers very large area (the globe)."
+            },
+            {
+              "slide_number": 35,
+              "title": "Unit 2 Summary - Topologies and Resource Access",
+              "content": "Network Topologies:\n\n- Bus: Cheap, computers connected to a common backbone cable.\n- Mesh: Every computer connected to each other independently (needs more cable and ports).\n- Star: All computers connected to a central device (switch); failure of the central device affects the entire network.\n- Ring: Devices connected to two adjacent devices; failure of one node affects the whole network.\n\nResource Security and Access:\n\n- Peer-to-Peer: Resources distributed among peers; each peer can be server and client simultaneously.\n- Client-Server: Resources administered centrally; dedicated servers provide resources, dedicated clients request resources.\n\nAdvantages: Increased communication speed, sharing data, hardware, software.\nDisadvantages: Security concerns, cost for setting up and administration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Application Software",
+      "sections": [
+        {
+          "section_number": 3.1,
+          "section_title": "Using Application Software",
+          "slides": [
+            {
+              "slide_number": 36,
+              "title": "Chapter 3: Application Software",
+              "content": "Unit Outcomes:\n- Indent a paragraph.\n- Align text using icons and formatting menu.\n- Apply bullets and numbers in text.\n- Insert and delete page break and page number.\n- Add and delete headers and footers.\n- Manipulate data in spreadsheet.\n- Create a presentation in PowerPoint."
+            },
+            {
+              "slide_number": 37,
+              "title": "Application Software Overview",
+              "content": "Application software is used by general public users in their daily tasks.\n\nExamples:\n- Word processing software\n- Presentation software\n- Spreadsheet software\n\nApplication software can be:\n- Single program (e.g., Notepad for writing and editing simple text)\n- Software package (collection of programs working together)\n- Software suite (related but independent programs with common user interface, e.g., Microsoft Office Suite)"
+            }
+          ]
+        },
+        {
+          "section_number": 3.2,
+          "section_title": "Word Processing",
+          "slides": [
+            {
+              "slide_number": 38,
+              "title": "Introduction to Word Processing",
+              "content": "Word Processing: The act of using a computer to create, edit, save, and print documents.\n\nDocuments include: reports, letters, memos, newsletters, brochures.\n\nWord Processor Examples:\n- Microsoft Word\n- WordPerfect\n- OpenOffice Writer (free)\n- LibreOffice (free)\n- Google Drive Document\n\nFunctions of word processing software:\n- Creating, editing, saving, printing documents\n- Copying, pasting, moving, deleting text\n- Formatting text (font, bold, underline, italicize)\n- Creating and editing tables\n- Inserting illustrations and photographs\n- Correcting spelling and grammar\n- Providing templates for repetitive tasks"
+            },
+            {
+              "slide_number": 39,
+              "title": "Starting Microsoft Word",
+              "content": "Methods to start Microsoft Office Word:\n\nMethod 1: Click the Start button on the Windows taskbar → Click the tile that represents Microsoft Word → Click on Blank document.\n\nMethod 2: Click the Start button → Type \"Word\" → Click the Word icon to open a new blank document.\n\nWord Interface Elements:\n- Title Bar: Displays file name and software name; includes Minimize, Restore, Close buttons.\n- Quick Access Toolbar: Commands like Save, Undo, Redo.\n- File Tab: New, Open, Save As, Print, Close.\n- Ribbon: Commands needed for your work.\n- Edit Window: Shows the document content.\n- Scroll Bar: Change display position.\n- Status Bar: Displays information about the document.\n- Zoom Slide Control: Change zoom settings.\n- Insertion Point/Cursor: Blinking line indicating where text is inserted.\n- I-beam Pointer: Shows where the mouse pointer is."
+            },
+            {
+              "slide_number": 40,
+              "title": "Paragraph Formatting",
+              "content": "Paragraph formatting commands include:\n\n- Indentation: How far to move the paragraph away from left or right margin.\n- Alignment: Left, Right, Center, or Justified.\n- Bulleting and Numbering: Bulleted lists, numbered lists, multilevel lists.\n- Line and Paragraph Spacing: Space between lines and paragraphs.\n\nMethods for Indentation:\n1. Tab Key method\n2. Ruler method\n3. Indent Command method\n4. Paragraph Dialog Box method\n\nAlignment options:\n- Left Align (Ctrl + L): Text aligned evenly along left margin.\n- Center Align (Ctrl + E): Text centered between margins.\n- Right Align (Ctrl + R): Text aligned evenly along right margin.\n- Justify (Ctrl + J): Text aligned to both margins."
+            },
+            {
+              "slide_number": 41,
+              "title": "Lists in Word",
+              "content": "Two types of lists in Word:\n\n1. Bulleted List: Used to outline, arrange, and emphasize text with symbols.\n\n2. Numbered List: Used to organize text with numbers, letters, or Roman numerals.\n\nCreating a multilevel list:\n- Use Tab key to increase indent level.\n- Use Shift + Tab to decrease indent level.\n- Select the list and click the multilevel list command to change styles.\n\nTip: When editing a list, press Enter to start a new line (automatically gets a bullet or number). Press Enter twice to return to normal formatting."
+            },
+            {
+              "slide_number": 42,
+              "title": "Line and Paragraph Spacing",
+              "content": "Default space between lines: 1.15\nDefault space between paragraphs: 8 points\n\nTo format line spacing:\n1. Select the paragraphs.\n2. On Home tab, click the Line and Paragraph Spacing command.\n3. Select desired line spacing (e.g., 2.0).\n\nTo format paragraph spacing:\n1. Select the paragraphs.\n2. Click the Line and Paragraph Spacing command.\n3. Click Add Space Before Paragraph or Remove Space After Paragraph.\n\nYou can also use Line Spacing Options to open the Paragraph dialog box for more control."
+            },
+            {
+              "slide_number": 43,
+              "title": "Page Breaks",
+              "content": "A page break is the location in a document where one page ends and a new page begins.\n\nTypes:\n- Automatic: Word starts a new page when text reaches the bottom of the page.\n- Manual: You decide where to insert a page break.\n\nTo insert a page break:\n1. Place the insertion point where you want the break.\n2. On Insert tab, click Page Break command (or press Ctrl + Enter).\n\nTo delete a page break:\n1. Show breaks using Show/Hide command on Home tab.\n2. Locate the break and place insertion point at the beginning.\n3. Press Delete key.\n\nBreaks menu includes: Page, Column, and Text Wrapping breaks."
+            },
+            {
+              "slide_number": 44,
+              "title": "Page Numbers, Headers, and Footers",
+              "content": "Page Numbers:\n- Automatically number each page.\n- Placed in header, footer, or side margins.\n- Wide range of formats available.\n\nHeaders and Footers:\n- Header: Appears at the top of each page.\n- Footer: Appears at the bottom of each page.\n- Contain additional information: page numbers, dates, author's name, footnotes.\n\nTo add header/footer:\n1. Double-click at top or bottom margin.\n2. Type the desired information.\n3. Click Close Header and Footer (or press Esc).\n\nTo remove: Click Header or Footer command and select Remove Header/Footer."
+            }
+          ]
+        },
+        {
+          "section_number": 3.3,
+          "section_title": "Manipulating Data in Spreadsheet",
+          "slides": [
+            {
+              "slide_number": 45,
+              "title": "Introduction to Spreadsheet",
+              "content": "Spreadsheet software is used to process tabular data and perform calculations.\n\nMathematical Operators in Excel:\n- + (plus sign): Addition (e.g., =3+3)\n- - (minus sign): Subtraction (e.g., =3-3)\n- * (asterisk): Multiplication (e.g., =3*3)\n- / (forward slash): Division (e.g., =3/3)\n- % (percent sign): Percent (e.g., 30%)\n- ^ (caret): Exponentiation (e.g., =3^3)\n\nAll formulas should begin with an equal sign (=) to distinguish them from data.\n\nTo display formulas: On Formulas tab, click Show Formulas."
+            },
+            {
+              "slide_number": 46,
+              "title": "Cell References in Formulas",
+              "content": "Cell reference: Identifies a cell's location based on its column letter and row number (e.g., A1, E4).\n\nTwo types of cell references:\n\n1. Relative Cell Reference:\n- Adjusts automatically when the formula is copied or moved.\n- Default behavior in Excel.\n- Example: When copied from F2 to F3, =B2+C2+D2+E2 changes to =B3+C3+D3+E3.\n\n2. Absolute Cell Reference:\n- Remains constant even when copied or moved.\n- Use dollar sign ($) before column and row (e.g., $B$9).\n- Press F4 to make a cell reference absolute.\n- Example: $B$9 stays the same when copied to other cells."
+            },
+            {
+              "slide_number": 47,
+              "title": "Copying Formulas with Fill Handle",
+              "content": "Fill Handle: The small square at the bottom-right corner of the selected cell(s).\n\nTo copy a formula:\n1. Select the cell containing the formula.\n2. Click and drag the fill handle over the cells you want to fill.\n\nAlternative: Double-click the fill handle to copy the formula to all cells in the column.\n\nTips:\n- New formulas in Excel use relative references by default.\n- To view a formula in a cell: Double-click the cell.\n- Formulas appear in the formula bar when the cell is selected."
+            }
+          ]
+        },
+        {
+          "section_number": 3.4,
+          "section_title": "Creating Presentation",
+          "slides": [
+            {
+              "slide_number": 48,
+              "title": "Introduction to Presentation Software",
+              "content": "Presentation software is a category of application software designed to display slides using a computer during a presentation.\n\nPopular presentation software:\n- Microsoft PowerPoint\n- Google Slides\n- LibreOffice Impress\n\nPresentations consist of individual pages or slides. Each slide may contain:\n- Text\n- Graphics\n- Sound\n- Movies\n- Other objects\n\nTo open PowerPoint:\n- File tab → New (blank presentation or templates/themes)\n- File tab → Open (existing file)\n- File tab → Recent (recently created presentations)"
+            },
+            {
+              "slide_number": 49,
+              "title": "Working with Slides",
+              "content": "Adding Slides:\n- On Home tab, click New Slide button.\n- Clicking top part: Inserts new slide with default layout.\n- Clicking bottom part: Gives choice of layouts.\n- Shortcut: Ctrl + M\n\nSlide Layouts:\n- Arrangement of all items on the slide (title, graphics, text boxes).\n- Standard layouts available: Title Slide, Title and Content, etc.\n- To change layout: Select slide → Layout button → Choose new layout.\n\nApplying Themes:\n- Go to Design tab.\n- Click on a theme thumbnail to apply.\n- More themes available via scroll bar or Microsoft Office Online."
+            },
+            {
+              "slide_number": 50,
+              "title": "Adding Content to Slides",
+              "content": "Text: Click inside placeholder boxes to add text.\n\nContent icons (on new slide):\n- Table\n- Chart\n- SmartArt\n- Pictures\n- Online Pictures\n- Video\n\nFormatting Bulleted Lists:\n- Click inside text box.\n- Click drop-down triangle next to Bullets button.\n- Adjust: bullet size relative to text, color, shape (picture or character).\n\nChanging Slide Background:\n- Design tab → Background Styles.\n- Choose preset background styles or Format Background for custom options."
+            },
+            {
+              "slide_number": 51,
+              "title": "Viewing and Managing Presentations",
+              "content": "Four ways to view a presentation:\n\n1. Normal View: Single slide view with thumbnails and outline tab. Used for creating and editing slides.\n\n2. Slide Sorter View: Thumbnails of all slides. Reorder slides by dragging and dropping; set timing; hide slides.\n\n3. Notes Page View: Create notes for each slide to use during presentation. Can be printed.\n\n4. Reading View/Slide Show View: Displays slides as audience will see them. Use arrows to advance; press Esc to return.\n\nChanging Order of Slides:\n- In Slide Sorter view or Thumbnail pane, click and drag a slide to a new location.\n- A line shows where the slide will be placed.\n\nSlide Show Tab: Review the slide show from beginning or from current slide; rehearse timings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Image Processing and Multimedia",
+      "sections": [
+        {
+          "section_number": 4.1,
+          "section_title": "Image",
+          "slides": [
+            {
+              "slide_number": 52,
+              "title": "Chapter 4: Image Processing and Multimedia",
+              "content": "Unit Outcomes:\n- Describe image processing.\n- Edit images captured from different sources (digital camera).\n- Use image software to create, import, and save image files.\n- Use image software to resize, cut, and edit images.\n\nMultimedia: A form of communication that combines different content forms (text, audio, image, animation, video) into a single interactive presentation.\n\nImage: A visual representation of a person, animal, or thing in the form of photograph, paint, or electronically stored."
+            },
+            {
+              "slide_number": 53,
+              "title": "Digital Images",
+              "content": "Digital image: An image or picture represented digitally in groups of combinations of bits (0 or 1).\n\n- Computer processes everything as binary digits (bits).\n- Digitizing: Bringing a photo or artwork into digital format.\n- Pixels: The smallest element of an image (picture element).\n\nDigital Image Processing:\n- A computational technique for analyzing, enhancing, compressing, reconstructing, and performing operations on an image.\n- Helps manipulate digital images using computers to enhance quality and improve pictorial information.\n\nProcess starts with:\n1. Importing: Capturing an image through scanner or digital camera.\n2. Analysis and manipulation: Using specialized software.\n3. Output: Printer or monitor."
+            }
+          ]
+        },
+        {
+          "section_number": 4.2,
+          "section_title": "Multimedia Production Planning Strategies",
+          "slides": [
+            {
+              "slide_number": 54,
+              "title": "Multimedia Production Planning",
+              "content": "Multimedia: Using a computer to present, store, transmit, and combine text, graphics, audio, and video with links and tools for user navigation, interaction, creation, and communication.\n\nBefore producing multimedia products (animation, film, movie, book), use planning strategies:\n\nStoryboard: A graphic layout that sequences illustrations and images to tell a story visually.\n\n- Used by film makers and video creators to transfer ideas from mind to screen.\n- Can be created using software or rough sketch with paper and pencil.\n\nStoryboard Elements: Video, sketch, text, audio, photos, physical prototypes for pre-visualization.\n- Visual representation of how a story will play out, scene by scene."
+            }
+          ]
+        },
+        {
+          "section_number": 4.3,
+          "section_title": "Using Image Processing Software",
+          "slides": [
+            {
+              "slide_number": 55,
+              "title": "Introduction to Image Processing Software",
+              "content": "Image processing software is designed to organize, retouch, and edit images saved on CDs/DVDs, scanned in, or transferred from camera to PC.\n\nExamples of image processing software:\n- Photoshop (most popular)\n- MS Paint\n- Gimp (free)\n- Paint 3D\n- Photo Styler\n- Photo Editor\n- Photo Explosion\n\nPhotoshop: A general-purpose application for working with raster-based (pixel) images.\n- Used by photographers, graphic designers, video game artists, advertising and meme designers.\n- Create website layouts, posters, business cards, greeting cards, and attractive graphic designs."
+            },
+            {
+              "slide_number": 56,
+              "title": "Launching Photoshop and Main Interface",
+              "content": "To launch Photoshop:\n1. Click Create New button on Home screen.\n2. Select a template.\n3. Adjust properties (project name, width, height, orientation, resolution, color mode).\n4. Click Create to open the canvas.\n\nImage resolution: Typically described in Pixels per Inch (PPI). Higher resolution = more pixels per inch = higher quality image.\n\nMain Interface Components:\n- Menu Bar: Top options menu.\n- Tool Options Bar: Options for selected tool.\n- Document Window: Shows document identity (name, scaling, color space).\n- Toolbar (Palette): Main editing tools.\n- Document Details: Compressed and real size of document.\n- Active Image: Large area to work on your image.\n- Rulers: Measure exact position; drag guidelines.\n- Palettes: Various interchangeable palettes from Window menu.\n- Layer Palette: Area of current image layer.\n- Layer Option: Add effects, adjustments, layer style."
+            },
+            {
+              "slide_number": 57,
+              "title": "Photoshop Toolbox",
+              "content": "The Toolbox contains main editing tools.\n\nMoving and Selection Tools:\n- Move Tool: Moves layers, selections, guides.\n- Lasso: Free hand selections around objects.\n- Object Selection: Selects objects with rough selection.\n\nCrop and Slice Tools:\n- Crop: Crop image to cut out unwanted areas.\n- Frame: Place image into rectangular or elliptical shapes.\n\nMeasurement Tools:\n- Eyedropper: Samples colors of an image.\n\nRetouching and Painting Tools:\n- Spot Healing Brush: Removes blemishes.\n- Brush: Paint-brush strokes.\n- Clone Stamp: Samples pixels from one area and paints over another.\n- History Brush: Restores part of image to earlier state.\n- Eraser: Erases pixels on a layer.\n- Gradient Tool: Draws gradual blends.\n- Blur: Blurs and softens areas.\n- Dodge: Lightens an area of image."
+            },
+            {
+              "slide_number": 58,
+              "title": "Cropping an Image",
+              "content": "Cropping: Removing portions of a photo to create focus or strengthen composition.\n\nThree methods in Adobe Photoshop:\n\n1. Cropping with Crop Tool:\n- Select Crop Tool from Toolbox.\n- Drag edges to fit desired dimensions.\n- Resize by dragging squares at sides and corners.\n- Press Enter to apply.\n\n2. Cropping to a Specific Size:\n- With Crop Tool selected, specify Width and Height in Tool Options Bar.\n- Drag cropping border (constrained to specified dimensions).\n- Press Enter to apply.\n\n3. Cropping with Marquee Tool:\n- Select Rectangular Marquee Tool.\n- Draw a marquee around the area to crop.\n- Go to Image → Crop."
+            },
+            {
+              "slide_number": 59,
+              "title": "Resizing/Scaling an Image",
+              "content": "Resizing helps:\n- Print images in standard photo sizes.\n- Resize and preserve high quality of digital photos.\n- Enlarge small images to poster size.\n\nSteps to resize in Photoshop:\n1. Open your image.\n2. Go to Image Menu.\n3. Select Image Size.\n4. Choose the size you want.\n5. Click OK.\n6. Save your file."
+            },
+            {
+              "slide_number": 60,
+              "title": "Correction of Image Tone and Color",
+              "content": "Images from digital cameras may have problems: red eye, underexposure, hot spots.\n\nRed Eye Removal:\n1. Open photo.\n2. Use Zoom Tool to zoom in on eyes.\n3. Ensure default Foreground and Background colors are black and white.\n4. Select Red Eye Tool (under Healing Brush Tool).\n5. Click on the red part of the eye and paint.\n\nAdding Flash (Correcting Underexposed Photos):\n1. Open underexposed photo.\n2. Duplicate layer (Ctrl + J).\n3. Make sure new layer is selected.\n4. Go to Image → Adjustments → Exposure.\n5. Adjust exposure amount.\n6. Continue duplicating until satisfied."
+            },
+            {
+              "slide_number": 61,
+              "title": "Hot Spot Removal",
+              "content": "Hot spots: Shiny areas on images created by flash.\n\nSteps to remove hot spots:\n1. Open photo with hot spots.\n2. Duplicate layer and select the copied layer.\n3. Select Clone Stamp Tool from Toolbox.\n4. In Options bar, change Blend Mode from Normal to Darken.\n5. Choose a soft-edged brush (diameter 40-50).\n6. Hold Alt and click to set the reference point (clean area).\n7. Paint over the hot spot; light area will gradually darken.\n\nColor Correction Methods:\n1. Levels: Adjust shadows, highlights, and midtones.\n2. Curves: More powerful than levels for controlling shadows, highlights, and midtones separately.\n3. Saturation: Increase to make colors brighter/vivid; decrease to make colors less vivid.\n4. Auto-adjustment tools: Auto Color, etc."
+            },
+            {
+              "slide_number": 62,
+              "title": "Image Sharpening",
+              "content": "Sharpening makes an image look crisp and clear by enhancing the edges of objects.\n\nMethods in Adobe Photoshop:\n\n1. Unsharp Mask:\n- Duplicate background layer.\n- Go to Filter → Sharpen → Unsharp Mask.\n- Adjust Amount, Radius, and Threshold:\n  * Amount: How much sharpness will be applied.\n  * Radius: Controls size of details to be sharpened (0.3-0.5 recommended).\n  * Threshold: Reduces image noise (0 recommended).\n\n2. Smart Sharpen:\n- Similar to Unsharp Mask but includes noise reduction.\n- Amount: 150%, Radius: 1-2.\n\n3. High Pass:\n- Convert background layer to Smart Object.\n- Go to Filter → Other → High Pass.\n- Adjust radius to highlight edges (2-5).\n- Change blend mode to Overlay or Soft Light for sharpening effect.\n- Fine-tune with Opacity adjustment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Information and Computer Security",
+      "sections": [
+        {
+          "section_number": 5.1,
+          "section_title": "Definition of Security",
+          "slides": [
+            {
+              "slide_number": 63,
+              "title": "Chapter 5: Information and Computer Security",
+              "content": "Unit Outcomes:\n- Explain computer and information security.\n- Explain confidentiality, availability, and integrity of information systems.\n- Discuss computer security threats.\n- Explain basic security threats and prevention strategies.\n- Evaluate confidentiality, availability, and integrity of a school-based information system."
+            },
+            {
+              "slide_number": 64,
+              "title": "What is Security?",
+              "content": "Security: The quality or state of being secure.\n- Freedom from danger (safety).\n- Freedom from fear or anxiety.\n- Protection and measures taken to guard against sabotage, crime, attack, or escape.\n\nComputer Security: The protection of computer systems and information from harm, theft, and unauthorized use.\n\nUnauthorized Use: Accessing or using something without permission (e.g., using a textbook during an examination).\n\nComputer Security Types:\n- Information Security: Securing information from unauthorized access, modification, and deletion.\n- Application Security: Securing applications to prevent cyber threats.\n- Mobile and Computer Security: Securing handheld devices and standalone machines.\n- Network Security: Securing software and hardware technologies (firewalls).\n- Cyber Security: Protecting computer systems that communicate over networks.\n\n90/10 Rule: 10% of security countermeasures are technical; 90% depend on following good computer practices."
+            }
+          ]
+        },
+        {
+          "section_number": 5.2,
+          "section_title": "Principles of Computer Security",
+          "slides": [
+            {
+              "slide_number": 65,
+              "title": "The CIA Triad",
+              "content": "Computer security is mainly concerned with three main areas (CIA Triad):\n\n1. Confidentiality:\n- Ensuring information is available only to intended audience.\n- Only authorized users and processes should access or modify data.\n- Related concept: Privacy (protecting personal data).\n\n2. Integrity:\n- Data can be trusted.\n- Data should be maintained in a correct state.\n- Data should be correct, authentic, and reliable.\n\n3. Availability:\n- Ensuring information is available to authorized users whenever required.\n- Keeping systems, networks, and devices up and running.\n\nThe CIA model shows security as a triangle with three constraints.\n\nOrganizations prioritize based on their needs:\n- Schools: Focus on integrity and availability (trustworthy knowledge resources available to students).\n- Military: Focus on confidentiality and integrity."
+            }
+          ]
+        },
+        {
+          "section_number": 5.3,
+          "section_title": "Computer Security Threats",
+          "slides": [
+            {
+              "slide_number": 66,
+              "title": "Natural Threats",
+              "content": "Natural hazards can cause physical damage and data loss.\n\n1. Fire:\n- Direct damage from flames.\n- Heat can melt sensitive components.\n- Smoke can damage the CPU fan and cause overheating.\n- Always get to a safe place first.\n\n2. Extreme Temperature:\n- Computers function within a moderate temperature range.\n- Excessive heat or cold can cause components to malfunction or break.\n- Allow computer to return to room temperature before use.\n\n3. Lightning Strikes:\n- Create electric surges (spikes) that amplify voltage.\n- Surges can destroy crucial components (motherboard)."
+            },
+            {
+              "slide_number": 67,
+              "title": "Artificial Threats - Cyber Attacks",
+              "content": "Major types of cyber-attacks:\n\n1. Denial of Service (DoS): Flooding targets with requests, stopping regular users from connecting to services.\n\n2. Malware Attack: Malicious software including:\n- Trojan horse: Masks as legitimate program to steal/damage data.\n- Virus: Replicates to change program functioning.\n- Key logger: Records keyboard movements to steal passwords.\n- Worm: Infects through network devices.\n- Adware: Pop-up advertisements that can become malicious.\n- Botnet: Network of infected machines controlled remotely.\n- Spyware: Tracks user movements secretly.\n- Ransomware: Locks files and demands ransom.\n\n3. Man in the Middle: Intercepting communication between people to steal data.\n\n4. Phishing: Fraudulent communications (usually email) from reputable sources to steal sensitive data."
+            },
+            {
+              "slide_number": 68,
+              "title": "More Cyber Attacks and Threats",
+              "content": "5. Eavesdropping (Sniffing/Snooping):\n- Intercepts, deletes, or modifies transmitted data.\n- Occurs on unsecured network communications.\n- Can be difficult to spot.\n\n6. SQL Injection: Injecting unauthorized input into SQL statements.\n\n7. Password Attack:\n- Dictionary attack: Trying different possible passwords.\n- Brute force: Trial and error to decode passwords.\n- Key-logger: Tracking keyboard movements.\n- Shoulder surfing: Physical observation over the user's shoulder.\n- Rainbow table: Pre-computed hash values to find passwords.\n\n8. Social Engineering: Creating social situations to get information (e.g., fake calls from \"mobile company\")."
+            },
+            {
+              "slide_number": 69,
+              "title": "Threats to Youth Online",
+              "content": "Internet challenges for kids and youth:\n\n1. Cyber Bullying: Ridiculing or humiliating young kids on social media and online game platforms.\n- Sending, posting, or sharing negative/harmful content.\n- Can be unlawful or criminal behavior.\n\n2. Cyber Predators: People who use the Internet to exploit younger people (often for sexual purposes).\n- Pretend to be someone else.\n- Lie about details to gain trust.\n\n3. Posting Private Information: Sharing personally identifiable information online that should not be public.\n\nWho is behind cyber-attacks?\n- Online criminals\n- Hackers\n- Malicious insiders\n- Honest mistakes\n- School pupils/students\n\nNote: The Internet provides many benefits but also requires safe use practices."
+            }
+          ]
+        },
+        {
+          "section_number": 5.4,
+          "section_title": "Potential Losses Due to Security Attacks",
+          "slides": [
+            {
+              "slide_number": 70,
+              "title": "Impacts of Security Attacks",
+              "content": "Security threats have psychological, financial, legal, or political impacts:\n\n1. Destruction or loss of information: System component destruction or data loss (e.g., hard disk failure).\n\n2. Corruption of information: Unauthorized alteration of files (e.g., changing student marks).\n\n3. Theft of services: Unauthorized use of computer or network services (e.g., using school Internet for marketing).\n\n4. Illegal usage: Using normal system functions for other purposes (e.g., dispatching conflict-promoting texts using school internet).\n\n5. Disclosure of information: Disseminating information to unauthorized persons (e.g., posting private school notices on social media).\n\n6. Denial of use: Intentional degradation of computer/network resources (DoS).\n\n7. Elevation of privilege: Gaining rights that should not be available (e.g., student accessing teacher's account with easily guessable passwords)."
+            }
+          ]
+        },
+        {
+          "section_number": 5.5,
+          "section_title": "How to Secure Yourself and Your Computer Systems",
+          "slides": [
+            {
+              "slide_number": 71,
+              "title": "Security Awareness for Students",
+              "content": "Key points for safe Internet use:\n\n- The Internet is a powerful tool that should be used wisely.\n- It allows access to vast resources and communication worldwide.\n- Not all Internet information is valid or appropriate.\n- Sexually explicit materials or violent images can affect students negatively.\n- Sexual predators will try to convince students to trust them.\n- Internet messages and people are not always what they seem.\n- Students need to know which information is safe to share online.\n\nSafe Practices:\n- Never reveal online information about where you live or attend school.\n- Be aware that electronic messages leave footprints that can be misused.\n- Predators and cyber bullies hide themselves and manipulate students.\n- Sexual predators deceive by pretending to be students.\n- Bullies use Internet tools to harass or spread false rumors.\n- Posting personal information and pictures can allow predators to contact you.\n- Photos posted online can be easily misused or altered."
+            },
+            {
+              "slide_number": 72,
+              "title": "Preventive Steps for Computer Security",
+              "content": "Preventive steps for secure computer system and safe Internet use:\n\nPhysical Security:\n- Install reliable security and anti-virus software.\n- Activate your firewall.\n- Stay up-to-date with software updates.\n- Avoid clicking on email attachments unless you know the source.\n\nPassword Security:\n- Change passwords regularly.\n- Use unique combination of numbers and letters (capital and small).\n- Have at least 15 characters.\n- Use different passwords for different accounts.\n\nSafe Internet Practices:\n- Use the Internet with caution.\n- Ignore pop-ups and drive-by downloads while surfing.\n- Perform daily full system scans.\n- Create a periodic system backup schedule.\n\nRemember: 90% of security safeguards rely on you to adhere to good computing practices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Fundamentals of Programming",
+      "sections": [
+        {
+          "section_number": 6.1,
+          "section_title": "Defining a Problem and Computational Problem",
+          "slides": [
+            {
+              "slide_number": 73,
+              "title": "Chapter 6: Fundamentals of Programming",
+              "content": "Unit Outcomes:\n- Describe problem solving techniques.\n- Compare and contrast steps of problem solving techniques.\n- Use top-down and bottom-up problem solving techniques.\n- Evaluate simple algorithms represented in flowcharts and pseudocodes."
+            },
+            {
+              "slide_number": 74,
+              "title": "Understanding Problems",
+              "content": "Problem: A difficulty to understand something, a matter difficult to solve, a doubtful case, or a complex task involving doubt and uncertainty.\n\nComputational Problem: A problem that can be solved systematically (step-by-step) with a computer.\n\nTypes of Computational Problems:\n\n1. Decision Problem: Answer is Yes or No.\n- Example: \"Given an integer n, is n even?\"\n\n2. Search Problem: Solution consists of one or more values that satisfy a condition.\n- Example: Finding a name from a list of names.\n\n3. Counting Problem: Answer is a number of solutions to a search problem.\n- Example: Counting the number of female students from a list.\n\n4. Optimization Problem: Solution is the \"best\" possible solution.\n- Example: Computing the fastest route from one location to another."
+            }
+          ]
+        },
+        {
+          "section_number": 6.2,
+          "section_title": "Steps in Problem Solving",
+          "slides": [
+            {
+              "slide_number": 75,
+              "title": "Polya's Problem Solving Method",
+              "content": "George Polya's four-step method for problem solving:\n\n1. Understand the problem:\n- Figure out what is being asked.\n- What is known? What is not known?\n- What type of answer is required?\n- Is it similar to other problems?\n\n2. Make a plan:\n- Come up with strategies: making a list, drawing a picture, eliminating possibilities, using a formula, guessing and checking, solving a simpler problem.\n\n3. Execute the plan:\n- Use the strategy chosen in step 2.\n- If difficulties arise, use resources or select a different strategy.\n\n4. Review and extend:\n- Check your answer (preferably using a different method).\n- Evaluate the method used. Was it effective?\n- Identify other problems where this method could be applied.\n\nYou may need to go back and forth through the steps."
+            },
+            {
+              "slide_number": 76,
+              "title": "Problem Solving in Computer Science",
+              "content": "Polya's four stages adapted for computer science:\n\n1. Understand the problem.\n\n2. Develop an algorithm:\n- An algorithm is a sequence of clearly defined steps with a clear start and end point.\n- It's a precise sequence of instructions for solving a problem.\n- Algorithms specify a multistep task to explain to another person or machine how to carry out steps.\n\nExample: Algorithm to calculate average of 10 numbers:\n- Step 1: Get the 10 numbers.\n- Step 2: Get SUM by adding the 10 numbers.\n- Step 3: Get AVERAGE by dividing SUM by 10.\n- Step 4: Report AVERAGE as a result.\n\n3. Write the program:\n- A program is a sequence of instructions written using a programming language.\n- Computers do not understand human languages (English, Amharic, etc.).\n\n4. Test the program.\n\nComputer Information Processing Model: Input → Process → Output"
+            }
+          ]
+        },
+        {
+          "section_number": 6.3,
+          "section_title": "Working with Flowcharts and Block Programming",
+          "slides": [
+            {
+              "slide_number": 77,
+              "title": "Flowcharts and Pseudocode",
+              "content": "Flowchart: Represents an algorithm graphically using boxes of various kinds, ellipses, and arrows as connectors.\n\nPseudocode: Represents an algorithm with a simple and concise sequence of English-like instructions.\n\nBasic Flowchart Symbols:\n- Start/End (Terminator): Beginning or ending point.\n- Action/Process (Rectangle): A single step or sub-process.\n- Decision (Diamond): A decision or branching point.\n- Input/Output (Parallelogram): Information entering or leaving the system.\n- Connector (Circle): Indicates flow continues elsewhere.\n- Flow Line (Arrow): Indicates sequence and direction.\n- Subroutine (Module): Sequence of actions performing a specific task.\n\nFlowcharts are visually appealing and easier to understand; pseudocode is closer to program instructions."
+            },
+            {
+              "slide_number": 78,
+              "title": "Flow of Instructions",
+              "content": "Three types of flow of instruction processing:\n\n1. Sequence: Execute instructions top-down in the order they are placed.\n\n2. Selection/Condition: Execute or jump instructions depending on the outcome of a decision.\n\n3. Repetition: Repeatedly execute instructions for a fixed number of times or until a condition occurs.\n\nTools for Learning Programming:\n\nFlowchart-based Programming Environment:\n- Flowgorithm (http://www.flowgorithm.org)\n- Raptor (https://raptor.martincarlisle.com/)\n\nBlock-based Programming Environment:\n- Scratch (https://scratch.mit.edu/)\n- Blockly (https://developers.google.com/blockly)\n\nFlowgorithm combines classic flowchart symbols with common repetition flows.\nScratch is a high-level block-based visual programming language designed as an educational tool."
+            },
+            {
+              "slide_number": 79,
+              "title": "Scratch Programming",
+              "content": "Scratch is a block-based visual programming language.\n\nMain elements:\n- Stage: Where the action happens.\n- Sprite: Actors or main characters of the project.\n- Programming Palette: Categories: Motion, Looks, Sounds, Events, Control, Sensing, Operators, Variables.\n- Script: Developed by dragging graphic objects from the pallet to tell sprites what to do.\n\nExample Script: To move sprite 10 steps when the green flag is clicked:\n1. From Events, drag \"When Green Flag Clicked\" block to script area.\n2. From Motion, drag \"Move 10 Steps\" and attach it below.\n\nControl blocks:\n- if, if...else: Decision making.\n- forever, repeat, repeat until: Repetition.\n- when Green Flag Clicked: Event trigger."
+            },
+            {
+              "slide_number": 80,
+              "title": "Flowgorithm Examples",
+              "content": "Example 1: Even or Odd Check\n- Declare variable 'number'.\n- Output prompt \"Enter an integer:\".\n- Input 'number'.\n- Decision: number % 2 = 0 (Check if remainder is 0).\n- If True: Output \"number is even\".\n- If False: Output \"number is odd\".\n\nExample 2: Display Even Numbers Less Than 10\n- Declare variable 'num'.\n- Assign num = 2.\n- While num < 10:\n  - Output num.\n  - num = num + 2.\n\nNote: The modulo-divide operator (%) gives the remainder of integer division. This is the same as MOD in Excel."
+            }
+          ]
+        },
+        {
+          "section_number": 6.4,
+          "section_title": "Problem Solving Approaches",
+          "slides": [
+            {
+              "slide_number": 81,
+              "title": "Top-Down Approach",
+              "content": "Top-down approach:\n- Starts by implementing the most general modules.\n- Works toward implementing specific functionality.\n- A bigger problem is divided into smaller, manageable sub-problems.\n- Sub-problems are solved individually and then integrated.\n\nModularization: The process of dividing the problem into smaller problems.\n- Each solution for a smaller problem is called a module.\n\nExample: Wage calculation for 10 laborers\n- Module 1: CalculateWage - calculates net pay for one laborer.\n- Module 2: Main module - calls CalculateWage inside a loop to calculate 10 wages.\n\nThis approach makes complex problems easier to manage and solve."
+            },
+            {
+              "slide_number": 82,
+              "title": "Bottom-Up Approach",
+              "content": "Bottom-up approach:\n- Works opposite to top-down approach.\n- Starts with designing the most fundamental units, modules, and sub-modules.\n- Individual units are solved first.\n- Units are then integrated together to build a bigger solution.\n\nExample: Program to calculate area and perimeter of different polygons\n- If modules for area and perimeter of each polygon already exist, bring them together and integrate.\n- Otherwise, develop each module first, then build them up into a bigger program.\n\nMost programs are developed using a combination of both strategies.\n\nBoth strategies are based on:\n- Incremental development: Building the program piece by piece.\n- Unit testing: Testing each individual piece before moving on to the next."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

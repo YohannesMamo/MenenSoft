@@ -1,0 +1,659 @@
+{
+  "presentation_slides": [
+    {
+      "chapter": 1,
+      "chapter_title": "Information Systems and Its Applications",
+      "slides": [
+        {
+          "slide_number": 1,
+          "section": "1.1 Data, Information, Knowledge, and Wisdom",
+          "title": "Data: The Foundation",
+          "content": [
+            "Data is a collection of raw facts that lack meaning on their own.",
+            "Examples: 100, 250, age, Ethiopia, 010101",
+            "Data can be represented in various forms: numbers, text, and images.",
+            "One form of representation is better than others depending on the type of data and context.",
+            "Key Point: Data must be processed to become useful."
+          ]
+        },
+        {
+          "slide_number": 2,
+          "section": "1.1 Data, Information, Knowledge, and Wisdom",
+          "title": "Information: Data with Context",
+          "content": [
+            "Information is data that has been processed and organized to provide meaning.",
+            "It answers questions like 'who', 'what', 'when', and 'where'.",
+            "Example: Daily sales data aggregated by week shows whether sales are increasing.",
+            "Information can be represented in tables, line graphs, bar graphs, or formulas.",
+            "Key Point: Information is data put into context."
+          ]
+        },
+        {
+          "slide_number": 3,
+          "section": "1.1 Data, Information, Knowledge, and Wisdom",
+          "title": "Knowledge: Applying Information",
+          "content": [
+            "Knowledge is understanding and skills acquired by integrating information.",
+            "It is gained through experience, reading, discussion, and active engagement.",
+            "Example: Knowing how to ride a bicycle (information) vs. actually riding it (knowledge).",
+            "Knowledge guides our actions and decisions.",
+            "Key Point: Knowledge is understanding gained through application."
+          ]
+        },
+        {
+          "slide_number": 4,
+          "section": "1.1 Data, Information, Knowledge, and Wisdom",
+          "title": "Wisdom: The Highest Level",
+          "content": [
+            "Wisdom is the ability to make sound judgments and wise decisions using knowledge.",
+            "It represents the highest level of human understanding.",
+            "It involves intuitive, logical, creative, and collective thinking.",
+            "Example: Using your knowledge of riding to teach someone else or to adapt to a new type of bike.",
+            "Key Point: Wisdom is the best use of knowledge."
+          ]
+        },
+        {
+          "slide_number": 5,
+          "section": "1.1 Data, Information, Knowledge, and Wisdom",
+          "title": "The DIKW Pyramid",
+          "content": [
+            "Data, Information, Knowledge, and Wisdom form a hierarchical pyramid.",
+            "Data is at the bottom, and Wisdom is at the top.",
+            "As you move up the pyramid, the value and meaning of the content increase.",
+            "Data -> Information -> Knowledge -> Wisdom.",
+            "Key Point: The DIKW pyramid illustrates the flow from raw facts to actionable insight."
+          ]
+        },
+        {
+          "slide_number": 6,
+          "section": "1.2 Introduction to Information Systems",
+          "title": "What is an Information System (IS)?",
+          "content": [
+            "An IS is a set of interrelated components working together to collect, process, store, and disseminate information.",
+            "It generates different types of reports for organizational tasks.",
+            "Example: School information system captures student data from assessments.",
+            "This data is summarized to show overall performance, used for ranking and organization.",
+            "Key Point: IS is a framework for managing data to support decision-making."
+          ]
+        },
+        {
+          "slide_number": 7,
+          "section": "1.2 Introduction to Information Systems",
+          "title": "Components of an Information System",
+          "content": [
+            "An IS has five major components: Hardware, Software, Data/Information, People, and Procedures.",
+            "Hardware: Physical devices (computers, servers, network devices).",
+            "Software: Instructions/commands (OS, DBMS, applications).",
+            "Data/Information: The critical asset stored and processed.",
+            "People: Trained personnel who operate and manage the system.",
+            "Procedures: Policies and steps for using and maintaining the system."
+          ]
+        },
+        {
+          "slide_number": 8,
+          "section": "1.2 Introduction to Information Systems",
+          "title": "Example: Human Resource Information System (HRIS)",
+          "content": [
+            "HRIS is a type of IS that manages employee data.",
+            "Data stored: Recruitment data, Demographic data (ID, name, DOB, position), Performance records, Training records, Compensation (salary).",
+            "Technologies used: Server computers, desktops, laptops, networks.",
+            "Software components: Recruitment software, Time and attendance software, Performance management software, Training and development software.",
+            "Key Point: HRIS automates and streamlines HR processes."
+          ]
+        },
+        {
+          "slide_number": 9,
+          "section": "1.3 Applications of Information System",
+          "title": "E-Government",
+          "content": [
+            "E-Government uses IS to provide electronic services to citizens.",
+            "Goal: Increase efficiency, transparency, and citizen participation.",
+            "Example: Ethiopian Ministry of Health portal provides health services to citizens.",
+            "Benefits: Establishes trust, facilitates information sharing, allows easy access to government decisions, reduces costs, improves convenience.",
+            "Key Point: E-Gov makes government services more accessible and efficient."
+          ]
+        },
+        {
+          "slide_number": 10,
+          "section": "1.3 Applications of Information System",
+          "title": "E-Banking",
+          "content": [
+            "E-Banking is technology-based banking that avoids paper documents.",
+            "Services: Internet banking, ATM, mobile banking, credit/debit cards, EFT.",
+            "Benefits: Lower cost for banks, 24/7 access for customers, instant transactions, immediate account balance checks.",
+            "Challenges: Digital theft, exclusion of digitally illiterate citizens, lack of infrastructure.",
+            "Key Point: E-Banking offers convenience and efficiency."
+          ]
+        },
+        {
+          "slide_number": 11,
+          "section": "1.3 Applications of Information System",
+          "title": "E-Learning and E-Commerce",
+          "content": [
+            "E-Learning: Education delivered through digital devices.",
+            "Benefits: Flexibility, student-centered learning, access to diverse resources, reduced costs.",
+            "Challenges: Physical isolation, less teacher control, technology costs.",
+            "E-Commerce: Buying and selling goods and services over the Internet.",
+            "Advantages: Avoids intermediaries, convenience, increased bargaining power, global reach.",
+            "Key Point: Both services leverage IT for enhanced access and convenience."
+          ]
+        },
+        {
+          "slide_number": 12,
+          "section": "1.3 Applications of Information System",
+          "title": "Telemedicine and Teleconference",
+          "content": [
+            "Telemedicine: Remote healthcare, with caregiver and patient in different locations.",
+            "Benefits: Overcomes geographical barriers, reduces costs, access to specialists.",
+            "Limitations: Requires technical training and equipment.",
+            "Teleconference: Meeting of people from different locations electronically.",
+            "Types: Audio conferencing (voice-only) and Video conferencing (voice + images).",
+            "Benefits: Saves time and travel costs, can accommodate more people.",
+            "Key Point: These services bridge physical distances."
+          ]
+        },
+        {
+          "slide_number": 13,
+          "section": "1.4 IT for Entrepreneurship",
+          "title": "IT for Entrepreneurship",
+          "content": [
+            "Entrepreneurship: Designing, launching, and running a new business.",
+            "IT is transforming the world of work and creating new opportunities.",
+            "IT-enabled businesses: Online training, data entry, internet cafes, online sales.",
+            "Benefits: Creates employment opportunities, generates income, diversifies the economy.",
+            "Example: RIDE taxi-hailing service in Ethiopia.",
+            "Key Point: IT lowers the barrier to starting a business."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "chapter_title": "Emerging Technologies",
+      "slides": [
+        {
+          "slide_number": 14,
+          "section": "2.1 Artificial Intelligence",
+          "title": "What is Artificial Intelligence (AI)?",
+          "content": [
+            "AI is a branch of computer science that deals with designing systems that mimic human intelligence.",
+            "Examples of human intelligence: Reasoning and generalization.",
+            "AI has become powerful due to increased computer capacity and availability of large amounts of data.",
+            "Key Point: AI is about creating machines that can think and learn."
+          ]
+        },
+        {
+          "slide_number": 15,
+          "section": "2.1 Artificial Intelligence",
+          "title": "Branches of AI: Machine Learning & Robotics",
+          "content": [
+            "Machine Learning: Algorithms that allow computers to learn from data and improve themselves.",
+            "Applications: Fraud detection, recommendation systems, email spam filters, speech recognition.",
+            "Robotics: Study of machines (robots) that substitute human tasks.",
+            "Applications: Car manufacturing, handling radioactive wastes, space exploration, household chores (vacuum cleaners).",
+            "Key Point: ML enables learning, while Robotics enables physical action."
+          ]
+        },
+        {
+          "slide_number": 16,
+          "section": "2.1 Artificial Intelligence",
+          "title": "Branches of AI: NLP & Expert Systems",
+          "content": [
+            "Natural Language Processing (NLP): Enables computers to understand human language.",
+            "Applications: Spam detection, machine translation (Google Translate), virtual assistants (Siri, Alexa), sentiment analysis, fake news identification.",
+            "Expert Systems: Computer programs that emulate human experts.",
+            "Components: User Interface, Knowledge Base, Inference Engine.",
+            "Example: MYCIN – Expert system for infectious diseases.",
+            "Key Point: NLP interprets language, and Expert Systems replicate expert decision-making."
+          ]
+        },
+        {
+          "slide_number": 17,
+          "section": "2.1 Artificial Intelligence",
+          "title": "Applications of AI (Part 1)",
+          "content": [
+            "Online Shopping: Personalized recommendations.",
+            "Autonomous Cars: Self-driving vehicles using GPS, radar, and cameras.",
+            "Social Media: Personalized content, targeted advertising, facial recognition.",
+            "Surveillance: Real-time detection of suspicious behavior.",
+            "Agriculture: Precision farming, pest detection, soil health monitoring.",
+            "Key Point: AI is integrated into many daily-use technologies."
+          ]
+        },
+        {
+          "slide_number": 18,
+          "section": "2.1 Artificial Intelligence",
+          "title": "Applications of AI (Part 2)",
+          "content": [
+            "Customer Service: Chatbots using NLP for support.",
+            "Healthcare: Disease diagnosis, drug development, surgical assistance.",
+            "Space Exploration: Data processing, mission planning, robot astronauts (Robonaut).",
+            "Smart Homes: Home security, automation, smoke alerts.",
+            "Banks: Fraud detection in credit card transactions.",
+            "Search Engines: Ranking algorithms, understanding user queries.",
+            "Key Point: AI's applications are vast and growing."
+          ]
+        },
+        {
+          "slide_number": 19,
+          "section": "2.2 Augmented Reality and Virtual Reality",
+          "title": "Augmented Reality (AR)",
+          "content": [
+            "AR overlays computer-generated digital data onto the real world.",
+            "It blends the real and virtual worlds for an engaging user experience.",
+            "Devices: Smartphones, tablets, head-mounted displays, smart glasses.",
+            "Example: Capturing an object with a camera and overlaying information about it.",
+            "Key Point: AR enhances the real world with digital information."
+          ]
+        },
+        {
+          "slide_number": 20,
+          "section": "2.2 Augmented Reality and Virtual Reality",
+          "title": "Virtual Reality (VR)",
+          "content": [
+            "VR creates a fully immersive, 3D computer-generated simulated environment.",
+            "It replaces the real world with an artificial one.",
+            "Devices: Goggles, headsets, gloves, bodysuits.",
+            "VR responds to user movements in real-time, creating an illusion of reality.",
+            "Key Point: VR replaces the real world with a virtual one."
+          ]
+        },
+        {
+          "slide_number": 21,
+          "section": "2.2 Augmented Reality and Virtual Reality",
+          "title": "AR vs VR & Applications",
+          "content": [
+            "AR is partially immersive and works in a real-world setting.",
+            "VR is fully immersive and operates in a completely virtual world.",
+            "Applications in Education: Interactive learning, time travel, concrete visualization.",
+            "Applications in Healthcare: Surgical training, tele-surgery, patient distraction.",
+            "Applications in Entertainment: Interactive museum visits, immersive cinemas, games.",
+            "Key Point: Both AR and VR are transforming education, healthcare, and entertainment."
+          ]
+        },
+        {
+          "slide_number": 22,
+          "section": "2.3 Data Science",
+          "title": "Data Science and Big Data",
+          "content": [
+            "Data Science: An interdisciplinary field using tools, algorithms, and machine learning to find hidden patterns in data.",
+            "Combines: Statistics, Mathematics, and Computer Science.",
+            "Data Scientist: A professional who analyzes data for insights.",
+            "Big Data: Massive volumes of data that cannot be processed with traditional methods.",
+            "Key Characteristics: Volume, Variety, Velocity.",
+            "Example: Facebook generates petabytes of data daily.",
+            "Key Point: Data Science helps organizations use data for a competitive advantage."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "chapter_title": "Database Management",
+      "slides": [
+        {
+          "slide_number": 23,
+          "section": "3.1 Data Management Approaches",
+          "title": "File-Based vs. Database Approach",
+          "content": [
+            "File-Based: Data stored in separate, isolated files.",
+            "Problems: Data duplication, inconsistency, and data isolation.",
+            "Example: HR and Finance departments having different employee data.",
+            "Database Approach: Data is stored in a single, central repository.",
+            "Managed by DBMS software.",
+            "Key Point: The Database approach solves the problems of the file-based approach."
+          ]
+        },
+        {
+          "slide_number": 24,
+          "section": "3.1 Data Management Approaches",
+          "title": "Advantages of the Database Approach",
+          "content": [
+            "Data Independence: Data is not tied to a single application.",
+            "Data Sharing: The database can be accessed by different users.",
+            "Avoids Data Redundancy: Data is stored in one place.",
+            "Improved Data Security: Data can be accessed only by authorized users.",
+            "Key Point: Databases provide efficient, secure, and consistent data management."
+          ]
+        },
+        {
+          "slide_number": 25,
+          "section": "3.2 Data Model",
+          "title": "Basic Data Modeling Concepts",
+          "content": [
+            "Data Model: The blueprint of a database.",
+            "Entities: Real-world objects (e.g., Student, Customer, Book).",
+            "Attributes: Properties of entities (e.g., Student Name, Customer ID).",
+            "Relationships: Associations between entities.",
+            "Three Types of Relationships: One-to-One, One-to-Many, Many-to-Many.",
+            "Key Point: Data models define the structure and rules for the database."
+          ]
+        },
+        {
+          "slide_number": 26,
+          "section": "3.2 Data Model",
+          "title": "Entity Relationship Diagram (ERD)",
+          "content": [
+            "ERD is a visual representation of a data model.",
+            "Components: Entities (Rectangles), Attributes (Ellipses), Relationships (Lines).",
+            "Example: A diagram showing Student and Book entities connected by a 'Borrows' relationship.",
+            "Key Point: ERD helps communicate database design clearly."
+          ]
+        },
+        {
+          "slide_number": 27,
+          "section": "3.2 Data Model",
+          "title": "Relational Data Model",
+          "content": [
+            "Stores data in two-dimensional tables called 'relations'.",
+            "A Table has Rows (Records) and Columns (Fields/Attributes).",
+            "Primary Key: A unique identifier for each record.",
+            "Foreign Key: A link to the primary key of another table.",
+            "Key Point: The relational model is the most widely used data model."
+          ]
+        },
+        {
+          "slide_number": 28,
+          "section": "3.3 Creating Relational Database in Microsoft Access",
+          "title": "Microsoft Access: Tables & Queries",
+          "content": [
+            "Microsoft Access: A relational DBMS software.",
+            "Creating a Table: Use 'Design View' to define field names and data types.",
+            "Data Types: Text, Number, Date/Time, Currency.",
+            "Creating a Query: Use 'Query Design' to retrieve data.",
+            "You can add criteria to filter results.",
+            "Selecting data from multiple tables: Establish relationships using primary and foreign keys.",
+            "Key Point: Access provides the tools to build and manage databases."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "chapter_title": "Web Development",
+      "slides": [
+        {
+          "slide_number": 29,
+          "section": "4.1 World Wide Web",
+          "title": "The Web and its Foundations",
+          "content": [
+            "The Web is a popular service that runs on the Internet.",
+            "Invented by Tim Berners-Lee in 1989.",
+            "Four Essential Foundations: HTML, HTTP, Web Server, Web Browser.",
+            "HTML: Language for creating webpages.",
+            "HTTP: Protocol for communication.",
+            "Web Server: Software that stores webpages.",
+            "Web Browser: Software to view webpages.",
+            "Key Point: The Web is a system for accessing and sharing information over the Internet."
+          ]
+        },
+        {
+          "slide_number": 30,
+          "section": "4.2 Website Design",
+          "title": "Website Design Guidelines",
+          "content": [
+            "Website Design: Planning a website's layout, navigation, and look.",
+            "Target Audience: Design for the intended users.",
+            "Navigation: Organize pages logically for easy movement.",
+            "Consistency: Maintain a uniform look and feel.",
+            "Simplicity: Avoid clutter, use colors/graphics effectively.",
+            "Accessibility: Ensure the site is usable by everyone, including people with disabilities.",
+            "Key Point: Good design focuses on the user experience."
+          ]
+        },
+        {
+          "slide_number": 31,
+          "section": "4.3 HTML Basics",
+          "title": "HTML Tags, Elements & Document Structure",
+          "content": [
+            "HTML: Markup language for creating webpages.",
+            "HTML Tags: Predefined names in angle brackets (e.g., <p>, <h1>).",
+            "HTML Elements: Start tag, content, end tag (e.g., <p>...</p>).",
+            "Void Elements: No end tag (e.g., <br>, <img>).",
+            "Document Structure: <!DOCTYPE html>, <html>, <head> (meta info), <body> (page content).",
+            "Key Point: Webpages are built with HTML elements."
+          ]
+        },
+        {
+          "slide_number": 32,
+          "section": "4.3 HTML Basics",
+          "title": "HTML Attributes, Images & Videos",
+          "content": [
+            "Attributes: Define properties for HTML elements (e.g., align, src).",
+            "Inserting Images: <img src='path/to/image.jpg'>.",
+            "Inserting Videos: <video src='path/to/video.mp4' controls>.",
+            "Video attributes: controls (play/pause), width, height.",
+            "Key Point: Attributes provide control over how content is displayed."
+          ]
+        },
+        {
+          "slide_number": 33,
+          "section": "4.4 HTML Links",
+          "title": "Creating Hyperlinks",
+          "content": [
+            "Links are created using the <a> (anchor) tag.",
+            "Syntax: <a href='URL'>Clickable Text</a>.",
+            "target attribute: Controls where the link opens.",
+            "target='_blank': Opens in a new tab.",
+            "target='_self': Opens in the same tab.",
+            "Images as links: <a href='URL'><img src='...'></a>.",
+            "Key Point: Links connect webpages and resources."
+          ]
+        },
+        {
+          "slide_number": 34,
+          "section": "4.4 HTML Links",
+          "title": "Links to Page Sections",
+          "content": [
+            "Create links to different parts of the same page.",
+            "Step 1: Mark a location with <a name='section1'>.",
+            "Step 2: Link to it with <a href='#section1'>.",
+            "This is useful for large pages to allow quick navigation.",
+            "Key Point: This improves user navigation within a long webpage."
+          ]
+        },
+        {
+          "slide_number": 35,
+          "section": "4.5 HTML Tables",
+          "title": "HTML Tables",
+          "content": [
+            "Tables organize data in rows and columns.",
+            "Key tags: <table>, <tr> (row), <th> (header cell), <td> (data cell).",
+            "Use the 'border' attribute to add a border.",
+            "Merging Cells: colspan (merge columns), rowspan (merge rows).",
+            "Tables can be used to create a page layout.",
+            "Key Point: Tables are powerful for organizing data and layout."
+          ]
+        },
+        {
+          "slide_number": 36,
+          "section": "4.6 HTML Lists",
+          "title": "Types of HTML Lists",
+          "content": [
+            "Ordered Lists <ol>: Numbered lists. Use <li> for items.",
+            "Unordered Lists <ul>: Bulleted lists. Use <li> for items.",
+            "Description Lists <dl>: For term-definition pairs.",
+            "<dt> (term) and <dd> (description).",
+            "Lists can be nested (one list inside another).",
+            "Key Point: Lists are used to present information in a structured way."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "chapter_title": "Hardware Troubleshooting and Preventive Maintenance",
+      "slides": [
+        {
+          "slide_number": 37,
+          "section": "5.1 Hardware Troubleshooting",
+          "title": "Basics of Troubleshooting",
+          "content": [
+            "Hardware Troubleshooting: Systematic approach to locating and solving hardware problems.",
+            "Start with general issues and get more specific.",
+            "Basic checks: Power connection, all cables are secure, devices are turned on.",
+            "Important: Always shut down the computer before internal maintenance.",
+            "Key Point: Troubleshooting is a step-by-step process of elimination."
+          ]
+        },
+        {
+          "slide_number": 38,
+          "section": "5.1 Hardware Troubleshooting",
+          "title": "POST, Beep Codes, and BIOS",
+          "content": [
+            "POST (Power On Self-Test): Diagnoses hardware during startup.",
+            "Beep Codes: Sounds indicating specific hardware failures.",
+            "No beep, long beeps, short beeps all indicate different problems.",
+            "BIOS: Program to start the computer and manage data flow.",
+            "CMOS: Chip storing system settings; a CMOS alert means the battery needs replacing.",
+            "Key Point: POST and beep codes give early diagnostic clues."
+          ]
+        },
+        {
+          "slide_number": 39,
+          "section": "5.1 Hardware Troubleshooting",
+          "title": "Event Viewer and Device Manager",
+          "content": [
+            "Event Viewer: A Windows tool that logs system and application errors.",
+            "Provides: The problem, date/time, severity, source, and user.",
+            "Device Manager: A Windows utility to check and manage hardware.",
+            "Error Icons: Yellow triangle (problem), Red X (disabled/removed), Downward arrow (disabled), Question mark (driver needed).",
+            "Key Point: These tools help identify the source of hardware or software problems."
+          ]
+        },
+        {
+          "slide_number": 40,
+          "section": "5.1 Hardware Troubleshooting",
+          "title": "Performance Diagnostic Tools",
+          "content": [
+            "Performance Monitor: Gives a quick view of CPU, Memory, Disk, and Network performance.",
+            "Task Manager can be used to see this information.",
+            "Resource Monitor: Provides an in-depth look at CPU, Network, Memory, and Disk usage.",
+            "It helps identify applications that are using excessive resources.",
+            "Key Point: These tools help diagnose performance issues."
+          ]
+        },
+        {
+          "slide_number": 41,
+          "section": "5.2 Basics of Preventive Maintenance",
+          "title": "Preventive Maintenance: Dust, Antivirus, Backup",
+          "content": [
+            "Preventive Maintenance: Routine measures to reduce hardware failure.",
+            "Dust Cleaning: Using microfiber cloth, chemical cleaners, and vacuum cleaners to clean the case and internal parts.",
+            "Antivirus Software: Prevents, detects, and removes malware. Examples: AVAST, AVG, AVIRA.",
+            "Backup: Copying data to external storage to recover from data loss.",
+            "Key Point: Regular maintenance prevents problems."
+          ]
+        },
+        {
+          "slide_number": 42,
+          "section": "5.2 Basics of Preventive Maintenance",
+          "title": "Disk Defragmentation & Power Protection",
+          "content": [
+            "Disk Fragmentation: Scattering of file parts on the hard drive, slowing performance.",
+            "Defragmentation: Reorganizing files to store them contiguously.",
+            "Surge Protector: Protects against power surges.",
+            "Stabilizer: Provides a consistent voltage level.",
+            "Voltage Regulator: Protects against power sags/brownouts.",
+            "UPS (Uninterruptible Power Supply): A battery that provides short-term power during an outage.",
+            "Key Point: Defragmentation improves speed, and power devices prevent damage."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "chapter_title": "Fundamentals of Programming",
+      "slides": [
+        {
+          "slide_number": 43,
+          "section": "6.1 Types of Programming Languages",
+          "title": "Programming Language Levels",
+          "content": [
+            "Machine Language: Low-level language of 1s and 0s. Directly understood by the computer.",
+            "Assembly Language: Low-level language using mnemonics. Requires an Assembler to translate.",
+            "High-Level Language: Closer to human language. Easier to write.",
+            "Translators: Compilers (translate entire program) or Interpreters (translate line by line).",
+            "Key Point: High-level languages are easier for programmers."
+          ]
+        },
+        {
+          "slide_number": 44,
+          "section": "6.1 Types of Programming Languages",
+          "title": "Syntax and Semantics",
+          "content": [
+            "Syntax: The grammatical rules of a programming language.",
+            "A program must have correct syntax to run.",
+            "Syntax Error: When code violates syntax rules.",
+            "Semantics: The meaning of the program's elements.",
+            "Logic Error: The program runs but produces incorrect results.",
+            "Key Point: Syntax is about form, Semantics is about meaning."
+          ]
+        },
+        {
+          "slide_number": 45,
+          "section": "6.2 Basics of Python",
+          "title": "Getting Started with Python",
+          "content": [
+            "Python is a popular, easy-to-learn high-level language.",
+            "IDLE (Integrated Development and Learning Environment): Python's free IDE.",
+            "Interactive Interpreter: Write and execute one line at a time (>>> prompt).",
+            "Text Editor: Write and save scripts (files with a .py extension).",
+            "print() function: Displays output.",
+            "Key Point: Python is accessible and great for beginners."
+          ]
+        },
+        {
+          "slide_number": 46,
+          "section": "6.3 Variables and Data Types",
+          "title": "Variables, Identifiers, and Data Types",
+          "content": [
+            "Variables: Memory locations to store data.",
+            "Identifiers: Names given to variables (must start with letter or underscore).",
+            "Data Types: int (integer), float (floating-point), str (string), bool (True/False).",
+            "Assignment Operator (=): Assigns a value to a variable (e.g., x = 5).",
+            "Key Point: Variables store data of specific types."
+          ]
+        },
+        {
+          "slide_number": 47,
+          "section": "6.3 Variables and Data Types",
+          "title": "Operators and Type Conversion",
+          "content": [
+            "Arithmetic Operators: +, -, *, /, // (floor division), % (modulus), ** (exponent).",
+            "Boolean Operators: and, or, not.",
+            "Implicit Type Conversion: Python automatically converts data types (e.g., int to float).",
+            "Explicit Type Conversion: Programmer uses built-in functions like int(), float(), str().",
+            "Key Point: Understanding operators and types is essential for programming."
+          ]
+        },
+        {
+          "slide_number": 48,
+          "section": "6.4 Statements and Expressions",
+          "title": "Statements vs. Expressions",
+          "content": [
+            "Statement: An instruction that the interpreter executes (e.g., x=5, print(x)).",
+            "Expression: Code that evaluates to a value (e.g., 5, x, x+5).",
+            "In the Interactive Interpreter, an expression alone displays its value.",
+            "In a script file, the print() function is needed to see the value of an expression.",
+            "Key Point: Statements are actions, Expressions are values."
+          ]
+        },
+        {
+          "slide_number": 49,
+          "section": "6.5 Writing a Simple Program",
+          "title": "Input and Output in Python",
+          "content": [
+            "Programs accept input, process it, and produce output.",
+            "input() function: Reads data from the keyboard.",
+            "Syntax: variable = input('prompt')",
+            "input() always returns a string.",
+            "Explicit Conversion: Use int() or float() to convert for math operations.",
+            "Example: Program to calculate the area of a circle.",
+            "Key Point: Programs interact with the user via input and output."
+          ]
+        }
+      ]
+    }
+  ]
+}

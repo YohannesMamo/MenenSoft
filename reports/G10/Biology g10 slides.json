@@ -1,0 +1,742 @@
+{
+  "presentation_slides": [
+    {
+      "chapter": 1,
+      "chapter_title": "Sub-fields of Biology",
+      "slides": [
+        {
+          "slide_number": 1,
+          "section": "1.1 Sub-fields of Biology",
+          "title": "Introduction to Biology",
+          "content": [
+            "Biology is the scientific study of life and living organisms.",
+            "The scope is vast and subdivided into many branches for specialization.",
+            "The three major divisions are based on the type of organism studied:",
+            "1. Zoology (Animals)",
+            "2. Botany (Plants)",
+            "3. Microbiology (Microorganisms)"
+          ]
+        },
+        {
+          "slide_number": 2,
+          "section": "1.1 Sub-fields of Biology",
+          "title": "Major Divisions of Biology",
+          "content": [
+            "**Zoology**: Study of animals.",
+            "  - Includes Herpetology (reptiles), Ichthyology (fish), Mammalogy (mammals), Ornithology (birds), Entomology (insects).",
+            "**Botany**: Study of plants.",
+            "  - Includes structure, properties, biochemical processes, classification, diseases, and ecology.",
+            "**Microbiology**: Study of microscopic organisms.",
+            "  - Includes bacteria, archaea, protists, viruses, microscopic algae, and fungi.",
+            "  - Rapidly expanding field with sub-disciplines like Bacteriology and Mycology."
+          ]
+        },
+        {
+          "slide_number": 3,
+          "section": "1.1 Sub-fields of Biology",
+          "title": "Other Branches of Biology (Structure)",
+          "content": [
+            "**Morphology**: Study of external form and structure.",
+            "**Anatomy**: Study of internal structure, often through dissection.",
+            "**Histology**: Study of tissue structure.",
+            "**Cytology**: Study of cells.",
+            "**Cell Biology**: Study of cell structure and function.",
+            "**Molecular Biology**: Study of structure and function of molecules like DNA/RNA."
+          ]
+        },
+        {
+          "slide_number": 4,
+          "section": "1.1 Sub-fields of Biology",
+          "title": "Other Branches of Biology (Processes)",
+          "content": [
+            "**Physiology**: Study of normal functions and processes.",
+            "**Embryology**: Study of development from zygote to maturity.",
+            "**Ecology**: Study of interactions between organisms and their environment.",
+            "**Taxonomy**: Science of naming, identifying, and classifying organisms.",
+            "**Paleontology**: Study of fossils and ancient life.",
+            "**Evolution**: Study of how species change over generations.",
+            "**Genetics**: Study of heredity and variation.",
+            "**Exobiology**: Study of life in the universe."
+          ]
+        },
+        {
+          "slide_number": 5,
+          "section": "1.1 Sub-fields of Biology",
+          "title": "Biology and Other Sciences",
+          "content": [
+            "Biology is an interdisciplinary science and relies on principles from other fields.",
+            "**Chemistry**: Essential for understanding organic/inorganic compounds, metabolic pathways, and molecular structures.",
+            "**Physics**: Important for explaining processes like water transport in plants (cohesion/adhesion, capillary action) and energy transfer.",
+            "**Examples**:",
+            "  - Transport of O₂ via hemoglobin involves chemistry.",
+            "  - Conducting water from roots to leaves involves physics.",
+            "  - ATP synthesis in cellular respiration involves chemistry."
+          ]
+        },
+        {
+          "slide_number": 6,
+          "section": "1.2 Pure and Applied Fields of Biology",
+          "title": "Pure Biology vs. Applied Biology",
+          "content": [
+            "**Pure Biology**: Study of life functions in nature for the sake of knowledge.",
+            "  - Examples: Morphology, Physiology, Taxonomy, Evolution, Genetics.",
+            "**Applied Biology**: Using biological knowledge to manage life and solve practical problems.",
+            "  - Examples: Agriculture, Biotechnology, Horticulture, Forestry, Medicine.",
+            "**Relationship**: Similar to the connection between anatomy (pure) and surgery (applied)."
+          ]
+        },
+        {
+          "slide_number": 7,
+          "section": "1.2 Pure and Applied Fields of Biology",
+          "title": "Modern Applied Fields",
+          "content": [
+            "**Biotechnology**: Use of living organisms or their products for human welfare.",
+            "**Bioinformatics**: Use of computer programs to analyze biological data (e.g., DNA, protein sequences).",
+            "**Genetic Engineering**: Direct manipulation of genes to alter an organism's traits.",
+            "**Biomedical Engineering**: Application of engineering principles to biology and medicine.",
+            "**Environmental Management**: Studying and maintaining the balance of nature.",
+            "**Forensic Science**: Application of biological knowledge (e.g., DNA fingerprinting) to legal investigations."
+          ]
+        },
+        {
+          "slide_number": 8,
+          "section": "1.3 Major Discoveries that Revolutionized Biology",
+          "title": "Pioneers: Aristotle to Leeuwenhoek",
+          "content": [
+            "**Aristotle (384-322 BC)**: Created one of the first classification systems ('Ladder of Life').",
+            "**Galen (129-161 AD)**: Advanced medical science, identified differences between veins/arteries, discovered the larynx produces voice.",
+            "**Antonie van Leeuwenhoek (1632-1723)**: Pioneered microscopy, developed powerful lenses. He was the first to observe bacteria and the cell vacuole."
+          ]
+        },
+        {
+          "slide_number": 9,
+          "section": "1.3 Major Discoveries that Revolutionized Biology",
+          "title": "Pioneers: Linnaeus to Mendel",
+          "content": [
+            "**Carl Linnaeus (1707-1775)**: Developed the modern system for naming, ordering, and classifying organisms (binomial nomenclature).",
+            "**Charles Darwin (1809-1882)**: Proposed the theory of evolution by natural selection, explaining that species descend from common ancestors. Published 'On the Origin of Species'.",
+            "**Gregor Mendel (1822-1884)**: Discovered the laws of genetic inheritance, coining the terms 'dominant' and 'recessive' genes. His work provided the mechanism for Darwin's theory."
+          ]
+        },
+        {
+          "slide_number": 10,
+          "section": "1.3 Major Discoveries that Revolutionized Biology",
+          "title": "Pioneers: Pasteur to Wilmut & Campbell",
+          "content": [
+            "**Louis Pasteur (1822-1895)**: Father of medical microbiology. Demonstrated that bacteria cause fermentation and disease. Introduced pasteurization and developed vaccines.",
+            "**Robert Koch (1843-1910)**: Identified specific causal agents for TB, cholera, and anthrax, providing evidence for the germ theory of disease.",
+            "**Watson and Crick (1953)**: Discovered the double helix structure of DNA, explaining how hereditary information is coded and passed on.",
+            "**Wilmut and Campbell (1996)**: Successfully cloned a mammal (Dolly the sheep)."
+          ]
+        },
+        {
+          "slide_number": 11,
+          "section": "1.4 The Contributions of Biological Discoveries to Society and the Environment",
+          "title": "The Microscope: A Revolutionary Tool",
+          "content": [
+            "**Impact on Medicine**: Enabled the discovery of microbes, leading to the germ theory of disease (Pasteur). Crucial for diagnosing infections and cancer.",
+            "**Impact on Ecosystem Study**: Used to study microscopic organisms in habitats, helping define ecosystems and detect threats.",
+            "**Impact on Forensic Science**: Used to examine microscopic evidence from crime scenes (e.g., striations on bullets).",
+            "**Impact on Genetic Study**: Enables scientists to examine cells, evaluate genetic abnormalities, and study viruses."
+          ]
+        },
+        {
+          "slide_number": 12,
+          "section": "1.4 The Contributions of Biological Discoveries to Society and the Environment",
+          "title": "Discoveries in Medicine",
+          "content": [
+            "**Vaccination**: Pioneered by Jenner. Stimulates the immune system to fight diseases.",
+            "**Germ Theory**: Established by Pasteur and Koch. Revolutionized the treatment and prevention of infectious diseases.",
+            "**Penicillin**: Discovered by Alexander Fleming. The first antibiotic, saving millions of lives.",
+            "**Insulin**: Discovered by Banting. Transformed the treatment of diabetes.",
+            "**Anesthetics**: Enabled painless surgery.",
+            "**DNA Discoveries**: Unlocked the genetic code, leading to advances in medicine, agriculture, and forensics."
+          ]
+        },
+        {
+          "slide_number": 13,
+          "section": "1.5 Ethiopian Biologists and Their Contributions",
+          "title": "Prof. Yalemtshehay Mekonnen",
+          "content": [
+            "Biologist and academic at Addis Ababa University.",
+            "Specializes in human physiology.",
+            "Key research areas:",
+            "  - Impact of chemical pesticide hazards on humans.",
+            "  - Medicinal plants for human and animal diseases.",
+            "Notable research on Moringa stenopetala (Shiferaw/Aleko).",
+            "Has published over 100 scientific papers."
+          ]
+        },
+        {
+          "slide_number": 14,
+          "section": "1.5 Ethiopian Biologists and Their Contributions",
+          "title": "Dr. Akliu Lemma",
+          "content": [
+            "Renowned for his work on controlling Schistosomiasis (Bilharzia).",
+            "Discovered that the 'Endod' (soapberry) plant was a potent molluscicide.",
+            "Endod is cheap, effective, and environmentally friendly.",
+            "His research showed that Endod could kill the freshwater snails that transmit the disease.",
+            "This was a significant breakthrough for public health in Africa."
+          ]
+        },
+        {
+          "slide_number": 15,
+          "section": "1.5 Ethiopian Biologists and Their Contributions",
+          "title": "Prof. Gebissa Ejeta",
+          "content": [
+            "Plant breeder and geneticist.",
+            "His research on sorghum has revolutionized agriculture in Africa.",
+            "Developed Africa's first commercial hybrid sorghum, which is drought-resistant and high-yielding.",
+            "Developed sorghum varieties resistant to the parasitic Striga weed.",
+            "Awarded the World Food Prize in 2009 and the National Hero award of Ethiopia."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "chapter_title": "Plants",
+      "slides": [
+        {
+          "slide_number": 16,
+          "section": "2.1 Characteristics of Plants",
+          "title": "What Makes a Plant?",
+          "content": [
+            "**Living Organisms**: Grow, reproduce, and respond to stimuli.",
+            "**Multicellular Eukaryotes**: Made of cells with a defined nucleus and membrane-bound organelles.",
+            "**Cell Wall**: Rigid wall made of cellulose for support.",
+            "**Autotrophs**: Can produce their own food via photosynthesis, using chlorophyll.",
+            "**Sessile**: Fixed in one place, though parts can show growth movements (tropisms).",
+            "**Reproduction**: Both asexual (spores) and sexual (gametes)."
+          ]
+        },
+        {
+          "slide_number": 17,
+          "section": "2.2 Flowering and Non-Flowering Plants",
+          "title": "Classifying Plants",
+          "content": [
+            "**Non-Flowering Plants**:",
+            "  - **Bryophytes (Mosses, Liverworts)**: Non-vascular, reproduce by spores.",
+            "  - **Gymnosperms (Conifers)**: Vascular, have cones instead of flowers, produce 'naked' seeds (not enclosed in a fruit).",
+            "**Flowering Plants (Angiosperms)**:",
+            "  - Vascular plants that produce flowers and fruits.",
+            "  - Seeds are enclosed within a fruit.",
+            "  - The most diverse and successful group of plants."
+          ]
+        },
+        {
+          "slide_number": 18,
+          "section": "2.3 Structure and Function of Plant Parts",
+          "title": "External Structure: Shoot and Root Systems",
+          "content": [
+            "**Shoot System (Above Ground)**:",
+            "  - **Stem**: Support, contains vascular tissue.",
+            "  - **Leaves**: Primary site of photosynthesis.",
+            "  - **Buds**: Apical (for growth) and axillary (for branching).",
+            "  - **Flowers/Fruits**: Reproductive organs.",
+            "**Root System (Below Ground)**:",
+            "  - **Taproot**: One main root, goes deep for anchorage and water (dicots).",
+            "  - **Fibrous Roots**: Network of branching roots, good for surface absorption and preventing erosion (monocots).",
+            "  - **Root Hairs**: Single-cell extensions for absorption."
+          ]
+        },
+        {
+          "slide_number": 19,
+          "section": "2.3.1 The Internal Structure of a Leaf",
+          "title": "Anatomy of a Leaf",
+          "content": [
+            "**Epidermis**: Outer protective layer, covered by a waxy cuticle to prevent water loss.",
+            "  - **Stomata**: Pores in the lower epidermis, regulated by guard cells for gas exchange.",
+            "**Mesophyll (Middle Layer)**: The photosynthetic tissue.",
+            "  - **Palisade Mesophyll**: Columnar cells packed with chloroplasts, the primary site of photosynthesis.",
+            "  - **Spongy Mesophyll**: Loosely arranged cells with airspaces, facilitating gas exchange."
+          ]
+        },
+        {
+          "slide_number": 20,
+          "section": "2.3.2 The Internal Structure of a Stem",
+          "title": "Anatomy of a Stem (Dicot)",
+          "content": [
+            "**Epidermis**: Protective outer layer.",
+            "**Hypodermis**: Collenchyma cells for mechanical support.",
+            "**Cortex**: Storage of food.",
+            "**Endodermis**: Innermost cortex, also known as the starch sheath.",
+            "**Vascular Bundles (Ring Arrangement)**:",
+            "  - **Xylem**: Transports water and minerals.",
+            "  - **Phloem**: Transports food (sugars).",
+            "  - **Cambium**: Meristematic tissue for secondary growth.",
+            "**Pith**: Central storage tissue."
+          ]
+        },
+        {
+          "slide_number": 21,
+          "section": "2.4 Reproduction in Plants",
+          "title": "Angiosperm Life Cycle",
+          "content": [
+            "1. **Mature Plant** produces flowers.",
+            "2. **Pollination**: Transfer of pollen from anther to stigma.",
+            "3. **Fertilization**: Sperm and egg fuse. Angiosperms exhibit **double fertilization**.",
+            "4. **Seed & Fruit Formation**: Ovule matures into a seed; ovary matures into a fruit.",
+            "5. **Seed Dispersal**: Seeds are scattered by wind, water, or animals.",
+            "6. **Seed Germination**: Seed develops into a seedling.",
+            "7. **Growth to Maturity**: Cycle repeats."
+          ]
+        },
+        {
+          "slide_number": 22,
+          "section": "2.4.2 Reproductive Structure and Life Cycle of Flowering Plants",
+          "title": "Flower Structure",
+          "content": [
+            "**Sepals (Calyx)**: Green, leaf-like, protect the flower bud.",
+            "**Petals (Corolla)**: Colorful, attract pollinators.",
+            "**Stamen (Androecium)**: Male part.",
+            "  - **Filament**: Stalk.",
+            "  - **Anther**: Produces pollen.",
+            "**Pistil (Gynoecium)**: Female part.",
+            "  - **Stigma**: Receives pollen.",
+            "  - **Style**: Connects stigma to ovary.",
+            "  - **Ovary**: Contains ovules (which become seeds)."
+          ]
+        },
+        {
+          "slide_number": 23,
+          "section": "2.4.3 Pollination",
+          "title": "Pollination Agents and Adaptations",
+          "content": [
+            "**Self-Pollination**: Within the same plant.",
+            "**Cross-Pollination**: Between different plants (genetically better).",
+            "**Pollinating Agents**:",
+            "  - **Biotic (Animals)**: Insects, birds, bats.",
+            "  - **Abiotic (Wind, Water)**: Grasses, many gymnosperms.",
+            "**Flower Adaptations**:",
+            "  - **Insect-pollinated**: Brightly colored, scented, nectar, sticky pollen.",
+            "  - **Wind-pollinated**: Small, no scent, no nectar, large amounts of light, dry pollen."
+          ]
+        },
+        {
+          "slide_number": 24,
+          "section": "2.5 Seeds",
+          "title": "Seed Structure: Monocots vs. Dicots",
+          "content": [
+            "A seed contains an embryo, a food reserve, and a protective seed coat.",
+            "**Monocots (e.g., Corn/Maize)**:",
+            "  - One cotyledon.",
+            "  - Endosperm is present and large (food store).",
+            "  - Radicle replaced by fibrous roots.",
+            "**Dicots (e.g., Bean)**:",
+            "  - Two cotyledons (food store).",
+            "  - Endosperm is usually absent.",
+            "  - Radicle develops into a taproot with lateral roots."
+          ]
+        },
+        {
+          "slide_number": 25,
+          "section": "2.6 Seed Dispersal and Germination",
+          "title": "Dispersal and Germination",
+          "content": [
+            "**Seed Dispersal**: Moving seeds away from the parent.",
+            "  - **Importance**: Reduces competition.",
+            "  - **Agents**: Animals, wind, water.",
+            "**Seed Germination**: The resumption of embryo growth.",
+            "  - **Essential Conditions**: Moisture, Oxygen (for respiration), Warmth.",
+            "  - **Types**:",
+            "    - **Epigeal**: Cotyledons are pushed above ground (e.g., beans).",
+            "    - **Hypogeal**: Cotyledons stay below ground (e.g., maize/peas)."
+          ]
+        },
+        {
+          "slide_number": 26,
+          "section": "2.7 Photosynthesis",
+          "title": "The Photosynthetic Process",
+          "content": [
+            "**Photosynthesis**: Converting light energy to chemical energy.",
+            "**Organelle**: Chloroplast.",
+            "**Light Reactions (Granum)**:",
+            "  - Uses light to split water (photolysis), releasing O₂.",
+            "  - Produces ATP and NADPH.",
+            "**Calvin Cycle (Stroma)**:",
+            "  - Uses ATP and NADPH to fix CO₂.",
+            "  - Produces Glucose (C₆H₁₂O₆).",
+            "**Overall Equation**: 6CO₂ + 6H₂O + Light → C₆H₁₂O₆ + 6O₂"
+          ]
+        },
+        {
+          "slide_number": 27,
+          "section": "2.8 Transport in Plant",
+          "title": "Transport Systems: Xylem and Phloem",
+          "content": [
+            "**Xylem**: Transports water and minerals **upwards**.",
+            "  - **Mechanism**: Transpiration pull (cohesion-tension theory).",
+            "  - Water loss from leaves creates a pull that moves the water column.",
+            "**Phloem**: Transports organic food (sugars) from **source to sink**.",
+            "  - **Mechanism**: Translocation (active transport).",
+            "  - Sugars are loaded into phloem at the source, creating pressure that drives flow to the sink."
+          ]
+        },
+        {
+          "slide_number": 28,
+          "section": "2.9 Response in Plants",
+          "title": "Tropisms: Growth Responses",
+          "content": [
+            "**Tropism**: Directional growth response to a stimulus.",
+            "  - **Positive**: Growth toward the stimulus.",
+            "  - **Negative**: Growth away from the stimulus.",
+            "**Phototropism (Light)**: Shoots grow **toward** light (positive).",
+            "**Hydrotropism (Water)**: Roots grow **toward** water (positive).",
+            "**Geotropism (Gravity)**:",
+            "  - Shoots grow **away** from gravity (negative).",
+            "  - Roots grow **toward** gravity (positive).",
+            "**Hormone**: Auxin (IAA) causes differential growth."
+          ]
+        },
+        {
+          "slide_number": 29,
+          "section": "2.10 Medicinal Plants",
+          "title": "Ethiopian Medicinal Plants",
+          "content": [
+            "More than 60% of the world's population depends on traditional plant-based medicine.",
+            "**Examples**:",
+            "  - **Ruta chalepensis (Tena Adam)**: Leaf, for abdominal pain.",
+            "  - **Zingiber officinalis (Jinjibil)**: Rhizome, for cough and tonsillitis.",
+            "  - **Hagenia abyssinica (Ye-kosso Zaf)**: Seeds, for tapeworm.",
+            "  - **Allium sativum (Nechshinkurt)**: Bulb, for common cold and toothache.",
+            "  - **Eucalyptus globulus (Nech-Bahir-zaf)**: Leaf, for common cold."
+          ]
+        },
+        {
+          "slide_number": 30,
+          "section": "2.11 Renowned Ethiopian Botanist",
+          "title": "Prof. Sebsebe Demissew",
+          "content": [
+            "Professor of Plant Systematics and Biodiversity at Addis Ababa University.",
+            "Executive Director of the Gullele Botanic Garden.",
+            "Leader of the Ethiopian Flora Project.",
+            "**Awards**:",
+            "  - Kew International Medal (2016).",
+            "  - Foreign Member of the Royal Society (2018) - first Sub-Saharan African.",
+            "  - Cuatrecasas Medal for Excellence in Tropical Botany (2021).",
+            "His life work has been dedicated to documenting and conserving Ethiopia's rich and endemic plant biodiversity."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "chapter_title": "Biochemical Molecules",
+      "slides": [
+        {
+          "slide_number": 31,
+          "section": "3.1 Biochemical Molecules",
+          "title": "Inorganic vs. Organic Molecules",
+          "content": [
+            "**Inorganic Molecules**:",
+            "  - Do not contain both carbon and hydrogen.",
+            "  - Examples: Water (H₂O), salts, HCl.",
+            "  - Generally small and simple.",
+            "**Organic Molecules**:",
+            "  - Always contain both carbon and hydrogen.",
+            "  - Examples: Carbohydrates, Lipids, Proteins, Nucleic Acids.",
+            "  - Large and complex polymers built from monomers."
+          ]
+        },
+        {
+          "slide_number": 32,
+          "section": "3.1.1 Inorganic Molecule: Water",
+          "title": "The Unique Properties of Water",
+          "content": [
+            "**Structure**: Polar molecule with oxygen having a partial negative charge and hydrogens having a partial positive charge.",
+            "**Properties**:",
+            "  - **Excellent Solvent**: Dissolves ions and polar molecules.",
+            "  - **High Specific Heat Capacity**: Resists temperature change.",
+            "  - **High Latent Heat of Vaporization**: Evaporation has a cooling effect.",
+            "  - **Cohesion & Adhesion**: Enables capillary action.",
+            "  - **Ice is less dense than water**: Floats, insulating the water below.",
+            "  - **High Boiling/Freezing Points**: Liquid over a wide range of temperatures."
+          ]
+        },
+        {
+          "slide_number": 33,
+          "section": "3.1.2 Inorganic Ions",
+          "title": "Essential Inorganic Ions",
+          "content": [
+            "**Macronutrients (Large Amounts)**:",
+            "  - **Sodium (Na⁺)**: Nerve function, fluid balance.",
+            "  - **Potassium (K⁺)**: Nerve function, muscle contraction.",
+            "  - **Calcium (Ca²⁺)**: Bones, teeth, blood clotting.",
+            "  - **Phosphate (PO₄³⁻)**: ATP, DNA, bones.",
+            "  - **Chloride (Cl⁻)**: Fluid balance, HCl.",
+            "**Micronutrients (Trace)**:",
+            "  - **Iron (Fe²⁺)**: Hemoglobin, oxygen transport.",
+            "  - **Iodide (I⁻)**: Thyroid hormones.",
+            "  - **Copper (Cu²⁺)**: Enzyme cofactor."
+          ]
+        },
+        {
+          "slide_number": 34,
+          "section": "3.1.3 Organic Molecules",
+          "title": "The Four Major Organic Molecules",
+          "content": [
+            "**1. Carbohydrates**:",
+            "  - Monomer: Monosaccharides (e.g., glucose).",
+            "  - Function: Energy source, structure (cellulose).",
+            "**2. Lipids**:",
+            "  - Monomer: Glycerol + Fatty Acids.",
+            "  - Function: Energy storage, cell membranes (phospholipids).",
+            "**3. Proteins**:",
+            "  - Monomer: Amino Acids.",
+            "  - Function: Enzymes, structure, transport, defense.",
+            "**4. Nucleic Acids**:",
+            "  - Monomer: Nucleotides.",
+            "  - Function: Genetic information (DNA, RNA)."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "chapter_title": "Cell Reproduction",
+      "slides": [
+        {
+          "slide_number": 35,
+          "section": "4.1 Cell Cycle",
+          "title": "The Cell Cycle: Interphase",
+          "content": [
+            "The cell cycle is the sequence of events from one division to the next.",
+            "**Interphase (90% of time)**:",
+            "  - **G₁ Phase**: Cell growth, protein synthesis.",
+            "  - **S Phase**: DNA replication (chromosomes duplicate).",
+            "  - **G₂ Phase**: Final prep for division.",
+            "**Mitotic (M) Phase**:",
+            "  - **Mitosis**: Division of the nucleus.",
+            "  - **Cytokinesis**: Division of the cytoplasm.",
+            "**Cancer**: Failure of cell cycle regulation leads to uncontrolled division."
+          ]
+        },
+        {
+          "slide_number": 36,
+          "section": "4.2.1 Mitosis",
+          "title": "Mitosis: The Stages",
+          "content": [
+            "**Prophase**: Chromosomes condense, nuclear envelope breaks down, spindle forms.",
+            "**Metaphase**: Chromosomes align at the metaphase plate.",
+            "**Anaphase**: Sister chromatids separate and are pulled to opposite poles.",
+            "**Telophase**: Nuclear envelope reforms, chromosomes decondense.",
+            "**Cytokinesis**: Division of cytoplasm, resulting in two identical diploid (2n) cells.",
+            "**Function**: Growth, repair, replacement."
+          ]
+        },
+        {
+          "slide_number": 37,
+          "section": "4.2.2 Meiosis",
+          "title": "Meiosis: The Stages",
+          "content": [
+            "Meiosis results in four genetically unique haploid (n) cells.",
+            "**Meiosis I (Reductional Division)**:",
+            "  - Homologous chromosomes pair up, crossing over occurs.",
+            "  - Homologous chromosomes separate.",
+            "**Meiosis II (Equational Division)**:",
+            "  - Sister chromatids separate.",
+            "**Key Features**:",
+            "  - Produces gametes (sex cells).",
+            "  - Halves the chromosome number.",
+            "  - Creates genetic diversity through crossing over."
+          ]
+        },
+        {
+          "slide_number": 38,
+          "section": "4.3 Renowned Ethiopian Geneticist",
+          "title": "Dr. Melaku Worede",
+          "content": [
+            "Pioneer geneticist and agronomist.",
+            "Instrumental in establishing the Plant Genetic Resource Centre in Addis Ababa.",
+            "Focused on 'farming-based' conservation of native seeds (landraces).",
+            "His work preserved genetic diversity and developed locally adapted, high-yielding native seed varieties.",
+            "Awarded the Right Livelihood Award in 1989.",
+            "Demonstrated that native seeds could outperform high-input commercial varieties."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "chapter_title": "Human Biology",
+      "slides": [
+        {
+          "slide_number": 39,
+          "section": "5.1 The Digestive System",
+          "title": "Overview of the Digestive System",
+          "content": [
+            "**Functions**: Ingestion, Digestion, Absorption, Egestion.",
+            "**Alimentary Canal**: Mouth → Esophagus → Stomach → Small Intestine → Large Intestine → Rectum → Anus.",
+            "**Accessory Organs**: Salivary Glands, Pancreas, Liver, Gallbladder.",
+            "**Mechanical Digestion**: Physical breakdown (chewing, churning).",
+            "**Chemical Digestion**: Enzymatic breakdown of food molecules."
+          ]
+        },
+        {
+          "slide_number": 40,
+          "section": "5.1 The Digestive System",
+          "title": "Digestion in the Alimentary Canal",
+          "content": [
+            "**Mouth**: Mechanical digestion (chewing) and chemical digestion of starch (salivary amylase).",
+            "**Stomach**: Protein digestion begins (pepsin). Gastric juice contains HCl (kills microbes) and pepsinogen.",
+            "**Small Intestine**: Main site of chemical digestion and absorption. Enzymes complete digestion of carbohydrates, proteins, and lipids.",
+            "**Large Intestine**: Absorbs water and minerals, forms feces.",
+            "**Absorption**: Occurs in the small intestine, aided by villi (increased surface area)."
+          ]
+        },
+        {
+          "slide_number": 41,
+          "section": "5.2 The Circulatory and Lymphatic System",
+          "title": "The Heart and Blood Vessels",
+          "content": [
+            "**Heart**: Four-chambered pump (2 atria, 2 ventricles).",
+            "**Pulmonary Circulation**: Heart → Lungs (for O₂) → Heart.",
+            "**Systemic Circulation**: Heart → Body → Heart.",
+            "**Blood Vessels**:",
+            "  - **Arteries**: Carry blood away from the heart.",
+            "  - **Veins**: Carry blood back to the heart.",
+            "  - **Capillaries**: Microscopic vessels for exchange."
+          ]
+        },
+        {
+          "slide_number": 42,
+          "section": "5.2 The Circulatory and Lymphatic System",
+          "title": "Blood and Blood Groups",
+          "content": [
+            "**Blood Components**: Plasma (55%), Red Blood Cells (erythrocytes), White Blood Cells (leukocytes), Platelets.",
+            "**ABO Blood Groups**: Determined by antigens on red blood cells.",
+            "  - Type A: A antigen, anti-B antibodies.",
+            "  - Type B: B antigen, anti-A antibodies.",
+            "  - Type AB: A & B antigens, no antibodies (Universal Recipient).",
+            "  - Type O: No antigens, anti-A & anti-B antibodies (Universal Donor).",
+            "**Rh Factor**: Rh+ or Rh-. Incompatibility can cause issues in pregnancy."
+          ]
+        },
+        {
+          "slide_number": 43,
+          "section": "5.2.2 Diseases of the Circulatory and Lymphatic Systems",
+          "title": "Common Cardiovascular and Lymphatic Diseases",
+          "content": [
+            "**Leukemia**: Cancer of blood-forming tissues.",
+            "**Varicose Veins**: Swollen, twisted veins due to faulty valves.",
+            "**Elephantiasis**: Extreme swelling caused by parasitic worms blocking the lymphatic system.",
+            "**Atherosclerosis**: Plaque buildup in arteries.",
+            "**Heart Attack**: Blockage of blood flow to the heart.",
+            "**Stroke**: Disruption of blood supply to the brain.",
+            "**Heart Failure**: Inefficient pumping of the heart.",
+            "**Arrhythmia**: Irregular heartbeat."
+          ]
+        },
+        {
+          "slide_number": 44,
+          "section": "5.3 The Breathing System",
+          "title": "Structure and Function of the Breathing System",
+          "content": [
+            "**Pathway of Air**: Nasal cavity → Pharynx → Larynx → Trachea → Bronchi → Bronchioles → Alveoli.",
+            "**Alveoli**: Tiny air sacs where gas exchange occurs. They have a large surface area.",
+            "**Breathing Mechanism**:",
+            "  - **Inhalation**: Diaphragm contracts and flattens, chest volume increases, air rushes in.",
+            "  - **Exhalation**: Diaphragm relaxes, chest volume decreases, air is forced out.",
+            "**Interconnection**: The circulatory system transports O₂ from the lungs to cells and CO₂ from cells to the lungs."
+          ]
+        },
+        {
+          "slide_number": 45,
+          "section": "5.4 The Human Urinary System",
+          "title": "Structure of the Kidney and Nephron",
+          "content": [
+            "**Kidney**: Bean-shaped organ, filters blood to form urine.",
+            "**Nephron**: The functional unit of the kidney.",
+            "**Parts of a Nephron**:",
+            "  - **Renal Corpuscle**: Glomerulus (capillary network) and Bowman's capsule.",
+            "  - **Renal Tubule**: PCT, Loop of Henle, DCT.",
+            "**Urine Formation**:",
+            "  1. Glomerular Filtration: Blood is filtered.",
+            "  2. Tubular Reabsorption: Valuable substances are reabsorbed.",
+            "  3. Tubular Secretion: Wastes are secreted into the tubule."
+          ]
+        },
+        {
+          "slide_number": 46,
+          "section": "5.5 The Immune System",
+          "title": "Innate vs. Adaptive Immunity",
+          "content": [
+            "**Innate Immunity (Non-specific)**:",
+            "  - First line of defense (skin, mucous membranes).",
+            "  - Chemical barriers (stomach acid).",
+            "  - Phagocytes (macrophages, neutrophils).",
+            "**Adaptive Immunity (Specific)**:",
+            "  - Develops after exposure to a pathogen.",
+            "  - **Memory**: Provides a faster, stronger response upon re-exposure (basis of vaccination).",
+            "  - **Lymphocytes**: B cells (produce antibodies) and T cells (destroy infected cells)."
+          ]
+        },
+        {
+          "slide_number": 47,
+          "section": "5.6 Renowned Physicians in Ethiopia",
+          "title": "Pioneering Ethiopian Physicians",
+          "content": [
+            "**Prof. Asrat Woldeyes (1928-1999)**:",
+            "  - First Ethiopian to qualify as a surgeon in the West.",
+            "  - Dedicated his life to surgery and medical education at Addis Ababa University.",
+            "**Dr. Widad Kidane Mariam**:",
+            "  - The first female physician in Ethiopia.",
+            "  - Leading medical administrator in the Ministry of Health.",
+            "  - Played a key role in establishing the Ethiopian Family Planning Association and maternal health services."
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "chapter_title": "Ecological Interaction",
+      "slides": [
+        {
+          "slide_number": 48,
+          "section": "6.1 Trophic Levels",
+          "title": "Food Chains and Food Webs",
+          "content": [
+            "**Producers (Autotrophs)**: Make their own food (e.g., plants). First trophic level.",
+            "**Consumers (Heterotrophs)**: Obtain energy by eating others.",
+            "  - **Primary Consumers (Herbivores)**: Second trophic level.",
+            "  - **Secondary Consumers (Carnivores)**: Third trophic level.",
+            "  - **Tertiary Consumers (Top Carnivores)**: Fourth trophic level.",
+            "**Food Chain**: Linear flow of energy.",
+            "**Food Web**: Interconnected network of food chains."
+          ]
+        },
+        {
+          "slide_number": 49,
+          "section": "6.1.2 Flow of energy and matter through ecosystem",
+          "title": "Energy Flow vs. Matter Cycling",
+          "content": [
+            "**Energy Flow**:",
+            "  - **One-way direction**: Sun → Producers → Consumers.",
+            "  - **Not recycled**: Energy is lost as heat at each trophic level.",
+            "  - **Ecological Pyramid**: Shows energy at each level, always upright.",
+            "**Matter Cycling**:",
+            "  - **Cycled**: Nutrients are reused.",
+            "  - **Decomposers**: Break down dead matter, returning nutrients to the soil."
+          ]
+        },
+        {
+          "slide_number": 50,
+          "section": "6.2 Cycling of Materials in an Ecosystem",
+          "title": "Biogeochemical Cycles",
+          "content": [
+            "**Water Cycle**: Evaporation, condensation, precipitation, runoff.",
+            "**Carbon Cycle**: Photosynthesis (removes CO₂), Respiration/Combustion (adds CO₂).",
+            "**Nitrogen Cycle**:",
+            "  - Fixation (N₂ → NH₃), Nitrification (NH₃ → NO₃⁻), Assimilation, Ammonification, Denitrification.",
+            "**Phosphorus Cycle**:",
+            "  - No atmospheric phase.",
+            "  - Weathering of rocks releases phosphate.",
+            "  - Important for DNA, ATP, phospholipids.",
+            "  - Human impact: Eutrophication."
+          ]
+        }
+      ]
+    }
+  ]
+}

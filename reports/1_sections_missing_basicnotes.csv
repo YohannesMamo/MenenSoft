@@ -1,0 +1,858 @@
+﻿subject,grade,chapter,chapter_title,section,section_title
+Agriculture,Grade 12,1,Vegetable Crops Production and Management,1.1,"Importance, problems and prospects of vegetable crop production in Ethiopia"
+Agriculture,Grade 12,1,Vegetable Crops Production and Management,1.2,Environmental factors influencing vegetable production
+Agriculture,Grade 12,1,Vegetable Crops Production and Management,1.4,Types of vegetable crop production System
+Agriculture,Grade 12,1,Vegetable Crops Production and Management,1.5,Principles of vegetable crops management
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.1,Definition of some common terms
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.2,"Importance, problems and prospect of fruit crops production in Ethiopia"
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.4,Principles and techniques of fruit propagation
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.5,Establishing a nursery
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.6,Management of Orchards
+Agriculture,Grade 12,2,Fruit Crops Production and Management,2.7,Factors influencing the quality of fruit crops during harvest and post-harvest
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.1,Definition of terms
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.2,Classification of root and tuber crops
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.3,Importance of root and tuber crops
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.4,Prospects of root and tuber crops production in Ethiopia
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.5,Problems of root and tuber crops production in Ethiopia
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.6,Root and tuber crops managements and protection
+Agriculture,Grade 12,3,Root and Tuber Crops Production and Management,3.7,Harvesting and post-harvest handling of root and tuber crops
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.1,"History, origin, production status and economic importance of coffee, tea and spices"
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.2,"Ecological and soil requirements for coffee, tea and spices production"
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.3,"Propagation, nursery establishment and management of coffee, tea and spices"
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.4,"Field establishment and management practices of coffee, tea and spices"
+Agriculture,Grade 12,4,"Coffee, Tea And Spices Production and Management",4.5,Harvesting and processing coffee and tea
+Agriculture,Grade 12,5,Introduction to Plant Biotechnology,5.1,Introduction to tissue culture
+Agriculture,Grade 12,5,Introduction to Plant Biotechnology,5.2,Types of crops produced by tissue
+Agriculture,Grade 12,5,Introduction to Plant Biotechnology,5.3,Benefits of tissue culture
+Agriculture,Grade 12,5,Introduction to Plant Biotechnology,5.5,Application of genetic engineering in crop production
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.1,Beef cattle breeds and methods of selection
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.2,Beef cattle feeds and feeding methods
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.3,Beef cattle housing
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.4,Major disease of beef cattle and control methods
+Agriculture,Grade 12,6,Beef Cattle Production and Management,6.5,Meat production and processing
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.1,Sheep and goat breeds and selection
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.2,Sheep and goat feeds and feeding
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.3,Sheep and goat housing
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.4,Major diseases of sheep and goat and methods of controlling
+Agriculture,Grade 12,7,Sheep and Goat Production and Management,7.5,Sheep and goat meat and milk production and processing
+Agriculture,Grade 12,8,Camel Production and Management,8.1,Camel breeds and selections
+Agriculture,Grade 12,8,Camel Production and Management,8.2,Camel feeds and feeding
+Agriculture,Grade 12,8,Camel Production and Management,8.3,Camel housing
+Agriculture,Grade 12,8,Camel Production and Management,8.4,Major disease of camel and methods of their control
+Agriculture,Grade 12,8,Camel Production and Management,8.5,Camel meat and milk production and processing
+Agriculture,Grade 12,9,Poultry Production and Management,9.1,"Poultry breeds, classification and selection"
+Agriculture,Grade 12,9,Poultry Production and Management,9.2,Poultry feeds and feeding
+Agriculture,Grade 12,9,Poultry Production and Management,9.3,Poultry housing
+Agriculture,Grade 12,9,Poultry Production and Management,9.4,Poultry incubation and hatchery management
+Agriculture,Grade 12,9,Poultry Production and Management,9.5,Poultry brooding and rearing
+Agriculture,Grade 12,9,Poultry Production and Management,9.6,Layers and broilers management
+Agriculture,Grade 12,9,Poultry Production and Management,9.7,Major diseases of poultry and controlling methods
+Agriculture,Grade 12,10,Fishery Production and Management,10.1,Basic terms in aquaculture and farmed fish species in Ethiopia
+Agriculture,Grade 12,10,Fishery Production and Management,10.2,Basic anatomy of bony fishers
+Agriculture,Grade 12,10,Fishery Production and Management,10.3,Fish feeds and feeding practices
+Agriculture,Grade 12,10,Fishery Production and Management,10.4,Fish culture techniques
+Agriculture,Grade 12,10,Fishery Production and Management,10.5,Fish rearing
+Agriculture,Grade 12,10,Fishery Production and Management,10.6,Fishing methods
+Agriculture,Grade 12,10,Fishery Production and Management,10.7,Handling fish and fish products
+Agriculture,Grade 12,10,Fishery Production and Management,10.8,Diseases in aquaculture
+Agriculture,Grade 12,10,Fishery Production and Management,10.9,Indigenous knowledge in fish processing
+Agriculture,Grade 12,11,Apiculture,11.1,Introduction to honey bee management
+Agriculture,Grade 12,11,Apiculture,11.2,Bee biology and behavior
+Agriculture,Grade 12,11,Apiculture,11.3,Types of honey bee colony
+Agriculture,Grade 12,11,Apiculture,11.4,Management of honey bees
+Agriculture,Grade 12,11,Apiculture,11.5,Colony management and queen rearing
+Agriculture,Grade 12,11,Apiculture,11.6,Hive products and processing
+Agriculture,Grade 12,11,Apiculture,11.7,"Bee diseases, pests and predators"
+Agriculture,Grade 12,11,Apiculture,11.8,Indigenous knowledge in apiculture
+Agriculture,Grade 12,12,Nursery and Plantation Technology,12.1,Nursery establishment and management
+Agriculture,Grade 12,12,Nursery and Plantation Technology,12.3,Producing plants from seeds
+Agriculture,Grade 12,12,Nursery and Plantation Technology,12.4,Plantation establishment and management
+Agriculture,Grade 12,13,Basics of Agro-Forestry Systems and Practices,13.1,"Definition of agro-forestry, systems, and practices"
+Agriculture,Grade 12,13,Basics of Agro-Forestry Systems and Practices,13.2,Significance of agro-forestry
+Agriculture,Grade 12,13,Basics of Agro-Forestry Systems and Practices,13.3,Classification of agro-forestry systems
+Agriculture,Grade 12,13,Basics of Agro-Forestry Systems and Practices,13.4,"Agro-forestry species, establishment and management"
+Agriculture,Grade 12,14,Soil and Water Conservation,14.1,Soil properties
+Agriculture,Grade 12,14,Soil and Water Conservation,14.2,Soil erosion
+Agriculture,Grade 12,14,Soil and Water Conservation,14.3,Major causes of soil erosion
+Agriculture,Grade 12,14,Soil and Water Conservation,14.5,Types of soil and water conservation practices
+Agriculture,Grade 12,14,Soil and Water Conservation,14.6,Need of soil and water conservation
+Agriculture,Grade 12,14,Soil and Water Conservation,14.7,Indigenous Knowledge in Soil and water conservation
+Agriculture,Grade 12,15,Gender and Human Nutrition,15.1,Basic gender-related terminologies
+Agriculture,Grade 12,15,Gender and Human Nutrition,15.2,Gender role in food production and consumption
+Agriculture,Grade 12,15,Gender and Human Nutrition,15.3,Empowering women in food production and consumption
+Agriculture,Grade 12,16,Safe Food Production and Postharvest Handling,16.1,Food safety hazards and health risks
+Agriculture,Grade 12,16,Safe Food Production and Postharvest Handling,16.2,Source of food contaminants
+Agriculture,Grade 12,16,Safe Food Production and Postharvest Handling,16.3,Food safety and nutrition linkage
+Agriculture,Grade 12,16,Safe Food Production and Postharvest Handling,16.4,Indigenous knowledge in safe food production
+Agriculture,Grade 12,17,Application of Information and Communication Technologies (ICT) in Agriculture,17.1,Roles of ICT in agriculture
+Agriculture,Grade 12,17,Application of Information and Communication Technologies (ICT) in Agriculture,17.2,Major application of ICT in agriculture
+Agriculture,Grade 12,17,Application of Information and Communication Technologies (ICT) in Agriculture,17.3,Drawbacks and solutions of ICT in agriculture
+Biology,Grade 10 ,2,Plants,2.10,Medicinal plants
+Biology,Grade 10 ,2,Plants,2.3.1,The internal structure of a leaf
+Biology,Grade 10 ,2,Plants,2.3.2,The internal structure of a stem
+Biology,Grade 10 ,2,Plants,2.3.3,The internal structure of a root
+Biology,Grade 10 ,2,Plants,2.4.2,Reproductive structure and life cycle of flowering plants
+Biology,Grade 10 ,2,Plants,2.4.3,Pollination
+Biology,Grade 10 ,2,Plants,2.6.1,Seed dispersal
+Biology,Grade 10 ,2,Plants,2.6.2,Germination of seed
+Biology,Grade 10 ,2,Plants,2.7.1,The photosynthetic apparatus
+Biology,Grade 10 ,2,Plants,2.7.2,The light absorbing system in chloroplast
+Biology,Grade 10 ,2,Plants,2.7.3,Mechanism of photosynthesis
+Biology,Grade 10 ,2,Plants,2.7.4,Testing a leaf for starch
+Biology,Grade 10 ,2,Plants,2.8.1,Transporting systems in plants
+Biology,Grade 10 ,2,Plants,2.8.2,Mechanism of transport in plant
+Biology,Grade 10 ,3,Biochemical Molecules,3.1.1,Inorganic molecule: Water
+Biology,Grade 10 ,3,Biochemical Molecules,3.1.2,Inorganic ions
+Biology,Grade 10 ,3,Biochemical Molecules,3.1.3,Organic molecules
+Biology,Grade 10 ,4,Cell Reproduction,4.2.1,Mitosis
+Biology,Grade 10 ,4,Cell Reproduction,4.2.2,Meiosis
+Biology,Grade 10 ,5,Human Biology,5.2.1,Blood Donation
+Biology,Grade 10 ,5,Human Biology,5.2.2,Diseases of the circulatory and lymphatic systems
+Biology,Grade 10 ,6,Ecological Interaction,6.1.1,Food chain and food web
+Biology,Grade 10 ,6,Ecological Interaction,6.1.2,Flow of energy and matter through ecosystem
+Biology,Grade 10 ,6,Ecological Interaction,6.2,Cycling of Materials in an Ecosystem
+Biology,Grade 10 ,6,Ecological Interaction,6.2.2,Carbon cycle
+Biology,Grade 10 ,6,Ecological Interaction,6.2.3,Nitrogen cycle
+Biology,Grade 10 ,6,Ecological Interaction,6.2.4,Phosphorus cycle
+Biology,Grade 11 ,1,Biology and technology,1.2.1,The benefits of biology to technology
+Biology,Grade 11 ,1,Biology and technology,1.2.2,Uses of technology in biology
+Biology,Grade 11 ,1,Biology and technology,1.4.1,Ethical treatment of plants and animals during biological studies
+Biology,Grade 11 ,2,Animals,2.3.1,Asexual reproduction in animals
+Biology,Grade 11 ,2,Animals,2.3.2,Sexual reproduction in animals
+Biology,Grade 11 ,2,Animals,2.3.3,Reproduction in insects (complete and incomplete metamorphosis)
+Biology,Grade 11 ,2,Animals,2.3.4,Reproduction in Frog
+Biology,Grade 11 ,2,Animals,2.3.5,Reproduction in Crocodiles
+Biology,Grade 11 ,2,Animals,2.3.6,Reproduction in Birds
+Biology,Grade 11 ,2,Animals,2.3.7,Reproduction in rat
+Biology,Grade 11 ,2,Animals,2.4.1,Beneficial aspects of insects
+Biology,Grade 11 ,2,Animals,2.4.2,Harmful aspects of insects
+Biology,Grade 11 ,2,Animals,2.5.1,Types of Animal Behavior
+Biology,Grade 11 ,2,Animals,2.5.2,Patterns of Behavior
+Biology,Grade 11 ,2,Animals,2.6.1,Thermoregulation
+Biology,Grade 11 ,2,Animals,2.6.2,Osmoregulation
+Biology,Grade 11 ,2,Animals,2.6.3,Blood Sugar Regulation
+Biology,Grade 11 ,2,Animals,2.6.4,Control of homeostasis
+Biology,Grade 11 ,2,Animals,2.7,Renowned zoologists in Ethiopia
+Biology,Grade 11 ,3,Enzymes,3.10,Malting in Ethiopian tradition
+Biology,Grade 11 ,3,Enzymes,3.10.1,Steps of modern malting
+Biology,Grade 11 ,3,Enzymes,3.10.3,Traditional malting for local alcohol production
+Biology,Grade 11 ,3,Enzymes,3.11,Renowned Biochemists in Ethiopia
+Biology,Grade 11 ,3,Enzymes,3.2.1,General properties of an enzyme
+Biology,Grade 11 ,3,Enzymes,3.2.2,The function of enzymes
+Biology,Grade 11 ,3,Enzymes,3.4.1,Enzyme-substrate binding models
+Biology,Grade 11 ,3,Enzymes,3.4.2,Enzymatic transition state
+Biology,Grade 11 ,3,Enzymes,3.7.1,Description on factors affecting enzymatic actions
+Biology,Grade 11 ,4,Genetics,4.10,Genetic testing and counseling
+Biology,Grade 11 ,4,Genetics,4.12.1,Indigenous knowledge of Ethiopian farmers
+Biology,Grade 11 ,4,Genetics,4.2.1,The Structure and function of DNA
+Biology,Grade 11 ,4,Genetics,4.2.2,The structure and function of RNA
+Biology,Grade 11 ,4,Genetics,4.2.3,DNA replication
+Biology,Grade 11 ,4,Genetics,4.3.1,Cell Division
+Biology,Grade 11 ,4,Genetics,4.5.1,Mendellan crosses
+Biology,Grade 11 ,4,Genetics,4.5.2,Monohybrid cross
+Biology,Grade 11 ,4,Genetics,4.5.3,Dihybrid Cross
+Biology,Grade 11 ,4,Genetics,4.5.4,Test Crosses
+Biology,Grade 11 ,4,Genetics,4.7.1,"Co-dominance, Incomplete dominance and Multiple alleles"
+Biology,Grade 11 ,4,Genetics,4.7.2,Rh factor inheritance in humans and its medical importance
+Biology,Grade 11 ,4,Genetics,4.7.3,Sex-linked inheritance in humans
+Biology,Grade 11 ,4,Genetics,4.7.4,Environmental effects on phenotype
+Biology,Grade 11 ,5,The human body systems,5.1.1,Types of muscles
+Biology,Grade 11 ,5,The human body systems,5.1.2,Mechanism of actions of skeletal muscles
+Biology,Grade 11 ,5,The human body systems,5.1.3,The human axial and appendicular skeletons
+Biology,Grade 11 ,5,The human body systems,5.1.4,Joints
+Biology,Grade 11 ,5,The human body systems,5.2.1,Human reproductive system (Male and Female)
+Biology,Grade 11 ,5,The human body systems,5.2.2,Gametogenesis
+Biology,Grade 11 ,5,The human body systems,5.2.2.1,Positive and negative feedbacks to control the menstrual cycle
+Biology,Grade 11 ,5,The human body systems,5.2.3,Fertilization and pregnancy
+Biology,Grade 11 ,5,The human body systems,5.2.4,Mechanism of action of contraceptives
+Biology,Grade 11 ,5,The human body systems,5.2.5,Causes of infertility in humans
+Biology,Grade 11 ,5,The human body systems,5.2.6,The major sexually transmitted infections (STIs) in Ethiopia
+Biology,Grade 11 ,5,The human body systems,5.2.8,Epidemiology of STIs in Ethiopia
+Biology,Grade 11 ,5,The human body systems,5.3.1,Harmful traditional practices
+Biology,Grade 11 ,5,The human body systems,5.4.1,Risks related to the lack of family planning
+Biology,Grade 11 ,5,The human body systems,5.4.2,Family planning actions
+Biology,Grade 11 ,5,The human body systems,5.4.3,Family planning services
+Biology,Grade 11 ,5,The human body systems,5.5.1,The effects of alcohol uses
+Biology,Grade 11 ,5,The human body systems,5.5.2,Effects of chewing Khat
+Biology,Grade 11 ,5,The human body systems,5.5.3,Effects of drug uses
+Biology,Grade 11 ,6,Population and natural resources,6.1.1,"Population size, density and dispersal"
+Biology,Grade 11 ,6,Population and natural resources,6.1.2,Exponential and logistic growth in populations
+Biology,Grade 11 ,6,Population and natural resources,6.1.3,Demographic structure
+Biology,Grade 11 ,6,Population and natural resources,6.1.4,Population regulation
+Biology,Grade 11 ,6,Population and natural resources,6.5.2,Climate change
+Biology,Grade 11 ,6,Population and natural resources,6.5.3,Global warming
+Biology,Grade 11 ,6,Population and natural resources,6.5.4,Ozone layer depletion
+Biology,Grade 11 ,6,Population and natural resources,6.5.5,Acid rain
+Biology,Grade 11 ,6,Population and natural resources,6.5.6,Loss of Biodiversity
+Biology,Grade 11 ,6,Population and natural resources,6.5.7,Toxic bioaccumulation
+Biology,Grade 11 ,6,Population and natural resources,6.5.8,Resource depletion
+Biology,Grade 12,1,Application of Biology ,1.1,Application in Conservation of Natural Resources 
+Biology,Grade 12,1,Application of Biology ,1.2,Food and Nutrition Security 
+Biology,Grade 12,1,Application of Biology ,1.3,Creating Conscious Citizens and Ensuring Sustainable Development 
+Biology,Grade 12,1,Application of Biology ,1.4,Applications in Biotechnology 
+Biology,Grade 12,2,Microorganisms ,2.1,Eubacteria 
+Biology,Grade 12,2,Microorganisms ,2.1.1,Structure of Bacterial Cell
+Biology,Grade 12,2,Microorganisms ,2.1.2,Bacterial Shapes
+Biology,Grade 12,2,Microorganisms ,2.1.3,Nutritional types of bacteria
+Biology,Grade 12,2,Microorganisms ,2.1.4,Reproduction of bacteria
+Biology,Grade 12,2,Microorganisms ,2.11,Renowned Microbiologists in Ethiopia 
+Biology,Grade 12,2,Microorganisms ,2.2,Archaea 
+Biology,Grade 12,2,Microorganisms ,2.2.1,Beneficial aspects of Archaea
+Biology,Grade 12,2,Microorganisms ,2.2.2,Physical factors that affecting microbial growths
+Biology,Grade 12,2,Microorganisms ,2.3,Fungi 
+Biology,Grade 12,2,Microorganisms ,2.3.1,General Characteristics of True Fungi
+Biology,Grade 12,2,Microorganisms ,2.3.2,Ecology of Fungi
+Biology,Grade 12,2,Microorganisms ,2.3.3,Classification of Fungi
+Biology,Grade 12,2,Microorganisms ,2.3.4,Reproduction in fungi
+Biology,Grade 12,2,Microorganisms ,2.3.5,Economic importance of fungi
+Biology,Grade 12,2,Microorganisms ,2.4,Protozoa 
+Biology,Grade 12,2,Microorganisms ,2.4.1,Common diseases caused by protozoa
+Biology,Grade 12,2,Microorganisms ,2.5,Viruses 
+Biology,Grade 12,2,Microorganisms ,2.5.1,Characteristics of virus
+Biology,Grade 12,2,Microorganisms ,2.5.2,Viral symmetry
+Biology,Grade 12,2,Microorganisms ,2.5.3,Classification of Viruses
+Biology,Grade 12,2,Microorganisms ,2.6,Normal Microbiota 
+Biology,Grade 12,2,Microorganisms ,2.7,Modes of Disease Transmission and Prevention 
+Biology,Grade 12,2,Microorganisms ,2.8,Uses of Microorganisms 
+Biology,Grade 12,2,Microorganisms ,2.9,Controlling Microorganisms 
+Biology,Grade 12,3,Energy Transformation ,3.1,Cellular Metabolism 
+Biology,Grade 12,3,Energy Transformation ,3.2,Photosynthesis 
+Biology,Grade 12,3,Energy Transformation ,3.2.1,Photosynthetic pigments
+Biology,Grade 12,3,Energy Transformation ,3.2.5,Light-Independent Reactions (Calvin cycle)
+Biology,Grade 12,3,Energy Transformation ,3.3,Contributions of Photosynthesis 
+Biology,Grade 12,3,Energy Transformation ,3.4,Cellular Respiration 
+Biology,Grade 12,3,Energy Transformation ,3.4.3,The site of cellular respiration
+Biology,Grade 12,4,Evolution ,4.1,Evolution 
+Biology,Grade 12,4,Evolution ,4.1.1,Definition
+Biology,Grade 12,4,Evolution ,4.1.2,Theories of evolution
+Biology,Grade 12,4,Evolution ,4.1.3,The evidence for evolution
+Biology,Grade 12,4,Evolution ,4.1.4,"Natural selection: Definition, Types & Examples"
+Biology,Grade 12,4,Evolution ,4.1.5,Human evolution
+Biology,Grade 12,4,Evolution ,4.1.6,Mutation
+Biology,Grade 12,4,Evolution ,4.1.7,Genetic Drift
+Biology,Grade 12,4,Evolution ,4.1.8,Gene flow (immigration and emigration)
+Biology,Grade 12,4,Evolution ,4.1.9,Causes of species extinction
+Biology,Grade 12,4,Evolution ,4.2,Renowned Anthropologists in Ethiopia 
+Biology,Grade 12,4,Evolution ,4.3,Renowned Evolutionists in Ethiopia 
+Biology,Grade 12,5,Human Body System ,5.1,The Nervous System 
+Biology,Grade 12,5,Human Body System ,5.1.1,Neurons and their functions
+Biology,Grade 12,5,Human Body System ,5.1.2,The Nerve Impulse and transmission
+Biology,Grade 12,5,Human Body System ,5.1.3,Neurotransmitters
+Biology,Grade 12,5,Human Body System ,5.1.4,Types of the nervous system
+Biology,Grade 12,5,Human Body System ,5.1.6,Reflex action
+Biology,Grade 12,5,Human Body System ,5.1.7,Drug abuse
+Biology,Grade 12,5,Human Body System ,5.2,Sense Organs 
+Biology,Grade 12,5,Human Body System ,5.2.1,Skin
+Biology,Grade 12,5,Human Body System ,5.2.2,The Tongue
+Biology,Grade 12,5,Human Body System ,5.2.3,The Nose
+Biology,Grade 12,5,Human Body System ,5.2.4,The Eye
+Biology,Grade 12,5,Human Body System ,5.2.5,The Ear
+Biology,Grade 12,5,Human Body System ,5.2.6,The endocrine system
+Biology,Grade 12,5,Human Body System ,5.3,Homeostasis in the Human Body 
+Biology,Grade 12,5,Human Body System ,5.3.1,The structure and function of the human kidney
+Biology,Grade 12,6,Climate Change ,6.1,Climate Change: Causes and Effects 
+Biology,Grade 12,6,Climate Change ,6.1.1,Definition of Climate Change
+Biology,Grade 12,6,Climate Change ,6.1.2,Causes of climate change
+Biology,Grade 12,6,Climate Change ,6.2,Effects of Climate Change 
+Biology,Grade 12,6,Climate Change ,6.2.1,Effects of climate change on biodiversity
+Biology,Grade 12,6,Climate Change ,6.2.2,Effects of climate change on Agriculture
+Biology,Grade 12,6,Climate Change ,6.2.3,Effect of climate change on forest productivity
+Biology,Grade 12,6,Climate Change ,6.2.4,Climate change and natural disasters
+Biology,Grade 12,6,Climate Change ,6.3,International Conventions 
+Biology,Grade 12,6,Climate Change ,6.3.1,The United Nations Framework Convention
+Biology,Grade 12,6,Climate Change ,6.3.2,Kyoto Protocol on Climate Change
+Biology,Grade 12,6,Climate Change ,6.3.3,International and national practices of Implementation of conventions
+Biology,Grade 9 ,1,Introduction to Biology,1.4.1,Laboratory tools of biologist 
+Biology,Grade 9 ,1,Introduction to Biology,1.4.2,Field tools 
+Biology,Grade 9 ,1,Introduction to Biology,1.5.1,The parts and function of the light microscope 
+Biology,Grade 9 ,1,Introduction to Biology,1.5.2,Handling and using a light microscope 
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.2.1,Principles of classification 
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.2.2,Taxonomic hierarchies in biological classification 
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.1,Kingdom Monera 
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.2,Kingdom Protista 
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.3,Kingdom Fungi 
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.4,Kingdom Plantae 
+Biology,Grade 9 ,2,Characteristics and Classification of Organisms,2.6.5,Kingdom Animalia 
+Biology,Grade 9 ,3,Cells,3.7.1,Passive transport 
+Biology,Grade 9 ,3,Cells,3.7.2,Active transport 
+Biology,Grade 9 ,4,Reproduction,4. 6,Male reproductive structures 
+Biology,Grade 9 ,4,Reproduction,4.10,Methods of birth control 
+Biology,Grade 9 ,4,Reproduction,4.11,Sexually transmitted infections (STIs): Transmission and prevention
+Biology,Grade 9 ,4,Reproduction,4.3.1,Fission 
+Biology,Grade 9 ,4,Reproduction,4.3.2,Fragmentation 
+Biology,Grade 9 ,4,Reproduction,4.3.3,Budding 
+Biology,Grade 9 ,4,Reproduction,4.3.4,Vegetative propagation 
+Biology,Grade 9 ,5,"Human Health, Nutrition, and Disease",5.8. 1,Infectious diseases 
+Biology,Grade 9 ,5,"Human Health, Nutrition, and Disease",5.8. 2,Non-infectious diseases 
+Biology,Grade 9 ,5,"Human Health, Nutrition, and Disease",5.9,Renowned Nutritionists in Ethiopia
+Biology,Grade 9 ,6,Ecology,6.1.1,Definitions of Ecological Terms 
+Biology,Grade 9 ,6,Ecology,6.1.2,Biotic and abiotic components 
+Biology,Grade 9 ,6,Ecology,6.1.3,Ecological levels 
+Biology,Grade 9 ,6,Ecology,6.1.4,Ecosystems 
+Biology,Grade 9 ,6,Ecology,6.1.5,Biomes 
+Biology,Grade 9 ,6,Ecology,6.1.6,Ecological succession 
+Biology,Grade 9 ,6,Ecology,6.2,Ecological relationships 
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.2.1,Postulates of Dalton's Atomic Theory
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.2.2,Postulates of Modern Atomic Theory.
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.3.1,The Discovery of the Electron
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.3.2,Radioactivity and the Discovery of the Nucleus
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.3.3,Discovery of the Neutron
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.4.1,Subatomic Particles
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.4.2,Atomic Mass and Isotopes
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.1,Electromagnetic Radiation
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.2,The Quantum Theory and Photon
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.3,Atomic Spectra
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.4,The Bohr Model of the Hydrogen Atom.
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.5,Limitations of the Bohr Model
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.5.6,The Wave-Particle Duality of Matter and Energy
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.6.1,The Heisenberg's Principle
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.6.2,Quantum Numbers
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.6.3,Shapes of Atomic Orbitals.
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.7.1,Ground State Electronic Configuration of the Elements
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8.1,The Modern Periodic Table
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8.2,Classification of the Elements
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8.3,Periodic Properties
+Chemistry,Grade 11 ,1,ATOMIC STRUCTURE AND PERIODIC PROPERTIES OF THE ELEMENTS,1.8.4,Advantages of Periodic Classification of the Elements...
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.1.1,The Octet Rule
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.1.2,Types of Chemical Bonding
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.2.1,Lewis Electron-Dot Symbols
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.2.2,Formation of Ionic Bonds
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.2.3,Exceptions to the Octet Rule in Ionic Compounds
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.2.4,Properties of Ionic Compounds..
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.3.1,Molecular Geometry
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.3.2,Intermolecular Forces in Covalent Compounds.
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.4.1,Formation of Metallic Bonding.
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.4.2,Electron-Sea Model
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.4.3,Properties of Metals and Bonding
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.5.1,Valence Bond (VB) Theory
+Chemistry,Grade 11 ,2,CHEMICAL BONDING,2.5.2,Molecular Orbital Theory (MOT)
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.2.1,The Kinetic Theory of Matter
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.2.2,Properties of Matter...
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.3.1,The Kinetic Molecular Theory of Gases
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.3.2,The Gas Laws
+Chemistry,Grade 11 ,3,PHYSICAL STATES OF MATTER,3.4.1,Energy Changes in Liquids
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.1,Reversible and Irreversible Reactions
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.2,Attainment and Characteristics of Chemical Equilibria
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.3,Conditions for Attainment of Chemical Equilibria
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.4,Equilibrium Expression and Equilibrium Constant.
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.5,Applications of Equilibrium Constant
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.6,Changing Equilibrium Conditions: Le-Chatelier's Principle.
+Chemistry,Grade 11 ,5,CHEMICAL EQUILIBRIUM,5.2.7,Equilibrium and Industry..
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.1,Classification of Alcohols
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.2,Nomenclature of Alcohols
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.3,Physical Properties of Alcohols
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.4,Preparation of Alcohols..
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.5,Chemical Properties of Alcohols
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.6,Structure and Nomenclature of Ethers.
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.7,Physical Properties of Ethers
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.8,Preparation of Ethers
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.2.9,Reactions of Ethers....
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.3.1,Nomenclature
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.3.2,Physical Properties of Aldehydes and Ketones
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.1,Structure and Nomenclature of Carboxylic Acids
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.2,Physical Properties of Carboxylic Acids....
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.3,Chemical Properties of Carboxylic Acids..
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.4,Preparation of Carboxylic Acids......
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.5,Fatty Acids.
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.4.6,Uses of Carboxylic Acids
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.1,Sources of Esters..
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.2,Nomenclature
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.3,Physical Properties
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.4,Chemical Properties
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.5,Preparation of Esters
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.5.6,Uses of Esters
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.1,Source of Fats and Oils
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.2,Structure of Fats and Oils
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.3,Physical Properties of Fats and Oils
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.4,Hardening of Oils
+Chemistry,Grade 11 ,6,SOME IMPORTANT OXYGEN-CONTAINING ORGANIC COMPOUNDS,6.6.5,Rancidity....
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.1.1,Arrhenius Concept of Acids and Bases
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.1.3,Lewis Concept of Acids and Bases..
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.2.1,Ionization of Water
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.2.2,Measures of the Strength of acids and Bases in Aqueous Solution
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.3.1,The Common Ion Effect
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.3.2,Buffer Solutions..
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.4.1,Hydrolysis of Salts of Strong Acids and Strong Bases
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.4.2,Hydrolysis of Salts of Weak Acids and Strong Bases
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.4.3,Hydrolysis of Salts of Strong Acids and Weak Bases
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.4.4,Hydrolysis of Salts of Weak Acids and Week Bases
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.5.1,Acid-Base Indicators
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.5.2,Equivalents of Acids and Bases.
+Chemistry,Grade 12,1,Acid-Base Equilibria,1.5.3,Acid-Base Titrations...
+Chemistry,Grade 12,2,Electrochemistry,2.1.1,Oxidation
+Chemistry,Grade 12,2,Electrochemistry,2.1.2,Reduction
+Chemistry,Grade 12,2,Electrochemistry,2.1.3,Balancing Oxidation-Reduction (Redox) Reactions...
+Chemistry,Grade 12,2,Electrochemistry,2.2.1,Electrolytic Cells
+Chemistry,Grade 12,2,Electrochemistry,2.2.2,Preferential Discharge
+Chemistry,Grade 12,2,Electrochemistry,2.2.3,Electrolysis of Some Selected Aqueous Solutions......
+Chemistry,Grade 12,2,Electrochemistry,2.3.1,Faraday's First Law of Electrolysis
+Chemistry,Grade 12,2,Electrochemistry,2.3.2,Faraday's Second Law of Electrolysis..
+Chemistry,Grade 12,3,Industrial Chemistry,3.2.1,Natural Resources (Raw Materials).
+Chemistry,Grade 12,3,Industrial Chemistry,3.2.2,Industry
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.1,Ammonia ($NH_3$)
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.2,Nitric Acid
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.3,Nitrogen-Based Fertilizers
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.4,Sulphuric Acid
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.5,Some Common Pesticides and Herbicides
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.6,Sodium Carbonate
+Chemistry,Grade 12,3,Industrial Chemistry,3.3.7,Sodium Hydroxide (NaOH).
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.1,Glass Manufacturing
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.2,Manufacturing of Ceramics
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.3,Cement..
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.4,Sugar Manufacturing.
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.5,Paper and Pulp.
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.6,Tannery
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.7,Food Processing and Preservation
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.8,Manufacturing of Ethanol
+Chemistry,Grade 12,3,Industrial Chemistry,3.4.9,Soap and Detergent
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.1.1,Components of the Environment
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.1.2,Natural Cycles in the Environment.
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.1.3,Concepts Related to Environmental Chemistry.........
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.2.1,Air Pollution
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.2.2,Water Pollution
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.2.3,Land Pollution
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.3.1,Global Warming and Climate Change
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.3.2,Chemistry of Greenhouse Gasses and Their Effects on Climate Change
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.4.1,Principle of Green Chemistry..
+Chemistry,Grade 12,5,Introduction to Environmental Chemistry,5.4.2,Cleaner Production in Chemistry
+Chemistry,Grade 9 ,1,CHEMISTRY AND ITS IMPORTANCE,1.4,Some Common Chemical Industries in Ethiopia
+Chemistry,Grade 9 ,1,CHEMISTRY AND ITS IMPORTANCE,Summary,Summary
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.1,The concept of democracy and democratization
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.2,Definitions and actors of democratization process
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.3,Institutionalizing democracy
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.4,The role of democracy for social transformation
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.5,Democratic values
+Civics/Citizenship,Grade 10 ,1,Democracy and Democratization,1.6,Aspects of democracy
+Civics/Citizenship,Grade 10 ,2,Citizens in the Digital Technology Age,2.1,Implications of digital technology on citizens
+Civics/Citizenship,Grade 10 ,2,Citizens in the Digital Technology Age,2.2,The ethics of using digital technology
+Civics/Citizenship,Grade 10 ,2,Citizens in the Digital Technology Age,2.3,Opportunities of digital technology for young citizens
+Civics/Citizenship,Grade 10 ,2,Citizens in the Digital Technology Age,2.4,Impacts of unethical use of digital technology on young citizens
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.1,The concept of good governance
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.2,Elements of good governance
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.3,The role of good governance
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.4,Challenges for good governance
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.5,Impacts of lack of good governance
+Civics/Citizenship,Grade 10 ,3,Understanding Good Governance,3.6,Understanding and fighting corruption
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.1,The concepts of peace
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.2,Impacts of absence of peace
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.3,The notion of peace building
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.4,Indigenous conflict resolution mechanisms
+Civics/Citizenship,Grade 10 ,4,Peace and Indigenous Conflict Resolution Mechanisms,4.5,The roles of indigenous social institutions in ensuring sustainable peace
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.1,The meaning of federalism
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.2,Types of federalism
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.3,Key features of federalism
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.4,Advantage and disadvantage of federalism
+Civics/Citizenship,Grade 10 ,5,Federalism in Ethiopia,5.5,The roles of federalism in accommodating diversity in Ethiopia
+Civics/Citizenship,Grade 10 ,6,Human Rights,6.1,The concept of human right
+Civics/Citizenship,Grade 10 ,6,Human Rights,6.2,Citizens and state obligations in realizing human rights
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.1,The meaning of patriotism
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.2,Types of patriotism
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.3,The bases of patriotism
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.4,The importance of patriotism
+Civics/Citizenship,Grade 10 ,7,Patriotism,7.5,Duties expected of patriots
+Civics/Citizenship,Grade 10 ,8,Globalization and Global Issues,8.1,The meaning of globalization
+Civics/Citizenship,Grade 10 ,8,Globalization and Global Issues,8.2,Advantages and disadvantages of globalization
+Civics/Citizenship,Grade 10 ,8,Globalization and Global Issues,8.3,Fighting the negative impact of globalization
+Civics/Citizenship,Grade 10 ,8,Globalization and Global Issues,8.4,Major global issues
+Civics/Citizenship,Grade 9 ,1,ETHICAL VALUES,1.1,The meaning of ethics
+Civics/Citizenship,Grade 9 ,1,ETHICAL VALUES,1.2,Major ethical values
+Civics/Citizenship,Grade 9 ,1,ETHICAL VALUES,1.3,The importance of ethical values of citizens
+Civics/Citizenship,Grade 9 ,1,ETHICAL VALUES,1.4,Aspects of applied ethics
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.1,The concept of digital technology
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.2,Culture and digital technology
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.3,The Purpose of digital technology
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.4,Codes of conduct for using digital technology
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.5,Effective communication through digital media
+Civics/Citizenship,Grade 9 ,2,THE CULTURE OF USING DIGITAL TECHNOLOGY,2.6,Challenges of using digital media
+Civics/Citizenship,Grade 9 ,3,CONSTITUTION AND CONSTITUTIONALISM,3.1,Understanding constitution
+Civics/Citizenship,Grade 9 ,3,CONSTITUTION AND CONSTITUTIONALISM,3.2,Understanding constitutionalism
+Civics/Citizenship,Grade 9 ,3,CONSTITUTION AND CONSTITUTIONALISM,3.3,Constitutional experiences of Ethiopia
+Civics/Citizenship,Grade 9 ,4,UNDERSTANDING INDIGENOUS KNOWLEDGE,4.1,The concept of indigenous knowledge
+Civics/Citizenship,Grade 9 ,4,UNDERSTANDING INDIGENOUS KNOWLEDGE,4.2,The role of indigenous knowledge in producing responsible citizens
+Civics/Citizenship,Grade 9 ,4,UNDERSTANDING INDIGENOUS KNOWLEDGE,4.3,The role of indigenous social institutions in solving problems of communities
+Civics/Citizenship,Grade 9 ,5,MULTICULTURALISM IN ETHIOPIA,5.1,Understanding culture
+Civics/Citizenship,Grade 9 ,5,MULTICULTURALISM IN ETHIOPIA,5.2,The concept of multiculturalism
+Civics/Citizenship,Grade 9 ,5,MULTICULTURALISM IN ETHIOPIA,5.3,Pillars of multicultural societies
+Civics/Citizenship,Grade 9 ,5,MULTICULTURALISM IN ETHIOPIA,5.4,Major forms of diversity demonstrating multiculturalism
+Civics/Citizenship,Grade 9 ,6,NATIONAL UNITY THROUGH DIVERSITY,6.1,Unity in diversity
+Civics/Citizenship,Grade 9 ,6,NATIONAL UNITY THROUGH DIVERSITY,6.2,Elements of diversity
+Civics/Citizenship,Grade 9 ,6,NATIONAL UNITY THROUGH DIVERSITY,6.3,Accomodation of diversity
+Civics/Citizenship,Grade 9 ,6,NATIONAL UNITY THROUGH DIVERSITY,6.4,The importance of diversity management in Ethiopia
+Civics/Citizenship,Grade 9 ,7,PROBLEM SOLVING SKILLS,7.1,Meaning of problem- solving skills
+Civics/Citizenship,Grade 9 ,7,PROBLEM SOLVING SKILLS,7.2,The importance of problem- solving skills
+Civics/Citizenship,Grade 9 ,7,PROBLEM SOLVING SKILLS,7.3,Characteristics of good problem solver
+Civics/Citizenship,Grade 9 ,7,PROBLEM SOLVING SKILLS,7.4,Ways to improve one's problem solving skills
+Civics/Citizenship,Grade 9 ,8,ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA,8.1,The concepts of foreign relations
+Civics/Citizenship,Grade 9 ,8,ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA,8.2,Instruments of foreign policy
+Civics/Citizenship,Grade 9 ,8,ETHIOPIA'S FOREIGN RELATIONS IN EAST AFRICA,8.3,The roles of foreign policy
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.1 ,"Indifference Curve, Set and Map "
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.2 ,Properties of Indifference Curves 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.3 ,The Marginal Rate of Substitution (MRS) 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.4 ,Marginal Utility and MRS 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.2.5 ,Special Types of Indifference Curves 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.3.1 ,Slope of the Budget Line 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.3.2 ,Factors Affecting the Budget Line 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.3.3 ,Effects of Changes in Income 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.3.4 ,Effects of Changes in Price of the Commodities 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.4.1 ,Effects of Changes in Income and Prices on Consumer's Equilibrium 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1.4.2 ,Price Consumption Curve and Deriving the Demand Curve 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1Review Questions ,Review Questions 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,1Unit Summary ,Unit Summary 
+Economics,Grade 11 ,1,THEORY OF CONSUMER BEHAVIOR AND DEMAND,Introduction ,Introduction 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,1INTRODUCTION ,INTRODUCTION 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.2.1 ,"Demand, Revenue and Cost Curves "
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.2.2 ,The Short-Run Equilibrium of Firm 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.2.3 ,Short Run Supply Curve of a Firm 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.2.4 ,Long run-equilibrium of Firm 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.3.1 ,"Demand, Revenue and Cost under Monopoly "
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.3.2 ,Short-run equilibrium under Monopoly 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.3.3 ,Price Discrimination under Monopoly 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.4.1 ,Product Differentiations and the Demand Curve 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.4.2 ,Costs under Monopolistic Competition 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.4.3 ,Short- run Equilibrium under Monopolistic Competition 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.4.4 ,The Concept of Industry and Product Group 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.5.1 ,Collusive Oligopoly 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2.5.2 ,Non-collusive Oligopoly 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2Review Questions ,Review Questions 
+Economics,Grade 11 ,2,MARKET STRUCTURE AND THE DECISION OF FIRMS,2Unit Summary ,Unit Summary 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,2INTRODUCTION ,INTRODUCTION 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.2.1 ,The Concept of Gross Domestic Product (GDP) 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.2.2 ,The concept of Gross National Product (GNP) 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.3.1 ,The Expenditure Approach 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.3.2 ,The Income Approach 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.3.3 ,Product or Value-added Approach 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.3.4 ,Circular Flow of Income and the GDP 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.5.1 ,Nominal and Real GDP values 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3.5.2 ,The GDP Deflator and other Measures of General Price 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3Review Questions ,Review Questions 
+Economics,Grade 11 ,3,NATIONAL INCOME ACCOUNTING,3Unit Summary ,Unit Summary 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",3INTRODUCTION ,INTRODUCTION 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.1.1 ,Average Propensity to Consume (APC) 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.1.2 ,Marginal Propensity to Consume (MPC) 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.1.3 ,Determinants of Consumption Expenditure 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.2.1 ,Average Propensity to Save (APS) 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.2.2 ,Marginal Propensity to Save 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.2.3 ,Determinants of Saving 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.4.1 ,Investment Types 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.4.2 ,Determinants of Investment 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4.4.3 ,Role of Investment in Economic Growth 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4Review Questions ,Review Questions 
+Economics,Grade 11 ,4,"CONSUMPTION, SAVING AND INVESTMENT",4Unit Summary ,Unit Summary 
+Economics,Grade 11 ,5,TRADE AND FINANCE,4INTRODUCTION ,INTRODUCTION 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.3.1 ,The Mercantilists' View on Trade 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.3.2 ,The Classical Trade Theories 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.4.1 ,The Current Account (CA) 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.4.2 ,The Capital Account (KA) 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.6.1 ,Nominal and Real Exchange Rate. 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.6.2 ,Fixed Exchange Rate Systems 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.6.3 ,Floating Exchange Rate Systems 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.7.1 ,Advantages and Disadvantages of Economic Integration 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5.7.2 ,Globalization Practices in Ethiopian Context 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5Review Questions ,Review Questions 
+Economics,Grade 11 ,5,TRADE AND FINANCE,5Unit Summary ,Unit Summary 
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,5INTRODUCTION ,INTRODUCTION 
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,6.3.1 ,Ethiopia's HDI Value and Rank 
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,6.3.2 ,Evaluation of HDI and its Relevance to Developing Countries 
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,6Review Questions ,Review Questions 
+Economics,Grade 11 ,6,ECONOMIC DEVELOPMENT,6Unit Summary ,Unit Summary 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",6INTRODUCTION ,INTRODUCTION 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.1.1 ,Uni-modal Agricultural Strategy 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.1.2 ,Bi-Modal Agricultural Strategy 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.1.3 ,Overview of Agricultural Policies and Strategies of Ethiopia 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.1 ,The Imperial Regime (pre-1974) 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.2 ,The Derg Regime (1974-91) 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.3 ,The Post-1991 Regime 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.4 ,Problems of the Industrial Sector Post 1991 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.4.5 ,Possible Remedies for the problems of Industrial Sector 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.5.1 ,Education Sector Policies and Strategies 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.5.2 ,The Health Sector Policies and Strategies 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.5.3 ,The Transport Sector 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7.5.4 ,The Tourism Sector 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7Review Questions ,Review Questions 
+Economics,Grade 11 ,7,"MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",7Unit Summary ,Unit Summary 
+Economics,Grade 12,1,The Fundamental Concepts of Macroeconomics,1.1,Definition and Focus Areas of Macroeconomics Revisited
+Economics,Grade 12,1,The Fundamental Concepts of Macroeconomics,1.2,Key Challenges in Macroeconomics
+Economics,Grade 12,1,The Fundamental Concepts of Macroeconomics,1.3,The Schools of Thought in Macroeconomic Analysis
+Economics,Grade 12,2,Aggregate Demand and Aggregate Supply Analysis,2.1,Aggregate Demand
+Economics,Grade 12,2,Aggregate Demand and Aggregate Supply Analysis,2.2,Aggregate Supply
+Economics,Grade 12,2,Aggregate Demand and Aggregate Supply Analysis,2.3,Equilibrium of Aggregate Demand and Aggregate Supply
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.1,Market Failure
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.2,Public Goods
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.3,Externalities
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.4,Asymmetric Information
+Economics,Grade 12,3,Market Failure and Consumer Protection,3.5,Consumer Protection
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.1,Definition and Types of Macroeconomic Policies
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.2,Fiscal Policy
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.3,Monetary Policy
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.4,Income Policy and Wage
+Economics,Grade 12,4,Macroeconomic Policy Instruments,4.5,Foreign Exchange Policies
+Economics,Grade 12,5,Tax Theory and Practice,5.1,"Taxes: Definition, Principles, Objectives and Classifications"
+Economics,Grade 12,5,Tax Theory and Practice,5.2,Approaches to Tax Equity
+Economics,Grade 12,5,Tax Theory and Practice,5.3,Tax System and Structure in Ethiopia
+Economics,Grade 12,5,Tax Theory and Practice,5.4,Types of Tax and Tax Accounting in Ethiopia
+Economics,Grade 12,5,Tax Theory and Practice,5.5,Problems Associated with Taxation in Ethiopia
+Economics,Grade 12,6,Poverty and Inequality,6.1,Concept of Poverty and Its Measurement
+Economics,Grade 12,6,Poverty and Inequality,6.2,Concept of Inequality and its Measurements
+Economics,Grade 12,6,Poverty and Inequality,6.3,Global and Regional Poverty
+Economics,Grade 12,6,Poverty and Inequality,6.4,Women and Poverty
+Economics,Grade 12,6,Poverty and Inequality,6.5,Overview of Poverty and Inequalities in Ethiopia
+Economics,Grade 12,6,Poverty and Inequality,6.6,Role of Indigenous Knowledge in Reducing Poverty
+Economics,Grade 12,7,Macroeconomic Reforms in Ethiopia,7.1,National Development Objectives and Strategies- Historical Review
+Economics,Grade 12,7,Macroeconomic Reforms in Ethiopia,7.2,Overview of Home-grown Economic Reforms in Ethiopia
+Economics,Grade 12,7,Macroeconomic Reforms in Ethiopia,7.3,Fiscal Decentralization
+Economics,Grade 12,8,"Economy, Environment and Climate Change",8.1,Economy and the Environment
+Economics,Grade 12,8,"Economy, Environment and Climate Change",8.2,Global Warming and Climate Change
+Economics,Grade 12,8,"Economy, Environment and Climate Change",8.3,Green Economy and Green Growth
+Economics,Grade 12,8,"Economy, Environment and Climate Change",8.4,Overview of Environment and Climate Change in Ethiopia
+Geography,Grade 10 ,1,LANDFORMS OF AFRICA,1.4,Challenges of the Natural Environment
+Geography,Grade 12,5,Issues in Sustainable Development III: Challenges of Economic Development,5.4,Corruption
+Geography,Grade 12,5,Issues in Sustainable Development III: Challenges of Economic Development,5.5,Global Health Crises
+Geography,Grade 9 ,2,CLIMATE OF ETHIOPIA,2.5,MEASUREMENTS OF WEATHER AND CLIMATE
+Geography,Grade 9 ,4,POPULATION AND DEMOGRAPHIC CHARACTERISTICS OF ETHIOPIA,4.6,HEALTH AND DISEASE IN ETHIOPIA
+Geography,Grade 9 ,4,POPULATION AND DEMOGRAPHIC CHARACTERISTICS OF ETHIOPIA,4.7,IMPACTS OF POPULATION GROWTH ON SUSTAINABLE DEVELOPMENT IN ETHIOPIA
+Geography,Grade 9 ,4,POPULATION AND DEMOGRAPHIC CHARACTERISTICS OF ETHIOPIA,4.8,LANGUAGE AND RELIGIOUS DIVERSITY IN ETHIOPIA
+Geography,Grade 9 ,5,MAJOR ECONOMIC AND CULTURAL ACTIVITIES IN ETHIOPIA,5.6,Cultural Landscape and Tourism in Ethiopia
+Geography,Grade 9 ,7,CONTEMPORARY GEOGRAPHIC ISSUES AND PUBLIC CONCERNS IN ETHIOPIA,7.2,THE ETHIOPIAN GREEN LEGACY MOVEMENT
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.1,MAP AND ITS BASIC COMPONENTS
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.2,"SCALE, SCALE CONVERSION AND MEASUREMENTS ON MAPS"
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.3,POSITION ON MAPS
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.4,MAP SKETCHING
+Geography,Grade 9 ,8,GEOGRAPHIC INQUIRY SKILLS AND TECHNIQUES,8.5,INTERPRETING MAPS AND GRAPHS
+Health science,Grade 10 ,4,FOOTBALL,4.3,Consequences and Prevention
+Health science,Grade 10 ,5,VOLLEY BALL,5.3,Principles of Exercise and Training
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.1,Features of Capitalism
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.2,Features of Nationalism and Formation of Nation States
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.3,The Reformation
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.4,Nationalism and the Eastern Question
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.5,The Enlightenment
+History,Grade 10 ,1,DEVELOPMENT OF CAPITALISM AND NATIONALISM 1815 to 1914,1.6,The Industrial Revolution
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.1,General Background to Colonialism
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.2,The Motives of European Colonialism
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.3,Scramble for Africa and the Berlin Conference
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.4,Colonial Policies and Administration
+History,Grade 10 ,2,AFRICA & THE COLONIAL EXPERIENCE (1880s -1960s),2.5,Early African Resistance Movements Against Colonialism
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.1,Long Distance Trade in 19th Century and the Cottage Industry
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.2,The Making of Modern Ethiopian State 1855-1913
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.3,"External Aggressions and the Unity of Ethiopian People in Defence of National Sovereignty, 1871-1896"
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.4,The Inception of Power Struggle among the Ruling Elites 1906 to 1935
+History,Grade 10 ,3,"SOCIAL, ECONOMIC AND POLITICAL DEVELOPMENTS IN ETHIOPIA FROM MID-19th C. TO 1941",3.5,Fascist Italian Aggression and Patriotic Resistance
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.1,"The First World War: Causes, Course and the Consequence"
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.2,"The October 1917 Russian Revolution: Cause, Course and Results"
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.3,The League of Nations
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.4,The Worldwide Economic Crisis
+History,Grade 10 ,4,SOCIETY AND POLITICS IN THE AGE OF WORLD WARS 1914-1945,4.5,"The Rise of Fascism in Italy, Nazism in Germany and Militarism in Japan"
+History,Grade 10 ,5,GLOBAL AND REGIONAL DEVELOPMENTS SINCE 1945,5.1,"The United Nations Organization: Formation, Mission, Principles and Achievements"
+History,Grade 10 ,5,GLOBAL AND REGIONAL DEVELOPMENTS SINCE 1945,5.2,The Rise of the Superpowers and the Beginning of the Cold War
+History,Grade 10 ,5,GLOBAL AND REGIONAL DEVELOPMENTS SINCE 1945,5.3,"Situations in Asia During the Cold War: Japan, Korea, China, Vietnam"
+History,Grade 10 ,5,GLOBAL AND REGIONAL DEVELOPMENTS SINCE 1945,5.4,Non-Aligned Movement /NAM/
+History,Grade 10 ,6,ETHIOPIA: INTERNAL DEVELOPMENTS & EXTERNAL INFLUENCES FROM 1941 TO 1991,6.1,Major Administrative Reforms and Socio-Economic Conditions in the Post-Liberation Period
+History,Grade 10 ,6,ETHIOPIA: INTERNAL DEVELOPMENTS & EXTERNAL INFLUENCES FROM 1941 TO 1991,6.2,Early Opposition Movements Against the Imperial Rule
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1.1,History and Historiography
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1.2,Origin of Human Beings
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1.3,The Emergence of States
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1Introduction,Introduction
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1Review Questions,Review Questions
+History,Grade 11 ,1,"HISTORY, HISTORIOGRAPHY, AND HUMAN EVOLUTION",1Unit Summary,Unit Summary
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2.1,Ancient Civilizations of Africa
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2.2,Civilizations in Asia
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2.3,Civilizations in Europe
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2.4,Civilizations in Latin America
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2Introduction,Introduction
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2Review Questions,Review Questions
+History,Grade 11 ,2,MAJOR SPOTS OF ANCIENT WORLD CIVILIZATIONS UP TO C.500 A.D,2Unit Summary,Unit Summary
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.1,"Languages, Religions and Peoples of Ethiopia and the Horn"
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.2,Pre-Aksumite States and their Geographical Setting
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.3,The Aksumite Kingdom
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.4,The Sultanate of Shewa
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.5,Zagwe Dynasty
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.6,The Kingdom of Damot
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.7,The Bete-Israel (Ethiopian Jews)
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3.8,The Sultanates of Eastern and Central Ethiopia and the Horn
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3Introduction,Introduction
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3Review Questions,Review Questions
+History,Grade 11 ,3,"PEOPLES, STATES AND HISTORICAL PROCESSES IN ETHIOPIA AND THE HORN TO THE END OF THE 13TH CENTURY",3Unit Summary,Unit Summary
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.1,The European Middle Ages
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.2,Main Features of the Middle Ages
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.3,The Middle Ages in Asia
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.4,Development of Early Capitalism: 1500-1789
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4.5,The Age of Exploration and Inception of Globalization
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4Introduction,Introduction
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4Review Questions,Review Questions
+History,Grade 11 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C. 500 AD-1789",4Unit Summary,Unit Summary
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.1,Ancient and Medieval African States
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.2,North Africa
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.3,Spread of Islam to North Africa
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.4,States in West Africa
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.5,Central and Eastern Africa
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.6,Southern Africa
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.7,Relationships and Exchanges among Different Regions of Africa
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5.8,Major Developments in Asia in the 19th Century
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5Introduction,Introduction
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5Review Questions,Review Questions
+History,Grade 11 ,5,PEOPLES AND STATES OF AFRICA TO 1500,5Unit Summary,Unit Summary
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.1,Medieval African States
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.2,Contacts with the Outside World
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.3,Slavery and Slave Trade in Africa
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.4,The Legitimate Trade
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6.5,The White Settlement in South Africa
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6Introduction,Introduction
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6Review Questions,Review Questions
+History,Grade 11 ,6,AFRICA AND THE OUTSIDE WORLD: 1500-1880s,6Unit Summary,Unit Summary
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.1,The Christian Highland KingdomundertheRestoredSolomonicDynasty
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.2,The Expansion of Islam and the Emergence of Muslim Sultanates
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.3,Political and Socio-Economic Conditions of the Southern and Central States in Ethiopia
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.4,Relationship between the Christian Highland Kingdom and the Muslim Sultanate ofAdal
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.5,Population Movements in the Ethiopian Region
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.6,Economic Depression of 1929-1933
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7.7,The Second World War (WWII)
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7Introduction,Introduction
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7Review Questions,Review Questions
+History,Grade 11 ,7,"STATES, PRINCIPALITIES, POPULATION MOVEMENTS AND INTERACTIONS IN ETHIOPIA (13TH â€“ MID-16TH CENTURY)",7Unit Summary,Unit Summary
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.1,"Peoples and States of Southern, Western and Eastern Ethiopia"
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.2,"Instability Versus Consolidation in the Christian Kingdom, 1559-1855"
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.3,Italian Imperialism in the Horn of Africa
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.4,Resistance against Imperialism in Ethiopia and the Horn
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.5,Fascist Italian Invasion and the Period of Occupation
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8.6,Restoration and Consolidation of Ethiopian Independence
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8Introduction,Introduction
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8Review Questions,Review Questions
+History,Grade 11 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA, MID 16TH TO MID-19TH CENTURY",8Unit Summary,Unit Summary
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.1,Development of Capitalism
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.2,The Industrial Revolution
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.3,Nationalism
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.4,Unification of Italy
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.5,Unification of Germany
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.6,The American Civil War
+History,Grade 12,1,Development of Capitalism and Nationalism from 1815 to 1914,1.7,The Eastern Question
+History,Grade 12,2,Africa and the Colonial Experience (1880s - 1960s),2.1,The Era of Legitimate Trade and Colonial Empires
+History,Grade 12,2,Africa and the Colonial Experience (1880s - 1960s),2.2,African Resistance against Colonial Expansion
+History,Grade 12,2,Africa and the Colonial Experience (1880s - 1960s),2.3,Colonial Administration and the Colonial States
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.1,Long Distance Trade and Peoples' Interaction in Ethiopia in the 19th Century
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.2,"Power Rivalry and Consolidating Central Government, 1855-1913"
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.3,Territorial Expansion and the Incorporation of Kingdoms
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.4,"External Relations, Challenges and Threats"
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.5,The Victory of Adwa
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.6,Religious Reforms
+History,Grade 12,3,"Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",3.7,"Power Struggle among Ruling Elites, 1906-1935"
+History,Grade 12,4,"Society and Politics in the Age of World Wars, 1914 - 1945",4.1,World War I and Its Settlement
+History,Grade 12,4,"Society and Politics in the Age of World Wars, 1914 - 1945",4.2,The Russian Revolution of 1917
+History,Grade 12,4,"Society and Politics in the Age of World Wars, 1914 - 1945",4.3,"Interwar Period: Capitalist Economy, Fascism and Nazism"
+History,Grade 12,4,"Society and Politics in the Age of World Wars, 1914 - 1945",4.4,World War II
+History,Grade 12,5,Global and Regional Developments Since 1945,5.1,The Aftermath and Consequences of WW II
+History,Grade 12,5,Global and Regional Developments Since 1945,5.2,The United Nations Organization (the UN)
+History,Grade 12,5,Global and Regional Developments Since 1945,5.3,The Post-War Global Socio-Economic Recovery and Developments
+History,Grade 12,5,Global and Regional Developments Since 1945,5.4,The Cold War Realities
+History,Grade 12,5,Global and Regional Developments Since 1945,5.5,Situations in Asia during the Cold War
+History,Grade 12,5,Global and Regional Developments Since 1945,5.6,The Middle East
+History,Grade 12,5,Global and Regional Developments Since 1945,5.7,The Dissolution of the Communist Bloc and the Aftermath
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.1,The Restoration of the Imperial Rule and External Influences
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.2,Socio-economic Conditions and Social Organizations
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.3,Consolidation of Autocracy and Oppositions to the Monarch
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.4,The 1974 Revolution: The Downfall of the Emperor and the Rise of the Derg
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.5,Socio-economic and Political Reforms of the Military Regime
+History,Grade 12,6,Ethiopia: Internal Developments and External Influences from 1941 to 1991,6.6,The Decline and Downfall of the Derg Regime: Internal and External Threats
+History,Grade 12,7,Africa since the 1960s,7.1,The Road to Independence and the Rise of Independent States in Africa
+History,Grade 12,7,Africa since the 1960s,7.2,Politics in Independent African States
+History,Grade 12,7,Africa since the 1960s,7.3,Economy and Society in Independent Africa
+History,Grade 12,7,Africa since the 1960s,7.4,The Cold War and Africa
+History,Grade 12,7,Africa since the 1960s,7.5,"Pan-Africanism, from Organization of African Unity to African Union"
+History,Grade 12,8,Post 1991 Developments in Ethiopia,8.1,The Transitional Government of Ethiopia
+History,Grade 12,8,Post 1991 Developments in Ethiopia,8.2,Ethiopia after the 1995 Constitution
+History,Grade 12,8,Post 1991 Developments in Ethiopia,8.3,Socio-Economic Issues
+History,Grade 12,8,Post 1991 Developments in Ethiopia,8.4,The Role of Ethiopia in Peace Keeping
+History,Grade 12,9,Indigenous Knowledge Systems and Heritages of Ethiopia,9.1,Indigenous Knowledge: Definition and Unique Characteristic Features
+History,Grade 12,9,Indigenous Knowledge Systems and Heritages of Ethiopia,9.2,Indigenous knowledge and Development
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.2.1,The importance of History
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.2.2,Historiography and Historical interpretations.
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.2.3,Sources of History.
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.2.4,Dating in History
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.3.1,Theories of Human Evolution
+History,Grade 9 ,1,THE DISCIPLINE OF HISTORY AND HUMAN EVOLUTION,1.3.2,Africa and Human Evolution
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.1.1,Ancient Egypt.....
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.1.2,Nubia.
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.2.1,Mesopotamia
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.2.2,Persia.....
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.2.3,India
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.2.4,China
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.3.1,Maya
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.3.2,Inca
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.3.3,Aztecs.
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.4.1,Ancient Greek Civilization
+History,Grade 9 ,2,ANCIENT WORLD CIVILIZATIONS UP TO c.500 AD,2.4.2,Ancient Roman Civilization
+History,Grade 9 ,3,PEOPLE AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.,3.1.1,Languages Families
+History,Grade 9 ,3,PEOPLE AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.,3.1.2,Major Religions of Ethiopia
+History,Grade 9 ,3,PEOPLE AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.,3.1.3,Settlement Pattern of Peoples of Ethiopia
+History,Grade 9 ,3,PEOPLE AND STATES IN ETHIOPIA AND THE HORN TO THE END OF 13TH C.,3.6,The Sultanate of Shewa
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.1.1,Dark Age
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.1.2,Feudal Society..
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.1.3,Byzantine Empire.
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.2.1,The Rise and Expansion of Islam
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.2.2,The Expansion of the Ottoman Empire
+History,Grade 9 ,4,"THE MIDDLE AGES AND EARLY MODERN WORLD, C.500 TO 1750",4.2.3,Dynastic Cycle in China
+History,Grade 9 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16TH TO MID-19TH C.",8.1.1,Southern states
+History,Grade 9 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16TH TO MID-19TH C.",8.1.2,Western states
+History,Grade 9 ,8,"POLITICAL, SOCIAL AND ECONOMIC PROCESSES IN ETHIOPIA MID-16TH TO MID-19TH C.",8.1.3,"Eastern States: Harar, Afar, Somali"
+History,Grade 9 ,9,THE AGE OF REVOLUTION: 1750s TO 1815,9.1.1,"Political, Economic, and Social Effects of Industrial Revolution."
+Information Tech,Grade 12,1,Information Systems and their Applications,1.1,"Ethical, Legal, Social, Environmental and Health Issues in the Use of Information Systems"
+Information Tech,Grade 12,1,Information Systems and their Applications,1.2,Intellectual Property
+Information Tech,Grade 12,1,Information Systems and their Applications,1.3,Digital Identity Management
+Information Tech,Grade 12,1,Information Systems and their Applications,1.4,Collaboration Through Digital Technologies
+Information Tech,Grade 12,1,Information Systems and their Applications,1.5,Engaging in Citizenship through Digital Technologies
+Information Tech,Grade 12,2,Emerging Technologies,2.1,Introduction to Bigdata
+Information Tech,Grade 12,2,Emerging Technologies,2.2,Cloud Computing
+Information Tech,Grade 12,2,Emerging Technologies,2.3,Fog Computing
+Information Tech,Grade 12,2,Emerging Technologies,2.4,Internet of Things (IoT)
+Information Tech,Grade 12,3,Database Management System,3.1,Overview of Relational Database Management System
+Information Tech,Grade 12,3,Database Management System,3.2,Database Manipulation Using SQL
+Information Tech,Grade 12,4,Web Authoring,4.1,Introduction to XML
+Information Tech,Grade 12,4,Web Authoring,4.2,HTML vs. XML
+Information Tech,Grade 12,4,Web Authoring,4.3,Publishing Website
+Information Tech,Grade 12,5,Maintenance and Troubleshooting,5.1,Install and uninstall software
+Information Tech,Grade 12,5,Maintenance and Troubleshooting,5.2,Software Troubleshooting
+Information Tech,Grade 12,5,Maintenance and Troubleshooting,5.3,Tools to speedup computer system
+Information Tech,Grade 12,5,Maintenance and Troubleshooting,5.4,Network Troubleshooting
+Information Tech,Grade 12,6,Fundamentals of Programming,6.1,Program Flow Controls and Syntax in Python
+Information Tech,Grade 12,6,Fundamentals of Programming,6.2,Comments in Python
+Information Tech,Grade 12,6,Fundamentals of Programming,6.3,Python Interpreter
+Information Tech,Grade 12,6,Fundamentals of Programming,6.4,Testing and Debugging Programs
+Information Tech,Grade 9 ,1,ORGANIZATION OF FILES,1.4,Unit Summary
+Information Tech,Grade 9 ,1,ORGANIZATION OF FILES,1.5,Unit Review Exercise
+Information Tech,Grade 9 ,2,COMPUTER NETWORK,2.5,Unit Summary
+Information Tech,Grade 9 ,2,COMPUTER NETWORK,2.6,Unit Review Exercise
+Information Tech,Grade 9 ,3,APPLICATION SOFTWARE,3.5,Unit Summary
+Information Tech,Grade 9 ,3,APPLICATION SOFTWARE,3.6,Unit Review Exercise
+Information Tech,Grade 9 ,4,IMAGE PROCESSING AND MULTIMEDIA,4.4,Unit Summary
+Information Tech,Grade 9 ,4,IMAGE PROCESSING AND MULTIMEDIA,4.5,Unit Review Exercise
+Information Tech,Grade 9 ,5,INFORMATION AND COMPUTER SECURITY,5.6,Unit Summary
+Information Tech,Grade 9 ,5,INFORMATION AND COMPUTER SECURITY,5.7,Unit Review Exercise
+Mathematics,Grade 10 ,1,RELATIONS AND FUNCTIONS,1.3,Applications of Relations and Functions
+Mathematics,Grade 10 ,1,RELATIONS AND FUNCTIONS,1.4,Operations on Functions
+Mathematics,Grade 10 ,1,RELATIONS AND FUNCTIONS,1.5,Inverse of a Function
+Mathematics,Grade 10 ,4,TRIGONOMETRIC FUNCTIONS,4.5,Applications of Trigonometry
+Mathematics,Grade 10 ,6,SOLID FIGURES,6.3,Frustum of pyramids and cones
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.1,Collection and Organization of Data
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.2,Data Presentation
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.3,Measures of Central Tendency
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.4,Measures of Dispersion
+Mathematics,Grade 10 ,8,STATISTICS AND PROBABILITY,8.5,Probability
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.1,Sequence
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.2,Arithmetic and Geometric Sequences
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.3,The Sigma Notation and Partial Sums
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.4,Infinite Series
+Mathematics,Grade 12,1,SEQUENCES AND SERIES,1.5,Applications of Sequence and Series in Daily life
+Mathematics,Grade 12,2,INTRODUCTIONS TO CALCULUS,2.1,Introduction to Derivatives
+Mathematics,Grade 12,2,INTRODUCTIONS TO CALCULUS,2.2,Application of Derivative
+Mathematics,Grade 12,2,INTRODUCTIONS TO CALCULUS,2.3,Introduction to Integration
+Mathematics,Grade 12,3,STATISTICS,3.1,Measures of Absolute Dispersions
+Mathematics,Grade 12,3,STATISTICS,3.2,Interpretation of Relative Dispersions
+Mathematics,Grade 12,3,STATISTICS,3.3,Use of Frequency Curves
+Mathematics,Grade 12,3,STATISTICS,3.4,Sampling Techniques
+Mathematics,Grade 12,4,INTRODUCTION TO LINEAR PROGRAMMING,4.1,Graphical Solutions of System of Linear Inequalities
+Mathematics,Grade 12,4,INTRODUCTION TO LINEAR PROGRAMMING,4.2,Maximum and Minimum Values
+Mathematics,Grade 12,4,INTRODUCTION TO LINEAR PROGRAMMING,4.3,Applications
+Mathematics,Grade 12,5,MATHEMATICAL APPLICATIONS IN BUSINESS,5.1,Basic Mathematical Concepts in Business
+Mathematics,Grade 12,5,MATHEMATICAL APPLICATIONS IN BUSINESS,5.2,Time Value of Money
+Mathematics,Grade 12,5,MATHEMATICAL APPLICATIONS IN BUSINESS,5.3,"Saving, Investing and Borrowing Money"
+Mathematics,Grade 12,5,MATHEMATICAL APPLICATIONS IN BUSINESS,5.4,Taxation
+Physics,Grade 10 ,7,Geometric optics,7.1,Reflection of light by plane and curved mirrors
+Physics,Grade 10 ,7,Geometric optics,7.2,Refraction of light by lenses

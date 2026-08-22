@@ -1,0 +1,546 @@
+{
+  "subject": "Information Technology",
+  "grade": 11,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Information Systems and Its Applications",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Data, Information, Knowledge, and Wisdom",
+          "summary": "This section introduces the fundamental concepts of the data-information-knowledge-wisdom (DIKW) hierarchy. It begins by defining data as raw, unprocessed facts without inherent meaning, such as numbers or text. Information is then presented as data that has been processed and organized to provide context and meaning, answering 'who', 'what', 'when', and 'where' questions. Knowledge is described as the understanding and skills acquired by integrating and applying information to actions and experiences. Finally, wisdom is defined as the highest level of human understanding, representing the ability to make sound judgments and decisions using knowledge. The section concludes by comparing these concepts, illustrating how value increases as we move up the DIKW pyramid from data to wisdom.",
+          "notes": [
+            "Data: Raw facts (e.g., '100', 'Ethiopia') that lack meaning on their own.",
+            "Data can be represented in various forms: numbers, text, and images.",
+            "Information: Data processed to be meaningful (e.g., 'The temperature is 100°F').",
+            "Information is used to answer questions and is often presented in tables or graphs.",
+            "Knowledge: Understanding gained by applying information (e.g., knowing how to ride a bike).",
+            "Knowledge is acquired through experience, reading, and discussion.",
+            "Wisdom: The ability to make good decisions and judgments using knowledge.",
+            "The DIKW pyramid illustrates the hierarchy from data (bottom) to wisdom (top).",
+            "Each level adds more value and context than the previous one."
+          ],
+          "keywords": [
+            {"term": "Data", "definition": "A collection of raw facts without meaning to users."},
+            {"term": "Information", "definition": "Data processed in a meaningful way to potential users."},
+            {"term": "Knowledge", "definition": "An understanding acquired through the application of information into actions."},
+            {"term": "Wisdom", "definition": "The ability to make wise decisions and judgments using one's knowledge; the highest level of human understanding."}
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Introduction to Information Systems",
+          "summary": "This section defines an Information System (IS) as a set of interrelated components that collect, process, store, and disseminate information to support decision-making in organizations. It details the five major components of an IS: hardware, software, data/information, people, and procedures. Hardware includes physical devices like computers and networks. Software comprises the instructions (OS, DBMS, applications) that run on the hardware. Data and information are considered critical organizational assets stored and processed by the system. People are the trained individuals who operate and manage the system. Procedures are the policies and steps that govern the use and maintenance of the IS. The section uses a Human Resource Information System (HRIS) as a practical example to illustrate how these components work together to manage employee data.",
+          "notes": [
+            "An Information System (IS) is a set of integrated components for collecting, storing, processing data, and providing information.",
+            "The five components of an IS are: Hardware, Software, Data/Information, People, and Procedures.",
+            "Hardware: Physical components like computers, servers, and network devices.",
+            "Software: Instructions that command the hardware (e.g., OS, DBMS, applications).",
+            "Data/Information: The critical raw material and processed output of the IS.",
+            "People: Technical staff and users who operate and manage the IS.",
+            "Procedures: Policies and steps for using and maintaining the IS.",
+            "A Human Resource Information System (HRIS) stores and processes employee data.",
+            "HRIS data includes recruitment, demographic, performance, training, and compensation details."
+          ],
+          "keywords": [
+            {"term": "Information System", "definition": "A set of integrated components for collecting, storing, processing data, and providing information."},
+            {"term": "Procedure", "definition": "A series of steps followed to achieve a desired outcome or goal."},
+            {"term": "Database", "definition": "A collection of related files that stores organized data."}
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Applications of Information Systems",
+          "summary": "This section explores various IT-enabled services, collectively known as e-services, that information systems facilitate. It details six key application areas: E-Government, E-Banking, E-Learning, E-Commerce, Telemedicine, and Teleconference. For each, it provides a definition, discusses its components, and lists its benefits and challenges. E-Government uses technology to provide public services efficiently and transparently. E-Banking offers banking services via the internet and ATMs. E-Learning delivers education through digital devices, offering flexibility and access to resources. E-Commerce involves buying and selling goods online. Telemedicine provides remote healthcare services. Teleconference allows people from different locations to meet via audio or video communication.",
+          "notes": [
+            "E-services are public services delivered using technology.",
+            "E-Government: Using IS to provide government services (e.g., online tax payment, passport renewal).",
+            "Benefits of E-Government: Efficiency, transparency, and citizen participation.",
+            "E-Banking: Technology-based banking (e.g., ATM, mobile banking, internet banking).",
+            "Benefits of E-Banking: Lower costs for banks, convenience for customers (24/7 access).",
+            "Challenges of E-Banking: Digital theft, excluding illiterate citizens, infrastructure gaps.",
+            "E-Learning: Education delivered through digital devices (online learning).",
+            "Benefits of E-Learning: Flexibility, student-centered learning, access to rich multimedia resources.",
+            "E-Commerce: Buying and selling goods and services over the Internet.",
+            "E-Commerce advantages: Convenience, global reach, avoiding intermediaries.",
+            "Telemedicine: Remote medical care without physical proximity.",
+            "Telemedicine benefits: Access to specialized physicians, reduced travel costs.",
+            "Teleconference: Electronic meeting of people from different locations.",
+            "Teleconference types: Audio conferencing and video conferencing.",
+            "Video conferencing tools: Zoom, Google Meet, Microsoft Teams."
+          ],
+          "keywords": [
+            {"term": "E-commerce", "definition": "The buying and selling of goods and services over the Internet."},
+            {"term": "E-learning", "definition": "A form of education delivered through digital devices."},
+            {"term": "E-banking", "definition": "A form of banking in which funds are transferred through electronic signals rather than paper documents."},
+            {"term": "E-services", "definition": "The provision of public services using technology as a mode of service delivery."},
+            {"term": "Telemedicine", "definition": "The practice of caring for patients remotely while the caregiver and patient are in separate physical locations."},
+            {"term": "Teleconference", "definition": "The meeting of three or more people who are separated by distance using electronic communication."}
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "IT for Entrepreneurship",
+          "summary": "This section discusses how Information Technology creates new opportunities for entrepreneurship and job creation. It defines entrepreneurship as the process of designing, launching, and running a new business. It highlights that IT is transforming the world of work, enabling new types of businesses such as online training, data entry services, internet cafes, and online sales. The section emphasizes that IT-based businesses often require less capital to start compared to traditional businesses and can address youth unemployment. The story of the RIDE taxi-hailing service in Ethiopia is presented as a successful example of an IT-based entrepreneurial venture.",
+          "notes": [
+            "Entrepreneurship is the process of designing, launching, and running a new business.",
+            "IT is transforming the world of work and creates new business opportunities.",
+            "IT-enabled businesses: Online training, data processing, internet cafes, online sales.",
+            "IT businesses can help tackle global unemployment.",
+            "IT-based businesses often require less capital to start.",
+            "Example: RIDE taxi-hailing service in Ethiopia.",
+            "IT skills are increasingly required for many jobs and businesses.",
+            "Youth can become digital entrepreneurs using IT skills."
+          ],
+          "keywords": [
+            {"term": "Entrepreneurship", "definition": "The process of designing, launching, and running a new business."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Emerging Technologies",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Artificial Intelligence",
+          "summary": "This section defines Artificial Intelligence (AI) as a branch of computer science focused on creating systems that mimic human intelligence, such as reasoning and generalization. It explores the major branches of AI, including Machine Learning (learning from data), Robotics (machines performing human tasks), Natural Language Processing (understanding human language), and Expert Systems (emulating human experts). The section then provides a comprehensive list of AI applications across various sectors, such as online shopping, autonomous cars, social media, surveillance, agriculture, customer service (chatbots), healthcare, space exploration, smart homes, banks, and search engines.",
+          "notes": [
+            "Artificial Intelligence (AI): Branch of computer science dealing with systems that mimic human intelligence.",
+            "AI systems are designed for reasoning (logical deduction) and generalization (applying past experience to new situations).",
+            "Branches of AI: Machine Learning, Robotics, Natural Language Processing, Expert Systems.",
+            "Machine Learning: Algorithms that allow computers to learn from data and improve without explicit programming.",
+            "Robotics: Study of robots that perform tasks traditionally done by humans.",
+            "Natural Language Processing (NLP): Enables computers to understand human language (e.g., spam detection, translation, virtual assistants).",
+            "Expert Systems: Computer programs that emulate human experts (e.g., MYCIN for infectious diseases).",
+            "Expert Systems Components: User Interface, Knowledge Base, Inference Engine.",
+            "Applications of AI: Online shopping (recommendations), Autonomous cars, Social Media (content personalization), Surveillance (suspicious behavior detection), Agriculture (precision farming), Customer Service (chatbots), Healthcare (disease diagnosis), Space Exploration (Robonaut), Smart Homes, Banks (fraud detection), Search Engines (ranking algorithms)."
+          ],
+          "keywords": [
+            {"term": "Artificial Intelligence", "definition": "A branch of computer science that deals with the design of systems that mimic human intelligence."}
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Augmented Reality and Virtual Reality",
+          "summary": "This section contrasts Augmented Reality (AR) and Virtual Reality (VR). AR is defined as a technology that overlays computer-generated digital information onto the real world, enhancing the user's perception of reality. VR, in contrast, is a technology that creates a completely immersive, three-dimensional, computer-generated simulated environment, replacing the user's real-world surroundings. The section details the hardware components for each (AR uses devices like smartphones and tablets; VR requires headsets) and compares their characteristics. It then explores the wide-ranging applications of AR and VR in education, healthcare, and entertainment.",
+          "notes": [
+            "Augmented Reality (AR): Technology that enhances the real world by overlaying computer-generated data on real-world objects.",
+            "AR is partially immersive and blends the real and virtual worlds.",
+            "AR can run on familiar devices like smartphones.",
+            "Virtual Reality (VR): Creates a 3D, computer-generated simulated environment.",
+            "VR is fully immersive and operates in a completely virtual world.",
+            "VR requires a headset device.",
+            "Applications of AR/VR: Education (interactive learning, field trips), Healthcare (surgical training, tele-surgery, patient distraction), Entertainment (interactive museum experiences, immersive cinemas, video games)."
+          ],
+          "keywords": [
+            {"term": "Augmented Reality", "definition": "A technology that enhances the real world by overlaying computer-generated digital data on real-world objects."},
+            {"term": "Virtual Reality", "definition": "A technology that creates a three-dimensional computer-generated simulated environment, fully immersing the user."}
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Data Science",
+          "summary": "This section introduces Data Science as an interdisciplinary field that uses a blend of tools, algorithms, and machine learning principles to discover and extract hidden patterns from data. It explains that data science incorporates statistics, mathematics, and computer science to process and analyze data. The section defines the concept of 'Big Data' as a massive volume of data characterized by volume, variety, and velocity, which cannot be processed with traditional methods. It concludes by noting that the insights from data science have broad applications across almost all fields, such as forecasting product demand in manufacturing.",
+          "notes": [
+            "Data Science: A blend of tools, algorithms, and ML principles used to discover hidden patterns in data.",
+            "Data Science is an interdisciplinary field combining statistics, mathematics, and computer science.",
+            "A professional in this field is called a Data Scientist.",
+            "Big Data: A huge volume of data that cannot be processed using traditional methods.",
+            "Characteristics of Big Data: Volume, Variety, Velocity.",
+            "Data science applies mathematical and statistical approaches to process big data.",
+            "Data science has broad applications in almost all fields (e.g., manufacturing for demand forecasting)."
+          ],
+          "keywords": [
+            {"term": "Data Science", "definition": "A blend of tools, algorithms, and machine learning principles used to discover and extract hidden patterns from data."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Database Management",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Data Management Approaches",
+          "summary": "This section contrasts two primary approaches to data management. The File-based approach is described as an older method where data is stored in separate, isolated files, leading to problems like data redundancy and inconsistency. This is because changes made in one file are not reflected in others. The Database approach is presented as the modern, more efficient solution. A database is a shared collection of logically related data managed by a Database Management System (DBMS). This approach offers several advantages, including data independence, data sharing, avoidance of data redundancy, and improved data security.",
+          "notes": [
+            "Data management can be done using file-based or database approaches.",
+            "File-based data management: Data stored in separate files without explicit relationships.",
+            "Problems with file-based approach: Data duplication, data inconsistency, and data isolation.",
+            "Database approach: A database is a collection of logically-related data.",
+            "A Database Management System (DBMS) is the software that manages the database.",
+            "Advantages of the database approach: Data independence, data sharing, avoids redundancy, improved data security.",
+            "The database architecture consists of the database (data), DBMS (middleware), and application programs (top)."
+          ],
+          "keywords": [
+            {"term": "Database", "definition": "A shared collection of logically related data."},
+            {"term": "DBMS", "definition": "Database Management System; a software which is used to create and manage databases."},
+            {"term": "File based data management", "definition": "A system of data management based on a single file."}
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Data Model",
+          "summary": "This section explains the concept of a data model as the blueprint for a database, guiding what data to store and how it is organized. It introduces the basic concepts of entities (things about which we store data), attributes (properties of an entity), and relationships (associations between entities). Relationships are classified as one-to-one, one-to-many, and many-to-many. The Entity Relationship Diagram (ERD) is presented as a visual tool for representing a data model using rectangles (entities), ellipses (attributes), and lines (relationships). The section then focuses on the Relational Data Model, where data is stored in two-dimensional tables called relations, consisting of rows (records) and columns (fields). It also explains the concepts of Primary Keys (unique identifiers) and Foreign Keys (links to other tables).",
+          "notes": [
+            "Data model is the blueprint of a database.",
+            "Entities: People, places, or things about which you want to store data.",
+            "Attributes: Properties of entities used to describe them.",
+            "Relationships: Associations between entities.",
+            "Relationship types: One-to-one, One-to-many, Many-to-many.",
+            "Entity Relationship Diagram (ERD): A visual representation tool for data models.",
+            "ERD uses: Rectangles for entities, ellipses for attributes, and lines for relationships.",
+            "Relational Data Model: Represents data in two-dimensional tables.",
+            "A relation is a table with rows and columns.",
+            "A Record (Tuple) is a row in a table.",
+            "A Field (Attribute) is a column in a table.",
+            "Primary Key: A field with a unique value for each record.",
+            "Foreign Key: An attribute in a table that matches the primary key of another related table."
+          ],
+          "keywords": [
+            {"term": "Attributes", "definition": "Properties of entities that are used to describe the entities."},
+            {"term": "Data model", "definition": "A blueprint of the database."},
+            {"term": "Entities", "definition": "People, places, or things about which you want to keep information in a database."},
+            {"term": "Entity Relationship Diagram (ERD)", "definition": "A visual representation tool for data models."},
+            {"term": "Field", "definition": "A column of a table in the database table; similar to an attribute."},
+            {"term": "Foreign key", "definition": "An attribute in a table that matches the primary key of another related table."},
+            {"term": "Primary Key", "definition": "A field which has a unique value for each record in a table."},
+            {"term": "Record", "definition": "A row in a database table storing data about one real-world object."},
+            {"term": "Relational data model", "definition": "A type of data model that represents data in terms of two-dimensional tables called relations."},
+            {"term": "Relational database", "definition": "A type of database that contains a logically related set of tables."},
+            {"term": "Relationship", "definition": "An association between entities."}
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Creating Relational Database in Microsoft Access",
+          "summary": "This section provides a practical guide on creating and managing a relational database using Microsoft Access. It explains how to transform entities into tables and attributes into fields. The process of creating a new database, defining tables in Design View, and entering records in Datasheet View is detailed. The section then focuses on creating Queries to retrieve data. It covers using Query Design to select specific fields and add criteria to filter results. Crucially, it explains how to select data from multiple tables by establishing relationships between them using primary and foreign keys.",
+          "notes": [
+            "Microsoft Access is a relational DBMS software for managing databases.",
+            "Entities are represented as Tables; Attributes are represented as Fields.",
+            "Creating a Database: Open MS Access -> Click 'Blank database' -> Enter name -> Click 'Create'.",
+            "Creating a Table (Design View): Click 'Table Design' -> Enter Field Names -> Set Data Types -> Save.",
+            "Data types can be Text, Number, Date/Time, Currency, etc.",
+            "Entering Records: Open table in Datasheet View and enter data for each field.",
+            "Query: A database object providing a custom view of data from one or more tables.",
+            "Creating Queries: Use 'Query Design' -> Add tables -> Select fields to display.",
+            "Adding Criteria: Enter conditions in the 'Criteria' row to filter results.",
+            "Selecting from Multiple Tables: Add all required tables, establish relationships by linking primary and foreign keys, then select fields from each table."
+          ],
+          "keywords": [
+            {"term": "Microsoft Access", "definition": "Relational DBMS software used to manage databases."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Web Development",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "World Wide Web",
+          "summary": "This section distinguishes between the Internet and the World Wide Web (the Web), stating that the Web is a popular service that runs on the Internet. It introduces the four foundations of the Web as invented by Tim Berners-Lee: HTML (the language for creating webpages), HTTP (the protocol for communication), a Web Server (software that stores webpages), and a Web Browser (software used to view webpages). The section describes a website as a collection of interrelated webpages and highlights the benefits of the Web, such as global accessibility, support for online transactions, and access to e-services and educational resources.",
+          "notes": [
+            "The Internet is a network of networks.",
+            "World Wide Web (WWW/The Web) is a popular service on the Internet.",
+            "The Web was invented in 1989 by Tim Berners-Lee.",
+            "Foundations of the Web: HTML, HTTP, Web Server, Web Browser.",
+            "HTML (HyperText Markup Language): The language to create webpages.",
+            "HTTP (HyperText Transfer Protocol): The communication rules between web browsers and servers.",
+            "Web Browser: Software to view webpages.",
+            "Web Server: Software that stores webpages.",
+            "A Website is a collection of interrelated webpages.",
+            "Hypertext links webpages with other resources.",
+            "The Web allows for global reach, online transactions, and access to e-services."
+          ],
+          "keywords": [
+            {"term": "Absolute URL", "definition": "A URL that includes every element of a URL such as the protocol, the hostname, and the path of the webpage."},
+            {"term": "HTML", "definition": "A language used to develop webpages."},
+            {"term": "HTTP", "definition": "A protocol that browser software and web server software use to communicate with each other."},
+            {"term": "Hypertext", "definition": "A link that connects webpages."},
+            {"term": "Relative URL", "definition": "A path given relative to the location of the current webpage."},
+            {"term": "Uniform Resource Locator (URL)", "definition": "Refers to the address of web resources."},
+            {"term": "Web Browser", "definition": "A software that is used to view webpages."},
+            {"term": "Web Server", "definition": "A software that is used to manage websites."},
+            {"term": "Webpage", "definition": "A web document that can store text, images, videos, and the like."},
+            {"term": "Website", "definition": "A collection of interrelated webpages."}
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Website Design",
+          "summary": "This section discusses website design as the planning of a website's layout, navigation, appearance, and graphics. It provides several key guidelines for effective web design. These include designing for the target audience, ensuring easy and logical navigation, maintaining consistency in look and feel across all pages, practicing simplicity in design elements (like color and graphics), and making the website accessible to people with disabilities. The section briefly differentiates website design (the plan) from website development (the building/creation).",
+          "notes": [
+            "Website design: Planning the layout, navigation, appearance, and graphics of a website.",
+            "Goal: Create an appealing and well-organized website.",
+            "Guidelines: Target Audience, Navigation, Consistency, Simplicity, Accessibility.",
+            "Target Audience: Design should be tailored to the intended users.",
+            "Navigation: Webpages should be organized logically for easy movement.",
+            "Consistency: Use a similar feel and look across all pages.",
+            "Simplicity: Avoid overcrowding; use graphics and colors where necessary.",
+            "Accessibility: Include everyone, including people with disabilities.",
+            "Website development is the actual creation of the website."
+          ],
+          "keywords": []
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "HTML Basics",
+          "summary": "This section introduces HTML (HyperText Markup Language) as the language for creating webpages. It explains that HTML uses predefined tags (enclosed in angle brackets) to define webpage elements. Most HTML elements consist of a start tag, content, and an end tag, while void elements (like <br>, <img>) do not have end tags. The structure of an HTML document is outlined, including the <!DOCTYPE html>, <html>, <head>, and <body> sections. The section also explains HTML attributes, which are used to define additional properties for elements (e.g., align, src). It provides examples for inserting images (<img>) and videos (<video>) using the 'src' attribute.",
+          "notes": [
+            "HTML (HyperText Markup Language) is used to create webpages.",
+            "HTML documents are saved with a '.html' extension.",
+            "HTML Tags: Predefined names enclosed in angle brackets (e.g., <h1>, <p>).",
+            "HTML Elements: Components with a start tag, content, and an end tag (e.g., <p>...content...</p>).",
+            "Void elements: No end tag (e.g., <br> for new line, <img> for image, <hr> for horizontal line).",
+            "Structure of HTML Document: <!DOCTYPE html>, <html>, <head>, <body>.",
+            "<head> section: Information about the page (e.g., title).",
+            "<body> section: The actual content of the webpage.",
+            "HTML Attributes: Used to define more properties to HTML elements (e.g., align, src).",
+            "The <img> element uses the 'src' attribute to refer to the image file.",
+            "The <video> element uses 'src', 'controls', 'width', and 'height' attributes."
+          ],
+          "keywords": [
+            {"term": "HTML attributes", "definition": "Used to define more properties to HTML elements."},
+            {"term": "HTML elements", "definition": "Components of HTML documents that normally begin with a start tag and end with an end tag."},
+            {"term": "HTML tags", "definition": "A set of predefined names enclosed in angle brackets."},
+            {"term": "Void elements", "definition": "HTML elements that do not have end tags."}
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "HTML Links",
+          "summary": "This section covers the creation of hyperlinks using the anchor tag (<a>). It explains that the 'href' attribute is used to specify the destination URL. The section demonstrates how to create links to other webpages and introduces the 'target' attribute ('_self', '_blank') to control where the linked page opens. It also shows how to use an image as a link by nesting the <img> element inside the <a> tag. Finally, it explains how to create links to different sections of the same page using the 'name' attribute to mark sections and the 'href' attribute with '#' to reference them.",
+          "notes": [
+            "HTML links (hyperlinks) are used for navigation.",
+            "The anchor tag <a> is used to create hyperlinks.",
+            "Format: <a href='URL'> clickable text </a>.",
+            "The 'href' attribute gives the address (URL) of the linked page.",
+            "'target' attribute: Determines where to open the linked document.",
+            "target='_self': Opens in the same window (default).",
+            "target='_blank': Opens in a new window or tab.",
+            "Images can be used as links: <a href='URL'><img src='...'></a>.",
+            "Links to page sections: Mark a location with <a name='section1'> and link to it with <a href='#section1'>."
+          ],
+          "keywords": []
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "HTML Tables",
+          "summary": "This section explains how to organize data on a webpage using HTML tables. It introduces the key tags for table creation: <table> (defines the table), <tr> (table row), <th> (table header), and <td> (table data cell). The number of rows is determined by the number of <tr> elements, while the number of columns depends on the number of <td> elements within each row. The section also demonstrates how to add a border using the 'border' attribute and how to merge cells using the 'colspan' and 'rowspan' attributes. It concludes by showing how tables can be used to create a complete page layout.",
+          "notes": [
+            "HTML tables organize data in rows and columns.",
+            "Key tags: <table> (create table), <tr> (table row), <th> (table header), <td> (table data cell).",
+            "Number of rows = number of <tr> elements.",
+            "Number of columns = number of <td> elements in the first row.",
+            "The 'border' attribute adds a border to the table (e.g., border='1').",
+            "Merging cells: Use 'colspan' (merge columns) and 'rowspan' (merge rows).",
+            "Tables can be used to define the layout of an entire webpage (e.g., header, sidebar, content)."
+          ],
+          "keywords": []
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "HTML Lists",
+          "summary": "This section presents three types of HTML lists for presenting information. Ordered lists (<ol>) are numbered and can use different number styles via the 'type' attribute (e.g., 1, A, a, I, i). Unordered lists (<ul>) are bulleted and can use different bullet styles via the 'type' attribute (e.g., disc, circle, square). Description lists (<dl>) are used for terms and their definitions, using <dt> for the term and <dd> for the description. The section also demonstrates how lists can be nested (e.g., an ordered list inside an unordered list).",
+          "notes": [
+            "HTML Lists: Ordered, Unordered, and Description lists.",
+            "Ordered List (<ol>): Numbered list; uses <li> for list items.",
+            "Unordered List (<ul>): Bulleted list; uses <li> for list items.",
+            "Description List (<dl>): Used for terms and definitions; uses <dt> (term) and <dd> (description).",
+            "Nested Lists: One list can be placed inside another list."
+          ],
+          "keywords": [
+            {"term": "Description lists", "definition": "Used to create description/definition lists."},
+            {"term": "Ordered Lists", "definition": "Used to create ordered/numbered lists."},
+            {"term": "Unordered Lists", "definition": "Used to create bulleted lists."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Hardware Troubleshooting and Preventive Maintenance",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Hardware Troubleshooting",
+          "summary": "This section defines hardware troubleshooting as a systematic approach to diagnosing and solving problems with a computer's physical components. It outlines basic procedures like checking power connections and cable connections. The section explains the Power On Self-Test (POST) and the meaning of different beep codes to diagnose hardware failures. It introduces the BIOS and CMOS, noting that errors from these components often require professional help. The Windows Event Viewer is described as a tool to log and view system and application errors. Finally, the section covers using the Device Manager to check for hardware problems and introduces performance diagnostic tools like the Windows Performance Monitor and Resource Monitor to check CPU, memory, and disk usage.",
+          "notes": [
+            "Hardware Troubleshooting: A systematic approach to locating and solving hardware problems.",
+            "Check basic connections: Power outlet, all devices are turned on, and cables are connected properly.",
+            "POST (Power On Self-Test): Diagnoses hardware during startup.",
+            "Beep Codes: Unique sound sequences indicating specific hardware failures.",
+            "BIOS (Basic Input/Output System): Starts the computer and manages data flow between OS and hardware.",
+            "CMOS (Complementary Metal-Oxide Semiconductor): Stores BIOS configuration settings; a CMOS alert means the battery needs replacement.",
+            "Event Viewer: A Windows tool to view logs of system and application errors.",
+            "Device Manager: A Windows utility to manage and check the status of all hardware.",
+            "Yellow triangle or red X in Device Manager indicates a hardware problem.",
+            "Diagnostic Tools: Software to troubleshoot and diagnose hardware problems.",
+            "Windows Performance Monitor: Gives a quick view of CPU, Memory, Disk, and Network performance.",
+            "Windows Resource Monitor: Provides an in-depth look into CPU, Network, Memory, and Disk usage."
+          ],
+          "keywords": [
+            {"term": "Beep codes", "definition": "Sounds emitted by the computer during Power on Self-Test (POST)."},
+            {"term": "BIOS", "definition": "A program used by a computer to start the computer system after it is powered on."},
+            {"term": "The CMOS (Complementary Metal-Oxide Semiconductor)", "definition": "An onboard chip that stores information ranging from time and date to system hardware settings."},
+            {"term": "Diagnostic Tools", "definition": "Software tools used to help diagnose and solve hardware problems."},
+            {"term": "Power On Self-Test (POST)", "definition": "Part of a computer’s startup program used to diagnose hardware to ensure they are working properly."},
+            {"term": "Troubleshooting", "definition": "A systematic approach to locating the cause of a fault in a computer system and solving technical problems."}
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Basics of Preventive Maintenance",
+          "summary": "This section defines preventive maintenance as the routine measures taken to reduce the risk of hardware failures and ensure a longer life for computer components. It covers methods for cleaning dust from hardware using cloths, chemical cleaners, and vacuum cleaners. The importance of running antivirus software to prevent, detect, and remove malware is emphasized. The section details the necessity of regular data backups to external or cloud storage for recovery. It explains disk fragmentation and the use of a defragmenter utility ('defragger') to improve computer speed. Finally, it discusses power protection devices, including surge protectors, stabilizers, voltage regulators, and Uninterruptible Power Supplies (UPS), and stresses the importance of properly shutting down a computer.",
+          "notes": [
+            "Preventive Maintenance: Regular inspection and cleaning to reduce hardware failure risk.",
+            "Cleaning Dust: Using soft cloths (e.g., microfiber), chemical cleaners, and vacuum cleaners.",
+            "Antivirus Software: Used to prevent, detect, and remove malware (viruses).",
+            "Backup: Process of copying data to external storage to recover from data loss.",
+            "Disk Fragmentation: Scattering of file portions on the disk, slowing down access.",
+            "Defragmentation: Process of reorganizing fragmented files to improve speed.",
+            "Power Protection: Using a surge protector (against power surges), stabilizer (against voltage variations), voltage regulator (against sags/brownouts), and UPS (against power failure).",
+            "Proper Shutdown: Always shut down properly or use a low-power/hibernation mode to cool the system and prevent performance impact."
+          ],
+          "keywords": [
+            {"term": "Antivirus", "definition": "Computer software that is used to clean viruses from a computer system."},
+            {"term": "Backup", "definition": "A process of transferring data or files from a computer system to external storage devices to recover data lost during a computer failure."},
+            {"term": "Preventive maintenance", "definition": "A regular and systematic inspection, cleaning, and replacement of worn parts, materials, and systems that ensure computer hardware have long and productive life."},
+            {"term": "Virus", "definition": "A type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Fundamentals of Programming",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Types of Programming Languages",
+          "summary": "This section introduces programming languages and groups them into three categories. Machine language is a low-level language consisting of 1s and 0s that the computer directly understands. Assembly language is also low-level but uses mnemonics (symbols) and requires an Assembler to translate it. High-level languages are closer to human languages and are easier for programmers to use; they require a Compiler or Interpreter for translation. The section concludes by defining syntax (the grammatical rules of a language) and semantics (the meaning of the language's elements), explaining that syntax errors occur when rules are broken, while logic errors occur when the program's behavior deviates from what is intended.",
+          "notes": [
+            "Programming languages are used to write computer programs.",
+            "Machine Language: Low-level language of 1s and 0s; directly understood by the computer.",
+            "Assembly Language: Low-level language using mnemonics; translated by an Assembler.",
+            "High-Level Language: Closer to human languages; easier to write programs in.",
+            "Compilers: Translate the entire program at once (e.g., C, C++, Java).",
+            "Interpreters: Translate code line by line.",
+            "Syntax: The grammatical rules of a programming language.",
+            "Syntax Error: Occurs when the code violates the syntax rules.",
+            "Semantics: The meaning of elements of a program.",
+            "Logic Error: The program runs but produces incorrect results."
+          ],
+          "keywords": [
+            {"term": "Assembler", "definition": "Software used to translate programs written in assembly language into machine language."},
+            {"term": "Assembly Language", "definition": "A low-level programming language that uses symbols/mnemonics."},
+            {"term": "High-level Language", "definition": "A programming language closer to human language."},
+            {"term": "Machine Language", "definition": "A low-level programming language that the computer understands directly."},
+            {"term": "Program", "definition": "A set of instructions that commands the computer what to do."},
+            {"term": "Programming Languages", "definition": "Computer languages used to write computer programs."},
+            {"term": "Semantics", "definition": "Related to the meaning of elements of a program and what they do."},
+            {"term": "Syntax", "definition": "The grammatical rules of a programming language."}
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Basics of Python",
+          "summary": "This section introduces Python as a popular high-level programming language and its Integrated Development and Learning Environment (IDLE). It explains two ways to write and execute Python code: using the Interactive Interpreter (for one line at a time) and the Text Editor (for writing scripts, saved with a '.py' extension). The section demonstrates using the print() function to display output and shows a basic script for calculating the area of a circle. It reiterates the difference between syntax errors (which prevent execution) and logic errors (which result in incorrect output).",
+          "notes": [
+            "Python: A popular, easy-to-learn high-level programming language.",
+            "IDLE (Integrated Development and Learning Environment): Python's free IDE.",
+            "Interactive Interpreter: Allows writing and executing one line of Python code at a time (the prompt is >>>).",
+            "Text Editor: Used to write and save multiple lines of Python code (a script) in a file with a '.py' extension.",
+            "Script: The Python code found in a file.",
+            "print() function: Used to display output on the screen.",
+            "A script is executed by selecting 'Run Module' from the 'Run' menu.",
+            "The output of a script is displayed in the IDLE Shell (the Interactive Interpreter).",
+            "Logic Error: The code has no syntax errors but produces an incorrect result."
+          ],
+          "keywords": [
+            {"term": "Binary System", "definition": "A system in which everything is represented in terms of 1s and 0s."},
+            {"term": "IDLE", "definition": "Integrated Development and Learning Environment for Python."},
+            {"term": "Python's Interactive Interpreter", "definition": "Contains Python shell to write and execute Python codes one line at a time."},
+            {"term": "Python's Text Editor", "definition": "A text editor to write unlimited lines of Python codes that can be saved."},
+            {"term": "Python", "definition": "A popular high-level programming language."},
+            {"term": "Script file", "definition": "A file with Python scripts."},
+            {"term": "Script", "definition": "Codes found in a file saved with .py extension."}
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Variables and Data Types",
+          "summary": "This section covers variables as named memory locations for storing data. It explains the rules for forming valid identifiers (names for variables) in Python. It defines major built-in data types: int (integer), float (floating-point), str (string), and bool (Boolean). The data type of a variable is determined by the value assigned to it. The section introduces the assignment operator (=) and lists arithmetic operators (+, -, *, /, //, %, **). It differentiates between implicit type conversion (done automatically by Python) and explicit type conversion (done by the programmer using functions like int(), float(), str()).",
+          "notes": [
+            "Variables: Memory locations used to store data.",
+            "Identifier: The name given to a variable.",
+            "Identifier rules: Must start with a letter or underscore, followed by letters, numbers, or underscores; cannot be a keyword.",
+            "Data Type: Specifies the type of value a variable can hold.",
+            "Data types: int (integer), float (floating-point), str (string), bool (True/False).",
+            "Assignment operator (=): Assigns a value to a variable.",
+            "Operators: Arithmetic (+, -, *, /, //, %, **), Boolean (and, or, not).",
+            "Implicit Type Conversion: Python automatically converts data types to avoid data loss.",
+            "Explicit Type Conversion: The programmer uses functions like int(), float(), str() to convert data types."
+          ],
+          "keywords": [
+            {"term": "Assignment Operator (=)", "definition": "An operator used to assign values to variables."},
+            {"term": "bool", "definition": "A data type that represents True or False values."},
+            {"term": "Data type", "definition": "Specifies the type of values a variable can have and the operations defined on the values."},
+            {"term": "Explicit type conversion", "definition": "A data type conversion done by the programmer using built-in functions."},
+            {"term": "float", "definition": "A data type for floating-point numbers."},
+            {"term": "Floating Point Number", "definition": "A number with a decimal point."},
+            {"term": "Identifier", "definition": "The name of variables."},
+            {"term": "Implicit type conversion", "definition": "A data type conversion done by Python without the involvement of the programmer."},
+            {"term": "int", "definition": "A data type for integer values."},
+            {"term": "Keywords", "definition": "Reserved words that have predefined meanings in Python."},
+            {"term": "str", "definition": "A data type for strings enclosed with a double/single quotation."},
+            {"term": "Type conversion", "definition": "The process of converting values from one data type to another."},
+            {"term": "Variable", "definition": "A computer memory location used to store data."}
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Statements and Expressions",
+          "summary": "This section distinguishes between statements and expressions in Python. A statement is an instruction that the Python interpreter executes (e.g., assignment statement, print() statement). An expression is a piece of code that evaluates to a value (e.g., a literal value, a variable, or a combination of operators and operands). It highlights that in the interactive interpreter, an expression typed directly will be evaluated and its value displayed. However, in a script, the print() function must be used to see the value of an expression on the screen.",
+          "notes": [
+            "Statement: An instruction executed by the Python interpreter (e.g., x=5, print(x)).",
+            "Expression: Evaluated to produce a value (e.g., 5, x, x+5).",
+            "Assignment statement: Assigns a value to a variable.",
+            "print() statement: Displays the value of an expression.",
+            "In the Interactive Interpreter, an expression alone displays its value.",
+            "In the Text Editor, the print() function is needed to display the value of an expression."
+          ],
+          "keywords": [
+            {"term": "Expression", "definition": "What the Python interpreter evaluates to a certain value."},
+            {"term": "Statement", "definition": "An instruction executed by the Python interpreter."}
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Writing a Simple Program",
+          "summary": "This section brings the concepts together to show how to write a simple Python program that takes input, processes it, and produces output. It explains the syntax and use of the input() function for reading data from the keyboard. Crucially, it notes that input() always returns a string, so explicit type conversion (e.g., int(), float()) is necessary for numerical operations. The print() function is again presented for displaying outputs, and the section demonstrates how to display multiple values on one line using commas. Simple program examples, such as calculating the area and circumference of a circle and accepting two numbers to display their product, are provided.",
+          "notes": [
+            "Programs accept input, process it, and produce output.",
+            "print() function: Used to display output. Syntax: print([value]).",
+            "input() function: Used to accept input from the keyboard.",
+            "Syntax for input: variable_name = input([prompt]).",
+            "input() always returns a string (str type).",
+            "The returned string must be converted using type conversion functions (e.g., float(), int()) for mathematical operations.",
+            "The prompt in input() tells the user what to enter.",
+            "To display multiple values in one line with print(), separate them with commas."
+          ],
+          "keywords": [
+            {"term": "Function", "definition": "A piece of code that performs some tasks."},
+            {"term": "Programmer", "definition": "A professional who writes computer programs."}
+          ]
+        }
+      ]
+    }
+  ]
+}

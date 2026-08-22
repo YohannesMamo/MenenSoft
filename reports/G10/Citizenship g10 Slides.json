@@ -1,0 +1,913 @@
+{
+  "subject": "Citizenship Education",
+  "grade": 10,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Democracy and Democratization",
+      "sections": [
+        {
+          "section_title": "1.1 The concept of democracy and democratization",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Understanding Democracy",
+              "content": [
+                "No absolute definition of democracy exists.",
+                "The term is elastic and expands or contracts based on time, place, and circumstances.",
+                "It covers a wide range of political systems, from old established ones to new, inexperienced ones.",
+                "Etymology: Derived from Greek words 'Demo' (people) and 'Kratos' (rule).",
+                "Basic meaning: Rule by the people or government by the people."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "Key Concepts in Democracy",
+              "content": [
+                "A democratic system is one in which citizens freely make political decisions by majority rule.",
+                "A dictionary definition: State of government where people hold ruling power directly or through elected representatives.",
+                "Embraces principles of equality, individual freedom, and opportunity for common people.",
+                "State power involves compromise and bargaining in the decision-making process.",
+                "Activity: Discuss how democracy is practiced in your local community."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.2 Definitions and actors of democratization process",
+          "slides": [
+            {
+              "slide_number": 3,
+              "title": "Understanding Democratization",
+              "content": [
+                "Democratization is a complex, long-term, dynamic, and open-ended process.",
+                "It is a political process that moves a country's political system towards democracy.",
+                "It can be a transition from authoritarian to semi-democracy, or from semi-authoritarian to full democracy.",
+                "Democracy is not an overnight program; it requires time and different actors."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Actors in the Democratization Process: Political Parties",
+              "content": [
+                "Political parties are essential to the functioning and durability of democracy.",
+                "They are the instruments through which power is attained via free, fair, and transparent elections.",
+                "They are settings for working out practical ideas and proposals for alternative government programs.",
+                "Key function: They serve as a machinery for recruitment and appointment of leaders."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "title": "Actors in the Democratization Process: Media",
+              "content": [
+                "Freedom of the media is essential in a democracy.",
+                "Media includes newspapers, television, radio, books, magazines, cinema, and social media.",
+                "Plays a role in the political training of citizens and building democratic culture.",
+                "To perform these functions, media must be free, independent, and well-resourced.",
+                "Importance lies in the quality of information provided, not just the quantity."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.3 Institutionalizing democracy",
+          "slides": [
+            {
+              "slide_number": 6,
+              "title": "Importance of Democratic Institutions",
+              "content": [
+                "Democratic institutions are important to develop and protect democracy.",
+                "These institutions must serve the entire population with equality under the law.",
+                "Strong institutions are respected and become difficult to manipulate.",
+                "They enable honest people to survive."
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "Democratic Institutions: INEC",
+              "content": [
+                "Independent National Electoral Commission (INEC)",
+                "A corporate body charged with organizing, conducting, and supervising elections.",
+                "Functions include: conducting elections and referendums, registering voters, delimiting constituencies, registering political parties, and educating the electorate."
+              ]
+            },
+            {
+              "slide_number": 8,
+              "title": "Democratic Institutions: Political Parties",
+              "content": [
+                "Organized groups of individuals who share political ideologies, beliefs, and interests.",
+                "Seek to win elections and control state power.",
+                "Functions: Forum for national unity, educating the public, linking people and government, ensuring political stability, and holding the party in power accountable."
+              ]
+            },
+            {
+              "slide_number": 9,
+              "title": "Democratic Institutions: Pressure Groups",
+              "content": [
+                "Organized body of people seeking to influence government policy.",
+                "Also known as interest groups.",
+                "Functions: Offering advice, promoting economic stability, educating the public, acting as a watchdog, and supporting candidates.",
+                "Example: Trade unions, business associations."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.4 The role of democracy for social transformation",
+          "slides": [
+            {
+              "slide_number": 10,
+              "title": "Social Transformation",
+              "content": [
+                "Social transformation is the restructuring of all aspects of life.",
+                "It includes culture, social relations, politics, economy, and ways of thinking.",
+                "Societies have transformed from small associations to communities, to nations tied by history, politics, and laws.",
+                "Democracy can play a significant role in facilitating this process."
+              ]
+            },
+            {
+              "slide_number": 11,
+              "title": "Dimensions of Social Transformation",
+              "content": [
+                "Social Change: Range of outcomes from increased awareness to policy change correcting injustice.",
+                "Civic Engagement: Participation in civic, community, and political life to improve one's community.",
+                "Civic Dialogue: Exploring matters of civic importance with differing viewpoints to build understanding.",
+                "Social Capital: Collective value of social networks, trust, reciprocity, and cooperation.",
+                "Community Development: Empowering individuals and groups with skills and resources to effect change."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.5 Democratic values",
+          "slides": [
+            {
+              "slide_number": 12,
+              "title": "Core Democratic Values",
+              "content": [
+                "Liberty, Justice, and Equality are the core values central to democracy.",
+                "Liberty: Personal, political, and economic freedoms.",
+                "Justice: Distributive, corrective, and procedural fairness.",
+                "Equality: Political, social, and economic equality."
+              ]
+            },
+            {
+              "slide_number": 13,
+              "title": "Liberty",
+              "content": [
+                "Personal Freedom: Free from arbitrary arrest, detention, and unreasonable searches.",
+                "Political Freedom: Right to participate freely in the political process.",
+                "Economic Freedom: Right to acquire, use, transfer, and dispose of private property; right to seek employment."
+              ]
+            },
+            {
+              "slide_number": 14,
+              "title": "Justice and Equality",
+              "content": [
+                "Justice:",
+                "  - Distributive Justice: Fair distribution of benefits and burdens.",
+                "  - Corrective Justice: Proportional response to correct wrongs.",
+                "  - Procedural Justice: Impartial and open decision-making.",
+                "Equality:",
+                "  - Political Equality: Equal political rights (one person, one vote).",
+                "  - Social Equality: No social hierarchy or discrimination.",
+                "  - Economic Equality: Equal and fair access to national resources."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "1.6 Aspects of democracy",
+          "slides": [
+            {
+              "slide_number": 15,
+              "title": "Aspects of Democracy",
+              "content": [
+                "Social Aspect: Removal of discrimination based on class, caste, creed, color, sex, ethnicity.",
+                "Economic Aspect: Equitable distribution of wealth, abolition of disparities, rights to work, leisure, and fair wages.",
+                "Political Aspect: Provision of political rights like voting, contesting elections, holding public office, freedom of movement, thought, association, and speech."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Citizens in the Digital Technology Age",
+      "sections": [
+        {
+          "section_title": "2.1 Implications of digital technology on citizens",
+          "slides": [
+            {
+              "slide_number": 16,
+              "title": "Overview: Implications of Digital Technology",
+              "content": [
+                "Digital technologies have advanced rapidly and impact citizens' emotions, social life, and ethical values.",
+                "Moderate use leads to positive effects.",
+                "Excessive, addictive use leads to negative effects."
+              ]
+            },
+            {
+              "slide_number": 17,
+              "title": "Positive Implications on Emotions",
+              "content": [
+                "Self-control: Enables people to manage and express emotions, especially in workplace.",
+                "Fostering Socialization: Improves interpersonal relationships and strengthens social bonds.",
+                "Maintaining Emotional Balance: Helps cope with stress and coordinate everyday activities.",
+                "Supporting Happiness and Wellbeing: Boosts health through social connection and creativity.",
+                "Regulating Emotions: Provides access to health resources to build skills like mindfulness.",
+                "Providing a Sense of Security: Mobile phones give a sense of security in public spaces."
+              ]
+            },
+            {
+              "slide_number": 18,
+              "title": "Negative Implications on Emotions",
+              "content": [
+                "Isolation: Higher social media use linked to feeling socially isolated.",
+                "Secondhand Living: Living life through digital media rather than firsthand experience.",
+                "Depression and Anxiety: More online interactions can lead to higher levels of depression.",
+                "Anonymity and Fake Personality: People hide identities and behave anti-socially.",
+                "Addiction: Social media, gaming, and messaging can become addictive."
+              ]
+            },
+            {
+              "slide_number": 19,
+              "title": "Positive Implications on Social Life",
+              "content": [
+                "Increased Social Connectivity: Social media and mobile phones enable new connections.",
+                "Speedy Communication: Fast broadband enables real-time video/audio and large data transfers.",
+                "Advancing Education: Enables sharing of academic information and virtual learning.",
+                "Facilitating Transportation: Online booking, digital chips in passports.",
+                "Advancing Banking and Finance: Online banking and international money transfers.",
+                "Improving Health Care: Access to diagnostic tools, medical records, and remote consultations.",
+                "Promoting Economic Growth: New innovations and increased agricultural productivity."
+              ]
+            },
+            {
+              "slide_number": 20,
+              "title": "Negative Implications on Social Life",
+              "content": [
+                "Social Alienation: People socialize via digital devices instead of real-life contact.",
+                "Eroding Privacy: Harder to keep personal data safe; photos and footage can be posted online.",
+                "Replacing Human Jobs: Remote work allows undercutting, computers replace humans.",
+                "Data Insecurity: Large amounts of data can be collected and stolen.",
+                "Aggravate Crime and Terrorism: Terrorists and criminals use the internet for operations.",
+                "Effects on Physical Health: Eyestrain, poor posture, and musculoskeletal problems."
+              ]
+            },
+            {
+              "slide_number": 21,
+              "title": "Positive Implications on Ethical Values",
+              "content": [
+                "Developing Critical Thinking: Access to diverse sources allows analysis and challenging of information.",
+                "Developing Universal Moral Values: Interaction with others helps compare and contrast moral norms.",
+                "Self-learning of Good Habits: Learning from the life experiences of philosophers and others."
+              ]
+            },
+            {
+              "slide_number": 22,
+              "title": "Negative Implications on Ethical Values",
+              "content": [
+                "Ethical Dilemma: Access to different philosophical thoughts can lead to confusion.",
+                "Increasing Uncertainty: Many ethical issues debated online lead to confusion.",
+                "Creating Unhappiness: Social media can contain vulgar and offending messages.",
+                "Untruthfulness: Spread of fake information and news.",
+                "Eroding Norms of Freedom: Fear of insult prevents free expression.",
+                "Induction of Negative Emotions: Exposure to sad or violent content increases fear and anger."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.2 The ethics of using digital technology",
+          "slides": [
+            {
+              "slide_number": 23,
+              "title": "Ethics of Digital Technology",
+              "content": [
+                "There is an increasing trend of misuse and abuse of emerging digital technologies.",
+                "Ethical codes of conduct are important to guide behavior.",
+                "Common ethical codes include: Etiquette, Responsibility, Safety, Security, Confidentiality, and Accuracy."
+              ]
+            },
+            {
+              "slide_number": 24,
+              "title": "Ethical Codes of Digital Technology",
+              "content": [
+                "Etiquette: Understanding how digital behavior affects others; being a role model.",
+                "Responsibility: Thinking twice about what is appropriate, ethical, and legal to download.",
+                "Safety: Being aware of physical dangers like eyestrain and poor posture.",
+                "Security: Protecting electronic data and equipment from viruses and unauthorized access.",
+                "Confidentiality: Protecting personal privacy and passwords.",
+                "Accuracy/Trustworthiness: Ensuring information is correct; citing sources."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.3 Opportunities of digital technology for young citizens",
+          "slides": [
+            {
+              "slide_number": 25,
+              "title": "Opportunities for Young Citizens",
+              "content": [
+                "Information Access: Easy access to local and global events.",
+                "Social Connectivity: Empowers young people to participate in the digital world.",
+                "Learning Opportunities: Access to world knowledge, online lessons, and courses.",
+                "Versatile Working Opportunities: Remote working and easy online job searches.",
+                "Innovation and Creative Opportunities: Exposure to new ideas fosters creativity and innovation."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "2.4 Impacts of unethical use of digital technology on young citizens",
+          "slides": [
+            {
+              "slide_number": 26,
+              "title": "Impacts of Unethical Digital Use",
+              "content": [
+                "Academic Dishonesty: Cheating and plagiarism make students dependent and unanalytical.",
+                "Digital Media Piracy: Illegal circulation of music, movies, and books violates property rights.",
+                "Identity Theft: People hide behind fake personas to commit scams and fraud.",
+                "Unfriendly and Revenge Sex: Exposure to inappropriate content leads to relationship problems and addiction."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Understanding Good Governance",
+      "sections": [
+        {
+          "section_title": "3.1 The concept of good governance",
+          "slides": [
+            {
+              "slide_number": 27,
+              "title": "What is Good Governance?",
+              "content": [
+                "Refers to the processes, institutions, and practices through which common concerns are decided and regulated.",
+                "Measures how public institutions conduct affairs and manage resources efficiently.",
+                "Requires an efficient public service, a reliable judicial system, and an accountable administration.",
+                "Occurs when societal norms empower people to take control of their development without impinging on others' rights."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.2 Elements of good governance",
+          "slides": [
+            {
+              "slide_number": 28,
+              "title": "Elements of Good Governance",
+              "content": [
+                "Accountability: Officials must be answerable for their decisions.",
+                "Participation: Citizens must be involved in decision-making.",
+                "Rule of Law: Laws must be fair and enforced impartially.",
+                "Transparency: Information must be freely available and accessible.",
+                "Equity and Inclusiveness: All members of society must feel they have a stake.",
+                "Responsiveness: Serving stakeholders within a reasonable time.",
+                "Consensus Oriented: Mediating differing interests for broad consensus.",
+                "Effectiveness and Efficiency: Meeting society's needs while using resources optimally."
+              ]
+            },
+            {
+              "slide_number": 29,
+              "title": "Key Principles of Good Governance",
+              "content": [
+                "Accountability, Participation, and Rule of Law are fundamental.",
+                "Transparency, Equity, and Inclusiveness ensure fair processes.",
+                "Responsiveness, Consensus, and Efficiency ensure effective service delivery.",
+                "All elements are interrelated; a problem in one compromises the effectiveness of others."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.3 The role of good governance",
+          "slides": [
+            {
+              "slide_number": 30,
+              "title": "Roles of Good Governance",
+              "content": [
+                "Promoting Economic Development: Through rule of law, efficiency, and better resource allocation.",
+                "Improve Social Development: Enhancing living standards, health, education, and public participation.",
+                "Strengthen Social Cohesion: Ensuring all people have a stake and mediating diverse opinions.",
+                "Promoting Peace: Providing pathways for representation and addressing grievances.",
+                "Ensuring Social Justice: Impartial enforcement of the rule of law.",
+                "Enhancing Government Performance: Through accountability and responsiveness.",
+                "Ensuring Respect for Human Rights: Creating a prerequisite environment for their protection."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.4 Challenges for good governance",
+          "slides": [
+            {
+              "slide_number": 31,
+              "title": "Challenges for Good Governance",
+              "content": [
+                "Poverty: Prevents people from focusing on participation and rights; leads to exclusion.",
+                "Corruption: Distorts economic systems, undermines social confidence, and creates injustice.",
+                "Corruption damages the development process and reinforces power relationships.",
+                "Weak rule of law makes it easier for leaders to mobilize violence and facilitates electoral fraud."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.5 Impacts of lack of good governance",
+          "slides": [
+            {
+              "slide_number": 32,
+              "title": "Impacts of Lack of Good Governance",
+              "content": [
+                "Political Instability: Governments that don't represent the public face unrest.",
+                "Inability of Rule of Law: Leads to manipulation of laws.",
+                "Inability to Secure Justice: Due to unfair resource distribution.",
+                "Lack of Transparency: Leads to public distrust.",
+                "Lack of Empowerment: Citizens' voices are not heard.",
+                "Inefficient Service Delivery: Poor standards and corruption in health and education.",
+                "Administrative Irregularities: Poor management."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3.6 Understanding and fighting corruption",
+          "slides": [
+            {
+              "slide_number": 33,
+              "title": "Understanding Corruption",
+              "content": [
+                "Corruption: Misuse of public office for private gain.",
+                "Forms of corruption: Bribery, embezzlement, fraud, nepotism, extortion.",
+                "It erodes trust, weakens democracy, and hampers economic development."
+              ]
+            },
+            {
+              "slide_number": 34,
+              "title": "Ways of Fighting Corruption",
+              "content": [
+                "Creating Public Awareness: Educating people about the damaging consequences.",
+                "Citizen Participation: Facilitating accountability and transparency.",
+                "Strengthening the Civil Service: Depoliticization and professionalization.",
+                "Increasing Accountability and Transparency: Making information accessible.",
+                "Simplifying Administrative Procedures: Reducing complexity.",
+                "Media: Raising awareness, investigating, and exposing corruption.",
+                "Strengthening the Judicial System: Ensuring laws are enforced."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Peace and Indigenous Conflict Resolution Mechanisms",
+      "sections": [
+        {
+          "section_title": "4.1 The concepts of peace",
+          "slides": [
+            {
+              "slide_number": 35,
+              "title": "What is Peace?",
+              "content": [
+                "A state of mutual harmony between people or groups.",
+                "Internal (Inner) Peace: A state of calm and peacefulness of mind.",
+                "External Peace: The absence of war, disorder, and hostility; presence of social harmony and justice.",
+                "Positive Peace: True, lasting peace built on justice, eliminating root causes of violence.",
+                "Negative Peace: Absence of direct violence, but often without justice and with unresolved conflict."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.2 Impacts of absence of peace",
+          "slides": [
+            {
+              "slide_number": 36,
+              "title": "Impacts of Absence of Peace",
+              "content": [
+                "Security Impacts: Direct and structural violence, cycles of violent conflict.",
+                "Social and Political Disharmony: Destroys national unity and creates suspicion and hatred.",
+                "Failure to Accommodate Cultural Diversity: Groups compete for power and resources.",
+                "Undermine Socio-Economic Development: Diverting resources to military spending.",
+                "Grave Human Rights Violations: Women and children are especially vulnerable to violence, abuse, and displacement."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.3 The notion of peace building",
+          "slides": [
+            {
+              "slide_number": 37,
+              "title": "Peace Building",
+              "content": [
+                "A long-term process of ensuring sustainable peace.",
+                "Encouraging conflicting parties to talk and understand each other.",
+                "Addressing root causes of conflict and creating viable institutions.",
+                "Transforming social institutions that reproduce violence.",
+                "Promoting integration of alienated groups.",
+                "Creating an environment for peaceful conflict resolution and preventing future violence."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.4 Indigenous conflict resolution mechanisms",
+          "slides": [
+            {
+              "slide_number": 38,
+              "title": "Indigenous Conflict Resolution Mechanisms",
+              "content": [
+                "Grassroots, community-based practices for resolving conflicts according to customary norms.",
+                "Features: Context-specific, voluntary, consensus-based, flexible norms.",
+                "Goal: Restoration and maintenance of peaceful coexistence.",
+                "Involves negotiation, compromise, forgiveness, and compensation.",
+                "Examples: Makabanna (Afar), Shimagille (Amhara), Jarsumma (Oromo)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "4.5 The roles of indigenous social institutions in ensuring sustainable peace",
+          "slides": [
+            {
+              "slide_number": 39,
+              "title": "Roles of Indigenous Institutions",
+              "content": [
+                "Building Community Cohesion: Fostering solidarity and self-governance.",
+                "Restoring Order and Relationships: Focusing on reconciliation, not punishment.",
+                "Addressing Psycho-Social and Spiritual Dimensions: Providing rituals and healing.",
+                "Ensuring Inclusion and Participation: Consensus-based solutions.",
+                "Providing Accessibility: Offering immediate, context-sensitive solutions."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Federalism in Ethiopia",
+      "sections": [
+        {
+          "section_title": "5.1 The meaning of federalism",
+          "slides": [
+            {
+              "slide_number": 40,
+              "title": "What is Federalism?",
+              "content": [
+                "A system of government where power is divided between a federal and regional governments.",
+                "Devolution: The principle of transferring power to regions.",
+                "Neither level is constitutionally subordinate to the other.",
+                "Each level has sovereign powers derived from the constitution.",
+                "A high federal court adjudicates disputes concerning federalism."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.2 Types of federalism",
+          "slides": [
+            {
+              "slide_number": 41,
+              "title": "Types of Federalism",
+              "content": [
+                "Dual Federalism (Layer Cake): Clear division of powers between state and national governments.",
+                "  - Advantages: Protects local jurisdictions, laws reflect local needs.",
+                "  - Disadvantages: Tension, reduced cooperation, decreased unity.",
+                "Cooperative Federalism (Marble Cake): Shared power and collaboration on overlapping functions.",
+                "  - Advantages: Efficient service delivery, practical cooperation.",
+                "  - Disadvantages: Decrease in state powers, potential federal overreach."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.3 Key features of federalism",
+          "slides": [
+            {
+              "slide_number": 42,
+              "title": "Key Features of Federalism",
+              "content": [
+                "Division of Power: Political power is constitutionally divided between the federal and state governments.",
+                "Decentralized System: States derive authority from the constitution, not from the center.",
+                "Written and Supreme Constitution: Serves as the supreme law and clearly defines the division of powers."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.4 Advantage and disadvantage of federalism",
+          "slides": [
+            {
+              "slide_number": 43,
+              "title": "Advantages of Federalism",
+              "content": [
+                "Division of powers.",
+                "Separate governments.",
+                "Written and rigid constitution.",
+                "Special judiciary.",
+                "Better understanding of local issues.",
+                "Increasing citizen participation.",
+                "Protection against tyranny.",
+                "More efficiency."
+              ]
+            },
+            {
+              "slide_number": 44,
+              "title": "Disadvantages of Federalism",
+              "content": [
+                "Conflict of authority.",
+                "Regionalism over patriotism.",
+                "Lack of accountability.",
+                "Inequalities between states.",
+                "States blocking nationalist policies."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5.5 The roles of federalism in accommodating diversity in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 45,
+              "title": "Federalism in Ethiopia",
+              "content": [
+                "Rationale: To reconcile ethnic diversity with political unity.",
+                "Shift from a historically centralized unitary state.",
+                "FDRE constitution lists federal, state, and concurrent powers, leaving residual power to states.",
+                "Bi-cameral legislature: House of Peoples' Representatives (supreme political organ) and House of Federation (interprets constitution).",
+                "Challenges: Balancing unity and diversity, making constituent units viable, managing individual vs. collective rights."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Human Rights",
+      "sections": [
+        {
+          "section_title": "6.1 The concept of human right",
+          "slides": [
+            {
+              "slide_number": 46,
+              "title": "What are Human Rights?",
+              "content": [
+                "Fundamental entitlements belonging to every human being without discrimination.",
+                "Derived from human dignity and worth.",
+                "Provide minimum standards for a worth-living life."
+              ]
+            },
+            {
+              "slide_number": 47,
+              "title": "Basic Features of Human Rights",
+              "content": [
+                "Universalism: Apply equally to all people everywhere.",
+                "Eternality: End only at natural death.",
+                "Inalienability: Cannot be given up or taken away.",
+                "Indivisible and Interdependent: One right depends on others.",
+                "Inviolability: Should not be violated.",
+                "Irrevocable: Cannot be taken away by any power."
+              ]
+            },
+            {
+              "slide_number": 48,
+              "title": "Classification of Human Rights",
+              "content": [
+                "First Generation: Civil and political rights (e.g., freedom from discrimination, right to a fair trial).",
+                "Second Generation: Economic, social, and cultural rights (e.g., right to work, right to education).",
+                "Third Generation: Solidarity rights (e.g., right to self-determination, right to development).",
+                "FDRE constitution has a third of its provisions devoted to human rights and democratic rights."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "6.2 Citizens and state obligations in realizing human rights",
+          "slides": [
+            {
+              "slide_number": 49,
+              "title": "Obligations for Human Rights",
+              "content": [
+                "Citizens' Obligations: Respecting religious and gender equality, respecting the rights of others, and respecting national symbols.",
+                "State Obligations:",
+                "  - Obligation to Respect: Refrain from interfering with rights.",
+                "  - Obligation to Protect: Protect individuals from abuses by third parties.",
+                "  - Obligation to Fulfill: Take positive action to ensure rights are realized."
+              ]
+            },
+            {
+              "slide_number": 50,
+              "title": "Instruments for Human Rights Protection",
+              "content": [
+                "Universal Declaration of Human Rights (UDHR) - 1948.",
+                "International Conventions: ICCPR, ICESCR, CEDAW, CRC.",
+                "Regional Mechanisms in Africa, Americas, and Europe.",
+                "FDRE Constitution: Foundation of human rights in Ethiopia.",
+                "Ethiopian institutions: National Human Rights Commission, Ombudsman."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Patriotism",
+      "sections": [
+        {
+          "section_title": "7.1 The meaning of patriotism",
+          "slides": [
+            {
+              "slide_number": 51,
+              "title": "What is Patriotism?",
+              "content": [
+                "A sentiment and psychological attachment to one's nation.",
+                "Originates from the Latin word 'patria' meaning fatherland.",
+                "Love, devotion, and a sense of attachment to a homeland.",
+                "A feeling of pride in a country's history, culture, and tradition.",
+                "Action-oriented: expressed through devotion to the nation's fundamental values and principles.",
+                "In a democracy, it means devoting time, ability, and even life for the nation's security and welfare."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "7.2 Types of patriotism",
+          "slides": [
+            {
+              "slide_number": 52,
+              "title": "Types of Patriotism",
+              "content": [
+                "Constitutional Patriotism: Commitment to democracy, human rights, coexistence, and tolerance.",
+                "Traditional Patriotism: Readiness to give one's life for the motherland.",
+                "Icon Patriotism: Showing love through heroic or impactful actions.",
+                "Symbolic Patriotism: Respect for national symbols like the flag and anthem.",
+                "Capital Patriotism: Contributing to the development of the national economy.",
+                "Environmental Patriotism: Love for the country's environment and actions to protect it."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "7.3 The bases of patriotism",
+          "slides": [
+            {
+              "slide_number": 53,
+              "title": "Bases of Patriotism",
+              "content": [
+                "Equality: Based on respect for constitutional democracy and human rights.",
+                "Tolerance: Accepting diversity as a civic obligation.",
+                "Loyalty: Loyalty to the constitution, the people, and the government.",
+                "Concern for Well-being: Readiness to defend the country.",
+                "Sacrificing Personal Desires: Sacrificing personal interests for the common good.",
+                "Protecting the Constitution: Supporting its implementation.",
+                "Carrying out Duties: Fulfilling personal and civic responsibilities.",
+                "Defending the Country: From external aggressors."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "7.4 The importance of patriotism",
+          "slides": [
+            {
+              "slide_number": 54,
+              "title": "Importance and Traits of Patriotism",
+              "content": [
+                "Importance:",
+                "  - Brings people together, fostering unity.",
+                "  - Builds a stronger nation.",
+                "  - Develops a spirit of pride.",
+                "Traits of Patriotic Citizens:",
+                "  - Aware of rights and duties.",
+                "  - Fight for a better nation.",
+                "  - Eager to make the country better.",
+                "  - Do not take undue advantage of privileges."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "7.5 Duties expected of patriots",
+          "slides": [
+            {
+              "slide_number": 55,
+              "title": "Duties of Patriots",
+              "content": [
+                "Knowing the True History: To develop a clear understanding and foster tolerance.",
+                "Promoting the Common Good: Subordinating personal interests and defending state secrets.",
+                "Poverty Reduction: Working to reduce poverty, as it weakens democracy.",
+                "Voluntarism: Taking personal initiatives to serve the community.",
+                "Factors Affecting the Common Good: Selfish interests and corruption."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "Globalization and Global Issues",
+      "sections": [
+        {
+          "section_title": "8.1 The meaning of globalization",
+          "slides": [
+            {
+              "slide_number": 56,
+              "title": "What is Globalization?",
+              "content": [
+                "The multiplicity of linkages and interconnections between states and societies.",
+                "Events in one part of the world can have significant consequences elsewhere.",
+                "Often refers to economic globalization: integration of national economies into the international economy.",
+                "Dimensions:",
+                "  - Political: Intensification of political interrelations.",
+                "  - Economic: Increasing interdependence of economies.",
+                "  - Social: Sharing of ideas and information.",
+                "  - Cultural: Circulation and sharing of ideas, meanings, and values."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "8.2 Advantages and disadvantages of globalization",
+          "slides": [
+            {
+              "slide_number": 57,
+              "title": "Advantages of Globalization",
+              "content": [
+                "Economic: Increased trade, economic growth, technological development.",
+                "Political: Information sharing, promotion of democratic principles.",
+                "Social: Transformations in society, access to information.",
+                "Cultural: Cultural exchange, multiculturalism.",
+                "Financial: Easier capital exchange, global financial markets."
+              ]
+            },
+            {
+              "slide_number": 58,
+              "title": "Disadvantages of Globalization",
+              "content": [
+                "Cultural: Homogenization of cultures, loss of local traditions.",
+                "Political: Pressure on leaders, fragmentation of national consciousness.",
+                "Economic: Income inequality, marginalization of developing economies.",
+                "Social: Personal insecurity (crime), job insecurity, health insecurity, environmental insecurity."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "8.3 Fighting the negative impact of globalization",
+          "slides": [
+            {
+              "slide_number": 59,
+              "title": "Fighting Negative Impacts",
+              "content": [
+                "Promoting Indigenous Knowledge: Incorporating it into education systems.",
+                "Valuing Community Development: Community-driven projects are more effective.",
+                "Promoting Indigenous Social Welfare Programs: Reducing vulnerability to external intervention.",
+                "Regional Cooperation: Groups of nations solving common problems.",
+                "Providing an Innovation Fund: Encouraging innovations for developing countries."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "8.4 Major global issues",
+          "slides": [
+            {
+              "slide_number": 60,
+              "title": "What are Global Issues?",
+              "content": [
+                "Issues that affect large parts of the globe and are urgent.",
+                "Examples: Climate change, poverty, inequality, population explosion, unemployment, disease, terrorism.",
+                "Criteria: Extent, urgency, and centrality."
+              ]
+            },
+            {
+              "slide_number": 61,
+              "title": "Major Global Issues",
+              "content": [
+                "Climate Change: Caused by industrialization, population growth, urbanization, leading to global warming.",
+                "Poverty and Inequality: Widespread, creating a cycle of deprivation and instability.",
+                "Population Explosion: Rapid population increase putting pressure on resources.",
+                "Unemployment: Leads to poverty, social exclusion, and instability.",
+                "Disease: Spread facilitated by travel and migration (e.g., HIV/AIDS, COVID-19).",
+                "Terrorism: Use of violence against civilians for political purposes, a global security threat."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

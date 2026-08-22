@@ -1,0 +1,1059 @@
+{
+  "subject": "Economics",
+  "grade": 10,
+  "book_title": "Economics Student Textbook Grade 10",
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Theory of Consumer Behavior",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "The Concept of Utility",
+          "summary": "This section introduces the foundational concept of utility in consumer theory. Utility is defined as the satisfaction or pleasure a consumer derives from consuming a good or service. A key point is the relativity of utility, meaning it is subjective and varies between consumers, across different places, and over time. The section clarifies that utility differs from mere usefulness, which is an inherent property of a good. Finally, it introduces the two main approaches economists use to measure utility: the cardinal utility approach (measurable in numerical units) and the ordinal utility approach (based on ranking preferences).",
+          "notes": "Utility is the level of satisfaction or pleasure derived from the consumption of a good or service. It is the power of a commodity to satisfy human wants. The concept is subjective and relative, varying from person to person, place to place, and time to time. For example, a jacket has high utility in cold weather but low utility in hot weather. Utility and usefulness are not the same; usefulness is an attribute of the product, while utility is the satisfaction gained by the consumer. Economists attempt to quantify utility using two approaches: Cardinal Utility, which assumes utility can be measured in units called 'utils', and Ordinal Utility, which assumes utility can only be ranked or ordered in terms of preference.",
+          "keywords": [
+            {
+              "keyword": "Utility",
+              "definition": "The level of satisfaction or pleasure derived from the consumption of a good or service."
+            },
+            {
+              "keyword": "Commodity",
+              "definition": "A raw material or primary agricultural product that can be bought and sold, often used interchangeably with 'good'."
+            },
+            {
+              "keyword": "Satisfaction",
+              "definition": "The feeling of pleasure or contentment that results from fulfilling a want or need."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "The Cardinal Utility Theory",
+          "summary": "This section delves into the cardinal utility theory, which posits that utility is measurable. It outlines the key assumptions of the theory, including consumer rationality, cardinal utility, constant marginal utility of money, and the law of diminishing marginal utility. The core concepts of Total Utility (TU) and Marginal Utility (MU) are defined and calculated. Total utility is the cumulative satisfaction from consuming a certain quantity, while marginal utility is the additional satisfaction from consuming one more unit. The relationship between TU and MU is explored: TU increases as long as MU is positive, reaches a maximum when MU is zero, and declines when MU becomes negative. The Law of Diminishing Marginal Utility is central to this approach, stating that as consumption of a good increases, the additional utility from each successive unit decreases.",
+          "notes": "The cardinal utility theory assumes utility is measurable. Its key assumptions are: (1) Consumers are rational and seek to maximize satisfaction. (2) Utility is cardinal and measurable in units called 'utils'. (3) The marginal utility of money is constant. (4) The law of diminishing marginal utility operates. Total Utility (TU) is the total satisfaction from consuming a given quantity. Marginal Utility (MU) is the additional satisfaction from consuming one more unit, calculated as MU = ΔTU / ΔQ. The Law of Diminishing Marginal Utility states that as a consumer consumes more and more units of a good, the utility derived from each additional unit decreases. This law is demonstrated through schedules and graphs, where TU increases but at a decreasing rate until it reaches a maximum point where MU becomes zero. Beyond that point, consuming more leads to a decrease in TU and negative MU.",
+          "keywords": [
+            {
+              "keyword": "Cardinal Utility",
+              "definition": "The concept that utility is measurable in absolute numerical units, such as 'utils' or monetary units."
+            },
+            {
+              "keyword": "Total Utility (TU)",
+              "definition": "The total amount of satisfaction a consumer gets from consuming a specific quantity of a good or service."
+            },
+            {
+              "keyword": "Marginal Utility (MU)",
+              "definition": "The additional utility gained from consuming one more unit of a good or service."
+            },
+            {
+              "keyword": "Utils",
+              "definition": "A hypothetical unit of measurement used to quantify utility in the cardinal utility approach."
+            },
+            {
+              "keyword": "Law of Diminishing Marginal Utility",
+              "definition": "A principle stating that as a person consumes more units of a good, the marginal utility from each additional unit decreases."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Consumer Maximization Problem",
+          "summary": "This section applies the cardinal utility theory to determine how a consumer maximizes satisfaction given a limited budget. It introduces the consumer's budget equation and the concept of consumer equilibrium. For a single commodity, a consumer maximizes utility when the marginal utility of the good equals its price (MUx = Px). For multiple commodities, equilibrium is achieved when the ratio of marginal utility to price is equal for all goods (MUx/Px = MUy/Py = ... = MUm). The section provides numerical examples to demonstrate how a consumer allocates their income across goods to reach equilibrium and maximize total utility.",
+          "notes": "A rational consumer aims to maximize utility given a limited income. This is achieved at the point of consumer equilibrium. For one good, equilibrium occurs where MUx = Px. If MUx > Px, the consumer should buy more; if MUx < Px, they should buy less. The consumer's budget equation is: Income (I) = Px * Qx. For multiple goods (A, B,... N), equilibrium is reached when MUa/Pa = MUb/Pb = ... = MUn/Pn = MUm (marginal utility of money). The budget equation becomes: I = (Pa*Qa) + (Pb*Qb) + ... + (Pn*Qn). The section uses tables to illustrate how to find the optimal combination of goods (e.g., bread and injera) that equalizes the MU/P ratios and fully exhausts the consumer's income.",
+          "keywords": [
+            {
+              "keyword": "Consumer Equilibrium",
+              "definition": "A state where a consumer has allocated their income in a way that maximizes their total utility, given the prices of goods and their budget."
+            },
+            {
+              "keyword": "Budget Equation",
+              "definition": "A mathematical representation of a consumer's income being equal to the total expenditure on all goods purchased (e.g., I = Px*Qx + Py*Qy)."
+            },
+            {
+              "keyword": "Consumer Income",
+              "definition": "The total amount of money a consumer has available to spend on goods and services."
+            },
+            {
+              "keyword": "Marginal Utility of Money (MUm)",
+              "definition": "The utility derived from the last unit of money spent; at equilibrium, the utility per birr spent is equal across all goods."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Introduction to the Ordinal Utility Theory",
+          "summary": "This section introduces the ordinal utility theory, which argues that utility is not measurable in absolute terms but can be ranked based on preferences. It highlights the practical difficulty of assigning numerical values to satisfaction. The core assumptions of this approach are outlined: rationality of the consumer, ordinal nature of utility, and the diminishing marginal rate of substitution (MRS). The consistency and transitivity of preferences are also discussed as key principles underpinning rational choice. This approach forms the basis for a more modern and realistic analysis of consumer behavior using indifference curves.",
+          "notes": "The ordinal utility theory assumes utility is not quantifiable but can be ranked. Consumers can state preferences (e.g., bundle A is preferred to bundle B) but cannot express 'how much' more they prefer it. The key assumptions are: (1) The consumer is rational and seeks to maximize satisfaction. (2) Utility is ordinal, meaning preferences can be ranked. (3) The marginal rate of substitution (MRS) diminishes. The MRS is the rate at which a consumer is willing to give up one good for another while keeping satisfaction constant. The Diminishing MRS means that as you substitute one good for another, you are willing to give up fewer units of the good you are acquiring. (4) Preferences are consistent and transitive. Consistency means if A > B, then B is not > A. Transitivity means if A > B and B > C, then A > C.",
+          "keywords": [
+            {
+              "keyword": "Ordinal Utility",
+              "definition": "The concept that utility can only be ranked or ordered in terms of preference, not measured in absolute numerical units."
+            },
+            {
+              "keyword": "Marginal Rate of Substitution (MRS)",
+              "definition": "The rate at which a consumer is willing to trade one good for another while keeping their total utility constant."
+            },
+            {
+              "keyword": "Diminishing Marginal Rate of Substitution (DMRS)",
+              "definition": "The principle that as a consumer substitutes one good for another, they are willing to give up fewer and fewer units of the good they are acquiring."
+            },
+            {
+              "keyword": "Consistency",
+              "definition": "An assumption in choice theory that if a consumer prefers bundle A over B, they will not prefer B over A under the same conditions."
+            },
+            {
+              "keyword": "Transitivity",
+              "definition": "An assumption in choice theory that if a consumer prefers A to B and B to C, then they must prefer A to C."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Theories of Demand and Supply",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Theory of Demand",
+          "summary": "This section defines demand as the willingness and ability to buy a good at a given price. It distinguishes demand from a mere desire or want. The demand schedule, demand function (Qd = a - bP), and demand curve are explained. The law of demand, which states that price and quantity demanded are inversely related, is introduced. Various factors affecting demand are listed, including the price of the good, prices of related goods (substitutes and complements), consumer income, tastes and preferences, population, season, and future price expectations. The section differentiates between a change in quantity demanded (movement along the curve) caused by a price change and a change in demand (shift of the curve) caused by other factors. Finally, it explains how to derive market demand by horizontally summing individual demand curves.",
+          "notes": "Demand is the quantity of a good or service that consumers are willing and able to buy at various prices during a given period. It is not just a desire but requires purchasing power. Demand can be represented as a schedule (table), a function (equation), or a curve (graph). The demand function Qd = a - bP shows the relationship between quantity demanded and price, with a negative slope due to the law of demand. Factors affecting demand include: own price, income, prices of substitutes (e.g., tea and coffee), prices of complements (e.g., cars and petrol), tastes, population, season, and expectations. A change in quantity demanded is a movement along the demand curve due to a price change. A change in demand is a shift of the entire demand curve due to a change in any other factor. Market demand is the sum of all individual demands in a market.",
+          "keywords": [
+            {
+              "keyword": "Demand",
+              "definition": "The willingness and ability of consumers to buy a specific quantity of a good at a given price over a specific period of time."
+            },
+            {
+              "keyword": "Demand Schedule",
+              "definition": "A table showing the quantity of a good that a consumer is willing to buy at different price levels."
+            },
+            {
+              "keyword": "Demand Curve",
+              "definition": "A graphical representation of the relationship between the price of a good and the quantity demanded, typically sloping downward."
+            },
+            {
+              "keyword": "Law of Demand",
+              "definition": "A principle stating that, all else being equal, the quantity demanded of a good decreases as its price increases, and vice versa."
+            },
+            {
+              "keyword": "Market Demand",
+              "definition": "The total quantity of a good that all consumers in a market are willing and able to buy at a given price."
+            },
+            {
+              "keyword": "Substitute Goods",
+              "definition": "Goods that can be used in place of each other, such as tea and coffee."
+            },
+            {
+              "keyword": "Complementary Goods",
+              "definition": "Goods that are used together, such as cars and petrol."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Theory of Supply",
+          "summary": "This section defines supply as the quantity of a good that producers are willing and able to sell at a given price. Similar to demand, supply can be expressed through schedules, functions (Qs = a + bP), and curves. The law of supply states a direct relationship between price and quantity supplied; as price rises, quantity supplied rises. The section lists factors affecting supply, such as the cost of inputs, technology, external factors (weather), taxes and subsidies, and the price of other goods. It differentiates between a change in quantity supplied (movement along the curve due to price) and a change in supply (shift of the curve due to other factors). Finally, it explains that the market supply curve is derived by horizontally summing all individual supply curves.",
+          "notes": "Supply is the quantity of a good or service that producers are willing and able to sell at various prices over a given period. It is represented by a supply schedule, function (Qs = a + bP), and an upward-sloping curve. The law of supply states that price and quantity supplied are directly related. Factors affecting supply include: input prices, technology, taxes/subsidies, number of sellers, and expectations. A change in quantity supplied is a movement along the curve due to a change in the good's own price. A change in supply is a shift of the curve due to a change in any other factor. Market supply is the horizontal sum of individual firms' supply curves.",
+          "keywords": [
+            {
+              "keyword": "Supply",
+              "definition": "The willingness and ability of producers to sell a specific quantity of a good at a given price over a specific period of time."
+            },
+            {
+              "keyword": "Supply Schedule",
+              "definition": "A table showing the quantity of a good that a producer is willing to sell at different price levels."
+            },
+            {
+              "keyword": "Supply Curve",
+              "definition": "A graphical representation of the relationship between the price of a good and the quantity supplied, typically sloping upward."
+            },
+            {
+              "keyword": "Law of Supply",
+              "definition": "A principle stating that, all else being equal, the quantity supplied of a good increases as its price increases."
+            },
+            {
+              "keyword": "Market Supply",
+              "definition": "The total quantity of a good that all producers in a market are willing and able to sell at a given price."
+            },
+            {
+              "keyword": "Change in Quantity Supplied",
+              "definition": "A movement along a fixed supply curve caused by a change in the good's own price."
+            },
+            {
+              "keyword": "Change in Supply",
+              "definition": "A shift of the entire supply curve caused by a change in a determinant of supply other than the good's own price (e.g., technology, input costs)."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Market Equilibrium",
+          "summary": "This section introduces the concept of market equilibrium, where the quantity demanded equals the quantity supplied. This point determines the equilibrium price (market-clearing price) and equilibrium quantity. The concepts of excess demand (shortage) and excess supply (surplus) are explained. A shortage occurs when price is below equilibrium, creating upward pressure on price. A surplus occurs when price is above equilibrium, creating downward pressure on price. The section demonstrates how market forces naturally drive the price towards equilibrium. It also analyzes the effects of shifts in demand and supply on equilibrium price and quantity. An increase in demand raises both price and quantity, while a decrease in demand lowers both. An increase in supply lowers price but raises quantity, while a decrease in supply raises price but lowers quantity.",
+          "notes": "Market equilibrium is a state of balance where the quantity demanded equals the quantity supplied (Qd = Qs). The equilibrium price is the price at which this occurs. A shortage (excess demand) occurs when Qd > Qs, which pushes prices up. A surplus (excess supply) occurs when Qs > Qd, which pushes prices down. Changes in demand or supply disrupt equilibrium and lead to new equilibrium points. The effect on price and quantity depends on the direction of the shift. For example, an increase in demand (D1 to D2) leads to a higher equilibrium price and quantity. A decrease in supply (S1 to S2) leads to a higher equilibrium price and lower equilibrium quantity. These changes are illustrated with graphs and tables.",
+          "keywords": [
+            {
+              "keyword": "Market Equilibrium",
+              "definition": "A market condition where the quantity demanded equals the quantity supplied, resulting in a stable market-clearing price."
+            },
+            {
+              "keyword": "Equilibrium Price",
+              "definition": "The price at which the quantity demanded equals the quantity supplied."
+            },
+            {
+              "keyword": "Equilibrium Quantity",
+              "definition": "The quantity of a good that is both bought and sold at the equilibrium price."
+            },
+            {
+              "keyword": "Excess Demand (Shortage)",
+              "definition": "A situation where the quantity demanded is greater than the quantity supplied, which typically causes the price to rise."
+            },
+            {
+              "keyword": "Excess Supply (Surplus)",
+              "definition": "A situation where the quantity supplied is greater than the quantity demanded, which typically causes the price to fall."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Elasticities of Demand and Supply",
+          "summary": "This section introduces the concept of elasticity, which measures the responsiveness of one variable to a change in another. It covers three types of demand elasticity: price elasticity, cross-price elasticity, and income elasticity. Price elasticity of demand measures how much quantity demanded responds to a change in price. It can be elastic (>1), inelastic (<1), or unitary (=1). Cross elasticity measures the responsiveness of demand for one good to a change in the price of another good, indicating whether goods are substitutes (positive coefficient) or complements (negative coefficient). Income elasticity measures the responsiveness of demand to a change in income, distinguishing between normal goods (positive) and inferior goods (negative). The section also covers price elasticity of supply, which measures the responsiveness of quantity supplied to a change in price. Determinants of these elasticities are discussed, including the availability of substitutes, the nature of the good (necessity vs. luxury), and the time horizon.",
+          "notes": "Elasticity measures the percentage change in one variable in response to a 1% change in another. Price Elasticity of Demand (Ed) measures how much Qd changes in response to a price change. Ed = (%ΔQ) / (%ΔP). If |Ed| > 1, demand is elastic; if |Ed| < 1, inelastic; if =1, unitary elastic. Determinants include availability of substitutes, nature of the good, and proportion of income spent. Cross Elasticity of Demand measures the responsiveness of Qd of good X to a change in the price of good Y. If the coefficient is positive, goods are substitutes; if negative, they are complements. Income Elasticity of Demand measures the responsiveness of Qd to a change in consumer income. If positive, the good is normal; if negative, it is inferior. Price Elasticity of Supply (Es) measures the responsiveness of Qs to a price change. Es = (%ΔQs) / (%ΔP). If Es > 1, supply is elastic; if <1, inelastic; if =1, unitary elastic.",
+          "keywords": [
+            {
+              "keyword": "Elasticity",
+              "definition": "A measure of the responsiveness of one economic variable (e.g., demand) to a change in another variable (e.g., price)."
+            },
+            {
+              "keyword": "Price Elasticity of Demand",
+              "definition": "A measure of how much the quantity demanded of a good responds to a change in its price."
+            },
+            {
+              "keyword": "Elastic Demand",
+              "definition": "A situation where the percentage change in quantity demanded is greater than the percentage change in price (|Ed| > 1)."
+            },
+            {
+              "keyword": "Inelastic Demand",
+              "definition": "A situation where the percentage change in quantity demanded is less than the percentage change in price (|Ed| < 1)."
+            },
+            {
+              "keyword": "Unitary Elastic Demand",
+              "definition": "A situation where the percentage change in quantity demanded is equal to the percentage change in price (|Ed| = 1)."
+            },
+            {
+              "keyword": "Cross Elasticity of Demand",
+              "definition": "A measure of how the quantity demanded of one good responds to a change in the price of another good."
+            },
+            {
+              "keyword": "Income Elasticity of Demand",
+              "definition": "A measure of how the quantity demanded of a good responds to a change in consumers' income."
+            },
+            {
+              "keyword": "Inferior Good",
+              "definition": "A good for which demand decreases as consumer income increases, resulting in a negative income elasticity of demand."
+            },
+            {
+              "keyword": "Normal Good",
+              "definition": "A good for which demand increases as consumer income increases, resulting in a positive income elasticity of demand."
+            },
+            {
+              "keyword": "Price Elasticity of Supply",
+              "definition": "A measure of how much the quantity supplied of a good responds to a change in its price."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Theories of Production and Cost",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Theory of Production",
+          "summary": "This section defines production as the process of transforming inputs into outputs. It introduces the production function (Q = f(L, K)), which shows the maximum output from a given set of inputs. The section distinguishes between short-run (at least one input fixed) and long-run (all inputs variable) production. In the short run, it examines production with one variable input, focusing on Total Product (TP), Average Product (AP), and Marginal Product (MP). The Law of Diminishing Marginal Productivity is explained, which states that as more of a variable input is added to fixed inputs, the marginal product will eventually decline. The stages of production are identified: Stage I (increasing returns), Stage II (diminishing returns), and Stage III (negative returns). In the long run, the concept of isoquants is introduced, which are curves showing combinations of two variable inputs that produce the same output level. The properties of isoquants and the Marginal Rate of Technical Substitution (MRTS) are discussed. Returns to scale (increasing, constant, decreasing) are explained, along with the effect of technological change on production curves.",
+          "notes": "Production is the transformation of resources (inputs) into goods and services (outputs). The Production Function (Q = f(L,K)) shows the maximum output from a given combination of inputs. Short-run is when at least one input is fixed. TP is total output, AP is output per unit of input (AP = TP/L), and MP is the additional output from one more unit of input (MP = ΔTP/ΔL). The Law of Diminishing Marginal Productivity states that MP will eventually decline. The three stages of production are: Stage I (MP rising), Stage II (MP falling but positive), and Stage III (MP negative). In the Long-run, all inputs are variable. An Isoquant is a curve showing all efficient combinations of inputs (e.g., L and K) that produce the same output. MRTS is the rate at which one input can be substituted for another while maintaining output, and it diminishes along an isoquant. Returns to Scale describe what happens to output when all inputs are increased proportionally: Increasing (output increases more than inputs), Constant (output increases in same proportion), and Decreasing (output increases less than inputs). Technological progress shifts the production function upward.",
+          "keywords": [
+            {
+              "keyword": "Production",
+              "definition": "The process of combining inputs to create goods and services (outputs)."
+            },
+            {
+              "keyword": "Production Function",
+              "definition": "A mathematical or graphical relationship showing the maximum output obtainable from a given set of inputs."
+            },
+            {
+              "keyword": "Total Product (TP)",
+              "definition": "The total amount of output produced by a firm with a given amount of inputs."
+            },
+            {
+              "keyword": "Average Product (AP)",
+              "definition": "The output produced per unit of a specific input, calculated as TP divided by the quantity of that input."
+            },
+            {
+              "keyword": "Marginal Product (MP)",
+              "definition": "The additional output produced by using one more unit of an input."
+            },
+            {
+              "keyword": "Law of Diminishing Marginal Returns",
+              "definition": "A principle stating that as a firm increases the quantity of one input while holding others fixed, the marginal product of the variable input will eventually decline."
+            },
+            {
+              "keyword": "Isoquant",
+              "definition": "A curve that shows all combinations of two inputs (e.g., labor and capital) that yield the same level of output."
+            },
+            {
+              "keyword": "Marginal Rate of Technical Substitution (MRTS)",
+              "definition": "The rate at which one input can be substituted for another while keeping the output level constant."
+            },
+            {
+              "keyword": "Returns to Scale",
+              "definition": "The rate at which output increases when all inputs are increased proportionally."
+            },
+            {
+              "keyword": "Technological Change",
+              "definition": "A shift in the production process that allows a firm to produce more output with the same inputs."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Theory of Cost",
+          "summary": "This section defines the cost of production as the expenditure incurred by a firm to acquire inputs. It distinguishes between short-run and long-run costs. In the short run, costs are categorized as Total Fixed Cost (TFC), Total Variable Cost (TVC), and Total Cost (TC = TFC + TVC). It then derives average costs: Average Fixed Cost (AFC = TFC/Q), Average Variable Cost (AVC = TVC/Q), and Average Total Cost (ATC = TC/Q = AFC + AVC). Marginal Cost (MC = ΔTC/ΔQ) is also calculated. The shapes and relationships of these cost curves are analyzed: AFC declines continuously, while AVC, ATC, and MC are U-shaped. The MC curve intersects the AVC and ATC curves at their minimum points. In the long run, all costs are variable, and the Long-Run Average Cost (LAC) curve is also U-shaped due to economies and diseconomies of scale. The section concludes with the relationship between product curves (AP, MP) and cost curves (AVC, MC), showing they are mirror images.",
+          "notes": "Cost of Production is the total expenditure on inputs. In the Short-run: TFC does not change with output; TVC changes with output; TC = TFC + TVC. Average Costs: AFC = TFC/Q; AVC = TVC/Q; ATC = TC/Q = AFC + AVC. Marginal Cost (MC) is the additional cost of producing one more unit: MC = ΔTC/ΔQ. The AFC curve slopes downward. AVC, ATC, and MC are U-shaped due to the law of diminishing returns. The MC curve crosses AVC and ATC at their minimum points. In the Long-run, all costs are variable, and the LAC curve is U-shaped due to economies (decreasing costs) and diseconomies (increasing costs) of scale. There is a direct relationship between production and cost curves: when AP and MP rise, AVC and MC fall; and when AP and MP are at their maximum, AVC and MC are at their minimum.",
+          "keywords": [
+            {
+              "keyword": "Total Fixed Cost (TFC)",
+              "definition": "Costs that do not vary with the level of output (e.g., rent, insurance)."
+            },
+            {
+              "keyword": "Total Variable Cost (TVC)",
+              "definition": "Costs that vary directly with the level of output (e.g., raw materials, wages)."
+            },
+            {
+              "keyword": "Total Cost (TC)",
+              "definition": "The sum of total fixed costs and total variable costs (TC = TFC + TVC)."
+            },
+            {
+              "keyword": "Average Fixed Cost (AFC)",
+              "definition": "Total fixed cost divided by the quantity of output (AFC = TFC/Q)."
+            },
+            {
+              "keyword": "Average Variable Cost (AVC)",
+              "definition": "Total variable cost divided by the quantity of output (AVC = TVC/Q)."
+            },
+            {
+              "keyword": "Average Total Cost (ATC)",
+              "definition": "Total cost divided by the quantity of output (ATC = TC/Q = AFC + AVC)."
+            },
+            {
+              "keyword": "Marginal Cost (MC)",
+              "definition": "The additional cost incurred by producing one more unit of output (MC = ΔTC/ΔQ)."
+            },
+            {
+              "keyword": "Long-Run Average Cost (LAC)",
+              "definition": "The average cost of production when all inputs are variable."
+            },
+            {
+              "keyword": "Economies of Scale",
+              "definition": "A situation where long-run average costs decrease as the scale of production increases."
+            },
+            {
+              "keyword": "Diseconomies of Scale",
+              "definition": "A situation where long-run average costs increase as the scale of production increases."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Market Structure",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Perfectly Competitive Markets",
+          "summary": "This section defines a perfectly competitive market as one where many buyers and sellers trade identical products, with free entry and exit and perfect information. A key feature is that individual firms are price takers, meaning they cannot influence the market price. The demand curve for a firm in perfect competition is perfectly horizontal. The revenue functions are explained: Total Revenue (TR = P x Q), Average Revenue (AR = TR/Q = P), and Marginal Revenue (MR = ΔTR/ΔQ = P). In perfect competition, AR = MR = Price. The equilibrium price is determined by the intersection of market demand and supply, and the firm can sell any quantity at that price.",
+          "notes": "A perfectly competitive market has: many small buyers and sellers, homogeneous products, free entry and exit, and perfect information. Firms are price takers and face a perfectly elastic (horizontal) demand curve. Total Revenue (TR) = Price (P) * Quantity (Q). Average Revenue (AR) = TR/Q = P. Marginal Revenue (MR) = ΔTR/ΔQ = P. Therefore, for a competitive firm, P = AR = MR. The market price is determined by the interaction of market demand and supply. The firm's demand curve is simply a horizontal line at the market price.",
+          "keywords": [
+            {
+              "keyword": "Perfect Competition",
+              "definition": "A market structure with many buyers and sellers, identical products, and free entry and exit, where no single firm can influence the price."
+            },
+            {
+              "keyword": "Price Taker",
+              "definition": "A firm that must accept the market price for its product and cannot influence it."
+            },
+            {
+              "keyword": "Total Revenue (TR)",
+              "definition": "The total amount of money a firm receives from selling its output (TR = Price x Quantity)."
+            },
+            {
+              "keyword": "Average Revenue (AR)",
+              "definition": "The revenue a firm earns per unit of output sold (AR = TR/Q = Price)."
+            },
+            {
+              "keyword": "Marginal Revenue (MR)",
+              "definition": "The additional revenue a firm earns from selling one more unit of output (MR = ΔTR/ΔQ)."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Pure Monopoly Market",
+          "summary": "This section defines a pure monopoly as a market with a single seller, a product with no close substitutes, and high barriers to entry. The monopolist is a price maker and can influence price by controlling supply. The sources of monopoly power are explained, including control over key resources, economies of scale, patents, and government licenses. The demand curve for a monopolist is the market demand curve and is downward-sloping. This means to sell more, the firm must lower the price. Consequently, Marginal Revenue (MR) is less than the Average Revenue (AR) or Price. The TR curve is an inverted U-shape, while AR and MR are downward-sloping, with MR falling faster than AR.",
+          "notes": "A pure monopoly exists when a single firm is the sole producer of a product with no close substitutes. Barriers to entry, such as economies of scale, patents, or control of resources, protect the monopolist. The monopolist is a price maker and faces a downward-sloping market demand curve. To sell additional output, the monopolist must lower its price on all units, so MR < Price (AR). Total Revenue (TR) increases, reaches a maximum, and then decreases. The Average Revenue (AR) curve is the demand curve, which is downward-sloping. The Marginal Revenue (MR) curve is also downward-sloping and lies below the AR curve.",
+          "keywords": [
+            {
+              "keyword": "Monopoly",
+              "definition": "A market structure characterized by a single seller of a product with no close substitutes and significant barriers to entry."
+            },
+            {
+              "keyword": "Price Maker",
+              "definition": "A firm that has the market power to set the price of its product."
+            },
+            {
+              "keyword": "Barriers to Entry",
+              "definition": "Factors that prevent or make it very difficult for new firms to enter a market, such as patents, high start-up costs, or exclusive control of a resource."
+            },
+            {
+              "keyword": "Price Discrimination",
+              "definition": "The practice of a monopolist charging different prices to different consumers for the same product."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Monopolistically Competitive Market",
+          "summary": "This section describes monopolistic competition as a market structure with many sellers, differentiated products, and free entry and exit. Due to product differentiation, firms have some control over price and face a downward-sloping demand curve, giving them a degree of monopoly power. However, because there are many close substitutes, the demand curve is more elastic (flatter) than a pure monopoly's. The section also notes the importance of non-price competition, such as advertising and branding. The AR (demand) and MR curves are both downward-sloping, but the AR curve is flatter than that of a monopoly.",
+          "notes": "Monopolistic competition is characterized by: many firms, differentiated products (through branding, quality, etc.), and free entry and exit. Because products are differentiated, each firm faces a downward-sloping demand curve. However, due to the presence of many close substitutes, the demand curve is highly elastic (flatter than a monopoly's). Firms are price makers but their power is limited. Non-price competition (e.g., advertising) is a key strategy for firms in this market. The AR (demand) curve slopes downward, and the MR curve lies below it.",
+          "keywords": [
+            {
+              "keyword": "Monopolistic Competition",
+              "definition": "A market structure with many firms selling differentiated products, with free entry and exit."
+            },
+            {
+              "keyword": "Product Differentiation",
+              "definition": "A strategy where firms make their products slightly different from their competitors' in terms of quality, brand, or features."
+            },
+            {
+              "keyword": "Non-Price Competition",
+              "definition": "Competition between firms through methods other than price, such as advertising, product quality, and customer service."
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Oligopoly Market",
+          "summary": "This section defines an oligopoly as a market dominated by a few large firms that produce either identical or differentiated products. A key characteristic is interdependence, where the actions of one firm directly affect the others. Barriers to entry are significant, making it difficult for new firms to enter. The demand curve for an oligopolist is downward-sloping and complex, often shifting due to the reaction of rival firms. The revenue curves (AR and MR) are also downward-sloping, but the relationship is complicated by the strategic interaction between firms.",
+          "notes": "An oligopoly is a market structure with a few dominant firms. Firms are mutually interdependent, meaning each firm's decisions (on price, output, etc.) affect and are affected by the decisions of its rivals. There are significant barriers to entry. Products can be homogeneous or differentiated. The demand curve for an oligopolist is downward-sloping and is influenced by the reactions of competitors.",
+          "keywords": [
+            {
+              "keyword": "Oligopoly",
+              "definition": "A market structure with a small number of large firms that are mutually interdependent and face significant barriers to entry."
+            },
+            {
+              "keyword": "Interdependence",
+              "definition": "A situation in an oligopoly where the decisions of one firm significantly affect the outcomes of other firms in the market."
+            },
+            {
+              "keyword": "Duopoly",
+              "definition": "A specific type of oligopoly where there are only two firms in the market."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Banking and Finance",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Introduction to Financial Intermediaries",
+          "summary": "This section introduces the concept of financial intermediaries as entities that act as middlemen in financial transactions, facilitating the transfer of funds from savers (surplus units) to borrowers (deficit units). This process is called financial intermediation. The primary benefits for depositors are safety (risk-free storage) and interest earning. For borrowers, the benefit is access to capital for investment, which is crucial for economic activity. The section emphasizes that finance is the lifeblood of the economy, similar to blood circulating in a body.",
+          "notes": "A Financial Intermediary is an entity that acts as a link between savers and borrowers. Examples are banks and microfinance institutions. They collect savings from those with excess funds and provide loans to those who need capital. This process is Financial Intermediation. Benefits include safety and interest for depositors, and access to funds for borrowers. The flow of finance is essential for economic health.",
+          "keywords": [
+            {
+              "keyword": "Financial Intermediary",
+              "definition": "An institution that acts as a middleman between savers and borrowers."
+            },
+            {
+              "keyword": "Financial Intermediation",
+              "definition": "The process of channeling funds from surplus spending units (savers) to deficit spending units (borrowers)."
+            },
+            {
+              "keyword": "Saving",
+              "definition": "The act of setting aside a portion of current income for future use, often placed in financial institutions."
+            },
+            {
+              "keyword": "Borrowing",
+              "definition": "The act of obtaining funds from a financial intermediary with a promise to repay, usually with interest."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Introduction to Financial Markets",
+          "summary": "This section defines financial markets as mechanisms that channel savings into investment. They offer a variety of assets to savers and allow investors to raise funds. The financial market has two major components: the money market (for short-term instruments with maturities of one year or less) and the capital market (for long-term instruments). The money market includes instruments like Treasury bills, commercial papers, and negotiable certificates of deposit.",
+          "notes": "Financial Markets are the arenas where savers and investors meet to exchange funds. They provide a variety of financial instruments. The market is divided into: Money Market (for short-term, highly liquid instruments with maturities up to one year) and Capital Market (for long-term instruments). Money market instruments include Treasury bills, commercial papers, and repurchase agreements.",
+          "keywords": [
+            {
+              "keyword": "Financial Markets",
+              "definition": "Markets that facilitate the flow of funds from savers to investors."
+            },
+            {
+              "keyword": "Money Market",
+              "definition": "The segment of the financial market where short-term financial instruments (with maturities of one year or less) are traded."
+            },
+            {
+              "keyword": "Capital Market",
+              "definition": "The segment of the financial market where long-term financial instruments (stocks and bonds) are traded."
+            },
+            {
+              "keyword": "Treasury Bills",
+              "definition": "Short-term debt instruments issued by governments to finance their operations."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Introduction to Financial Institutions",
+          "summary": "This section defines institutions as the rules of the game in society, which can be formal (constitutions, laws) or informal (social norms). Financial institutions are defined as organizations that serve as financial intermediaries. They are categorized into three major types: deposit-taking institutions (banks, credit unions), contractual institutions (insurance companies, pension funds), and investment institutions (investment banks, brokerage firms). The roles of banks in the economy, such as mobilizing savings and improving capital allocation, are highlighted.",
+          "notes": "Institutions are the formal and informal rules that govern society. Financial Institutions are organizations that facilitate the flow of funds between savers and borrowers. They are broadly categorized into: Depositary Institutions (banks), Contractual Institutions (insurance companies), and Investment Institutes (brokerage firms). Banks play a crucial role in mobilizing savings, allocating capital, and improving corporate governance.",
+          "keywords": [
+            {
+              "keyword": "Institutions",
+              "definition": "The formal and informal rules, norms, and customs that shape social, political, and economic relations."
+            },
+            {
+              "keyword": "Formal Institutions",
+              "definition": "Rules and regulations that are officially established and enforced, such as constitutions and laws."
+            },
+            {
+              "keyword": "Informal Institutions",
+              "definition": "Unwritten social norms, customs, and traditions that guide behavior."
+            },
+            {
+              "keyword": "Financial Institutions",
+              "definition": "Organizations that provide financial services, acting as intermediaries in financial markets."
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Historical Development of Banks in Ethiopia",
+          "summary": "This section provides a historical overview of banking in Ethiopia. Modern banking began in 1905 with the Bank of Abyssinia. It was replaced in 1931 by the state-owned Bank of Ethiopia, which was the first independent bank. The Italian occupation (1936-1941) saw the introduction of Italian banks. The State Bank of Ethiopia was established in 1943 as both a central and commercial bank. In 1963, it was split into the National Bank of Ethiopia (central bank) and the Commercial Bank of Ethiopia (CBE). After the 1974 revolution, private banks were nationalized and merged, leading to the formation of Addis Bank and its subsequent merger with CBE. Following the shift to a market economy in 1991, the banking sector was liberalized, allowing for private banks.",
+          "notes": "The history of modern banking in Ethiopia: 1905: Bank of Abyssinia (foreign-owned). 1931: Replaced by Bank of Ethiopia (first state-owned bank). 1936-41: Italian banks operated. 1943: State Bank of Ethiopia established (central and commercial bank). 1963: Split into National Bank of Ethiopia and Commercial Bank of Ethiopia. Post-1974: Socialist policies led to the nationalization and merging of banks. 1994: Banking sector liberalized, allowing private banks. The NBE's roles include issuing currency, controlling inflation, and regulating the financial sector. CBE is the leading state-owned commercial bank. DBE provides development financing.",
+          "keywords": [
+            {
+              "keyword": "National Bank of Ethiopia (NBE)",
+              "definition": "The central bank of Ethiopia, responsible for monetary policy, issuing currency, and regulating the financial system."
+            },
+            {
+              "keyword": "Commercial Bank of Ethiopia (CBE)",
+              "definition": "The largest state-owned commercial bank in Ethiopia, providing a wide range of banking services."
+            },
+            {
+              "keyword": "Development Bank of Ethiopia (DBE)",
+              "definition": "A state-owned financial institution that provides long-term development loans for projects in agriculture and industry."
+            },
+            {
+              "keyword": "Socialist Economy System",
+              "definition": "A system where the state owns and controls major industries, as practiced in Ethiopia from 1974 to 1991."
+            },
+            {
+              "keyword": "Financial Liberalization",
+              "definition": "The process of reducing state control and regulations in the financial sector, allowing for more private participation."
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Micro-finance Institutions",
+          "summary": "This section defines microfinance institutions as formal financial organizations that provide services (savings, credit, insurance) to poor individuals who lack access to traditional banks. Microcredit is a small loan given without collateral, often through group lending, where peer pressure ensures repayment. The clients are the 'economically active poor' who have entrepreneurial skills. The section compares MFIs to informal money lenders, noting that MFIs offer better terms and protection. The existence and growth of MFIs in Ethiopia, as reported by the NBE, are also mentioned.",
+          "notes": "Microfinance Institutions (MFIs) provide financial services to the poor and unbanked. Microcredit is a small, collateral-free loan. Group Lending uses peer pressure to ensure repayment. Clients are economically active poor individuals. MFIs offer a more formal and safe alternative to informal money lenders. Ethiopia has a growing number of MFIs.",
+          "keywords": [
+            {
+              "keyword": "Microfinance",
+              "definition": "Financial services (credit, savings, insurance) provided to low-income individuals who are excluded from traditional banking."
+            },
+            {
+              "keyword": "Microcredit",
+              "definition": "A small loan provided to an entrepreneur without collateral."
+            },
+            {
+              "keyword": "Group Lending",
+              "definition": "A mechanism where loans are made to a group, and members act as collateral for each other."
+            },
+            {
+              "keyword": "Loan Default",
+              "definition": "Failure to repay a loan according to the terms agreed upon."
+            },
+            {
+              "keyword": "Collateral",
+              "definition": "An asset that a borrower pledges to a lender as security for a loan."
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Electronic Banking (e-banking)",
+          "summary": "This section explains electronic banking, which is the transfer of funds through electronic means. Key aspects of e-banking include Automated Teller Machines (ATMs) for cash withdrawals, Direct Deposit for automatic payroll deposits, Debit Card Purchases for immediate fund transfers, and Mobile Banking for transactions on a mobile device. The advantages include convenience and accessibility, while security concerns and limited capabilities are noted as disadvantages.",
+          "notes": "Electronic Banking (EFT) refers to electronic methods of transferring funds. Key aspects: ATMs (cash withdrawals), Direct Deposit (automated transfers like salaries), Debit Cards (payments directly from a linked account), and Mobile Banking (transactions via mobile phones). Benefits include 24/7 access and speed.",
+          "keywords": [
+            {
+              "keyword": "E-banking",
+              "definition": "Electronic fund transfer, allowing customers to perform financial transactions online or via other electronic means."
+            },
+            {
+              "keyword": "Automated Teller Machine (ATM)",
+              "definition": "An electronic banking outlet that allows customers to perform basic banking transactions without a human teller."
+            },
+            {
+              "keyword": "Mobile Banking",
+              "definition": "The act of making financial transactions using a mobile device or smartphone."
+            },
+            {
+              "keyword": "Debit Card",
+              "definition": "A card that allows the holder to make purchases by transferring money directly from their checking account."
+            }
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Indigenous Financial Institutions",
+          "summary": "This section discusses traditional Ethiopian financial institutions. The first is 'Iqqub', a rotating savings club where members contribute money regularly and one member takes the total each cycle. The second is 'Iddir', a social and financial institution that primarily assists members with funeral and other emergency expenses. The third is Savings and Credit Cooperatives (SACCs), which are semi-formal institutions for saving and lending. These institutions are important for their flexibility, low costs, and role in strengthening community ties.",
+          "notes": "Ethiopia has indigenous financial systems. 'Iqqub' is a rotating savings and credit association where members contribute funds that are distributed to one member each cycle. 'Iddir' is a social and financial institution that provides support, mainly for funerals. SACCs are semi-formal cooperatives for savings and credit. These institutions are valued for their flexibility, low costs, and community solidarity.",
+          "keywords": [
+            {
+              "keyword": "Indigenous Financial Institutions",
+              "definition": "Traditional, informal financial systems that exist within a community, like 'Iqqub' and 'Iddir'."
+            },
+            {
+              "keyword": "Iqqub",
+              "definition": "An Ethiopian rotating savings and credit association where members contribute money and one member receives the lump sum at each meeting."
+            },
+            {
+              "keyword": "Iddir",
+              "definition": "An Ethiopian indigenous social and financial institution that provides financial support to members during funerals and other emergencies."
+            },
+            {
+              "keyword": "Savings and Credit Cooperatives (SACCs)",
+              "definition": "Semi-formal financial cooperatives that provide savings and loan services to their members."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Economic Growth",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Review of Macroeconomic Variables",
+          "summary": "This section distinguishes between microeconomics (individual decisions) and macroeconomics (nation-wide decisions). The four main macroeconomic variables are identified: Current Account Balance (difference between exports and imports), Inflation (increase in the general price level), Economic Growth (increase in output), and Unemployment (willing workers without jobs). The government's goals are to achieve a trade surplus (or reduce deficit), control inflation, increase economic growth, and reduce unemployment. Desirable outcomes (trade surplus) and non-desirable outcomes (trade deficit, high inflation) are discussed.",
+          "notes": "Macroeconomics studies aggregate economic variables. Key variables include: Current Account Balance (Exports - Imports). A trade surplus (X > M) is desirable, a trade deficit (X < M) is not. Inflation is a rise in the general price level. Low inflation is desirable. Economic Growth is an increase in GDP. Unemployment is the number of people willing to work but not employed. Government goals are to reduce unemployment, increase growth, control inflation, and improve the trade balance.",
+          "keywords": [
+            {
+              "keyword": "Current Account Balance",
+              "definition": "The difference between a country's total exports and total imports."
+            },
+            {
+              "keyword": "Trade Surplus",
+              "definition": "A situation where a country's exports exceed its imports."
+            },
+            {
+              "keyword": "Trade Deficit",
+              "definition": "A situation where a country's imports exceed its exports."
+            },
+            {
+              "keyword": "Inflation",
+              "definition": "A sustained increase in the general price level of goods and services in an economy over time."
+            },
+            {
+              "keyword": "Cost-Push Inflation",
+              "definition": "Inflation caused by an increase in the costs of production."
+            },
+            {
+              "keyword": "Demand-Pull Inflation",
+              "definition": "Inflation caused by an increase in aggregate demand."
+            },
+            {
+              "keyword": "Economic Growth",
+              "definition": "An increase in the production of goods and services in an economy over a period of time."
+            },
+            {
+              "keyword": "Unemployment",
+              "definition": "The state of being willing and able to work but not having a job."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Definition and Measurement of Economic Growth",
+          "summary": "This section defines economic growth in the short run as an increase in Real GDP (RGDP). The formula for calculating the RGDP growth rate is provided: [(RGDPt - RGDPt-1) / RGDPt-1] * 100%. In the long run, economic growth involves a sustained increase in per capita income and structural change (e.g., shift from agriculture to industry). GDP per capita is measured as RGDP / Population. The section clarifies that economic growth is different from economic development, which is a broader concept encompassing social and political transformation.",
+          "notes": "Short-run economic growth is an increase in Real GDP (RGDP). The growth rate is calculated as: [(RGDPt - RGDPt-1) / RGDPt-1] x 100. Long-run growth refers to a sustained increase in per capita GDP and structural changes (e.g., industrialization). Per Capita GDP = RGDP / Population. Economic Development is a broader term than Economic Growth. Growth refers to quantitative expansion (GDP), while development refers to qualitative improvements in social and economic well-being.",
+          "keywords": [
+            {
+              "keyword": "Gross Domestic Product (GDP)",
+              "definition": "The total market value of all final goods and services produced within a country in a given period."
+            },
+            {
+              "keyword": "Real GDP (RGDP)",
+              "definition": "GDP measured using constant prices, which removes the effects of inflation."
+            },
+            {
+              "keyword": "GDP Per Capita",
+              "definition": "GDP divided by a country's total population, used as a measure of average income."
+            },
+            {
+              "keyword": "Structural Change",
+              "definition": "A long-term shift in the sectoral composition of an economy, such as from agriculture to manufacturing."
+            },
+            {
+              "keyword": "Economic Development",
+              "definition": "A broader concept than economic growth, encompassing improvements in social, political, and institutional well-being, as well as economic progress."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Sources of Economic Growth",
+          "summary": "This section explains that differences in living standards are primarily due to differences in productivity. Productivity is determined by four main factors: Physical Capital per worker (tools and machinery), Human Capital per worker (knowledge and skills), Natural Resources per worker, and Technological Knowledge (understanding of best production methods). The section also outlines Simon Kuznets' characteristics of modern economic growth: high rates of per capita income growth, high productivity growth, structural transformation, high savings and investment, and application of modern scientific knowledge. Finally, it describes the World Bank's classification of countries by income: Low Income (LIC), Lower Middle Income (LMC), Upper Middle Income (UMC), and High Income.",
+          "notes": "Productivity is the key to a high standard of living. It is determined by: Physical Capital (tools), Human Capital (education and skills), Natural Resources (raw materials), and Technological Knowledge (better methods). Modern growth is characterized by rising per capita income, rising productivity, structural change (from agriculture to industry), rising savings and investment, and application of science. The World Bank classifies countries by GNI per capita into Low-income (LIC), Lower-middle-income (LMC), Upper-middle-income (UMC), and High-income categories.",
+          "keywords": [
+            {
+              "keyword": "Productivity",
+              "definition": "The quantity of goods and services produced from each unit of labor input."
+            },
+            {
+              "keyword": "Physical Capital",
+              "definition": "The stock of equipment, machinery, and structures used to produce goods and services."
+            },
+            {
+              "keyword": "Human Capital",
+              "definition": "The knowledge and skills that workers acquire through education, training, and experience."
+            },
+            {
+              "keyword": "Natural Resources",
+              "definition": "Inputs into production that are provided by nature, such as land, water, and minerals."
+            },
+            {
+              "keyword": "Technological Knowledge",
+              "definition": "An understanding of the best ways to produce goods and services."
+            },
+            {
+              "keyword": "Low-Income Countries (LICs)",
+              "definition": "Nations with low levels of GNI per capita, as classified by the World Bank."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "The Weaknesses of Using GDP / GDP Per Capita",
+          "summary": "This section discusses the limitations of GDP as a measure of well-being. GDP excludes the value of leisure, non-market activities (like home production and volunteer work), the quality of the environment, income inequality, and black market (underground economy) transactions. As a result, GDP per capita may not accurately reflect the true standard of living or the distribution of income.",
+          "notes": "GDP is an imperfect measure of well-being. Its limitations include: Omitting the value of Leisure. Excluding Non-market activities (e.g., household chores, volunteer work). Ignoring the Quality of the Environment and pollution. Providing no information on Income Distribution (inequality). Not accounting for the Underground Economy (black market).",
+          "keywords": [
+            {
+              "keyword": "Underground Economy",
+              "definition": "Economic activity that is not reported to the government and is not included in GDP."
+            },
+            {
+              "keyword": "Income Distribution",
+              "definition": "The way a country's total income is divided among its population."
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "The Business Cycle and Its Phases",
+          "summary": "This section defines the business cycle as the irregular fluctuations in economic activity measured by production or employment. The business cycle has four distinct phases: Prosperity (or Boom or Peak), Recession, Depression (or Slump or Trough), and Recovery (or Expansion). Prosperity is characterized by high levels of demand, income, and employment. Recession is a slowdown with falling demand and employment. Depression is a severe downturn where economic activity is at its lowest. Recovery is the period when the economy moves out of depression and starts growing again.",
+          "notes": "The Business Cycle is the periodic, but irregular, fluctuations in economic activity. The phases are: 1. Prosperity (Boom/Peak): high demand, employment, and output. 2. Recession: economic slowdown, falling demand and employment. 3. Depression (Trough): lowest point of economic activity. 4. Recovery (Expansion): economy rebounds and grows.",
+          "keywords": [
+            {
+              "keyword": "Business Cycle",
+              "definition": "The irregular, but recurring, fluctuations in economic activity, such as output and employment."
+            },
+            {
+              "keyword": "Boom",
+              "definition": "A phase of the business cycle characterized by high levels of economic activity, demand, and employment."
+            },
+            {
+              "keyword": "Recession",
+              "definition": "A phase of the business cycle characterized by a decline in economic activity, output, and employment."
+            },
+            {
+              "keyword": "Depression",
+              "definition": "A severe and prolonged recession, characterized by very low levels of economic activity."
+            },
+            {
+              "keyword": "Recovery",
+              "definition": "A phase of the business cycle where the economy moves from a trough towards a boom, marked by increasing output and employment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "An Overview of the Ethiopian Economy",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Components of Gross Domestic Product (GDP)",
+          "summary": "This section explains the expenditure approach to calculating GDP, dividing it into four main components: Consumption (C) - spending by households on goods and services; Investment (I) - spending on capital goods for future production; Government Purchases (G) - spending by the government on goods and services; and Net Exports (NX) - exports minus imports (NX = X - M). The GDP identity is thus Y = C + I + G + NX.",
+          "notes": "GDP (Y) is the sum of all spending on final goods and services. Its components are: Consumption (C): spending by households, except on new housing. Investment (I): spending on capital goods, including new housing and inventory. Government Purchases (G): spending on goods and services by the government. Net Exports (NX): Exports (X) minus Imports (M). The equation is: Y = C + I + G + (X - M).",
+          "keywords": [
+            {
+              "keyword": "Consumption (C)",
+              "definition": "Spending by households on goods and services, not including new housing."
+            },
+            {
+              "keyword": "Investment (I)",
+              "definition": "Spending on capital goods (machinery, equipment, structures, inventory) used in future production."
+            },
+            {
+              "keyword": "Government Purchases (G)",
+              "definition": "Spending on goods and services by all levels of government."
+            },
+            {
+              "keyword": "Net Exports (NX)",
+              "definition": "The value of a country's exports minus the value of its imports."
+            },
+            {
+              "keyword": "Exports (X)",
+              "definition": "Goods and services produced domestically and sold to foreign buyers."
+            },
+            {
+              "keyword": "Imports (M)",
+              "definition": "Goods and services purchased from foreign producers."
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Real GDP Vs Nominal GDP",
+          "summary": "This section differentiates between Nominal GDP (valued at current-year prices) and Real GDP (valued at constant base-year prices). Real GDP is a better measure of economic growth because it isolates changes in the quantity of output, not price changes. The GDP deflator is introduced as a measure of the price level, calculated as (Nominal GDP / Real GDP) * 100. The inflation rate can be calculated as the percentage change in the GDP deflator.",
+          "notes": "Nominal GDP uses current prices to value goods and services. Real GDP uses constant (base-year) prices to value goods and services, thus measuring changes in output. The GDP Deflator = (Nominal GDP / Real GDP) * 100, and measures the average price level. The Inflation rate from GDP deflator = [(GDP Deflator in Year 2 - GDP Deflator in Year 1) / GDP Deflator in Year 1] * 100.",
+          "keywords": [
+            {
+              "keyword": "Nominal GDP",
+              "definition": "GDP measured in current prices, without adjusting for inflation."
+            },
+            {
+              "keyword": "Real GDP",
+              "definition": "GDP measured in constant (base-year) prices, adjusted for inflation."
+            },
+            {
+              "keyword": "GDP Deflator",
+              "definition": "A measure of the overall price level, calculated as (Nominal GDP / Real GDP) x 100."
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "The Agricultural Sector in the Ethiopian Economy",
+          "summary": "This section describes the agricultural sector as the backbone of the Ethiopian economy, contributing significantly to GDP, exports, and employment. The structure of agriculture comprises the smallholder farming system (dominant), pastoral/nomadic system, and commercial farming system. The sector's roles include providing food and raw materials, contributing to GDP and employment, and serving as a source of capital. The section also lists major problems like drought and poor marketing facilities.",
+          "notes": "Agriculture is the mainstay of the Ethiopian economy, contributing ~33-45% of GDP, ~80% of exports, and employing ~85% of the population. The farming systems are: Smallholder (mixed farming, over 90% of production), Pastoral (livestock-based, common in lowlands), and Commercial (large-scale). Agriculture provides food, raw materials, employment, and capital. Major problems include drought, soil degradation, and poor infrastructure.",
+          "keywords": [
+            {
+              "keyword": "Agricultural Sector",
+              "definition": "The part of the economy involved in farming, including crop cultivation and livestock rearing."
+            },
+            {
+              "keyword": "Smallholder Farmer",
+              "definition": "A farmer who cultivates a small plot of land, usually less than 2 hectares, and relies primarily on family labor."
+            },
+            {
+              "keyword": "Backward Linkages",
+              "definition": "The demand for inputs (e.g., fertilizers, seeds) created by the agricultural sector for other industries."
+            },
+            {
+              "keyword": "Forward Linkages",
+              "definition": "The supply of agricultural outputs (e.g., raw materials) to other sectors like industry."
+            },
+            {
+              "keyword": "Pastoral System",
+              "definition": "A farming system where people raise livestock and move seasonally in search of pasture and water."
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "The Industrial Sector in the Ethiopian Economy",
+          "summary": "This section describes the industrial sector, which is smaller than agriculture but growing. It is dominated by manufacturing and construction. The sector contributes modestly to GDP (~13%) and employment (~9.5%). Key sub-sectors include food and beverages, textiles, and non-metallic products. The roles of the industrial sector are analyzed in terms of output, employment, and foreign exchange earnings. The section also outlines major problems and the potential benefits from initiatives like AGOA.",
+          "notes": "The industrial sector is relatively small but has been growing. It is dominated by manufacturing (food and beverages, textiles) and construction. The sector contributes around 13% to GDP. Its roles include: providing manufactured goods, creating employment, and generating foreign exchange (e.g., through textile exports). Major challenges include a low industrial base, shortages of capital and technology, and low productivity. Opportunities exist through preferential trade agreements like AGOA.",
+          "keywords": [
+            {
+              "keyword": "Industrial Sector",
+              "definition": "The part of the economy involved in the production of goods, including manufacturing, mining, and construction."
+            },
+            {
+              "keyword": "Manufacturing",
+              "definition": "The process of transforming raw materials into finished goods, typically on a large scale."
+            },
+            {
+              "keyword": "Africa Growth and Opportunity Act (AGOA)",
+              "definition": "A U.S. trade preference program that allows qualifying African countries to export certain products to the U.S. duty-free."
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "The Service Sector in the Ethiopian Economy",
+          "summary": "This section defines the service sector as the part of the economy producing intangible goods and services. It includes sub-sectors like trade, hotels, transport, banking, and government services. The sector's share in GDP has grown significantly and now rivals agriculture. It contributes through output (GDP), employment, and foreign exchange earnings (especially from services like Ethiopian Airlines).",
+          "notes": "The service sector includes intangible services like trade, hospitality, transport, communication, finance, education, and health. It has grown rapidly and its GDP share (~45%) rivals the agricultural sector. It contributes to output, employment creation, and foreign exchange earnings (through tourism and transport).",
+          "keywords": [
+            {
+              "keyword": "Service Sector",
+              "definition": "The part of the economy that produces services (intangible goods) rather than physical products."
+            },
+            {
+              "keyword": "Tourism",
+              "definition": "The activity of traveling for leisure or business, which is a part of the service sector."
+            },
+            {
+              "keyword": "Cultural Heritage",
+              "definition": "The legacy of physical artifacts and intangible attributes of a society, often a draw for tourism."
+            }
+          ]
+        },
+        {
+          "section_number": "7.6",
+          "section_title": "Agriculture versus Industrial Development",
+          "summary": "This section discusses the debate on whether to prioritize agriculture or industry for development. Traditionally, industrialization was seen as the primary driver of growth. However, for Ethiopia, the strategy adopted is Agricultural Development-Led Industrialization (ADLI), which views agriculture as a leading and dynamic sector. The argument is that without agricultural development, industrial growth will be weak.",
+          "notes": "There is a debate on whether to prioritize Industry or Agriculture. Historically, industry was favored in Western countries. However, Ethiopia has adopted the ADLI (Agricultural Development-Led Industrialization) strategy. This approach views agriculture as the leading sector, arguing that a strong agricultural base is necessary to supply raw materials and food, thereby fueling industrial growth.",
+          "keywords": [
+            {
+              "keyword": "Agricultural Development-Led Industrialization (ADLI)",
+              "definition": "A development strategy that prioritizes the growth and modernization of the agricultural sector as a foundation for later industrial development."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "Business Startups and Innovation",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "Innovation",
+          "summary": "This section defines innovation as the introduction of a new or significantly improved product, process, or method that creates value. It combines creativity with implementation. The four main types of innovation are: Product Innovation (new or improved goods), Process Innovation (new production methods), Marketing Innovation (new marketing strategies), and Organizational Innovation (new business practices). Eco-innovation is introduced as a special type that contributes to environmental sustainability. The concept of 'creative destruction,' where innovation makes old models obsolete, is also discussed.",
+          "notes": "Innovation is the implementation of new ideas that create value. The four types are: Product (new goods), Process (new production methods), Marketing (new strategies), and Organizational (new business practices). Eco-innovation focuses on environmental sustainability. A key concept is 'Creative Destruction' (Schumpeter): innovation disrupts existing markets, causing old products and firms to become obsolete, but this process drives long-term growth.",
+          "keywords": [
+            {
+              "keyword": "Innovation",
+              "definition": "A new or improved product, process, or method that is significantly different from previous versions and creates value."
+            },
+            {
+              "keyword": "Product Innovation",
+              "definition": "The introduction of a new or significantly improved good or service."
+            },
+            {
+              "keyword": "Process Innovation",
+              "definition": "The implementation of a new or significantly improved production or delivery method."
+            },
+            {
+              "keyword": "Marketing Innovation",
+              "definition": "The development of new marketing strategies involving significant changes in product design, packaging, pricing, or promotion."
+            },
+            {
+              "keyword": "Organizational Innovation",
+              "definition": "The introduction of new organizational strategies, business practices, or ways of organizing the workplace."
+            },
+            {
+              "keyword": "Eco-Innovation",
+              "definition": "Innovation that results in significant progress toward sustainability goals by reducing environmental impacts."
+            },
+            {
+              "keyword": "Creative Destruction",
+              "definition": "The process by which innovation destroys old business models and technologies, while creating new ones."
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Business Startups",
+          "summary": "This section defines a business startup as a company in its initial stages of operation, designed for rapid growth. It differentiates startups from small businesses: startups are focused on high growth and scaling, often requiring significant external funding (venture capital), while small businesses aim for stable, local, or niche markets. The primary goal of a startup is to create a viable product or service that can be scaled, often at the cost of initial profitability.",
+          "notes": "A Business Startup is a company in its early stages, focused on achieving rapid growth. Key Differences from a Small Business: Startups aim for high-growth and scalability, while small businesses aim for steady, sustainable operations. Startups often require significant funding (from angel investors or venture capital) and are not profitable initially. The goal is to gain a large market share.",
+          "keywords": [
+            {
+              "keyword": "Business Startup",
+              "definition": "A company in its early stages of development that is designed to grow rapidly."
+            },
+            {
+              "keyword": "Small Business",
+              "definition": "A business with a smaller number of employees, often operating in a local market and focused on stable growth rather than rapid scaling."
+            },
+            {
+              "keyword": "Angel Investor",
+              "definition": "A wealthy individual who provides capital to a startup in exchange for ownership equity."
+            },
+            {
+              "keyword": "Venture Capital",
+              "definition": "Money invested in a startup or small business with a high growth potential, typically in exchange for equity."
+            }
+          ]
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "Types of Businesses Organizations",
+          "summary": "This section describes three main forms of business organization: Sole Proprietorship, Partnership, and Corporation. A Sole Proprietorship is owned by one individual, with unlimited liability, and is easy to start. A Partnership is owned by two or more people who share profits and losses. It can have unlimited liability for partners (general partnership). A Corporation is a separate legal entity owned by shareholders with limited liability. The advantages and disadvantages of each form are discussed.",
+          "notes": "There are three main types: 1. Sole Proprietorship: owned by one person, easy to start, but has unlimited liability. 2. Partnership: owned by two or more persons (partners). General partners have unlimited liability. 3. Corporation: a separate legal entity owned by shareholders. Its main advantage is limited liability for its owners.",
+          "keywords": [
+            {
+              "keyword": "Sole Proprietorship",
+              "definition": "A business owned and operated by a single individual, who is personally liable for all business debts."
+            },
+            {
+              "keyword": "Partnership",
+              "definition": "A business owned by two or more people who agree to share the profits and losses of the business."
+            },
+            {
+              "keyword": "Corporation",
+              "definition": "A legal entity that is separate from its owners, who have limited liability."
+            },
+            {
+              "keyword": "Unlimited Liability",
+              "definition": "A situation where a business owner is personally responsible for all business debts, which may require them to use personal assets to cover them."
+            },
+            {
+              "keyword": "Limited Liability",
+              "definition": "A situation where a shareholder's financial liability is limited to the amount they invested in the company, protecting their personal assets."
+            }
+          ]
+        },
+        {
+          "section_number": "8.4",
+          "section_title": "Business Feasibility Analysis",
+          "summary": "This section explains the importance of a feasibility study as an analysis to determine if a business idea is viable before committing to a full business plan. A feasibility study answers if the concept will work and if it is profitable. In contrast, a business plan is a detailed road map for starting and managing the business, containing timelines and specific financial projections. The section outlines the process of developing a feasibility study, including defining the business idea, key personnel, market analysis, and a cost-benefit analysis (CBA). CBA is defined as a process of weighing the total expected costs against the total expected benefits to decide if a course of action is financially sound.",
+          "notes": "A Feasibility Study (Proof of Concept) is a preliminary assessment to see if a business idea is viable. It is cheaper and faster than a full business plan. It helps decide if a business is worth pursuing. A Business Plan is a comprehensive document detailing how a business will start, operate, and grow. It includes financial projections, market analysis, and operational details. Cost-Benefit Analysis is a technique used to evaluate a decision by adding up the value of benefits and subtracting the associated costs (B/C ratio).",
+          "keywords": [
+            {
+              "keyword": "Feasibility Study",
+              "definition": "An analysis that tests the viability of a business idea or project before significant resources are committed."
+            },
+            {
+              "keyword": "Business Plan",
+              "definition": "A formal document outlining a business's goals, strategies, market analysis, and financial projections."
+            },
+            {
+              "keyword": "SWOT Analysis",
+              "definition": "An analysis of a business or project that identifies its Strengths, Weaknesses, Opportunities, and Threats."
+            },
+            {
+              "keyword": "Cost-Benefit Analysis (CBA)",
+              "definition": "A process of comparing the total expected costs of an action with the total expected benefits to determine if it is worthwhile."
+            },
+            {
+              "keyword": "Benefit-Cost Ratio (B/C Ratio)",
+              "definition": "A ratio calculated by dividing the total monetary value of benefits by the total monetary value of costs."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "subject": "Economics",
+  "grade": 11,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "THEORY OF CONSUMER BEHAVIOR AND DEMAND",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Review of the Cardinal Utility Approach",
+          "section_summary": "This section reviews the cardinal utility theory, which assumes that utility, or satisfaction derived from consuming goods and services, can be measured in absolute numerical units called 'utils'. Key concepts include marginal utility (MU), defined as the extra satisfaction from consuming one additional unit of a good, and the law of diminishing marginal utility, which states that as consumption of a good increases, the marginal utility from each additional unit decreases. The consumer's objective is to maximize total utility given a limited money income. This optimum is achieved when the marginal utility per dollar spent is equal across all goods, mathematically expressed as MUx/Px = MUy/Py. This condition, coupled with the consumer spending their entire income, defines the consumer's equilibrium. Finally, the demand curve can be derived from this framework, as it is essentially the positive segment of the marginal utility curve when utility is measured in monetary terms.",
+          "notes": "**Cardinal Utility Theory:** The theory that the satisfaction (utility) a consumer gets from goods and services can be measured in absolute, cardinal numbers (e.g., 1 util, 2 utils).\n- **Utility:** The level of satisfaction or happiness a consumer derives from consuming goods and services.\n- **Marginal Utility (MU):** The additional satisfaction gained from consuming one more unit of a good or service. Formula: MU = ΔTotal Utility / ΔQuantity.\n- **Law of Diminishing Marginal Utility:** As a consumer consumes more and more units of a specific good, the additional satisfaction (marginal utility) from each new unit eventually decreases, holding all else constant.\n- **Consumer Optimum (Equilibrium):** The goal of a consumer is to maximize total satisfaction given their limited income. This is achieved when the ratio of the marginal utility of a good to its price is equal for all goods consumed, i.e., MUx/Px = MUy/Py = MUz/Pz ... This ensures that the last dollar spent on each good yields the same level of additional satisfaction.\n- **Derivation of Demand Curve:** The downward-sloping demand curve can be derived from the law of diminishing marginal utility. If utility is measured in monetary units, the marginal utility curve is identical to the demand curve, as it shows the maximum price a consumer is willing to pay for each additional unit.",
+          "keywords": [
+            {"term": "Utility", "definition": "The level of satisfaction or happiness that a consumer gets from the consumption of goods and services."},
+            {"term": "Cardinal Utility", "definition": "The assumption that utility is measurable in absolute or cardinal numbers, such as 'utils'."},
+            {"term": "Marginal Utility (MU)", "definition": "The additional satisfaction that a consumer gets from consuming one more unit of a good or service."},
+            {"term": "Law of Diminishing Marginal Utility", "definition": "The principle that as consumption of a good increases, the marginal utility derived from each additional unit decreases."},
+            {"term": "Consumer Optimum", "definition": "The point at which a consumer maximizes utility given their income and market prices, where MUx/Px = MUy/Py."}
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "The Ordinal Utility Theory and Preferences",
+          "section_summary": "This section introduces the ordinal utility theory, which argues that utility cannot be measured in absolute numbers but can be ranked or ordered based on consumer preferences. The core concepts are preferences, which describe a consumer's ability to rank different consumption bundles; and indifference curves, which are graphical representations of these preferences. An indifference curve is a line showing all combinations of two goods that provide the same level of satisfaction (utility), making the consumer indifferent between them. An indifference map is a collection of these curves, each representing a different level of utility, with higher curves indicating greater satisfaction. The theory is based on key assumptions including consumer rationality, ordinal measurement of utility, diminishing marginal rate of substitution, complete ordering, transitivity of preferences, limited income, and non-satiation. The section details the properties of standard indifference curves: they are downward sloping, do not intersect, are convex to the origin, and higher curves are preferred. It also introduces the Marginal Rate of Substitution (MRS), which is the rate at which a consumer is willing to trade one good for another while maintaining the same utility level, and demonstrates its calculation and relationship with marginal utility. Finally, it discusses special cases of indifference curves for perfect substitutes (straight line) and perfect complements (L-shaped).",
+          "notes": "**Ordinal Utility Theory:** The theory that utility cannot be measured in absolute units but can be ranked or ordered (e.g., 1st choice, 2nd choice) based on consumer preferences.\n- **Preferences:** The ability of a consumer to state or express choices between different consumption bundles (e.g., preferring Bundle X over Bundle Y).\n- **Indifference Curve (IC):** A curve that shows all the different combinations of two goods that provide a consumer with the same level of total utility or satisfaction. The consumer is indifferent between any point on the curve.\n- **Indifference Map:** A set or collection of indifference curves, each representing a different level of utility. Higher curves represent higher levels of satisfaction.\n\n**Assumptions of Ordinal Utility Theory:**\n- Consumers are rational (aim to maximize utility).\n- Utility is ordinally measurable (can be ranked).\n- Diminishing Marginal Rate of Substitution (MRS).\n- Complete ordering (consumers can compare all bundles).\n- Transitive and consistent preferences.\n- Consumers have a limited money income.\n- Non-satiation (consumers prefer more of a good to less).\n\n**Properties of Standard Indifference Curves:**\n1.  **Downward Sloping:** To maintain the same utility, if consumption of one good increases, consumption of the other must decrease.\n2.  **Do Not Intersect:** If they intersected, it would violate the transitivity principle of rational choice.\n3.  **Higher Curves are Preferred:** Indifference curves further from the origin represent higher levels of utility.\n4.  **Convex to the Origin:** This reflects the diminishing marginal rate of substitution; consumers are willing to give up less and less of one good to get more of the other.\n\n**Marginal Rate of Substitution (MRS):**\n- **Definition:** The rate at which a consumer is willing to substitute one good (Y) for another (X) while keeping the same level of satisfaction (remaining on the same IC).\n- **Formula:** MRSxy = ΔY / ΔX = - MUx / MUy. It is the negative slope of the indifference curve.\n- **Concept:** The MRS diminishes as we move down the indifference curve because the consumer has less of good Y and more of good X, making them less willing to give up Y to get more X.\n\n**Special Types of Indifference Curves:**\n- **Perfect Substitutes:** Goods that can be substituted for each other at a constant rate (e.g., blue pen vs. black pen). The indifference curve is a straight line with a constant MRS. Utility function: U = aX + bY.\n- **Perfect Complements:** Goods that are consumed together in a fixed proportion (e.g., left shoe and right shoe). The indifference curve is L-shaped (right angle). The MRS is zero. Utility function: U = Min(aX, bY).",
+          "keywords": [
+            {"term": "Ordinal Utility", "definition": "A concept where utility is not measured in absolute numbers but is ranked or ordered according to consumer preferences."},
+            {"term": "Preferences", "definition": "The ability of a consumer to state or express choices between different bundles of goods (e.g., preferring X to Y)."},
+            {"term": "Indifference Curve (IC)", "definition": "A graph showing all combinations of two goods that provide a consumer with the same level of satisfaction or utility."},
+            {"term": "Indifference Map", "definition": "A set of indifference curves representing different levels of utility for a consumer."},
+            {"term": "Marginal Rate of Substitution (MRS)", "definition": "The rate at which a consumer is willing to give up one good to gain an additional unit of another good while maintaining the same level of total utility."},
+            {"term": "Perfect Substitutes", "definition": "Goods that can be substituted for each other at a constant rate, resulting in a straight-line indifference curve."},
+            {"term": "Perfect Complements", "definition": "Goods that are consumed together in a fixed proportion, resulting in an L-shaped indifference curve."},
+            {"term": "Transitivity of Preferences", "definition": "A property of preferences stating that if a consumer prefers X to Y, and Y to Z, then they must also prefer X to Z."}
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Budget Line or the Price line",
+          "section_summary": "This section introduces the budget line, a crucial tool that represents the consumer's constraints. While indifference curves show what a consumer wants (preferences), the budget line shows what they can afford based on their income and market prices. The budget line is a graph depicting all possible combinations of two goods that a consumer can purchase with a given income and given prices. It is derived from the budget equation M = PxX + PyY. Key components include the slope, which is the negative ratio of the prices (-Px/Py) and represents the trade-off between the two goods, and the intercepts (M/Py on the Y-axis and M/Px on the X-axis), which represent the maximum amount of one good that can be bought if the entire income is spent on it. The line divides the graph into two areas: the feasible region (on or below the line) and the non-feasible region (above the line). The section then analyzes how changes in income or prices affect the budget line. An increase in income causes a parallel outward shift, while a decrease causes a parallel inward shift. A change in the price of one good causes a rotation of the line: a price decrease rotates the line outward, and a price increase rotates it inward, pivoting around the intercept of the good whose price hasn't changed.",
+          "notes": "**Budget Line:** A line (or graph) that shows the different combinations of two goods a consumer can afford to buy with a given money income and given market prices.\n- **Budget Constraint (Equation):** M = PxX + PyY, where M is money income, Px is the price of good X, Py is the price of good Y, X is the quantity of good X, and Y is the quantity of good Y.\n- **Graphing the Budget Line:** The line is drawn by finding the intercepts. The Y-intercept is M/Py (all income spent on good Y). The X-intercept is M/Px (all income spent on good X).\n- **Feasible and Non-Feasible Areas:** Points on or below the budget line are affordable (feasible). Points above the line are unaffordable with the current income (non-feasible). The consumer is assumed to spend all their income, thus choosing a point *on* the line.\n\n**Slope of the Budget Line:**\n- **Formula:** The slope is -Px/Py. It represents the rate at which the consumer can trade one good for another in the market. It is constant because prices are fixed.\n- **Interpretation:** To buy one more unit of good X, the consumer must give up Px/Py units of good Y.\n\n**Factors Affecting the Budget Line:**\n1.  **Change in Income:**\n    - Income ↑: Budget line shifts outward (parallel shift) to the right.\n    - Income ↓: Budget line shifts inward (parallel shift) to the left.\n    - The slope (-Px/Py) remains unchanged.\n2.  **Change in Price of a Good:**\n    - **Price of X changes (Py and M constant):** The Y-intercept (M/Py) is unchanged. The X-intercept (M/Px) changes. The budget line rotates.\n        - Px ↑ (price increase): X-intercept decreases → budget line rotates inward.\n        - Px ↓ (price decrease): X-intercept increases → budget line rotates outward.\n    - **Price of Y changes (Px and M constant):** The X-intercept (M/Px) is unchanged. The Y-intercept (M/Py) changes. The budget line rotates.\n        - Py ↑: Y-intercept decreases → budget line rotates inward.\n        - Py ↓: Y-intercept increases → budget line rotates outward.",
+          "keywords": [
+            {"term": "Budget Line", "definition": "A graph showing the various combinations of two goods that a consumer can purchase with a given income and given prices."},
+            {"term": "Budget Constraint", "definition": "The limit on consumption choices imposed by a consumer's income and the prices of goods and services."},
+            {"term": "Feasible Area", "definition": "The set of consumption bundles that a consumer can afford, which is on or below the budget line."},
+            {"term": "Non-Feasible Area", "definition": "The set of consumption bundles that a consumer cannot afford with their current income, which is above the budget line."},
+            {"term": "Slope of Budget Line", "definition": "The rate at which one good can be substituted for another in the market, calculated as the negative ratio of the prices of the two goods (-Px/Py)."}
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Optimum of the Consumer",
+          "section_summary": "This section combines the concepts of indifference curves (representing consumer preferences) and the budget line (representing consumer constraints) to find the consumer's optimum or equilibrium. The consumer aims to maximize satisfaction, which means reaching the highest possible indifference curve given their budget constraint. This optimal point occurs where the budget line is tangent to the highest attainable indifference curve. At this tangency point, the slope of the indifference curve (MRSxy) equals the slope of the budget line (Px/Py). This condition, along with the consumer spending all their income, defines the consumer equilibrium (MRSxy = Px/Py). The section then analyzes how this equilibrium point changes when income or prices change. When income changes, the budget line shifts, leading to new equilibrium points. Connecting these points yields the Income Consumption Curve (ICC), which shows how the optimal consumption bundle changes as income changes. When the price of one good changes, the budget line rotates, leading to new equilibrium points. Connecting these points yields the Price Consumption Curve (PCC). Finally, the section explains how the individual demand curve for a good can be derived from the PCC, as the PCC shows the quantity demanded of a good at different price levels.",
+          "notes": "**Consumer Optimum (Equilibrium):** The point where a consumer maximizes their utility given their budget constraint. It represents the best possible combination of goods to purchase.\n- **Condition for Equilibrium:** The consumer is at equilibrium when two conditions are met:\n    1.  The consumer spends all their income (they are on the budget line).\n    2.  The budget line is tangent to the highest attainable indifference curve.\n- **Mathematical Condition:** At the point of tangency, the slope of the indifference curve (MRSxy) is equal to the slope of the budget line (Px/Py). Therefore, MRSxy = Px/Py. Since MRSxy = MUx/MUy, this is also the consumer optimum condition from cardinal utility analysis.\n- **Graphical Interpretation:** The optimum is found where an indifference curve just touches the budget line.\n\n**Effects of Changes in Income and Prices on Consumer Equilibrium:**\n- **Change in Income (Ceteris Paribus):**\n    - An increase in income shifts the budget line outward (parallel). The consumer can reach a higher indifference curve, establishing a new equilibrium.\n    - **Income Consumption Curve (ICC):** A curve connecting all the consumer's equilibrium points (points of tangency between budget lines and indifference curves) that result from changes in the consumer's income, holding prices constant.\n    - **Normal vs. Inferior Goods:** The direction of the ICC shows the relationship between income and consumption. For normal goods, consumption increases with income. For inferior goods, consumption decreases as income increases.\n- **Change in Price (Ceteris Paribus):**\n    - A decrease in the price of a good (e.g., X) rotates the budget line outward along the X-axis. The consumer reaches a new, higher indifference curve and a new equilibrium.\n    - **Price Consumption Curve (PCC):** A curve connecting all the consumer's equilibrium points that result from changes in the price of one good, holding income and the price of the other good constant.\n- **Deriving the Demand Curve:** The individual demand curve for a good can be derived from the Price Consumption Curve (PCC). The PCC shows the quantity of a good (e.g., X) the consumer buys at different price levels. By plotting price on the Y-axis and the corresponding quantity demanded (from the PCC) on the X-axis, we can trace the downward-sloping demand curve, illustrating the inverse relationship between price and quantity demanded.",
+          "keywords": [
+            {"term": "Consumer Optimum/Equilibrium", "definition": "The point where a consumer maximizes their total utility given their budget constraint, achieved when the budget line is tangent to the highest possible indifference curve."},
+            {"term": "Income Consumption Curve (ICC)", "definition": "A curve showing the optimal combination of two goods that a consumer will buy as their income changes, holding prices constant."},
+            {"term": "Price Consumption Curve (PCC)", "definition": "A curve showing the optimal combination of two goods that a consumer will buy as the price of one of the goods changes, holding income constant."},
+            {"term": "Normal Good", "definition": "A good for which demand increases as consumer income rises."},
+            {"term": "Inferior Good", "definition": "A good for which demand decreases as consumer income rises."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "MARKET STRUCTURE AND THE DECISION OF FIRMS",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Review of Market Structures",
+          "section_summary": "This section provides a brief introduction and review of the four primary market structures: perfect competition, monopolistic competition, oligopoly, and pure monopoly. Market structure is defined by how an industry is organized based on competition. The key characteristics used to distinguish between them are: the number and size of firms and consumers, the nature of the product (homogeneous or differentiated), and the ease of entry and exit. A summary table contrasts these structures, highlighting key differences in seller entry barriers, product type, the number of sellers and buyers, and the firms' ability to set prices (price taker vs. price maker). The spectrum of competition is ordered from most competitive (perfect competition) to least competitive (pure monopoly).",
+          "notes": "**Market:** A mechanism by which buyers and sellers interact to exchange goods and services.\n- **Market Structure:** The organizational and other characteristics of a market that determine the nature of competition and pricing. It is defined by:\n    - **Number and size of firms and consumers:** How many players are there, and how large are they?\n    - **Type of product:** Are products homogeneous (identical) or differentiated?\n    - **Degree of information:** How freely does information flow?\n    - **Barriers to entry and exit:** How easy is it for new firms to enter the market or existing firms to leave?\n\n**The Four Basic Market Structures (from most to least competitive):**\n1.  **Perfect Competition:** Many buyers and sellers, homogeneous products, no barriers to entry, firms are price takers.\n2.  **Monopolistic Competition:** Many buyers and sellers, differentiated products, low barriers to entry, firms have some control over price.\n3.  **Oligopoly:** Few large firms, products can be homogeneous or differentiated, high barriers to entry, firms are interdependent.\n4.  **Pure Monopoly:** One seller, a unique product with no close substitutes, very high barriers to entry, the firm is a price maker.",
+          "keywords": [
+            {"term": "Market", "definition": "A mechanism where buyers and sellers are in contact to exchange goods and services."},
+            {"term": "Market Structure", "definition": "The characteristics of a market that determine the nature of competition, including the number of firms, product type, and entry barriers."},
+            {"term": "Price Taker", "definition": "A firm that has no control over the market price and must accept the price determined by market supply and demand."},
+            {"term": "Price Maker", "definition": "A firm that has significant control over the market price and can set the price for its product."},
+            {"term": "Homogeneous Product", "definition": "A product that is identical across sellers, making them perfect substitutes (e.g., agricultural products)."},
+            {"term": "Differentiated Product", "definition": "A product that is unique in some way (real or perceived) from other similar products, giving the seller some control over price."}
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Perfect Competition Market",
+          "section_summary": "This section provides a comprehensive analysis of the perfectly competitive market. It starts by outlining the key assumptions: many buyers and sellers, homogeneous products, free entry and exit, perfect information, and firms as price takers. The firm's demand curve is perfectly elastic (horizontal) at the market equilibrium price, which is determined by the intersection of industry supply and demand. It examines the firm's revenue curves (TR, AR, MR) and cost curves (TC, ATC, MC), noting that for a price-taker firm, P = AR = MR. The short-run equilibrium is analyzed using two approaches: the total revenue-total cost approach (maximizing profit where the gap between TR and TC is largest) and the marginal revenue-marginal cost approach (profit maximized where MR = MC, provided MC is rising). The section details the three possible profit scenarios in the short run: supernormal profit (P > ATC), normal profit/break-even (P = ATC), and losses (P < ATC). It introduces the shutdown point, where P = minimum AVC, below which the firm should shut down to minimize losses. The firm's short-run supply curve is derived as the portion of the MC curve above the minimum AVC. Finally, the long-run equilibrium is discussed, where free entry and exit drive economic profits to zero. In the long run, firms earn only normal profits (P = LMC = LAC = SMC = SAC), producing at the minimum of their long-run average cost curve.",
+          "notes": "**Perfect Competition: Assumptions**\n- Large number of buyers and sellers.\n- Homogeneous (identical) product.\n- Free entry and exit of firms.\n- Perfect information among buyers and sellers.\n- Firms are price takers.\n\n**Demand and Revenue Curves:**\n- The industry demand curve is downward sloping.\n- The firm's demand curve is perfectly elastic (horizontal) at the market price.\n- For a perfectly competitive firm: P = AR = MR.\n- **Total Revenue (TR):** TR = P * Q. It is a straight line with a slope equal to P.\n- **Average Revenue (AR):** AR = TR / Q = P.\n- **Marginal Revenue (MR):** MR = ΔTR / ΔQ = P.\n\n**Cost Curves:**\n- The firm's cost curves (TC, ATC, AVC, MC) have standard U-shapes based on the law of diminishing marginal returns.\n\n**Short-Run Equilibrium of the Firm:**\n- **Goal:** Maximize profit (π = TR - TC) or minimize losses.\n- **Profit-Maximizing Conditions:**\n    1.  **MR = MC** (first-order condition).\n    2.  **MC must be rising** at the point of intersection (second-order condition).\n- **Equilibrium Approaches:**\n    1.  **TR - TC Approach:** The firm maximizes profit at the output level where the vertical distance between TR and TC is greatest.\n    2.  **MR - MC Approach:** The firm produces at the output level where MR = MC.\n\n**Short-Run Profit/Loss Scenarios:**\n1.  **Supernormal Profit:** When the market price (P) is greater than the average total cost (ATC) at the profit-maximizing output. π > 0.\n2.  **Normal Profit (Break-even):** When P = ATC at the profit-maximizing output. π = 0.\n3.  **Losses:** When P < ATC at the profit-maximizing output. π < 0.\n    - **Shutdown Point:** In the short run, the firm should continue to produce if P > minimum AVC (covers variable costs). It should shut down if P < minimum AVC.\n\n**Short-Run Supply Curve:**\n- The firm's short-run supply curve is the portion of its marginal cost curve that lies above the minimum point of its average variable cost curve.\n\n**Long-Run Equilibrium:**\n- In the long run, firms can enter or exit the industry. Economic profits attract new firms, shifting the industry supply curve right, lowering the price, and eroding profits. Economic losses cause firms to exit, shifting supply left, raising the price, and eliminating losses.\n- **Long-Run Equilibrium Condition:** P = LMC = LAC = SMC = SAC.\n- Firms earn only normal profits (π = 0) and produce at the minimum point of their long-run average cost curve (productive efficiency).",
+          "keywords": [
+            {"term": "Perfect Competition", "definition": "A market structure characterized by many firms, homogeneous products, free entry and exit, and price-taking behavior."},
+            {"term": "Price Taker", "definition": "A firm that must accept the market price and cannot influence it."},
+            {"term": "Marginal Revenue (MR)", "definition": "The additional revenue a firm receives from selling one more unit of output. For a perfectly competitive firm, MR = P."},
+            {"term": "Marginal Cost (MC)", "definition": "The additional cost incurred from producing one more unit of output."},
+            {"term": "Short-Run", "definition": "A period of time in which at least one input is fixed, and firms cannot enter or exit the market."},
+            {"term": "Long-Run", "definition": "A period of time in which all inputs are variable, and firms can enter or exit the market."},
+            {"term": "Supernormal Profit", "definition": "Profit greater than normal profit, where P > ATC."},
+            {"term": "Normal Profit", "definition": "The minimum profit required to keep a firm in operation, where P = ATC."},
+            {"term": "Shutdown Point", "definition": "The point at which P = minimum AVC. If price falls below this point, the firm should shut down in the short run."}
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Pure Monopoly Market",
+          "section_summary": "This section details the characteristics of a pure monopoly, which is the opposite of perfect competition. A monopoly has a single seller, produces a unique product with no close substitutes, faces extremely high barriers to entry, and acts as a price maker. The key difference is that the monopolist's demand curve is the market demand curve (downward sloping), not a horizontal line. Consequently, marginal revenue (MR) is always less than the price (P) because to sell more output, the monopolist must lower the price on all units sold. The section analyzes the short-run equilibrium of a monopolist. The profit-maximizing rule is the same as for perfect competition: output is chosen where MR = MC. However, because the demand curve is downward-sloping, the price charged is determined by the demand curve at that output level (P > MR = MC). The section discusses how a monopolist can earn supernormal profits, normal profits, or incur losses in the short run. Finally, it explores price discrimination, where the monopolist charges different prices to different consumers or for different units of the same good to capture consumer surplus and increase profits. The three degrees of price discrimination are introduced: first-degree (perfect), second-degree (quantity discounts), and third-degree (market segmentation).",
+          "notes": "**Pure Monopoly: Characteristics**\n- Single seller in the market.\n- Unique product with no close substitutes.\n- Very high barriers to entry.\n- The firm is a price maker (has significant control over price).\n- The firm's demand curve is the market demand curve, which is downward sloping.\n\n**Demand and Revenue Curves:**\n- **Demand Curve (AR):** Downward sloping, the same as the market demand curve.\n- **Average Revenue (AR):** Equal to the price (P) from the demand curve.\n- **Marginal Revenue (MR):** Less than the price (P) for every unit after the first. The MR curve lies below the demand curve because to sell an additional unit, the monopolist must lower the price on all previous units.\n- **Relationship:** Demand and MR share the same vertical intercept, and the horizontal intercept of MR is half that of the demand curve (for a linear demand curve).\n\n**Short-Run Equilibrium:**\n- **Goal:** Maximize profit.\n- **Profit-Maximizing Conditions:**\n    1.  **MR = MC** (first-order condition).\n    2.  **MC must be rising** at the point of intersection (second-order condition).\n- **Price Determination:** The monopolist determines the output level (Q*) where MR = MC. The price (P*) is then set based on the demand curve at that output level (P* > MC).\n\n**Profit Scenarios in the Short Run:**\n1.  **Supernormal Profit:** If P* > ATC at Q*, the monopolist earns supernormal profits.\n2.  **Normal Profit:** If P* = ATC at Q*, the monopolist earns normal profits.\n3.  **Losses:** If P* < ATC at Q*, the monopolist incurs losses. However, a monopoly is more likely to earn profits due to high barriers to entry.\n\n**Price Discrimination:**\n- **Definition:** The practice of charging different prices to different consumers or for different units of the same good or service to capture consumer surplus and maximize profit.\n- **Requirements:** The seller must have market power, be able to identify different market segments, and prevent resale between segments.\n- **Degrees:**\n    1.  **First-Degree (Perfect) Discrimination:** Charging each consumer their maximum willingness to pay (reservation price). The entire consumer surplus is captured.\n    2.  **Second-Degree Discrimination:** Prices differ depending on the quantity purchased (e.g., bulk discounts).\n    3.  **Third-Degree Discrimination:** Charging different prices to different identifiable consumer groups (e.g., students, senior citizens) based on different demand elasticities.",
+          "keywords": [
+            {"term": "Monopoly", "definition": "A market structure with a single seller, a unique product, high barriers to entry, and price-making power."},
+            {"term": "Price Maker", "definition": "A firm that has significant control over the price of its product, such as a monopolist."},
+            {"term": "Marginal Revenue (MR) in Monopoly", "definition": "The additional revenue from selling one more unit, which is less than the price because the monopolist must lower the price on all units to sell more."},
+            {"term": "Price Discrimination", "definition": "The practice of selling the same product to different buyers at different prices to capture consumer surplus."},
+            {"term": "First-Degree Price Discrimination", "definition": "Charging each consumer their maximum willingness to pay, capturing all consumer surplus."},
+            {"term": "Third-Degree Price Discrimination", "definition": "Charging different prices to different consumer groups based on their price elasticity of demand."}
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Monopolistic Competition Market",
+          "section_summary": "This section introduces monopolistic competition, a market structure that blends elements of perfect competition and monopoly. It is characterized by many firms selling differentiated products, easy entry and exit, and competition based on price, quality, and advertising. Product differentiation is key, as firms try to make their products appear unique to gain some market power and face a downward-sloping demand curve. However, because there are many close substitutes, the demand is more elastic than a monopoly's. The section explains the firm's cost curves and analyzes the short-run equilibrium where profit maximization occurs at MR = MC. In the short run, a monopolistically competitive firm can earn supernormal profits. The concept of a 'product group' is introduced to replace the traditional 'industry' because products are differentiated and not homogeneous. The section concludes by contrasting this structure with perfect competition and pure monopoly.",
+          "notes": "**Monopolistic Competition: Characteristics**\n- Many firms.\n- Differentiated products.\n- Relatively easy entry and exit (low barriers).\n- Firms have some control over price (a downward-sloping demand curve), but it is more elastic than a monopoly's.\n\n**Product Differentiation:**\n- **Definition:** The process of making a product appear distinct from its competitors to gain a competitive advantage.\n- **Bases for Differentiation:**\n    - **Real differentiation:** Physical aspects (e.g., materials), location, or features.\n    - **Spurious differentiation:** Intangible aspects like branding, advertising, and packaging.\n- **Consequences:** Product differentiation gives firms some monopoly power (can charge a slightly higher price) but also creates competition from close substitutes.\n\n**Demand and Cost Curves:**\n- **Demand Curve:** Downward sloping, representing the trade-off between price and quantity sold. It is flatter (more elastic) than a monopoly's demand curve due to the presence of close substitutes.\n- **Marginal Revenue Curve:** Lies below the demand curve, similar to a monopoly.\n- **Cost Curves:** The firm faces standard U-shaped cost curves (ATC, AVC, MC).\n\n**Short-Run Equilibrium:**\n- **Goal:** Maximize profit.\n- **Profit-Maximizing Condition:** The firm produces at the output level where **MR = MC** (MC must be rising).\n- **Price Determination:** The price is set from the firm's demand curve at the profit-maximizing output level (P*).\n- **Possible Outcomes:** In the short run, a firm in monopolistic competition can earn **supernormal profits**, normal profits, or incur losses.\n\n**Industry vs. Product Group:**\n- Because products are differentiated, the traditional concept of an 'industry' (firms producing identical products) is inappropriate. Instead, the term '**product group**' is used to describe firms producing similar, but not identical, products.",
+          "keywords": [
+            {"term": "Monopolistic Competition", "definition": "A market structure with many firms selling differentiated products and low barriers to entry."},
+            {"term": "Product Differentiation", "definition": "The process of making a product distinct from its competitors in real or perceived ways."},
+            {"term": "Product Group", "definition": "A collection of firms producing closely related but not identical products in a monopolistically competitive market."},
+            {"term": "Non-Price Competition", "definition": "Competition based on product differentiation, advertising, and quality rather than price."}
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Oligopoly Market",
+          "section_summary": "This section examines the oligopoly market structure, which is dominated by a few large firms. Key characteristics include high barriers to entry, firms that can sell homogeneous or differentiated products, and most importantly, strategic interdependence, where each firm's decisions affect and are affected by the actions of its rivals. This interdependence makes oligopoly difficult to model with a single theory. The section differentiates between collusive oligopoly, where firms cooperate to maximize joint profits (e.g., through cartels or price leadership), and non-collusive oligopoly, where firms compete aggressively with each other (e.g., through price wars or advertising). It highlights the strategic uncertainty firms face and summarizes the key differences between the two types of oligopolies in a table.",
+          "notes": "**Oligopoly: Characteristics**\n- **Few dominant sellers:** A small number of large firms control the market.\n- **Strategic Interdependence:** The decisions of one firm (e.g., on price or output) directly affect and are affected by the decisions of its rivals. Each firm must consider the likely reactions of its competitors.\n- **Product Type:** Firms can sell either homogeneous (pure oligopoly) or differentiated (impure/differentiated oligopoly) products.\n- **High Barriers to Entry:** It is difficult for new firms to enter the market.\n\n**Types of Oligopoly:**\n1.  **Collusive Oligopoly:** Firms cooperate with each other to maximize their joint profits and reduce uncertainty.\n    - **Cartels:** A formal agreement among firms to fix prices, output, and market shares (e.g., OPEC).\n    - **Price Leadership:** An informal, tacit agreement where one dominant firm initiates price changes, and other firms follow.\n2.  **Non-Collusive Oligopoly:** Firms compete with each other and do not cooperate.\n    - **Fierce Competition:** Firms compete aggressively through price wars or extensive advertising.\n    - **Strategic Environment:** Each firm must independently make decisions based on expectations of rivals' actions.\n    - **Price Inflexibility:** Prices tend to be rigid (stick) because firms fear triggering a price war.",
+          "keywords": [
+            {"term": "Oligopoly", "definition": "A market structure dominated by a few large firms, characterized by strategic interdependence and high barriers to entry."},
+            {"term": "Strategic Interdependence", "definition": "A situation where a firm's decisions (price, output) affect and are affected by the decisions of its rivals."},
+            {"term": "Collusive Oligopoly", "definition": "A market situation where firms cooperate to reduce competition and maximize joint profits, often through cartels or price leadership."},
+            {"term": "Non-Collusive Oligopoly", "definition": "A market situation where firms compete independently without formal or informal agreements."},
+            {"term": "Cartel", "definition": "A formal organization of firms in an oligopolistic industry that agrees to coordinate their output and pricing decisions to act like a monopoly."},
+            {"term": "Price Leadership", "definition": "A form of implicit collusion where one dominant firm sets the price and other firms follow its lead."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "NATIONAL INCOME ACCOUNTING",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Nature of National Income Account and Its importance",
+          "section_summary": "This introductory section defines national income accounting as the official measurement of a country's economic activity. It introduces the concept of Gross Domestic Product (GDP), a key measure used by economists to gauge the size and health of an economy. The section establishes the importance of these accounts for understanding and analyzing economic performance.",
+          "notes": "**National Income Accounting (NIA):** A system of official measurement used to track the total flow of income, expenditure, and production in an economy.\n- It provides a framework for summarizing the economic activity of a nation over a specific period, usually a year or a quarter.\n- **Gross Domestic Product (GDP)** is the central measure in national income accounting.",
+          "keywords": [
+            {"term": "National Income Accounting", "definition": "An official system of measurement used to track the flow of income and output in an economy."}
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "The Concept of Gross Domestic Product (GDP) and Gross National Product (GNP)",
+          "section_summary": "This section defines and differentiates between the two primary measures of a nation's output: GDP and GNP. GDP is the total market value of all final goods and services produced within a country's borders in a given time period, regardless of who produces them. GNP is the total market value of all final goods and services produced by a country's citizens and companies, regardless of their location. The key distinction is based on geography (GDP) versus ownership (GNP). The difference between the two is captured by Net Foreign Factor Income (NFFI), which is income earned by domestic factors abroad minus income earned by foreign factors domestically. The formula GNP = GDP + Net Factor Income from Abroad is provided. The section also clarifies that GDP and GNP are flow variables, measured over a period of time, as opposed to stock variables, which are measured at a point in time.",
+          "notes": "**Gross Domestic Product (GDP):** The total market value of all final goods and services produced within a country's geographical borders during a given period (typically a year).\n- **'Within a country's borders':** The key defining characteristic is location of production, not the nationality of the producer.\n\n**Gross National Product (GNP):** The total market value of all final goods and services produced by the resources (citizens and companies) of a country, regardless of where they are located.\n- **'By the nationality of a country':** The key defining characteristic is ownership of the factors of production, not the location of production.\n\n**Difference between GDP and GNP:**\n- **Net Foreign Factor Income (NFFI):** The difference between the income earned by a country's citizens and companies abroad and the income earned by foreign citizens and companies in that country.\n- **Formula:** GNP = GDP + Net Factor Income from Abroad (NFI).\n  - NFI = Income earned by domestic factors abroad - Income earned by foreign factors domestically.\n\n**Flow vs. Stock:**\n- **Flow Variable:** A quantity measured over a period of time (e.g., GDP, income, investment).\n- **Stock Variable:** A quantity measured at a specific point in time (e.g., wealth, capital stock, inventory).",
+          "keywords": [
+            {"term": "Gross Domestic Product (GDP)", "definition": "The total market value of all final goods and services produced within a country's borders in a given year."},
+            {"term": "Gross National Product (GNP)", "definition": "The total market value of all final goods and services produced by the resources of a country in a given year, regardless of where they are located."},
+            {"term": "Net Foreign Factor Income (NFFI)", "definition": "The difference between a country's income earned abroad and the income earned by foreign factors domestically."},
+            {"term": "Flow Variable", "definition": "An economic variable measured over a period of time (e.g., GDP)."},
+            {"term": "Stock Variable", "definition": "An economic variable measured at a specific point in time (e.g., wealth)."}
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Approaches of Measuring National Income (GDP/GNP)",
+          "section_summary": "This section details the three primary methods for calculating GDP, all of which should theoretically yield the same result. The **Expenditure Approach** sums up all spending on final goods and services by different sectors of the economy. It is calculated as GDP = C + I + G + NX. The **Income Approach** sums up all the income earned by factors of production (wages, rent, interest, profit) and adds non-income components like depreciation and indirect business taxes. The **Value-Added Approach** avoids double counting by summing the value added at each stage of production for a good or service. The section explains each component of the expenditure approach in detail: Consumption (C), Investment (I), Government Purchases (G), and Net Exports (NX). It also introduces the Circular Flow of Income, which illustrates the economic interdependence of all sectors and demonstrates the equivalence of the three approaches.",
+          "notes": "**Three Approaches to Measuring GDP (All should be equal):**\n1.  **Expenditure Approach:** Adds up all the spending on final goods and services produced in the economy.\n    - **Formula:** GDP = C + I + G + NX\n    - **Components:**\n        - **Consumption (C):** Spending by households on final goods and services (durable goods, non-durable goods, and services).\n        - **Investment (I):** Spending by businesses and households on capital goods (business fixed investment, residential investment, and inventory investment).\n        - **Government Purchases (G):** Spending on goods and services by all levels of government (federal, state, local). Excludes transfer payments.\n        - **Net Exports (NX):** The value of exports (X) minus the value of imports (M). NX = X - M.\n2.  **Income Approach:** Adds up all the income earned by the factors of production (resource owners) in the economy.\n    - **Components:** Compensation of employees (wages), rent, interest, and profit. To get to GDP, we add depreciation and net indirect taxes (indirect taxes minus subsidies).\n    - **Formula:** GDP = National Income + Depreciation + Net Indirect Taxes.\n3.  **Value-Added Approach:** Calculates GDP by summing the value added at each stage of production. Value added is the difference between the sales revenue of a firm and the cost of intermediate goods it purchases from other firms. This avoids double counting.\n    - **Value Added:** Sales Value - Cost of Intermediate Goods.\n    - **Formula:** GDP = Sum of Value Added by all firms in the economy.\n\n**Circular Flow of Income:** A model showing the continuous flow of production, income, and expenditure between households and firms (and government and the rest of the world). It illustrates the equivalence of the three approaches: one agent's expenditure is another's income.",
+          "keywords": [
+            {"term": "Expenditure Approach", "definition": "A method of calculating GDP by summing total spending on final goods and services (C + I + G + NX)."},
+            {"term": "Income Approach", "definition": "A method of calculating GDP by summing all the income earned by factors of production."},
+            {"term": "Value-Added Approach", "definition": "A method of calculating GDP by summing the value added at each stage of production to avoid double counting."},
+            {"term": "Consumption (C)", "definition": "Household spending on final goods and services."},
+            {"term": "Investment (I)", "definition": "Business spending on capital goods, including inventories and residential investment."},
+            {"term": "Government Purchases (G)", "definition": "Government spending on final goods and services."},
+            {"term": "Net Exports (NX)", "definition": "The value of a country's exports minus the value of its imports (X-M)."},
+            {"term": "Intermediate Good", "definition": "A good used as an input in the production of a final good (e.g., flour used to make bread)."},
+            {"term": "Final Good", "definition": "A good sold to its final user, not to be used as an input in further production (e.g., bread sold to a consumer)."}
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Problems with GDP Measurement",
+          "section_summary": "This section outlines the inherent difficulties and shortcomings in accurately measuring GDP. A major issue is double counting, which occurs when intermediate goods are counted alongside final goods, inflating the GDP figure. Sales of used items are excluded as they don't represent current production. More significantly, GDP measurement fails to capture economic activities in the informal or underground economy, which is particularly large in developing countries. Additionally, GDP excludes non-market activities like do-it-yourself work and voluntary labor, makes it difficult to account for quality improvements, and ignores non-productive transactions such as transfer payments. The section suggests measures like careful accounting for used items, estimating informal sector output, and focusing on the value-added approach to mitigate these problems.",
+          "notes": "**Problems with GDP Measurement:**\n1.  **Double Counting:** Counting the value of the same good more than once when it passes through multiple stages of production. The value-added approach is designed to prevent this.\n2.  **Informal Sector (Underground Economy):** Economic activities that are not recorded or reported to the government (e.g., street vending, unreported cash payments). This leads to an underestimation of GDP.\n3.  **Non-Market Activities:** GDP only includes transactions with a market price. It excludes goods and services produced and consumed at home (e.g., housework, gardening, unpaid childcare) and voluntary work.\n4.  **Used Goods:** Sales of used items are excluded from GDP because they were already counted in the year they were produced.\n5.  **Non-Productive Transactions:** Financial transactions that are not tied to the production of goods or services (e.g., transfer payments like social security, stock trades, gifts) are excluded.\n6.  **Difficulty Accounting for Quality:** GDP measures changes in quantity and price but does not fully capture improvements in the quality of goods and services.\n\n**Suggested Solutions:**\n- Use the value-added approach to avoid double counting.\n- Estimate the value of the informal sector and non-market activities.\n- Exclude sales of used items and non-productive transactions.",
+          "keywords": [
+            {"term": "Double Counting", "definition": "The error of counting the value of a good more than once in the calculation of GDP, which is avoided by using the value-added approach."},
+            {"term": "Informal Sector", "definition": "The part of the economy that is not recorded in official statistics and often operates outside government regulation."},
+            {"term": "Transfer Payment", "definition": "A payment made to an individual or household for which no good or service is exchanged (e.g., pensions, unemployment benefits). They are excluded from GDP."}
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "The GDP Deflator and the Consumer Price Index",
+          "section_summary": "This section covers the distinction between nominal and real GDP and the methods for adjusting for inflation. Nominal GDP is the value of goods and services at current prices, while Real GDP is the value measured using constant base-year prices, reflecting only changes in output. The GDP Deflator is the broadest measure of the general price level, calculated as (Nominal GDP / Real GDP) * 100. The Consumer Price Index (CPI) is another key price index measuring the cost of a fixed basket of consumer goods and services relative to a base year. The section compares the two indices, highlighting that the GDP deflator covers all domestically produced goods (including those for firms and government) and allows the basket to change, whereas the CPI covers only a fixed basket of goods purchased by consumers, including imports. The Inflation Rate is defined as the percentage change in the CPI from one period to the next.",
+          "notes": "**Nominal GDP:** The value of final goods and services measured at current year prices.\n- **Formula:** Nominal GDP = Σ (Price in Current Year * Quantity in Current Year)\n- It can increase due to an increase in prices (inflation) or an increase in output (growth).\n\n**Real GDP:** The value of final goods and services measured using a fixed set of prices from a base year.\n- **Formula:** Real GDP = Σ (Price in Base Year * Quantity in Current Year)\n- It rises only when the quantity of goods and services produced increases, isolating the effect of price changes.\n\n**GDP Deflator:** A broad measure of the overall price level for all goods and services produced in the economy.\n- **Formula:** GDP Deflator = (Nominal GDP / Real GDP) * 100\n- It reflects the price of all domestically produced output, including consumer goods, investment goods, and government goods.\n\n**Consumer Price Index (CPI):** A measure of the average change over time in the prices paid by urban consumers for a fixed market basket of consumer goods and services.\n- **Formula:** CPI = (Cost of Market Basket in Current Year / Cost of Market Basket in Base Year) * 100\n\n**Key Differences between GDP Deflator and CPI:**\n1.  **Basket:** GDP deflator includes all domestically produced goods and services. CPI includes only a fixed basket of consumer goods and services (including imports).\n2.  **Composition:** GDP deflator allows the basket to change as the composition of GDP changes. CPI uses a fixed basket.\n\n**Inflation Rate:** The percentage change in the price level from one period to another.\n- **Formula:** Inflation Rate = [(CPI in Current Year - CPI in Previous Year) / CPI in Previous Year] * 100",
+          "keywords": [
+            {"term": "Nominal GDP", "definition": "GDP measured at current market prices, without adjusting for inflation."},
+            {"term": "Real GDP", "definition": "GDP measured using constant base-year prices, adjusted for inflation."},
+            {"term": "GDP Deflator", "definition": "A price index that measures the average level of prices for all new, domestically produced goods and services in an economy."},
+            {"term": "Consumer Price Index (CPI)", "definition": "A price index that measures the average change in prices of a fixed basket of consumer goods and services over time."},
+            {"term": "Base Year", "definition": "A year chosen as a benchmark for comparison when constructing an index, with a value set to 100."}
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Other Measures of National Income Account",
+          "section_summary": "This section introduces other important macroeconomic aggregates derived from GDP. Net Domestic Product (NDP) is GDP minus depreciation (capital consumption allowance). National Income (NI) is the total income earned by a nation's factors of production. Personal Income (PI) is the income actually received by households, which involves subtracting corporate profits, social insurance taxes, and adding transfer payments from NI. Disposable Personal Income (DPI) is the income households have left after paying personal taxes, which they can either consume or save. Finally, Per Capita GDP is calculated by dividing GDP by the total population, providing a measure of average income per person and allowing for better international comparisons of standard of living.",
+          "notes": "**Net Domestic Product (NDP):**\n- NDP = GDP - Depreciation\n- Depreciation is the consumption of fixed capital, the amount of capital stock worn out during production.\n\n**National Income (NI):**\n- **Definition:** Total income earned by a country's citizens and businesses.\n- **Formula:** NI = Wages + Rent + Interest + Proprietors' Income + Corporate Profits\n\n**Personal Income (PI):**\n- **Definition:** The income that households actually receive.\n- **Formula:** PI = NI - Undistributed Corporate Profits - Social Insurance Taxes - Corporate Profits Taxes + Transfer Payments\n\n**Disposable Personal Income (DPI):**\n- **Definition:** Income available to households after paying personal taxes (e.g., income tax). It is the amount they can spend or save.\n- **Formula:** DPI = Personal Income - Personal Taxes\n\n**Per Capita GDP:**\n- **Definition:** A measure of the average income per person in an economy.\n- **Formula:** Per Capita GDP = Total GDP / Total Population\n- It can be calculated using nominal GDP or real GDP. It is used for international comparisons of living standards.",
+          "keywords": [
+            {"term": "Net Domestic Product (NDP)", "definition": "GDP minus depreciation, representing the net addition to the capital stock."},
+            {"term": "National Income (NI)", "definition": "The total income earned by all factors of production in a country."},
+            {"term": "Personal Income (PI)", "definition": "The total income received by households before personal taxes are paid."},
+            {"term": "Disposable Personal Income (DPI)", "definition": "Personal income minus personal taxes, representing income available for consumption or saving."},
+            {"term": "Per Capita GDP", "definition": "A country's GDP divided by its total population, used as an indicator of average standard of living."}
+          ]
+        },
+        {
+          "section_number": "3.7",
+          "section_title": "GDP and Income Distribution",
+          "section_summary": "This brief concluding section highlights a major limitation of GDP as a comprehensive measure of economic welfare: it does not reveal how income is distributed among a country's population. While aggregate GDP might be growing, the benefits could be concentrated among a small group, leaving the majority of the population behind. The section notes that economists and policymakers now move beyond GDP to examine inequality, poverty, and other development indicators for a more complete picture of an economy's health and social progress.",
+          "notes": "**Limitations of GDP:**\n- **Does not measure income distribution:** GDP tells us the total value of output but not how that output is shared among the population. A high GDP per capita could coexist with high levels of inequality.\n- **Consequences:** The average person may not be better off even if GDP is growing if the gains are not widely shared.\n- **Solution:** To get a fuller picture of well-being, economists supplement GDP analysis with other indicators like inequality measures, the Gini coefficient, and poverty rates.",
+          "keywords": [
+            {"term": "Income Distribution", "definition": "How the total income of a nation is divided among its citizens."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "CONSUMPTION, SAVING AND INVESTMENT",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Consumption",
+          "section_summary": "This section introduces the concept of consumption as a key component of aggregate demand. It defines the consumption function, which expresses the relationship between consumption spending (C) and disposable income (Yd). The relationship is based on John Maynard Keynes's proposition that consumption is a positive function of income. The function is C = C0 + cYd, where C0 is autonomous consumption (independent of income) and c is the marginal propensity to consume (MPC). The section defines and explains the Average Propensity to Consume (APC = C/Yd) and the Marginal Propensity to Consume (MPC = ΔC/ΔYd), noting that MPC is between 0 and 1 and APC falls as income rises. It also lists the main determinants of consumption expenditure, including money income, distribution of income, taxes, expectations, interest rates, and wealth.",
+          "notes": "**Consumption (C):** The total spending by households on final goods and services for personal use.\n- **Disposable Income (Yd):** Income available to households after paying taxes. Yd = Y - T.\n\n**The Keynesian Consumption Function:**\n- **Formula:** C = C0 + cYd\n  - **C0:** Autonomous consumption. The level of consumption when income is zero. Positive, reflecting spending on necessities financed by savings or borrowing.\n  - **c:** Marginal Propensity to Consume (MPC). The slope of the consumption function.\n  - **cYd:** Induced consumption. The part of consumption that depends on income.\n\n**Average Propensity to Consume (APC):**\n- **Definition:** The fraction of total disposable income that is spent on consumption.\n- **Formula:** APC = C / Yd\n- **Keynes's Proposition:** APC falls as income rises (the poor spend a larger proportion of their income than the rich).\n\n**Marginal Propensity to Consume (MPC):**\n- **Definition:** The fraction of an additional dollar of disposable income that is spent on consumption.\n- **Formula:** MPC = ΔC / ΔYd\n- **Keynes's Proposition:** 0 < MPC < 1. The MPC decreases as income rises.\n\n**Determinants of Consumption Expenditure:**\n1.  Money Income (primary determinant).\n2.  Distribution of Income.\n3.  Level of Direct Taxes.\n4.  Expectations about Future Income and Prices.\n5.  Rate of Interest.\n6.  Level of Wealth.",
+          "keywords": [
+            {"term": "Consumption", "definition": "The total spending by households on final goods and services."},
+            {"term": "Disposable Income (Yd)", "definition": "Income left after paying personal income taxes, which is used for consumption or saving."},
+            {"term": "Consumption Function", "definition": "A graph showing the relationship between consumption and disposable income."},
+            {"term": "Autonomous Consumption", "definition": "The part of consumption that is independent of disposable income, which occurs even at zero income."},
+            {"term": "Induced Consumption", "definition": "The part of consumption that is determined by the level of disposable income."},
+            {"term": "Average Propensity to Consume (APC)", "definition": "The ratio of total consumption to total disposable income (C / Yd)."},
+            {"term": "Marginal Propensity to Consume (MPC)", "definition": "The ratio of the change in consumption to the change in disposable income (ΔC / ΔYd)."}
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Saving",
+          "section_summary": "This section defines saving as the part of disposable income that is not spent on consumption. The saving function is derived directly from the consumption function: S = Yd - C = -C0 + (1-c)Yd, where the Y-intercept (-C0) represents dissaving and the slope (1-c) is the Marginal Propensity to Save (MPS). The section defines the Average Propensity to Save (APS = S/Yd) and the Marginal Propensity to Save (MPS = ΔS/ΔYd). It establishes the important identity that APC + APS = 1 and MPC + MPS = 1. The determinants of saving, which mirror those for consumption, are discussed: income, income distribution, expectations, interest rates, wealth, and personal nature. The section also clarifies the difference between the flow concept of 'saving' and the stock concept of 'savings'.",
+          "notes": "**Saving (S):** The part of disposable income that is not consumed.\n- **Formula:** S = Yd - C\n\n**The Saving Function:**\n- **Derivation:** S = Yd - C = Yd - (C0 + cYd) = -C0 + (1 - c)Yd\n  - **-C0:** Dissaving at zero income. This is the amount borrowed or drawn from savings to finance autonomous consumption.\n  - **(1 - c):** Marginal Propensity to Save (MPS).\n\n**Average Propensity to Save (APS):**\n- **Definition:** The fraction of total disposable income that is saved.\n- **Formula:** APS = S / Yd\n- **Identity:** APC + APS = 1\n\n**Marginal Propensity to Save (MPS):**\n- **Definition:** The fraction of an additional dollar of disposable income that is saved.\n- **Formula:** MPS = ΔS / ΔYd = 1 - c\n- **Identity:** MPC + MPS = 1\n\n**Determinants of Saving:**\n1.  Level of Income.\n2.  Distribution of Income.\n3.  Expectations about Future Prices and Income.\n4.  Rate of Interest.\n5.  Level of Wealth.\n6.  Level of Direct Taxes.\n7.  Individual Nature (e.g., miser vs. spendthrift).\n\n**Important Distinction:**\n- **Saving:** A flow concept, referring to the act of not consuming income during a specific period.\n- **Savings:** A stock concept, referring to the accumulated wealth or money at a point in time.",
+          "keywords": [
+            {"term": "Saving", "definition": "The part of disposable income that is not consumed."},
+            {"term": "Saving Function", "definition": "A graph showing the relationship between saving and disposable income."},
+            {"term": "Dissaving", "definition": "When consumption exceeds income, resulting in negative saving."},
+            {"term": "Average Propensity to Save (APS)", "definition": "The ratio of total saving to total disposable income (S / Yd)."},
+            {"term": "Marginal Propensity to Save (MPS)", "definition": "The ratio of the change in saving to the change in disposable income (ΔS / ΔYd)."}
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The Relationship between Saving and Consumption",
+          "section_summary": "This section explicitly establishes the complementary relationship between consumption and saving. The key identities, APC + APS = 1 and MPC + MPS = 1, are mathematically proven based on the definition of disposable income (Yd = C + S). The section also uses a graphical analysis to illustrate the relationship, introducing the 45-degree reference line, which represents points where expenditure equals income. By comparing the consumption function to this line, it identifies the level of disposable income at which saving is zero. When income is below this level, there is dissaving (consumption > income); when it is above, there is positive saving (income > consumption). A case study on the traditional Ethiopian saving practice of 'Iqub' is presented as a real-world example.",
+          "notes": "**The Complementary Relationship:**\n- Since income can only be used for consumption or saving (Yd = C + S), changes in income must be reflected in changes in consumption or saving.\n\n**Key Identities:**\n1.  **APC + APS = 1:** Dividing the identity Yd = C + S by Yd yields 1 = (C/Yd) + (S/Yd) = APC + APS.\n2.  **MPC + MPS = 1:** Since a change in income must be either consumed or saved, ΔYd = ΔC + ΔS. Dividing by ΔYd gives 1 = MPC + MPS.\n\n**Graphical Analysis:**\n- **45-Degree Line:** A reference line on a graph where the value on the vertical axis (expenditure) equals the value on the horizontal axis (income).\n- **Break-Even Point:** The point where the consumption function intersects the 45-degree line (C = Yd). At this point, saving is zero.\n  - **Income < Break-Even:** Consumption > Income (Dissaving occurs).\n  - **Income > Break-Even:** Income > Consumption (Positive saving occurs).\n\n**Case Study: Iqub**\n- **Definition:** A traditional Ethiopian system of revolving savings and informal finance based on pre-established social ties.\n- **Mechanism:** Members contribute a fixed amount of money at regular intervals. The total pooled amount is given to one member at each meeting, often determined by lottery or need, until all members have received the pot.\n- **Importance:** It serves as a vital source of finance for consumption, investment, and business purposes, especially for individuals without access to formal credit.",
+          "keywords": [
+            {"term": "45-Degree Line", "definition": "A reference line on a graph where the variables on both axes are equal, used to identify points where income equals expenditure."},
+            {"term": "Break-Even Point", "definition": "The level of disposable income where a household neither saves nor dissaves (C = Yd)."}
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Investment",
+          "section_summary": "This section defines investment as spending on capital goods that will be used for future production, distinguishing it from consumption. It categorizes investment into Gross Investment (total spending on new capital) and Net Investment (Gross Investment minus Depreciation). It differentiates between Autonomous Investment (independent of income, typically government spending) and Induced Investment (dependent on income and profit expectations). The investment function is discussed, highlighting its direct relationship with income and inverse relationship with the real interest rate. The determinants of investment are listed, including interest rates, expectations about future sales, and business taxes. The section emphasizes the crucial role of investment in economic growth by adding to the capital stock. It introduces the Accelerator Theory, which posits that investment demand is a function of changes in output or GDP, meaning that a change in consumption (aggregate demand) can trigger a proportionally larger change in investment.",
+          "notes": "**Investment:** Spending on capital goods (plant, equipment, machinery, inventories) that are used to produce goods and services.\n- **Distinction:** Investment is not buying stocks or bonds (financial investment). It refers to real capital investment.\n\n**Types of Investment:**\n1.  **Gross Investment:** The total amount spent on new capital goods before accounting for depreciation.\n2.  **Net Investment:** Gross investment minus depreciation (capital consumption allowance).\n    - **Net Investment = Gross Investment - Depreciation**\n    - **Positive Net Investment:** Increases the economy's capital stock and productive capacity.\n3.  **Autonomous Investment:** Investment that is independent of income level (e.g., government infrastructure projects).\n4.  **Induced Investment:** Investment that is directly influenced by income level and profit expectations (e.g., business investment driven by demand).\n\n**The Investment Function:**\n- Investment depends mainly on:\n    1.  **Real Interest Rate:** There is an inverse relationship. Higher interest rates increase the cost of borrowing, reducing investment.\n    2.  **Expected Future Sales and Profits:** Positive expectations encourage investment.\n    3.  **Business Taxes:** Higher taxes reduce expected profitability, decreasing investment.\n\n**Role of Investment in Economic Growth:**\n- Investment adds to the capital stock, which is a key determinant of productivity and potential output. It is a crucial engine for long-run economic growth.\n\n**The Accelerator Theory:**\n- **Definition:** A principle stating that investment demand is driven by the rate of change in the level of economic activity (output or income).\n- **Concept:** An increase in the demand for consumer goods (or GDP) leads to a proportionally larger increase in the demand for capital goods (investment).\n- **Formula:** It = α (Yt - Yt-1) = α (ΔY).\n    - **It:** Investment in period t.\n    - **α:** The accelerator coefficient (the amount of capital needed per unit of output).\n    - **ΔY:** The change in output or GDP.",
+          "keywords": [
+            {"term": "Investment", "definition": "The purchase of new capital goods (e.g., machinery, factories) that will be used to produce future output."},
+            {"term": "Gross Investment", "definition": "Total investment in new capital goods, including replacement investment."},
+            {"term": "Net Investment", "definition": "Gross investment minus depreciation, representing the net addition to the capital stock."},
+            {"term": "Depreciation", "definition": "The decrease in the value of capital goods due to wear and tear, obsolescence, or aging."},
+            {"term": "Autonomous Investment", "definition": "Investment spending that is independent of the level of income."},
+            {"term": "Induced Investment", "definition": "Investment spending that is directly influenced by the level of income."},
+            {"term": "Real Interest Rate", "definition": "The nominal interest rate adjusted for inflation, representing the real cost of borrowing."},
+            {"term": "Accelerator Theory", "definition": "The theory that investment is a function of the rate of change in national output or GDP."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "TRADE AND FINANCE",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Overview of Domestic Trade",
+          "section_summary": "This section distinguishes between domestic and international trade. Domestic trade, or trade within a country's borders, involves wholesale and retail transactions. Retail trade is the sale of goods directly to the final consumer, while wholesale trade is the sale of goods in large quantities to retailers or other businesses. The section highlights the importance of domestic trade for a country's economy by facilitating resource distribution, improving efficiency, creating employment, and reducing dependence on foreign goods. It notes that domestic trade typically has lower transaction and transportation costs compared to international trade. However, its main limitation is the restricted variety of products available, as countries are limited to what they can produce, which is why most nations also engage in international trade.",
+          "notes": "**Domestic Trade:** The exchange of goods or services within the geographical borders of a single country.\n- **Types:**\n    1.  **Retail Trade:** The sale of goods and services directly to consumers for personal use.\n    2.  **Wholesale Trade:** The sale of goods and services to businesses or retailers, not to the final consumer.\n\n**Importance of Domestic Trade:**\n- Facilitates the distribution of goods and services across the country.\n- Improves resource allocation and economic efficiency.\n- Creates employment opportunities.\n- Encourages domestic investment.\n- Reduces a country's reliance on foreign goods and services.\n\n**Benefits over International Trade:**\n- Lower transaction costs (no tariffs or customs duties).\n- Lower transportation costs.\n- Keeps money within the national economy.\n\n**Limitation:**\n- The variety of goods available for sale is limited by the country's own production capacity and resources.",
+          "keywords": [
+            {"term": "Domestic Trade", "definition": "The exchange of goods and services within the borders of a single country."},
+            {"term": "Retail Trade", "definition": "The sale of goods directly to the final consumer."},
+            {"term": "Wholesale Trade", "definition": "The sale of goods in large quantities to retailers or other businesses."}
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Basis of International Trade",
+          "section_summary": "This section explains the fundamental reason for international trade: differences in the prices of goods and services between nations. These price differences stem from varying resource endowments, levels of technology, and skills. As a result, it is often cheaper and more efficient for a country to import goods it cannot produce efficiently and export goods it can produce cheaply. The section outlines the major advantages of international trade, including more efficient use of world resources, increased output through specialization, access to a greater variety of goods, promotion of political harmony, increased efficiency through competition, and opportunities for technology and knowledge exchange.",
+          "notes": "**Basis for International Trade:**\n- The immediate cause is a **difference in the prices** of goods and services between nations. Differences in prices arise from:\n    - Variations in resource endowments.\n    - Differences in the level of technology and technical skills.\n- A country will import goods it cannot produce efficiently and export goods it can produce at a lower cost.\n\n**Advantages of International Trade:**\n1.  **Efficient Resource Use:** Encourages specialization and division of labor based on comparative advantage.\n2.  **Increased World Output:** Through specialization, global production and consumption increase.\n3.  **Greater Variety of Goods:** Countries can access goods they cannot produce themselves.\n4.  **Promotes Political Harmony:** International cooperation through trade can foster better diplomatic relations.\n5.  **Increased Efficiency:** Domestic firms face competition from abroad, incentivizing them to be more efficient.\n6.  **Economies of Scale:** Firms can expand their markets and achieve lower average costs.\n7.  **Technology and Knowledge Exchange:** Trade facilitates learning and the transfer of technology.",
+          "keywords": [
+            {"term": "International Trade", "definition": "The exchange of goods and services between two or more countries."},
+            {"term": "Specialization", "definition": "The concentration of a country's productive efforts on producing a limited number of goods or services in which it has a comparative advantage."},
+            {"term": "Resource Endowment", "definition": "The stock of factors of production (land, labor, capital, entrepreneurship) that a country possesses."}
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Basic Theories of International Trade",
+          "section_summary": "This section details three foundational theories of international trade. The **Mercantilist View** argued that a nation's wealth was its stock of gold and silver. To increase wealth, they advocated for a positive trade balance (exports > imports) through heavy government regulation and protectionist policies, seeing trade as a zero-sum game. The **Absolute Advantage Theory**, developed by Adam Smith, argued that countries should specialize in producing goods they can make more cheaply than others (using fewer resources). It was a positive-sum game, where both countries can benefit by specializing and trading. The **Comparative Advantage Theory**, developed by David Ricardo, refined this by showing that mutually beneficial trade is possible even if one country has an absolute advantage in producing *all* goods. The key is for a country to specialize in the good where its absolute advantage is greatest (or its disadvantage is smallest) and trade for the other. This is determined by comparing opportunity costs, and it forms the core rationale for free trade.",
+          "notes": "**1. Mercantilism (1500-1800):**\n- **Core Belief:** A nation's wealth and power are measured by its holdings of precious metals (gold, silver).\n- **Policy Goal:** To maximize exports and minimize imports to achieve a favorable (positive) trade balance.\n- **Suggested Policy:** Government intervention (tariffs, quotas) to restrict trade.\n- **View on Trade:** A zero-sum game (one country's gain is another's loss).\n\n**2. Absolute Advantage Theory (Adam Smith, 1776):**\n- **Core Idea:** Countries should specialize in producing goods they can make at a lower cost (using fewer resources) than other countries.\n- **Basis for Trade:** A country has an absolute advantage if it can produce a good with fewer inputs (e.g., labor hours) than its trading partner.\n- **Policy:** Argued for free trade and a laissez-faire approach.\n- **View on Trade:** A positive-sum game (all countries can gain).\n- **Limitation:** It doesn't explain trade when one country is more efficient at producing *all* goods.\n\n**3. Comparative Advantage Theory (David Ricardo, 1817):**\n- **Core Idea:** Mutually beneficial trade can occur even if one country is more efficient (has an absolute advantage) in producing *all* goods.\n- **Basis for Trade:** The key is **opportunity cost** or **relative cost**. A country should specialize in producing and exporting goods where its absolute advantage is greatest (or its absolute disadvantage is smallest) and import goods where its absolute disadvantage is greatest.\n- **Determining Comparative Advantage:**\n    - A country has a **comparative advantage** in producing a good if it has a lower **opportunity cost** of producing that good compared to its trading partner.\n    - Opportunity Cost = What is given up / What is gained.\n- **Conclusion:** Even if a country is inefficient at producing everything, it can still benefit from trade. This provides a powerful argument for free trade.",
+          "keywords": [
+            {"term": "Mercantilism", "definition": "An economic theory that emphasizes a positive trade balance (exports>imports) as a source of national wealth, advocating for protectionist policies."},
+            {"term": "Absolute Advantage", "definition": "The ability of a country to produce a good using fewer resources (more efficiently) than another country."},
+            {"term": "Comparative Advantage", "definition": "The ability of a country to produce a good at a lower opportunity cost than another country."},
+            {"term": "Opportunity Cost", "definition": "The value of the next best alternative foregone when making a choice."},
+            {"term": "Zero-Sum Game", "definition": "A situation where one party's gain is exactly equal to another party's loss."},
+            {"term": "Positive-Sum Game", "definition": "A situation where all parties can gain from an interaction or cooperation."}
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Balance of Payment Components",
+          "section_summary": "This section introduces the Balance of Payments (BoP), a systematic record of all economic transactions between a country and the rest of the world during a given period. It is a double-entry bookkeeping system with debit and credit entries. Credit items (e.g., exports, foreign investment inflows) represent incoming payments, while debit items (e.g., imports, foreign investment outflows) represent outgoing payments. The BoP is divided into two main accounts: The **Current Account** records trade in goods and services, income flows, and current transfers, and includes the trade balance (exports - imports of goods). The **Capital Account** (or financial account) records transactions involving financial assets, such as foreign investment and borrowing/lending. The BoP identity is that the sum of the Current Account and Capital Account balances must be zero (CA + KA = 0), accounting for statistical discrepancies.",
+          "notes": "**Balance of Payments (BoP):** A systematic record of all economic transactions between the residents of a country and the rest of the world during a given period.\n- **Key Features:**\n    - **Double-Entry System:** Every transaction has two entries (credit and debit).\n    - **Credit Items (+):** Transactions that bring money *into* the country (e.g., exports, foreign direct investment inflows).\n    - **Debit Items (-):** Transactions that involve money *leaving* the country (e.g., imports, foreign investment outflows).\n\n**Components of the BoP:**\n1.  **Current Account (CA):** Records transactions involving flows of goods, services, and income.\n    - **Trade Balance:** The balance on merchandise goods (exports - imports).\n        - Trade Surplus: Exports > Imports.\n        - Trade Deficit: Imports > Exports.\n    - **Net Services:** Balance of exports and imports of services (e.g., tourism, banking, insurance).\n    - **Net Transfers:** Balance of unilateral (unrequited) transfers (e.g., foreign aid, remittances, gifts).\n    - **Current Account Balance:** CA = Trade Balance + Net Services + Net Transfers.\n2.  **Capital (Financial) Account (KA):** Records transactions involving the movement of financial capital.\n    - **Capital Inflows (+):** Borrowing from foreigners, sales of domestic assets to foreigners (e.g., foreign investment).\n    - **Capital Outflows (-):** Lending to foreigners, purchase of foreign assets.\n\n**The BoP Identity:**\nCA + KA = 0\n- A current account deficit (CA<0) must be financed by a capital account surplus (KA>0) or by drawing down official reserves.",
+          "keywords": [
+            {"term": "Balance of Payments (BoP)", "definition": "A record of all international transactions between a country and the rest of the world in a given period."},
+            {"term": "Current Account", "definition": "A part of the BoP that records a country's transactions in goods, services, and income."},
+            {"term": "Capital Account", "definition": "A part of the BoP that records a country's transactions in financial assets and liabilities."},
+            {"term": "Trade Balance", "definition": "The difference between a country's exports and imports of goods."},
+            {"term": "Trade Surplus", "definition": "A situation where a country's exports exceed its imports."},
+            {"term": "Trade Deficit", "definition": "A situation where a country's imports exceed its exports."}
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Trade Policies and Strategies",
+          "section_summary": "This section examines how governments intervene in international trade. Trade restrictions are policies designed to limit imports to protect domestic industries. The two main types are tariff restrictions (taxes on imports, like customs duties) and non-tariff restrictions, with the most prominent being quantitative restrictions (import quotas that limit the quantity of a good that can be imported). The reasons for imposing trade restrictions are also discussed, including job protection, protection of infant industries, national security, and cultural reasons. The section then presents the two main trade strategies: Import Substitution (IS), which aims to replace imported goods with domestically produced ones by protecting infant industries; and Export Promotion (EP), which focuses on supporting and incentivizing industries that produce goods for export.",
+          "notes": "**Trade Policy:** Government actions and arrangements that either encourage or restrict international trade.\n\n**Trade Restrictions:**\n1.  **Tariffs (Custom Duties):** A tax imposed on imported goods. A price restriction that raises the price of imports, reducing demand.\n2.  **Non-Tariff Measures (Quantitative Restrictions):**\n    - **Import Quota:** A direct limit on the physical quantity of a good that can be imported.\n\n**Reasons for Trade Restrictions:**\n- Protect domestic employment.\n- Protect infant industries from foreign competition.\n- Maintain domestic standard of living.\n- Equalize production costs with foreign producers.\n- National security.\n- Cultural and sociological considerations.\n\n**Trade Strategies:**\n1.  **Import Substitution (IS) Strategy:** Aims to replace imported goods with domestically produced goods.\n    - **Methods:** Protecting domestic infant industries via tariffs and quotas.\n    - **Rationale:** To reduce dependency on foreign goods and save foreign exchange.\n2.  **Export Promotion (EP) Strategy:** Aims to increase exports by providing incentives and support to domestic producers targeting foreign markets.\n    - **Methods:** Subsidies, tax breaks, and other incentives to make exports more competitive.",
+          "keywords": [
+            {"term": "Tariff", "definition": "A tax imposed on imported goods."},
+            {"term": "Import Quota", "definition": "A physical limit on the quantity of a specific good that can be imported into a country."},
+            {"term": "Infant Industry", "definition": "A new, young domestic industry that is not yet large or efficient enough to compete with established foreign firms."},
+            {"term": "Import Substitution", "definition": "A trade strategy focused on replacing imports with domestically produced goods."},
+            {"term": "Export Promotion", "definition": "A trade strategy focused on encouraging and supporting the production of goods for export."}
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Exchange Rate Determinations",
+          "section_summary": "This section covers foreign exchange markets and exchange rate determination. The exchange rate is the price of one currency in terms of another. It distinguishes between the Nominal Exchange Rate (the price of one currency for another) and the Real Exchange Rate (the relative price of goods between two countries, adjusted for inflation). Two main exchange rate systems are discussed: the Fixed Exchange Rate System, where the central bank sets the rate and intervenes to maintain it; and the Floating Exchange Rate System, where the rate is determined by the forces of supply and demand in the foreign exchange market. The concepts of devaluation/revaluation (under fixed rates) and depreciation/appreciation (under floating rates) are explained in relation to changes in the exchange rate.",
+          "notes": "**Exchange Rate:** The price of one country's currency expressed in terms of another country's currency.\n\n**Nominal Exchange Rate:**\n- The rate at which one currency can be exchanged for another. Often expressed as the domestic price of a foreign currency (e.g., 1 USD = 45 ETB).\n\n**Real Exchange Rate (RER):**\n- A measure of the price of goods abroad relative to the price of goods domestically, adjusted for the nominal exchange rate.\n- **Formula:** RER = (Nominal Exchange Rate * Foreign Price Level) / Domestic Price Level.\n- It indicates how many domestic goods can be exchanged for one foreign good.\n\n**Exchange Rate Systems:**\n1.  **Fixed Exchange Rate:** The country's central bank sets and maintains the value of its currency against a foreign currency or a basket of currencies.\n    - **Devaluation:** An official lowering of the value of the domestic currency in a fixed exchange rate system.\n    - **Revaluation:** An official increase in the value of the domestic currency.\n    - **Advantage:** Provides stability for businesses.\n2.  **Floating (Flexible) Exchange Rate:** The value of the currency is determined by market forces (supply and demand) in the foreign exchange market.\n    - **Depreciation:** A decrease in the value of the domestic currency in a floating system.\n    - **Appreciation:** An increase in the value of the domestic currency.\n    - **Managed Float:** A system where the central bank occasionally intervenes to influence the exchange rate.",
+          "keywords": [
+            {"term": "Exchange Rate", "definition": "The price of one country's currency in terms of another country's currency."},
+            {"term": "Nominal Exchange Rate", "definition": "The rate at which one currency can be exchanged for another."},
+            {"term": "Real Exchange Rate", "definition": "The relative price of goods between two countries, adjusted for the nominal exchange rate."},
+            {"term": "Fixed Exchange Rate", "definition": "An exchange rate system where the value of a currency is fixed by the government."},
+            {"term": "Floating Exchange Rate", "definition": "An exchange rate system where the value of a currency is determined by market forces."},
+            {"term": "Depreciation", "definition": "A fall in the value of a currency in a floating exchange rate system."},
+            {"term": "Appreciation", "definition": "A rise in the value of a currency in a floating exchange rate system."}
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Regional Integration and Globalization Practices in the Ethiopian Context",
+          "section_summary": "This section discusses regional integration (economic integration) and globalization, both significant forces in the modern world economy. Regional integration involves countries in a geographic region reducing trade barriers and coordinating policies to achieve common goals. The stages of integration range from a Free Trade Area (removing internal barriers) to a Customs Union (adding a common external tariff) to a Common Market (allowing free movement of labor and capital) and finally to an Economic Union (harmonizing economic policies). While integration offers benefits like trade creation and political cooperation, it can also lead to trade diversion and loss of sovereignty. The section concludes with a brief overview of globalization, its drivers (trade, technology), its benefits (access to markets, lower costs), and its potential drawbacks (cultural homogenization, exploitation), with a short discussion on its effects on the Ethiopian economy.",
+          "notes": "**Regional Integration (Economic Integration):** An agreement among countries in a geographic region to reduce trade barriers and coordinate economic policies to achieve mutual benefits.\n\n**Stages of Regional Integration:**\n1.  **Free Trade Area:** Members eliminate tariffs and quotas on trade among themselves, but each maintains its own policy towards non-members (e.g., NAFTA).\n2.  **Customs Union:** Free trade among members + a common external tariff on imports from non-members (e.g., the European Union's early stages).\n3.  **Common Market:** Customs union + free movement of labor and capital among member countries (e.g., COMESA).\n4.  **Economic Union:** Common market + harmonization of economic policies (monetary, fiscal, social) (e.g., the European Union).\n\n**Advantages of Integration:**\n- Trade benefits (increased trade).\n- Employment benefits (job creation through market expansion).\n- Improved political cooperation and stability.\n\n**Disadvantages of Integration:**\n- Trade diversion (moving trade from an efficient non-member to a less efficient member).\n- Potential for job losses in high-cost member countries.\n- Loss of national sovereignty (members must follow union rules).\n\n**Globalization:**\n- The increasing interdependence and integration of world economies, cultures, and populations, driven by cross-border trade, investment, and technology.\n- **Benefits:** Access to new markets and technology, lower costs for consumers, and improved living standards.\n- **Drawbacks:** Loss of cultural identity, exploitation of workers, and economic instability.",
+          "keywords": [
+            {"term": "Regional Integration", "definition": "A process where countries in a region cooperate to reduce trade barriers and coordinate policies."},
+            {"term": "Free Trade Area", "definition": "A group of countries that have agreed to eliminate tariffs and trade barriers among themselves."},
+            {"term": "Customs Union", "definition": "A free trade area with a common external tariff against non-member countries."},
+            {"term": "Common Market", "definition": "A customs union that also allows free movement of labor and capital."},
+            {"term": "Economic Union", "definition": "A common market that also harmonizes monetary and fiscal policies."},
+            {"term": "Globalization", "definition": "The increasing interconnectedness of nations through trade, investment, and technology."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "ECONOMIC DEVELOPMENT",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Economic Growth and Economic Development",
+          "section_summary": "This section distinguishes between economic growth and economic development. Economic growth is a narrow, quantitative concept, measured as the percentage increase in a country's real GDP or GDP per capita over time. It is calculated as (GDP_current - GDP_previous) / GDP_previous * 100. Economic development, on the other hand, is a broader, multi-dimensional concept that encompasses not only increases in output and income but also fundamental improvements in living standards, social structures, health, education, and the reduction of inequality and poverty. The section emphasizes that a country can experience economic growth without achieving economic development.",
+          "notes": "**Economic Growth:**\n- **Definition:** A sustained, quantitative increase in a country's real GDP or GDP per capita over time.\n- **Measurement:** Measured as a percentage change.\n    - **GDP Growth Rate:** [(GDP_current - GDP_previous) / GDP_previous] * 100\n- **Focus:** Primarily on increases in aggregate output.\n\n**Economic Development:**\n- **Definition:** A multi-dimensional process involving major improvements in the economic, social, and institutional well-being of a nation's people.\n- **Focus:**\n    - Improving living standards (education, health).\n    - Reducing inequality and poverty.\n    - Enlarging people's freedoms and choices.\n    - Changing social structures and institutions.\n- **Key Difference:** Economic growth is necessary but not sufficient for economic development.",
+          "keywords": [
+            {"term": "Economic Growth", "definition": "A sustained increase in a country's real GDP or GDP per capita over time, measured as a percentage change."},
+            {"term": "Economic Development", "definition": "A broader, multi-dimensional process that includes economic growth along with improvements in well-being, social structures, and poverty reduction."}
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Measures of Productivity",
+          "section_summary": "This section defines productivity as a measure of efficiency, calculated as the ratio of output to input (Productivity = Output / Input). Higher productivity means producing more output from the same input or the same output from less input. Productivity is a key driver of economic growth and competitiveness. A common measure of productivity is GDP per hour worked, which provides a better gauge of labor efficiency than output per employee. The section explains that productivity can be increased by improving technology, enhancing worker skills, or using inputs more efficiently.",
+          "notes": "**Productivity:**\n- **Definition:** A measure of how efficiently inputs (like labor, capital) are converted into outputs (goods and services).\n- **Formula:** Productivity = Output / Input\n- **Common Measure:** GDP per hour worked (labor productivity).\n\n**Ways to Increase Productivity:**\n1.  Increase output using the same input.\n2.  Reduce input while maintaining the same output.\n3.  Increase output with a smaller proportionate increase in input.\n\n**Importance:** Productivity is a primary determinant of economic growth and the standard of living.",
+          "keywords": [
+            {"term": "Productivity", "definition": "A measure of efficiency, calculated as the ratio of output to input."}
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Human Development Index (HDI)",
+          "section_summary": "This section introduces the Human Development Index (HDI), a composite measure of development created by the UNDP. The HDI was developed to provide a more holistic view of development than GDP alone, focusing on three key dimensions: a long and healthy life (life expectancy at birth), access to knowledge (education), and a decent standard of living (GNI per capita). The section explains how each component index is calculated (using a min-max formula) and then combined into the overall HDI score. It presents data on Ethiopia's HDI value and ranking (low human development category) and discusses both the strengths and weaknesses of the HDI as a development measure.",
+          "notes": "**Human Development Index (HDI):** A composite index developed by the UNDP to measure average achievement in three basic dimensions of human development:\n\n1.  **A Long and Healthy Life:** Measured by life expectancy at birth.\n2.  **Access to Knowledge:** Measured by expected years of schooling and mean years of schooling.\n3.  **A Decent Standard of Living:** Measured by GNI per capita (PPP $).\n\n**Calculation of HDI:**\n- Each of the three dimensions is expressed as a dimension index between 0 and 1.\n- **Dimension Index Formula:** (Actual Value - Minimum Value) / (Maximum Value - Minimum Value).\n- The HDI is the geometric mean of the three dimension indices.\n\n**Ethiopia's HDI (2019):**\n- HDI Value: 0.485.\n- Category: Low human development.\n- Global Rank: 173 out of 189 countries.\n- Significant progress has been made in all indicators since 2000.\n\n**Evaluation of HDI:**\n- **Strengths:** Provides a broader measure of well-being than GDP alone.\n- **Weaknesses:**\n    - Ignores inequality, poverty, and gender disparity.\n    - Equal weights for different dimensions may be arbitrary.\n    - Factors are bounded, limiting improvement for already developed countries.",
+          "keywords": [
+            {"term": "Human Development Index (HDI)", "definition": "A composite index measuring average achievement in life expectancy, education, and income."},
+            {"term": "Life Expectancy at Birth", "definition": "The average number of years a newborn is expected to live."},
+            {"term": "GNI per capita", "definition": "Gross National Income divided by the population, used as a measure of standard of living."}
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Capability Approach",
+          "section_summary": "This section presents the Capability Approach, pioneered by Amartya Sen, which argues that development should be measured by people's capabilities and freedoms, not just by income. Capabilities are the real opportunities or freedoms a person has to achieve various valuable functionings (states of 'being and doing' like being well-nourished, educated, or having self-respect). The approach distinguishes between a person's actual achievements (functionings) and their potential to achieve them (capabilities). It emphasizes that development should focus on expanding people's substantive freedoms and their ability to make choices, rather than simply increasing aggregate income.",
+          "notes": "**Amartya Sen's Capability Approach:**\n- **Core Idea:** Development should be evaluated by the expansion of people's real freedoms and capabilities, not just by income or economic growth.\n\n**Key Concepts:**\n- **Capabilities (Substantive Freedoms):** The real opportunities and freedom a person has to achieve a life they have reason to value. It is the potential to achieve various 'functionings'.\n- **Functionings:** The various 'beings and doings' a person can achieve, such as being well-fed, being healthy, being educated, or participating in the community.\n- **Conversion Factors:** Personal, social, and environmental conditions that affect a person's ability to convert resources (e.g., income) into functionings.\n\n**Key Distinction:**\n- **Functionings = Achievements** (what a person actually manages to do or be).\n- **Capabilities = Potential** (what a person could do or be if they so chose).\n\n**Implications:**\n- Poverty is understood as a deprivation of capabilities, not just a lack of income.\n- Development policy should focus on removing obstacles to people's freedom and expanding their choices.",
+          "keywords": [
+            {"term": "Capability Approach", "definition": "A development theory that focuses on individual freedoms and the ability to achieve valuable states of being (functionings)."},
+            {"term": "Capabilities", "definition": "The real opportunities and freedoms a person has to achieve various functionings."},
+            {"term": "Functionings", "definition": "The various states of being and doing a person can achieve (e.g., being healthy, being educated)."}
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Sustainable Development",
+          "section_summary": "This section defines sustainable development as development that meets the needs of the present generation without compromising the ability of future generations to meet their own needs. It is a concept that integrates economic growth, social inclusion, and environmental protection (the three pillars of sustainability). The section emphasizes that true development must be both inclusive and environmentally sound to create long-term prosperity and address global challenges like climate change, inequality, and poverty.",
+          "notes": "**Sustainable Development:**\n- **Definition:** Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.\n\n**The Three Pillars of Sustainable Development:**\n1.  **Economic Growth:** Ensuring inclusive and sustainable economic progress.\n2.  **Social Inclusion:** Promoting equity, human rights, and social cohesion.\n3.  **Environmental Protection:** Preserving natural resources and ecosystems for current and future generations.\n\n**Core Idea:**\n- Growth must be inclusive and environmentally sound.\n- Efficient and careful use of resources is essential.",
+          "keywords": [
+            {"term": "Sustainable Development", "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs."}
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Millennium Development Goals (2000-2015)",
+          "section_summary": "This section details the Millennium Development Goals (MDGs), a set of eight ambitious global development goals adopted by the UN in 2000 with a target date of 2015. The goals focused on pressing issues for developing countries, including eradicating extreme poverty and hunger, achieving universal primary education, promoting gender equality, reducing child mortality, improving maternal health, combating major diseases, ensuring environmental sustainability, and fostering a global partnership. The MDGs were revolutionary in providing a unified focus and common language for the international development community. It is noted that while significant progress was made (e.g., halving the extreme poverty rate), achievements were uneven, and some goals, like gender equality, were not fully met.",
+          "notes": "**Millennium Development Goals (MDGs):** A set of eight international development goals established following the Millennium Summit of the United Nations in 2000, with a target date of 2015.\n\n**The 8 MDGs:**\n1.  Eradicate extreme poverty and hunger.\n2.  Achieve universal primary education.\n3.  Promote gender equality and empower women.\n4.  Reduce child mortality.\n5.  Improve maternal health.\n6.  Combat HIV/AIDS, malaria, and other diseases.\n7.  Ensure environmental sustainability.\n8.  Develop a global partnership for development.\n\n**Achievements and Limitations:**\n- **Successes:** Helped lift over 1 billion people out of extreme poverty, made inroads against hunger, and increased primary school enrollment.\n- **Limitations:** Progress was uneven across regions and goals (e.g., MDG 3 and 5 were not fully achieved). Inequalities persisted, and the approach was sometimes seen as top-down.",
+          "keywords": [
+            {"term": "Millennium Development Goals (MDGs)", "definition": "Eight international development goals established in 2000 to be achieved by 2015, focusing on poverty, education, gender, health, and sustainability."}
+          ]
+        },
+        {
+          "section_number": "6.7",
+          "section_title": "The Sustainable Development Goals (2015-2030)",
+          "section_summary": "This section presents the Sustainable Development Goals (SDGs), which succeeded the MDGs in 2015. The SDGs are a more ambitious and universal set of 17 goals that aim to address the unfinished agenda of the MDGs while tackling new and broader challenges related to economic, social, and environmental sustainability. The goals are applicable to all countries, not just developing ones. The section also discusses Ethiopia's performance against the MDGs and its efforts to mainstream the SDGs into its national development plans, such as the second Growth and Transformation Plan (GTP II) and the Ten Year Prosperity Plan. It highlights both the successes (achieving six of the eight MDGs) and the ongoing challenges (low implementation capacity, financial constraints).",
+          "notes": "**Sustainable Development Goals (SDGs):** A collection of 17 interlinked global goals adopted by the UN in 2015 as part of the 2030 Agenda for Sustainable Development. The SDGs are a call for action to end poverty, protect the planet, and ensure prosperity for all by 2030.\n\n**Key Features of SDGs vs. MDGs:**\n- **Scope:** SDGs are more ambitious and comprehensive, covering 17 goals vs. 8 MDGs.\n- **Universality:** SDGs apply to all countries (developed and developing), whereas MDGs were primarily for developing countries.\n- **Integration:** SDGs explicitly integrate economic, social, and environmental dimensions of sustainability.\n\n**Ethiopia and the SDGs:**\n- Ethiopia successfully achieved 6 out of the 8 MDGs.\n- The SDGs have been mainstreamed into Ethiopia's national development frameworks, including the Growth and Transformation Plan II (GTP II) and the Ten Year Prosperity Plan.\n- Key national development priorities in line with the SDGs include agricultural development, industrialization, human resource development, and building a climate-resilient green economy.\n- **Challenges:** Low implementation capacity, scarce financial resources, and macroeconomic instability.\n\n**Agenda 2063:**\n- Africa's blueprint and master plan for transformation into a global powerhouse, launched as a 50-year vision (2013-2063).\n- Africa's parallel framework to the SDGs, focusing on continental integration, democratic governance, and inclusive development.",
+          "keywords": [
+            {"term": "Sustainable Development Goals (SDGs)", "definition": "A set of 17 global goals adopted by the UN in 2015 to achieve a more sustainable and equitable future for all by 2030."},
+            {"term": "Agenda 2063", "definition": "The African Union's strategic framework for the socio-economic transformation of Africa over a 50-year period."}
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "MAIN SECTORS, SECTORIAL POLICIES AND STRATEGIES OF ETHIOPIA",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Overview of Agricultural Policies and Strategies",
+          "section_summary": "This section provides an overview of two major agricultural development strategies: the uni-modal and bi-modal approaches. The uni-modal strategy focuses on intensifying production on small-holder farms, emphasizing equity, poverty reduction, and food security. The bi-modal strategy, in contrast, advocates for a dualistic structure involving both intensified small-holder farming and large-scale commercial farms. It supports commercialization, accumulation of land by entrepreneurial farmers, and is more capital- and technology-intensive. The section lists the characteristics, advantages, and limitations of each strategy. It sets the stage for a historical analysis of Ethiopia's agricultural policies by presenting these two contrasting development paradigms.",
+          "notes": "**Agricultural Strategies:**\n\n**1. Uni-modal Agricultural Strategy:**\n- **Focus:** Intensification of small-holder peasant farms.\n- **Characteristics:**\n  - Pro-poor growth strategy.\n  - Promotes access to modern inputs (seeds, fertilizers).\n  - Focus on food crop production for food security.\n- **Advantages:**\n  - Protects peasant farmers from eviction.\n  - Reduces rural poverty.\n  - Provides political support.\n- **Limitations:**\n  - Less effective for generating marketable surplus.\n  - Difficulty in providing large-scale infrastructure.\n  - Small landholdings limit economies of scale.\n\n**2. Bi-modal Agricultural Strategy:**\n- **Focus:** Dualistic structure (small-holder farms + large-scale commercial farms).\n- **Characteristics:**\n  - Supports a strong commercial sector.\n  - Allows land accumulation by successful farmers.\n  - Promotes diversification and technology transfer.\n- **Advantages:**\n  - Attracts capital and technology investment.\n  - Promotes large-scale diversification.\n- **Limitations:**\n  - Creates social differentiation and inequality.\n  - May lead to eviction of small peasants.\n  - Deprives majority of land.",
+          "keywords": [
+            {"term": "Uni-modal Strategy", "definition": "An agricultural development strategy that focuses on intensifying small-holder farming."},
+            {"term": "Bi-modal Strategy", "definition": "An agricultural development strategy that combines small-holder farming with large-scale commercial agriculture."}
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Specific Policies and Strategies of the Agricultural Sector",
+          "section_summary": "This section provides a historical overview of Ethiopia's agricultural policies across three main regimes: Pre-1974, the Derg Regime, and the Post-1991 period. During the Pre-1974 Imperial period, agriculture was neglected in favor of industry, with limited success from large-scale commercial farms and package projects. The Derg Regime (1974-91) pursued a centrally planned strategy, nationalizing land and promoting collective farms through villagization, which largely failed. The Post-1991 government adopted a pro-poor strategy centered on Agricultural Development-Led Industrialization (ADLI). Key programs included PADETES (Participatory Demonstration and Training Extension System), SDPRP, and PASDEP, all aimed at boosting smallholder productivity. The current government continues this emphasis, focusing on irrigation, mechanization, and agro-processing to drive growth.",
+          "notes": "**Pre-1974 (Imperial Regime):**\n- Agriculture was largely neglected, with priority given to industry.\n- Policies focused on large-scale mechanized commercial farms (LSMCF) and minimum/comprehensive package projects (e.g., CADU, WADU).\n- These projects were limited in scope and failed to transform the sector.\n\n**Derg Regime (1974-1991):**\n- Adopted a centrally planned, socialist strategy.\n- Nationalized all land and commercial farms.\n- Promoted collectivization, villagization, and producer cooperatives.\n- Government controlled markets and forced deliveries at low prices.\n- These policies severely hampered agricultural productivity.\n\n**Post-1991 (EPRDF and Current Regime):**\n- Adopted Agricultural Development-Led Industrialization (ADLI) as the core strategy, viewing agriculture as the engine for growth.\n- **PADETES (1994):** An extension program to deliver fertilizer, seeds, and credit to smallholders.\n- **SDPRP (Sustainable Development and Poverty Reduction Program):** Integrated rural and agricultural development.\n- **PASDEP (Plan for Accelerated and Sustained Development to End Poverty):** Emphasized large-scale commercial agriculture and market access.\n- **Current Focus (10-Year Prosperity Plan):** Prioritizes irrigation, financing, mechanization, post-harvest loss reduction, and agro-processing.",
+          "keywords": [
+            {"term": "Agricultural Development-Led Industrialization (ADLI)", "definition": "A development strategy where the agricultural sector is the driving force for the rest of the economy."},
+            {"term": "PADETES", "definition": "A major extension program launched in 1994 to provide modern inputs (fertilizer, improved seeds) to smallholder farmers."}
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Problems of the Agricultural Sector",
+          "section_summary": "This section identifies the key challenges and constraints facing the Ethiopian agricultural sector. These problems are categorized into natural and human-made issues. Natural problems are dominated by recurrent drought and its negative effects. Human-made problems include land fragmentation and over-cultivation, lack of infrastructure (roads, markets), lack of credit access, insecure land tenure, widespread soil erosion, and the use of backward traditional farming methods. The section also proposes a set of possible remedies to address these challenges, such as promoting irrigation, improving land rights, expanding extension services, and investing in infrastructure.",
+          "notes": "**Problems of the Agricultural Sector:**\n- **Natural Problems:**\n    - Recurrent drought and heavy dependence on erratic rainfall.\n- **Human-Made Problems:**\n    1.  **Land Fragmentation:** Shrinking landholding sizes due to population pressure.\n    2.  **Lack of Infrastructure:** Poor roads and communication, limiting access to markets and information.\n    3.  **Lack of Credit Facilities:** Limited access to finance for purchasing inputs.\n    4.  **Insecure Land Tenure:** Lack of effective land ownership, reducing incentives for long-term investment.\n    5.  **Erosion and Land Degradation:** Loss of soil fertility.\n    6.  **Traditional Practices:** Use of backward technology, unproductive consumption.\n\n**Possible Remedies:**\n- Promote irrigation (small and large-scale).\n- Establish secure land tenure rights.\n- Strengthen agricultural extension services.\n- Improve infrastructure (roads, markets).\n- Develop drought-resistant crops.",
+          "keywords": [
+            {"term": "Land Fragmentation", "definition": "The division of agricultural land into smaller and smaller plots, reducing efficiency."}
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Specific Policies and Strategies of the Industrial Sector",
+          "section_summary": "This section traces the history of industrial policy in Ethiopia. The **Imperial Regime (pre-1974)** emphasized import-substituting industries with a strong role for private foreign investment. The **Derg Regime (1974-91)** nationalized industry, implemented socialist policies, and led to a sharp decline in the manufacturing sector. The **Post-1991 (EPRDF)** government shifted to an export-promotion strategy, formalized in the 2003 Industrial Development Strategy (IDS), which is based on ADLI. The IDS prioritizes labor-intensive sectors (textiles, leather, agro-processing) and champions the concept of a 'developmental state' with a strong, guiding role for the government. The section also highlights the recent development of **industrial parks**, which have become a key tool for attracting foreign investment and boosting exports. Finally, it lists the major problems facing the industrial sector (finance, technology, market, inputs) and suggests remedies (improving the business climate, skills development, and infrastructure).",
+          "notes": "**Imperial Regime (Pre-1974):**\n- Focus on import-substituting light industries.\n- Reliance on foreign private investment for capital.\n- Incentives (tariffs, tax breaks) for manufacturing.\n- Capital-intensive and foreign-dominated industrial base.\n\n**Derg Regime (1974-1991):**\n- Nationalized industries, central planning.\n- Socialist economic policy, restrictions on private sector.\n- Manufacturing sector declined sharply.\n- Adopted a mixed economy policy in 1990, but it was too late.\n\n**Post-1991 (EPRDF and Current Regime):**\n- Shifted to an export-promotion strategy.\n- **Industrial Development Strategy (IDS, 2003):**\n    - Based on Agricultural Development-Led Industrialization (ADLI).\n    - Prioritizes labor-intensive industries (textiles, leather, agro-processing).\n    - Emphasizes the role of the private sector as the engine of growth, with the state playing a guiding role (developmental state).\n- **Industrial Parks:** A key feature of recent policy to attract FDI, create jobs, and boost exports. Parks are specialized and sustainable.\n\n**Problems of the Industrial Sector (Post-1991):**\n- **Finance:** Lack of surplus from agriculture, high collateral requirements.\n- **Marketing:** Weak domestic demand, competition from cheap imports, lack of market info.\n- **Technology:** Lack of appropriate technology, reliance on imported raw materials.\n- **Inputs:** Shortage of foreign exchange for raw materials.\n\n**Possible Remedies:**\n- Maintain macroeconomic stability.\n- Improve financial and infrastructure services.\n- Develop skilled manpower.\n- Create an efficient legal framework.",
+          "keywords": [
+            {"term": "Industrial Development Strategy (IDS)", "definition": "Ethiopia's comprehensive industrial strategy formulated in 2003, emphasizing export-led, labor-intensive industries based on ADLI."},
+            {"term": "Import Substitution", "definition": "A trade policy that aims to replace foreign imports with domestic production."},
+            {"term": "Developmental State", "definition": "A state that plays a proactive role in guiding and fostering economic development."},
+            {"term": "Industrial Park", "definition": "A designated area of land developed with infrastructure to attract manufacturing investment."}
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "The Service Sector Policies and Strategies in Ethiopia",
+          "section_summary": "This final section examines the service sector, a diverse mix of activities (retail, hotels, education, health, transport, finance). It provides a historical overview of policies for key service sub-sectors. The **Education Sector** shifted from a neglected state pre-1974 to being nationalized and politicized under the Derg, and has since seen expansion through the Education Sector Development Program (ESDP) post-1991, though it still faces problems of quality and access. The **Health Sector** saw the implementation of the Health Policy (1993) and the Health Sector Development Plan (HSDP) post-1991, focusing on decentralization and primary health care, but still struggles with inadequate infrastructure. The **Transport Sector** was liberalized in 1992, allowing private participation. The **Tourism Sector** has significant potential but is hindered by inadequate infrastructure and a lack of coordination, though recent policy efforts aim to address these challenges.",
+          "notes": "**Education Sector:**\n- **Pre-1974:** Neglected, with a focus on elite education.\n- **Derg Regime:** Nationalized, politicized, and aimed at promoting socialist ideology.\n- **Post-1991:** Implemented the Education Sector Development Program (ESDP) with components for primary, secondary, technical, and tertiary education.\n- **Problems:** Lack of quality, accessibility, and equity; gender inequality; resource constraints.\n\n**Health Sector:**\n- **Pre-1974:** No definite policy until 1963.\n- **Derg Regime:** Declared primary health care.\n- **Post-1991:** Adopted the National Health Policy (1993) and Health Sector Development Plan (HSDP). Focused on decentralization, preventive care, and improving maternal and child health.\n- **Problems:** Uneven distribution of facilities, inadequate funding, low quality, high mortality rates.\n\n**Transport Sector:**\n- **Derg Regime:** Strict government regulation.\n- **Post-1991:** Liberalization in 1992, allowing for private participation (Proclamation 14/1992).\n\n**Tourism Sector:**\n- **Potential:** Significant historical, natural, and cultural attractions.\n- **Problems:** Inadequate infrastructure, lack of coordination, shortage of trained labor, poor promotion.\n- **Post-2009:** Launched a tourism development policy to guide the sector, but implementation lags.\n- **Solutions:** Improve infrastructure, allocate budget, provide training, and promote the country's attractions.",
+          "keywords": [
+            {"term": "ESDP", "definition": "Education Sector Development Program, Ethiopia's main framework for education policy post-1991."},
+            {"term": "HSDP", "definition": "Health Sector Development Plan, Ethiopia's main framework for health policy post-1991."}
+          ]
+        }
+      ]
+    }
+  ],
+  "presentation_slides": [
+    {
+      "chapter": 1,
+      "section": "1.1",
+      "slides": [
+        "Slide 1: Introduction to Consumer Behavior and Demand\n- Overview of the unit: Consumers' goal is to maximize satisfaction from consumption given limited resources.\n- Two main approaches: Cardinal Utility and Ordinal Utility.\n- This section reviews the Cardinal Utility Approach.",
+        "Slide 2: Cardinal Utility Theory\n- Assumes utility (satisfaction) can be measured in absolute numbers called 'utils'.\n- Key concept: Utility is measurable and quantifiable.",
+        "Slide 3: Marginal Utility (MU)\n- Definition: The additional satisfaction gained from consuming one more unit of a good.\n- Formula: MU = ΔTotal Utility / ΔQuantity.",
+        "Slide 4: Law of Diminishing Marginal Utility\n- Principle: As consumption of a good increases, the MU from each additional unit eventually decreases.\n- Assumes other factors remain constant (ceteris paribus).",
+        "Slide 5: Consumer Optimum (Equilibrium)\n- Goal: Maximize total utility given a limited money income.\n- Condition: The marginal utility per dollar spent must be equal for all goods.\n- Formula: MUx/Px = MUy/Py.\n- The consumer spends their entire income.",
+        "Slide 6: Deriving the Demand Curve\n- The demand curve can be derived from the marginal utility curve.\n- If utility is measured in monetary units, the positive segment of the MU curve IS the demand curve.\n- This shows the inverse relationship between price and quantity demanded."
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "1.2",
+      "slides": [
+        "Slide 1: Introduction to Ordinal Utility Theory\n- Utility cannot be measured in absolute numbers (cardinal).\n- Consumers can rank or order their preferences.\n- Key tools: Indifference Curves and the Budget Line (covered later).",
+        "Slide 2: Assumptions of Ordinal Utility Theory\n- Consumers are rational.\n- Utility is ordinally measurable (ranked).\n- Diminishing Marginal Rate of Substitution (MRS).\n- Complete ordering, transitivity, and consistency of preferences.\n- Limited money income and non-satiation (more is preferred to less).",
+        "Slide 3: Indifference Curve (IC)\n- Definition: A curve showing combinations of two goods that give the consumer the same level of total utility.\n- The consumer is 'indifferent' between any point on the curve.\n- An iso-utility curve.",
+        "Slide 4: Indifference Schedule and Map\n- Schedule: A table of combinations providing equal utility.\n- Map: A set of indifference curves. Higher curves represent higher levels of satisfaction.",
+        "Slide 5: Properties of Standard Indifference Curves\n1. Downward sloping.\n2. Do not intersect each other.\n3. Higher curves are preferred to lower ones.\n4. Convex to the origin.",
+        "Slide 6: Marginal Rate of Substitution (MRS)\n- Definition: The rate at which a consumer is willing to trade one good (Y) for another (X) while maintaining the same utility.\n- Formula: MRSxy = ΔY / ΔX.\n- It is the (negative) slope of the indifference curve.",
+        "Slide 7: MRS and Marginal Utility\n- Derivation of MRS from marginal utilities.\n- Formula: MRSxy = - MUx / MUy.\n- Importance: Shows the trade-off the consumer is willing to make.",
+        "Slide 8: Diminishing MRS\n- Reason for the convex shape of the indifference curve.\n- As a consumer has more of good X, they are willing to give up less of good Y to get one more unit of X.",
+        "Slide 9: Special Types of Indifference Curves\n- Perfect Substitutes:\n    - Constant rate of substitution.\n    - Indifference curve is a straight line.\n    - Utility function: U = aX + bY.",
+        "Slide 10: Special Types of Indifference Curves (Cont.)\n- Perfect Complements:\n    - Goods consumed in fixed proportions.\n    - Indifference curve is L-shaped.\n    - Utility function: U = Min(aX, bY)."
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "1.3",
+      "slides": [
+        "Slide 1: Introduction to the Budget Line\n- Indifference curves show what a consumer wants (preferences).\n- The budget line shows what a consumer can afford (constraints).\n- It combines income and market prices.",
+        "Slide 2: Budget Line (Constraint)\n- Definition: A graph showing all affordable combinations of two goods a consumer can buy with a given income and given prices.\n- Budget Equation: M = PxX + PyY.",
+        "Slide 3: Key Features of the Budget Line\n- Intercepts:\n    - X-intercept (M/Px): Max units of good X if all income is spent on X.\n    - Y-intercept (M/Py): Max units of good Y if all income is spent on Y.\n- Feasible Area: On or below the line.\n- Non-Feasible Area: Above the line.",
+        "Slide 4: Slope of the Budget Line\n- Formula: Slope = -Px / Py.\n- It represents the market trade-off between the two goods.\n- It is constant because prices are fixed.",
+        "Slide 5: Factors Affecting the Budget Line\n- The position of the budget line changes with:\n    1. A change in consumer income.\n    2. A change in the price of one good.",
+        "Slide 6: Effect of a Change in Income\n- Prices unchanged.\n- Income increases: Parallel outward shift (can buy more of both).\n- Income decreases: Parallel inward shift (can buy less of both).",
+        "Slide 7: Effect of a Change in Price\n- Income and the other price unchanged.\n- Price of X falls: X-intercept increases, budget line rotates outward.\n- Price of X rises: X-intercept decreases, budget line rotates inward."
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "1.4",
+      "slides": [
+        "Slide 1: Consumer Optimum (Equilibrium)\n- The goal is to maximize utility given the budget constraint.\n- This is achieved at the highest attainable indifference curve.\n- The equilibrium point is where the budget line is tangent to the highest possible IC.",
+        "Slide 2: Condition for Equilibrium\n- At the tangency point:\n    Slope of IC = Slope of BL\n    MRSxy = Px / Py\n- This ensures the consumer's trade-off between goods matches the market trade-off.",
+        "Slide 3: Graphical Representation of Consumer Equilibrium\n- The consumer reaches point E on the budget line, which is tangent to indifference curve IC3.\n- Points A and B represent lower levels of utility.\n- Points above the budget line (G) are unattainable.",
+        "Slide 4: Effects of Changes in Income\n- A change in income shifts the budget line.\n- New equilibrium points are formed.\n- Income Consumption Curve (ICC): Connects all equilibrium points resulting from changes in income.",
+        "Slide 5: The Income Consumption Curve (ICC)\n- Definition: The locus of consumer equilibrium points as income changes, holding prices constant.\n- For normal goods, the ICC slopes upward (consumption increases with income).",
+        "Slide 6: Effects of Changes in Prices\n- A change in the price of one good rotates the budget line.\n- New equilibrium points are formed.\n- Price Consumption Curve (PCC): Connects all equilibrium points resulting from changes in the price of one good.",
+        "Slide 7: The Price Consumption Curve (PCC) and Demand\n- The PCC shows how the optimal consumption of a good changes as its price changes.\n- From the PCC, we can derive the individual demand curve.\n- The demand curve shows the inverse relationship between price and quantity demanded."
+      ]
+    },
+    {
+      "chapter": 2,
+      "section": "2.1",
+      "slides": [
+        "Slide 1: Introduction to Market Structures\n- Market: A mechanism for the exchange of goods and services.\n- Market Structure: The organizational characteristics of a market.\n- Key criteria: Number of firms, type of product, entry barriers.",
+        "Slide 2: The Four Basic Market Structures\n- From most to least competitive:\n1. Perfect Competition\n2. Monopolistic Competition\n3. Oligopoly\n4. Pure Monopoly",
+        "Slide 3: Summary of Characteristics\n- Perfect Competition: Many sellers, homogenous product, no barriers, price taker.\n- Monopolistic Competition: Many sellers, differentiated product, low barriers, some price control.\n- Oligopoly: Few sellers, homogenous/differentiated, high barriers, interdependent.\n- Monopoly: One seller, unique product, high barriers, price maker."
+      ]
+    },
+    {
+      "chapter": 2,
+      "section": "2.2",
+      "slides": [
+        "Slide 1: Perfect Competition Assumptions\n- Many buyers and sellers.\n- Homogeneous (identical) product.\n- Free entry and exit of firms.\n- Perfect information.\n- Firms are price takers.",
+        "Slide 2: Demand and Revenue Curves\n- Firm's Demand Curve: Perfectly elastic (horizontal) at market price P.\n- P = AR = MR.\n- Total Revenue (TR) is a straight line from the origin with a slope of P.",
+        "Slide 3: Cost Curves\n- Standard U-shaped curves (ATC, AVC, MC).\n- Shape is due to the law of diminishing marginal returns.",
+        "Slide 4: Short-Run Equilibrium: MR = MC\n- Profit maximized where MR = MC.\n- Condition 1: MR = MC.\n- Condition 2: MC must be rising at the point of intersection.",
+        "Slide 5: Short-Run Profit Scenarios\n- Supernormal Profit: P > ATC.\n- Normal Profit (Break-even): P = ATC.\n- Losses: P < ATC (but continue producing if P > AVC).\n- Shutdown Point: P = minimum AVC.",
+        "Slide 6: Short-Run Supply Curve\n- The firm's supply curve is the portion of the MC curve above the minimum AVC.\n- It shows the quantity the firm will supply at different price levels.",
+        "Slide 7: Long-Run Equilibrium\n- Free entry and exit drive economic profits to zero.\n- Long-run equilibrium condition:\n    P = LMC = LAC = SMC = SAC.\n- Firms earn only normal profits and produce at minimum ATC."
+      ]
+    },
+    {
+      "chapter": 2,
+      "section": "2.3",
+      "slides": [
+        "Slide 1: Pure Monopoly Characteristics\n- Single seller.\n- Unique product with no close substitutes.\n- Very high barriers to entry.\n- Firm is a price maker.",
+        "Slide 2: Demand and Revenue Curves\n- The monopolist's demand curve is the market demand curve (downward sloping).\n- Marginal Revenue (MR) is less than Price (P) because to sell more, the monopolist must lower the price on all units.\n- MR curve lies below the demand curve.",
+        "Slide 3: Short-Run Equilibrium\n- Profit maximization: MR = MC (and MC is rising).\n- The monopolist chooses the output (Q*) where MR = MC.\n- The price is set from the demand curve at Q* (P* > MC).\n- Can earn supernormal profits in the short run and long run due to barriers to entry.",
+        "Slide 4: Price Discrimination\n- Definition: Charging different prices for the same good to different consumers to capture more consumer surplus.\n- Types:\n    1. First-degree (Perfect): Charge each consumer their max willingness to pay.\n    2. Second-degree: Price changes with quantity (bulk discounts).\n    3. Third-degree: Different prices for different groups (students, seniors)."
+      ]
+    },
+    {
+      "chapter": 2,
+      "section": "2.4",
+      "slides": [
+        "Slide 1: Monopolistic Competition Characteristics\n- Many firms.\n- Differentiated products.\n- Easy entry and exit.\n- Firms have some price control.",
+        "Slide 2: Product Differentiation\n- Firms try to make their products unique.\n- Can be based on real differences (quality) or spurious differences (branding, advertising).\n- Gives firms some market power.",
+        "Slide 3: Demand and Cost Curves\n- Demand curve is downward sloping but more elastic than a monopoly's.\n- Faces standard U-shaped cost curves.\n- MR curve lies below the demand curve.",
+        "Slide 4: Short-Run Equilibrium\n- Profit maximization: MR = MC (and MC rising).\n- Price set on the demand curve at the profit-maximizing output.\n- In the short run, firms can earn supernormal profits.",
+        "Slide 5: Industry vs. Product Group\n- Because products are differentiated, there is no 'industry' of identical products.\n- Instead, firms producing similar products form a 'product group'."
+      ]
+    },
+    {
+      "chapter": 2,
+      "section": "2.5",
+      "slides": [
+        "Slide 1: Oligopoly Characteristics\n- Few dominant firms.\n- Strategic interdependence (firms must consider rivals' reactions).\n- Can have homogeneous or differentiated products.\n- High barriers to entry.",
+        "Slide 2: Collusive Oligopoly\n- Firms cooperate with each other to maximize joint profits.\n- Types:\n    - Cartel: Formal agreement on price, output, and market shares.\n    - Price Leadership: Implicit agreement where one dominant firm sets the price and others follow.",
+        "Slide 3: Non-Collusive Oligopoly\n- Firms compete aggressively and independently.\n- Example: Price wars.\n- Outcome: Price inflexibility (sticky prices) due to fear of retaliation."
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "3.1",
+      "slides": [
+        "Slide 1: Introduction to National Income Accounting\n- It's the official measurement system for a country's economic activity.\n- It measures flow of income, expenditure, and production.\n- Key measure: Gross Domestic Product (GDP)."
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "3.2",
+      "slides": [
+        "Slide 1: GDP and GNP Defined\n- GDP: Total market value of all final goods and services produced within a country's borders in a given year.\n- GNP: Total market value of all final goods and services produced by a country's citizens and companies, regardless of location.",
+        "Slide 2: The Difference Between GDP and GNP\n- The difference is Net Foreign Factor Income (NFFI).\n- GNP = GDP + Net Factor Income from Abroad.\n  - Net Factor Income = Income from domestic factors abroad - Income from foreign factors domestically.\n- GDP focuses on geography; GNP focuses on ownership.",
+        "Slide 3: Flow vs. Stock\n- Flow: A quantity measured over a period of time (e.g., GDP, income).\n- Stock: A quantity measured at a specific point in time (e.g., wealth, capital stock)."
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "3.3",
+      "slides": [
+        "Slide 1: The Three Approaches to Measuring GDP\n- All three methods should yield the same result.\n1. Expenditure Approach\n2. Income Approach\n3. Value-Added Approach",
+        "Slide 2: The Expenditure Approach\n- GDP = C + I + G + NX\n- C (Consumption): Household spending.\n- I (Investment): Business spending on capital goods.\n- G (Government Purchases): Government spending on goods and services.\n- NX (Net Exports): Exports - Imports.",
+        "Slide 3: The Income Approach\n- Sum of all incomes earned by factors of production.\n- Components: Wages, Rent, Interest, Profit.\n- Adjustments: Add Depreciation and Net Indirect Taxes to arrive at GDP.",
+        "Slide 4: The Value-Added Approach\n- Sums the value added at each stage of production.\n- Value Added = Sales Revenue - Cost of Intermediate Goods.\n- This approach avoids double counting.",
+        "Slide 5: The Circular Flow of Income\n- A model showing the interdependence of expenditure, production, and income.\n- It illustrates why the three approaches are equivalent."
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "3.4",
+      "slides": [
+        "Slide 1: Problems with GDP Measurement\n- Double Counting: Counting intermediate goods along with final goods.\n- Solution: Use the Value-Added Approach.\n- Informal Sector: Unrecorded economic activities lead to underestimation.",
+        "Slide 2: Other Problems\n- Excludes Non-Market Activities (e.g., housework).\n- Excludes Sales of Used Goods.\n- Excludes Transfer Payments.\n- Difficulty in Accounting for Quality Improvements."
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "3.5",
+      "slides": [
+        "Slide 1: Nominal vs. Real GDP\n- Nominal GDP: Values goods at current prices.\n- Real GDP: Values goods at base-year prices. It isolates the effect of quantity changes.",
+        "Slide 2: The GDP Deflator\n- A broad measure of the price level for all domestically produced goods and services.\n- Formula: (Nominal GDP / Real GDP) * 100.",
+        "Slide 3: The Consumer Price Index (CPI)\n- Measures the price of a fixed basket of goods and services bought by the typical consumer.\n- Formula: (Cost of Basket in Current Year / Cost of Basket in Base Year) * 100.",
+        "Slide 4: GDP Deflator vs. CPI\n- GDP Deflator: All goods produced domestically; basket changes.\n- CPI: Fixed basket of consumer goods (including imports); basket is fixed.",
+        "Slide 5: The Inflation Rate\n- Definition: The percentage change in the price level.\n- Formula: [(CPI in current year - CPI in previous year) / CPI in previous year] * 100."
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "3.6",
+      "slides": [
+        "Slide 1: Other National Income Measures\n- NDP (Net Domestic Product): GDP - Depreciation.\n- NI (National Income): Total income earned by factors of production.\n- PI (Personal Income): Income actually received by households.\n- DPI (Disposable Personal Income): Income after taxes, available for consumption or saving.\n- Per Capita GDP: GDP / Population."
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "3.7",
+      "slides": [
+        "Slide 1: GDP and Income Distribution\n- GDP is an average, not a distribution.\n- It doesn't show if growth benefits everyone.\n- Economists use other measures (e.g., poverty rates, Gini coefficient) to understand distribution."
+      ]
+    },
+    {
+      "chapter": 4,
+      "section": "4.1",
+      "slides": [
+        "Slide 1: Consumption and Disposable Income\n- Consumption is a key component of aggregate demand.\n- Disposable Income (Yd): Income after taxes, which determines consumption and saving.\n  - Formula: Yd = Y - T",
+        "Slide 2: The Keynesian Consumption Function\n- Formula: C = C0 + cYd\n- C0 (Autonomous Consumption): Consumption that occurs even at zero income. Positives.\n- c (MPC): The marginal propensity to consume.\n- cYd (Induced Consumption): Consumption that depends on income.",
+        "Slide 3: Average Propensity to Consume (APC)\n- Formula: APC = C / Yd\n- The fraction of total income that is spent on consumption.\n- Keynes argued that APC falls as income rises.",
+        "Slide 4: Marginal Propensity to Consume (MPC)\n- Formula: MPC = ΔC / ΔYd\n- The fraction of any change in income that is spent on consumption.\n- 0 < MPC < 1.",
+        "Slide 5: Determinants of Consumption\n- Income (primary factor).\n- Distribution of income.\n- Expectations about future income/prices.\n- Interest rates.\n- Wealth."
+      ]
+    },
+    {
+      "chapter": 4,
+      "section": "4.2",
+      "slides": [
+        "Slide 1: Saving Defined\n- Saving (S): The part of disposable income that is not consumed.\n- Formula: S = Yd - C",
+        "Slide 2: The Saving Function\n- Derived from the consumption function.\n- Formula: S = -C0 + (1 - c)Yd\n- -C0: Represent dissaving at zero income.\n- (1 - c): The Marginal Propensity to Save (MPS).",
+        "Slide 3: Average Propensity to Save (APS)\n- Formula: APS = S / Yd.\n- Identity: APC + APS = 1.",
+        "Slide 4: Marginal Propensity to Save (MPS)\n- Formula: MPS = ΔS / ΔYd.\n- Identity: MPC + MPS = 1.",
+        "Slide 5: Determinants of Saving\n- Income (primary factor).\n- Income distribution.\n- Expectations.\n- Interest rates.\n- Wealth."
+      ]
+    },
+    {
+      "chapter": 4,
+      "section": "4.3",
+      "slides": [
+        "Slide 1: The Relationship Between Consumption and Saving\n- They are complements: Yd = C + S.\n- Key Identities:\n  - APC + APS = 1\n  - MPC + MPS = 1",
+        "Slide 2: Graphical Analysis\n- 45-degree line: Where expenditure equals income.\n- Break-even point: Where C = Yd (Saving is zero).\n- Below this point: Dissaving.\n- Above this point: Positive saving."
+      ]
+    },
+    {
+      "chapter": 4,
+      "section": "4.4",
+      "slides": [
+        "Slide 1: Investment\n- Definition: Spending on capital goods for future production.\n- Distinguish from financial investment.\n- Types:\n  - Gross Investment: Total spending on new capital.\n  - Net Investment: Gross Investment - Depreciation.",
+        "Slide 2: Types of Investment\n- Autonomous Investment: Independent of income level (e.g., government projects).\n- Induced Investment: Dependent on income level and profit expectations.",
+        "Slide 3: Determinants of Investment\n- Real interest rate (inverse relationship).\n- Expectations about future sales and profits.\n- Business taxes.",
+        "Slide 4: Role of Investment in Economic Growth\n- Investment adds to the capital stock.\n- A larger capital stock leads to higher productivity and economic growth.",
+        "Slide 5: The Accelerator Theory\n- Investment is driven by the rate of change in economic output (GDP).\n- Formula: It = α (ΔY).\n- A change in aggregate demand leads to a proportionally larger change in investment."
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "5.1",
+      "slides": [
+        "Slide 1: Domestic Trade\n- Definition: Exchange of goods/services within a country.\n- Types:\n  - Retail: Selling to final consumers.\n  - Wholesale: Selling to retailers or businesses.",
+        "Slide 2: Importance of Domestic Trade\n- Distributes goods across the country.\n- Improves efficiency and resource allocation.\n- Creates employment.\n- Reduces dependence on foreign goods."
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "5.2",
+      "slides": [
+        "Slide 1: International Trade\n- Definition: Exchange of goods/services between countries.\n- Basis for trade: Differences in prices of goods between nations.\n- Reasons for price differences: Resources, technology, skills.",
+        "Slide 2: Advantages of International Trade\n- Efficient use of world resources.\n- Specialization leads to increased world output.\n- Consumers get a wider variety of goods.\n- Promotes political cooperation.\n- Increases efficiency through competition.\n- Facilitates technology transfer."
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "5.3",
+      "slides": [
+        "Slide 1: Mercantilism\n- Wealth = holding of gold and silver.\n- Goal: Positive trade balance (exports > imports).\n- Policy: Government protection (tariffs, quotas).\n- View: Trade is a zero-sum game.",
+        "Slide 2: Absolute Advantage Theory (Smith)\n- Specialize in goods you can make cheaper than others.\n- Basis: Absolute cost advantage.\n- Policy: Free trade (laissez-faire).\n- View: Trade is a positive-sum game.",
+        "Slide 3: Comparative Advantage Theory (Ricardo)\n- Trade is beneficial even if one country is better at producing everything.\n- Basis: Opportunity cost. Specialize where your absolute advantage is greatest or disadvantage is smallest.\n- Key: Trade based on relative costs, not absolute costs."
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "5.4",
+      "slides": [
+        "Slide 1: Balance of Payments (BoP)\n- Systematic record of international transactions.\n- Credit items (+): Transactions bringing money in (exports).\n- Debit items (-): Transactions sending money out (imports).",
+        "Slide 2: Components of BoP\n- Current Account:\n  - Trade Balance (goods).\n  - Net Services.\n  - Net Transfers.\n- Capital Account:\n  - Financial capital flows (investment, borrowing).\n- Identity: CA + KA = 0."
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "5.5",
+      "slides": [
+        "Slide 1: Trade Restrictions\n- Tariffs: Taxes on imports (price restriction).\n- Import Quotas: Limits on quantity of imports (quantity restriction).\n- Reasons: Protect jobs, infant industries, national security.",
+        "Slide 2: Trade Strategies\n- Import Substitution (IS): Replace imports with domestic production.\n- Export Promotion (EP): Encourage production for export markets."
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "5.6",
+      "slides": [
+        "Slide 1: Exchange Rates\n- The price of one currency in terms of another.\n- Nominal Exchange Rate: The basic rate of exchange.\n- Real Exchange Rate: Adjusted for inflation.",
+        "Slide 2: Exchange Rate Systems\n- Fixed: Government sets the rate.\n- Floating: Rate determined by market forces (supply and demand).",
+        "Slide 3: Changes in Exchange Rates\n- Fixed System:\n  - Devaluation: Official decrease in value.\n  - Revaluation: Official increase in value.\n- Floating System:\n  - Depreciation: Decrease in value (market-driven).\n  - Appreciation: Increase in value (market-driven)."
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "5.7",
+      "slides": [
+        "Slide 1: Regional Integration\n- Countries in a region cooperate to reduce trade barriers.\n- Stages:\n  1. Free Trade Area\n  2. Customs Union\n  3. Common Market\n  4. Economic Union",
+        "Slide 2: Globalization\n- Increasing interdependence of world economies.\n- Driven by trade, investment, and technology.\n- Benefits: Access to new markets, lower costs.\n- Drawbacks: Loss of cultural identity, worker exploitation."
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "6.1",
+      "slides": [
+        "Slide 1: Economic Growth\n- A quantitative increase in a country's real GDP.\n- Measured as a percentage change.\n- Formula: [(GDP_current - GDP_previous)/GDP_previous]*100.",
+        "Slide 2: Economic Development\n- A multi-dimensional process.\n- Includes improvements in living standards, health, education, and poverty reduction.\n- Broader concept than growth."
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "6.2",
+      "slides": [
+        "Slide 1: Productivity\n- A measure of efficiency.\n- Formula: Output / Input.\n- Increased by better technology, skills, and organization.\n- A key driver of economic growth."
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "6.3",
+      "slides": [
+        "Slide 1: Human Development Index (HDI)\n- A composite measure of development by UNDP.\n- Dimensions:\n  1. Long and healthy life (life expectancy).\n  2. Access to knowledge (education).\n  3. Decent standard of living (GNI per capita).",
+        "Slide 2: Strengths and Weaknesses of HDI\n- Strengths: Broader measure than GDP alone.\n- Weaknesses: Ignores inequality, gender disparity, and political freedom."
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "6.4",
+      "slides": [
+        "Slide 1: The Capability Approach (Sen)\n- Focus on what people can do and be (capabilities).\n- Emphasis on freedom and choice.\n- Distinguishes between functionings (achievements) and capabilities (potential)."
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "6.5",
+      "slides": [
+        "Slide 1: Sustainable Development\n- Definition: Meets the needs of the present without harming future generations.\n- Three pillars: Economic growth, social inclusion, environmental protection."
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "6.6",
+      "slides": [
+        "Slide 1: Millennium Development Goals (MDGs)\n- 8 goals adopted in 2000, target date 2015.\n- Focus on poverty, education, gender, health, and environmental sustainability.\n- Achieved major successes but progress was uneven."
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "6.7",
+      "slides": [
+        "Slide 1: Sustainable Development Goals (SDGs)\n- 17 goals adopted in 2015, target date 2030.\n- More ambitious and universal than MDGs.\n- Integrate economic, social, and environmental dimensions.",
+        "Slide 2: Ethiopia and the SDGs\n- Successfully achieved 6 of the 8 MDGs.\n- SDGs mainstreamed into national plans (GTP II, Ten-Year Prosperity Plan).\n- Key challenges remain: low capacity, financial constraints."
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "7.1",
+      "slides": [
+        "Slide 1: Overview of Agricultural Strategies\n- Uni-modal: Intensifying small-holder farming. Focus on equity and food security.\n- Bi-modal: Dualistic structure with large-scale commercial farms. Focus on commercialization and technology."
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "7.2",
+      "slides": [
+        "Slide 1: Agricultural Policies: Pre-1974\n- Agriculture neglected.\n- Focus on large-scale mechanized farms and package projects (CADU, WADU).\n- Limited success.",
+        "Slide 2: Agricultural Policies: Derg Regime (1974-91)\n- Socialist, centrally planned.\n- Nationalized land and farms.\n- Collectivization and villagization.\n- Policies largely failed.",
+        "Slide 3: Agricultural Policies: Post-1991\n- ADLI (Agricultural Development-Led Industrialization) adopted.\n- PADETES extension program.\n- SDPRP and PASDEP.\n- Current focus on irrigation, mechanization, and agro-processing."
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "7.3",
+      "slides": [
+        "Slide 1: Problems of the Agricultural Sector\n- Natural: Recurrent drought.\n- Human-made: Land fragmentation, lack of infrastructure, insecure land tenure, erosion, traditional farming methods.",
+        "Slide 2: Possible Remedies\n- Promote irrigation.\n- Improve land tenure security.\n- Strengthen extension services.\n- Improve infrastructure."
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "7.4",
+      "slides": [
+        "Slide 1: Industrial Policies: Pre-1974\n- Import-substituting industries.\n- Strong role for foreign private investment.",
+        "Slide 2: Industrial Policies: Derg Regime (1974-91)\n- Nationalization of industries.\n- Socialist policies.\n- Manufacturing sector declined.",
+        "Slide 3: Industrial Policies: Post-1991\n- Export-promotion strategy.\n- Industrial Development Strategy (IDS, 2003) based on ADLI.\n- Focus on labor-intensive industries.\n- Emphasis on private sector and developmental state.",
+        "Slide 4: Industrial Parks\n- Key policy tool to attract FDI and create jobs.\n- State-of-the-art parks with export-oriented focus.",
+        "Slide 5: Problems of the Industrial Sector\n- Lack of finance.\n- Weak domestic market.\n- Technological challenges.\n- Shortage of foreign exchange for inputs."
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "7.5",
+      "slides": [
+        "Slide 1: Education Sector\n- Post-1991: Education Sector Development Program (ESDP).\n- Problems: Quality, accessibility, equity, and resource constraints.",
+        "Slide 2: Health Sector\n- Post-1991: Health Policy (1993) and Health Sector Development Plan (HSDP).\n- Focus: Decentralization, primary health care.\n- Problems: Uneven distribution, low quality.",
+        "Slide 3: Transport and Tourism Sectors\n- Transport: Liberalized in 1992.\n- Tourism: Significant potential but underdeveloped.\n- Problems: Inadequate infrastructure, lack of coordination.\n- Solutions: Improve infrastructure, training, and promotion."
+      ]
+    }
+  ]
+}

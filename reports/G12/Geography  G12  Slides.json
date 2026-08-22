@@ -1,0 +1,1551 @@
+[
+  {
+    "subject": "Geography",
+    "unit": "Unit One: Major Geological Processes Associated with Plate Tectonics",
+    "sections": [
+      {
+        "section": "1.1. The Continental Drift Theory",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Continental Drift Theory",
+            "content": [
+              "• Theory proposed by Alfred Wegener in 1912.",
+              "• Suggests that the Earth's continents have moved over geologic time.",
+              "• Presents the idea of a supercontinent called Pangaea that existed around 350 million years ago.",
+              "• During the Triassic period, Pangaea split into two large landmasses: Laurasia (north) and Gondwanaland (south).",
+              "• These larger landmasses later fragmented into the present-day continents."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Geological Evidences Favoring Continental Drift Theory",
+            "content": [
+              "• Coastline Similarity: The coastlines of Africa and South America fit together like a jigsaw puzzle.",
+              "• Rock type and structural similarities: When continents are fitted together, similar rock types of the same age are found across them.",
+              "• Fossil Evidence: Identical fossils of Mesosaurus found on both sides of the Atlantic Ocean.",
+              "• Paleoclimatic Evidence: Ancient climatic data, reconstructed from rocks, show similarities across continents."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Why Wegener's Theory was Rejected",
+            "content": [
+              "• Wegener was not a geologist by profession.",
+              "• Most influential scientists at the time were in the Northern Hemisphere, but much of the conclusive data came from the Southern Hemisphere.",
+              "• The perceived timeframe for such massive continental drift was considered too short.",
+              "• There was no plausible explanation for the mechanism driving the movement of continents."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Legacy of Wegener's Theory",
+            "content": [
+              "• Introduced the idea of lateral mobility of continents.",
+              "• Shifted scientific thinking from 'fixism' to 'mobilism'.",
+              "• Ignited a new way of viewing the Earth and inspired further research.",
+              "• Paved the way for the development of the Plate Tectonics Theory."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "1.2. Plate Tectonics Theory",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Plate Tectonics Theory",
+            "content": [
+              "• Developed in the late 1960s, it explains how the Earth's outer layers move and deform.",
+              "• States that the Earth's lithosphere (crust and uppermost mantle) is broken into about a dozen large plates.",
+              "• Plates move on the asthenosphere, a ductile layer below.",
+              "• Plates can be composed of continental, oceanic, or both types of crust.",
+              "• The theory is universally accepted and has revolutionized the field of geology."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Key Concepts of Plate Tectonics",
+            "content": [
+              "• Lithosphere: The rigid outer layer of the Earth, consisting of the crust and uppermost mantle.",
+              "• Asthenosphere: The ductile, partially molten layer of the mantle below the lithosphere, allowing plates to move.",
+              "• Plate Boundaries: The edges where plates interact, responsible for most geological activity.",
+              "• Convection Currents: The movement of heat in the mantle (hot material rises, cools, and sinks) that drives plate motion."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Significance of Plate Tectonics",
+            "content": [
+              "• Provides a framework for understanding major geological features:",
+              "  - Mountains, earthquakes, volcanoes.",
+              "  - Distribution of fossils and rock ages.",
+              "• Influences the composition of the atmosphere and oceans.",
+              "• Serves as a prime cause of long-term climate change.",
+              "• Explains almost all aspects of what we see on the Earth's surface."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "1.3. Plate Movements and Plate Boundaries",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Types of Plate Boundaries",
+            "content": [
+              "• Convergent (Destructive) Boundaries: Plates move toward each other.",
+              "  - Subduction of one plate under another.",
+              "  - Forms volcanoes, mountain ranges, and volcanic islands.",
+              "• Divergent (Constructive) Boundaries: Plates move apart.",
+              "  - Upwelling magma creates new crust.",
+              "  - Forms seafloor spreading, oceanic ridges, and rift valleys.",
+              "• Transform (Conservative) Boundaries: Plates slide past each other laterally.",
+              "  - Crust is neither created nor destroyed.",
+              "  - Associated with major faults and earthquakes."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Convergent Plate Boundaries",
+            "content": [
+              "• Oceanic-Continental Convergence: Denser oceanic plate subducts under the continental plate.",
+              "  - Example: The Andes Mountains (Nazca Plate under South American Plate).",
+              "• Oceanic-Oceanic Convergence: One oceanic plate subducts under another.",
+              "  - Example: Mariana Islands.",
+              "• Continental-Continental Convergence: Two continental plates collide and buckle.",
+              "  - Example: The Himalayas (Indo-Australian Plate with Eurasian Plate)."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Divergent and Transform Boundaries",
+            "content": [
+              "• Divergent Boundaries:",
+              "  - Process of seafloor spreading.",
+              "  - Forms undersea mountain chains (oceanic ridges).",
+              "  - Can create rift valleys on continents (e.g., East African Rift Valley).",
+              "• Transform Boundaries:",
+              "  - Plates slide past each other, causing earthquakes.",
+              "  - Example: The San Andreas Fault in California.",
+              "• The motion is driven by convection currents in the mantle."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "1.4. Major Geological Processes",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Internal (Endogenic) Forces",
+            "content": [
+              "• Forces that originate from inside the Earth and create irregularities on the surface.",
+              "• Key processes include:",
+              "  - Folding: Rock layers bend due to compression, forming anticlines (upfolds) and synclines (downfolds).",
+              "  - Faulting: Rocks break and displace along fractures, creating rift valleys and block mountains.",
+              "  - Earthquakes: Sudden shaking caused by the release of energy along faults.",
+              "  - Volcanism: Magma rises to the surface through vents, building volcanoes and plateaus."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Folding and Faulting",
+            "content": [
+              "• Folding:",
+              "  - Young fold mountains: Andes, Rockies, Himalayas (formed in recent Alpine orogeny).",
+              "  - Old fold mountains: Appalachian, Urals (older, more weathered).",
+              "• Faulting:",
+              "  - Rift Valleys: Land sinks between two faults (e.g., East African Rift Valley).",
+              "  - Block Mountains (Horsts): Land is pushed up between two faults (e.g., Afar Horst)."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Earthquakes",
+            "content": [
+              "• Sudden shaking of the ground due to the shifting of rock masses along faults.",
+              "• Focus: The point where the rock ruptures underground.",
+              "• Epicenter: The point on the Earth's surface directly above the focus.",
+              "• Seismic Waves: Shock waves that travel through the Earth (P and S waves).",
+              "• Effects: Ground movement, landslides, fires, and tsunamis.",
+              "• Occur mostly along plate boundaries, like the Pacific Ring of Fire."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Volcanism and Volcanoes",
+            "content": [
+              "• Volcanism: The process by which magma reaches the surface.",
+              "• Volcanoes can be active, dormant, or extinct.",
+              "• Types of Volcanoes:",
+              "  - Shield Volcanoes: Broad and flat (e.g., Hawaiian Islands).",
+              "  - Strato Volcanoes: Steep cones with alternating layers of lava and ash (most common).",
+              "  - Cinder Cone Volcanoes: Small, conical hills made of pyroclastic material.",
+              "• Other features: Craters, calderas, and intrusive landforms like sills and dikes."
+            ]
+          },
+          {
+            "slide_number": 5,
+            "title": "External (Exogenic) Forces",
+            "content": [
+              "• Forces that act on the Earth's surface from the outside.",
+              "• They level the landscape through denudation and deposition.",
+              "• Denudation includes:",
+              "  - Weathering: The breakdown of rocks (physical and chemical).",
+              "  - Erosion: The movement of weathered material (by water, wind, sea waves, glaciers).",
+              "• Examples: Exfoliation (thermal expansion), Frost action, Stalactites and Stalagmites (chemical)."
+            ]
+          },
+          {
+            "slide_number": 6,
+            "title": "Erosion and Deposition",
+            "content": [
+              "• Running Water: Erodes to form V-shaped valleys, gorges, waterfalls, and deltas.",
+              "• Wind: Forms sand dunes, barkhans, and loess deposits.",
+              "• Sea Waves: Forms beaches, spits, and lagoons.",
+              "• Mass Wasting: The downslope movement of rock and soil under the influence of gravity.",
+              "• These processes shape the present-day land surface and create a variety of landforms."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "unit": "Unit Two: Climate Change",
+    "sections": [
+      {
+        "section": "2.1. Basic Concepts of Climate Change",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Understanding Climate Change",
+            "content": [
+              "• Climate change refers to a change in the state of the climate that persists for an extended period (decades or longer).",
+              "• It can be identified by changes in the mean and/or variability of its properties.",
+              "• It is caused by both natural processes and human activities.",
+              "• Often associated with global warming, but its consequences are much broader."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Global Warming and its Impacts",
+            "content": [
+              "• Global warming is the long-term heating of Earth's surface.",
+              "• It is primarily caused by human activities (burning fossil fuels).",
+              "• Consequences include: stronger hurricanes, melting glaciers, loss of wildlife habitats, and rising sea levels.",
+              "• The Earth's air, water, and land are interdependent, so a change in one area leads to changes in others."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "The Intergovernmental Panel on Climate Change (IPCC)",
+            "content": [
+              "• The leading international body for assessing the science related to climate change.",
+              "• Provides comprehensive reports on the state of climate change.",
+              "• Reports show that climate change is happening across the planet, largely due to human activities.",
+              "• Evidence comes from observations of the atmosphere, land, and oceans.",
+              "• Important Greenhouse Gases: Carbon Dioxide (CO2), Methane (CH4), and Nitrous Oxide (N2O)."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "2.2. Trends in Global Climate Change",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Observed Climate Trends",
+            "content": [
+              "• The Earth's climate has always changed, but recent changes are being driven by human activities.",
+              "• Activities: Deforestation, industrial emissions, and transport.",
+              "• These activities release greenhouse gases (GHGs) that trap heat and warm the planet."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "IPCC Assessment Reports",
+            "content": [
+              "• The IPCC's 2001 Report documented that the 1990s were the warmest decade since instrumental records began (1861).",
+              "• The 20th century was likely the warmest in the last 1,000 years.",
+              "• Most of the warming over the past 50 years has resulted from human activities.",
+              "• The average global surface temperature has warmed by 0.80°C in the past century."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Future Projections",
+            "content": [
+              "• If GHG emissions continue to rise, mean global temperatures will increase by 1.4°C to 5.8°C by the end of the 21st century.",
+              "• Impacts on Sea Level: Rise in sea levels due to melting ice and thermal expansion.",
+              "• Changes in Snow Cover and Rainfall: Shifts in regional climate patterns.",
+              "• These changes are already affecting watersheds and ecosystems in many parts of the world."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "2.3. Natural and Human Induced Climate Change",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Natural Causes of Climate Change",
+            "content": [
+              "• Natural phenomena have caused climate change in the past.",
+              "• External causes include:",
+              "  - Changes in incoming solar radiation.",
+              "  - Changes in the composition of the atmosphere.",
+              "  - Changes in the Earth's surface.",
+              "• Internal causes: Changes in ocean and atmosphere circulation patterns.",
+              "• Examples: Milankovitch cycles (changes in Earth's orbit), variations in solar output (sunspots), and volcanic eruptions."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Human (Anthropogenic) Induced Climate Change",
+            "content": [
+              "• The dominant cause of warming since the mid-20th century is human activity.",
+              "• Activities include: burning fossil fuels (emitting GHGs) and land-use changes (deforestation).",
+              "• Humans are also injecting aerosols and particles into the atmosphere.",
+              "• The IPCC's 2013 Report states it is 'extremely likely' (95% probability) that human influence is the dominant cause."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "The Enhanced Greenhouse Effect",
+            "content": [
+              "• The natural greenhouse effect is essential for life on Earth.",
+              "• However, human activities are increasing the concentration of GHGs (CO2, CH4, N2O).",
+              "• This 'enhanced' greenhouse effect traps too much heat, causing global warming.",
+              "• Deforestation reduces the Earth's capacity to absorb CO2."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "2.4. Consequences of Climate Change",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Impacts on Climate and Weather Patterns",
+            "content": [
+              "• Land areas are warming more rapidly than the global average, especially in high northern latitudes.",
+              "• Changes in precipitation: Some areas get more intense rainfall, while others experience severe droughts.",
+              "• The frequency and intensity of extreme weather events are increasing.",
+              "• Impacts on Agriculture: Food security is threatened due to unpredictable weather patterns."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Rising Sea Levels and Polar Regions",
+            "content": [
+              "• Sea level rise is caused by thermal expansion of seawater and melting of land-based ice.",
+              "• Globally, sea levels rose about 19 cm from 1900 to 2010 and the pace is accelerating.",
+              "• In the Polar Regions:",
+              "  - Arctic sea ice is shrinking dramatically.",
+              "  - Ice sheets in Greenland and Antarctica are melting.",
+              "  - This has severe impacts on wildlife and weather patterns."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Effects on Ecosystems and Human Well-being",
+            "content": [
+              "• Increasing CO2 acts as a 'fertilizer' for some plants, but can cause others to become dominant.",
+              "• Many species are forced to migrate to cooler areas or face extinction.",
+              "• Human Health: Increased heatwaves, spread of diseases (e.g., malaria), and food insecurity.",
+              "• The impacts are interconnected: climate change affects species distributions and human well-being."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "2.5. Adaptation and Mitigation Strategies to Climate Change",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Mitigation: Addressing the Cause",
+            "content": [
+              "• Mitigation aims to limit climate change by reducing GHG emissions.",
+              "• It involves reducing the sources of GHGs (burning fossil fuels) and enhancing sinks (forests).",
+              "• Examples: Transitioning to renewable energy, improving energy efficiency, and planting trees."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Adaptation: Managing the Impacts",
+            "content": [
+              "• Adaptation aims to alleviate the adverse impacts of climate change.",
+              "• It involves adjustments in ecological, social, or economic systems.",
+              "• Types of Adaptation:",
+              "  - Reactive: After impacts occur.",
+              "  - Anticipatory: Before impacts become apparent.",
+              "  - Planned: Deliberate policy decisions.",
+              "  - Autonomous: Natural responses to change.",
+              "• Examples: Soil conservation, water harvesting, crop diversification, and planting trees."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "2.6. International conventions and agreements on climate",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Key Milestones in Climate Agreements",
+            "content": [
+              "• 1979: First World Climate Conference identifies climate change as a global problem.",
+              "• 1988: Toronto Conference recommends a global framework convention.",
+              "• 1990: The IPCC publishes its First Assessment Report.",
+              "• 1992: The UN Framework Convention on Climate Change (UNFCCC) is adopted."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "The Kyoto Protocol and the Paris Agreement",
+            "content": [
+              "• Kyoto Protocol (1997): Set mandatory emission reduction targets for developed countries.",
+              "  - The US did not ratify it, and developing countries were not required to reduce emissions.",
+              "• Paris Agreement (2015): Adopted by virtually all nations.",
+              "  - Under the agreement, each nation sets voluntary targets for reducing emissions.",
+              "  - It represents a shift to a more flexible, bottom-up approach."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Pathways to Combating Climate Change",
+            "content": [
+              "• The most obvious way to limit global warming is to reduce the use of fossil fuels.",
+              "• Transition to renewable energy sources: solar, wind, hydro, and geothermal.",
+              "• Creating a worldwide culture of sustainable development is essential.",
+              "• This includes using energy efficiently and promoting eco-friendly products."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "2.7. Pillars of Climate Resilient Green Economy of Ethiopia",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Introduction to Ethiopia's CRGE Strategy",
+            "content": [
+              "• Ethiopia aims to follow a green growth path that fosters development and sustainability.",
+              "• The Climate Resilient Green Economy (CRGE) strategy focuses on four pillars.",
+              "• The goal is to achieve middle-income status by 2025 while reducing GHG emissions."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Pillar I: Agriculture",
+            "content": [
+              "• Improving crop and livestock production practices.",
+              "• Goal: Increase farmer income and food security while reducing emissions.",
+              "• Priorities include limiting soil-based emissions and reducing pressure on forests.",
+              "• Increasing resource efficiency and productivity in the livestock sector."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Pillar II: Forests",
+            "content": [
+              "• Protecting and re-establishing forests for their economic and ecosystem services.",
+              "• Goal: Reverse deforestation and forest degradation.",
+              "• Prioritizes reducing demand for fuelwood and increasing afforestation.",
+              "• Promotes area closure to increase carbon storage in Ethiopian forests."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Pillars III & IV: Energy and Industry",
+            "content": [
+              "• Pillar III: Expanding electricity generation from renewable sources.",
+              "  - Exploiting potential for hydro, geothermal, solar, and wind power.",
+              "  - Clean energy also enables green development in other sectors.",
+              "• Pillar IV: Leapfrogging to modern and energy-efficient technologies.",
+              "  - Focus on transport, industrial sectors, and buildings.",
+              "  - Promoting fuel efficiency, electric rail networks, and alternative fuels."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "unit": "Unit Three: Issues in Sustainable Development I: Management of Conflict over Resources",
+    "sections": [
+      {
+        "section": "3.1. The Concept of Sustainable Development",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Historical Overview of Sustainable Development",
+            "content": [
+              "• 1972: First UNCED in Stockholm introduced 'eco-development' and created UNEP.",
+              "• 1987: Second UNCED in Nairobi introduced the idea of 'sustainable development'.",
+              "• 1987: Brundtland Commission defined it as 'development that meets the needs of the present without compromising the ability of future generations to meet their own needs'.",
+              "• 1992: Earth Summit in Rio developed 'Agenda 21'.",
+              "• 2002: World Summit in Johannesburg emphasized social and economic aspects."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "The Three Pillars of Sustainable Development",
+            "content": [
+              "• Economic: An economically sustainable system must produce goods and services on a continuing basis.",
+              "  - Maintain manageable levels of government and external debt.",
+              "• Environmental: An environmentally sustainable system must maintain a stable resource base.",
+              "  - Avoid overexploitation of non-renewable resources, maintain biodiversity.",
+              "• Social: A socially sustainable system must achieve fairness in distribution and opportunity.",
+              "  - Provide adequate social services such as health, education, and gender equity."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "The Sustainable Development Goals (SDGs)",
+            "content": [
+              "• Adopted by the United Nations in 2015 as a universal call to action.",
+              "• 17 goals, integrated and recognize that action in one area affects outcomes in others.",
+              "• Aims to end poverty, protect the planet, and ensure peace and prosperity by 2030.",
+              "• Examples: No Poverty (1), Zero Hunger (2), Climate Action (13).",
+              "• Integrated into Ethiopia's development plans (GTP II and CRGE strategy)."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Criticisms of Sustainable Development",
+            "content": [
+              "• Incorrectness of the term and its internal logical contradiction.",
+              "• Narrowness of the term, often confining global problems to the environmental context.",
+              "• Implementation difficulties due to multiple concept definitions.",
+              "• Criticism that the concept only benefits a certain part of humanity.",
+              "• Despite criticisms, the transition to a sustainable path requires a dramatic transformation."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "3.2. Resource Use Policies and Related Conflicts",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Types of Resources and Conflict Drivers",
+            "content": [
+              "• Renewable Resources: Can replenish themselves (e.g., water, forests).",
+              "• Non-renewable Resources: Finite and cannot be replaced (e.g., minerals, fossil fuels).",
+              "• Resource Conflicts are often over:",
+              "  - Ownership, access, decision-making, and distribution of benefits."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Main Drivers of Conflict over Natural Resources",
+            "content": [
+              "1. Competition over increasingly scarce renewable resources.",
+              "   - Demand-induced scarcity, supply-induced scarcity, structural scarcity.",
+              "2. Poor governance of renewable natural resources.",
+              "   - Unclear rights, discriminatory policies, unequal distribution, lack of transparency.",
+              "3. Transboundary natural resource dynamics.",
+              "   - Shared water resources, wildlife migration, and pollution crossing borders."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Case Study: The Nile Basin",
+            "content": [
+              "• Transboundary water management is a key diplomatic issue for the 11 Nile Basin countries.",
+              "• Upstream countries (e.g., Ethiopia) argue for an equitable allocation of water resources.",
+              "• The Nile Basin Initiative (NBI) was established in 1999 to coordinate management.",
+              "• Debates center on the construction of dams and the right to water for irrigation and power."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Conflict Prevention and Sustainable Livelihoods",
+            "content": [
+              "• Conflict prevention involves approaches to avoid, minimize, and resolve conflict.",
+              "• The Sustainable Livelihoods Framework helps reduce vulnerability to resource scarcity.",
+              "• Strategies include livelihood diversification, efficiency improvements, and adaptation.",
+              "• Approaches aim to protect livelihoods and prevent the erosion of assets."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "3.3. Governance of Natural Resources",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is Natural Resource Governance?",
+            "content": [
+              "• Refers to the norms, institutions, and processes that determine power over natural resources.",
+              "• How decisions are taken and how citizens, including indigenous peoples, participate.",
+              "• Good governance is essential for preventing conflict and ensuring sustainable development."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Principles of Good Natural Resource Governance",
+            "content": [
+              "1. Legal and institutional changes to clarify resource rights and responsibilities.",
+              "2. Equitable resource access should be a priority of public policy.",
+              "3. Transparent environmental and social impact assessments for all projects.",
+              "4. Increased public participation and transparency in decision-making.",
+              "5. Adaptability to unexpected impacts on renewable resources."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Governance and Indigenous Rights",
+            "content": [
+              "• Indigenous communities are particularly affected by natural resource exploitation.",
+              "• International conventions like the UN Declaration on the Rights of Indigenous Peoples (UNDRIP) recognize their rights.",
+              "• Consultation, access to information, and access to justice are vital for protecting their rights.",
+              "• The Aarhus Convention advances public participation in environmental matters."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "3.4. Indigenous Conflict Resolution Practices",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Introduction to Indigenous Conflict Resolution",
+            "content": [
+              "• Societies worldwide have used indigenous mechanisms to prevent and resolve conflicts.",
+              "• These mechanisms are often based on community customs, familial relationships, and institutional practices.",
+              "• In Ethiopia, they are deeply rooted in the culture and traditions of different ethnic groups.",
+              "• They are often preferred due to lack of access to justice and the high cost of formal legal systems."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Examples of Indigenous Institutions in Ethiopia",
+            "content": [
+              "• Oromo: Gadaa system, including Gumma for cases of unintentional killing.",
+              "• Amhara: Shimagle (council of elders).",
+              "• Somali: T'eer (customary law) and guurti (council of elders).",
+              "• Afar: Mada'a (led by elders, based on customary law)."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Effectiveness of Indigenous Systems",
+            "content": [
+              "• They are more accessible and less costly than formal courts.",
+              "• They prioritize reconciliation and peaceful coexistence.",
+              "• They lead to 'win-win' outcomes by considering the interest of every party.",
+              "• They avoid the 'zero-sum' outcomes of the formal legal system.",
+              "• However, they are often seen as an alternative to the formal system, not a replacement."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "UN Declaration on the Rights of Indigenous Peoples (UNDRIP)",
+            "content": [
+              "• Adopted in 2007, it makes direct reference to indigenous peoples' rights to land and self-determination.",
+              "• Article 7: Recognizes the right to live in freedom, peace, and security.",
+              "• Article 32: Recognizes the right to determine development priorities for their lands.",
+              "• Article 40: Recognizes the right to access just procedures for resolving conflicts."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "unit": "Unit Four: Issues in Sustainable Development II: Population Policies, Programs and the Environment",
+    "sections": [
+      {
+        "section": "4.1. Theories on Population Growth and Development",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Malthusian Theory",
+            "content": [
+              "• Proposed by Thomas Malthus (1798).",
+              "• Population grows geometrically (1, 2, 4, 8...).",
+              "• Food production grows arithmetically (1, 2, 3, 4...).",
+              "• Leads to a 'Malthusian Crisis' where population outstrips food supply.",
+              "• Checks on Population:",
+              "  - Positive Checks: Famine, disease, and war (increase death rate).",
+              "  - Preventive Checks: 'Moral restraint' (late marriage, celibacy)."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Neo-Malthusianism",
+            "content": [
+              "• Follows Malthus's idea that population growth is a main cause of poverty.",
+              "• Unlike Malthus, they see birth control as the solution.",
+              "• Advocate for family planning and contraceptive use.",
+              "• View rapid population growth as a cause of:",
+              "  - Poverty, environmental destruction, unemployment, and political instability.",
+              "• Critics argue it diverts attention from social and economic causes of poverty."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Radical Theories: Boserup and Simon",
+            "content": [
+              "• Ester Boserup's Hypothesis:",
+              "  - Population growth stimulates innovation and agricultural development.",
+              "  - 'Necessity is the mother of invention.'",
+              "• Julian Simon's 'Ultimate Resource' Theory:",
+              "  - People are the ultimate resource.",
+              "  - Human ingenuity can solve resource problems."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "The Marxian Perspective",
+            "content": [
+              "• Karl Marx's View:",
+              "  - Poverty is not caused by overpopulation.",
+              "  - It is caused by unequal distribution of resources.",
+              "  - In capitalism, the owning class controls the means of production, creating poverty.",
+              "• Critics of Malthusian/Neo-Malthusian theories:",
+              "  - They are ethnocentric.",
+              "  - They ignore the unequal distribution of global resources."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "4.2. Population Policies",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Definition and Types of Population Policies",
+            "content": [
+              "• Population Policy: A policy formulated by a government to plan and control population growth, based on economic, social, and demographic conditions.",
+              "• Two Main Categories:",
+              "  - Pro-natalist Policy: Aims to increase fertility rates. (e.g., France, Sweden).",
+              "  - Anti-natalist Policy: Aims to lower fertility rates. (e.g., China's one-child policy)."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Pro-Natalist Policies",
+            "content": [
+              "• Seek to encourage higher birth rates.",
+              "• Implemented in countries with low fertility rates and aging populations.",
+              "• Policy measures include:",
+              "  - Financial incentives (family allowances, tax breaks).",
+              "  - Maternity/paternity leave.",
+              "  - Childcare subsidies.",
+              "  - Housing subsidies."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Anti-Natalist Policies",
+            "content": [
+              "• Seek to reduce birth rates.",
+              "• Common in countries facing rapid population growth and resource strain.",
+              "• Policy measures include:",
+              "  - Family planning programs.",
+              "  - Access to contraceptives.",
+              "  - Health and education services for women.",
+              "• Most well-known example: China's One-Child Policy."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "4.3. Measures Taken to Curb Growth of Population",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Methods of Population Control",
+            "content": [
+              "• Child Tax: Higher taxes for parents with more children.",
+              "• One-Child Policy: Restrict family size to one child.",
+              "• Family Planning: Access to safe, voluntary means of planning a family.",
+              "  - This is considered a human right and is central to gender equality."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "International Conferences and Global Context",
+            "content": [
+              "• Bucharest Conference (1974): Introduced the World Population Plan of Action.",
+              "• Cairo Conference (1994): Shifted focus from 'numbers' to women's empowerment.",
+              "  - Recognized the link between population growth and development.",
+              "• Today, most developing countries have national population policies and subsidize family planning."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Examples from Various Cultures",
+            "content": [
+              "• China: Implemented one-child policy (1979-2015).",
+              "• India: Focuses on women's education and empowerment.",
+              "• Africa: Birth rates are the highest; many countries have active family-planning campaigns."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Challenges of Population Control",
+            "content": [
+              "• Obstacles to implementing policies:",
+              "  - Lack of availability and accessibility of services.",
+              "  - Cultural and religious opposition.",
+              "  - Language barriers.",
+              "  - Lack of awareness.",
+              "  - Wife/husband acceptance."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "4.4. Relationship Between Population & Socio-economic Development",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "The Concept of Development",
+            "content": [
+              "• Development is a process by which members of a society increase their capacities to mobilize and manage resources.",
+              "• It aims for sustainable improvements in quality of life.",
+              "• Key objectives:",
+              "  - Increase the availability and distribution of basic life-sustaining goods.",
+              "  - Raise living standards and levels of income.",
+              "  - Expand the range of economic and social choices."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Measures and Indicators of Development",
+            "content": [
+              "• GDP/GNP: Measures the value of goods and services produced.",
+              "• Per-Capita Income: National income divided by population size.",
+              "• Standard of Living: Level of income, comforts, and services available.",
+              "• Countries are classified as developed, less developed, and least developed.",
+              "• Social Indicators: Literacy rates, life expectancy, infant mortality."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Factors of Economic Development",
+            "content": [
+              "• Economic Factors:",
+              "  - Natural Resources, Capital Expenditure, Technology.",
+              "• Non-Economic Factors:",
+              "  - Labor Force (human capital), Social Values, Political Stability."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Social Implications of Population Growth",
+            "content": [
+              "• Rapid population growth is linked to many problems.",
+              "  - Poverty, hunger, high infant mortality.",
+              "  - Inadequate social services and infrastructure.",
+              "• It can reduce or eliminate food production gains.",
+              "• It increases the absolute numbers whose needs must be met.",
+              "• Problems are compounded when people migrate to cities."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "4.5. Relationship Between Population and Environmental Health",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is Environmental Health?",
+            "content": [
+              "• Environmental health comprises aspects of human health that are determined by factors in the environment.",
+              "• This includes physical, biological, social, and psychosocial factors.",
+              "• The UN Agenda 21 (1992) addresses health issues, with a focus on primary healthcare, communicable diseases, and reducing health risks from pollution."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Environmental Health Intervention Models",
+            "content": [
+              "1. Clinical Model: Treating disease after it has occurred.",
+              "2. Public Health Model: Controlling disease-causing agents.",
+              "3. Environmental Stewardship Model: Proactively addressing environmental problems."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Key Environmental Health Issues",
+            "content": [
+              "• Air pollution is the world's largest single environmental risk to health.",
+              "• Unsafe water and poor sanitation cause major mortality in low-income countries.",
+              "• Degraded ecosystems lead to food insecurity and disease outbreaks.",
+              "• Zoonotic diseases (e.g., COVID-19, Ebola) are emerging more frequently.",
+              "• An integrated approach linking environment and health is essential."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "unit": "Unit Five: Issues in Sustainable Development III: Challenges of Economic Development",
+    "sections": [
+      {
+        "section": "5.1. Multiple Faces of Poverty and Implication to Development",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Concepts of Poverty",
+            "content": [
+              "• Poverty is a measure of deficiency of basic needs.",
+              "• Absolute Poverty: Household income is below a certain level, making it impossible to meet basic needs (food, shelter, water).",
+              "• Relative Poverty: Households receive 50% less than average incomes. They are not in absolute poverty but cannot afford the standard of living others in the society enjoy."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Causes of Poverty",
+            "content": [
+              "• Structural Approach: Points to systemic reasons for poverty.",
+              "  - Racial and gender discrimination, low wages, and failure to invest in education and healthcare.",
+              "• Behavioral/Cultural Approach: Emphasizes culture, behavior, and personal differences.",
+              "  - A 'poverty culture' with attitudes that perpetuate self-defeating decisions."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Relationship between Conflict and Poverty",
+            "content": [
+              "1. Conflict causes poverty: Destruction and displacement lead to long-term economic costs.",
+              "2. Poverty causes conflict: Grievances and resource competition can fuel violence.",
+              "3. Resource wealth causes conflict: The prospect of exploiting resources can fuel rebellion."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "5.2. The Advantages and Disadvantage of Globalization",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is Globalization?",
+            "content": [
+              "• The process by which the world becomes more linked through greater commerce, political integration, and cultural interaction.",
+              "• It has accelerated dramatically in the last half-century.",
+              "• It is driven by multinational corporations and global mass media."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Impacts on Developing Countries",
+            "content": [
+              "• Economic: Opens markets, creates jobs, but can also lead to exploitation and pollution.",
+              "• Education and Health: Improves access to knowledge and technology, but can lead to 'brain drain'.",
+              "• Culture: Spreads ideas and ideals but can erode local traditions and languages."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Advantages of Globalization",
+            "content": [
+              "• Increased free trade between nations.",
+              "• Increased liquidity of capital.",
+              "• Global mass media ties the world together.",
+              "• Reduction of cultural barriers.",
+              "• Spread of democratic ideals.",
+              "• Reduction of the likelihood of war between developed nations."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Disadvantages of Globalization",
+            "content": [
+              "• Decreased environmental integrity.",
+              "• Exploitation of cheap labor.",
+              "• Threat to cultural diversity.",
+              "• Increased risk of disease transmission.",
+              "• Spread of a materialistic lifestyle.",
+              "• Increased chances of civil war as countries vie for resources."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "5.3. The Growing Imbalance between Regions and Countries",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Economic Inequality",
+            "content": [
+              "• The idea of inequality is both simple and complex.",
+              "• Convergence Hypothesis: Less developed countries should grow faster than more developed ones.",
+              "• Divergence Reality: The gap between rich and poor is widening."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Trade Imbalance",
+            "content": [
+              "• A trade imbalance occurs when the cost of imports exceeds the cost of exports.",
+              "• Causes: When a country doesn't produce what it needs and borrows to pay for imports.",
+              "• Effects: Can enhance standard of living but may result in job outsourcing."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Measuring Inequality: The Gini Coefficient",
+            "content": [
+              "• A measure of income or wealth distribution.",
+              "• Ranges from 0 (perfect equality) to 1 (perfect inequality).",
+              "• Sub-Saharan Africa has some of the highest levels of inequality in the world."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "The Widening Global Imbalance",
+            "content": [
+              "• Inequality has increased in most developed countries since 1990.",
+              "• In developing countries, it has remained stable but at a much higher level.",
+              "• Inequality is exacerbated by technological development and the collapse of labor institutions."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "5.4. Corruption",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is Corruption?",
+            "content": [
+              "• The abuse of entrusted power for private gain.",
+              "• It is a political, economic, legal, and moral phenomenon.",
+              "• Causes: Weak institutions, lack of transparency, and poor governance."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Types of Corruption",
+            "content": [
+              "• Bribery: Payments to influence administrative decisions.",
+              "• Theft of Public Assets: Embezzlement and diversion of public funds.",
+              "• Patronage (Favoritism): Preferential treatment of friends and associates.",
+              "• Petty vs. Grand Corruption: Based on the scale of the transaction."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "The Geography of Corruption",
+            "content": [
+              "• Measured by Transparency International's Corruption Perceptions Index (CPI).",
+              "• Scores range from 0 (most corrupt) to 100 (least corrupt).",
+              "• Most corrupt countries are low-income, have closed economies, and low media freedom.",
+              "• Least corrupt countries are typically wealthy democracies with strong institutions."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Consequences and Remedial Measures",
+            "content": [
+              "• Consequences:",
+              "  - Distorts public investment.",
+              "  - Reduces the effectiveness of public spending on health and education.",
+              "  - Undermines tax revenues.",
+              "• Remedial Measures:",
+              "  - Strong leadership with integrity.",
+              "  - A responsible press.",
+              "  - Independent oversight bodies.",
+              "  - Institutional reforms (legal framework, police, judiciary)."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "5.5. Global Health Crises",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Global Health Challenges",
+            "content": [
+              "• An estimated 2 billion people lack access to basic health services.",
+              "• Low- and middle-income countries bear 90% of the global disease burden but receive only 12% of global health spending.",
+              "• Health crises expose the vulnerability of poor governance and weak health infrastructure."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Historical Pandemics",
+            "content": [
+              "• The Great Plague of Athens (430 BC) was one of the first recorded pandemics.",
+              "• The 1918 'Spanish Flu' was the most famous pandemic, killing 50 million people."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Contemporary Health Crises",
+            "content": [
+              "• HIV/AIDS: First identified in 1981, has caused 35 million deaths.",
+              "• Ebola (2013-2016): Devastated West Africa, revealing weak public health infrastructure.",
+              "• COVID-19 (2019-present): Spread globally at an unprecedented pace, affecting all nations."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "unit": "Unit Six: Issues in Sustainable Development IV: Solutions to Environmental and Sustainability Problems",
+    "sections": [
+      {
+        "section": "6.1. Environmental Problems",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Major Global Environmental Problems",
+            "content": [
+              "• Environmental problems are now global in existence and impact.",
+              "• The environmental formula: I = f(P, A, T)",
+              "  - I = Environmental Impact.",
+              "  - P = Population.",
+              "  - A = Affluence/Consumption.",
+              "  - T = Technology."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Climate Change and Ozone Depletion",
+            "content": [
+              "• Climate Change: The most discussed environmental problem with observable ecological and social effects.",
+              "• Ozone Layer Depletion: Caused by CFCs; the Montreal Protocol successfully reduced these chemicals."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Biodiversity Loss and Pollution",
+            "content": [
+              "• Biodiversity Loss: Natural ecosystem degradation and species extinction continue rapidly.",
+              "• Air Pollution: Includes primary pollutants (CO, NO2, SO2) and secondary pollutants (smog).",
+              "• Water Pollution: Contaminants from agriculture, industry, and urban areas degrade water quality, creating ocean 'dead zones'."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Land Degradation",
+            "content": [
+              "• Land Degradation: A negative trend in land condition, caused by human-induced processes.",
+              "• 24 billion tons of fertile soil are lost per year.",
+              "• Soil Contamination: The presence of harmful substances in soil, often from leaks or pollution.",
+              "• The Global Environmental Facility (GEF) works on sustainable land management."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "6.2. Sustainability Challenge",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Challenges to Sustainability",
+            "content": [
+              "• The impact of climate change threatens to escalate.",
+              "• Hunger and malnourishment remain persistent.",
+              "• Income inequality has reached extremely high levels.",
+              "• Rapid urbanization calls for major changes in urban design.",
+              "• Energy needs remain unmet for hundreds of millions."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Core Sustainability Challenges",
+            "content": [
+              "• Population Growth: Projected to reach 9.7 billion by 2050, straining resources.",
+              "• Urbanization: 60% of the world's population will live in cities by 2030.",
+              "• Energy Use: Burning fossil fuels is the primary driver of global warming.",
+              "• Water Scarcity: A country is water-scarce if it has less than 1,000 m³ of renewable freshwater per capita.",
+              "• Waste Management: The world generates 2.01 billion tons of municipal solid waste annually."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Sustainable Solutions",
+            "content": [
+              "• Combating Climate Change: Through renewable energy and preserving ecosystems.",
+              "• Renewable Energy: Solar chimney, wind farm, hydropower, and geothermal.",
+              "• Green Buildings: Designed to minimize natural resource consumption and emissions.",
+              "• Role of Soil Microorganisms: To increase yields in an environmentally acceptable manner."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "6.3. Environmental Education",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is Environmental Education?",
+            "content": [
+              "• Education 'in, about, and for' the environment.",
+              "• Aims to develop an ecologically literate population that is motivated to take action.",
+              "• It is a lifelong, interdisciplinary process."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Goals and Types of Environmental Education",
+            "content": [
+              "• Goals:",
+              "  - Foster awareness of environmental interdependence.",
+              "  - Provide knowledge, values, and skills.",
+              "  - Create new patterns of behavior.",
+              "• Formal vs. Informal Education.",
+              "• The continuum of education includes: Information, communication, education, and capacity-building activities."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Fundamental Characteristics of Environmental Education",
+            "content": [
+              "• Lifelong Learning: Involves everyone, from youth to adults.",
+              "• Interdisciplinary: Links natural sciences, social sciences, and humanities.",
+              "• A Proven Strategy: Links knowledge with action.",
+              "• Focus on Critical Thinking: Teaches people how to think, not what to think."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "6.4. Environmental Movements",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is an Environmental Movement?",
+            "content": [
+              "• A social movement involving an array of individuals, groups, and coalitions.",
+              "• They perceive a common interest in environmental protection.",
+              "• Their goal is to bring about changes in environmental policies and practices."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Types of Environmental Movements",
+            "content": [
+              "• Free Market Environmentalism: Uses property rights and markets.",
+              "• Preservation vs. Conservation: Strict protection vs. sustainable use.",
+              "• Popular Environmentalism: Focused on 'green consumerism'.",
+              "• Light Greens: Environmentalism as a lifestyle choice.",
+              "• Dark Greens: Seek radical political change.",
+              "• Bright Greens: Advocate for change through new technologies and social innovations."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Environmental Movements in Ethiopia",
+            "content": [
+              "• Activism is rarely seen in a well-organized way.",
+              "• Notable Organizations: Lem Ethiopia.",
+              "• Individual Activists: Artist Sileshi Demise (municipal waste control).",
+              "• Leadership: Late PM Meles Zenawi (climate negotiations), PM Abiy Ahmed (Green Legacy campaign).",
+              "• The role of youth is increasingly important."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "6.5. Environmentally Friendly Indigenous Practices",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is Indigenous Knowledge?",
+            "content": [
+              "• Unique, traditional, local knowledge developed by indigenous people.",
+              "• It is local, orally transmitted, based on practical experience.",
+              "• It is shared and embedded in broader cultural traditions.",
+              "• Application areas: ecosystem management, water management, soil conservation, and pest control."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Examples in Ethiopia",
+            "content": [
+              "• Illuababora (Oromo): Knowledge of folk medicine and conservation of medicinal plants.",
+              "• Konso: Dry stone terraces for soil conservation and water management.",
+              "• Gedeo: Traditional regulations ('seera') that protect sacred trees and the ecosystem.",
+              "• Gumuz (Western lowlands): Shifting cultivation and belief system that considers resources sacred."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "The Role of Indigenous Knowledge",
+            "content": [
+              "• Indigenous practices offer effective, sustainable solutions.",
+              "• They are crucial for maintaining ecosystems and livelihoods.",
+              "• Recognizing and integrating IK into modern conservation is essential.",
+              "• These practices show that local communities are active agents of conservation."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "unit": "Unit Seven: Contemporary Global Geographic Issues and Concerns",
+    "sections": [
+      {
+        "section": "7.1. Climate Change",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Climate Change as a Global Issue",
+            "content": [
+              "• Climate change is one of the most pressing contemporary global issues.",
+              "• It threatens the lives and livelihoods of billions of people.",
+              "• The Paris Agreement (2015) is a key international effort to curb emissions.",
+              "• A changing climate requires comprehensive strategies addressing social, economic, and environmental consequences."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Predicted Impacts of Temperature Increase",
+            "content": [
+              "• Health: A 2.3°C rise could put 270 million people at risk of malaria.",
+              "• Ecosystems: A 1-2°C rise could cause 15-20% of global ecosystems to change.",
+              "• Agriculture: A 2.5°C rise could put 50 million more people at risk of hunger.",
+              "• Water Resources: A 2-2.5°C rise could put 2.4-3.1 billion people at risk of water shortage."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Observable Effects",
+            "content": [
+              "• Ice is melting worldwide, especially at the poles.",
+              "• Global sea levels are rising at a faster rate.",
+              "• Wildlife and their habitats are being affected.",
+              "• Precipitation patterns are changing, causing more severe droughts in some areas and more intense rainfall in others.",
+              "• Pests and diseases are thriving."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "7.2. Desertification",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is Desertification?",
+            "content": [
+              "• Land degradation in arid, semi-arid, and dry sub-humid areas.",
+              "• Caused by human activities and climatic change.",
+              "• Not the same as the expansion of natural deserts.",
+              "• Drylands cover 46.2% of the global land area and are home to 3 billion people."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Causes of Desertification",
+            "content": [
+              "• Population Growth: Increased demand for food and resources.",
+              "• Over-exploitation: Over-cultivation, overgrazing, deforestation.",
+              "• Climate Change: Increased drought frequency and severity.",
+              "• Poor Irrigation Practices: Can lead to salinization."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Consequences of Desertification",
+            "content": [
+              "• Decreased land productivity.",
+              "• Food shortages and hunger.",
+              "• Increased poverty.",
+              "• Destruction of habitats and biodiversity loss.",
+              "• Forced migration."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Desertification in Eastern Africa",
+            "content": [
+              "• East Africa has large tracts of drylands highly vulnerable to desertification.",
+              "• Rapid population growth and widespread deforestation are key factors.",
+              "• National efforts: Ethiopia's 'Green Legacy' campaign.",
+              "• International efforts: UNESCO's Integrated Project on Arid Lands."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "7.3. Drought",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Definition and Types of Drought",
+            "content": [
+              "• Drought: A temporary reduction in water availability below normal levels.",
+              "• Types:",
+              "  - Meteorological: A reduction in rainfall.",
+              "  - Hydrological: A reduction in surface and groundwater.",
+              "  - Agricultural: A shortage of water for agriculture (soil moisture deficit)."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Drought-Prone Regions and Indices",
+            "content": [
+              "• Drought-prone regions are found in the world's dryland belts, including the Sahara, the Horn of Africa, and the Arabian Desert.",
+              "• Indices to quantify drought: Palmer Drought Severity Index (PDSI), Standardized Precipitation Index (SPI).",
+              "• The SPI is widely used because it can be calculated for different time scales."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Causes and Impacts of Drought",
+            "content": [
+              "• Natural Causes: El Niño/La Niña, shifts in the ITCZ.",
+              "• Human-Induced Causes: Land-use change, greenhouse gas emissions.",
+              "• Impacts: Reduced farm income, food price increases, malnutrition, migration, water shortages, and conflict."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "7.4. Famine",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "What is Famine?",
+            "content": [
+              "• Famine is a process, not a single identifiable event.",
+              "• It results from a sequence of events that reduce food availability or food entitlements.",
+              "• This leads to widespread and substantially increased morbidity and mortality.",
+              "• It is distinct from chronic hunger."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Causes of Famine",
+            "content": [
+              "• Decline in Food Availability:",
+              "  - Natural: Drought, floods, crop disease, pest invasions.",
+              "  - Human-Induced: Conflict, external economic shocks, poor government policies.",
+              "• Decline in People's Ability to Acquire Food:",
+              "  - Economic factors, forced procurement of farm produce."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Measures to Maintain Food Security",
+            "content": [
+              "• Price stabilization.",
+              "• Food subsidies.",
+              "• Employment creation programs.",
+              "• General food distributions.",
+              "• Supplementary feeding programs.",
+              "• Complementary water and health programs.",
+              "• These measures are essential to protect people's access to food."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "unit": "Unit Eight: Geographical Enquiry and Map Making",
+    "sections": [
+      {
+        "section": "8.1. Fundamentals of Research in Geography",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Purpose and Features of Geographic Research",
+            "content": [
+              "• Research: A systematic and objective inquiry into a problem.",
+              "• Purpose of Research:",
+              "  - Exploration, Explanation, Description, Understanding, Prediction.",
+              "• Features: Focus on spatial distributions, patterns, interactions, and the forces behind them."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Research Approaches",
+            "content": [
+              "• Quantitative Approach:",
+              "  - Uses numerical data and statistical analysis (deductive).",
+              "  - Tests theories (e.g., measuring temperature changes by altitude).",
+              "• Qualitative Approach:",
+              "  - Uses descriptive data (interviews, observations).",
+              "  - Generates theories (inductive).",
+              "• Mixed Methods: Combines both quantitative and qualitative techniques."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "Research Method vs. Methodology",
+            "content": [
+              "• Research Method: The specific techniques for collecting data (e.g., surveys, interviews).",
+              "• Research Methodology: The philosophy and logic behind the research, justifying why certain methods are chosen.",
+              "• A research design is the overall plan for how the study will be conducted."
+            ]
+          },
+          {
+            "slide_number": 4,
+            "title": "Basic Elements of a Research Project",
+            "content": [
+              "1. Problem Identification and Statement.",
+              "2. Objectives (General and Specific).",
+              "3. Research Questions.",
+              "4. Research Design.",
+              "5. Determining the Sample (Probability vs. Non-probability).",
+              "6. Literature Review.",
+              "7. Data Collection (Primary and Secondary).",
+              "8. Data Analysis and Interpretation.",
+              "9. Results, Discussion, Conclusions, and Recommendations."
+            ]
+          }
+        ]
+      },
+      {
+        "section": "8.2. GIS Data and Map Making Using GIS",
+        "slides": [
+          {
+            "slide_number": 1,
+            "title": "Introduction to GIS",
+            "content": [
+              "• GIS (Geographic Information System): A computer system for capturing, storing, analyzing, and presenting spatial data.",
+              "• Five fundamental components: Data, Software, Hardware, People, and Methods.",
+              "• Spatial Data: Data linked to a specific location."
+            ]
+          },
+          {
+            "slide_number": 2,
+            "title": "Gathering Data for GIS",
+            "content": [
+              "• Data Generalization: Selecting the level of measurement:",
+              "  - Nominal, Ordinal, Interval, Ratio.",
+              "• Data Dimensionality:",
+              "  - Point, Line, Area (Polygon), Volume.",
+              "• Data Representation: Methods like Natural Break (Jenk's), Equal Interval, Quantile, and Standard Deviation affect map interpretation."
+            ]
+          },
+          {
+            "slide_number": 3,
+            "title": "GIS Data Analysis",
+            "content": [
+              "• Querying:",
+              "  - Attribute Query: Selecting data based on attributes.",
+              "  - Spatial Query: Selecting data based on location.",
+              "• Analysis to Generate New Data:",
+              "  - Proximity Analysis (Buffering): Creating zones around features.",
+              "  - Overlay Analysis (Vector and Raster): Combining layers to find spatial relationships.",
+              "  - Network Analysis: Finding optimal routes (e.g., for transportation)."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

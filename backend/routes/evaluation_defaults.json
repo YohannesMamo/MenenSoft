@@ -1,0 +1,266 @@
+{
+  "metric_definitions": {
+    "metrics": [
+      {
+        "id": "accuracy",
+        "name": "Accuracy",
+        "shortDescription": "How often you get answers correct",
+        "longDescription": "The percentage of questions you answer correctly across all quizzes and exams. This is one of the most direct measures of your subject understanding.",
+        "icon": "Target",
+        "color": "green",
+        "unit": "%",
+        "calculation": "(Number of correct answers / Total questions) x 100",
+        "interpretation": {
+          "high": "Outstanding! You have strong command of the material.",
+          "medium": "Solid understanding. Focus on problem areas to improve further.",
+          "low": "Review fundamentals. Master basic concepts before advancing."
+        },
+        "example": "Answering 18 out of 20 questions correctly = 90% accuracy.",
+        "howToImprove": [
+          "Review study materials before taking quizzes",
+          "Take notes while studying and review them",
+          "Practice with flashcards on weak topics",
+          "Ask teachers for clarification on confusing concepts"
+        ]
+      },
+      {
+        "id": "consistency",
+        "name": "Consistency",
+        "shortDescription": "How regular and steady your study habits are",
+        "longDescription": "Measures how stable and predictable your performance is across different study sessions. High consistency means you perform similarly well each time.",
+        "icon": "Battery",
+        "color": "blue",
+        "unit": "score",
+        "calculation": "Based on the standard deviation of your quiz scores. Lower variation in scores means higher consistency.",
+        "interpretation": {
+          "high": "Excellent! You maintain steady performance. Your study habits are working well.",
+          "medium": "Good, but there are some ups and downs. Try to study at the same time each day.",
+          "low": "Your scores vary a lot. Set a regular study schedule to build consistency."
+        },
+        "example": "Student A: 70%, 72%, 71% = High consistency. Student B: 45%, 85%, 60% = Low consistency.",
+        "howToImprove": [
+          "Set a fixed daily study time (e.g., 7 PM every night)",
+          "Create a quiet, distraction-free study space",
+          "Take short breaks every 25-30 minutes",
+          "Review notes before each study session"
+        ]
+      },
+      {
+        "id": "responseTime",
+        "name": "Response Speed",
+        "shortDescription": "Average time to answer each question",
+        "longDescription": "The average time you take to answer each question. Faster does not always mean better - balance speed with accuracy.",
+        "icon": "Clock",
+        "color": "purple",
+        "unit": "seconds",
+        "calculation": "Total quiz time / Number of questions answered",
+        "interpretation": {
+          "high": "Very fast! Make sure you are not rushing through questions.",
+          "medium": "Good pace. You are thinking through answers appropriately.",
+          "low": "Taking too long. Review material before quizzing."
+        },
+        "example": "Completing 20 questions in 8 minutes = 24 seconds per question.",
+        "howToImprove": [
+          "Take practice quizzes under timed conditions",
+          "Skip difficult questions and come back later",
+          "Read questions carefully but avoid overthinking",
+          "Study more to reduce hesitation on answers"
+        ]
+      },
+      {
+        "id": "completion",
+        "name": "Completion Rate",
+        "shortDescription": "How many quizzes you finish once started",
+        "longDescription": "The percentage of quizzes you complete after starting them. Abandoning quizzes means missed learning opportunities.",
+        "icon": "BarChart3",
+        "color": "orange",
+        "unit": "%",
+        "calculation": "(Completed quizzes / Total quizzes started) x 100",
+        "interpretation": {
+          "high": "Excellent commitment! You see things through.",
+          "medium": "Good but sometimes abandon quizzes. Push through difficult questions.",
+          "low": "Often leave quizzes unfinished. Try shorter quizzes first."
+        },
+        "example": "Starting 10 quizzes and finishing 9 = 90% completion rate.",
+        "howToImprove": [
+          "Start with shorter quizzes (5-10 questions)",
+          "Set a goal to finish every quiz you start",
+          "Take a break if frustrated, then return",
+          "Remember: incomplete quizzes do not help learning"
+        ]
+      },
+      {
+        "id": "mastery",
+        "name": "Mastery",
+        "shortDescription": "Your cumulative understanding across subjects",
+        "longDescription": "A weighted average of your performance. Harder questions count more toward your mastery score.",
+        "icon": "Brain",
+        "color": "indigo",
+        "unit": "%",
+        "calculation": "Weighted average where hard questions count 3x, medium 2x, easy 1x",
+        "interpretation": {
+          "high": "Ready for exams! Focus on review and advanced topics.",
+          "medium": "Solid progress. Keep studying actively.",
+          "low": "Building foundation. Master basics before moving on."
+        },
+        "example": "Scoring well on hard questions increases mastery faster than easy ones.",
+        "howToImprove": [
+          "Master easy topics first, then tackle hard ones",
+          "Use spaced repetition for better retention",
+          "Teach concepts to someone else",
+          "Take practice exams under real conditions"
+        ]
+      },
+      {
+        "id": "improvement",
+        "name": "Improvement Rate",
+        "shortDescription": "How much your scores increase daily",
+        "longDescription": "The average daily change in your quiz scores. Positive numbers mean you are getting better!",
+        "icon": "TrendingUp",
+        "color": "emerald",
+        "unit": "%/day",
+        "calculation": "Average daily score improvement over the last 7 days",
+        "interpretation": {
+          "high": "Excellent growth! You are learning efficiently.",
+          "medium": "Steady progress. Keep the momentum.",
+          "low": "Slower improvement. Try different study methods."
+        },
+        "example": "Score 60% today and 64% tomorrow = 4% improvement rate.",
+        "howToImprove": [
+          "Track your weak areas and focus on them",
+          "Study in shorter, more frequent sessions",
+          "Use active recall instead of passive reading",
+          "Get feedback on your mistakes"
+        ]
+      },
+      {
+        "id": "risk",
+        "name": "Risk Level",
+        "shortDescription": "Likelihood of falling behind",
+        "longDescription": "A combined score predicting your chance of falling behind if no action is taken. Lower is better.",
+        "icon": "Gauge",
+        "color": "rose",
+        "unit": "%",
+        "calculation": "Combines consistency (30%), accuracy (20%), mastery (30%), and completion (20%)",
+        "interpretation": {
+          "high": "Low risk. You are on the right track!",
+          "medium": "Medium risk. Pay attention to weak areas.",
+          "low": "High risk. Immediate action recommended."
+        },
+        "example": "Low consistency + low accuracy + low mastery = High risk.",
+        "howToImprove": [
+          "Address low-scoring metrics first",
+          "Create a weekly study schedule",
+          "Set small, achievable daily goals",
+          "Ask for help when stuck"
+        ]
+      }
+    ]
+  },
+  "score_thresholds": {
+    "default": {
+      "high": { "min": 80, "label": "Excellent", "color": "emerald" },
+      "medium": { "min": 60, "label": "Good", "color": "blue" },
+      "low": { "min": 0, "label": "Needs Work", "color": "amber" }
+    },
+    "responseTime": {
+      "high": { "max": 15, "label": "Very Fast", "color": "emerald" },
+      "medium": { "max": 30, "label": "Good Pace", "color": "blue" },
+      "low": { "min": 31, "label": "Slow", "color": "amber" }
+    },
+    "improvement": {
+      "high": { "min": 2.0, "label": "Fast", "color": "emerald" },
+      "medium": { "min": 1.0, "label": "Moderate", "color": "blue" },
+      "low": { "min": 0, "label": "Slow", "color": "amber" }
+    },
+    "risk": {
+      "high": { "max": 40, "label": "Low Risk", "color": "emerald" },
+      "medium": { "max": 69, "label": "Medium Risk", "color": "amber" },
+      "low": { "min": 70, "label": "High Risk", "color": "rose" }
+    }
+  },
+  "letter_grades": {
+    "grades": [
+      { "grade": "A+", "min": 95, "color": "emerald", "label": "Outstanding" },
+      { "grade": "A", "min": 90, "color": "emerald", "label": "Excellent" },
+      { "grade": "B+", "min": 85, "color": "blue", "label": "Very Good" },
+      { "grade": "B", "min": 80, "color": "blue", "label": "Good" },
+      { "grade": "C+", "min": 75, "color": "indigo", "label": "Above Average" },
+      { "grade": "C", "min": 70, "color": "indigo", "label": "Average" },
+      { "grade": "D+", "min": 65, "color": "amber", "label": "Below Average" },
+      { "grade": "D", "min": 50, "color": "amber", "label": "Pass" },
+      { "grade": "F", "min": 0, "color": "red", "label": "Fail" }
+    ],
+    "passThreshold": 50,
+    "description": "Letter grades follow the national Ethiopian grading system adapted for MERP evaluation."
+  },
+  "status_labels": {
+    "statuses": [
+      {
+        "id": "OnTrack",
+        "label": "On Track",
+        "description": "Your performance is within normal range. Keep up the good work!",
+        "color": "emerald",
+        "icon": "CheckCircle",
+        "riskRange": { "max": 0.6 }
+      },
+      {
+        "id": "AtRisk",
+        "label": "At Risk",
+        "description": "Some areas need attention. Focus on your weak metrics to get back on track.",
+        "color": "amber",
+        "icon": "AlertTriangle",
+        "riskRange": { "min": 0.6, "max": 0.8 }
+      },
+      {
+        "id": "HighRisk",
+        "label": "High Risk",
+        "description": "Immediate action recommended. Reach out to your teacher or use the improvement suggestions below.",
+        "color": "rose",
+        "icon": "AlertCircle",
+        "riskRange": { "min": 0.8 }
+      }
+    ],
+    "defaultStatus": "OnTrack"
+  },
+  "risk_formula": {
+    "baseScore": 0.5,
+    "penalties": [
+      { "metric": "accuracy", "condition": "lessThan", "threshold": 0.6, "add": 0.15, "description": "Low accuracy (below 60%)" },
+      { "metric": "responseTime", "condition": "greaterThan", "threshold": 45, "add": 0.1, "description": "Slow response time (above 45s)" },
+      { "metric": "consistency", "condition": "lessThan", "threshold": 0.5, "add": 0.1, "description": "Low consistency (below 50%)" },
+      { "metric": "completion", "condition": "lessThan", "threshold": 0.7, "add": 0.1, "description": "Low completion rate (below 70%)" },
+      { "metric": "mastery", "condition": "lessThan", "threshold": 0.6, "add": 0.05, "description": "Low mastery (below 60%)" }
+    ],
+    "cap": 1.0,
+    "description": "Risk score starts at 0.5 and increases based on performance penalties. Lower is better."
+  },
+  "eslce_config": {
+    "passThreshold": 70,
+    "scoreColors": [
+      { "min": 70, "color": "emerald", "label": "Pass" },
+      { "min": 50, "color": "amber", "label": "Borderline" },
+      { "min": 0, "color": "red", "label": "Fail" }
+    ],
+    "gradeScale": [
+      { "grade": "A", "min": 90, "label": "Excellent" },
+      { "grade": "B", "min": 80, "label": "Good" },
+      { "grade": "C", "min": 70, "label": "Average" },
+      { "grade": "D", "min": 50, "label": "Below Average" },
+      { "grade": "F", "min": 0, "label": "Fail" }
+    ],
+    "description": "Ethiopian Standardized Leaving Certificate Examination (ESLCE) grading. Pass threshold: 70%."
+  },
+  "report_sections": {
+    "sections": [
+      { "id": "overview", "title": "Overall Performance Summary", "description": "Your current academic status, letter grade, and key highlights across all activities.", "icon": "LayoutDashboard", "order": 1 },
+      { "id": "study", "title": "Study Activity", "description": "Textbooks studied, sections completed, time invested, and study patterns.", "icon": "BookOpen", "order": 2 },
+      { "id": "quizzes", "title": "Quiz Performance", "description": "Quiz scores, accuracy trends, attempt history, and subject-wise breakdown.", "icon": "ClipboardCheck", "order": 3 },
+      { "id": "exams", "title": "Exam Performance", "description": "Practice and formal exam results with letter grades and comparisons.", "icon": "GraduationCap", "order": 4 },
+      { "id": "eslce", "title": "ESLCE Readiness", "description": "Ethiopian Standardized Leaving Certificate Examination preparation status (Grade 12 only).", "icon": "Award", "order": 5 },
+      { "id": "mastery", "title": "Subject Mastery", "description": "Per-subject mastery levels, strengths, weaknesses, and growth trajectories.", "icon": "Brain", "order": 6 },
+      { "id": "metrics", "title": "Performance Metrics", "description": "Detailed breakdown of all evaluation metrics with personalized interpretation.", "icon": "Activity", "order": 7 },
+      { "id": "recommendations", "title": "Recommendations", "description": "Personalized action items based on your current performance data.", "icon": "Lightbulb", "order": 8 }
+    ]
+  }
+}

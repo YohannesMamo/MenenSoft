@@ -1,0 +1,890 @@
+{
+  "subject": "Mathematics (Grade 12)",
+  "presentation_slides": [
+    {
+      "unit_number": 1,
+      "unit_title": "Sequences and Series",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Sequences",
+          "slides": [
+            {
+              "slide_number": 1,
+              "slide_title": "Unit 1: Introduction",
+              "slide_content": "Mathematics has enormous uses in daily life. A sequence is an arrangement of numbers in a definite order according to some rule. Sequences and Series help us predict, evaluate, and monitor outcomes, aiding in decision making."
+            },
+            {
+              "slide_number": 2,
+              "slide_title": "Section 1.1: Sequences",
+              "slide_content": "Definition: A sequence is a function whose domain is the collection of all integers greater than or equal to a given integer m (usually 0 or 1).\n- Terms: a₁, a₂, a₃, ..., aₙ\n- General term (nth term): aₙ\n- Finite Sequence: Has a last term.\n- Infinite Sequence: Does not have a last term."
+            },
+            {
+              "slide_number": 3,
+              "slide_title": "Finding Terms of a Sequence",
+              "slide_content": "To list the first five terms, substitute n = 1, 2, 3, 4, 5 into the general term.\nExample: aₙ = 2n - 1\n- a₁ = 1\n- a₂ = 3\n- a₃ = 5\n- a₄ = 7\n- a₅ = 9\nTherefore, the sequence is 1, 3, 5, 7, 9,..."
+            },
+            {
+              "slide_number": 4,
+              "slide_title": "Graphing Sequences",
+              "slide_content": "Graphs of sequences follow patterns.\nExample: aₙ = 2n + 1\nThe points (1,3), (2,5), (3,7), (4,9), (5,11) form a straight line, showing the pattern of a linear equation."
+            },
+            {
+              "slide_number": 5,
+              "slide_title": "Fibonacci Sequence",
+              "slide_content": "Defined by Leonardo Fibonacci. Each term is the sum of the two preceding terms.\nDefinition:\nF₀ = 1, F₁ = 1, Fₙ = Fₙ₋₁ + Fₙ₋₂ for n ≥ 2\nSequence: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...\nArose from a problem about rabbit breeding."
+            },
+            {
+              "slide_number": 6,
+              "slide_title": "Mulatu Sequence",
+              "slide_content": "Introduced by Ethiopian Mathematician Professor Mulatu Lemma.\nRecursive Sequence:\nM₀ = 4, M₁ = 1, Mₙ = Mₙ₋₁ + Mₙ₋₂ for n ≥ 2\nSequence: 4, 1, 5, 6, 11, 17, 28, 45, ...\nA recursive sequence defines a term using one or more preceding terms."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2.1",
+          "section_title": "Arithmetic Sequences",
+          "slides": [
+            {
+              "slide_number": 7,
+              "slide_title": "Section 1.2.1: Arithmetic Sequences",
+              "slide_content": "Definition: An arithmetic sequence (or progression) is a sequence where each term, except the first, is obtained by adding a fixed number (common difference) to the preceding term.\n- First term: A₁\n- Common difference: d = A₂ - A₁ = A₃ - A₂ = ...\nGeneral Term: Aₙ = A₁ + (n - 1)d"
+            },
+            {
+              "slide_number": 8,
+              "slide_title": "Arithmetic Sequences: Examples",
+              "slide_content": "Example 1: 2, 5, 8, 11, 14, ...\n- First term (A₁) = 2\n- Common difference (d) = 3\n- 6th term: A₆ = A₅ + d = 14 + 3 = 17\nExample 2: A₁ = 10, d = -4\n- A₂ = 6, A₃ = 2, A₄ = -2, A₅ = -6"
+            },
+            {
+              "slide_number": 9,
+              "slide_title": "Finding the General Term",
+              "slide_content": "Given A₁ = 3 and d = 4:\nA₁ = 3\nA₂ = 3 + 4 = A₁ + d\nA₃ = 3 + 4 + 4 = A₁ + 2d\nA₄ = A₁ + 3d\n...\nIn general: Aₙ = A₁ + (n - 1)d\nThis is the formula for the nth term of an arithmetic sequence."
+            },
+            {
+              "slide_number": 10,
+              "slide_title": "Further on Arithmetic Sequences",
+              "slide_content": "To find A₁ and d when given two terms, set up a system of equations:\nExample: A₃ = 10 and A₆ = 1\n- A₃ = A₁ + 2d = 10\n- A₆ = A₁ + 5d = 1\nSolving gives d = -3 and A₁ = 16\nTherefore, Aₙ = 19 - 3n.\nTo check if a sequence is arithmetic, show the difference between successive terms is constant."
+            },
+            {
+              "slide_number": 11,
+              "slide_title": "Arithmetic Mean",
+              "slide_content": "The arithmetic mean between two numbers a and b is (a + b)/2.\nExample: Insert four arithmetic means between 4 and 14.\n- The sequence will be 4, __, __, __, __, 14\n- We need A₆ = 14, A₁ = 4\n- 14 = 4 + 5d → d = 2\n- The means are 6, 8, 10, 12."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2.2",
+          "section_title": "Geometric Sequences",
+          "slides": [
+            {
+              "slide_number": 12,
+              "slide_title": "Section 1.2.2: Geometric Sequences",
+              "slide_content": "Definition: A geometric sequence (or progression) is a sequence where the ratio between consecutive terms is a non-zero constant.\n- First term: G₁\n- Common ratio: r = G₂/G₁ = G₃/G₂ = ...\n- General Term: Gₙ = G₁ * r^(n-1)"
+            },
+            {
+              "slide_number": 13,
+              "slide_title": "Geometric Sequences: Examples",
+              "slide_content": "Example 1: 3, 6, 12, 24, 48, ...\n- G₁ = 3\n- r = 2\n- G₆ = 3 * 2⁵ = 96\nExample 2: G₁ = -1/2, r = 1/2\n- G₂ = -1/4\n- G₃ = -1/8\n- G₄ = -1/16\n- G₅ = -1/32"
+            },
+            {
+              "slide_number": 14,
+              "slide_title": "Geometric Mean",
+              "slide_content": "The geometric mean m between two numbers a and b satisfies:\nr = m/a = b/m → m² = ab → m = ±√(ab)\nExample: Between 2 and 8:\n- m² = 2 * 8 = 16\n- m = ±4\nSo the geometric mean is 4 or -4."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Sigma Notation and Partial Sums",
+          "slides": [
+            {
+              "slide_number": 15,
+              "slide_title": "Section 1.3: Partial Sums and Sigma Notation",
+              "slide_content": "A partial sum (Sₙ) is the sum of the first n terms of a sequence.\nS₁ = a₁\nS₂ = a₁ + a₂\nS₃ = a₁ + a₂ + a₃\n...\nSₙ = a₁ + a₂ + ... + aₙ = Σ_{k=1}^{n} aₖ"
+            },
+            {
+              "slide_number": 16,
+              "slide_title": "Sigma Notation",
+              "slide_content": "Sigma notation is a concise way to represent sums using the Greek letter Σ.\nSₙ = Σ_{k=1}^{n} aₖ = a₁ + a₂ + a₃ + ... + aₙ\n- k: index of summation\n- 1: lower limit\n- n: upper limit\nExample: Σ_{k=1}^{4} k² = 1² + 2² + 3² + 4² = 30"
+            },
+            {
+              "slide_number": 17,
+              "slide_title": "Properties of Sigma Notation",
+              "slide_content": "1. Σ c aₖ = c Σ aₖ (c is a constant)\n2. Σ (aₖ + bₖ) = Σ aₖ + Σ bₖ\n3. Σ (aₖ - bₖ) = Σ aₖ - Σ bₖ\n4. Σ_{k=1}^{n} aₖ = Σ_{k=1}^{m} aₖ + Σ_{k=m+1}^{n} aₖ (for 1 ≤ m ≤ n)\n5. Σ_{k=1}^{n} c = n c"
+            },
+            {
+              "slide_number": 18,
+              "slide_title": "Sum of Arithmetic Sequences",
+              "slide_content": "The sum of the first n terms of an arithmetic sequence:\nSₙ = (n/2)(A₁ + Aₙ) = (n/2)[2A₁ + (n-1)d]\nExample: Sum of the first 100 natural numbers:\nS₁₀₀ = (100/2)(1 + 100) = 50 * 101 = 5050\nThis was Gauss's famous trick: he wrote the sum forward and backward, then added the pairs."
+            },
+            {
+              "slide_number": 19,
+              "slide_title": "Sum of Geometric Sequences",
+              "slide_content": "The sum of the first n terms of a geometric sequence:\nIf r = 1: Sₙ = nG₁\nIf r ≠ 1: Sₙ = G₁(1 - rⁿ)/(1 - r) = G₁(rⁿ - 1)/(r - 1)\nExample: 1 + 2 + 4 + 8 + ... + 2⁹\nG₁ = 1, r = 2, n = 10\nS₁₀ = 1(2¹⁰ - 1)/(2 - 1) = 1023"
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Infinite Series",
+          "slides": [
+            {
+              "slide_number": 20,
+              "slide_title": "Section 1.4: Infinite Series",
+              "slide_content": "An infinite series is the sum of an infinite sequence:\nΣ_{n=1}^{∞} aₙ = a₁ + a₂ + a₃ + ...\nWe study whether the series converges (has a finite sum) or diverges (does not have a finite sum)."
+            },
+            {
+              "slide_number": 21,
+              "slide_title": "Convergence of Infinite Geometric Series",
+              "slide_content": "For an infinite geometric series G₁, G₁r, G₁r², ...\n- If |r| < 1, the series converges and the sum to infinity is S∞ = G₁/(1 - r)\n- If |r| ≥ 1, the series diverges.\nExample: 3 + 1 + 1/3 + 1/9 + ...\n- G₁ = 3, r = 1/3 (|r| < 1)\n- S∞ = 3/(1 - 1/3) = 3/(2/3) = 9/2 = 4.5"
+            },
+            {
+              "slide_number": 22,
+              "slide_title": "Recurring Decimals",
+              "slide_content": "Recurring decimals (e.g., 0.333...) can be converted to fractions using infinite geometric series.\nExample: 0.333... = 3/10 + 3/100 + 3/1000 + ...\n- This is a geometric series with G₁ = 3/10, r = 1/10\n- S∞ = (3/10)/(1 - 1/10) = (3/10)/(9/10) = 1/3"
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Applications of Sequence and Series in Daily Life",
+          "slides": [
+            {
+              "slide_number": 23,
+              "slide_title": "Section 1.5: Applications of Sequence and Series",
+              "slide_content": "Arithmetic and geometric sequences model many real-life situations.\n- Arithmetic: constant change (e.g., salary increases by a fixed amount)\n- Geometric: constant percentage change (e.g., compound interest, population growth, depreciation)"
+            },
+            {
+              "slide_number": 24,
+              "slide_title": "Example: Salary Increase",
+              "slide_content": "A job applicant finds a firm offers a starting annual salary of Birr 32,500 with a guaranteed raise of Birr 1,400 per year.\na) Salary in the 10th year:\nA₁₀ = 32,500 + (10-1)(1,400) = 45,100 Birr\nb) Total earnings in first 10 years:\nS₁₀ = 10/2 (32,500 + 45,100) = 388,000 Birr"
+            },
+            {
+              "slide_number": 25,
+              "slide_title": "Example: Compound Interest",
+              "slide_content": "A woman deposits Birr 3,500 in a bank account at 6% annual interest.\nAmount at the end of year 1: 3,500(1.06)\nAmount at the end of year 2: 3,500(1.06)²\nThis forms a geometric sequence with G₁ = 3,500 and r = 1.06."
+            },
+            {
+              "slide_number": 26,
+              "slide_title": "Example: Radioactive Decay",
+              "slide_content": "A radioactive substance loses half its mass per year. Starting with 100 grams.\nAmount left after n years: 100(1/2)ⁿ\nAfter 10 years: 100(1/2)¹⁰ = 100/1024 ≈ 0.0977 grams\nThis is a geometric sequence with r = 1/2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Introduction to Calculus",
+      "sections": [
+        {
+          "section_number": "2.1.1",
+          "section_title": "Understanding Rates of Change",
+          "slides": [
+            {
+              "slide_number": 27,
+              "slide_title": "Unit 2: Introduction to Calculus",
+              "slide_content": "Calculus deals with change and motion. The derivative is the exact rate at which one quantity changes with respect to another. Geometrically, the derivative is the slope of a curve at a point (slope of the tangent line). Integration is the inverse process, dealing with accumulation."
+            },
+            {
+              "slide_number": 28,
+              "slide_title": "Section 2.1.1: Rates of Change",
+              "slide_content": "A rate of change describes how one quantity changes in relation to another. It can be:\n- Positive: As x increases, y increases (graph slopes upward).\n- Negative: As x increases, y decreases (graph slopes downward).\n- Zero: As x increases, y remains constant (horizontal line).\n- Undefined: The change in x is zero (vertical line)."
+            },
+            {
+              "slide_number": 29,
+              "slide_title": "Average Rate of Change",
+              "slide_content": "The average rate of change of y = f(x) over [a, b] is:\nΔy/Δx = (f(b) - f(a)) / (b - a)\nThis is the slope of the secant line through (a, f(a)) and (b, f(b))."
+            },
+            {
+              "slide_number": 30,
+              "slide_title": "Example: Average Velocity",
+              "slide_content": "A car's distance (in meters) at time t (in seconds):\nt: 0 1 2 3 4 5\ns: 0 2 10 25 43 78\na) Average velocity from t=2 to t=4:\n(43 - 10)/(4 - 2) = 33/2 = 16.5 m/s\nb) Average velocity from t=2 to t=3:\n(25 - 10)/(3 - 2) = 15 m/s"
+            },
+            {
+              "slide_number": 31,
+              "slide_title": "Instantaneous Rate of Change",
+              "slide_content": "The instantaneous rate of change at a point is the limit of the average rate of change as the interval approaches zero.\nIt is the slope of the tangent line at that point.\nExample: For f(x) = x³ at x = 1:\n- Average rate over [1, 1.1]: (1.331 - 1)/(0.1) = 3.31\n- As the interval shrinks, the rate approaches 3 (which is the derivative f'(1))."
+            }
+          ]
+        },
+        {
+          "section_number": "2.1.2",
+          "section_title": "Gradient of Curves and Rate of Changes",
+          "slides": [
+            {
+              "slide_number": 32,
+              "slide_title": "Section 2.1.2: Gradient and Rate of Change",
+              "slide_content": "A tangent line touches a curve at exactly one point (point of tangency).\nThe gradient (slope) of a line describes steepness and direction:\n- Positive slope: line goes up (increasing).\n- Negative slope: line goes down (decreasing).\n- Zero slope: horizontal line.\nThe slope of a secant line = average rate of change.\nThe slope of a tangent line = instantaneous rate of change."
+            },
+            {
+              "slide_number": 33,
+              "slide_title": "Gradient of a Curve at a Point",
+              "slide_content": "The slope of a secant line through P(a, f(a)) and Q(a + h, f(a + h)) is:\nm_sec = (f(a + h) - f(a)) / h\nAs h → 0, Q approaches P, and the secant becomes the tangent. The slope of the tangent is:\nm_tan = lim_{h→0} (f(a + h) - f(a)) / h\nThis is the derivative f'(a)."
+            }
+          ]
+        },
+        {
+          "section_number": "2.1.3",
+          "section_title": "Gradient at a Point on a Curve",
+          "slides": [
+            {
+              "slide_number": 34,
+              "slide_title": "Section 2.1.3: Gradient at a Point",
+              "slide_content": "The slope of the tangent line at P(a, f(a)) is the derivative f'(a).\nExample: f(x) = x²\n- Slope of secant from P(1,1) to Q(1+h, (1+h)²):\n[(1+h)² - 1] / h = (1 + 2h + h² - 1)/h = 2 + h\n- As h → 0, the slope approaches 2.\n- Therefore, f'(1) = 2.\nFor f(x) = x², the derivative at x = a is 2a."
+            }
+          ]
+        },
+        {
+          "section_number": "2.1.4",
+          "section_title": "Definition of Derivative",
+          "slides": [
+            {
+              "slide_number": 35,
+              "slide_title": "Section 2.1.4: Definition of Derivative",
+              "slide_content": "The derivative of f at a point a is:\nf'(a) = lim_{h→0} (f(a + h) - f(a)) / h\nThis is the slope of the tangent line and the instantaneous rate of change.\nThe derivative as a function is:\nf'(x) = lim_{h→0} (f(x + h) - f(x)) / h"
+            },
+            {
+              "slide_number": 36,
+              "slide_title": "Derivative Notations",
+              "slide_content": "There are several notations for the derivative:\n- f'(x)\n- dy/dx (Leibniz notation)\n- (d/dx) f(x)\n- Df(x)\n- y'\nAll of these represent the derivative of the function with respect to x."
+            },
+            {
+              "slide_number": 37,
+              "slide_title": "Derivative of Power Functions",
+              "slide_content": "Power Rule: If f(x) = xⁿ, then f'(x) = nxⁿ⁻¹.\nExamples:\n- f(x) = x² → f'(x) = 2x\n- f(x) = x³ → f'(x) = 3x²\n- f(x) = x⁷ → f'(x) = 7x⁶\n- f(x) = √x = x^(1/2) → f'(x) = (1/2)x^(-1/2) = 1/(2√x)"
+            },
+            {
+              "slide_number": 38,
+              "slide_title": "Derivatives of Combinations",
+              "slide_content": "Sum/Difference Rule: (f ± g)' = f' ± g'\nConstant Multiple Rule: (kf)' = k f'\nProduct Rule: (fg)' = f'g + fg'\nQuotient Rule: (f/g)' = (f'g - fg') / g²\nChain Rule: (f(g(x)))' = f'(g(x)) * g'(x)"
+            },
+            {
+              "slide_number": 39,
+              "slide_title": "Derivative of Polynomial Functions",
+              "slide_content": "If f(x) = aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀\nThen f'(x) = n aₙ xⁿ⁻¹ + (n-1)aₙ₋₁ xⁿ⁻² + ... + a₁\nExample: f(x) = 3x⁸ - √2 x⁵ + (3/2)x³ + 20x + 1\nf'(x) = 24x⁷ - 5√2 x⁴ + (9/2)x² + 20"
+            }
+          ]
+        },
+        {
+          "section_number": "2.1.5",
+          "section_title": "Maximum and Minimum Points",
+          "slides": [
+            {
+              "slide_number": 40,
+              "slide_title": "Section 2.1.5: Increasing and Decreasing Functions",
+              "slide_content": "A function is increasing where f'(x) ≥ 0.\nA function is decreasing where f'(x) ≤ 0.\nCritical numbers: Points where f'(c) = 0 or f'(c) does not exist.\nExample: f(x) = 3x⁴ - 4x³ - 12x² + 5\nf'(x) = 12x(x - 2)(x + 1)\nCritical numbers: x = -1, 0, 2"
+            },
+            {
+              "slide_number": 41,
+              "slide_title": "Local Maxima and Minima",
+              "slide_content": "A relative (local) maximum occurs at c if f(c) ≥ f(x) for all x near c.\nA relative (local) minimum occurs at c if f(c) ≤ f(x) for all x near c.\nAt a local maximum or minimum, the gradient is zero.\nAbsolute (global) maximum/minimum: The largest/smallest value over the entire domain."
+            },
+            {
+              "slide_number": 42,
+              "slide_title": "First Derivative Test",
+              "slide_content": "If f' changes from negative to positive at c → f(c) is a local minimum.\nIf f' changes from positive to negative at c → f(c) is a local maximum.\nIf f' does not change sign → no local extremum.\nExample: f(x) = 2x³ + 9x² - 24x\nf'(x) = 6(x + 4)(x - 1)\n- At x = -4: f' changes from + to - → local maximum\n- At x = 1: f' changes from - to + → local minimum"
+            },
+            {
+              "slide_number": 43,
+              "slide_title": "Finding Absolute Extrema on a Closed Interval",
+              "slide_content": "To find the absolute maximum and minimum on [a, b]:\n1. Find all critical numbers in (a, b).\n2. Evaluate f at all critical numbers and endpoints a and b.\n3. The largest value is the absolute maximum, the smallest is the absolute minimum.\nExample: f(x) = x² - 2x on [-1, 2]\n- f'(x) = 2x - 2 = 0 → x = 1\n- f(-1) = 3, f(1) = -1, f(2) = 0\n- Absolute maximum: 3 at x = -1\n- Absolute minimum: -1 at x = 1"
+            }
+          ]
+        },
+        {
+          "section_number": "2.1.6",
+          "section_title": "Equation of Tangents and Normal Lines to Curves",
+          "slides": [
+            {
+              "slide_number": 44,
+              "slide_title": "Section 2.1.6: Tangent and Normal Lines",
+              "slide_content": "The derivative f'(a) is the slope of the tangent line at (a, f(a)).\n- Equation of tangent line: y = f'(a)(x - a) + f(a)\n- Equation of normal line (perpendicular): y = -1/f'(a)(x - a) + f(a) (if f'(a) ≠ 0)\nSpecial cases:\n- If f'(a) = 0: tangent is horizontal (y = f(a)), normal is vertical (x = a).\n- If f'(a) is undefined: tangent is vertical (x = a), normal is horizontal (y = f(a))."
+            },
+            {
+              "slide_number": 45,
+              "slide_title": "Example: Tangent and Normal Lines",
+              "slide_content": "f(x) = x³ - 2x at (1, -1)\n- f'(x) = 3x² - 2\n- f'(1) = 1\n- Tangent line: y = 1(x - 1) - 1 = x - 2\n- Normal line: y = -1(x - 1) - 1 = -x"
+            }
+          ]
+        },
+        {
+          "section_number": "2.2.1",
+          "section_title": "Applications of Derivatives in Finding Rate of Change",
+          "slides": [
+            {
+              "slide_number": 46,
+              "slide_title": "Section 2.2.1: Related Rates",
+              "slide_content": "Related rates problems involve finding the rate of change of one quantity in terms of the rate of change of another.\nSteps:\n1. Identify the variables and their rates of change.\n2. Find an equation relating the variables.\n3. Differentiate with respect to time t.\n4. Substitute known values and solve for the desired rate."
+            },
+            {
+              "slide_number": 47,
+              "slide_title": "Example: Related Rates",
+              "slide_content": "The radius of a circle is increasing at 1.5 cm/s. Find the rate of increase of area when the diameter is 12 cm.\n- A = πr²\n- dA/dt = 2πr (dr/dt)\n- When d = 12, r = 6, dr/dt = 1.5\n- dA/dt = 2π(6)(1.5) = 18π cm²/s"
+            },
+            {
+              "slide_number": 48,
+              "slide_title": "Velocity and Acceleration",
+              "slide_content": "If S(t) is the displacement at time t:\n- Velocity: v(t) = dS/dt\n- Acceleration: a(t) = dv/dt = d²S/dt²\nExample: S = t³ - 3t² + 5t + 7\n- v(t) = 3t² - 6t + 5\n- a(t) = 6t - 6\nAt t = 2: v = 5 km/hr, a = 6 km/hr²"
+            }
+          ]
+        },
+        {
+          "section_number": "2.2.2",
+          "section_title": "Applications of Derivatives in Business and Economics",
+          "slides": [
+            {
+              "slide_number": 49,
+              "slide_title": "Section 2.2.2: Marginal Analysis",
+              "slide_content": "In business, derivatives are used for marginal analysis:\n- Marginal Cost (MC) = C'(x)\n- Marginal Revenue (MR) = R'(x)\n- Marginal Profit (MP) = P'(x) = R'(x) - C'(x)\nProfit is maximized when MR = MC.\nRevenue is maximized when MR = 0."
+            },
+            {
+              "slide_number": 50,
+              "slide_title": "Example: Maximizing Profit",
+              "slide_content": "Profit function: P(x) = x - 0.00001x²\n- MP = P'(x) = 1 - 0.00002x\n- Set MP = 0 → x = 50,000 units\n- Sign of P'(x) changes from + to - at x = 50,000 → maximum profit\n- Maximum profit: P(50,000) = 50,000 - 0.00001(50,000)² = 25,000 Birr"
+            },
+            {
+              "slide_number": 51,
+              "slide_title": "Example: Maximizing Revenue",
+              "slide_content": "Demand equation: P = 6 - (1/2)x (price in Birr)\n- Revenue: R(x) = x(6 - 0.5x) = 6x - 0.5x²\n- MR = R'(x) = 6 - x\n- Set MR = 0 → x = 6\n- Maximum revenue: R(6) = 6(6) - 0.5(36) = 36 - 18 = 18 Birr"
+            }
+          ]
+        },
+        {
+          "section_number": "2.2.3",
+          "section_title": "Application of Derivative in Road Taxation",
+          "slides": [
+            {
+              "slide_number": 52,
+              "slide_title": "Section 2.2.3: Road Taxation Example",
+              "slide_content": "A motorist pays annual road tax (50 Birr) and insurance (110 Birr).\nCost per mile: petrol (0.75/30 per mile), service (20/3000 per mile), depreciation (0.001x²/100).\nTotal cost (C) for x miles: C = 160 + 0.025x + 0.00667x + 0.00001x² = 160 + 0.03167x + 0.00001x²\nAverage cost per mile: M = C/x = 160/x + 0.03167 + 0.00001x\nTo minimize average cost, set M' = 0 → -160/x² + 0.00001 = 0 → x = 4000 miles"
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.1",
+          "section_title": "Areas of Regions",
+          "slides": [
+            {
+              "slide_number": 53,
+              "slide_title": "Section 2.3.1: Areas and Accumulation",
+              "slide_content": "The area under a rate function represents the total accumulated change.\n- Velocity function → area = distance traveled.\n- Marginal cost function → area = total cost.\nFor constant functions (y = k): area = k × base (rectangle).\nFor linear functions (y = mx): area = ½ × base × height (triangle)."
+            },
+            {
+              "slide_number": 54,
+              "slide_title": "Riemann Sums",
+              "slide_content": "To find the area under a curve, we can approximate it by dividing the interval into subintervals and constructing rectangles.\nThe sum of the areas of these rectangles is a Riemann sum:\nΣ_{i=1}^{n} f(xᵢ) Δx\nAs n → ∞ (Δx → 0), the Riemann sum approaches the exact area under the curve."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.2",
+          "section_title": "Definite Integrals",
+          "slides": [
+            {
+              "slide_number": 55,
+              "slide_title": "Section 2.3.2: Definite Integrals",
+              "slide_content": "The definite integral is the limit of a Riemann sum:\n∫_a^b f(x) dx = lim_{n→∞} Σ_{i=1}^{n} f(xᵢ) Δx\nFor non-negative functions, the definite integral represents the exact area under the curve.\nIt is read as \"the integral from a to b of f(x) dx\"."
+            },
+            {
+              "slide_number": 56,
+              "slide_title": "Example: Definite Integral",
+              "slide_content": "Evaluate ∫_0^2 (3x + 2) dx\nThis is the area under the line y = 3x + 2 from x = 0 to x = 2.\nThe region is a trapezoid.\nArea = (1/2) × (height1 + height2) × base = (1/2) × (2 + 8) × 2 = 10\nTherefore, ∫_0^2 (3x + 2) dx = 10"
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.3",
+          "section_title": "Area and Definite Integrals",
+          "slides": [
+            {
+              "slide_number": 57,
+              "slide_title": "Section 2.3.3: The Fundamental Theorem of Calculus",
+              "slide_content": "The Fundamental Theorem of Calculus connects differentiation and integration:\nIf F is an anti-derivative of f (i.e., F' = f), then ∫_a^b f(x) dx = F(b) - F(a).\nTo find the area under a curve:\n1. Find an anti-derivative F(x) of f(x).\n2. Evaluate F(b) - F(a)."
+            },
+            {
+              "slide_number": 58,
+              "slide_title": "Example: Area Under a Curve",
+              "slide_content": "Find the area under y = x² + 1 from x = -1 to x = 2.\n- f(x) = x² + 1\n- Anti-derivative: F(x) = x³/3 + x\n- F(2) - F(-1) = (8/3 + 2) - (-1/3 - 1) = (8/3 + 6/3) - (-1/3 - 3/3) = 14/3 - (-4/3) = 18/3 = 6"
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.4",
+          "section_title": "More on Area",
+          "slides": [
+            {
+              "slide_number": 59,
+              "slide_title": "Section 2.3.4: Definite Integrals of Negative Functions",
+              "slide_content": "If f(x) < 0 on an interval, the definite integral is negative.\nThe definite integral gives the net signed area (area above x-axis minus area below x-axis).\nTo find the total (physical) area:\n1. Split the interval at points where f(x) = 0.\n2. Integrate over each sub-interval and take the absolute value.\n3. Sum these values."
+            },
+            {
+              "slide_number": 60,
+              "slide_title": "Example: Area with Negative Values",
+              "slide_content": "Find the area between y = x² - 1 and the x-axis from x = 0 to x = 2.\n- x² - 1 = 0 → x = 1 (x-intercept in [0,2])\n- Area = -∫_0^1 (x² - 1) dx + ∫_1^2 (x² - 1) dx\n- = -[x³/3 - x]_0^1 + [x³/3 - x]_1^2\n- = -[-2/3] + [8/3 - 2 - (1/3 - 1)] = 2/3 + 4/3 = 2"
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.5",
+          "section_title": "Application of Integration",
+          "slides": [
+            {
+              "slide_number": 61,
+              "slide_title": "Section 2.3.5: Applications of Integration",
+              "slide_content": "Integration is used to accumulate rates of change:\n- Total profit from marginal profit: P(x) = ∫ P'(x) dx\n- Displacement from velocity: s(t) = ∫ v(t) dt\n- Distance traveled: ∫ |v(t)| dt\n- Total cost from marginal cost: C(x) = ∫ C'(x) dx"
+            },
+            {
+              "slide_number": 62,
+              "slide_title": "Example: Total Profit",
+              "slide_content": "Airlines determines marginal profit: P'(x) = √x - 6 (in hundreds of dollars)\nTotal profit when 60 seats are sold:\nP(60) = ∫_0^60 (√x - 6) dx = [2/3 x^(3/2) - 6x]_0^60\n= 2/3(60)^(3/2) - 360 = 2/3(464.76) - 360 ≈ -50.16 (hundreds of dollars)\nThe airline loses about $5,016 on the flight."
+            },
+            {
+              "slide_number": 63,
+              "slide_title": "Example: Distance Traveled",
+              "slide_content": "A vehicle traveling at 40 mi/hr (58.67 ft/sec) applies the brakes. Velocity: v(t) = -1.197t² + 58.67 (0 ≤ t ≤ 7)\nDistance traveled while braking:\ns = ∫_0^7 (-1.197t² + 58.67) dt\n= [-1.197/3 t³ + 58.67t]_0^7\n= -0.399(343) + 410.69 ≈ 273.83 ft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Statistics",
+      "sections": [
+        {
+          "section_number": "3.1.1",
+          "section_title": "Range and Inter-quartile Range",
+          "slides": [
+            {
+              "slide_number": 64,
+              "slide_title": "Unit 3: Introduction to Statistics",
+              "slide_content": "Statistics deals with the collection, organization, analysis, and interpretation of numerical data. Measures of dispersion describe the spread or variability of data. This unit covers absolute and relative measures of dispersion, frequency curves, and sampling techniques."
+            },
+            {
+              "slide_number": 65,
+              "slide_title": "Section 3.1.1: Range",
+              "slide_content": "Range (R) is the difference between the largest (L) and smallest (S) values: R = L - S.\nFor grouped data: R = Upper boundary of highest class - Lower boundary of lowest class.\nAdvantages: Simple to compute.\nLimitations: Only depends on extreme values; highly affected by outliers; does not consider variations between values."
+            },
+            {
+              "slide_number": 66,
+              "slide_title": "Inter-quartile Range (IQR)",
+              "slide_content": "The inter-quartile range is the difference between the third and first quartiles: IQR = Q₃ - Q₁.\nIt measures the spread of the middle 50% of the data.\nFor ungrouped data:\n- Q₁: The median of the lower half.\n- Q₃: The median of the upper half.\nFor grouped data: Use interpolation within the quartile class.\nLimitation: It only considers the middle 50% of the data and ignores extreme values."
+            },
+            {
+              "slide_number": 67,
+              "slide_title": "Example: IQR",
+              "slide_content": "For the data: 15, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70\n- Q₁: 30 (3rd value), Q₃: 60 (9th value)\n- IQR = 60 - 30 = 30\nThis means the middle 50% of the data is spread over 30 units."
+            }
+          ]
+        },
+        {
+          "section_number": "3.1.2",
+          "section_title": "Mean Deviation and Quartile Deviation",
+          "slides": [
+            {
+              "slide_number": 68,
+              "slide_title": "Section 3.1.2: Mean Deviation",
+              "slide_content": "Mean deviation (MD) is the average of the absolute deviations from a central value.\nAbout the mean: MD(𝑥̄) = Σ|xᵢ - 𝑥̄| / n\nAbout the median: MD(m_d) = Σ|xᵢ - m_d| / n\nAbout the mode: MD(m_o) = Σ|xᵢ - m_o| / n\nFor grouped data: Use class midpoints and frequencies.\nAdvantages: Considers all data points.\nLimitations: Uses absolute values, making it mathematically less tractable."
+            },
+            {
+              "slide_number": 69,
+              "slide_title": "Example: Mean Deviation",
+              "slide_content": "Data: 50, 80, 80, 110, 110, 110, 140, 160\nMean (𝑥̄) = 105\nMD about the mean:\n|50-105| + |80-105| + |80-105| + |110-105| + |110-105| + |110-105| + |140-105| + |160-105| = 55+25+25+5+5+5+35+55 = 210\nMD = 210/8 = 26.25"
+            },
+            {
+              "slide_number": 70,
+              "slide_title": "Quartile Deviation",
+              "slide_content": "Quartile deviation (QD) is half the inter-quartile range: QD = (Q₃ - Q₁)/2.\nIt is a measure of dispersion based on quartiles, not affected by extreme values.\nExample: For Q₁ = 56 and Q₃ = 90\nQD = (90 - 56)/2 = 17"
+            }
+          ]
+        },
+        {
+          "section_number": "3.1.3",
+          "section_title": "Variance and Standard Deviation",
+          "slides": [
+            {
+              "slide_number": 71,
+              "slide_title": "Section 3.1.3: Variance",
+              "slide_content": "Variance (σ²) is the average of the squared deviations from the mean.\nFor ungrouped data: σ² = Σ(xᵢ - 𝑥̄)² / n\nFor grouped data: σ² = Σ fᵢ(mᵢ - 𝑥̄)² / Σ fᵢ\nAdvantages: Rigidly defined, based on all observations, mathematically tractable.\nLimitations: Squared deviations give more weight to extreme values."
+            },
+            {
+              "slide_number": 72,
+              "slide_title": "Standard Deviation",
+              "slide_content": "Standard deviation (σ) is the positive square root of the variance.\nσ = √(Σ(xᵢ - 𝑥̄)² / n)\nIt is expressed in the same units as the data, making it more interpretable.\nA small standard deviation indicates data points are clustered near the mean.\nA large standard deviation indicates data points are spread out."
+            },
+            {
+              "slide_number": 73,
+              "slide_title": "Example: Variance and Standard Deviation",
+              "slide_content": "Data: 16, 12, 8, 18, 5, 9, 24, 20\nMean = 14\nSquared deviations: (16-14)²=4, (12-14)²=4, (8-14)²=36, (18-14)²=16, (5-14)²=81, (9-14)²=25, (24-14)²=100, (20-14)²=36\nSum of squared deviations = 302\nVariance = 302/8 = 37.75\nStandard deviation = √37.75 ≈ 6.14"
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Interpretation of Relative Dispersions",
+          "slides": [
+            {
+              "slide_number": 74,
+              "slide_title": "Section 3.2: Relative Measures of Dispersion",
+              "slide_content": "Relative measures are used to compare variability between different data sets, especially when units differ.\nThey are unitless and often expressed as percentages.\nCommon relative measures:\n- Coefficient of Range: CR = (L - S)/(L + S)\n- Coefficient of Quartile Deviation: CQD = (Q₃ - Q₁)/(Q₃ + Q₁)\n- Coefficient of Mean Deviation: CMD = MD / Mean (or Median)\n- Coefficient of Variation: CV = (σ / 𝑥̄) × 100%"
+            },
+            {
+              "slide_number": 75,
+              "slide_title": "Coefficient of Variation (CV)",
+              "slide_content": "CV is the most widely used relative measure: CV = (σ / 𝑥̄) × 100%\nIt measures the consistency or stability of data.\nA lower CV indicates more consistency (less relative variability).\nExample: \n- Data set A: mean = 50, σ = 10 → CV = 20%\n- Data set B: mean = 100, σ = 10 → CV = 10%\nData set B is more consistent (less relative variation)."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Use of Frequency Curves",
+          "slides": [
+            {
+              "slide_number": 76,
+              "slide_title": "Section 3.3: Skewness",
+              "slide_content": "Skewness describes the asymmetry of a distribution.\n- Symmetrical: Mean = Median = Mode\n- Positively Skewed (Right-skewed): Mean > Median > Mode (longer tail on the right)\n- Negatively Skewed (Left-skewed): Mean < Median < Mode (longer tail on the left)"
+            },
+            {
+              "slide_number": 77,
+              "slide_title": "Pearson's Coefficient of Skewness",
+              "slide_content": "Pearson's coefficient: Sk = 3(Mean - Median) / Standard Deviation\n- Sk = 0: Symmetrical\n- Sk > 0: Positively skewed\n- Sk < 0: Negatively skewed\nExample: Mean = 108, Median = 110, SD = 5.7\nSk = 3(108 - 110)/5.7 = -6/5.7 ≈ -1.05 → Negatively skewed"
+            },
+            {
+              "slide_number": 78,
+              "slide_title": "Bowley's Coefficient of Skewness",
+              "slide_content": "Bowley's coefficient: Sk = (Q₃ + Q₁ - 2*Median) / (Q₃ - Q₁)\n- Sk = 0: Symmetrical\n- Sk > 0: Positively skewed\n- Sk < 0: Negatively skewed\nExample: Q₁ = 11, Median = 14, Q₃ = 17\nSk = (17 + 11 - 2*14) / (17 - 11) = (28 - 28)/6 = 0 → Symmetrical"
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Sampling Techniques",
+          "slides": [
+            {
+              "slide_number": 79,
+              "slide_title": "Section 3.4: Population and Sample",
+              "slide_content": "Population: The entire group of individuals or items being studied.\nSample: A subset of the population selected for study.\nWhy sample? It is often impractical, costly, or time-consuming to study the entire population.\nA sample must be representative of the population to allow valid inferences."
+            },
+            {
+              "slide_number": 80,
+              "slide_title": "Probability Sampling Techniques",
+              "slide_content": "Simple Random Sampling (SRS): Each member has an equal chance of selection. Methods: lottery, random number table.\nSystematic Sampling: Select every kth item from an ordered list (k = N/n).\nStratified Sampling: Divide population into strata (homogeneous groups) and sample from each.\nCluster Sampling: Select entire groups (clusters) at random.\nMultistage Sampling: A combination of methods in stages."
+            },
+            {
+              "slide_number": 81,
+              "slide_title": "Advantages and Limitations",
+              "slide_content": "Simple Random: Simple, unbiased, but may be expensive and time-consuming.\nSystematic: Easy to implement, but may introduce bias if the list has a pattern.\nStratified: More representative, but requires knowledge of strata.\nCluster: Cost-effective, but may have higher sampling error.\nMultistage: Flexible, but complex and subjective."
+            },
+            {
+              "slide_number": 82,
+              "slide_title": "Using Excel for Statistics",
+              "slide_content": "Excel provides functions for statistical calculations:\n- Range: =MAX() - MIN()\n- Variance: =VAR.P() (population) or =VAR.S() (sample)\n- Standard Deviation: =STDEV.P() or =STDEV.S()\n- Quartiles: =QUARTILE.INC() or =QUARTILE.EXC()\nThese tools are useful for analyzing data quickly and accurately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Introduction to Linear Programming",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Graphical Solutions of System of Linear Inequalities",
+          "slides": [
+            {
+              "slide_number": 83,
+              "slide_title": "Unit 4: Introduction to Linear Programming",
+              "slide_content": "Linear programming deals with finding the maximum or minimum of a linear function subject to constraints. It has applications in business, economics, and industry. This unit covers solving linear programming problems using the graphical method."
+            },
+            {
+              "slide_number": 84,
+              "slide_title": "Section 4.1: Linear Inequalities in One Variable",
+              "slide_content": "A linear inequality in one variable (e.g., 7x + 3 < 5x + 9) is solved using rules similar to equations.\nRules:\n1. Equal numbers can be added/subtracted from both sides.\n2. Multiplying/dividing by a positive number preserves the inequality sign.\n3. Multiplying/dividing by a negative number reverses the inequality sign."
+            },
+            {
+              "slide_number": 85,
+              "slide_title": "Linear Inequalities in Two Variables",
+              "slide_content": "A linear inequality in two variables (e.g., ax + by < c) divides the plane into two half-planes.\nSteps to graph:\n1. Graph the boundary line (ax + by = c). Dashed for < or >, solid for ≤ or ≥.\n2. Test a point (e.g., (0,0)).\n3. Shade the half-plane that satisfies the inequality."
+            },
+            {
+              "slide_number": 86,
+              "slide_title": "Systems of Linear Inequalities",
+              "slide_content": "The solution of a system of linear inequalities is the intersection of the solution regions of each inequality (the feasible region).\nSteps:\n1. Graph each inequality on the same coordinate plane.\n2. Shade the region that satisfies all inequalities.\n3. The overlapped shaded region is the feasible region.\n4. Vertices (corner points) are the intersections of boundary lines."
+            },
+            {
+              "slide_number": 87,
+              "slide_title": "Example: Graphing a System",
+              "slide_content": "Solve: y ≥ -x + 3 and y ≤ 2x\n- Graph y = -x + 3 (solid) and y = 2x (solid).\n- Shade above y = -x + 3 and below y = 2x.\n- The overlapping region is the solution.\n- The vertex (intersection) is at (1, 2), but it is not part of the solution."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Maximum and Minimum Values",
+          "slides": [
+            {
+              "slide_number": 88,
+              "slide_title": "Section 4.2: Linear Programming Concepts",
+              "slide_content": "A Linear Programming Problem (LPP) involves optimizing a linear objective function subject to constraints.\n- Objective Function: Z = ax + by (to be maximized or minimized).\n- Decision Variables: x and y.\n- Constraints: Linear inequalities that limit the values of x and y.\n- Feasible Region: The set of all points satisfying the constraints."
+            },
+            {
+              "slide_number": 89,
+              "slide_title": "Corner Point Theorem",
+              "slide_content": "If an optimal solution exists, it will occur at a corner point (vertex) of the feasible region.\nCorner Point Method:\n1. Graph the feasible region.\n2. Find all corner points (vertices).\n3. Evaluate the objective function at each corner point.\n4. The largest value is the maximum, the smallest is the minimum.\nIf the feasible region is bounded, both a maximum and minimum exist."
+            },
+            {
+              "slide_number": 90,
+              "slide_title": "Example: Maximizing Profit",
+              "slide_content": "Maximize Z = 300x + 100y\nConstraints: 5x + y ≤ 100, x + y ≤ 60, x ≥ 0, y ≥ 0\n- Feasible region vertices: (0,0), (20,0), (10,50), (0,60)\n- Z(0,0) = 0\n- Z(20,0) = 6000\n- Z(10,50) = 8000 (maximum)\n- Z(0,60) = 6000\nOptimal solution: 10 tables and 50 chairs → profit of 8000 Birr."
+            },
+            {
+              "slide_number": 91,
+              "slide_title": "Bounded and Unbounded Regions",
+              "slide_content": "A bounded feasible region is enclosed within a finite area (e.g., a polygon).\nAn unbounded feasible region extends infinitely in some direction.\nIf the feasible region is bounded, an optimal solution always exists.\nIf the feasible region is unbounded, an optimal solution may not exist, or it may be infinite."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Applications",
+          "slides": [
+            {
+              "slide_number": 92,
+              "slide_title": "Section 4.3: Diet Problems",
+              "slide_content": "Diet problems involve minimizing the cost of a diet while meeting nutritional requirements.\nExample: A special feed requires at least 800 kg daily, with at least 30% protein and at most 4% fiber.\n- Corn: 10% protein, 2% fiber, cost 30 Birr/kg\n- Soybean: 60% protein, 6% fiber, cost 90 Birr/kg\nLet x = kg of corn, y = kg of soybean.\nObjective: Minimize Z = 30x + 90y\nConstraints: x + y ≥ 800, 0.1x + 0.6y ≥ 0.3(x+y), 0.02x + 0.06y ≤ 0.04(x+y), x ≥ 0, y ≥ 0"
+            },
+            {
+              "slide_number": 93,
+              "slide_title": "Manufacturing Problems",
+              "slide_content": "Manufacturing problems involve maximizing profit subject to resource constraints.\nExample: Furniture company makes models A and B.\n- Model A: 9 hours fabricating, 1 hour finishing, profit 8000 Birr.\n- Model B: 12 hours fabricating, 3 hours finishing, profit 12000 Birr.\n- Available: 180 hours fabricating, 30 hours finishing.\nMaximize Z = 8000x + 12000y\nConstraints: 9x + 12y ≤ 180, x + 3y ≤ 30, x ≥ 0, y ≥ 0"
+            },
+            {
+              "slide_number": 94,
+              "slide_title": "Transportation Problems",
+              "slide_content": "Transportation problems involve minimizing the cost of shipping goods from supply points to demand points.\nExample: Two factories supply three markets.\n- Weekly requirements: A=5, B=5, C=4.\n- Production capacities: Factory 1=8, Factory 2=6.\nThe goal is to find the shipping schedule that minimizes total cost."
+            },
+            {
+              "slide_number": 95,
+              "slide_title": "Using Excel Solver",
+              "slide_content": "Excel Solver is a powerful tool for solving LP problems, especially with many variables.\nSteps:\n1. Enter the objective function coefficients and constraints in a spreadsheet.\n2. Go to Data → Solver.\n3. Set the objective cell, choose Max or Min.\n4. Specify the changing cells (decision variables).\n5. Add constraints.\n6. Click Solve.\nSolver provides the optimal solution and sensitivity reports."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Mathematical Applications in Business",
+      "sections": [
+        {
+          "section_number": "5.1.1",
+          "section_title": "Ratio",
+          "slides": [
+            {
+              "slide_number": 96,
+              "slide_title": "Unit 5: Mathematical Applications in Business",
+              "slide_content": "This unit covers the application of mathematics in business and personal finance. Topics include ratios, proportions, percentages, interest, annuities, depreciation, saving, investing, borrowing, and taxation. The unit combines mathematical skills with financial literacy."
+            },
+            {
+              "slide_number": 97,
+              "slide_title": "Section 5.1.1: Ratios",
+              "slide_content": "A ratio compares two numbers by division. It is expressed as a:b or a/b.\n- Part-to-whole ratio: compares a part to the whole.\n- Part-to-part ratio: compares two parts of a group.\n- Continued ratio: compares three or more quantities (a:b:c).\n- Equivalent ratios: obtained by multiplying or dividing both terms by the same number."
+            },
+            {
+              "slide_number": 98,
+              "slide_title": "Example: Allocating in a Ratio",
+              "slide_content": "Allocate Birr 1500 in the ratio 2:3:7\n- Total parts = 2 + 3 + 7 = 12\n- Value of one part = 1500/12 = 125\n- Shares: 2×125 = 250, 3×125 = 375, 7×125 = 875\nSo, the amounts are Birr 250, Birr 375, and Birr 875."
+            }
+          ]
+        },
+        {
+          "section_number": "5.1.2",
+          "section_title": "Rates",
+          "slides": [
+            {
+              "slide_number": 99,
+              "slide_title": "Section 5.1.2: Rates",
+              "slide_content": "A rate is a comparison of two quantities with different units (e.g., km/h, Birr/kg).\nA unit rate has a denominator of 1.\nRate of change = (Final amount - Original amount) / Original amount\n- Positive: increase\n- Negative: decrease\n- Zero: no change"
+            },
+            {
+              "slide_number": 100,
+              "slide_title": "Example: Rate of Change",
+              "slide_content": "Yirgacheffe coffee price increased from 1,277 Birr to 1,780 Birr per 17 kg.\nRate of change = (1780 - 1277)/1277 = 503/1277 ≈ 0.394\nThis is a 39.4% increase."
+            }
+          ]
+        },
+        {
+          "section_number": "5.1.3",
+          "section_title": "Proportion",
+          "slides": [
+            {
+              "slide_number": 101,
+              "slide_title": "Section 5.1.3: Proportions",
+              "slide_content": "A proportion states that two ratios are equal: a:b = c:d.\n- Extremes: a and d\n- Means: b and c\n- Cross-multiplication: ad = bc\nDirect proportion: y = kx (x and y increase together).\nInverse proportion: xy = k (x increases, y decreases).\nCompound proportion: y varies jointly with two or more variables."
+            },
+            {
+              "slide_number": 102,
+              "slide_title": "Example: Direct Proportion",
+              "slide_content": "If the price of 15 stamps is Birr 60, what is the price of 72 stamps?\n- This is direct proportion.\n- 15/60 = 72/x → 15x = 4320 → x = 288 Birr"
+            }
+          ]
+        },
+        {
+          "section_number": "5.1.4",
+          "section_title": "Percentage",
+          "slides": [
+            {
+              "slide_number": 103,
+              "slide_title": "Section 5.1.4: Percentage",
+              "slide_content": "A percentage is a ratio expressed as a fraction of 100.\n- Percentage = Base × Rate\n- Base = Percentage / Rate\n- Rate = Percentage / Base\nMarkup = Selling Price - Cost\nMarkup Rate on Cost = Markup / Cost × 100%\nMarkup Rate on Selling Price = Markup / Selling Price × 100%\nDiscount = Regular Price - Sale Price\nDiscount Rate = Discount / Regular Price × 100%"
+            },
+            {
+              "slide_number": 104,
+              "slide_title": "Example: Discount",
+              "slide_content": "A product with a 25% discount is sold for 81 Birr. What is the regular price?\n- The customer paid 75% of the regular price.\n- Let n be the regular price.\n- 0.75n = 81 → n = 108 Birr\nCheck: 25% of 108 = 27, 108 - 27 = 81."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2.1",
+          "section_title": "Simple Interest",
+          "slides": [
+            {
+              "slide_number": 105,
+              "slide_title": "Section 5.2.1: Simple Interest",
+              "slide_content": "Simple interest is computed only on the principal.\nFormula: I = Prt\n- P: Principal (amount borrowed/invested)\n- r: Annual interest rate (as a decimal)\n- t: Time in years\nFuture Value (Amount): A = P + I = P(1 + rt)\nKey terms: Debtor (borrower), Creditor (lender), Term (duration)."
+            },
+            {
+              "slide_number": 106,
+              "slide_title": "Example: Simple Interest",
+              "slide_content": "Ashamo borrows Birr 18,500 at 9.5% simple interest for 2 years.\n- I = 18,500 × 0.095 × 2 = 3,515 Birr\n- A = 18,500 + 3,515 = 22,015 Birr\nAfter 2 years, he will pay a total of 22,015 Birr."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2.2",
+          "section_title": "Compound Interest",
+          "slides": [
+            {
+              "slide_number": 107,
+              "slide_title": "Section 5.2.2: Compound Interest",
+              "slide_content": "Compound interest is calculated on the principal and accumulated interest.\nFormula: A = P(1 + i)^n\n- i = r/m (interest rate per compounding period)\n- m = number of compounding periods per year\n- n = m × t (total number of periods)\nEffective Annual Rate (EAR): EAR = (1 + r/m)^m - 1\nMore frequent compounding results in a higher EAR."
+            },
+            {
+              "slide_number": 108,
+              "slide_title": "Example: Compound Interest",
+              "slide_content": "Birr 6,000 at 8% compounded annually for 5 years.\n- A = 6000(1.08)⁵ = 6000(1.4693) = 8,815.97 Birr\nIf compounded monthly:\n- A = 6000(1 + 0.08/12)^(12×5) = 6000(1.006667)^60 ≈ 8,937.14 Birr\nMonthly compounding gives more interest."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2.3",
+          "section_title": "Annuity",
+          "slides": [
+            {
+              "slide_number": 109,
+              "slide_title": "Section 5.2.3: Annuity",
+              "slide_content": "An annuity is a series of equal payments at regular intervals.\n- Ordinary Annuity: payments at the end of each period.\n- Annuity Due: payments at the beginning of each period.\nFuture Value of Ordinary Annuity: FV = R × S_{n|i}\n- S_{n|i} = ((1+i)^n - 1)/i (Annuity Factor)\nFuture Value of Annuity Due: FV = R × S_{n|i} × (1+i)\nPresent Value of Ordinary Annuity: PV = R × a_{n|i}\n- a_{n|i} = (1 - (1+i)^(-n))/i"
+            },
+            {
+              "slide_number": 110,
+              "slide_title": "Example: Future Value of an Annuity",
+              "slide_content": "Deposit Birr 5,000 at the end of each year for 20 years at 9.5%.\n- i = 0.095, n = 20\n- S_{20|0.095} = ((1.095)^20 - 1)/0.095 ≈ 54.122\n- FV = 5000 × 54.122 ≈ 270,611 Birr"
+            }
+          ]
+        },
+        {
+          "section_number": "5.2.4",
+          "section_title": "Amortization",
+          "slides": [
+            {
+              "slide_number": 111,
+              "slide_title": "Section 5.2.4: Amortization",
+              "slide_content": "Amortization is the gradual repayment of a loan with regular payments.\nAn amortization schedule shows each payment broken down into interest and principal.\nThe payment amount R is found from: PV = R × a_{n|i}, so R = PV / a_{n|i}\nIn the early payments, most of the payment goes toward interest.\nOver time, the principal portion increases."
+            },
+            {
+              "slide_number": 112,
+              "slide_title": "Example: Loan Payment",
+              "slide_content": "A family takes a 30-year mortgage of Birr 300,000 at 12% (1% per month).\n- n = 360, i = 0.01\n- a_{360|0.01} = (1 - (1.01)^(-360))/0.01 ≈ 97.218\n- R = 300,000 / 97.218 ≈ 3,085.84 Birr per month\nThe first month's interest: 300,000 × 0.01 = 3,000 Birr\nPrincipal payment: 3,085.84 - 3,000 = 85.84 Birr"
+            }
+          ]
+        },
+        {
+          "section_number": "5.2.5",
+          "section_title": "Depreciation",
+          "slides": [
+            {
+              "slide_number": 113,
+              "slide_title": "Section 5.2.5: Depreciation",
+              "slide_content": "Depreciation is the decline in the value of an asset over time. Appreciation is an increase in value.\nDeclining Balance Depreciation: Fixed percentage of the current value.\n- Value after n years: Vₙ = V₀(1 - r)^n\nStraight-Line Depreciation: Fixed annual amount.\n- Annual Depreciation = (Initial Cost - Residual Value) / Useful Life\n- Value after t years: Vₜ = Initial Cost - (Annual Depreciation × t)"
+            },
+            {
+              "slide_number": 114,
+              "slide_title": "Comparing Depreciation Methods",
+              "slide_content": "Declining Balance:\n- Larger depreciation in early years, decreasing over time.\n- Better matches actual market value for many assets.\nStraight-Line:\n- Constant depreciation each year.\n- Simpler to calculate.\n- Often used for financial reporting.\nExample: A car worth 725,000 Birr depreciates at 15% per year. After 5 years, its value is 725,000(0.85)⁵ ≈ 321,686 Birr."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Saving, Investing and Borrowing Money",
+          "slides": [
+            {
+              "slide_number": 115,
+              "slide_title": "Section 5.3: Money and Its Functions",
+              "slide_content": "Money functions as a medium of exchange, a store of value, and a unit of account.\nSaving: Setting aside money for future use, low-risk, accessible.\nInvesting: Using money to purchase assets with expected return, but with higher risk.\nKey differences: Saving is safer; investing has higher potential returns and greater risk."
+            },
+            {
+              "slide_number": 116,
+              "slide_title": "Saving Institutions",
+              "slide_content": "Commercial Banks: Accept deposits and make loans. Can be public or private.\nSavings and Loan Associations (S&Ls): Convert savings into mortgage loans.\nCredit Unions (CUs): Nonprofit organizations owned by members with a common bond.\n- CUs are not taxed and call deposits \"shares\" and interest \"dividends\"."
+            },
+            {
+              "slide_number": 117,
+              "slide_title": "Types of Investments",
+              "slide_content": "Stocks (Equity): Ownership in a company. Shareholders have voting rights, receive dividends, and share in liquidation.\n- Common Stock: Basic ownership with voting rights.\n- Preferred Stock: Priority for dividends and assets in liquidation.\nBonds (Debt): Loans to an issuer (government or corporation).\n- Par Value, Coupon Rate, Maturity Date.\nMutual Funds: Pooled investments in a diversified portfolio."
+            },
+            {
+              "slide_number": 118,
+              "slide_title": "Return on Investment (ROI)",
+              "slide_content": "ROI measures the profitability of an investment.\nROI = (Current Value - Cost) / Cost × 100%\nExample: An asset bought for Birr 800 is now worth Birr 1,000.\nROI = (1000 - 800)/800 × 100% = 25%"
+            },
+            {
+              "slide_number": 119,
+              "slide_title": "Financing Options",
+              "slide_content": "Equity Financing: Raising capital by selling ownership shares.\n- Advantages: No repayment obligation.\n- Disadvantages: Share profits, lose some control.\nDebt Financing: Raising capital by borrowing money.\n- Advantages: No loss of control, interest is tax-deductible.\n- Disadvantages: Obligation to repay, interest payments.\nTypes of loans: Secured (collateral) and Unsecured (no collateral)."
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Taxation",
+          "slides": [
+            {
+              "slide_number": 120,
+              "slide_title": "Section 5.4: Taxation",
+              "slide_content": "A tax is a compulsory financial charge imposed by the government to fund public expenditures.\nDirect Tax: Paid directly by the individual (e.g., income tax).\nIndirect Tax: Passed on to the consumer (e.g., VAT).\nObjectives: Revenue generation, reducing inequalities, economic stability, behavior change."
+            },
+            {
+              "slide_number": 121,
+              "slide_title": "Income Tax: Schedule A",
+              "slide_content": "Schedule 'A': Income from Employment.\n- First Birr 600 is tax-exempt.\nRates (Progressive):\n- 600-1,650: 10%\n- 1,650-3,200: 15%\n- 3,200-5,250: 20%\n- 5,250-7,800: 25%\n- 7,800-10,900: 30%\n- Over 10,900: 35%\nTax can be calculated using the progression method or the deduction method."
+            },
+            {
+              "slide_number": 122,
+              "slide_title": "Income Tax: Schedules B, C, and D",
+              "slide_content": "Schedule 'B': Income from Rental of Buildings.\n- Rates: Same as Schedule A for individuals; 30% for bodies.\n- Allowable deductions: taxes, maintenance, depreciation (if books kept).\nSchedule 'C': Income from Business.\n- 30% for bodies; individual rates same as Schedule B.\n- Categories: A (over 1 million), B (500,000-1 million), C (below 500,000).\nSchedule 'D': Other Incomes (royalties, dividends, interest, etc.).\n- Rates vary by source (e.g., 5% royalty, 10% dividends)."
+            },
+            {
+              "slide_number": 123,
+              "slide_title": "Indirect Taxes in Ethiopia",
+              "slide_content": "Value Added Tax (VAT): 15% on most goods and services.\n- Input VAT and output VAT system.\nTurnover Tax (TOT): 2% on goods, 10% on services (for non-VAT registered).\nExcise Tax: On specific goods (luxury, harmful). Rates range from 0% to 500%.\n- New proclamation (No. 1186/2020) uses ex-factory price for local goods.\nCustoms Duty: On imports, rates 0-35%.\nStamp Duty: On legal, commercial, and financial instruments."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

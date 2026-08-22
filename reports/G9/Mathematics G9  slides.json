@@ -1,0 +1,1528 @@
+{
+  "subject": "Mathematics",
+  "grade": 9,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Further on Sets",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Sets and Elements",
+          "presentation_slides": [
+            {
+              "slide_number": 1,
+              "slide_title": "Chapter 1: Further on Sets",
+              "slide_content": [
+                "Introduction to the concept of sets.",
+                "A set is a fundamental concept in modern mathematics.",
+                "Used to define relations and functions."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "slide_title": "Section 1.1: Sets and Elements",
+              "slide_content": [
+                "Learning Objective: Understand the definition of a set and its elements.",
+                "Key Question: What does it mean for a set to be 'well-defined'?"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "slide_title": "Definition of a Set",
+              "slide_content": [
+                "A set is a collection of well-defined objects.",
+                "'Well-defined' means that for any given object, we can determine if it belongs to the set or not.",
+                "Example: The set of students in your class is well-defined."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "slide_title": "Examples of Well-defined and Not Well-defined Sets",
+              "slide_content": [
+                "Well-defined:",
+                "  - Collection of students in your class.",
+                "  - Collection of consonants of the English alphabet.",
+                "Not Well-defined:",
+                "  - Collection of beautiful girls in your class.",
+                "  - Collection of hardworking teachers in a school.",
+                "Why? Because 'beautiful' and 'hardworking' are subjective."
+              ]
+            },
+            {
+              "slide_number": 5,
+              "slide_title": "Notation for Sets and Elements",
+              "slide_content": [
+                "Sets are denoted by capital letters: A, B, C, X, Y, Z.",
+                "Elements are denoted by small letters: a, b, c, x, y, z.",
+                "Symbol ∈ means 'belongs to'.",
+                "Example: If A = {a, e, i, o, u}, then a ∈ A.",
+                "Symbol ∉ means 'does not belong to'.",
+                "Example: b ∉ A."
+              ]
+            },
+            {
+              "slide_number": 6,
+              "slide_title": "Example Problem",
+              "slide_content": [
+                "Suppose A is the set of positive even numbers.",
+                "Determine if the following belong to A:",
+                "a. 4 ∈ A",
+                "b. 5 ∉ A",
+                "c. -2 ∉ A",
+                "d. 0 ∉ A"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Set Description",
+          "presentation_slides": [
+            {
+              "slide_number": 7,
+              "slide_title": "Section 1.2: Set Description",
+              "slide_content": [
+                "Learning Objective: Learn the different ways to describe a set.",
+                "We can describe sets using:",
+                "1. Verbal Method",
+                "2. Listing Methods (Complete and Partial)",
+                "3. Set-builder Method"
+              ]
+            },
+            {
+              "slide_number": 8,
+              "slide_title": "Verbal Method",
+              "slide_content": [
+                "Describing a set in words.",
+                "Example: ",
+                "a. The set of whole numbers greater than 1 and less than 20.",
+                "b. The set of students in this mathematics class."
+              ]
+            },
+            {
+              "slide_number": 9,
+              "slide_title": "Complete Listing Method (Roster Method)",
+              "slide_content": [
+                "Listing all elements of the set within braces {}.",
+                "Elements are separated by commas.",
+                "Example: The set of all vowel letters: {a, e, i, o, u}.",
+                "Example: The set of even positive integers less than 7: {2, 4, 6}."
+              ]
+            },
+            {
+              "slide_number": 10,
+              "slide_title": "Partial Listing Method",
+              "slide_content": [
+                "Used when listing all elements is difficult or impossible.",
+                "List a few elements and use an ellipsis (...) to indicate a pattern.",
+                "Example: The set of natural numbers less than 100: {1, 2, 3, ..., 99}.",
+                "Example: The set of whole numbers: {0, 1, 2, 3, ...}."
+              ]
+            },
+            {
+              "slide_number": 11,
+              "slide_title": "Set-builder Method",
+              "slide_content": [
+                "Describes a set by stating a property that its members must satisfy.",
+                "Format: {x | condition} or {x : condition}.",
+                "Read as 'the set of all x such that...'",
+                "Example: A = {x | x ∈ ℕ and x < 11} = {1, 2, 3, ..., 10}.",
+                "Example: B = {2x | x ∈ 𝕎} = {0, 2, 4, 6, ...}."
+              ]
+            },
+            {
+              "slide_number": 12,
+              "slide_title": "Notation for Number Sets",
+              "slide_content": [
+                "ℕ = {1, 2, 3, ...} (Natural Numbers)",
+                "𝕎 = {0, 1, 2, 3, ...} (Whole Numbers)",
+                "ℤ = {..., -3, -2, -1, 0, 1, 2, 3, ...} (Integers)"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Notion of Sets",
+          "presentation_slides": [
+            {
+              "slide_number": 13,
+              "slide_title": "Section 1.3: The Notion of Sets",
+              "slide_content": [
+                "Learning Objective: Understand different types of sets and their relationships.",
+                "Topics: ",
+                "1. Empty Set",
+                "2. Finite and Infinite Sets",
+                "3. Equal and Equivalent Sets",
+                "4. Universal Set, Subset, and Proper Subset"
+              ]
+            },
+            {
+              "slide_number": 14,
+              "slide_title": "Empty Set",
+              "slide_content": [
+                "A set that contains no elements.",
+                "Also called the void or null set.",
+                "Denoted by {} or ∅.",
+                "Example: A = {x | 1 < x < 2, x ∈ ℕ} = ∅, because there is no natural number between 1 and 2."
+              ]
+            },
+            {
+              "slide_number": 15,
+              "slide_title": "Finite and Infinite Sets",
+              "slide_content": [
+                "Finite Set: A set with a definite number of elements.",
+                "  Example: A = {1, 2, 3, ..., 10} is finite (n(A)=10).",
+                "Infinite Set: A set that is not finite.",
+                "  Example: The set of whole numbers is infinite.",
+                "n(A) denotes the number of elements in set A."
+              ]
+            },
+            {
+              "slide_number": 16,
+              "slide_title": "Equal Sets",
+              "slide_content": [
+                "Two sets A and B are equal if they have exactly the same elements.",
+                "Denoted as A = B.",
+                "Example: A = {1, 2, 3, 4} and B = {4, 3, 2, 1} are equal."
+              ]
+            },
+            {
+              "slide_number": 17,
+              "slide_title": "Equivalent Sets",
+              "slide_content": [
+                "Two sets A and B are equivalent if there is a one-to-one correspondence between them.",
+                "For finite sets, this means they have the same number of elements (n(A) = n(B)).",
+                "Example: A = {1, 2, 3, 4} and B = {Red, Blue, Green, Black} are equivalent."
+              ]
+            },
+            {
+              "slide_number": 18,
+              "slide_title": "Universal Set",
+              "slide_content": [
+                "A set that contains all elements of all related sets under consideration.",
+                "Usually denoted by U.",
+                "Example: If A = {2, 4, 6, ...} and B = {1, 3, 5, ...}, then U = {1, 2, 3, 4, ...}."
+              ]
+            },
+            {
+              "slide_number": 19,
+              "slide_title": "Subset",
+              "slide_content": [
+                "Set A is a subset of set B if every element of A is also an element of B.",
+                "Denoted as A ⊆ B.",
+                "Example: A = {1, 2, 3} is a subset of B = {1, 2, 3, 4}.",
+                "Any set is a subset of itself.",
+                "The empty set is a subset of every set."
+              ]
+            },
+            {
+              "slide_number": 20,
+              "slide_title": "Proper Subset",
+              "slide_content": [
+                "If A ⊆ B and A ≠ B, then A is a proper subset of B.",
+                "Denoted as A ⊂ B.",
+                "Example: A = {2, 5, 7} ⊂ B = {2, 5, 7, 8}.",
+                "The empty set is a proper subset of any other set.",
+                "Number of subsets: If n(A) = n, then there are 2ⁿ subsets and 2ⁿ - 1 proper subsets."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Operations on Sets",
+          "presentation_slides": [
+            {
+              "slide_number": 21,
+              "slide_title": "Section 1.4: Operations on Sets",
+              "slide_content": [
+                "Learning Objective: Learn to perform operations on sets.",
+                "Operations: ",
+                "1. Union and Intersection",
+                "2. Complement",
+                "3. Difference",
+                "4. Symmetric Difference",
+                "5. Cartesian Product"
+              ]
+            },
+            {
+              "slide_number": 22,
+              "slide_title": "Venn Diagrams",
+              "slide_content": [
+                "A schematic representation of sets.",
+                "Sets are represented by circles inside a rectangle (the universal set).",
+                "Used to visualize set operations and relationships."
+              ]
+            },
+            {
+              "slide_number": 23,
+              "slide_title": "Union of Sets",
+              "slide_content": [
+                "The union of A and B (A ∪ B) is the set of all elements in A, in B, or in both.",
+                "Definition: A ∪ B = {x | x ∈ A or x ∈ B}.",
+                "Example: A = {0, 1, 3, 5, 7}, B = {1, 2, 3, 4, 6, 7} -> A ∪ B = {0, 1, 2, 3, 4, 5, 6, 7}."
+              ]
+            },
+            {
+              "slide_number": 24,
+              "slide_title": "Intersection of Sets",
+              "slide_content": [
+                "The intersection of A and B (A ∩ B) is the set of all elements in both A and B.",
+                "Definition: A ∩ B = {x | x ∈ A and x ∈ B}.",
+                "Example: A = {0, 1, 3, 5, 7}, B = {1, 2, 3, 4, 6, 7} -> A ∩ B = {1, 3, 7}.",
+                "Disjoint Sets: If A ∩ B = ∅, they are disjoint."
+              ]
+            },
+            {
+              "slide_number": 25,
+              "slide_title": "Complement of a Set",
+              "slide_content": [
+                "The complement of A (A') is the set of all elements in the universal set U that are not in A.",
+                "Definition: A' = {x | x ∈ U and x ∉ A}.",
+                "Example: U = {1, 2, 3, ..., 10}, A = {1, 2, 5, 10} -> A' = {3, 4, 6, 7, 8, 9}.",
+                "De Morgan's Laws: (A ∪ B)' = A' ∩ B' and (A ∩ B)' = A' ∪ B'."
+              ]
+            },
+            {
+              "slide_number": 26,
+              "slide_title": "Difference of Sets",
+              "slide_content": [
+                "The difference A - B (or A\\B) is the set of all elements in A but not in B.",
+                "Definition: A - B = {x | x ∈ A and x ∉ B}.",
+                "Example: A = {0, 1, 2, 3, 4}, B = {3, 4} -> A - B = {0, 1, 2}.",
+                "Note: A - B = A ∩ B'."
+              ]
+            },
+            {
+              "slide_number": 27,
+              "slide_title": "Symmetric Difference",
+              "slide_content": [
+                "The symmetric difference (A Δ B) is the set of elements in A or B, but not in both.",
+                "Definition: A Δ B = (A - B) ∪ (B - A) = (A ∪ B) - (A ∩ B).",
+                "Example: A = {1, 2, 4, 5, 8}, B = {2, 3, 5, 7} -> A Δ B = {1, 3, 4, 7, 8}."
+              ]
+            },
+            {
+              "slide_number": 28,
+              "slide_title": "Cartesian Product",
+              "slide_content": [
+                "The Cartesian product of A and B (A × B) is the set of all ordered pairs (a, b) where a ∈ A and b ∈ B.",
+                "Definition: A × B = {(a, b) | a ∈ A and b ∈ B}.",
+                "Example: A = {1, 2}, B = {a, b} -> A × B = {(1, a), (1, b), (2, a), (2, b)}."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Application",
+          "presentation_slides": [
+            {
+              "slide_number": 29,
+              "slide_title": "Section 1.5: Application",
+              "slide_content": [
+                "Learning Objective: Apply set theory to solve counting problems.",
+                "Key Formula: n(A ∪ B) = n(A) + n(B) - n(A ∩ B)."
+              ]
+            },
+            {
+              "slide_number": 30,
+              "slide_title": "Number of Elements in a Union",
+              "slide_content": [
+                "If A and B are finite sets:",
+                "n(A ∪ B) = n(A) + n(B) - n(A ∩ B).",
+                "If A and B are disjoint (A ∩ B = ∅):",
+                "n(A ∪ B) = n(A) + n(B).",
+                "Example: If n(A) = 20, n(B) = 28, and n(A ∪ B) = 36, find n(A ∩ B).",
+                "36 = 20 + 28 - n(A ∩ B) => n(A ∩ B) = 12."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "The Number System",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Revision on Natural Numbers and Integers",
+          "presentation_slides": [
+            {
+              "slide_number": 31,
+              "slide_title": "Chapter 2: The Number System",
+              "slide_content": [
+                "Introduction to different number sets.",
+                "We will revise: Natural Numbers, Integers, and Rational Numbers.",
+                "We will learn about: Irrational Numbers and Real Numbers."
+              ]
+            },
+            {
+              "slide_number": 32,
+              "slide_title": "Section 2.1: Revision on Natural Numbers and Integers",
+              "slide_content": [
+                "Learning Objective: Revise the sets of natural numbers and integers.",
+                "Natural Numbers (ℕ): {1, 2, 3, ...}",
+                "Integers (ℤ): {..., -2, -1, 0, 1, 2, 3, ...}",
+                "All natural numbers are integers, but not all integers are natural numbers."
+              ]
+            },
+            {
+              "slide_number": 33,
+              "slide_title": "Euclid's Division Lemma",
+              "slide_content": [
+                "For any non-negative integer a and positive integer b, there exist unique integers q (quotient) and r (remainder) such that:",
+                "a = b × q + r, with 0 ≤ r < b.",
+                "Example: 38 = 4 × 9 + 2. (a=38, b=4, q=9, r=2)",
+                "If r = 0, we say 'a is divisible by b'."
+              ]
+            },
+            {
+              "slide_number": 34,
+              "slide_title": "Prime and Composite Numbers",
+              "slide_content": [
+                "Prime Number: A natural number with exactly two distinct factors: 1 and itself.",
+                "  Example: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29...",
+                "Composite Number: A natural number with more than two factors.",
+                "  Example: 4, 6, 8, 9, 10, 12...",
+                "Note: 1 is neither prime nor composite. 2 is the only even prime number."
+              ]
+            },
+            {
+              "slide_number": 35,
+              "slide_title": "Divisibility Tests",
+              "slide_content": [
+                "Quick rules to check divisibility without performing division.",
+                "Divisible by 2: Last digit is 0, 2, 4, 6, or 8.",
+                "Divisible by 3: Sum of the digits is divisible by 3.",
+                "Divisible by 4: Last two digits form a number divisible by 4.",
+                "Divisible by 5: Last digit is 0 or 5.",
+                "Divisible by 6: Divisible by both 2 and 3.",
+                "Divisible by 8: Last three digits form a number divisible by 8.",
+                "Divisible by 9: Sum of the digits is divisible by 9.",
+                "Divisible by 10: Last digit is 0."
+              ]
+            },
+            {
+              "slide_number": 36,
+              "slide_title": "Prime Factorization",
+              "slide_content": [
+                "Expressing a composite number as a product of prime numbers.",
+                "Example: 72 = 2³ × 3².",
+                "Fundamental Theorem of Arithmetic: Every composite number has a unique prime factorization.",
+                "We can find prime factors using a factor tree."
+              ]
+            },
+            {
+              "slide_number": 37,
+              "slide_title": "Greatest Common Factor (GCF)",
+              "slide_content": [
+                "The largest positive integer that divides two or more numbers without a remainder.",
+                "Methods: List factors or use prime factorization.",
+                "Example: Find GCF(36, 56).",
+                "Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36",
+                "Factors of 56: 1, 2, 4, 7, 8, 14, 28, 56",
+                "Common Factors: 1, 2, 4 -> GCF = 4."
+              ]
+            },
+            {
+              "slide_number": 38,
+              "slide_title": "Least Common Multiple (LCM)",
+              "slide_content": [
+                "The smallest positive integer that is a multiple of two or more numbers.",
+                "Methods: Intersection method or prime factorization.",
+                "Example: Find LCM(2, 3).",
+                "Multiples of 2: 2, 4, 6, 8, 10, 12...",
+                "Multiples of 3: 3, 6, 9, 12, 15...",
+                "Common Multiples: 6, 12... -> LCM = 6."
+              ]
+            },
+            {
+              "slide_number": 39,
+              "slide_title": "Relationship between GCF and LCM",
+              "slide_content": [
+                "For any two natural numbers a and b:",
+                "GCF(a, b) × LCM(a, b) = a × b.",
+                "Example: GCF(12, 18) × LCM(12, 18) = 12 × 18 = 216."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Rational Numbers",
+          "presentation_slides": [
+            {
+              "slide_number": 40,
+              "slide_title": "Section 2.2: Rational Numbers",
+              "slide_content": [
+                "Learning Objective: Understand and work with rational numbers.",
+                "Definition: Numbers that can be written in the form a/b, where a and b are integers and b ≠ 0.",
+                "The set of rational numbers is denoted by ℚ.",
+                "Examples: 3/4, -6 (which is -6/1), 0 (which is 0/1).",
+                "All natural numbers and integers are rational numbers."
+              ]
+            },
+            {
+              "slide_number": 41,
+              "slide_title": "Types of Fractions",
+              "slide_content": [
+                "Proper Fraction: Numerator < Denominator (e.g., 3/4).",
+                "Improper Fraction: Numerator ≥ Denominator (e.g., 7/3).",
+                "Mixed Fraction: A combination of a whole number and a proper fraction (e.g., 2 1/3)."
+              ]
+            },
+            {
+              "slide_number": 42,
+              "slide_title": "Representing Rational Numbers as Decimals",
+              "slide_content": [
+                "A rational number a/b can be written as a decimal by dividing a by b.",
+                "Terminating Decimal: The division process ends with a remainder of 0 (e.g., 3/5 = 0.6).",
+                "Repeating Decimal: The division process does not end, and a digit or pattern repeats (e.g., 5/9 = 0.555...).",
+                "Repeating decimals can be converted back to fractions."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Irrational Numbers",
+          "presentation_slides": [
+            {
+              "slide_number": 43,
+              "slide_title": "Section 2.3: Irrational Numbers",
+              "slide_content": [
+                "Learning Objective: Understand irrational numbers.",
+                "Definition: A decimal number that is neither terminating nor repeating.",
+                "Irrational numbers cannot be expressed as a ratio of two integers.",
+                "Examples: √2 ≈ 1.41421356..., π ≈ 3.14159265...",
+                "If a natural number is not a perfect square, its square root is irrational (e.g., √3, √7)."
+              ]
+            },
+            {
+              "slide_number": 44,
+              "slide_title": "Locating Irrational Numbers on the Number Line",
+              "slide_content": [
+                "We can locate √2 on the number line using a compass and straightedge.",
+                "1. Draw a number line.",
+                "2. Construct a right triangle with legs of length 1 unit at point 1.",
+                "3. The hypotenuse has length √2.",
+                "4. Use a compass to transfer this length to the number line."
+              ]
+            },
+            {
+              "slide_number": 45,
+              "slide_title": "Operations on Irrational Numbers",
+              "slide_content": [
+                "The product of two square roots: √a × √b = √(ab).",
+                "Example: √2 × √3 = √6.",
+                "The quotient of two square roots: √a / √b = √(a/b).",
+                "Example: √18 / √2 = √9 = 3.",
+                "Like radicals can be added or subtracted: 2√3 + 4√3 = 6√3."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Real Numbers",
+          "presentation_slides": [
+            {
+              "slide_number": 46,
+              "slide_title": "Section 2.4: Real Numbers",
+              "slide_content": [
+                "Learning Objective: Understand the set of real numbers.",
+                "Definition: A real number is either a rational number or an irrational number.",
+                "The set of real numbers is denoted by ℝ.",
+                "There is a one-to-one correspondence between real numbers and points on the number line."
+              ]
+            },
+            {
+              "slide_number": 47,
+              "slide_title": "Comparing Real Numbers",
+              "slide_content": [
+                "Trichotomy Property: For any two real numbers a and b, exactly one of the following is true: a < b, a = b, or a > b.",
+                "Transitive Property: If a < b and b < c, then a < c.",
+                "For non-negative a and b, if a² < b² then a < b."
+              ]
+            },
+            {
+              "slide_number": 48,
+              "slide_title": "Intervals",
+              "slide_content": [
+                "A set containing all real numbers between two numbers.",
+                "Types:",
+                "- Open Interval (a, b): a < x < b",
+                "- Closed Interval [a, b]: a ≤ x ≤ b",
+                "- Half-open [a, b) or (a, b]",
+                "Also intervals extending to infinity: (-∞, a), (a, ∞), (-∞, a], [a, ∞)."
+              ]
+            },
+            {
+              "slide_number": 49,
+              "slide_title": "Absolute Value",
+              "slide_content": [
+                "The absolute value of a real number x (denoted |x|) is its distance from zero on the number line.",
+                "Definition: |x| = x if x ≥ 0, and |x| = -x if x < 0.",
+                "Properties: |p| = |-p|, and |p| ≥ 0.",
+                "The distance between two points a and b on the number line is |a - b|."
+              ]
+            },
+            {
+              "slide_number": 50,
+              "slide_title": "Exponents and Radicals",
+              "slide_content": [
+                "Exponents: aⁿ means a multiplied by itself n times.",
+                "Zero Exponent: a⁰ = 1 (for a ≠ 0).",
+                "Negative Exponent: a⁻ⁿ = 1/aⁿ.",
+                "nth Root: b^(1/n) = ⁿ√b.",
+                "Laws of Exponents: aᵐ × aⁿ = aᵐ⁺ⁿ, (aᵐ)ⁿ = aᵐⁿ, (ab)ⁿ = aⁿ bⁿ, etc."
+              ]
+            },
+            {
+              "slide_number": 51,
+              "slide_title": "Limits of Accuracy (Bounds)",
+              "slide_content": [
+                "When a number is rounded, its actual value lies within a range.",
+                "Upper Bound: The maximum possible value.",
+                "Lower Bound: The minimum possible value.",
+                "Example: 1.5 rounded to 1 decimal place has a lower bound of 1.45 and an upper bound of 1.55.",
+                "The range is expressed as 1.45 ≤ value < 1.55."
+              ]
+            },
+            {
+              "slide_number": 52,
+              "slide_title": "Scientific Notation",
+              "slide_content": [
+                "A way to write very large or very small numbers.",
+                "Format: a × 10ⁿ, where 1 ≤ a < 10 and n is an integer.",
+                "Example: 1856700000 = 1.8567 × 10⁹.",
+                "Example: 0.000000314 = 3.14 × 10⁻⁷."
+              ]
+            },
+            {
+              "slide_number": 53,
+              "slide_title": "Rationalizing the Denominator",
+              "slide_content": [
+                "Eliminating radicals from the denominator of a fraction.",
+                "Rationalizing factor: 1 expressed in a form that will clear the radical.",
+                "Example: 1/√2 = 1/√2 × √2/√2 = √2/2.",
+                "For binomials like 1/(√a + √b), multiply by (√a - √b)/(√a - √b)."
+              ]
+            },
+            {
+              "slide_number": 54,
+              "slide_title": "Properties of Real Numbers",
+              "slide_content": [
+                "Closure: a + b and a × b are real numbers.",
+                "Commutative: a + b = b + a, a × b = b × a.",
+                "Associative: (a + b) + c = a + (b + c), (a × b) × c = a × (b × c).",
+                "Identities: a + 0 = a (additive identity), a × 1 = a (multiplicative identity).",
+                "Inverses: a + (-a) = 0, a × (1/a) = 1.",
+                "Distributive: a(b + c) = ab + ac."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Applications",
+          "presentation_slides": [
+            {
+              "slide_number": 55,
+              "slide_title": "Section 2.5: Applications of the Number System",
+              "slide_content": [
+                "Learning Objective: Apply number system concepts to solve problems.",
+                "Using Euclid's Division Lemma: Arranging items into groups.",
+                "Using GCF: Finding the largest possible equal size (cutting ropes, tiling floors).",
+                "Using LCM: Solving problems involving periodic events (meeting times)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Solving Equations",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Revision on Linear Equation in One Variable",
+          "presentation_slides": [
+            {
+              "slide_number": 56,
+              "slide_title": "Chapter 3: Solving Equations",
+              "slide_content": [
+                "Equations are like a balanced scale.",
+                "We will solve: Linear, Systems of Linear, Non-linear (Absolute value, Quadratic, Exponential, Radical), and apply them to real-life problems."
+              ]
+            },
+            {
+              "slide_number": 57,
+              "slide_title": "Section 3.1: Revision on Linear Equation in One Variable",
+              "slide_content": [
+                "Learning Objective: Solve linear equations in one variable.",
+                "Definition: ax + b = 0, where a ≠ 0, x is the variable.",
+                "A linear equation has exactly one solution."
+              ]
+            },
+            {
+              "slide_number": 58,
+              "slide_title": "Steps for Solving a Linear Equation",
+              "slide_content": [
+                "1. Use LCM to clear any fractions.",
+                "2. Simplify both sides of the equation.",
+                "3. Isolate the variable (get x alone on one side).",
+                "4. Verify your answer by substituting it back into the original equation."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Systems of Linear Equations in Two Variables",
+          "presentation_slides": [
+            {
+              "slide_number": 59,
+              "slide_title": "Section 3.2: Systems of Linear Equations in Two Variables",
+              "slide_content": [
+                "Learning Objective: Solve systems of two linear equations.",
+                "Definition: A set of two or more linear equations with the same variables.",
+                "The solution is an ordered pair (x, y) that satisfies all equations."
+              ]
+            },
+            {
+              "slide_number": 60,
+              "slide_title": "Solving Using Tables",
+              "slide_content": [
+                "1. Solve each equation for y.",
+                "2. Create a table of values for x and y for each equation.",
+                "3. Find the ordered pair (x, y) that appears in both tables."
+              ]
+            },
+            {
+              "slide_number": 61,
+              "slide_title": "Solving by Substitution",
+              "slide_content": [
+                "1. Solve one equation for one variable in terms of the other.",
+                "2. Substitute this expression into the other equation.",
+                "3. Solve for the remaining variable.",
+                "4. Substitute the value back into one of the original equations to find the other variable."
+              ]
+            },
+            {
+              "slide_number": 62,
+              "slide_title": "Solving by Addition (Elimination)",
+              "slide_content": [
+                "1. Write equations with variables on one side, constants on the other.",
+                "2. Multiply one or both equations by a constant so that one variable has opposite coefficients.",
+                "3. Add the equations to eliminate one variable.",
+                "4. Solve for the remaining variable.",
+                "5. Substitute back to find the other variable."
+              ]
+            },
+            {
+              "slide_number": 63,
+              "slide_title": "Solving Graphically",
+              "slide_content": [
+                "1. Graph each equation on the same coordinate plane.",
+                "2. Determine the point of intersection of the lines.",
+                "3. The intersection point is the solution.",
+                "Types of Systems:",
+                "- Independent: One solution (lines intersect).",
+                "- Inconsistent: No solution (parallel lines).",
+                "- Dependent: Infinitely many solutions (coincident lines)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Solving Non-linear Equations",
+          "presentation_slides": [
+            {
+              "slide_number": 64,
+              "slide_title": "Section 3.3: Solving Non-linear Equations",
+              "slide_content": [
+                "Learning Objective: Solve equations involving absolute value, quadratics, exponents, and radicals."
+              ]
+            },
+            {
+              "slide_number": 65,
+              "slide_title": "Equations Involving Absolute Value",
+              "slide_content": [
+                "The absolute value of a number is its distance from zero.",
+                "For any non-negative number p: |x| = p => x = p or x = -p.",
+                "Example: |x + 7| = 14 => x + 7 = 14 or x + 7 = -14 => x = 7 or x = -21.",
+                "An absolute value expression can never be negative, so |x| = -1 has no solution."
+              ]
+            },
+            {
+              "slide_number": 66,
+              "slide_title": "Quadratic Equations",
+              "slide_content": [
+                "Definition: ax² + bx + c = 0, where a ≠ 0.",
+                "Solving Methods:",
+                "1. Factorization: Express as a product of linear factors.",
+                "2. Completing the Square: Make the expression a perfect square trinomial.",
+                "3. Quadratic Formula: x = [-b ± √(b² - 4ac)] / 2a."
+              ]
+            },
+            {
+              "slide_number": 67,
+              "slide_title": "The Discriminant",
+              "slide_content": [
+                "The discriminant (D) is b² - 4ac.",
+                "It determines the nature of the roots:",
+                "- D > 0: Two distinct real roots.",
+                "- D = 0: One real root (repeated).",
+                "- D < 0: No real roots.",
+                "Sum of roots: -b/a. Product of roots: c/a."
+              ]
+            },
+            {
+              "slide_number": 68,
+              "slide_title": "Equations Involving Exponents",
+              "slide_content": [
+                "For a > 0: aˣ = aʸ => x = y.",
+                "Example: 2ˣ = 8 => 2ˣ = 2³ => x = 3.",
+                "Example: 9ˣ⁺⁴ = 27 => 3²ˣ⁺⁸ = 3³ => 2x + 8 = 3 => x = -5/2."
+              ]
+            },
+            {
+              "slide_number": 69,
+              "slide_title": "Equations Involving Radicals",
+              "slide_content": [
+                "Equations with variables in the radicand.",
+                "Steps for solving:",
+                "1. Specify the domain (radicand ≥ 0).",
+                "2. Isolate the radical expression.",
+                "3. Raise both sides to the power of the index (square both sides for square roots).",
+                "4. Solve the resulting equation.",
+                "5. Check all solutions in the original equation (extraneous solutions may exist)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Applications of Equations",
+          "presentation_slides": [
+            {
+              "slide_number": 70,
+              "slide_title": "Section 3.4: Applications of Equations",
+              "slide_content": [
+                "Learning Objective: Use equations to solve word problems.",
+                "Key Skill: Translate real-world situations into mathematical equations.",
+                "Examples:",
+                "- Ticket sales (systems of linear equations).",
+                "- Projectile motion (quadratic equations).",
+                "- Geometric problems (setting up equations from given information)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Solving Inequalities",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Revision on Linear Inequalities in One Variable",
+          "presentation_slides": [
+            {
+              "slide_number": 71,
+              "slide_title": "Chapter 4: Solving Inequalities",
+              "slide_content": [
+                "Introduction to inequalities and their properties.",
+                "We will cover: Linear, Systems of Linear, Absolute Value, and Quadratic Inequalities."
+              ]
+            },
+            {
+              "slide_number": 72,
+              "slide_title": "Section 4.1: Revision on Linear Inequalities in One Variable",
+              "slide_content": [
+                "Learning Objective: Solve linear inequalities and represent solutions.",
+                "Properties of Inequalities:",
+                "- Adding or subtracting the same number on both sides does not change the inequality sign.",
+                "- Multiplying or dividing by a positive number does not change the sign.",
+                "- Multiplying or dividing by a negative number reverses the inequality sign."
+              ]
+            },
+            {
+              "slide_number": 73,
+              "slide_title": "Interval Notation",
+              "slide_content": [
+                "A way to express the solution set of an inequality.",
+                "- (a, b): a < x < b (open interval)",
+                "- [a, b]: a ≤ x ≤ b (closed interval)",
+                "- [a, b): a ≤ x < b",
+                "- (a, b]: a < x ≤ b",
+                "- (-∞, a): x < a",
+                "- [a, ∞): x ≥ a"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Systems of Linear Inequalities in Two Variables",
+          "presentation_slides": [
+            {
+              "slide_number": 74,
+              "slide_title": "Section 4.2: Systems of Linear Inequalities in Two Variables",
+              "slide_content": [
+                "Learning Objective: Solve systems of linear inequalities graphically.",
+                "A linear inequality in two variables has the form ax + by < c, ax + by > c, etc.",
+                "The solution is a half-plane on the coordinate plane."
+              ]
+            },
+            {
+              "slide_number": 75,
+              "slide_title": "Graphical Method for Solving Systems",
+              "slide_content": [
+                "1. Graph the boundary line for each inequality.",
+                "   - Solid line for ≤ or ≥.",
+                "   - Dashed line for < or >.",
+                "2. Use a test point to determine which side of the line to shade.",
+                "3. The solution to the system is the overlapping (intersection) shaded region."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Inequalities Involving Absolute Value",
+          "presentation_slides": [
+            {
+              "slide_number": 76,
+              "slide_title": "Section 4.3: Inequalities Involving Absolute Value",
+              "slide_content": [
+                "Learning Objective: Solve absolute value inequalities.",
+                "Key Rules:",
+                "- |k| < c ⇒ -c < k < c.",
+                "- |k| > c ⇒ k > c or k < -c.",
+                "Special Cases:",
+                "- |k| < 0: No solution.",
+                "- |k| ≥ 0: Solution is all real numbers."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Quadratic Inequalities",
+          "presentation_slides": [
+            {
+              "slide_number": 77,
+              "slide_title": "Section 4.4: Quadratic Inequalities",
+              "slide_content": [
+                "Learning Objective: Solve quadratic inequalities.",
+                "General form: ax² + bx + c < 0, > 0, ≤ 0, or ≥ 0 (a ≠ 0).",
+                "Methods to solve: Product Property and Sign Chart."
+              ]
+            },
+            {
+              "slide_number": 78,
+              "slide_title": "Solving by Product Property",
+              "slide_content": [
+                "For (x - a)(x - b) > 0:",
+                "Case 1: (x - a) > 0 and (x - b) > 0 => x > a and x > b.",
+                "Case 2: (x - a) < 0 and (x - b) < 0 => x < a and x < b.",
+                "Example: (x - 4)(x - 2) > 0 => x > 4 or x < 2."
+              ]
+            },
+            {
+              "slide_number": 79,
+              "slide_title": "Solving by Sign Chart",
+              "slide_content": [
+                "1. Rewrite the inequality to get 0 on one side.",
+                "2. Factor the expression.",
+                "3. Identify the roots (key points).",
+                "4. Create a table showing the sign of each factor over the intervals.",
+                "5. Determine the sign of the product and find the intervals where the inequality is true."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Applications of Inequalities",
+          "presentation_slides": [
+            {
+              "slide_number": 80,
+              "slide_title": "Section 4.5: Applications of Inequalities",
+              "slide_content": [
+                "Learning Objective: Apply inequalities to solve real-world problems.",
+                "Key Words: 'At most' (≤), 'At least' (≥), 'Less than' (<), 'Greater than' (>).",
+                "Examples:",
+                "- Budget constraints, saving money.",
+                "- Minimum/maximum work hours to achieve a financial goal.",
+                "- Acceptable ranges for measurements (temperature, speed)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Introduction to Trigonometry",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Revision on Right-angled Triangles",
+          "presentation_slides": [
+            {
+              "slide_number": 81,
+              "slide_title": "Chapter 5: Introduction to Trigonometry",
+              "slide_content": [
+                "Introduction to the relationship between angles and sides in a right-angled triangle.",
+                "Origin: Greek words 'trigonon' (triangle) and 'metron' (measure)."
+              ]
+            },
+            {
+              "slide_number": 82,
+              "slide_title": "Section 5.1: Revision on Right-angled Triangles",
+              "slide_content": [
+                "Learning Objective: Understand the properties of right-angled triangles.",
+                "A right-angled triangle has one angle of 90°.",
+                "Key terms: Hypotenuse (opposite the right angle), Base, Perpendicular.",
+                "Pythagorean Theorem: b² + p² = h²."
+              ]
+            },
+            {
+              "slide_number": 83,
+              "slide_title": "Pythagorean Theorem",
+              "slide_content": [
+                "In a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.",
+                "Formula: h² = b² + p².",
+                "Converse: If b² + p² = h², then the triangle is right-angled.",
+                "Example: Sides 3, 4, and 5 form a right triangle (3² + 4² = 5²)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Trigonometric Ratios",
+          "presentation_slides": [
+            {
+              "slide_number": 84,
+              "slide_title": "Section 5.2: Trigonometric Ratios",
+              "slide_content": [
+                "Learning Objective: Define and use sine, cosine, and tangent.",
+                "These ratios relate the angles and sides of a right-angled triangle."
+              ]
+            },
+            {
+              "slide_number": 85,
+              "slide_title": "The Three Main Ratios",
+              "slide_content": [
+                "For an angle θ in a right-angled triangle:",
+                "sin θ = Opposite side / Hypotenuse",
+                "cos θ = Adjacent side / Hypotenuse",
+                "tan θ = Opposite side / Adjacent side",
+                "Common Mnemonic: SOH CAH TOA"
+              ]
+            },
+            {
+              "slide_number": 86,
+              "slide_title": "Trigonometric Values of Basic Angles",
+              "slide_content": [
+                "Angles: 0°, 30°, 45°, 60°, 90°.",
+                "sin 30° = 1/2, cos 30° = √3/2, tan 30° = 1/√3.",
+                "sin 45° = 1/√2, cos 45° = 1/√2, tan 45° = 1.",
+                "sin 60° = √3/2, cos 60° = 1/2, tan 60° = √3.",
+                "sin 0° = 0, cos 0° = 1, tan 0° = 0.",
+                "sin 90° = 1, cos 90° = 0, tan 90° is undefined."
+              ]
+            },
+            {
+              "slide_number": 87,
+              "slide_title": "Using a Trigonometric Table",
+              "slide_content": [
+                "Tables provide approximate values for any angle between 0° and 90°.",
+                "Steps to read the table:",
+                "1. Find the correct column for sine, cosine, or tangent.",
+                "2. Move down the column until you find the required angle.",
+                "3. The value at the intersection is the trigonometric ratio.",
+                "To find an angle from a given value, search for the value in the table and read the corresponding angle."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Regular Polygons",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Sum of Interior Angles of a Convex Polygon",
+          "presentation_slides": [
+            {
+              "slide_number": 88,
+              "slide_title": "Chapter 6: Regular Polygons",
+              "slide_content": [
+                "Introduction to polygons, their properties, and specifically regular polygons.",
+                "Topics: Interior and exterior angles, properties, perimeter, and area."
+              ]
+            },
+            {
+              "slide_number": 89,
+              "slide_title": "Section 6.1: Sum of Interior Angles of a Convex Polygon",
+              "slide_content": [
+                "Learning Objective: Calculate the sum of interior angles of a polygon.",
+                "Definition: A polygon is a closed figure with at least three sides.",
+                "Convex Polygon: All interior angles are less than 180°.",
+                "Formula: Sum of interior angles = (n - 2) × 180°, where n is the number of sides."
+              ]
+            },
+            {
+              "slide_number": 90,
+              "slide_title": "Derivation of the Formula",
+              "slide_content": [
+                "A polygon with n sides can be divided into (n - 2) triangles by drawing diagonals from one vertex.",
+                "The sum of the interior angles of each triangle is 180°.",
+                "Therefore, the total sum is (n - 2) × 180°.",
+                "Example: A hexagon (n=6) has (6-2)×180° = 720°."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Sum of Exterior Angles of a Convex Polygon",
+          "presentation_slides": [
+            {
+              "slide_number": 91,
+              "slide_title": "Section 6.2: Sum of Exterior Angles of a Convex Polygon",
+              "slide_content": [
+                "Learning Objective: Calculate the sum of exterior angles of a polygon.",
+                "An exterior angle is formed by one side and the extension of an adjacent side.",
+                "Key Property: The sum of the exterior angles of any convex polygon is always 360°.",
+                "At each vertex, the interior and exterior angles sum to 180°."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Measures of Each Interior Angle and Exterior Angle of a Regular Polygon",
+          "presentation_slides": [
+            {
+              "slide_number": 92,
+              "slide_title": "Section 6.3: Measures of Each Interior and Exterior Angle of a Regular Polygon",
+              "slide_content": [
+                "Learning Objective: Find the measure of each angle in a regular polygon.",
+                "Definition: A regular polygon is equilateral and equiangular.",
+                "Measure of each interior angle = [(n - 2) × 180°] / n.",
+                "Measure of each exterior angle = 360° / n.",
+                "Example: A regular pentagon (n=5) has each interior angle of 108° and each exterior angle of 72°."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Properties of Regular Polygons",
+          "presentation_slides": [
+            {
+              "slide_number": 93,
+              "slide_title": "Section 6.4: Properties of Regular Polygons",
+              "slide_content": [
+                "Learning Objective: Understand the properties of regular polygons.",
+                "1. Lines of Symmetry: An n-sided regular polygon has n lines of symmetry.",
+                "2. Circumcircle: A circle can be drawn through all vertices.",
+                "3. Incircle: A circle can be drawn that touches all sides at their midpoints.",
+                "4. Apothem (a): The distance from the center to the midpoint of a side.",
+                "5. Central Angle: The angle formed at the center by two adjacent vertices; measure = 360°/n."
+              ]
+            },
+            {
+              "slide_number": 94,
+              "slide_title": "Formulas for a Regular n-gon Inscribed in a Circle of Radius r",
+              "slide_content": [
+                "Side length (s) = 2r sin(180°/n)",
+                "Apothem (a) = r cos(180°/n)",
+                "Perimeter (P) = 2nr sin(180°/n)",
+                "Area (A) = 1/2 aP = nr² sin(180°/n) cos(180°/n)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_title": "Congruency and Similarity",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Revision on Congruency of Triangles",
+          "presentation_slides": [
+            {
+              "slide_number": 95,
+              "slide_title": "Chapter 7: Congruency and Similarity",
+              "slide_content": [
+                "Introduction to the concepts of equality in size (congruency) and likeness in shape (similarity).",
+                "We will study: Congruent triangles, similar figures, theorems, and applications."
+              ]
+            },
+            {
+              "slide_number": 96,
+              "slide_title": "Section 7.1: Revision on Congruency of Triangles",
+              "slide_content": [
+                "Learning Objective: Identify congruent triangles.",
+                "Definition: Triangles that have exactly the same shape and size (corresponding sides and angles are equal).",
+                "Notation: ΔABC ≅ ΔDEF."
+              ]
+            },
+            {
+              "slide_number": 97,
+              "slide_title": "Congruence Postulates",
+              "slide_content": [
+                "SSS (Side-Side-Side): All three corresponding sides are equal.",
+                "SAS (Side-Angle-Side): Two sides and the included angle are equal.",
+                "ASA (Angle-Side-Angle): Two angles and the included side are equal.",
+                "RHS (Right angle-Hypotenuse-Side): For right triangles, the hypotenuse and one leg are equal."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Definition of Similar Figures",
+          "presentation_slides": [
+            {
+              "slide_number": 98,
+              "slide_title": "Section 7.2: Definition of Similar Figures",
+              "slide_content": [
+                "Learning Objective: Understand the definition of similar figures.",
+                "Similar figures have the same shape but are not necessarily the same size.",
+                "Properties:",
+                "1. Corresponding angles are congruent.",
+                "2. Corresponding sides are proportional (have the same ratio).",
+                "The constant ratio is called the Scale Factor (k)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Theorems on Similar Plane Figures",
+          "presentation_slides": [
+            {
+              "slide_number": 99,
+              "slide_title": "Section 7.3: Theorems on Similar Plane Figures",
+              "slide_content": [
+                "Learning Objective: Use similarity theorems to prove triangles are similar.",
+                "Three main theorems for triangles:",
+                "1. AA (Angle-Angle): Two pairs of angles are congruent.",
+                "2. SSS (Side-Side-Side): All three pairs of corresponding sides are proportional.",
+                "3. SAS (Side-Angle-Side): Two pairs of corresponding sides are proportional and the included angles are congruent."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Ratio of Perimeters of Similar Plane Figures",
+          "presentation_slides": [
+            {
+              "slide_number": 100,
+              "slide_title": "Section 7.4: Ratio of Perimeters of Similar Plane Figures",
+              "slide_content": [
+                "Learning Objective: Find the ratio of perimeters of similar figures.",
+                "If two figures are similar with a scale factor of k, then the ratio of their perimeters is also k.",
+                "Formula: Perimeter₁ / Perimeter₂ = Side₁ / Side₂ = k."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Ratio of Areas of Similar Plane Figures",
+          "presentation_slides": [
+            {
+              "slide_number": 101,
+              "slide_title": "Section 7.5: Ratio of Areas of Similar Plane Figures",
+              "slide_content": [
+                "Learning Objective: Find the ratio of areas of similar figures.",
+                "If two figures are similar with a scale factor of k, then the ratio of their areas is k².",
+                "Formula: Area₁ / Area₂ = (Side₁ / Side₂)² = k².",
+                "Example: If the sides of a rectangle are doubled, the area becomes 2² = 4 times larger."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.6",
+          "section_title": "Construction of Similar Plane Figure",
+          "presentation_slides": [
+            {
+              "slide_number": 102,
+              "slide_title": "Section 7.6: Construction of Similar Plane Figure",
+              "slide_content": [
+                "Learning Objective: Construct a triangle similar to a given triangle using a given scale factor.",
+                "Steps for scale factor 5/3 (larger):",
+                "1. Draw a ray from a vertex and mark points at equal intervals (5 points).",
+                "2. Draw a line from the 3rd point to the opposite vertex.",
+                "3. Draw a line parallel to this from the 5th point.",
+                "4. Draw another parallel line to form the new triangle."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.7",
+          "section_title": "Applications of Similarities",
+          "presentation_slides": [
+            {
+              "slide_number": 103,
+              "slide_title": "Section 7.7: Applications of Similarities",
+              "slide_content": [
+                "Learning Objective: Apply similarity to solve practical problems.",
+                "Key Application: Indirect Measurement.",
+                "Used to measure heights or distances that are difficult to measure directly.",
+                "Examples:",
+                "- Using shadows to measure the height of a building or a tree.",
+                "- Using the line of sight from a high point to estimate distance across a river."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_title": "Vectors in Two Dimensions",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "Vector and Scalar Quantities",
+          "presentation_slides": [
+            {
+              "slide_number": 104,
+              "slide_title": "Chapter 8: Vectors in Two Dimensions",
+              "slide_content": [
+                "Introduction to quantities that have both magnitude and direction.",
+                "We will learn: Scalars vs. Vectors, representation, operations, and applications."
+              ]
+            },
+            {
+              "slide_number": 105,
+              "slide_title": "Section 8.1: Vector and Scalar Quantities",
+              "slide_content": [
+                "Learning Objective: Differentiate between scalar and vector quantities.",
+                "Scalar: Has only magnitude (size). Example: mass, temperature, speed.",
+                "Vector: Has both magnitude and direction. Example: force, velocity, displacement."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Representation of a Vector",
+          "presentation_slides": [
+            {
+              "slide_number": 106,
+              "slide_title": "Section 8.2: Representation of a Vector",
+              "slide_content": [
+                "Learning Objective: Represent vectors geometrically and algebraically.",
+                "Geometric: A directed line segment (arrow) from initial point to terminal point.",
+                "Algebraic: A column vector (x/y).",
+                "Notations: AB⃗ or a."
+              ]
+            },
+            {
+              "slide_number": 107,
+              "slide_title": "Key Vector Concepts",
+              "slide_content": [
+                "Equal Vectors: Same magnitude and direction.",
+                "Opposite Vectors: Same magnitude, opposite direction.",
+                "Parallel Vectors: Same or opposite direction.",
+                "Magnitude: Length of the vector. For (x, y), magnitude = √(x² + y²).",
+                "Direction: The angle the vector makes with the horizontal axis."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "Vectors Operations",
+          "presentation_slides": [
+            {
+              "slide_number": 108,
+              "slide_title": "Section 8.3: Vectors Operations",
+              "slide_content": [
+                "Learning Objective: Perform addition, subtraction, and scalar multiplication of vectors."
+              ]
+            },
+            {
+              "slide_number": 109,
+              "slide_title": "Vector Addition",
+              "slide_content": [
+                "Triangle Law: Place vectors head-to-tail. The resultant is from the tail of the first to the head of the last.",
+                "Parallelogram Law: For co-initial vectors, the resultant is the diagonal of the parallelogram.",
+                "Algebraically: (a/b) + (c/d) = (a+c / b+d)."
+              ]
+            },
+            {
+              "slide_number": 110,
+              "slide_title": "Vector Subtraction and Scalar Multiplication",
+              "slide_content": [
+                "Subtraction: Add the opposite vector. a - b = a + (-b).",
+                "Scalar Multiplication: k(a/b) = (ka/kb).",
+                "If k > 0, direction is same.",
+                "If k < 0, direction is opposite.",
+                "The magnitude is multiplied by |k|."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.4",
+          "section_title": "Position Vector",
+          "presentation_slides": [
+            {
+              "slide_number": 111,
+              "slide_title": "Section 8.4: Position Vector",
+              "slide_content": [
+                "Learning Objective: Express vectors using position vectors.",
+                "A position vector starts at the origin (0,0).",
+                "For a point P(x, y), the position vector is OP⃗ = xi + yj, where i = (1,0) and j = (0,1).",
+                "For a vector from A(x₁, y₁) to B(x₂, y₂), the position vector is (x₂ - x₁ / y₂ - y₁)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.5",
+          "section_title": "Applications of Vectors in Two Dimensions",
+          "presentation_slides": [
+            {
+              "slide_number": 112,
+              "slide_title": "Section 8.5: Applications of Vectors in Two Dimensions",
+              "slide_content": [
+                "Learning Objective: Apply vectors to solve practical problems.",
+                "Examples:",
+                "- Finding the displacement of an object moving in two directions.",
+                "- Calculating the resultant force from two perpendicular forces.",
+                "- Expressing relationships in geometric figures (e.g., using vectors in a rectangle)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_title": "Statistics and Probability",
+      "sections": [
+        {
+          "section_number": "9.1",
+          "section_title": "Statistical Data",
+          "presentation_slides": [
+            {
+              "slide_number": 113,
+              "slide_title": "Chapter 9: Statistics and Probability",
+              "slide_content": [
+                "Introduction to the science of data and the mathematical study of chance.",
+                "We will cover: Data collection, organization, presentation, analysis, and probability."
+              ]
+            },
+            {
+              "slide_number": 114,
+              "slide_title": "Section 9.1: Statistical Data",
+              "slide_content": [
+                "Learning Objective: Understand the basics of statistical data.",
+                "Statistics: The science of collecting, organizing, presenting, analyzing, and interpreting data.",
+                "Key Concepts: Population, sample, primary data, secondary data.",
+                "Types of Data: Qualitative (categorical) and Quantitative (numerical).",
+                "Quantitative Data can be Continuous (any value) or Discrete (countable)."
+              ]
+            },
+            {
+              "slide_number": 115,
+              "slide_title": "Organizing and Presenting Data",
+              "slide_content": [
+                "Raw Data: Unorganized data.",
+                "Frequency Distribution Table: Organizes data into classes and frequencies.",
+                "Histogram: A graphical representation of a frequency distribution, using bars."
+              ]
+            },
+            {
+              "slide_number": 116,
+              "slide_title": "Measures of Central Tendency",
+              "slide_content": [
+                "A single value that describes the center of a data set.",
+                "Mean (x̄): The average (sum of values / number of values).",
+                "Median: The middle value when the data is ordered.",
+                "Mode: The most frequent value.",
+                "Properties: The mean is affected by extreme values, the median is not."
+              ]
+            },
+            {
+              "slide_number": 117,
+              "slide_title": "Measures of Dispersion",
+              "slide_content": [
+                "Measures that describe the spread or variability of data.",
+                "Range: Largest value - Smallest value.",
+                "Variance (σ²): The average of the squared deviations from the mean.",
+                "Standard Deviation (σ): The square root of the variance.",
+                "Properties: Adding a constant to all values does not change the variance or standard deviation.",
+                "Multiplying all values by a constant c multiplies the standard deviation by |c| and the variance by c²."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "9.2",
+          "section_title": "Probability",
+          "presentation_slides": [
+            {
+              "slide_number": 118,
+              "slide_title": "Section 9.2: Probability",
+              "slide_content": [
+                "Learning Objective: Understand and calculate basic probability.",
+                "Definition: A numerical measure of the likelihood of an event occurring.",
+                "Experiment: A trial with an uncertain outcome.",
+                "Sample Space (S): The set of all possible outcomes.",
+                "Event (E): A subset of the sample space."
+              ]
+            },
+            {
+              "slide_number": 119,
+              "slide_title": "Theoretical Probability",
+              "slide_content": [
+                "For a sample space with equally likely outcomes:",
+                "P(E) = n(E) / n(S), where n(E) is the number of favorable outcomes, and n(S) is the total number of outcomes.",
+                "Example: Probability of getting a head when tossing a fair coin is 1/2.",
+                "Probability values range from 0 (impossible) to 1 (certain)."
+              ]
+            },
+            {
+              "slide_number": 120,
+              "slide_title": "Tree Diagrams",
+              "slide_content": [
+                "A visual tool to show the outcomes of a sequence of experiments.",
+                "Example: Tossing a coin twice.",
+                "Paths on the tree represent outcomes.",
+                "Probabilities are found by multiplying along the branches and adding for combined events."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# Credentials files (never commit secrets)
+**/environmemts.txt
+**/credentials*.txt
+**/secrets*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Migration dumps
+migration_dump/
+
+# Uploads
+backend/uploads/
+backend/Textbooks/
+
+# Dead/broken files
+frontend/vite.config.js
+frontend/server/
+New folder/

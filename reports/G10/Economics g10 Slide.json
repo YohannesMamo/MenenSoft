@@ -1,0 +1,1921 @@
+{
+  "subject": "Economics",
+  "grade": 10,
+  "book_title": "Economics Student Textbook Grade 10",
+  "presentation_slides": [
+    {
+      "unit_number": 1,
+      "unit_title": "Theory of Consumer Behavior",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "The Concept of Utility",
+          "slides": [
+            {
+              "slide_number": 1,
+              "title": "Unit 1: Theory of Consumer Behavior",
+              "content": [
+                "Introduction to Consumer Behavior",
+                "A consumer is a decision-making unit (individual or household) who uses or consumes goods/services.",
+                "Theory focuses on how a consumer decides on the basket of goods/services to maximize satisfaction.",
+                "Key assumptions: Limited income, Rationality, and Perfect information."
+              ]
+            },
+            {
+              "slide_number": 2,
+              "title": "1.1 The Concept of Utility",
+              "content": [
+                "Utility is the level of satisfaction or pleasure derived from the consumption of a good or service.",
+                "It is the power of a commodity to satisfy human wants.",
+                "Example: Bread satisfies hunger; water quenches thirst."
+              ]
+            },
+            {
+              "slide_number": 3,
+              "title": "Relativity of Utility",
+              "content": [
+                "Utility is subjective and not absolute (objectively determined).",
+                "The same commodity provides different utilities to different consumers.",
+                "Example: Non-smokers derive no utility from cigarettes.",
+                "Utility varies from unit to unit, time to time, and place to place.",
+                "Example: Utility from tea in the morning is different from utility at lunch.",
+                "Utility and usefulness are not synonymous: Usefulness is a product concern; Utility is a consumer concern."
+              ]
+            },
+            {
+              "slide_number": 4,
+              "title": "Approaches to Measuring Utility",
+              "content": [
+                "Cardinal Utility Approach: Utility is measurable quantitatively in units called 'utils' or in monetary terms.",
+                "Ordinal Utility Approach: Utility cannot be measured absolutely; it can only be ranked or ordered.",
+                "Activity: Why do you buy goods and services? Think about the utility you derive from them."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "The Cardinal Utility Theory",
+          "slides": [
+            {
+              "slide_number": 5,
+              "title": "1.2 The Cardinal Utility Theory",
+              "content": [
+                "According to this theory, utility is measurable like height, weight, or temperature.",
+                "Unit of measurement for utility is called 'utils'.",
+                "Utility can also be measured in monetary units (the amount a consumer is willing to pay)."
+              ]
+            },
+            {
+              "slide_number": 6,
+              "title": "Assumptions of Cardinal Utility Theory",
+              "content": [
+                "Rational Consumer: Consumers aim to maximize satisfaction given limited income.",
+                "Cardinal Utility: Utility is measurable.",
+                "Constant Marginal Utility of Money: The utility from each successive unit of money income is constant.",
+                "Diminishing Marginal Utility: Utility gained from successive units of a commodity diminishes."
+              ]
+            },
+            {
+              "slide_number": 7,
+              "title": "Measurement of Utility",
+              "content": [
+                "Total Utility (TU): The total amount of satisfaction a consumer gets from consuming a specific quantity of a commodity (X).",
+                "TU increases as consumption increases, but eventually reaches a saturation point.",
+                "Marginal Utility (MU): The additional utility obtained from consuming one more unit of a commodity.",
+                "MU = ΔTU / ΔQ",
+                "Example: If total utility increases from 10 utils to 12 utils by consuming one more orange, MU = 2 utils."
+              ]
+            },
+            {
+              "slide_number": 8,
+              "title": "Numerical Example: TU and MU",
+              "content": [
+                "Table: Consumption of Banana",
+                "Qty (Qb): 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10",
+                "TU: 0 | 12 | 22 | 29 | 34 | 36 | 37 | 37 | 36 | 34 | 30",
+                "MU: - | 12 | 10 | 7 | 5 | 2 | 1 | 0 | -1 | -2 | -4",
+                "MU of the 3rd unit of banana is 7 utils."
+              ]
+            },
+            {
+              "slide_number": 9,
+              "title": "Relationship Between TU and MU",
+              "content": [
+                "TU increases as long as MU is positive.",
+                "TU reaches maximum when MU is zero (saturation point).",
+                "TU decreases when MU becomes negative.",
+                "Graphical representation shows a downward-sloping MU curve and an inverted U-shaped TU curve."
+              ]
+            },
+            {
+              "slide_number": 10,
+              "title": "The Law of Diminishing Marginal Utility (LDMU)",
+              "content": [
+                "The law states that as a consumer consumes more units of a good, the utility derived from each successive unit decreases.",
+                "Important assumptions: All other goods remain constant; consumption is over a specific time period.",
+                "Example: First glass of water provides high utility; second glass provides lower utility; the fifth glass may provide negative utility."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The Consumer Maximization Problem",
+          "slides": [
+            {
+              "slide_number": 11,
+              "title": "1.3 The Consumer Maximization Problem",
+              "content": [
+                "A consumer maximizes utility by allocating income to different goods.",
+                "Consumer Budget Equation: Income (I) = Px × Qx + Py × Qy + ... + Pn × Qn",
+                "Key Assumptions: Rationality, Cardinal utility, Constant marginal utility of money, Diminishing marginal utility, Fixed income, Fixed prices."
+              ]
+            },
+            {
+              "slide_number": 12,
+              "title": "Consumer Equilibrium: One Commodity",
+              "content": [
+                "Equilibrium occurs when marginal utility of the commodity equals its price.",
+                "MUx = Px",
+                "If MUx > Px: Consumer can increase welfare by buying more of the good.",
+                "If MUx < Px: Consumer can increase welfare by buying less of the good.",
+                "The equilibrium point also derives the demand curve."
+              ]
+            },
+            {
+              "slide_number": 13,
+              "title": "Consumer Equilibrium: More Than One Commodity",
+              "content": [
+                "Equilibrium condition: MUa/Pa = MUb/Pb = ... = MUn/Pn = MUm",
+                "This means the utility derived from spending an additional birr on each commodity is equal.",
+                "If MUa/Pa > MUb/Pb, the consumer should spend more on good A.",
+                "If MUa/Pa < MUb/Pb, the consumer should spend more on good B."
+              ]
+            },
+            {
+              "slide_number": 14,
+              "title": "Numerical Example: Two Commodities",
+              "content": [
+                "Income = Birr 22. Prices: Px = Birr 2, Py = Birr 4.",
+                "Equilibrium occurs at 3 units of X (bread) and 4 units of Y (injera).",
+                "Budget check: (2×3) + (4×4) = 22 → 22 = 22",
+                "MUx/Px = MUy/Py = 1",
+                "Maximum total utility is achieved at this combination."
+              ]
+            },
+            {
+              "slide_number": 15,
+              "title": "Example: Utility Maximization Table",
+              "content": [
+                "Table: Utility schedules for bread (X) and injera (Y)",
+                "Quantity of X: 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7",
+                "MUx: - | 6 | 4 | 2 | 1 | 0 | -1 | -2",
+                "MUx/Px: - | 3 | 2 | 1 | 0.5 | 0 | -0.5 | -1",
+                "Quantity of Y: 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7",
+                "MUy: - | 12 | 10 | 8 | 4 | 0 | -2 | -4",
+                "MUy/Py: - | 3 | 2.5 | 2 | 1 | 0 | -0.5 | -1",
+                "Consumer equilibrium when 3 units of X and 4 units of Y are consumed."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Introduction to the Ordinal Utility Theory",
+          "slides": [
+            {
+              "slide_number": 16,
+              "title": "1.4 Introduction to the Ordinal Utility Theory",
+              "content": [
+                "Utility cannot be measured absolutely; it can only be ranked according to preferences.",
+                "Consumers can order their preferences: 1st, 2nd, 3rd, etc.",
+                "The concept is based on the idea that consumers can tell which bundle they prefer, but not 'how much' more.",
+                "Example: You may prefer orange over banana, but you can't say how many 'utils' more."
+              ]
+            },
+            {
+              "slide_number": 17,
+              "title": "Assumptions of Ordinal Utility Theory",
+              "content": [
+                "Rationality: Consumer aims to maximize satisfaction given income and prices.",
+                "Utility is ordinal: Utility can only be ranked, not measured.",
+                "Diminishing Marginal Rate of Substitution (DMRS): Consumers are willing to give up fewer units of one good to get more of another.",
+                "Consistency: If A > B, then B is not > A.",
+                "Transitivity: If A > B and B > C, then A > C."
+              ]
+            },
+            {
+              "slide_number": 18,
+              "title": "Comparing Cardinal and Ordinal Utility",
+              "content": [
+                "Cardinal Utility: Utility is measurable; uses 'utils'; assumptions include DMU.",
+                "Ordinal Utility: Utility is not measurable; only rankings are possible; uses DMRS.",
+                "Both assume rationality of the consumer.",
+                "Ordinal utility approach is more practical and widely used in modern economics."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Theories of Demand and Supply",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Theory of Demand",
+          "slides": [
+            {
+              "slide_number": 19,
+              "title": "Unit 2: Theories of Demand and Supply",
+              "content": [
+                "Market is where buyers and sellers interact to determine price and quantity.",
+                "Prices are determined by the interaction of demand and supply.",
+                "Key objectives: Explain theory of demand and supply, market equilibrium, and elasticity."
+              ]
+            },
+            {
+              "slide_number": 20,
+              "title": "2.1 Theory of Demand",
+              "content": [
+                "Demand is the ability and willingness to buy a specific quantity of a commodity at a given price in a given period.",
+                "Demand = Willingness to buy + Ability to pay.",
+                "It is different from a desire or want, which may not be backed by purchasing power."
+              ]
+            },
+            {
+              "slide_number": 21,
+              "title": "Demand Schedule, Function, and Curve",
+              "content": [
+                "Demand Schedule: A table showing quantities demanded at different prices.",
+                "Demand Function: Qd = f(P) = a - bP, where Qd is quantity demanded, P is price.",
+                "Demand Curve: A graphical representation; Price on Y-axis, Quantity on X-axis.",
+                "Law of Demand: Price and quantity demanded are inversely related.",
+                "Reasons: Income effect, Substitution effect, and Diminishing marginal utility."
+              ]
+            },
+            {
+              "slide_number": 22,
+              "title": "Factors Affecting Demand",
+              "content": [
+                "Price of the good (inverse relationship).",
+                "Price of related goods: Substitutes (positive relationship) and Complements (negative relationship).",
+                "Consumer income: Normal goods (positive), Inferior goods (negative).",
+                "Tastes, habits, and preferences.",
+                "Population size (larger population = higher demand).",
+                "Season (demand changes with weather).",
+                "Future price expectations (higher expected price = higher current demand)."
+              ]
+            },
+            {
+              "slide_number": 23,
+              "title": "Change in Quantity Demanded vs Change in Demand",
+              "content": [
+                "Change in Quantity Demanded: Movement along the demand curve caused by a change in the good's own price.",
+                "Extension of demand: Downward movement (price decreases, quantity increases).",
+                "Contraction of demand: Upward movement (price increases, quantity decreases).",
+                "Change in Demand: Shift of the demand curve caused by factors other than price.",
+                "Increase in demand: Shift to the right (outward).",
+                "Decrease in demand: Shift to the left (inward)."
+              ]
+            },
+            {
+              "slide_number": 24,
+              "title": "Derivation of Market Demand",
+              "content": [
+                "Individual Demand: Quantity a single person is willing and able to buy at a given price.",
+                "Market Demand: Total quantity all consumers are willing and able to buy.",
+                "Market demand is obtained by horizontally summing individual demand curves.",
+                "Example: If Qd_individual = 50 - 5P and there are 100 identical buyers, then Qd_market = 100 × (50 - 5P) = 5000 - 500P."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Theory of Supply",
+          "slides": [
+            {
+              "slide_number": 25,
+              "title": "2.2 Theory of Supply",
+              "content": [
+                "Supply: The various amounts of a product that a producer is willing and able to produce and sell at a given price.",
+                "Sellers constitute the supply side of the market.",
+                "Ceteris Paribus: Holding other factors constant, quantity supplied is the amount offered for sale at a given price."
+              ]
+            },
+            {
+              "slide_number": 26,
+              "title": "Supply Function, Schedule, and Curve",
+              "content": [
+                "Supply Function: Qs = f(P) = a + bP, where Qs is quantity supplied, P is price.",
+                "Supply Schedule: A table showing quantities supplied at different prices.",
+                "Supply Curve: Graphical representation; upward sloping.",
+                "Law of Supply: Price and quantity supplied are directly related.",
+                "A supplier needs a minimum price to start supplying, then increases quantity as price rises."
+              ]
+            },
+            {
+              "slide_number": 27,
+              "title": "Change in Quantity Supplied vs Change in Supply",
+              "content": [
+                "Change in Quantity Supplied: Movement along the supply curve caused by a change in the good's own price.",
+                "Change in Supply: Shift of the supply curve caused by factors other than price.",
+                "Factors causing shift in supply:",
+                "- Input prices",
+                "- Technology",
+                "- Taxes and subsidies",
+                "- Number of sellers",
+                "- Expectations",
+                "- External factors (e.g., weather)."
+              ]
+            },
+            {
+              "slide_number": 28,
+              "title": "Derivation of Market Supply",
+              "content": [
+                "Individual Supply: Quantity a single producer is willing to sell at a given price.",
+                "Market Supply: Total quantity all producers are willing to sell.",
+                "Market supply is obtained by horizontally summing individual supply curves.",
+                "Example: If Qs_individual = 20P - 5 and there are 120 identical sellers, then Qs_market = 120 × (20P - 5) = 2400P - 600.",
+                "When P = 4, Qs_market = 2400(4) - 600 = 9,000 tons."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Market Equilibrium",
+          "slides": [
+            {
+              "slide_number": 29,
+              "title": "2.3 Market Equilibrium",
+              "content": [
+                "Market Equilibrium: A state where quantity demanded equals quantity supplied.",
+                "Equilibrium Price (Market Clearing Price): The price at which Qd = Qs.",
+                "Equilibrium Quantity: The quantity bought and sold at equilibrium price.",
+                "At equilibrium, there is no tendency for price to change."
+              ]
+            },
+            {
+              "slide_number": 30,
+              "title": "Market Equilibrium: Numerical Example",
+              "content": [
+                "Price (Br): 15 | 20 | 25",
+                "Demand (units): 4 | 3 | 2",
+                "Supply (units): 2 | 3 | 4",
+                "Market Position: Shortage (-) | Equilibrium | Surplus (+)",
+                "Equilibrium at Price = 20 and Quantity = 3 units."
+              ]
+            },
+            {
+              "slide_number": 31,
+              "title": "Excess Demand and Excess Supply",
+              "content": [
+                "Excess Demand (Shortage): Qd > Qs. Occurs when price is below equilibrium.",
+                "Result: Consumers bid the price up.",
+                "Excess Supply (Surplus): Qs > Qd. Occurs when price is above equilibrium.",
+                "Result: Producers bid the price down.",
+                "Market forces always push towards equilibrium."
+              ]
+            },
+            {
+              "slide_number": 32,
+              "title": "Effects of Changes in Demand and Supply",
+              "content": [
+                "Change in Demand (Supply Constant):",
+                "- Increase in demand → Equilibrium price ↑, Equilibrium quantity ↑.",
+                "- Decrease in demand → Equilibrium price ↓, Equilibrium quantity ↓.",
+                "Change in Supply (Demand Constant):",
+                "- Increase in supply → Equilibrium price ↓, Equilibrium quantity ↑.",
+                "- Decrease in supply → Equilibrium price ↑, Equilibrium quantity ↓.",
+                "When both shift, the effect on price and quantity depends on the direction and magnitude of the shifts."
+              ]
+            },
+            {
+              "slide_number": 33,
+              "title": "Factors Shifting Demand and Supply",
+              "content": [
+                "Factors shifting Demand (Supply constant):",
+                "- Income (increase → demand ↑, decrease → demand ↓)",
+                "- Substitutes (increase in price of substitute → demand ↑)",
+                "- Complements (increase in price of complement → demand ↓)",
+                "- Tastes and preferences (favorable → demand ↑)",
+                "- Number of consumers (increase → demand ↑)",
+                "Factors shifting Supply (Demand constant):",
+                "- Resource prices (increase → supply ↓)",
+                "- Technology (improvement → supply ↑)",
+                "- Taxes (increase → supply ↓)",
+                "- Subsidies (increase → supply ↑)",
+                "- Number of suppliers (increase → supply ↑)"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Elasticities of Demand and Supply",
+          "slides": [
+            {
+              "slide_number": 34,
+              "title": "2.4 Elasticities of Demand and Supply",
+              "content": [
+                "Elasticity: A measure of the sensitivity of one variable to another.",
+                "It tells us the percentage change in one variable in response to a 1% change in another variable.",
+                "Types of Demand Elasticities:",
+                "1. Price Elasticity of Demand",
+                "2. Cross-Price Elasticity of Demand",
+                "3. Income Elasticity of Demand",
+                "Also: Price Elasticity of Supply."
+              ]
+            },
+            {
+              "slide_number": 35,
+              "title": "Price Elasticity of Demand",
+              "content": [
+                "Price Elasticity of Demand (Ed): Measures the responsiveness of quantity demanded to a change in price.",
+                "Ed = Percentage change in quantity demanded / Percentage change in price",
+                "Point Elasticity: Ed = (ΔQ/ΔP) × (P/Q)",
+                "Arc Elasticity: Ed = (ΔQ/ΔP) × (P1+P2)/(Q1+Q2)",
+                "Since price and quantity demanded are inversely related, Ed is usually negative. We use the absolute value.",
+                "Interpretation:",
+                "- If |Ed| > 1: Elastic (demand is responsive to price changes).",
+                "- If |Ed| < 1: Inelastic (demand is not very responsive to price changes).",
+                "- If |Ed| = 1: Unitary elastic (proportional response)."
+              ]
+            },
+            {
+              "slide_number": 36,
+              "title": "Examples and Special Cases of Elasticity",
+              "content": [
+                "Perfectly Inelastic: |Ed| = 0. Quantity demanded does not change when price changes.",
+                "Example: Life-saving medicine.",
+                "Perfectly Elastic: |Ed| = ∞. Consumers will buy all they can at a given price, nothing at a higher price.",
+                "Example: Perfectly competitive market.",
+                "Determinants of Price Elasticity:",
+                "- Availability of substitutes",
+                "- Nature of the good (necessity vs luxury)",
+                "- Proportion of income spent on the good",
+                "- Time horizon (more elastic in the long run)"
+              ]
+            },
+            {
+              "slide_number": 37,
+              "title": "Cross Elasticity of Demand",
+              "content": [
+                "Cross Elasticity (Exy): Measures the responsiveness of quantity demanded of good X to a change in the price of good Y.",
+                "Exy = Percentage change in quantity demanded of X / Percentage change in price of Y",
+                "Interpretation:",
+                "- Positive Exy: Goods are substitutes (e.g., coffee and tea).",
+                "- Negative Exy: Goods are complements (e.g., cars and petrol).",
+                "- Zero Exy: Goods are independent (unrelated)."
+              ]
+            },
+            {
+              "slide_number": 38,
+              "title": "Income Elasticity of Demand",
+              "content": [
+                "Income Elasticity (Ei): Measures the responsiveness of quantity demanded to a change in consumer income.",
+                "Ei = Percentage change in quantity demanded / Percentage change in income",
+                "Interpretation:",
+                "- Positive Ei: Normal good. Demand increases as income increases.",
+                "- Ei > 1: Luxury good (demand increases more than proportionally).",
+                "- 0 < Ei < 1: Necessity good (demand increases less than proportionally).",
+                "- Negative Ei: Inferior good. Demand decreases as income increases."
+              ]
+            },
+            {
+              "slide_number": 39,
+              "title": "Price Elasticity of Supply",
+              "content": [
+                "Price Elasticity of Supply (Es): Measures the responsiveness of quantity supplied to a change in price.",
+                "Es = Percentage change in quantity supplied / Percentage change in price",
+                "Point Elasticity: Es = (ΔQ/ΔP) × (P/Q)",
+                "Arc Elasticity: Es = (ΔQ/ΔP) × (P1+P2)/(Q1+Q2)",
+                "Since price and quantity supplied are directly related, Es is positive.",
+                "Interpretation:",
+                "- If Es > 1: Supply is elastic.",
+                "- If Es < 1: Supply is inelastic.",
+                "- If Es = 1: Supply is unitary elastic.",
+                "Determinants: Time, availability of inputs, number of sellers."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Theories of Production and Cost",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Theory of Production",
+          "slides": [
+            {
+              "slide_number": 40,
+              "title": "Unit 3: Theories of Production and Cost",
+              "content": [
+                "This unit examines the behavior of firms in producing goods and services.",
+                "Production involves transforming inputs into outputs.",
+                "Cost is the expenditure incurred to acquire inputs.",
+                "The unit covers production functions, cost curves, and their relationships."
+              ]
+            },
+            {
+              "slide_number": 41,
+              "title": "3.1 Theory of Production",
+              "content": [
+                "Production: The process of transforming inputs (raw materials, labor, capital) into desired outputs (goods/services).",
+                "Production Function: A function showing the maximum output a firm can produce with a given combination of inputs.",
+                "Q = f(L, K), where L = Labor, K = Capital.",
+                "Short-run: At least one factor of production is fixed.",
+                "Long-run: All factors of production are variable."
+              ]
+            },
+            {
+              "slide_number": 42,
+              "title": "Short Run Production Function",
+              "content": [
+                "Short-run: Capital (K) is fixed, Labor (L) is variable.",
+                "Q = f(L, K̄) where K̄ is fixed.",
+                "Key Concepts:",
+                "- Total Product (TP): Total output produced.",
+                "- Average Product (AP): TP per unit of variable input. APL = TP/L.",
+                "- Marginal Product (MP): Additional output from one more unit of variable input. MPL = ΔTP/ΔL."
+              ]
+            },
+            {
+              "slide_number": 43,
+              "title": "Law of Diminishing Marginal Productivity",
+              "content": [
+                "The law states that as more of a variable input is added to a fixed input, the marginal product of the variable input will eventually decline.",
+                "Example: Adding more workers to a fixed amount of land.",
+                "Initially, MP increases due to specialization.",
+                "Eventually, MP decreases because the fixed input becomes crowded.",
+                "This law explains the shape of the TP curve (increasing at a decreasing rate)."
+              ]
+            },
+            {
+              "slide_number": 44,
+              "title": "Stages of Production",
+              "content": [
+                "Stage I (Increasing Returns): MP is rising and positive. AP is increasing.",
+                "Stage II (Diminishing Returns): MP is positive but decreasing. AP is decreasing.",
+                "This is the rational stage of production.",
+                "Stage III (Negative Returns): MP is negative. TP is decreasing.",
+                "A rational firm will not operate in Stage III."
+              ]
+            },
+            {
+              "slide_number": 45,
+              "title": "Numerical Example: Short Run Production",
+              "content": [
+                "Fixed input: 1 hectare of land",
+                "Labor (L): 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12",
+                "TP: 0 | 5 | 11 | 19 | 30 | 40 | 48 | 54 | 57 | 59 | 60 | 60 | 58",
+                "AP: - | 5 | 5.5 | 6.33 | 7.5 | 8 | 8 | 7.71 | 7.13 | 6.56 | 6 | 5.45 | 4.83",
+                "MP: - | 5 | 6 | 8 | 11 | 10 | 8 | 6 | 3 | 2 | 1 | 0 | -2",
+                "Stage I: L=1 to L=4 (MP increasing)",
+                "Stage II: L=5 to L=11 (MP positive but decreasing)",
+                "Stage III: L=12+ (MP negative)"
+              ]
+            },
+            {
+              "slide_number": 46,
+              "title": "Long Run Production Function: Isoquants",
+              "content": [
+                "In the long run, all inputs are variable.",
+                "Isoquant: A curve showing all combinations of two inputs that produce the same level of output.",
+                "Example: Combinations of Labor and Capital to produce 100 units.",
+                "Properties of Isoquants:",
+                "1. Downward sloping.",
+                "2. Further from origin = Higher output.",
+                "3. Do not cross.",
+                "4. Convex to the origin."
+              ]
+            },
+            {
+              "slide_number": 47,
+              "title": "Marginal Rate of Technical Substitution (MRTS)",
+              "content": [
+                "MRTS: The rate at which one input can be substituted for another while keeping output constant.",
+                "MRTS = - ΔK / ΔL",
+                "It equals the slope of the isoquant.",
+                "Property: MRTS diminishes as we move down along an isoquant.",
+                "This is the Diminishing Marginal Rate of Technical Substitution.",
+                "It makes the isoquant convex to the origin."
+              ]
+            },
+            {
+              "slide_number": 48,
+              "title": "Returns to Scale",
+              "content": [
+                "Returns to scale: The effect on output when all inputs are increased by the same proportion.",
+                "Types:",
+                "1. Increasing Returns to Scale: Output increases by more than the increase in inputs (m > 1).",
+                "2. Constant Returns to Scale: Output increases by the same proportion as inputs (m = 1).",
+                "3. Decreasing Returns to Scale: Output increases by less than the increase in inputs (m < 1).",
+                "Reasons: Economies/diseconomies of scale, specialization, managerial difficulties."
+              ]
+            },
+            {
+              "slide_number": 49,
+              "title": "Technological Change and Production Curves",
+              "content": [
+                "Technological change increases the productivity of factors.",
+                "Effect on production:",
+                "- Production function shifts upward (more output from the same inputs).",
+                "- Isoquant map shifts inward (same output with fewer inputs).",
+                "Types of Technical Progress:",
+                "1. Capital-saving (Labor-using): MP_L increases more than MP_K.",
+                "2. Labor-saving (Capital-using): MP_K increases more than MP_L.",
+                "3. Neutral: Both MP_L and MP_K increase by the same proportion."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Theory of Cost",
+          "slides": [
+            {
+              "slide_number": 50,
+              "title": "3.2 Theory of Cost",
+              "content": [
+                "Cost of Production: The expenditure incurred on inputs to produce goods/services.",
+                "Cost function is derived from the production function.",
+                "Short-run costs: Some inputs are fixed.",
+                "Long-run costs: All inputs are variable."
+              ]
+            },
+            {
+              "slide_number": 51,
+              "title": "Short-Run Costs: Total Costs",
+              "content": [
+                "Total Fixed Cost (TFC): Costs that do not vary with output (e.g., rent, insurance).",
+                "Total Variable Cost (TVC): Costs that vary directly with output (e.g., raw materials, wages).",
+                "Total Cost (TC) = TFC + TVC",
+                "Output (Q): 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7",
+                "TFC: 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100",
+                "TVC: 0 | 30 | 56 | 75 | 85 | 90 | 100 | 130",
+                "TC: 100 | 130 | 156 | 175 | 185 | 190 | 200 | 230"
+              ]
+            },
+            {
+              "slide_number": 52,
+              "title": "Short-Run Costs: Average and Marginal Costs",
+              "content": [
+                "Average Fixed Cost (AFC) = TFC / Q",
+                "Average Variable Cost (AVC) = TVC / Q",
+                "Average Total Cost (ATC) = TC / Q = AFC + AVC",
+                "Marginal Cost (MC) = ΔTC / ΔQ = ΔTVC / ΔQ (since ΔTFC = 0)",
+                "Output (Q): 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7",
+                "AFC: - | 100 | 50 | 33.3 | 25 | 20 | 16.7 | 14.3",
+                "AVC: - | 30 | 28 | 25 | 21.25 | 18 | 16.7 | 18.6",
+                "ATC: - | 130 | 78 | 58.3 | 46.25 | 38 | 33.3 | 32.9",
+                "MC: - | 30 | 26 | 19 | 10 | 5 | 10 | 30"
+              ]
+            },
+            {
+              "slide_number": 53,
+              "title": "Relationship Between Cost Curves",
+              "content": [
+                "AFC continuously declines as output increases.",
+                "AVC is U-shaped (decreases then increases due to law of diminishing returns).",
+                "ATC is U-shaped and lies above AVC (difference is AFC).",
+                "MC is U-shaped and intersects AVC and ATC at their minimum points.",
+                "When MC < AVC (or ATC), the curves are falling.",
+                "When MC = AVC (or ATC), the curves are at their minimum.",
+                "When MC > AVC (or ATC), the curves are rising."
+              ]
+            },
+            {
+              "slide_number": 54,
+              "title": "Long-Run Costs",
+              "content": [
+                "In the long run, all inputs are variable, so there are no fixed costs.",
+                "Long-Run Total Cost (LTC): Cost of producing output with all inputs variable.",
+                "Long-Run Average Cost (LAC): LTC / Q.",
+                "Long-Run Marginal Cost (LMC): ΔLTC / ΔQ.",
+                "LAC curve is U-shaped, but flatter than short-run cost curves.",
+                "Economies of Scale: Downward-sloping portion of LAC (costs fall as output increases).",
+                "Diseconomies of Scale: Upward-sloping portion of LAC (costs rise as output increases)."
+              ]
+            },
+            {
+              "slide_number": 55,
+              "title": "Relationship Between Production and Cost Curves",
+              "content": [
+                "Production and cost curves are mirror images.",
+                "When AP rises → AVC falls.",
+                "When AP falls → AVC rises.",
+                "When AP is maximum → AVC is minimum.",
+                "When MP rises → MC falls.",
+                "When MP falls → MC rises.",
+                "When MP is maximum → MC is minimum."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Market Structure",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Perfectly Competitive Markets",
+          "slides": [
+            {
+              "slide_number": 56,
+              "title": "Unit 4: Market Structure",
+              "content": [
+                "Markets are categorized based on competition levels and nature.",
+                "Types of markets: Perfectly Competitive, Monopoly, Oligopoly, Monopolistic Competition.",
+                "We analyze demand, revenue, and equilibrium in each market."
+              ]
+            },
+            {
+              "slide_number": 57,
+              "title": "4.1 Perfectly Competitive Markets",
+              "content": [
+                "Perfect Competition: A market with many buyers and sellers, where no single firm has market power.",
+                "Firms are price takers.",
+                "Products are identical (homogeneous).",
+                "Free entry and exit.",
+                "Perfect information."
+              ]
+            },
+            {
+              "slide_number": 58,
+              "title": "Characteristics of Perfect Competition",
+              "content": [
+                "Large number of buyers and sellers: Each firm is too small to influence price.",
+                "Homogeneous product: Products are identical and perfect substitutes.",
+                "Free entry and exit: No barriers to entry or exit.",
+                "Perfect information: Consumers and producers have full knowledge of market conditions.",
+                "Profit maximization: The goal of every firm."
+              ]
+            },
+            {
+              "slide_number": 59,
+              "title": "Demand in Perfect Competition",
+              "content": [
+                "A competitive firm faces a perfectly horizontal (elastic) demand curve.",
+                "It can sell any quantity at the prevailing market price.",
+                "The firm's demand curve is a horizontal line at P*.",
+                "P* is determined by the intersection of market demand and supply."
+              ]
+            },
+            {
+              "slide_number": 60,
+              "title": "Revenue in Perfect Competition",
+              "content": [
+                "Total Revenue (TR) = P × Q",
+                "Average Revenue (AR) = TR / Q = P",
+                "Marginal Revenue (MR) = ΔTR / ΔQ = P",
+                "In perfect competition, P = AR = MR.",
+                "The AR and MR curves are the same horizontal line at the market price."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Pure Monopoly Market",
+          "slides": [
+            {
+              "slide_number": 61,
+              "title": "4.2 Pure Monopoly Market",
+              "content": [
+                "Monopoly: A market structure with a single seller.",
+                "The firm and the industry are one and the same.",
+                "The product has no close substitutes.",
+                "There are high barriers to entry.",
+                "The monopolist is a price maker."
+              ]
+            },
+            {
+              "slide_number": 62,
+              "title": "Characteristics of Monopoly",
+              "content": [
+                "Single seller and many buyers.",
+                "No close substitutes.",
+                "Price maker: The monopolist controls price by controlling supply.",
+                "Price discrimination: Selling the same product at different prices to different consumers.",
+                "Restrictions on entry: Barriers to entry exist."
+              ]
+            },
+            {
+              "slide_number": 63,
+              "title": "Sources of Monopoly Power",
+              "content": [
+                "Absence of close substitutes.",
+                "Economies of scale: Large firms can produce at lower average cost.",
+                "Ownership of strategic inputs (e.g., mineral water).",
+                "Patent rights: Legal protection for inventions.",
+                "Government policies (licensing, trade restrictions)."
+              ]
+            },
+            {
+              "slide_number": 64,
+              "title": "Demand in Monopoly",
+              "content": [
+                "A monopolist faces the market demand curve, which is downward-sloping.",
+                "To sell more output, the monopolist must lower the price.",
+                "If the monopolist raises price, quantity demanded decreases.",
+                "The demand curve is P = a - bQ."
+              ]
+            },
+            {
+              "slide_number": 65,
+              "title": "Revenue in Monopoly",
+              "content": [
+                "TR = P × Q = (a - bQ) × Q = aQ - bQ²",
+                "AR = TR / Q = P = a - bQ (downward-sloping).",
+                "MR = ΔTR / ΔQ = a - 2bQ (downward-sloping and lies below AR).",
+                "TR curve is an inverted U-shape: increases, reaches maximum, then decreases.",
+                "MR becomes zero at the maximum point of TR and negative afterwards."
+              ]
+            },
+            {
+              "slide_number": 66,
+              "title": "Monopoly: Numerical Example",
+              "content": [
+                "Table: Quantity (Q) | Price (P) | TR | AR | MR",
+                "0 | 110 | 0 | - | -",
+                "1 | 100 | 100 | 100 | 100",
+                "2 | 90 | 180 | 90 | 80",
+                "3 | 80 | 240 | 80 | 60",
+                "4 | 70 | 280 | 70 | 40",
+                "5 | 60 | 300 | 60 | 20",
+                "6 | 50 | 300 | 50 | 0",
+                "7 | 40 | 280 | 40 | -20",
+                "TR max at Q=5, MR becomes zero at Q=6."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Monopolistically Competitive Market",
+          "slides": [
+            {
+              "slide_number": 67,
+              "title": "4.3 Monopolistically Competitive Market",
+              "content": [
+                "Monopolistic Competition: A market with many sellers selling differentiated products.",
+                "Free entry and exit exist.",
+                "Firms have some market power due to product differentiation.",
+                "It combines features of both perfect competition and monopoly."
+              ]
+            },
+            {
+              "slide_number": 68,
+              "title": "Characteristics of Monopolistic Competition",
+              "content": [
+                "Product differentiation: Products are slightly different (brand, quality, style).",
+                "Many sellers and buyers: More than perfect competition, but still many.",
+                "Free entry and exit: No significant barriers.",
+                "Non-price competition: Advertising, branding, customer service are important."
+              ]
+            },
+            {
+              "slide_number": 69,
+              "title": "Demand and Revenue in Monopolistic Competition",
+              "content": [
+                "Firms are price makers, facing a downward-sloping demand curve.",
+                "Because of many close substitutes, the demand curve is relatively elastic (flatter than monopoly).",
+                "AR (demand) and MR curves are both downward-sloping.",
+                "MR lies below AR, similar to monopoly."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Oligopoly Market",
+          "slides": [
+            {
+              "slide_number": 70,
+              "title": "4.4 Oligopoly Market",
+              "content": [
+                "Oligopoly: A market with a few dominant firms.",
+                "Firms are mutually interdependent.",
+                "Products can be homogeneous (e.g., cement) or differentiated (e.g., cars).",
+                "There are significant barriers to entry.",
+                "Example: The world crude oil market."
+              ]
+            },
+            {
+              "slide_number": 71,
+              "title": "Characteristics of Oligopoly",
+              "content": [
+                "Few dominant firms: Market is concentrated.",
+                "Interdependence: Each firm's decisions affect and are affected by rivals.",
+                "Barriers to entry: Economies of scale, patents, high capital requirements.",
+                "Products: Can be homogeneous or differentiated."
+              ]
+            },
+            {
+              "slide_number": 72,
+              "title": "Demand and Revenue in Oligopoly",
+              "content": [
+                "The demand curve for an oligopolist is downward-sloping.",
+                "The shape is complex because it depends on rivals' reactions.",
+                "If a firm lowers price, rivals may follow, leading to inelastic demand.",
+                "If a firm raises price, rivals may not follow, leading to elastic demand.",
+                "AR and MR curves are downward-sloping but may be kinked (in the kinked demand curve model)."
+              ]
+            },
+            {
+              "slide_number": 73,
+              "title": "Summary of Market Structures",
+              "content": [
+                "Perfect Competition: Many firms, homogeneous product, free entry, price takers.",
+                "Monopoly: One firm, unique product, entry barriers, price maker.",
+                "Monopolistic Competition: Many firms, differentiated product, free entry, non-price competition.",
+                "Oligopoly: Few firms, homogeneous or differentiated product, entry barriers, interdependence."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Banking and Finance",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Introduction to Financial Intermediaries",
+          "slides": [
+            {
+              "slide_number": 74,
+              "title": "Unit 5: Banking and Finance",
+              "content": [
+                "Capital is a key factor of production.",
+                "Banks transfer finance from savers to borrowers.",
+                "This unit covers financial intermediaries, markets, institutions, and Ethiopian banking history.",
+                "Indigenous financial institutions like Iqub and Iddir are also discussed."
+              ]
+            },
+            {
+              "slide_number": 75,
+              "title": "5.1 Financial Intermediaries",
+              "content": [
+                "Financial Intermediary: An entity that acts as a middleman between savers and borrowers.",
+                "Examples: Banks, Microfinance Institutions.",
+                "Financial Intermediation: The process of transferring funds from surplus spending units to deficit spending units.",
+                "Finance is the lifeblood of the economy."
+              ]
+            },
+            {
+              "slide_number": 76,
+              "title": "Benefits of Financial Intermediaries",
+              "content": [
+                "For Depositors (Savers):",
+                "- Safety: Money is protected from risk of loss.",
+                "- Interest earning: Banks pay interest on savings.",
+                "For Borrowers:",
+                "- Access to capital for investment.",
+                "- Enables production, which is useful for the economy."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Introduction to Financial Markets",
+          "slides": [
+            {
+              "slide_number": 77,
+              "title": "5.2 Financial Markets",
+              "content": [
+                "Financial Markets: Channels for allocating savings to investment.",
+                "They provide assets to savers and funding forms for investors.",
+                "Components of Financial Markets:",
+                "1. Money Market: Short-term instruments (maturity ≤ 1 year).",
+                "2. Capital Market: Long-term instruments."
+              ]
+            },
+            {
+              "slide_number": 78,
+              "title": "Money Market Instruments",
+              "content": [
+                "Treasury Bills (T-Bills): Issued by governments, short-term.",
+                "Commercial Papers: Short-term unsecured promissory notes issued by corporations.",
+                "Negotiable Certificates of Deposit (CDs): Time deposits with a bank.",
+                "Repurchase Agreements (Repos): Short-term borrowing.",
+                "Bankers' Acceptances: Time drafts drawn on and accepted by a bank."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Introduction to Financial Institutions",
+          "slides": [
+            {
+              "slide_number": 79,
+              "title": "5.3 Financial Institutions",
+              "content": [
+                "Institutions: The rules of the game in society.",
+                "Formal Institutions: Written rules (constitutions, laws, policies).",
+                "Informal Institutions: Unwritten norms, customs, traditions.",
+                "Financial Institutions: Organizations that serve as financial intermediaries."
+              ]
+            },
+            {
+              "slide_number": 80,
+              "title": "Types of Financial Institutions",
+              "content": [
+                "1. Depository Institutions: Accept and manage deposits, make loans.",
+                "   Examples: Banks, Credit Unions.",
+                "2. Contractual Institutions: Insurance companies, pension funds.",
+                "3. Investment Institutes: Investment banks, brokerage firms."
+              ]
+            },
+            {
+              "slide_number": 81,
+              "title": "Banking Financial Institutions",
+              "content": [
+                "A bank gives loans to borrowers and accepts deposits from savers.",
+                "Roles of Banks:",
+                "- Mobilizing savings.",
+                "- Identifying good investments.",
+                "- Improving capital allocation and corporate governance.",
+                "- Managing risk and enhancing economic growth.",
+                "Efficiency depends on: Competition among banks and the nature of regulation."
+              ]
+            },
+            {
+              "slide_number": 82,
+              "title": "Non-Banking Financial Institutions (NBFIs)",
+              "content": [
+                "NBFI: A financial institution that does not have a full banking license.",
+                "They facilitate bank-related financial services.",
+                "Examples:",
+                "- Insurance companies",
+                "- Pawn shops",
+                "- Check-cashing locations",
+                "- Payday lending",
+                "- Microloan organizations."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Historical Development of Banks in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 83,
+              "title": "5.4 Historical Development of Banks in Ethiopia",
+              "content": [
+                "Modern banking started in 1905 with the Bank of Abyssinia.",
+                "1906: Bank of Abyssinia officially founded.",
+                "1931: Replaced by the Bank of Ethiopia (state-owned).",
+                "1936-1941: Italian banks operated during occupation.",
+                "1943: State Bank of Ethiopia established (central and commercial bank).",
+                "1963: National Bank of Ethiopia (central bank) and Commercial Bank of Ethiopia (CBE) established."
+              ]
+            },
+            {
+              "slide_number": 84,
+              "title": "Banking History (1974-1991)",
+              "content": [
+                "Socialist period: Banks were nationalized.",
+                "Addis Bank formed from private banks.",
+                "1980: Addis Bank and CBE merged into one commercial bank.",
+                "Agricultural and Industrial Development Bank (AIDB) established.",
+                "Financial sector had only 3 banks."
+              ]
+            },
+            {
+              "slide_number": 85,
+              "title": "Banking History (1991-Present)",
+              "content": [
+                "Shift to a liberal economy in 1991.",
+                "1994: Licensing and Supervision of Banking Business proclamation.",
+                "Allowed for private commercial banks.",
+                "Current banks: National Bank of Ethiopia (NBE), Commercial Bank of Ethiopia (CBE), Development Bank of Ethiopia (DBE), and private banks."
+              ]
+            },
+            {
+              "slide_number": 86,
+              "title": "Roles of Banks in Ethiopia",
+              "content": [
+                "National Bank of Ethiopia (NBE):",
+                "- Prints currency, mints coins.",
+                "- Issues bonds and treasury bills.",
+                "- Maintains low inflation.",
+                "- Authorizes and controls financial institutions.",
+                "- Lends to commercial banks.",
+                "- Regulates money supply and foreign exchange.",
+                "Commercial Bank of Ethiopia (CBE):",
+                "- Accepts deposits.",
+                "- Gives loans.",
+                "- Handles foreign currency.",
+                "- Largest commercial bank in Ethiopia.",
+                "Development Bank of Ethiopia (DBE):",
+                "- Provides short, medium, and long-term development loans.",
+                "- Focuses on agriculture and industry projects."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Micro-finance Institutions",
+          "slides": [
+            {
+              "slide_number": 87,
+              "title": "5.5 Micro-finance Institutions",
+              "content": [
+                "Microfinance provides financial services to the poor.",
+                "Founded by Muhammad Yunus and the Grameen Bank.",
+                "Provides microcredit to economically active poor.",
+                "Microcredit: Small loans without collateral."
+              ]
+            },
+            {
+              "slide_number": 88,
+              "title": "Microfinance and Microcredit",
+              "content": [
+                "MFIs give access to savings, credit, insurance, and money transfer.",
+                "Microcredit is a small loan given without collateral.",
+                "Group Lending: A mechanism where a group gets a loan, and peer pressure ensures repayment.",
+                "Clients: Economically active poor with entrepreneurial skills."
+              ]
+            },
+            {
+              "slide_number": 89,
+              "title": "Microfinance vs Money Lenders",
+              "content": [
+                "Informal money lenders charge very high interest.",
+                "Borrowers have no protection from abusive practices.",
+                "Positive features of moneylenders: Simple procedures, clear terms, timely disbursement.",
+                "MFIs combine these positive features and formalize them."
+              ]
+            },
+            {
+              "slide_number": 90,
+              "title": "Microfinance Institutions in Ethiopia",
+              "content": [
+                "As of 2020/21, there are 41 operational MFIs.",
+                "They mobilized Birr 47 billion in savings.",
+                "They provided loans worth Birr 64.6 billion.",
+                "They serve the economically active poor."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Electronic Banking (e-banking)",
+          "slides": [
+            {
+              "slide_number": 91,
+              "title": "5.6 Electronic Banking (e-banking)",
+              "content": [
+                "E-banking (EFT): Transfer of funds through electronic methods.",
+                "Key Aspects:",
+                "1. Automated Teller Machines (ATMs): Withdraw cash, transfer funds.",
+                "2. Direct Deposit: Electronic transfer of salaries, benefits.",
+                "3. Debit Card Purchases: Immediate deduction from bank account.",
+                "4. Mobile Banking: Transactions via mobile devices."
+              ]
+            },
+            {
+              "slide_number": 92,
+              "title": "Advantages and Disadvantages of e-banking",
+              "content": [
+                "Advantages:",
+                "- Convenience (24/7 access).",
+                "- Speed and efficiency.",
+                "- Reduces paper use.",
+                "Disadvantages:",
+                "- Security concerns (fraud, hacking).",
+                "- Limited capabilities compared to in-person services.",
+                "- Technology and power dependency."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Indigenous Financial Institutions",
+          "slides": [
+            {
+              "slide_number": 93,
+              "title": "5.7 Indigenous Financial Institutions",
+              "content": [
+                "Ethiopia has traditional institutions like Iqub and Iddir.",
+                "Iqub (Saving Club):",
+                "- Rotating savings and credit association.",
+                "- Members contribute regularly, one member receives the total each cycle.",
+                "- Used for weddings, funerals, building houses.",
+                "Iddir (Funeral Association):",
+                "- Provides financial and material support for funerals.",
+                "- Members contribute monthly."
+              ]
+            },
+            {
+              "slide_number": 94,
+              "title": "Savings and Credit Cooperatives (SACCs)",
+              "content": [
+                "SACCs: Semi-formal financial institutions.",
+                "They are outside the control of central authorities.",
+                "They have immense potential for financing short-term loans.",
+                "They support agricultural production technologies and income-generating activities."
+              ]
+            },
+            {
+              "slide_number": 95,
+              "title": "Features of Iqub and Iddir",
+              "content": [
+                "Iqub:",
+                "- Based on social ties.",
+                "- Homogeneous groups.",
+                "- Low risk of default.",
+                "- Low administration costs.",
+                "Iddir:",
+                "- Found everywhere in Ethiopia.",
+                "- Provides financial and material assistance.",
+                "- Has by-laws and powerful social sanctions.",
+                "- Most funds are deposited in banks."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Economic Growth",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Review of Macroeconomic Variables",
+          "slides": [
+            {
+              "slide_number": 96,
+              "title": "Unit 6: Economic Growth",
+              "content": [
+                "Economics is a social science about making decisions with scarce resources.",
+                "Microeconomics: Decisions at individual level.",
+                "Macroeconomics: Decisions at national level.",
+                "Macroeconomic Goals: Economic growth, low unemployment, price stability, balanced trade."
+              ]
+            },
+            {
+              "slide_number": 97,
+              "title": "6.1 Review of Macroeconomic Variables",
+              "content": [
+                "Current Account Balance: Exports (X) - Imports (M).",
+                "Trade Surplus: X > M (desirable).",
+                "Trade Deficit: X < M (not desirable).",
+                "Inflation: Increase in the general price level.",
+                "Cost-push inflation: Caused by high production costs.",
+                "Demand-pull inflation: Caused by high demand."
+              ]
+            },
+            {
+              "slide_number": 98,
+              "title": "Other Macroeconomic Variables",
+              "content": [
+                "Economic Growth: Increase in output (GDP).",
+                "Very desirable for raising living standards.",
+                "Unemployment: People willing and able to work but without jobs.",
+                "Types of Unemployment:",
+                "- Frictional (job search).",
+                "- Structural (decline of an industry).",
+                "- Seasonal (time of year).",
+                "- Cyclical (economic recession)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Definition and Measurement of Economic Growth",
+          "slides": [
+            {
+              "slide_number": 99,
+              "title": "6.2 Definition and Measurement of Economic Growth",
+              "content": [
+                "Short-run Economic Growth: Increase in Real GDP (RGDP).",
+                "Growth Rate (g) = [(RGDPt - RGDPt-1) / RGDPt-1] × 100%",
+                "Long-run Economic Growth: Sustained increase in per capita RGDP and structural change.",
+                "Per Capita RGDP = RGDP / Population.",
+                "Structural change: Shift from agriculture to industry (industrialization)."
+              ]
+            },
+            {
+              "slide_number": 100,
+              "title": "Economic Growth vs Economic Development",
+              "content": [
+                "Economic Growth: Quantitative increase in GDP or per capita income.",
+                "Economic Development: Broader concept involving social, political, and economic transformation.",
+                "Growth can occur without development.",
+                "Development requires growth but is not guaranteed by it.",
+                "Growth is a subset of development."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Sources of Economic Growth",
+          "slides": [
+            {
+              "slide_number": 101,
+              "title": "6.3 Sources of Economic Growth",
+              "content": [
+                "Differences in living standards are due to differences in Productivity.",
+                "Productivity: Output per worker.",
+                "Productivity determines income and standard of living."
+              ]
+            },
+            {
+              "slide_number": 102,
+              "title": "Determinants of Productivity",
+              "content": [
+                "1. Physical Capital per worker: Tools and machinery.",
+                "2. Human Capital per worker: Knowledge and skills from education and training.",
+                "3. Natural Resources per worker: Land, water, minerals.",
+                "4. Technological Knowledge: Best ways to produce goods and services.",
+                "Example: A farmer with a tractor (more physical capital) is more productive than one with an ox."
+              ]
+            },
+            {
+              "slide_number": 103,
+              "title": "Characteristics of Modern Economic Growth",
+              "content": [
+                "Simon Kuznets identified five characteristics:",
+                "1. High rates of increase in per capita income.",
+                "2. High rates of increase in factor productivity.",
+                "3. High rates of structural transformation (shift from agriculture to industry).",
+                "4. Increase in rates of saving and investment.",
+                "5. Increasing application of modern scientific knowledge in production."
+              ]
+            },
+            {
+              "slide_number": 104,
+              "title": "Classification of Countries by Income",
+              "content": [
+                "World Bank Classification (by GNI per capita):",
+                "1. Low-Income Countries (LICs): $975 or less.",
+                "2. Lower Middle-Income Countries (LMCs): $976 - $3,855.",
+                "3. Upper Middle-Income Countries (UMCs): $3,856 - $11,906.",
+                "4. High-Income Countries: $11,907 or more.",
+                "Least Developed Countries (LDCs): 49 countries (33 in Africa, 15 in Asia, + Haiti) with low income, low human capital, and high vulnerability."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "The Weaknesses of Using GDP / GDP Per Capita",
+          "slides": [
+            {
+              "slide_number": 105,
+              "title": "6.4 Weaknesses of GDP / GDP Per Capita",
+              "content": [
+                "GDP measures total income and expenditure but is not a perfect measure of well-being.",
+                "Limitations:",
+                "- Excludes Leisure (work longer, GDP rises, but well-being may fall).",
+                "- Excludes Non-market Activities (household production, volunteer work).",
+                "- Excludes Quality of the Environment (pollution).",
+                "- Excludes Income Distribution (inequality).",
+                "- Excludes Underground Economy (black market)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "The Business Cycle and Its Phases",
+          "slides": [
+            {
+              "slide_number": 106,
+              "title": "6.5 The Business Cycle",
+              "content": [
+                "Business Cycle: Irregular and unpredictable fluctuations in economic activity.",
+                "Measured by GDP, employment, and income.",
+                "Phases of the Business Cycle:",
+                "1. Prosperity (Boom/Peak): High demand, high employment, high prices.",
+                "2. Recession: Economic slowdown, falling demand and employment.",
+                "3. Depression (Slump/Trough): Lowest point of economic activity.",
+                "4. Recovery (Expansion): Economy rebounds, output and employment rise."
+              ]
+            },
+            {
+              "slide_number": 107,
+              "title": "Business Cycle Diagram",
+              "content": [
+                "The business cycle shows actual RGDP fluctuating around the trend line (potential RGDP).",
+                "Peak: Highest point of a cycle.",
+                "Trough: Lowest point of a cycle.",
+                "The cycle is irregular, not regular or predictable.",
+                "Policy goals: Minimize fluctuations, maintain long-run growth."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "An Overview of the Ethiopian Economy",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Components of Gross Domestic Product (GDP)",
+          "slides": [
+            {
+              "slide_number": 108,
+              "title": "Unit 7: The Ethiopian Economy",
+              "content": [
+                "Ethiopian economy has changed from market-oriented to centrally planned and back to market-oriented.",
+                "Pre-1974: Feudal system, agriculture based.",
+                "1974-1991: Socialist/Command economy.",
+                "1991-Present: Market-oriented economy.",
+                "Key sectors: Agriculture, Industry, Services."
+              ]
+            },
+            {
+              "slide_number": 109,
+              "title": "7.1 Components of GDP",
+              "content": [
+                "GDP (Y) is divided into four components for analysis:",
+                "Y = C + I + G + NX",
+                "Where:",
+                "C = Consumption",
+                "I = Investment",
+                "G = Government Purchases",
+                "NX = Net Exports (Exports - Imports)"
+              ]
+            },
+            {
+              "slide_number": 110,
+              "title": "Components of GDP: Definitions",
+              "content": [
+                "Consumption (C): Spending by households on goods and services (except new housing).",
+                "Includes: Durable goods (cars, appliances), Nondurable goods (food, clothing), Services (healthcare, education).",
+                "Investment (I): Spending on capital goods used in future production.",
+                "Includes: Machinery, equipment, structures, new housing, inventory.",
+                "Note: Investment in economics is not financial investment (stocks/bonds)."
+              ]
+            },
+            {
+              "slide_number": 111,
+              "title": "Government Purchases and Net Exports",
+              "content": [
+                "Government Purchases (G): Spending by all levels of government on goods and services.",
+                "Includes: Salaries of government employees, public works.",
+                "Excludes: Transfer payments (social security, unemployment benefits).",
+                "Net Exports (NX): Exports - Imports.",
+                "NX = X - M.",
+                "Imports are subtracted because they are included in C, I, or G but are produced abroad."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Real GDP Vs Nominal GDP",
+          "slides": [
+            {
+              "slide_number": 112,
+              "title": "7.2 Real GDP Vs Nominal GDP",
+              "content": [
+                "Nominal GDP: GDP valued at current-year prices.",
+                "Real GDP: GDP valued at constant (base-year) prices.",
+                "Real GDP removes the effect of price changes and measures changes in output.",
+                "Real GDP is a better measure of economic growth."
+              ]
+            },
+            {
+              "slide_number": 113,
+              "title": "GDP Deflator",
+              "content": [
+                "GDP Deflator: A measure of the overall price level.",
+                "GDP Deflator = (Nominal GDP / Real GDP) × 100",
+                "In the base year, GDP Deflator = 100.",
+                "Inflation Rate = [(GDP Deflator in year 2 - GDP Deflator in year 1) / GDP Deflator in year 1] × 100%",
+                "Example: If GDP Deflator rises from 100 to 171, inflation rate is 71%."
+              ]
+            },
+            {
+              "slide_number": 114,
+              "title": "Numerical Example: Real and Nominal GDP",
+              "content": [
+                "Year 2010 (Base Year):",
+                "Nominal GDP = 27,500, Real GDP = 27,500, Deflator = 100",
+                "Year 2011:",
+                "Nominal GDP = 62,000, Real GDP = 47,500, Deflator = 131",
+                "Year 2012:",
+                "Nominal GDP = 100,000, Real GDP = 67,500, Deflator = 148"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "The Agricultural Sector in the Ethiopian Economy",
+          "slides": [
+            {
+              "slide_number": 115,
+              "title": "7.3 The Agricultural Sector",
+              "content": [
+                "Agriculture is the backbone of the Ethiopian economy.",
+                "It contributes 33-45% of GDP, 80% of exports, and employs 85% of the population.",
+                "Major products: Crops (food crops, cash crops), Livestock.",
+                "Problems: Drought, soil degradation, land fragmentation, poor marketing, lack of technology."
+              ]
+            },
+            {
+              "slide_number": 116,
+              "title": "Roles of the Agricultural Sector",
+              "content": [
+                "1. Source of food and raw materials.",
+                "   - Backward linkages: Demand for industrial inputs.",
+                "   - Forward linkages: Supplies raw materials, reduces cost of living for urban areas.",
+                "2. Source of capital: Through taxes, terms of trade, and compulsory delivery.",
+                "3. Contribution to GDP.",
+                "4. Contribution to employment (85% of population)."
+              ]
+            },
+            {
+              "slide_number": 117,
+              "title": "Structure of the Agricultural Sector",
+              "content": [
+                "1. Smallholder Farming System:",
+                "   - Dominant (90% of production, 95% of crop area).",
+                "   - Mixed farming, household size ~5 members, average land < 2 hectares.",
+                "2. Pastoral/Nomadic System:",
+                "   - Livestock-based, in lowland areas (~40% of land).",
+                "   - Supports ~5.5 million people.",
+                "3. Commercial Farming System:",
+                "   - Large-scale farms (state farms and private).",
+                "   - Produces cotton, coffee, sugarcane, etc.",
+                "   - Inefficient but strategic."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "The Industrial Sector in the Ethiopian Economy",
+          "slides": [
+            {
+              "slide_number": 118,
+              "title": "7.4 The Industrial Sector",
+              "content": [
+                "Small but growing, contributes ~13% of GDP and ~9.5% of employment.",
+                "Dominant sub-sectors: Manufacturing (38%), Construction (25%), Electric and Water supply (18%).",
+                "Products: Textiles, foodstuffs, beverages, cement, leather, etc."
+              ]
+            },
+            {
+              "slide_number": 119,
+              "title": "Roles of the Industrial Sector",
+              "content": [
+                "1. Output Contribution:",
+                "   - Food and beverages dominate (48% of gross value).",
+                "2. Employment Contribution:",
+                "   - Food and beverage (50%), Non-metal (14%), Paper and printing (10.9%) are the largest employers.",
+                "3. Foreign Exchange Contribution:",
+                "   - Textiles contribute the most (41.5%), followed by food and beverages (32.9%).",
+                "   - Opportunities through AGOA."
+              ]
+            },
+            {
+              "slide_number": 120,
+              "title": "Challenges in the Industrial Sector",
+              "content": [
+                "Low industrial base.",
+                "Low productivity and underutilization of capacity.",
+                "Shortage of foreign exchange and raw materials.",
+                "Heavy dependence on imported technology.",
+                "Low skills and management.",
+                "Opportunities: AGOA and European market access."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "The Service Sector in the Ethiopian Economy",
+          "slides": [
+            {
+              "slide_number": 121,
+              "title": "7.5 The Service Sector",
+              "content": [
+                "The service sector produces intangible goods.",
+                "Includes: Trade, hotels, transport, communication, banking, insurance, education, health, government services.",
+                "Share in GDP has grown significantly (~45-46%), now rivaling agriculture."
+              ]
+            },
+            {
+              "slide_number": 122,
+              "title": "Roles of the Service Sector",
+              "content": [
+                "1. Output Contribution: Large share in GDP.",
+                "2. Employment Contribution: Second largest sector after agriculture.",
+                "   - Creating permanent jobs through private investment and infrastructure.",
+                "3. Foreign Exchange Earnings:",
+                "   - Services from Ethiopian Airlines, Shipping Lines, Tourism, etc.",
+                "   - In 2008/09, service exports reached nearly 2 billion dollars."
+              ]
+            },
+            {
+              "slide_number": 123,
+              "title": "Components of the Service Sector",
+              "content": [
+                "Distributive Services: Trade, hotels, restaurants, transport, communication.",
+                "Other Services: Education, health, banking, insurance, public administration.",
+                "GDP share of services increased from 41.1% in 2002/03 to 46% in 2009/10.",
+                "Activities can be physical (repair, cooking), intellectual (education), or aesthetic (art, music)."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7.6",
+          "section_title": "Agriculture versus Industrial Development",
+          "slides": [
+            {
+              "slide_number": 124,
+              "title": "7.6 Agriculture vs Industrial Development",
+              "content": [
+                "Traditional view: Industry as the leading sector.",
+                "Ethiopian Strategy: Agricultural Development-Led Industrialization (ADLI).",
+                "ADLI views agriculture as the leading and dynamic sector.",
+                "Argues that without agricultural development, industrial growth will be weak.",
+                "The agricultural sector must be developed to supply food and raw materials for industry."
+              ]
+            },
+            {
+              "slide_number": 125,
+              "title": "ADLI Strategy Rationale",
+              "content": [
+                "ADLI focuses on:",
+                "- Improving agricultural productivity.",
+                "- Creating backward and forward linkages.",
+                "- Generating surplus for investment in other sectors.",
+                "- Providing raw materials and cheap food for the industrial labor force.",
+                "Debate: Some argue for prioritizing industry for faster growth.",
+                "Evaluation: ADLI is the current approach, emphasizing agriculture's foundational role."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "Business Startups and Innovation",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "Innovation",
+          "slides": [
+            {
+              "slide_number": 126,
+              "title": "Unit 8: Business Startups and Innovation",
+              "content": [
+                "Innovation is a critical element for business growth.",
+                "It involves creating new ideas and implementing them.",
+                "This unit covers types of innovation, business startups, types of business organizations, and feasibility analysis."
+              ]
+            },
+            {
+              "slide_number": 127,
+              "title": "8.1 Innovation",
+              "content": [
+                "Innovation: A new or improved product, process, or method that creates value.",
+                "Two key elements: Creativity + Implementation.",
+                "Types of Innovation:",
+                "1. Organizational",
+                "2. Process",
+                "3. Product",
+                "4. Marketing",
+                "5. Eco-Innovation"
+              ]
+            },
+            {
+              "slide_number": 128,
+              "title": "Types of Innovation",
+              "content": [
+                "Product Innovation: Introduction of a new or improved good or service (e.g., electric vehicles).",
+                "Process Innovation: New production/delivery methods (e.g., SaaS technology).",
+                "Marketing Innovation: New marketing strategies (e.g., Haagen Dazs's waste-free container).",
+                "Organizational Innovation: New business practices (e.g., 4-day workweek).",
+                "Eco-Innovation: Innovation that contributes to environmental sustainability (e.g., cold-water detergents)."
+              ]
+            },
+            {
+              "slide_number": 129,
+              "title": "Creative Destruction",
+              "content": [
+                "Concept by Joseph Schumpeter.",
+                "Innovation destroys old business models and technologies.",
+                "Products become obsolete, companies close, people become unemployed.",
+                "But this leads to new solutions, industries, and higher quality of life.",
+                "Examples: Nokia (failed to innovate), Uber (disrupted taxi industry)."
+              ]
+            },
+            {
+              "slide_number": 130,
+              "title": "Famous Innovators",
+              "content": [
+                "Steve Jobs (Smartphone with iPad).",
+                "Marie Curie (Radioactivity).",
+                "Elon Musk (Electric cars).",
+                "Thomas Edison (Electric light bulb).",
+                "Alexander Graham Bell (Telephone).",
+                "Leonardo DaVinci (Parachute).",
+                "Innovation is key to survival and growth."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Business Startups",
+          "slides": [
+            {
+              "slide_number": 131,
+              "title": "8.2 Business Startups",
+              "content": [
+                "Business Startup: A company in its early stages, designed for rapid growth.",
+                "Focus: High revenue and growth potential.",
+                "Goal: To create a scalable product or service.",
+                "Often not profitable initially, funding comes from investors."
+              ]
+            },
+            {
+              "slide_number": 132,
+              "title": "Startups vs Small Businesses",
+              "content": [
+                "Startups:",
+                "- Focus on rapid growth and market share.",
+                "- Seek significant funding (venture capital, angel investors).",
+                "- High risk, high return.",
+                "- Examples: Uber, Tesla.",
+                "Small Businesses:",
+                "- Operate in a local or niche market.",
+                "- Stable, sustainable operations.",
+                "- Profit-focused from the start.",
+                "- Examples: Local grocery store, bakery."
+              ]
+            },
+            {
+              "slide_number": 133,
+              "title": "Startup Funding",
+              "content": [
+                "Seed Funding: Early-stage financing to support product development.",
+                "Angel Investors: Wealthy individuals who invest in startups.",
+                "Venture Capital: Professional investors managing funds for startups.",
+                "Funding is essential for startups to cover R&D and scaling costs."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "Types of Businesses Organizations",
+          "slides": [
+            {
+              "slide_number": 134,
+              "title": "8.3 Types of Business Organizations",
+              "content": [
+                "Three main forms:",
+                "1. Sole Proprietorship",
+                "2. Partnership",
+                "3. Corporation",
+                "Each has different ownership, liability, and management structures."
+              ]
+            },
+            {
+              "slide_number": 135,
+              "title": "Sole Proprietorship",
+              "content": [
+                "Owned by a single individual.",
+                "Characteristics: Single ownership, no separation of ownership and management, unlimited liability.",
+                "Advantages: Easiest to start, flexibility, maximum authority, personal touch.",
+                "Disadvantages: Limited resources, unlimited liability, lack of continuity."
+              ]
+            },
+            {
+              "slide_number": 136,
+              "title": "Partnership",
+              "content": [
+                "Owned by two or more persons.",
+                "Characteristics: Agreement, sharing of profits, unlimited liability for general partners.",
+                "Advantages: Easy to form, larger resources, better decisions, shared risk.",
+                "Disadvantages: Unlimited liability, instability, limited capital, potential conflicts."
+              ]
+            },
+            {
+              "slide_number": 137,
+              "title": "Corporation",
+              "content": [
+                "A separate legal entity owned by shareholders.",
+                "Characteristics: Limited liability, shares represent ownership.",
+                "Managed by a board of directors elected by shareholders.",
+                "Advantages: Limited liability, easy transfer of shares, ability to raise large capital.",
+                "Disadvantages: Double taxation, complex formation, less personal control."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8.4",
+          "section_title": "Business Feasibility Analysis",
+          "slides": [
+            {
+              "slide_number": 138,
+              "title": "8.4 Business Feasibility Analysis",
+              "content": [
+                "Feasibility Study: A preliminary assessment to determine if a business idea is viable.",
+                "Proof of Business Concept: Demonstrates if a project is feasible before a business plan.",
+                "It is less expensive and faster than a business plan.",
+                "Answers: Will it work? Is it profitable? Should we proceed?"
+              ]
+            },
+            {
+              "slide_number": 139,
+              "title": "Feasibility Study vs Business Plan",
+              "content": [
+                "Feasibility Study:",
+                "- Quick and general.",
+                "- Shows viability.",
+                "- Saves time and money.",
+                "Business Plan:",
+                "- Detailed road map.",
+                "- Includes timelines, budgets, staffing.",
+                "- Used for investment/funding and management blueprint."
+              ]
+            },
+            {
+              "slide_number": 140,
+              "title": "Developing a Feasibility Study",
+              "content": [
+                "1. Business Idea: Describe the concept clearly.",
+                "2. Key People: Profiles and skills of the team.",
+                "3. Personal Objectives: What do you want to achieve?",
+                "4. The Market: Customers, segments, competition.",
+                "5. Business Overview: Location, advantages/disadvantages."
+              ]
+            },
+            {
+              "slide_number": 141,
+              "title": "Cost-Benefit Analysis (CBA)",
+              "content": [
+                "CBA is a process of weighing the total expected costs against the total expected benefits.",
+                "It helps decide if a course of action is financially sound.",
+                "Benefit-Cost Ratio = Total Benefits / Total Costs.",
+                "If B/C ratio > 1, the project is worthwhile.",
+                "Consider both tangible and intangible costs and benefits."
+              ]
+            },
+            {
+              "slide_number": 142,
+              "title": "Steps in Cost-Benefit Analysis",
+              "content": [
+                "Step 1: Compile lists of all costs and benefits.",
+                "Step 2: Give the costs and benefits a monetary value.",
+                "Step 3: Add up total costs and total benefits.",
+                "Step 4: Calculate the B/C ratio.",
+                "Step 5: Interpret the result.",
+                "If B/C > 1, proceed with the decision.",
+                "If B/C < 1, reconsider the action."
+              ]
+            },
+            {
+              "slide_number": 143,
+              "title": "SWOT Analysis",
+              "content": [
+                "A tool used in feasibility studies and business plans.",
+                "SWOT stands for:",
+                "Strengths: Internal positive attributes.",
+                "Weaknesses: Internal negative attributes.",
+                "Opportunities: External positive factors.",
+                "Threats: External negative factors.",
+                "Helps in strategic planning and decision-making."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

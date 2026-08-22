@@ -1,0 +1,839 @@
+{
+  "subject": "Physics",
+  "grade": 9,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Physics and Human Society",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Definition and Nature of Physics",
+          "summary": "Physics is a branch of natural science that aims to describe the fundamental aspects of the universe, including the properties of things and the processes they undergo. Its goal is to explain the basic mechanisms that govern the universe. Physics explains the working principles of many everyday devices and technologies, as well as natural phenomena. A person who studies physics is called a physicist. The field offers various career opportunities in transportation, aviation, space science, medicine, forensic science, military science, meteorology, and metrology.",
+          "notes": "Physics is derived from the Greek word 'phusis', meaning nature. It describes the basic mechanisms of the universe, such as the working principles of cars, airplanes, refrigerators, and radios. Physics explains phenomena like walking on a smooth plane and why electric fans rotate. It also helps in understanding concepts in other subjects like Biology, Chemistry, Geology, and Astronomy. Physicists study the concepts, relationships, principles, and laws of nature.",
+          "keywords": [
+            {
+              "term": "Physics",
+              "definition": "A branch of natural science that attempts to describe the basic mechanisms that make our universe behave the way it does."
+            },
+            {
+              "term": "Physicist",
+              "definition": "A person who studies physics."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Branches of Physics",
+          "summary": "Physics has expanded into many branches. These include Mechanics (study of motion and forces), Acoustics (study of sound), Optics (study of light), Thermodynamics (study of heat and thermal energy), Electromagnetism (study of electric and magnetic fields), Nuclear Physics (study of atomic nuclei), and Astrophysics (application of physics to astronomical objects).",
+          "notes": "As technology evolved, physics branched out into specialized fields. Mechanics deals with motion and forces and is divided into quantum and classical mechanics. Acoustics studies sound. Optics studies light. Thermodynamics studies heat. Electromagnetism studies electric and magnetic fields. Nuclear physics studies the nucleus of atoms. Astrophysics applies physics to study stars and planets.",
+          "keywords": [
+            {
+              "term": "Mechanics",
+              "definition": "The branch of physics which deals with the motion of an object without or with the reference of force."
+            },
+            {
+              "term": "Acoustics",
+              "definition": "The branch of physics which deals with the study of sound and its transmission, production, and effects."
+            },
+            {
+              "term": "Optics",
+              "definition": "The branch of physics which deals with the behavior, propagation, and properties of light."
+            },
+            {
+              "term": "Thermodynamics",
+              "definition": "The branch of physics which studies thermal energy and the transfer of heat."
+            },
+            {
+              "term": "Electromagnetism",
+              "definition": "The branch of physics which deals with the study of electromagnetic force like electric fields, light, magnetic fields, etc."
+            },
+            {
+              "term": "Nuclear Physics",
+              "definition": "The branch of physics which deals with the structure, properties and reactions of the nuclei of atoms."
+            },
+            {
+              "term": "Astrophysics",
+              "definition": "A science that employs the methods and principles of physics in the study of astronomical objects and phenomena."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Related Fields to Physics",
+          "summary": "Physics is the foundation for many important scientific disciplines. Chemistry is rooted in atomic and molecular physics. Engineering applies physics for structural stability, acoustics, heating, and lighting. Geology uses physics in radioactive dating, earthquake analysis, and heat transfer. Biophysics applies physics principles to study biological phenomena. Geophysics applies physics to study the Earth. Medical Physics uses physics for diagnostics like X-rays and MRI.",
+          "notes": "Physics is fundamental to many other fields. Chemistry relies on atomic physics. Engineering uses physics for various applications like determining structural stability. Geology uses physics for earthquake analysis and heat transfer. Biophysics helps understand biological systems using physical laws. Geophysics studies the Earth using physical principles. Medical physics is used in diagnostics and therapy, including X-rays and MRI.",
+          "keywords": [
+            {
+              "term": "Biophysics",
+              "definition": "The field that applies principles and methods used in physics to study biological phenomena."
+            },
+            {
+              "term": "Geophysics",
+              "definition": "The field that applies the principles and methods of physics to the study of the Earth."
+            },
+            {
+              "term": "Medical Physics",
+              "definition": "The field that applies physics principles to diagnostics and medical therapy, such as X-rays and MRI."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Historical Issues and Contributors",
+          "summary": "Physics evolved from classical physics (up to the 19th century) to modern physics (20th century onwards). Key contributors include Isaac Newton (laws of motion and universal gravitation), Michael Faraday (electromagnetism and electric generator), James Prescott Joule (relationship between heat and mechanical work, leading to conservation of energy), Marie Curie (radioactivity and nuclear physics), and Albert Einstein (theory of relativity and contributions to quantum mechanics). These discoveries led to dramatic changes in technology, society, and our view of the universe.",
+          "notes": "Classical physics developed from the Renaissance to the end of the 19th century. The 20th century brought revolutionary discoveries that transformed physics into modern physics. Newton formulated the laws of motion and universal gravitation. Faraday invented the electric generator. Joule's work led to the law of conservation of energy. Curie conducted pioneering research on radioactivity. Einstein developed the theory of relativity, impacting classical mechanics and quantum mechanics.",
+          "keywords": [
+            {
+              "term": "Classical Physics",
+              "definition": "Physics as it developed from the renaissance to the end of the 19th century."
+            },
+            {
+              "term": "Modern Physics",
+              "definition": "Physics based on revolutionary discoveries starting at the beginning of the 20th century."
+            },
+            {
+              "term": "Theory of Relativity",
+              "definition": "A revolutionary theory developed by Albert Einstein that had a profound impact on classical mechanics and the philosophy of physics."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Physical Quantities",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Scales, Standards, Units (prefixes)",
+          "summary": "Measurement scales contain markings for measured amounts. The SI system of units is an international standard. The seven basic quantities are length (m), mass (kg), time (s), temperature (K), current (A), amount of substance (mol), and luminous intensity (cd). Scientific notation expresses very large or small numbers. Significant figures indicate the precision of a measurement. Prefixes modify units for very large or small sizes (e.g., kilo, milli, micro).",
+          "notes": "Scales on measuring devices show measured amounts. The SI system is the international standard for measurement. The seven fundamental quantities are length, mass, time, temperature, current, amount of substance, and luminous intensity. Standards must be readily accessible and measurable. Non-standard measurements lead to inaccuracies. Scientific notation is written as d x 10^n. Significant figures are non-zero digits, and zeros between them or at the end of a decimal part. Prefixes like kilo (10^3), milli (10^-3), and micro (10^-6) are used with units.",
+          "keywords": [
+            {
+              "term": "Scale",
+              "definition": "A set of numbers, amounts, etc., used to measure or compare the level of something."
+            },
+            {
+              "term": "SI System",
+              "definition": "The international system of units, a modern adaptation of the metric system."
+            },
+            {
+              "term": "Scientific Notation",
+              "definition": "A system in which numbers are expressed as products consisting of a number between 1 and 10 multiplied by an appropriate power of 10."
+            },
+            {
+              "term": "Significant Figures",
+              "definition": "Digits in a number that carry meaning contributing to its precision."
+            },
+            {
+              "term": "Prefix",
+              "definition": "A letter or a syllable which is written directly before a unit name with no space to denote a specific multiplier."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Measurement and Safety",
+          "summary": "Measurement is comparing an unknown quantity with a standard unit. It involves the physical quantity, measuring tools, and units. Length is measured in meters (m), mass in kilograms (kg), and time in seconds (s). Common instruments include meter sticks, beam balances, and clocks. Laboratory safety rules include wearing goggles, avoiding loose clothing, not working alone, not eating or drinking, and reporting all accidents.",
+          "notes": "Measurement compares an unknown quantity with a known standard unit. The SI unit of length is the meter (m), mass is the kilogram (kg), and time is the second (s). Length describes the distance between two points. Mass is the amount of matter in a body. Time describes the duration between events. Laboratory safety is crucial, involving rules like wearing safety goggles, reporting accidents, and not working alone.",
+          "keywords": [
+            {
+              "term": "Measurement",
+              "definition": "The comparison of an unknown quantity with a known fixed unit quantity."
+            },
+            {
+              "term": "Length",
+              "definition": "The fundamental physical quantity that describes the distance between two points."
+            },
+            {
+              "term": "Mass",
+              "definition": "A basic physical quantity defined as the amount of matter contained in a body."
+            },
+            {
+              "term": "Time",
+              "definition": "A basic physical quantity that describes the duration between the beginning and end of an event."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Classification of Physical Quantities",
+          "summary": "Physical quantities are classified as fundamental (basic) or derived. Fundamental quantities are measured directly (e.g., length, mass, time). Derived quantities depend on fundamental quantities (e.g., area, volume, speed). They are also classified as scalar (only magnitude, e.g., distance, mass) or vector (magnitude and direction, e.g., displacement, velocity, force).",
+          "notes": "A physical quantity is anything that can be measured. Fundamental quantities are independent and measured directly; their units are fundamental units. Derived quantities depend on fundamental quantities. Scalar quantities have only magnitude; vector quantities have both magnitude and direction. Examples of scalar quantities include distance, mass, and time. Examples of vector quantities include displacement, velocity, and force.",
+          "keywords": [
+            {
+              "term": "Physical Quantity",
+              "definition": "Anything that you can measure and describe by a number and unit."
+            },
+            {
+              "term": "Fundamental Physical Quantities",
+              "definition": "Physical quantities which can be measured directly and cannot be described in terms of other physical quantities."
+            },
+            {
+              "term": "Derived Physical Quantities",
+              "definition": "Physical quantities which depend on one or more fundamental quantities for their measurements."
+            },
+            {
+              "term": "Scalar Quantity",
+              "definition": "A physical quantity which has only magnitude but no direction."
+            },
+            {
+              "term": "Vector Quantity",
+              "definition": "A physical quantity which has both magnitude and direction."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Unit conversion",
+          "summary": "Unit conversion is the process of converting between different units for the same physical quantity using multiplicative conversion factors. This is necessary for length (m to cm, km), mass (kg to g, tonne), and time (hr to s, min). Conversion factors are based on defined relationships between units.",
+          "notes": "Unit conversion is the conversion between different units of measurement for the same physical quantity, typically through multiplicative conversion factors. For length, 1 km = 1000 m, 1 m = 100 cm, and 1 m = 1000 mm. For mass, 1 kg = 1000 g and 1 tonne = 1000 kg. For time, 1 hr = 60 min and 1 min = 60 s.",
+          "keywords": [
+            {
+              "term": "Unit Conversion",
+              "definition": "The conversion between different units of measurement for the same physical quantity, typically through multiplicative conversion factors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Motion in a Straight Line",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Position, Distance and Displacement",
+          "summary": "Motion is a continuous change in position relative to a reference frame. Position is a location with respect to an origin. Distance is the total path length traveled (scalar). Displacement is the change in position in a certain direction (vector). A body is at rest if its position doesn't change with time in a reference frame, and in motion if it does.",
+          "notes": "Motion is a continuous change in position. A frame of reference is used to determine positions. Position is a measurement of a location, with respect to some reference point. Distance is the total path length traveled and is a scalar quantity. Displacement is the change in position in a certain direction and is a vector quantity. The SI unit for both is the meter (m).",
+          "keywords": [
+            {
+              "term": "Frame of Reference",
+              "definition": "A set of coordinates that can be used to determine positions of objects."
+            },
+            {
+              "term": "Motion",
+              "definition": "The change in the position of the object with respect to a fixed point as the time passes."
+            },
+            {
+              "term": "Position",
+              "definition": "A measurement of a location, with respect to some reference point (usually an origin)."
+            },
+            {
+              "term": "Distance",
+              "definition": "The total path length traveled by a body during its motion."
+            },
+            {
+              "term": "Displacement",
+              "definition": "The change in position of a body in a certain direction."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Average Speed and Instantaneous Speed",
+          "summary": "Speed is the rate at which an object changes its location (scalar). Average speed is the total distance divided by total time. Instantaneous speed is the speed at a specific instant in time, read from a speedometer. The SI unit for speed is m/s.",
+          "notes": "Speed is a scalar quantity that describes how fast a body moves. The SI unit is meter per second (m/s). Average speed is the total distance covered divided by the total time taken. Instantaneous speed is the speed at a particular instant and is shown on a speedometer. To calculate instantaneous speed, a very short time interval is used.",
+          "keywords": [
+            {
+              "term": "Speed",
+              "definition": "The rate at which an object changes its location, a scalar quantity."
+            },
+            {
+              "term": "Average Speed",
+              "definition": "The total distance traveled divided by the total time taken to travel that distance."
+            },
+            {
+              "term": "Instantaneous Speed",
+              "definition": "The speed of an object at a particular instant in time."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Average Velocity and Instantaneous Velocity",
+          "summary": "Velocity is the rate of change of displacement (vector). Average velocity is total displacement divided by total time. Instantaneous velocity is the velocity at a specific instant. For uniform motion, average and instantaneous velocities are the same. The SI unit for velocity is m/s.",
+          "notes": "Velocity is a vector quantity that describes how fast a body moves and its direction. The SI unit is meter per second (m/s). Average velocity is the total displacement divided by the total time taken. It points in the same direction as the displacement. Instantaneous velocity is the velocity at any time t. The magnitude of instantaneous velocity is instantaneous speed.",
+          "keywords": [
+            {
+              "term": "Velocity",
+              "definition": "The rate of change of displacement."
+            },
+            {
+              "term": "Average Velocity",
+              "definition": "The total displacement of a body over a time interval."
+            },
+            {
+              "term": "Instantaneous Velocity",
+              "definition": "The velocity of a body at a specific instant in time."
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Acceleration",
+          "summary": "Acceleration is the rate of change of velocity (vector). It occurs when velocity changes in magnitude or direction. Average acceleration is the change in velocity divided by the time interval. Deceleration is negative acceleration. The SI unit for acceleration is m/s².",
+          "notes": "Acceleration is a vector quantity that measures how much the velocity of an object changes per unit time. The SI unit is meters per second squared (m/s²). Acceleration occurs when speed or direction changes. Average acceleration is calculated as (v_f - v_i) / (t_f - t_i). If velocity decreases, it is called deceleration (negative acceleration).",
+          "keywords": [
+            {
+              "term": "Acceleration",
+              "definition": "The rate of change of velocity."
+            },
+            {
+              "term": "Deceleration",
+              "definition": "The negative of acceleration, when the velocity of a body decreases."
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Uniform Motion",
+          "summary": "Uniform motion is motion along a straight line with constant velocity (speed and direction). The acceleration is zero, and the object travels equal distances in equal time intervals. Average and instantaneous velocities are the same in uniform motion.",
+          "notes": "Uniform motion is motion along a straight line with a constant velocity or speed in a given direction. In uniform motion, an object travels equal distances in fixed intervals of time. The acceleration is zero because neither the magnitude nor direction of velocity changes. The average and instantaneous velocities have the same values at all times.",
+          "keywords": [
+            {
+              "term": "Uniform Motion",
+              "definition": "The motion of an object along a straight line with a constant velocity or speed in a given direction."
+            }
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Graphical Representation of Motion",
+          "summary": "Position-time (s-t) graphs show an object's position over time; the slope gives velocity. Velocity-time (v-t) graphs show how velocity changes; the slope gives acceleration, and the area under the graph gives distance traveled. In uniform motion, the v-t graph is a horizontal line. Speed limits are enforced for traffic safety.",
+          "notes": "Position-time graphs indicate the position of an object at any time. The slope of an s-t graph represents the average velocity. Velocity-time graphs show how velocity changes with time. The slope of a v-t graph represents acceleration. The area under a v-t graph represents the distance covered. In uniform motion, the v-t graph is a horizontal line. Speed limits are set to ensure traffic safety.",
+          "keywords": [
+            {
+              "term": "Position-Time Graph",
+              "definition": "A graph that indicates the position of an object at any time for motion that occurs over an extended time interval."
+            },
+            {
+              "term": "Velocity-Time Graph",
+              "definition": "A graph that shows how the velocity of an object changes with time."
+            },
+            {
+              "term": "Slope",
+              "definition": "The steepness of a line on a graph, representing the rate of change of the vertical axis quantity with respect to the horizontal axis quantity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Force, Work, Energy and Power",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "The Concept of Force",
+          "summary": "A force is a push or pull that can change the state of motion or shape of an object. It is a vector quantity. Forces are classified as contact forces (physical contact) and non-contact forces (act at a distance, e.g., gravity, magnetism). Force is measured in newtons (N). Weight is the gravitational force on an object.",
+          "notes": "A force is a push or pull exerted on a body that changes its state of motion or causes deformation. It is a vector quantity. Contact forces involve physical contact (applied, normal, friction, spring). Non-contact forces act without contact (magnetic, gravitational). Force is measured using a spring scale, and the SI unit is the newton (N). Weight is the magnitude of the gravitational force acting on a body.",
+          "keywords": [
+            {
+              "term": "Force",
+              "definition": "A push or a pull exerted on a body that changes the state of motion of the body or causes deformation."
+            },
+            {
+              "term": "Contact Force",
+              "definition": "A force that involves physical contact between two bodies."
+            },
+            {
+              "term": "Non-contact Force",
+              "definition": "A force that does not involve physical contact between two bodies."
+            },
+            {
+              "term": "Weight",
+              "definition": "The magnitude of the gravitational force acting on a body."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Newton's Laws of Motion",
+          "summary": "Newton's First Law (Inertia): A body remains at rest or in uniform motion unless acted on by an unbalanced force. Newton's Second Law: Acceleration is directly proportional to net force and inversely proportional to mass (F=ma). Newton's Third Law: For every action, there is an equal and opposite reaction. Mass is a measure of inertia, while weight is the gravitational force.",
+          "notes": "Newton's First Law states that an object continues in its state of rest or uniform motion unless acted upon by an unbalanced force. This is the law of inertia. Mass is a measure of inertia. Newton's Second Law relates force, mass, and acceleration (F = ma). The acceleration due to gravity (g) is 9.8 m/s² on Earth. Weight (W) = mg. Newton's Third Law states that for every action, there is an equal and opposite reaction (action-reaction pairs).",
+          "keywords": [
+            {
+              "term": "Inertia",
+              "definition": "The tendency of an object to resist any attempt to change its velocity."
+            },
+            {
+              "term": "Newton's First Law (Law of Inertia)",
+              "definition": "A body continues to be in its state of rest or of uniform motion in a straight line unless it is acted on by unbalanced force."
+            },
+            {
+              "term": "Newton's Second Law",
+              "definition": "The acceleration of a body is directly proportional to the net force acting on it and inversely proportional to the mass of the body (F = ma)."
+            },
+            {
+              "term": "Newton's Third Law",
+              "definition": "Every action has an equal and opposite reaction."
+            },
+            {
+              "term": "Inertial Frame",
+              "definition": "A reference frame in which Newton's first law of motion is valid."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "Forces of Friction",
+          "summary": "Friction is the resistance to motion between two surfaces in contact. It is classified as static friction (opposes the start of motion) and kinetic friction (opposes motion). Friction depends on the normal force and the nature of the surfaces. It is necessary for walking and vehicle motion but can also cause wear and energy loss.",
+          "notes": "Friction is the resistance to the motion of an object on a rough surface. Static friction exists when one body tends to slide over another without moving. Kinetic friction exists when one body slides or rolls over another. The magnitude of friction depends on the normal force and the nature of the contacting surfaces. Friction is necessary for walking but also causes wear and tear.",
+          "keywords": [
+            {
+              "term": "Friction Force",
+              "definition": "The resistance to motion of an object from a surface it is in contact with."
+            },
+            {
+              "term": "Static Friction",
+              "definition": "A kind of friction that exists between two surfaces in contact when one body tends to slide over the other without moving."
+            },
+            {
+              "term": "Kinetic Friction",
+              "definition": "The friction between two contacting surfaces when one of them slides over the other or when one body rolls over the other."
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "The Concept of Work",
+          "summary": "In physics, work is done when a force causes an object to move in the direction of the force. Work is the product of the force component parallel to the displacement and the displacement (W = F_parallel * S). It is a scalar quantity measured in joules (J). No work is done if the force is perpendicular to the displacement.",
+          "notes": "Work in physics requires a force to move an object. The force must be applied in the same direction as the displacement for work to be done. Work is calculated as W = F_parallel * S, where F_parallel is the force in the direction of displacement and S is the displacement. The SI unit of work is the joule (J). If there is no displacement or if the force is perpendicular to the displacement, no work is done.",
+          "keywords": [
+            {
+              "term": "Work",
+              "definition": "The product of a force and the magnitude of displacement in the direction of the force; a transfer of energy from one object to another through the force."
+            },
+            {
+              "term": "Joule (J)",
+              "definition": "The SI unit of work and energy, equal to one newton-meter."
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Kinetic and Potential Energies",
+          "summary": "Energy is the capacity to do work. Kinetic energy is the energy of motion (E_k = 1/2 mv²). Gravitational potential energy is stored energy due to height (E_p = mgh). Mechanical energy is the sum of kinetic and potential energy. All are scalar quantities measured in joules.",
+          "notes": "Energy is the capacity to do work and is a scalar quantity measured in joules. Kinetic energy is the energy possessed by an object due to its motion: E_k = 1/2 mv². Gravitational potential energy is the energy an object has due to its position: E_p = mgh. Mechanical energy is the sum of kinetic and potential energies.",
+          "keywords": [
+            {
+              "term": "Energy",
+              "definition": "The capacity to do work."
+            },
+            {
+              "term": "Kinetic Energy",
+              "definition": "The form of mechanical energy possessed by an object due to its motion (E_k = 1/2 mv²)."
+            },
+            {
+              "term": "Potential Energy",
+              "definition": "The stored energy in an object by virtue of its position or its configuration."
+            },
+            {
+              "term": "Gravitational Potential Energy",
+              "definition": "The energy of an object held in a vertical position due to the force of gravity (E_p = mgh)."
+            },
+            {
+              "term": "Mechanical Energy",
+              "definition": "The sum of kinetic and potential energies."
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "Power",
+          "summary": "Power is the rate at which work is done or energy is transferred (P = W/t). It is a scalar quantity measured in watts (W), where 1 W = 1 J/s. A higher power means work is done more quickly.",
+          "notes": "Power is the rate at which work is done or energy is transferred. It is calculated as P = W/t or P = E/t. The SI unit of power is the watt (W), which is equal to one joule per second (1 W = 1 J/s). A machine with higher power can do the same work in a shorter time.",
+          "keywords": [
+            {
+              "term": "Power",
+              "definition": "The rate at which work is done or the rate at which energy is being transferred."
+            },
+            {
+              "term": "Watt (W)",
+              "definition": "The SI unit of power, equal to one joule per second."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Simple Machines",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Simple Machines and their Purposes",
+          "summary": "A simple machine is a device that requires a single force to do mechanical work. Their purposes are to change the direction of force, multiply speed or distance, or multiply force. They do not create energy; they transfer mechanical energy. Effort is the force applied, and load is the force exerted by the machine.",
+          "notes": "A simple machine is a device that requires a single force to do mechanical work. Simple machines are energy transferring devices; they do not create energy. They make work easier by changing the direction of force, multiplying speed or distance, or multiplying force. The force applied to the machine is the effort, and the force exerted by the machine is the load.",
+          "keywords": [
+            {
+              "term": "Simple Machine",
+              "definition": "A device that requires a single force to do mechanical work."
+            },
+            {
+              "term": "Effort",
+              "definition": "The force applied to a machine or the force you exerted on a machine."
+            },
+            {
+              "term": "Load",
+              "definition": "The force exerted by the machine."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Simple Machines at Home",
+          "summary": "Simple machines are used in everyday life at home. Common examples include scissors, knives, bottle openers, and ramps. They magnify or change the direction of force, making tasks like cutting and lifting easier.",
+          "notes": "Simple machines are used extensively in homes. They magnify or change the direction of force, making it easier to move, cut, and bind objects. Examples include scissors, knives, bottle openers, and ramps.",
+          "keywords": []
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Simple Machines at Work Place",
+          "summary": "Simple machines are also used in workplaces to accomplish tasks. They are the building blocks of more complex machines. Examples include levers, pulleys, wheels and axles, and inclined planes used in various tools and equipment.",
+          "notes": "Simple machines are used in workplaces and are the building blocks of more complex machines. Examples include levers, pulleys, wheels, and axles used in various tools and equipment.",
+          "keywords": []
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Classification of Simple Machines",
+          "summary": "Simple machines are classified into six types: lever, wheel and axle, pulley, inclined plane, wedge, and screw. They can also be categorized by function: force multipliers, speed multipliers, or direction changers.",
+          "notes": "There are six simple machines: lever, wheel and axle, pulley, inclined plane, wedge, and screw. They can be classified by their function: force multipliers (load > effort), speed multipliers (load moves further), or direction changers (load moves in a different direction).",
+          "keywords": [
+            {
+              "term": "Compound Machine",
+              "definition": "A machine made up of a combination of simple machines."
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Mechanical Advantage, Velocity Ratio and Efficiency of Simple Machine",
+          "summary": "Mechanical Advantage (MA) is the ratio of load to effort (output force/input force). Velocity Ratio (VR) is the ratio of the distance moved by effort to the distance moved by load. Efficiency (η) is the ratio of work output to work input (η = MA/VR). There are no 100% efficient real machines due to energy losses.",
+          "notes": "Mechanical Advantage (M.A) = Load / Effort. Velocity Ratio (V.R) = Distance moved by effort / Distance moved by load. Efficiency (η) = Work output / Work input = M.A / V.R. In real machines, IMA is always greater than AMA due to friction. Levers have three classes based on fulcrum, load, and effort positions. For inclined planes, V.R = length of slope / height. For wedges, V.R = penetration length / thickness. For screws, M.A = πd / pitch. For wheel and axle, V.R = radius of wheel / radius of axle. For pulleys, V.R = number of rope sections.",
+          "keywords": [
+            {
+              "term": "Mechanical Advantage (M.A)",
+              "definition": "The ratio of output force to input force (load/effort)."
+            },
+            {
+              "term": "Velocity Ratio (V.R)",
+              "definition": "The ratio of the distance moved by the effort to the distance moved by the load."
+            },
+            {
+              "term": "Efficiency (η)",
+              "definition": "The ratio between the work output and the work input (M.A / V.R)."
+            },
+            {
+              "term": "Fulcrum",
+              "definition": "The pivot point of a lever."
+            },
+            {
+              "term": "Pitch",
+              "definition": "The separation between the threads of a screw."
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Designing Simple Machine",
+          "summary": "Based on observations of community needs, students can design and construct a simple machine using locally available materials. The design should incorporate at least two simple machines to solve a real-world problem.",
+          "notes": "Students can identify activities in their community that need simple machines, prioritize an activity, and design a machine that includes at least two simple machines using locally available materials to solve the problem.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Mechanical Oscillation and Sound Wave",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Common Characteristics of Waves",
+          "summary": "Waves are disturbances that transfer energy. Common characteristics include period (T, time for one cycle), frequency (f, cycles per second, f=1/T), amplitude (A, maximum displacement), wavelength (λ, distance between identical points), and wave speed (v, distance per second, v = fλ). Crests are high points, troughs are low points.",
+          "notes": "Periodic motion repeats itself. Waves transfer energy. The period (T) is the time for one complete cycle. Frequency (f) is the number of cycles per second, measured in Hertz (Hz). Amplitude is the maximum displacement from equilibrium. Wavelength is the distance between identical points on adjacent waves. Wave speed is the distance the wave travels per second.",
+          "keywords": [
+            {
+              "term": "Period (T)",
+              "definition": "The time for one complete cycle of the periodic motion."
+            },
+            {
+              "term": "Frequency (f)",
+              "definition": "The number of complete waves passing a given point per unit time."
+            },
+            {
+              "term": "Amplitude (A)",
+              "definition": "The maximum displacement from equilibrium position."
+            },
+            {
+              "term": "Wavelength (λ)",
+              "definition": "The distance between identical points on adjacent waves."
+            },
+            {
+              "term": "Crest",
+              "definition": "The highest point above the rest position of a wave."
+            },
+            {
+              "term": "Trough",
+              "definition": "The lowest point below the rest position of a wave."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "String, Pendulum and Spring",
+          "summary": "A simple pendulum's period depends on its length and gravity (T = 2π√(L/g)), not on mass. A spring-mass system's period depends on mass and spring constant (T = 2π√(m/k)). Hooke's Law states the restoring force of a spring is proportional to its displacement (F = -kx).",
+          "notes": "A simple pendulum has a period T = 2π√(L/g). The period of a pendulum does not depend on the mass of the bob. Hooke's Law states that the restoring force exerted by a spring is proportional to the displacement: F_res = -kx, where k is the spring constant. The period of a spring-mass system is T = 2π√(m/k).",
+          "keywords": [
+            {
+              "term": "Hooke's Law",
+              "definition": "The restoring force (or the force exerted by the spring) is directly proportional to the displacement of the object from the equilibrium position (F = -kx)."
+            },
+            {
+              "term": "Spring Constant (k)",
+              "definition": "A proportionality constant that measures the stiffness of a spring."
+            },
+            {
+              "term": "Simple Pendulum",
+              "definition": "A point mass (bob) suspended by a massless, un-stretchable string."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Propagation of Waves and Energy Transmission",
+          "summary": "Waves are classified as mechanical (need a medium, e.g., sound, water) or electromagnetic (don't need a medium, e.g., light, radio). They are also classified as transverse (vibrations perpendicular to propagation, e.g., light, strings) or longitudinal (vibrations parallel to propagation, e.g., sound).",
+          "notes": "Mechanical waves require a medium to travel through (sound, water waves). Electromagnetic waves do not require a medium (light, radio waves). In transverse waves, the particles vibrate perpendicular to the direction of wave propagation. In longitudinal waves, the particles vibrate parallel to the direction of wave propagation. Longitudinal waves consist of compressions and rarefactions.",
+          "keywords": [
+            {
+              "term": "Mechanical Wave",
+              "definition": "A wave that requires a material medium for its propagation."
+            },
+            {
+              "term": "Electromagnetic Wave",
+              "definition": "A wave that does not require a material medium for its propagation."
+            },
+            {
+              "term": "Transverse Wave",
+              "definition": "A wave where the direction of propagation is perpendicular to the direction of vibrations of particles of the medium."
+            },
+            {
+              "term": "Longitudinal Wave",
+              "definition": "A wave where the direction of propagation is parallel to the direction of vibrations of particles of the medium."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Sound Waves",
+          "summary": "Sound is a longitudinal wave produced by vibrating objects. It travels at different speeds in different media (fastest in solids, slowest in gases). The speed of sound in air is about 331 m/s at 0°C and increases with temperature. Sound can be reflected (echo), refracted (bend), diffracted (spread), and interfered with.",
+          "notes": "Sound is produced by vibrating objects and is a longitudinal wave. It requires a medium to travel. Speed of sound is fastest in solids and slowest in gases. In air, it can be calculated using v = 331 m/s * sqrt(1 + T_c/273). Reflection of sound is called an echo. Refraction is the bending of sound due to changes in its speed. Diffraction is the spreading of sound around obstacles.",
+          "keywords": [
+            {
+              "term": "Echo",
+              "definition": "The reflection of sound from hard surfaces."
+            },
+            {
+              "term": "Refraction (of sound)",
+              "definition": "The bending or change in direction of a sound wave due to change in its speed."
+            },
+            {
+              "term": "Diffraction (of sound)",
+              "definition": "The change in the direction or spreading out of a sound wave as it passes through an opening or around a barrier."
+            },
+            {
+              "term": "SONAR",
+              "definition": "Sound Navigation and Ranging, a technique that uses echo to find the depth of seas or distance of submarines."
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Superposition of Waves",
+          "summary": "Superposition is the principle where the resultant displacement of two or more waves passing the same point is the sum of their individual displacements. Constructive interference occurs when waves are in phase, resulting in a larger amplitude. Destructive interference occurs when they are out of phase, resulting in a smaller or zero amplitude. Standing waves are formed by the superposition of two identical waves traveling in opposite directions.",
+          "notes": "Superposition is the principle that the resultant displacement is the sum of individual displacements. Constructive interference occurs when waves are in phase (crest aligns with crest), increasing amplitude. Destructive interference occurs when waves are out of phase (crest aligns with trough), decreasing amplitude. Standing waves form when two identical waves traveling in opposite directions superpose. Nodes are points of zero displacement, and antinodes are points of maximum displacement.",
+          "keywords": [
+            {
+              "term": "Superposition Principle",
+              "definition": "When two or more waves pass through a single point at the same time, the resultant instantaneous displacement is the sum of the displacements that would be created separately by each wave."
+            },
+            {
+              "term": "Constructive Interference",
+              "definition": "Interference that occurs when two periodic waves with the same frequency and wavelength travel in the same direction in phase, resulting in a more amplified wave."
+            },
+            {
+              "term": "Destructive Interference",
+              "definition": "Interference that occurs when two periodic waves with the same frequency and wavelength travel in the same direction but out of phase, resulting in a diminished or zero amplitude wave."
+            },
+            {
+              "term": "Standing Wave",
+              "definition": "A wave that oscillates with time, but remains fixed in its location, formed by the superposition of two identical waves traveling in opposite directions."
+            },
+            {
+              "term": "Node",
+              "definition": "A point on a standing wave with zero displacement."
+            },
+            {
+              "term": "Antinode",
+              "definition": "A point on a standing wave with maximum displacement."
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Characteristics of Sound Waves",
+          "summary": "Pitch depends on frequency (higher frequency = higher pitch). Loudness depends on amplitude (higher amplitude = louder), measured in decibels (dB). Timbre (quality) distinguishes sounds of the same pitch and loudness from different sources. Sound pollution causes adverse health effects.",
+          "notes": "Pitch is determined by frequency. Loudness is determined by amplitude and is measured in decibels (dB). Timbre is the quality that distinguishes different sound sources. Sound pollution occurs from elevated sound levels and can lead to health issues.",
+          "keywords": [
+            {
+              "term": "Pitch",
+              "definition": "The highness or lowness of a sound, which depends on frequency."
+            },
+            {
+              "term": "Loudness",
+              "definition": "Your perception of the energy of the sound, which depends on amplitude."
+            },
+            {
+              "term": "Decibel (dB)",
+              "definition": "The unit used to measure the loudness of a sound."
+            },
+            {
+              "term": "Timbre (Quality)",
+              "definition": "The distinguishable characteristic of a tone that distinguishes it from another tone of the same pitch and intensity but produced by different sources."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Temperature and Thermometry",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Temperature and Our Life",
+          "summary": "Temperature is the degree of hotness or coldness of a body, related to the average kinetic energy of its particles. Human perception of temperature is relative and unreliable. Temperature affects clothing, eating habits, health, and economy. The Earth has varying temperature zones: tropical (hot), temperate (moderate), and polar (cold).",
+          "notes": "Temperature is a measure of the average kinetic energy of the particles in a sample of matter. Feeling is not a reliable way to measure temperature. Human beings are comfortable at room temperature (18°C to 22°C). Temperature affects human clothing, eating habits, health, and the economy. The equator receives more solar energy than the poles, leading to temperature differences.",
+          "keywords": [
+            {
+              "term": "Temperature",
+              "definition": "The degree of hotness or coldness of a body; the measure of the average kinetic energy of the particles in a sample of matter."
+            },
+            {
+              "term": "Room Temperature",
+              "definition": "The temperature range that is comfortable for human beings, between 18°C and 22°C."
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "Extreme Temperature Safety",
+          "summary": "The human body has a normal temperature of about 98.6°F (37°C). To maintain this, the surrounding environment needs to be around 28°C. Safety precautions for extreme heat include staying hydrated, wearing appropriate clothing, using sunscreen, and avoiding extremely hot places.",
+          "notes": "Normal human body temperature is about 37°C. The environment needs to be about 28°C for comfort without heating or cooling. Safety measures in extreme heat include staying well-hydrated, wearing appropriate clothing, using sunscreen, and avoiding extremely hot places.",
+          "keywords": []
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Temperature Change and its Effects",
+          "summary": "Global warming is the increase in Earth's average temperature due to greenhouse gases (CO2, methane, etc.). This leads to more frequent heat waves and affects agriculture, water supply, energy, health, and ecosystems. The greenhouse effect is a natural process, but human activities are increasing it.",
+          "notes": "The average global temperature has increased by about 0.8°C over the past 100 years. Greenhouse gases like carbon dioxide, methane, nitrous oxide, and fluorinated gases trap heat. The greenhouse effect naturally warms the planet, but human activities are enhancing it, causing global warming. Higher temperatures affect agriculture, water supply, energy, health, and ecosystems.",
+          "keywords": [
+            {
+              "term": "Greenhouse Effect",
+              "definition": "The natural warming of the Earth that results when greenhouse gases in the atmosphere trap heat from the sun."
+            },
+            {
+              "term": "Greenhouse Gases",
+              "definition": "Gases such as carbon dioxide, methane, nitrous oxide, and fluorinated gases that trap heat in the atmosphere."
+            },
+            {
+              "term": "Global Warming",
+              "definition": "The increase in Earth's average temperature due to the enhanced greenhouse effect caused by human activity."
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Measuring Temperature with Different Thermometric Scales",
+          "summary": "A thermometer measures temperature. The three main scales are Celsius (0°C ice point, 100°C steam point), Fahrenheit (32°F ice point, 212°F steam point), and Kelvin (273.15 K ice point, 373.15 K steam point). Kelvin is the SI unit, and 0 K is absolute zero.",
+          "notes": "A thermometer measures temperature. The Celsius scale has 0°C as the freezing point and 100°C as the boiling point of water. The Fahrenheit scale has 32°F and 212°F as fixed points. The Kelvin scale uses absolute zero (0 K) as its starting point. The SI unit of temperature is the Kelvin (K).",
+          "keywords": [
+            {
+              "term": "Thermometer",
+              "definition": "A device used to measure the temperature of a body."
+            },
+            {
+              "term": "Celsius Scale",
+              "definition": "A temperature scale where the freezing point of water is fixed at 0 degrees and the boiling point is at 100 degrees."
+            },
+            {
+              "term": "Fahrenheit Scale",
+              "definition": "A temperature scale where the freezing point of water is fixed at 32 degrees and the boiling point is at 212 degrees."
+            },
+            {
+              "term": "Kelvin Scale",
+              "definition": "A temperature scale that uses absolute zero as one of its fixed points, where the ice point is 273.15 K and the steam point is 373.15 K."
+            },
+            {
+              "term": "Absolute Zero",
+              "definition": "The lowest possible temperature, defined as 0 K or -273.15°C, where a substance has no thermal energy."
+            }
+          ]
+        },
+        {
+          "section_number": "7.5",
+          "section_title": "Types of Thermometers and Their Use",
+          "summary": "Different thermometers use different thermometric properties. Mercury thermometers (-30°C to 300°C) use expansion of mercury. Alcohol thermometers (-115°C to 78.15°C) are non-toxic. Resistance thermometers use electrical resistance. Thermocouples use voltage and can measure very high or low temperatures (-270°C to 2300°C).",
+          "notes": "A thermometric property is a property that changes with temperature. Mercury thermometers measure temperatures from -30°C to 300°C. Alcohol thermometers are non-toxic and measure from -115°C to 78.15°C. Resistance thermometers use the change in electrical resistance to measure temperature. Thermocouples generate a voltage proportional to temperature difference and can measure extreme temperatures.",
+          "keywords": [
+            {
+              "term": "Thermometric Property",
+              "definition": "A property that changes with temperature, used in thermometers."
+            },
+            {
+              "term": "Mercury Thermometer",
+              "definition": "A thermometer that uses the expansion of mercury due to a change in temperature; suitable for -30°C to 300°C."
+            },
+            {
+              "term": "Alcohol Thermometer",
+              "definition": "A thermometer that uses the expansion of alcohol due to a change in temperature; non-toxic, suitable for -115°C to 78.15°C."
+            },
+            {
+              "term": "Thermocouple",
+              "definition": "A thermometer that uses voltage as the thermometric property; measures temperatures as high as 2300°C or as low as -270°C."
+            },
+            {
+              "term": "Resistance Thermometer",
+              "definition": "A thermometer that uses the change in electrical resistance with temperature as its thermometric property."
+            }
+          ]
+        },
+        {
+          "section_number": "7.6",
+          "section_title": "Conversion between Temperature Scales",
+          "summary": "Formulas for temperature conversion are based on the fixed points of each scale. Celsius to Fahrenheit: T_C = 5/9 (T_F - 32), T_F = 9/5 T_C + 32. Celsius to Kelvin: T_K = T_C + 273.15, T_C = T_K - 273.15.",
+          "notes": "Temperature conversions are based on the relationship between fixed points. The formulas are: T_C = 5/9 (T_F - 32) and T_F = 9/5 T_C + 32. For Kelvin: T_K = T_C + 273.15 and T_C = T_K - 273.15.",
+          "keywords": []
+        },
+        {
+          "section_number": "7.7",
+          "section_title": "Thermal Expansion of Materials",
+          "summary": "Most materials expand when heated and contract when cooled. Linear expansion is the increase in length of a solid. The change in length (ΔL) is proportional to the initial length (L0) and the change in temperature (ΔT): ΔL = α L0 ΔT, where α is the coefficient of linear expansion. Different materials expand at different rates.",
+          "notes": "Most materials expand when heated and contract when cooled. Linear expansion is the increase in any one dimension of a solid. The change in length is directly proportional to the change in temperature and the initial length: ΔL = α L0 ΔT. The coefficient of linear expansion (α) is a property of the material. Gases expand more than liquids, and liquids expand more than solids.",
+          "keywords": [
+            {
+              "term": "Linear Expansion",
+              "definition": "The increase in length of a substance due to heating."
+            },
+            {
+              "term": "Coefficient of Linear Expansion (α)",
+              "definition": "The increase in length of a 1 m rod of a given substance when its temperature increases by 1 K."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

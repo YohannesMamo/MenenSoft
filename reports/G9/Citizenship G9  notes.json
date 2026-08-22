@@ -1,0 +1,571 @@
+{
+  "subject": "Citizenship Education",
+  "grade": 9,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Ethical Values",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "The meaning of ethics",
+          "section_summary": "This section introduces the concept of ethics and morality. It clarifies that while the terms are often used interchangeably, 'ethics' derives from the Greek 'ethos' and refers to a discipline dealing with morality—the standards and principles that determine right and wrong, good and bad. Ethics is concerned with what one should do, influencing behavior and demanding responsible action. It encompasses values that oblige individuals to refrain from acts like rape, stealing, and murder, and includes virtues such as honesty and compassion. The section emphasizes that ethics is crucial for managing life and acting responsibly, as it teaches us to follow the right path.",
+          "section_notes": "• Ethics: A discipline dealing with morality; a set of moral principles.\n• Morality: Standards and principles used to determine if behaviors are right/wrong, good/bad.\n• Ethics impacts behavior and demands we take the right options.\n• Managing life without ethics is very difficult.\n• Ethics includes values that oblige us to refrain from unethical acts (rape, stealing, fraud) and includes virtues like honesty, compassion, and loyalty.\n• Ethics guides us to follow the right way and refrain from wrongdoings.",
+          "keywords": [
+            {
+              "term": "Ethics",
+              "definition": "Moral principles that control or influence a person's behavior. The rules or standards governing the conduct of a person or the members of a profession."
+            },
+            {
+              "term": "Morality",
+              "definition": "The standards and principles used to determine the behaviors, decisions or actions of individuals as right or wrong, good or bad, acceptable or unacceptable."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Major ethical values",
+          "section_summary": "This section details the major ethical values that citizens should possess and practice: Integrity, Promise Keeping, Loyalty, Concern for Others, Respecting Others, Abiding by the Law, and Commitment to Excellence. Integrity is defined as uncompromising devotion to moral principles, characterized by traits like respecting humanity, honesty, taking responsibility, and being kind. Promise Keeping involves fulfilling verbal commitments. Loyalty is being truthful and honest to individuals, groups, or the country. Concern for others involves considering others' needs and feelings, and supporting them in hardship. Respecting Others means treating all with dignity regardless of differences. Abiding by the Law is the willingness to obey rules and regulations. Commitment to Excellence is taking full responsibility for one's actions to achieve success and resilience.",
+          "section_notes": "• Integrity: Uncompromising devotion to moral and ethical principles. Characterized by:\n  - Respecting humanity\n  - Walking their talk (actions match words)\n  - Being honest\n  - Taking responsibility for actions\n  - Being kind\n  - Knowing their strengths and weaknesses\n  - Being hard workers\n  - Being free from addiction\n• Promise Keeping: Fulfilling a verbal commitment to do something for someone else.\n• Loyalty: The attribute of being truthful/honest to an individual, society, institution, or country.\n• Concern for Others: Having a place for, listening to, or considering the needs and feelings of others; supporting them in difficulty.\n• Respecting Others: Having positive feelings toward a person and treating them with dignity regardless of background.\n• Abiding by the Law: The willingness, commitment, and responsibility to obey or follow the rules and regulations.\n• Commitment to Excellence: Taking full responsibility for one's behaviors, decisions, and actions in every situation to succeed and be resilient.",
+          "keywords": [
+            {
+              "term": "Integrity",
+              "definition": "Uncompromising devotion to moral and ethical principles regarding our decisions and actions in our daily life. The quality of being honest or having strong moral principles."
+            },
+            {
+              "term": "Keeping promise",
+              "definition": "Fulfilling or being faithful to a promise one has made or keeping a verbal commitment to do something to someone else."
+            },
+            {
+              "term": "Loyalty",
+              "definition": "The attribute of being truthful/honest to someone else."
+            },
+            {
+              "term": "Concern for others",
+              "definition": "The habits of having a place for, listening to or consider the needs and feelings of others."
+            },
+            {
+              "term": "Respecting others",
+              "definition": "Having positive feelings toward a person or treating a person with dignity."
+            },
+            {
+              "term": "Abiding by the law",
+              "definition": "The willingness, commitment and responsibility to obey or follow the rules and regulations."
+            },
+            {
+              "term": "Commitment to excellence",
+              "definition": "Taking full responsibility for our behaviors, decisions and actions or endeavors in every single situation in order to do great things or being excellent and resilient person in our life."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "The importance of ethical values of citizens",
+          "section_summary": "This section explains why ethical values are crucial for citizens. It posits that ethics is the single factor that determines a person's real value and is a character builder. Ethical behavior is vital for a peaceful, harmonious, and prosperous society, as it strengthens mutual trust and reduces conflicts. Ethics is essential even where laws don't reach, helps individuals evaluate their own lives critically, and aids in fighting injustices and corruption. A country with ethical citizens enjoys sustainable peace, social harmony, rapid development, and the prevalence of rule of law and justice. The section concludes that developing and practicing ethical values is a must to curb societal crises.",
+          "section_notes": "• Ethics determines our real value and builds character.\n• Ethics makes society peaceful, harmonious, and better by guiding behavior.\n• Ethical values strengthen mutual trust and reduce social conflicts.\n• No society can survive without an ethical code of conduct.\n• Ethics is important where laws don't reach.\n• Ethics helps people evaluate their own lives, fight injustices and corruption, and prevent crimes.\n• A country with ethical citizens has sustainable peace, harmony, socio-economic development, and rule of law.",
+          "keywords": []
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Aspects of applied ethics",
+          "section_summary": "This section introduces applied ethics, focusing on two main aspects: professional ethics and environmental ethics. Applied ethics is defined as reflecting on moral dilemmas in different social contexts. Professional ethics concerns the behavior, responsibility, and commitment of professionals, guided by principles like honesty, integrity, transparency, and impartiality. The section uses the teaching profession as an example. Environmental ethics refers to the moral obligations of humans to protect and maintain their environment, recognizing the direct relationship between environmental health and human survival. It emphasizes the urgency of addressing climate change and environmental degradation, stating that environmental protection is a matter of survival.",
+          "section_notes": "• Applied Ethics: Reflecting on moral dilemmas in social contexts, including professional and environmental ethics.\n• Professional Ethics: Moral obligations, rules, and principles for professionals. Includes attributes like honesty, integrity, transparency, confidentiality, impartiality, and respectfulness. Example: Teachers' ethical relationships with students, colleagues, and parents.\n• Environment: The surrounding natural world (land, animals, plants, water, air) and socio-cultural conditions.\n• Environmental Ethics: Moral obligations to protect and maintain the well-being of the environment. A healthy environment is necessary for human survival. Climate change and degradation pose serious threats.",
+          "keywords": [
+            {
+              "term": "Professional Ethics",
+              "definition": "The moral obligations, rules and principles that professionals should employ to achieve the main objective of their profession."
+            },
+            {
+              "term": "Environmental Ethics",
+              "definition": "The moral obligations expected from human beings to protect and maintain the well-being of their environment."
+            },
+            {
+              "term": "Values",
+              "definition": "Specific principles, beliefs, and standards, ideals that one holds as important and right."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "The Culture of Using Digital Technology",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "The concept of digital technology",
+          "section_summary": "This section defines digital technology as the use of electronic devices (computers, tablets, mobile phones) and digital/social media accessed via the internet to transfer information quickly. It highlights that we live in an age where life heavily relies on these technologies, making life easier and more interconnected. The section notes that digital technology, which began in the mid-20th century, is now crucial in developing countries like Ethiopia for communication, learning, social relations, and financial transactions. Common modern digital technologies include computers, smartphones, ATMs, and GPS.",
+          "section_notes": "• Digital Technology: Use of computers, tablets, mobile phones, and digital/social media to transfer information quickly.\n• It affects political, economic, social, and cultural life.\n• We live in an age where life heavily relies on digital technology.\n• Technology makes life easier and more interconnected.\n• In Ethiopia, it is crucial for communication, learning, and financial transactions.\n• Examples: Computer, Smartwatch, ATM, Digital Camera, GPS, Drone, Bitcoin.",
+          "keywords": [
+            {
+              "term": "Digital technology",
+              "definition": "A type of technology that is used to transfer information to move data quickly using digitalized internet based social network and media. Digital technology enables immense amounts of information to be compressed on small storage devices that can be easily preserved and transported."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Culture and digital technology",
+          "section_summary": "This section explores the interdependent relationship between culture and digital technology. It explains that culture and technology shape our worldviews and influence our attitudes and beliefs. Digital technologies are crucial for promoting and preserving one's own culture by sharing cultural elements (language, dressing, food) and for learning about other cultures. However, if used inappropriately, digital technology can negatively impact culture, leading to cultural diffusion and destruction of indigenous values. The section emphasizes that our digital culture must align with existing moral, social, and cultural values of the society.",
+          "section_notes": "• Culture and technology are interdependent forces that shape our worldviews.\n• Digital technologies are crucial for promoting and preserving one's culture (e.g., using social media to share language, clothing, food).\n• They also allow us to learn about other cultures.\n• Inappropriate use can negatively impact culture, causing cultural diffusion and destruction of indigenous values.\n• Example: Social media can negatively affect family relationships.\n• Our digital culture must align with existing moral, social, and cultural values.",
+          "keywords": [
+            {
+              "term": "Digital culture",
+              "definition": "The whole of the lifestyle and habits created by the innovations brought by the age in which human beings live, technology taking more place in daily life. It is a comprehensive concept that describes the idea that technology and the Internet significantly shape the way we interact, behave, think, and communicate as human beings in a societal setting."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "The Purpose of digital technology",
+          "section_summary": "This section outlines the major purposes of digital technology in the 21st century. The purposes include: 1) Social Connection, enabling communication with families, friends, and colleagues remotely; 2) Communication Speed, allowing for instant transfer of large amounts of information; 3) Online Learning Opportunities, providing access to courses, books, and training; and 4) Digital Marketing, which allows businesses to promote and sell products online, improving customer access and efficiency.",
+          "section_notes": "• Social Connection: Communicating with families, friends, and remote team-workers via video calls, etc.\n• Communication Speed: Instantly transferring large amounts of information; improving how people communicate, work, and learn.\n• Online Learning Opportunities: Access to online courses, training, books, journals via the internet.\n• Digital Marketing: Promoting and selling products online through websites, mobile apps, and social media.",
+          "keywords": []
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Codes of conduct for using digital technology",
+          "section_summary": "This section emphasizes that using digital media must be governed by a set of ethical codes of conduct. It states that before using social media, one must identify its benefits and challenges. The codes of conduct include: using digital media for good (like solving community problems), treating others as you want to be treated, respecting privacy, avoiding fake news and defamation, acknowledging mistakes, and avoiding excessive or addictive use that can affect relationships and productivity.",
+          "section_notes": "• Using digital media must be governed by ethical codes of conduct.\n• Codes include:\n  - Use for good things (e.g., solving community problems).\n  - Use information to improve knowledge and skills.\n  - Ignore content provoking violence.\n  - Treat others as you want to be treated.\n  - Respect privacy and maintain confidentiality.\n  - Avoid spreading fake news; expose it.\n  - Avoid remarks that constitute defamation or degrade dignity.\n  - Acknowledge and correct mistakes.\n  - Avoid excessive use that affects relationships, study, or work.\n  - Avoid addiction.",
+          "keywords": [
+            {
+              "term": "Social media",
+              "definition": "A computer-based technology that facilitates the sharing of ideas, thoughts, and information through building virtual networks and communities."
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Effective communication through digital media",
+          "section_summary": "This section evaluates the role of digital media in achieving effective communication. It explains that communication is key to transferring messages and influencing people. Digital media has become a key strategy for effective communication, enabling organizations and individuals to have an online presence. The contribution of digital media has improved due to cellular technology and satellite communication for speed and connection, the internet for easy exchange of information, computers for better storage and presentation, and mobile phones for e-commerce.",
+          "section_notes": "• Communication is key for transferring messages and influencing audiences.\n• Digital media is the key strategy for effective communication.\n• Improved due to:\n  - Cellular technology and satellite communication for speed and easier connection.\n  - Internet for easy exchange of information over long distances.\n  - Computers for better storage and presentation of information.\n  - Mobile phones for e-commerce.",
+          "keywords": [
+            {
+              "term": "Digital media",
+              "definition": "They are platform sites or spaces of multidirectional, instantaneous communication that operate with the use of any of various encoded machine-readable data formats. It is any form of media that uses electronic devices for distribution via electronic devices."
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Challenges of using digital media",
+          "section_summary": "This section identifies the major challenges of using digital media and social media platforms. These include: 1) Disregard for Ethical Values, as the accuracy of information is often uncontrolled, leading to moral problems; 2) Fabrication of Fake News, which is used to manipulate public opinion and spread misinformation; and 3) Personal Privacy and Security Issues, as social media is public and makes it difficult to protect private information, posing risks to individual privacy and national security.",
+          "section_notes": "• Challenges of using digital media:\n  1. Disregard for Ethical Values: Accuracy of information is uncontrolled.\n  2. Fabrication of Fake News: Shared to manipulate public opinion and spread misinformation for political or commercial gain.\n  3. Personal Privacy and Security Issues: Difficult to maintain privacy on public platforms; personal information can be easily accessed and shared.",
+          "keywords": [
+            {
+              "term": "Digital world",
+              "definition": "The existing, emerging and probable human world dominance of the use of technology in the modern-day being driven and transformed by technology, and by digitized ICTs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Constitution and Constitutionalism",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Understanding constitution",
+          "section_summary": "This section defines a constitution as the supreme or fundamental law of a country that outlines the existence of the state, defines the nature and functions of the government, and states the rights and duties of citizens. It classifies constitutions into written and unwritten, rigid and flexible, and federal and unitary. It also lists the fundamental principles of a constitution: Popular Sovereignty, Limited Government, Separation of Powers, Rule of Law, Respect for Human Rights, and Transparency and Accountability.",
+          "section_notes": "• Constitution: The highest and fundamental law of a state.\n• It defines government's nature/functions and citizens' rights/duties.\n• Classifications:\n  - Written (single document) vs. Unwritten (customs/conventions).\n  - Rigid (difficult to amend) vs. Flexible (easy to amend).\n  - Federal (distributes power) vs. Unitary (centralizes power).\n• Fundamental Principles:\n  - Popular Sovereignty: The people are the ultimate source of power.\n  - Limited Government: Government's power is limited by the constitution.\n  - Separation of Powers: Power divided among legislative, executive, and judiciary.\n  - Rule of Law: Everyone acts according to the law; no one is above it.\n  - Respect for Human Rights: Rights of individuals/groups must be respected.\n  - Transparency and Accountability: Government actions are open and officials are responsible for failures.",
+          "keywords": [
+            {
+              "term": "Constitution",
+              "definition": "A fundamental document that contains the basic laws of a country."
+            },
+            {
+              "term": "Written constitution",
+              "definition": "A constitution that exists in a single document or in a codified form."
+            },
+            {
+              "term": "Unwritten constitution",
+              "definition": "A constitution that is not found in a single written document."
+            },
+            {
+              "term": "Rigid constitution",
+              "definition": "A constitution that requires special or difficult procedures for the amendment process."
+            },
+            {
+              "term": "Flexible constitution",
+              "definition": "A constitution which is simple for amendment."
+            },
+            {
+              "term": "Federal constitution",
+              "definition": "A constitution which distributes power between the federal and regional governments."
+            },
+            {
+              "term": "Unitary constitution",
+              "definition": "A constitution that centralizes all state power at the central government."
+            },
+            {
+              "term": "Popular sovereignty",
+              "definition": "The ultimate or supreme power of the people."
+            },
+            {
+              "term": "Limited government",
+              "definition": "Refers to a government that should act according to the power and functions given to it by the constitution."
+            },
+            {
+              "term": "Separation of power",
+              "definition": "Distributions of power among the three branches of government such as legislative, executive and judiciary organs for check and balance of power."
+            },
+            {
+              "term": "Rule of law",
+              "definition": "Refers to every one acts according to the rule of law and no one is above the law."
+            },
+            {
+              "term": "Respect for human rights",
+              "definition": "The human rights of individuals or groups must be respected by both government and ordinary citizens."
+            },
+            {
+              "term": "Transparency",
+              "definition": "The condition in which the conducts and actions of government officials shall be open or transparent to the public."
+            },
+            {
+              "term": "Accountability",
+              "definition": "Refers to the condition in which government officials are held responsible for any failure in their official duties."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Understanding constitutionalism",
+          "section_summary": "This section defines constitutionalism as a system of government based on and acting according to the supreme law (the constitution). It emphasizes that constitutionalism is more than just having a constitution; it's about the real practice of limiting government power to prevent tyranny. The importance of constitutionalism includes: ensuring the realization of human rights, controlling the abuse of government power, and establishing the prevalence of the rule of law.",
+          "section_notes": "• Constitutionalism: A system of government based on and acting according to the supreme law.\n• It is about the real implementation of constitutional principles.\n• It prevents tyranny and guarantees liberty and rights.\n• Importance:\n  - Realizes human rights.\n  - Controls abuse and misuse of government power.\n  - Ensures the prevalence of the rule of law.",
+          "keywords": [
+            {
+              "term": "Constitutionalism",
+              "definition": "Refers to a government system that is based on and acts according to the supreme law. The behavior and actions of the government as well as its agents should be founded on the fundamental principles of the constitution."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Constitutional experiences of Ethiopia",
+          "section_summary": "This section outlines the constitutional history of Ethiopia. It starts with traditional constitutions (Kibre Negest, Fetha Negest, Sirate Mengist) characterized by the divine right of kings. It then covers the first written constitution of 1931, introduced by Emperor Haile Selassie I, which aimed to project modernity and consolidate imperial power, not to guarantee citizens' rights. The 1955 revised constitution was similar, also failing to limit the emperor's power. The 1987 PDRE constitution established a republic and secularism but lacked a democratic legacy. The 1991 Transitional Charter was a brief document that recognized self-determination and human rights. Finally, the 1995 FDRE constitution introduced a federal state structure, parliamentary democracy, and a bill of rights. The section concludes by listing the fundamental principles of the 1995 constitution: Popular Sovereignty, Supremacy of the Constitution, Respect for Human Rights, Secularism, and Transparency and Accountability.",
+          "section_notes": "• Traditional Constitutions (pre-1931): Kibre Negest, Fetha Negest, Sirate Mengist. Characterized by myths and divine right of kings.\n• 1931 Written Constitution: First written constitution; aimed to show Ethiopia as modern and consolidate the Emperor's absolute power.\n• 1955 Revised Constitution: Revised due to Italian invasion and federation with Eritrea. Still didn't limit the Emperor's power.\n• 1987 PDRE Constitution: Introduced a republican form of government and secularism. No legacy of democratic constitutional order.\n• 1991 Transitional Charter: Served as the law during the transition period; recognized self-determination and human rights.\n• 1995 FDRE Constitution:\n  - Introduced federalism, parliamentary democracy, and a two-house parliament.\n  - Guarantees rights and freedoms of citizens.\n  - Fundamental Principles:\n    1. Popular Sovereignty (Art. 8)\n    2. Supremacy of the Constitution (Art. 9)\n    3. Respecting Human and Democratic Rights (Art. 10)\n    4. Secularism (Art. 11)\n    5. Transparency and Accountability (Art. 12)",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Understanding Indigenous Knowledge",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "The concept of indigenous knowledge",
+          "section_summary": "This section defines indigenous knowledge as knowledge developed by a local people over a long history of social life and interaction with their environment, based on their culture, traditions, and beliefs. It emphasizes that Ethiopia is rich in indigenous knowledge systems in various fields like architecture, pottery, medicine, agriculture, conflict resolution, and environmental conservation.",
+          "section_notes": "• Indigenous Knowledge: Knowledge developed by local people based on their culture, traditions, and interaction with the environment.\n• It varies from society to society.\n• Ethiopia is rich in indigenous knowledge in areas like architecture, pottery, medicine, agriculture, conflict resolution, and environmental conservation.",
+          "keywords": [
+            {
+              "term": "Indigenous knowledge",
+              "definition": "A knowledge that has been developed by a local people as a result of long histories of their social life and interaction with their environment."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "The role of indigenous knowledge in producing responsible citizens",
+          "section_summary": "This section explains how indigenous knowledge contributes to producing responsible citizens. Responsible citizens are knowledgeable and committed to the betterment of their community and country. Indigenous knowledge contributes through: 1) Indigenous Conflict Resolution Mechanisms (e.g., Jaarsummaa, Shimglinia) which ensure sustainable peace at low cost; 2) Indigenous Technologies (e.g., pottery, weaving, iron smith) which enable citizens to use local products and contribute to socio-economic development; and 3) Indigenous Environmental Conservation Mechanisms (e.g., Konso terracing, Gedeo agroforestry) which promote the wise use of natural resources.",
+          "section_notes": "• Responsible Citizen: Has knowledge and commitment for the betterment of livelihood, community, and country.\n• Roles of Indigenous Knowledge:\n  1. Conflict Resolution and Peace Building: Mechanisms like Jaarsummaa, Shimglinia, etc., are more significant than modern courts in ensuring sustainable peace.\n  2. Active Participation in Socio-economic Activities: Indigenous technologies (pottery, weaving, iron smith) provide affordable and accessible local options, contributing to economic development.\n  3. Environmental Conservation: Mechanisms like Konso terracing and Gedeo agroforestry promote the wise use of resources and protect the environment.",
+          "keywords": [
+            {
+              "term": "Indigenous conflict resolution",
+              "definition": "Locally organized institutions working according to the custom and norms of given society and works according to the specific culture of particular community."
+            },
+            {
+              "term": "Indigenous environmental conservation",
+              "definition": "Refers to the local knowledge and social taboos used for protecting environment and natural resources."
+            },
+            {
+              "term": "Responsible citizen",
+              "definition": "A person who has the knowledge and commitment regarding his/her contributions for the betterment of his/her livelihood, the community and the country."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The role of indigenous social institutions in solving problems of communities",
+          "section_summary": "This section discusses the role of various indigenous social institutions in Ethiopia. These are locally established institutions based on mutual trust for self-help and support. The institutions mentioned include: Siingee (a symbolic stick for married Oromo women that protects their rights and promotes peace), Idir (provides mutual aid in burial matters and other support), Iqub (provides financial services to members), Mahber/Senbete (voluntary associations for mutual help and social activities), and Debo/Jigie (labor sharing for agricultural activities). These institutions play a significant role in providing socio-economic services, resolving conflicts, and coping with risks.",
+          "section_notes": "• Indigenous Social Institutions: Locally established by voluntary cooperation based on mutual trust.\n• Examples:\n  - Siingee: A stick symbolizing the rights and power of married Oromo women; protects women's rights and promotes peace.\n  - Idir: Provides mutual aid in burial matters and other community concerns (e.g., coping with risks).\n  - Iqub: Provides financial services to members through regular contributions.\n  - Mahber/Senbete: Voluntary associations for mutual help, social activities, and discussing common interests.\n  - Debo/Jigie: Labor sharing culture for ploughing, harvesting, and building houses.",
+          "keywords": [
+            {
+              "term": "Idir",
+              "definition": "An indigenous social institution voluntarily established by the local people to provide mutual aid in burial matters and also to address other community concerns."
+            },
+            {
+              "term": "Iqub",
+              "definition": "An indigenous social institution voluntarily established by people based on mutual trust to provide financial services to the members."
+            },
+            {
+              "term": "Siinge",
+              "definition": "A stick (Ulee) and symbolizes a socially endorsed set of rights exercised by women in the Oromoo society. It is a special stick that is used to signify legally married women and also to indicate women's respect and power in the society."
+            },
+            {
+              "term": "Indigenous social institutions",
+              "definition": "Are voluntarily-established by local people mainly to support each other in time of difficulty (mourning), to resolve conflict, to serve as financial sources, for information exchange and to cope different problems of the members and the community in general."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Multiculturalism in Ethiopia",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Understanding culture",
+          "section_summary": "This section defines culture as a shared set of language, beliefs, values, norms, behaviors, and material objects passed from one generation to the next. It includes rituals, customs, and dress styles. Culture acts as a lens through which we evaluate everything around us as proper or improper. The section emphasizes that there is no society without culture and that cultural diversity, as seen in Ethiopia's various peoples and practices, is a beauty to be proud of and respected.",
+          "section_notes": "• Culture: Shared language, beliefs, values, norms, behaviors, and material objects passed down generations.\n• Includes rituals, customs, celebrations, dress styles, etc.\n• There is no society without culture.\n• Culture is a lens for evaluating what is proper or improper.\n• Understanding culture helps recognize differences and avoid negative stereotypes.\n• Cultural diversity (like in Ethiopia) is a beauty to be respected and maintained.",
+          "keywords": [
+            {
+              "term": "Culture",
+              "definition": "It is the beliefs, customs, arts, ways of life etc., of a particular society, group, place, or time. Culture is the mirrors using which the members of the cultural groups identify themselves in the society used as a lens with which we evaluate what is proper or improper, normal or abnormal."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "The concept of multiculturalism",
+          "section_summary": "This section defines multiculturalism as the best strategy to deal with and accommodate diversity in a culturally diverse society, aiming to maintain national unity while preserving diverse identities. It is a body of thought about how to respond to cultural and religious diversity, recognizing and respecting the presence of all diverse groups. In Ethiopia, multiculturalism is adopted to reconcile the imbalance between upholding ethnic and national identity.",
+          "section_notes": "• Multiculturalism: The best strategy to accommodate diversity and maintain national unity within diversity.\n• It is a system of belief and behavior to recognize and respect all diverse groups.\n• It acknowledges and values socio-cultural differences.\n• It is used to maintain a balance between national unity and cultural diversity.",
+          "keywords": [
+            {
+              "term": "Multiculturalism",
+              "definition": "The term 'multicultural' is often used as a descriptive term to characterize the fact of diversity in a society. Multiculturalism endorse an ideal in which members of minority groups can maintain their distinctive collective identities and practices."
+            },
+            {
+              "term": "Cultural Diversity",
+              "definition": "Cultural diversity, or sometimes referred to as multiculturalism, is a quality of diverse and many different cultures. Cultural Diversity a system that recognizes and respects the existence and presence of diverse groups of people within a society."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "Pillars of multicultural societies",
+          "section_summary": "This section identifies the four pillars or basic principles for managing diversity in a multicultural society: 1) Accepting Differences, which means understanding and treating everyone with respect regardless of differences; 2) Respecting Differences, which involves appreciating the distinctions among people based on culture, religion, etc.; 3) Tolerance of Differences, which is the willingness to accept the existence of opinions or behaviors we dislike or disagree with; and 4) Appreciating Differences, which involves seeking to understand and learn about other cultures to broaden one's perspective.",
+          "section_notes": "• Pillars of Multiculturalism (Principles for managing diversity):\n  1. Accepting Differences: Understanding how we are alike and different, treating everyone with respect.\n  2. Respecting Differences: Appreciating distinctions in gender, culture, religion, ethnicity.\n  3. Tolerance of Differences: Willingness to accept the existence of opinions or behaviors we dislike.\n  4. Appreciating Differences: Seeking to understand and learn about other cultures to broaden perspective.",
+          "keywords": [
+            {
+              "term": "Accepting differences",
+              "definition": "Accepting difference means understanding how we are alike, how we are different and treating everyone with respect and understanding regardless of the differences."
+            },
+            {
+              "term": "Respecting differences",
+              "definition": "Respect means different things to different people depending on the very things that make each person different, including culture, background or any other dimensions of diversity."
+            },
+            {
+              "term": "Tolerance of difference",
+              "definition": "Tolerance is the willingness to tolerate the existence of opinions or behaviour we dislike or disagree with. In other words, it refers to showing a neutral or objective attitude towards those who are different from you."
+            },
+            {
+              "term": "Appreciating differences",
+              "definition": "Appreciation is when someone seeks to understand and learn about another culture in an effort to broaden their perspective and connect with others cross-culturally."
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Major forms of diversity demonstrating multiculturalism",
+          "section_summary": "This section identifies the major forms of diversity in a multicultural society, using Ethiopia as a prime example. The major forms are: 1) Ethnicity, where diverse ethnic groups with distinct traditions and origins live together; 2) Religion, which is a set of organized beliefs and practices, with religious diversity requiring harmony and tolerance; 3) Gender, referring to the socially constructed roles and identities associated with sex; and 4) Disability, which is a fundamental aspect of human diversity that should be embraced and understood.",
+          "section_notes": "• Major Forms of Diversity:\n  1. Ethnicity: Social grouping based on cultural grounds, including language and origins. Ethnocentrism can be a threat to multiculturalism.\n  2. Religion: Organized beliefs and practices. Religious diversity requires tolerance and harmony (e.g., Christians and Muslims in Ethiopia).\n  3. Gender: Socially constructed roles, attitudes, and behaviors associated with sex.\n  4. Disability: Physical or mental impairment that limits major life activities; a fundamental aspect of human diversity.",
+          "keywords": [
+            {
+              "term": "Ethnicity or ethnic group",
+              "definition": "An ethnic group; a social group that shares a common and distinctive culture, religion, language. In other words, it is a large group of people who have the same national, or cultural origins, or the state of belonging to such a group."
+            },
+            {
+              "term": "Gender",
+              "definition": "The socially constructed roles that defines and differentiates the roles, rights, responsibilities, and what is appropriate behavior and obligation for women and men."
+            },
+            {
+              "term": "Linguistic diversity",
+              "definition": "It is presence of variety of language spoken and ability to communicate with different language within a community."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "National Unity Through Diversity",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Unity in diversity",
+          "section_summary": "This section defines 'unity in diversity' as the feeling of being one over common destinies among a group of people who have a multitude of differences in terms of culture, religion, ethnicity, etc. It emphasizes that unity in diversity is about accepting different groups as members of one nation living together in harmony. It is an expression of harmony between dissimilar individuals or groups, representing oneness without uniformity.",
+          "section_notes": "• Unity in Diversity: Oneness among people with diverse cultures, religions, and languages, living together in harmony.\n• It is about accepting different groups as members of one nation.\n• It is not about uniformity, but harmony between dissimilar groups.\n• It involves commonality without uniformity and diversity without fragmentation.",
+          "keywords": [
+            {
+              "term": "Unity",
+              "definition": "The state of being one; oneness of mind, feeling, etc., as among a number of persons; harmony or agreement."
+            },
+            {
+              "term": "National Unity",
+              "definition": "Is a feeling of oneness across the entire country. In other word is a situation where by people from different religion, tribe, and culture live as undivided nationhood."
+            },
+            {
+              "term": "Unity in Diversity",
+              "definition": "Is the mutual understanding and harmony among groups of individuals with a multitude of differences in terms of culture, religion, ethnicity, race, language etc. It is used as an expression of harmony and unity between dissimilar individuals or groups."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Elements of diversity",
+          "section_summary": "This section lists the major elements of diversity characterizing a culturally diverse society. These elements include: 1) Cultural Diversity, which refers to the occurrence of different cultures, religions, and languages; 2) Religious Diversity, which is the significant differences in religious beliefs and practices, requiring respect and tolerance; and 3) Linguistic Diversity, which is the presence of a variety of languages spoken within a community. The section highlights that Ethiopia is characterized by all these forms of diversity.",
+          "section_notes": "• Elements of Diversity:\n  1. Cultural Diversity: The existence of different cultures, religions, and ethnic backgrounds.\n  2. Religious Diversity: Significant differences in religious beliefs and practices. Requires respect and tolerance.\n  3. Linguistic Diversity: The presence of a variety of languages spoken within a community.",
+          "keywords": []
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Accommodation of diversity",
+          "section_summary": "This section defines diversity accommodation as the appropriate way to respond to and manage diversity, aiming for national integration in multiethnic nations. It distinguishes accommodation from integration; accommodation recognizes different communities and aims for their coexistence, while integration aims for equal citizenship and privatization of differences. Accommodation of diversity is achieved through mutual acceptance and respect for differences within society.",
+          "section_notes": "• Diversity Accommodation: The appropriate way to respond to diversity and realize national integration.\n• It involves the recognition of multiple communities and aims for their coexistence.\n• Integration aims for equal citizenship and privatization of differences.\n• Accommodation is achieved through mutual acceptance and respect for differences.",
+          "keywords": [
+            {
+              "term": "Accommodation",
+              "definition": "It implies a normative decision about the right ways of diversity management."
+            },
+            {
+              "term": "Diversity",
+              "definition": "Is a natural phenomenon that helps to bring different views, experiences and acceptance among people."
+            },
+            {
+              "term": "Diversity accommodation",
+              "definition": "Is a process intended to create and maintain a positive work environment where the similarities and differences of individuals are valued."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "The importance of diversity management in Ethiopia",
+          "section_summary": "This section emphasizes the importance of managing diversity in Ethiopia, which has over 80 ethnic groups. The goal is to build national unity by accommodating diversity and avoiding fragmentation. The section highlights that a crucial balance between unity and diversity is needed to forge a common national identity. It argues that for effective nation-building, recognizing and respecting differences in language, religion, and culture is as important as promoting national unity.",
+          "section_notes": "• Ethiopia has over 80 ethnic groups, requiring effective diversity management.\n• Managing diversity means accommodating diversity while maintaining unity.\n• Balancing unity and diversity is crucial for nation-building.\n• National unity involves awareness of a common identity.\n• To ensure national unity, differences must be respected and recognized.\n• This balance is critical for fostering a sense of common citizenship and loyalty to the nation.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "unit_title": "Problem Solving Skills",
+      "sections": [
+        {
+          "section_number": "7.1",
+          "section_title": "Meaning of problem- solving skills",
+          "section_summary": "This section defines a problem as an unpleasant situation preventing goal achievement. Problem-solving skills are the intellectual abilities to effectively solve problems, which is essential for a successful life. The section differentiates between problem solving (finding answers to issues) and decision making (selecting the right option). It emphasizes that problem solving is a process involving defining a problem, determining its cause, identifying alternatives, and implementing a solution.",
+          "section_notes": "• Problem: An unpleasant situation that prevents achieving goals.\n• Problem-Solving Skills: Valuable intellectual abilities for leading a successful life.\n• Problem Solving: A process of defining a problem, determining its cause, identifying and selecting alternatives, and implementing the solution.\n• Decision Making: Selecting the right option from available alternatives.\n• Problem solving and decision making are inter-linked.\n• Example: Losing a bag with money and phone in a bus requires creative problem-solving.",
+          "keywords": [
+            {
+              "term": "Problem-solving",
+              "definition": "Skills refer to the ability to tackle and resolve these problems when they occur. It is intellectual abilities and capacities for leading a successful life."
+            },
+            {
+              "term": "Problem solving skills",
+              "definition": "Refers to our ability to solve problems in an effective and timely manner without any impediments."
+            },
+            {
+              "term": "Decision making",
+              "definition": "Is the process of making choices by identifying a decision, gathering information, and assessing alternative resolutions."
+            }
+          ]
+        },
+        {
+          "section_number": "7.2",
+          "section_title": "The importance of problem- solving skills",
+          "section_summary": "This section underscores the critical importance of problem-solving skills in daily life. These skills enable individuals and organizations to identify and define problems, create solutions, and implement them effectively. The benefits include making good decisions, brainstorming, self-awareness, becoming analytical, and overcoming complex challenges. It notes that many problem-solving skills are 'soft skills' gained from life experiences and indigenous knowledge, and integrating these with scientific methods is essential.",
+          "section_notes": "• Problem-solving skills are critical for daily life.\n• They enable us to identify, define, and solve problems effectively.\n• Importance includes:\n  - Making good decisions\n  - Brainstorming ability\n  - Self-awareness and creativity\n  - Becoming analytical\n  - Overcoming complex challenges\n• These are soft skills, often gained from life experiences and indigenous knowledge.\n• Integrating indigenous skills with scientific ones is important.",
+          "keywords": []
+        },
+        {
+          "section_number": "7.3",
+          "section_title": "Characteristics of good problem solver",
+          "section_summary": "This section describes the qualities and stages of a good problem solver. It states that good problem solvers see problems as opportunities and think innovatively. They use a combination of intuition and logic, are open-minded, and learn from past mistakes. The section outlines four stages of problem solving: 1) Defining the Problem, which involves identifying root causes; 2) Brainstorming, to gather facts and generate ideas; 3) Deciding on the Solution, which requires strong decision-making; and 4) Implementing the Solution, which is the critical peak of the process and requires careful execution to avoid failure.",
+          "section_notes": "• Characteristics of Good Problem Solvers:\n  - See problems as opportunities.\n  - Think innovatively ('outside the box').\n  - Use a combination of intuition and logic.\n  - Are open-minded and consider multiple perspectives.\n  - Learn from past mistakes.\n• Stages of Problem Solving:\n  1. Define the Problem: Identify root causes and nature.\n  2. Brainstorm: Gather as many facts as possible.\n  3. Decide on the Solution: Select the best strategy based on analysis.\n  4. Implement the Solution: Draw up an action plan and execute it efficiently.",
+          "keywords": [
+            {
+              "term": "Conflict resolution",
+              "definition": "Is the art of addressing those differences and finding common ground that enables everyone to work together peacefully."
+            },
+            {
+              "term": "Open mindedness",
+              "definition": "The quality of being willing to consider ideas and opinions that are new or different to your own."
+            },
+            {
+              "term": "Rational thinking",
+              "definition": "Refers to content, and is a qualitative judgement as to whether the correct angles have been considered and taken into consideration."
+            }
+          ]
+        },
+        {
+          "section_number": "7.4",
+          "section_title": "Ways to improve one's problem solving skills",
+          "section_summary": "This section discusses how to improve problem-solving skills through critical and creative thinking. It differentiates between critical thinking (analyzing and evaluating ideas rationally) and creative thinking (generating new ideas). Creative problem-solving is a soft skill that helps find unique solutions. The section also links problem-solving to good citizenship, stating that attributes like conflict resolution and critical thinking skills are essential for responsible citizens.",
+          "section_notes": "• Ways to Improve Problem-Solving Skills:\n  - Use Critical Thinking: The ability to think clearly, rationally, and analyze information.\n  - Use Creative Thinking: The ability to think 'outside the box' and generate new ideas.\n• Critical Thinking: Associated with analyzing and evaluating ideas.\n• Creative Thinking: Associated with generating ideas.\n• Problem-Solving as an Attribute of Good Citizens:\n  - Good citizens display social skills and problem-solving abilities.\n  - Conflict Resolution Skills: Healthy resolution of conflicts through forgiveness, compromise, and recognizing important matters.\n  - Critical Thinking Skills: Being open-minded, logical, and willing to reassess information.",
+          "keywords": [
+            {
+              "term": "Collaboration",
+              "definition": "Means working together with one or more people to complete a project or task or develop ideas or processes."
+            },
+            {
+              "term": "Creative problem-solving skill",
+              "definition": "Is the ability and capability to move to clarify the trouble in an impressive and at the right time."
+            },
+            {
+              "term": "Creative thinking",
+              "definition": "Refers to using abilities and soft skills to come up with new solutions to problems. It is the ability to consider something in a new way."
+            },
+            {
+              "term": "Critical thinking",
+              "definition": "Is the process to rationally analyze and attempt to solve a problem accurately and efficiently."
+            },
+            {
+              "term": "Negotiation skill",
+              "definition": "Is a method by which people settle differences. It is a process by which compromise or agreement is reached while avoiding argument and dispute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "unit_title": "Ethiopia's Foreign Relations in East Africa",
+      "sections": [
+        {
+          "section_number": "8.1",
+          "section_title": "The concepts of foreign relations",
+          "section_summary": "This section defines foreign relations as the external relations of a country with other countries. It states that no state can survive in isolation, just as no human can. The section introduces the concept of national interest (goals and claims a state seeks to secure) and foreign policy (strategies and methods to achieve those interests). It cites Article 86 of the 1995 FDRE constitution, which states that Ethiopia's foreign relations are based on protecting national interests, sovereignty, mutual benefits, equality, and non-interference in other states' affairs.",
+          "section_notes": "• Foreign Relations: The external relations of a country with other countries.\n• No state can survive in isolation; relationships are a must for survival.\n• National Interest: Goals, claims, and demands a state seeks to secure (e.g., security, development).\n• Foreign Policy: The strategies, methods, and guidelines states use to achieve their national interests in the international arena.\n• Ethiopia's principles for external relations (Art. 86):\n  - Protection of national interests and sovereignty.\n  - Mutual benefits and equality of states.\n  - Observance of international agreements.\n  - Non-interference in the internal affairs of other states.",
+          "keywords": [
+            {
+              "term": "Foreign relations",
+              "definition": "The external relations of a country with countries of the world."
+            }
+          ]
+        },
+        {
+          "section_number": "8.2",
+          "section_title": "Instruments of foreign policy",
+          "section_summary": "This section details the major instruments states use to implement their foreign policy: 1) Diplomacy, which is the art and practice of conducting negotiations to manage relations without hostility; 2) Economic Methods, as states are economically interdependent and use trade, aid, and other economic tools to achieve goals; and 3) Military Force, which is used as a last resort when national interests are not fulfilled through peaceful methods.",
+          "section_notes": "• Instruments of Foreign Policy:\n  1. Diplomacy: The art of conducting negotiations without arousing hostility. It is the process by which foreign policy is executed.\n  2. Economic Methods: Using economic leverage (trade, aid) as states are economically interdependent.\n  3. Military Force: Used as a last resort when peaceful methods fail to achieve national interests.",
+          "keywords": []
+        },
+        {
+          "section_number": "8.3",
+          "section_title": "The roles of foreign policy",
+          "section_summary": "This section discusses the roles of Ethiopia's foreign policy in East Africa. The roles include: 1) Enhancing Regional Cooperation, by using organizations like IGAD and negotiating over shared resources (e.g., the Nile) to solve cross-border disputes and promote economic integration. 2) Promoting Peace and Security, as Ethiopia is a regional power that needs to cooperate with neighbors to establish a peaceful and integrated region. 3) Promoting Socio-Economic Development, through economic partnerships, such as using the Port of Djibouti, importing oil from Sudan, and exporting electricity to neighboring countries.",
+          "section_notes": "• Roles of Ethiopia's Foreign Policy:\n  1. Enhancing Regional Cooperation:\n    - Using regional organizations like IGAD.\n    - Negotiating over shared resources (e.g., Blue Nile, Omo River).\n    - Helps solve cross-border disputes and speed up socio-economic transformations.\n  2. Promoting Peace and Security:\n    - Peace is a prerequisite for development.\n    - Ethiopia is a regional power with influence on regional peace and security.\n  3. Promoting Socio-Economic Development:\n    - Economic partnership is a core objective.\n    - Example: Using the Port of Djibouti, importing oil from Sudan, exporting electricity to neighbors.",
+          "keywords": [
+            {
+              "term": "Regional cooperation",
+              "definition": "A framework for states in a region to work together to solve cross-border disputes and speed up socio-economic transformations."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

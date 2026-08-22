@@ -1,0 +1,1022 @@
+{
+  "subject": "Physics",
+  "grade": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Vector Quantities",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Scalars and Vectors",
+          "summary": "Physical quantities are classified into scalars and vectors. Scalars are completely specified by a single number and a unit (e.g., length, mass, time, speed, energy). Vectors require both a magnitude and a direction for their complete description (e.g., velocity, force, displacement, acceleration).",
+          "notes": "Physical quantities can be divided into two main categories. The first category includes scalar quantities, which can be fully described by a numerical value and a unit. Examples include length (1.42 m), mass (12.21 kg), and density (1000 kg/m³). The second category includes vector quantities, which require both a magnitude and a direction. Examples include velocity (100 km/h to the East) and force (20 N to the North). The distinction between scalars and vectors is fundamental for describing physical phenomena.",
+          "keywords": [
+            {
+              "keyword": "Scalar quantity",
+              "definition": "A physical quantity that is completely specified by a single number and an appropriate unit of measurement, having only magnitude."
+            },
+            {
+              "keyword": "Vector quantity",
+              "definition": "A physical quantity that requires both a magnitude and a direction for its complete description."
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Vector Representations",
+          "summary": "Vectors can be represented algebraically using bold letters (e.g., A) or arrows over letters (e.g., \u2192A). Graphically, they are represented by an arrow-tipped line segment. The length of the arrow, drawn to scale, represents the vector's magnitude, and the arrowhead indicates its direction. Different types of vectors include zero, unit, equal, and negative vectors.",
+          "notes": "A vector can be represented in two ways: algebraically and geometrically. Algebraically, it is denoted as A (bold) or \u2192A. Geometrically, it is drawn as an arrow. The length of the arrow is proportional to the vector's magnitude according to a chosen scale, and the arrowhead points in the vector's direction. To draw a vector accurately, one must specify a scale and a reference direction. For example, a force of 20 N towards the East could be represented by a 10 cm long arrow using a scale of 1 cm = 2 N. Different types of vectors exist: a zero vector has zero magnitude and no direction; a unit vector has a magnitude of one; equal vectors have the same magnitude and direction; and the negative of a vector has the same magnitude but opposite direction.",
+          "keywords": [
+            {
+              "keyword": "Vector representation (graphical)",
+              "definition": "The method of representing a vector using an arrow, where the length is scaled to the magnitude and the arrowhead indicates the direction."
+            },
+            {
+              "keyword": "Vector representation (algebraic)",
+              "definition": "The method of representing a vector using a bold letter or an arrow over the letter."
+            },
+            {
+              "keyword": "Zero/Null vector",
+              "definition": "A vector with zero magnitude and no specific direction."
+            },
+            {
+              "keyword": "Unit vector",
+              "definition": "A vector that has a magnitude equal to one."
+            },
+            {
+              "keyword": "Equal vectors",
+              "definition": "Vectors that have the same magnitude and the same direction."
+            },
+            {
+              "keyword": "Negative of a vector",
+              "definition": "A vector that has the same magnitude as the given vector but points in the opposite direction."
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Vector Addition and Subtraction",
+          "summary": "Vector addition is the process of finding a single vector (the resultant) whose effect is the same as the combined effect of two or more vectors acting together. Vector subtraction is performed by adding the negative of the vector being subtracted. Scalars and vectors of different types cannot be added.",
+          "notes": "Adding vectors differs from adding scalars because direction must be considered. The resultant vector is the single vector that has the same overall effect as the individual vectors. For example, two forces or two velocities can be added to find their combined effect, but a force and a velocity cannot be added together. The mathematical representation of vector addition is R = A + B. Vector subtraction is defined as the addition of a negative vector: A - B = A + (-B). This means that to subtract vector B from vector A, you reverse the direction of B and then add it to A.",
+          "keywords": [
+            {
+              "keyword": "Resultant vector",
+              "definition": "The single vector whose effect is the same as the combined effect of two or more individual vectors acting together."
+            },
+            {
+              "keyword": "Vector subtraction",
+              "definition": "The addition of the negative of a vector; A - B = A + (-B)."
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Graphical Method of Vector Addition",
+          "summary": "Vectors can be added graphically using the triangle, parallelogram, and polygon methods. The triangle method (head-to-tail) is for two vectors. The parallelogram method uses adjacent sides of a parallelogram for two vectors. The polygon method extends the head-to-tail approach to add multiple vectors. Special cases include same-direction (add magnitudes), opposite-direction (subtract magnitudes), and perpendicular vectors (use Pythagorean theorem).",
+          "notes": "The graphical method involves drawing vectors to scale and using a ruler and protractor to determine the resultant's magnitude and direction. The procedure includes choosing a scale, drawing vectors head-to-tail, drawing the resultant, and measuring its length and angle. The triangle method (or head-to-tail) adds two vectors by joining the head of the first to the tail of the second. The resultant is the third side of the triangle formed. The parallelogram method adds two vectors by placing their tails together and constructing a parallelogram; the resultant is the diagonal. The polygon method adds multiple vectors by placing them sequentially in a head-to-tail arrangement; the resultant is drawn from the tail of the first to the head of the last. For vectors in the same direction, the resultant magnitude is the sum of the magnitudes. In opposite directions, it is the difference. For perpendicular vectors, the magnitude is found using the Pythagorean theorem (R = \u221A(A\u00b2 + B\u00b2)), and direction using trigonometry (tan \u03b8 = B/A).",
+          "keywords": [
+            {
+              "keyword": "Triangle method (Head-to-tail method)",
+              "definition": "A graphical method for adding two vectors where the head of the first vector is placed at the tail of the second, and the resultant is the vector from the tail of the first to the head of the second."
+            },
+            {
+              "keyword": "Parallelogram method",
+              "definition": "A graphical method for adding two vectors where the vectors are drawn from a common point to form adjacent sides of a parallelogram; the resultant is the diagonal."
+            },
+            {
+              "keyword": "Polygon method",
+              "definition": "A graphical method for adding more than two vectors by placing them in a head-to-tail sequence; the resultant is drawn from the tail of the first to the head of the last."
+            }
+          ]
+        },
+        {
+          "section_number": "1.5",
+          "section_title": "Vector Resolution",
+          "summary": "Vector resolution is the process of breaking a vector into two or more component vectors, often along perpendicular x- and y-axes. The horizontal component (Ax) is found using Ax = A cos \u03b8, and the vertical component (Ay) is found using Ay = A sin \u03b8. The original vector is the sum of its components (A = Ax + Ay). The magnitude of the resultant vector from its components is |A| = \u221A(Ax\u00b2 + Ay\u00b2), and its direction is \u03b8 = tan\u207b\u00b9(Ay/Ax).",
+          "notes": "A single vector can be resolved into a set of components that, when added, produce the original vector. This is often done using a rectangular coordinate system, resolving the vector into horizontal and vertical components. The components can be found graphically or using trigonometry. The horizontal component (Ax) is adjacent to the angle \u03b8 and is calculated as Ax = A cos \u03b8. The vertical component (Ay) is opposite to the angle and is calculated as Ay = A sin \u03b8. The resultant vector's magnitude can be reconstructed from its components using the Pythagorean theorem, and its direction using the inverse tangent function. This process is crucial for solving problems in physics, such as finding the net effect of several forces.",
+          "keywords": [
+            {
+              "keyword": "Vector resolution",
+              "definition": "The process of breaking a single vector into two or more components whose sum equals the original vector."
+            },
+            {
+              "keyword": "Horizontal component (Ax)",
+              "definition": "The component of a vector along the x-axis, calculated as Ax = A cos \u03b8."
+            },
+            {
+              "keyword": "Vertical component (Ay)",
+              "definition": "The component of a vector along the y-axis, calculated as Ay = A sin \u03b8."
+            },
+            {
+              "keyword": "Pythagorean Theorem (for vectors)",
+              "definition": "Used to find the magnitude of the resultant vector from its perpendicular components: |A| = \u221A(Ax\u00b2 + Ay\u00b2)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Uniformly Accelerated Motion",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Position and Displacement",
+          "summary": "An object's position describes its location relative to a reference point in a frame of reference. Distance is the total length of the path traveled (a scalar), while displacement is the vector from the initial to the final position, representing the shortest distance between them.",
+          "notes": "To describe motion, one must first define a frame of reference. Position is the location of an object within that frame. Distance is the total length of the path followed by an object, irrespective of direction. Displacement is the change in position, defined as the difference between the final and initial position vectors. It has both magnitude and direction. Distance is a scalar, while displacement is a vector. The magnitude of displacement can be less than or equal to the distance traveled, and it can be zero even if the distance is not (e.g., a round trip).",
+          "keywords": [
+            {
+              "keyword": "Frame of reference",
+              "definition": "A set of axes from which the position and motion of an object are described."
+            },
+            {
+              "keyword": "Position",
+              "definition": "The location of an object with respect to a reference point or origin."
+            },
+            {
+              "keyword": "Distance",
+              "definition": "The total length of the path taken by an object during its motion (a scalar quantity)."
+            },
+            {
+              "keyword": "Displacement",
+              "definition": "The change in position of an object, defined as the final position minus the initial position (a vector quantity)."
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Average Velocity and Instantaneous Velocity",
+          "summary": "Average velocity is the total displacement divided by the total time taken. It is a vector. Instantaneous velocity is the velocity of an object at a specific instant in time, found as the limit of average velocity as the time interval approaches zero. Average speed is the total distance divided by total time (a scalar), and its magnitude equals the magnitude of average velocity only for motion in a straight line.",
+          "notes": "Velocity is the rate of change of displacement. Average velocity is calculated as v_avg = \u0394s / \u0394t. It gives the overall change in position over a time interval. Instantaneous velocity, on the other hand, tells us how fast an object is moving and in what direction at a single moment. Its magnitude is the instantaneous speed, which is what a speedometer in a car reads. The average speed is a scalar and is found by dividing total distance by total time. It is only equal to the magnitude of average velocity when the motion is in a straight line without changing direction.",
+          "keywords": [
+            {
+              "keyword": "Average velocity",
+              "definition": "The total displacement divided by the total time taken. v_avg = \u0394s / \u0394t."
+            },
+            {
+              "keyword": "Instantaneous velocity",
+              "definition": "The velocity of an object at a specific instant in time."
+            },
+            {
+              "keyword": "Average speed",
+              "definition": "The total distance traveled divided by the total time taken (a scalar quantity)."
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Acceleration",
+          "summary": "Acceleration is the rate of change of velocity. Average acceleration is the change in velocity divided by the time interval. Instantaneous acceleration is the acceleration at a specific instant in time. Acceleration is a vector; it can be positive (speeding up), negative (slowing down, or deceleration), or result from a change in direction.",
+          "notes": "Acceleration occurs whenever an object's velocity changes, which includes speeding up, slowing down, or changing direction. Average acceleration is defined as a_avg = \u0394v / \u0394t = (v - v\u2080)/(t - t\u2080). Its direction is the direction of the change in velocity. If an object speeds up, the acceleration is in the same direction as the velocity. If it slows down, the acceleration is opposite to the velocity (deceleration). Instantaneous acceleration is the acceleration at a given instant and is found by taking the limit of the average acceleration as the time interval approaches zero. For uniformly accelerated motion, average and instantaneous acceleration are equal.",
+          "keywords": [
+            {
+              "keyword": "Acceleration",
+              "definition": "The rate of change of velocity over time."
+            },
+            {
+              "keyword": "Average acceleration",
+              "definition": "The change in velocity divided by the time interval during which that change occurs. a_avg = \u0394v / \u0394t."
+            },
+            {
+              "keyword": "Instantaneous acceleration",
+              "definition": "The acceleration of an object at a specific instant in time."
+            },
+            {
+              "keyword": "Deceleration",
+              "definition": "The reduction in speed of an object; the acceleration is in the opposite direction to the velocity."
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Equations of Motion with Constant Acceleration",
+          "summary": "For uniformly accelerated motion, the equations relate displacement, initial velocity, final velocity, acceleration, and time. These are: v = v\u2080 + at, s = v\u2080t + \u00bd at\u00b2, and v\u00b2 = v\u2080\u00b2 + 2as. For free fall under gravity (neglecting air resistance), 'a' is replaced by 'g' (9.8 m/s\u00b2) and 's' by 'h' (height).",
+          "notes": "When acceleration is constant, a set of kinematic equations can be used to solve motion problems. The key equations are: v = v\u2080 + at (for final velocity), s = v\u2080t + \u00bd at\u00b2 (for displacement), and v\u00b2 = v\u2080\u00b2 + 2as (relation without time). These equations are applicable for motion in a straight line. Free fall is a special case of uniformly accelerated motion where the acceleration is due to gravity (g, approximately 9.8 m/s\u00b2 downward). For free-fall problems, the equations are modified by substituting 'a' with 'g' and 's' with 'h' (vertical height).",
+          "keywords": [
+            {
+              "keyword": "Equations of motion",
+              "definition": "A set of equations that describe the relationship between displacement, velocity, acceleration, and time for uniformly accelerated motion."
+            },
+            {
+              "keyword": "Free fall",
+              "definition": "The motion of an object under the sole influence of gravity, neglecting air resistance."
+            },
+            {
+              "keyword": "Acceleration due to gravity (g)",
+              "definition": "The acceleration experienced by an object in free fall, approximately 9.8 m/s\u00b2 near the Earth's surface."
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Graphical Representation of Uniformly Accelerated Motion",
+          "summary": "For uniformly accelerated motion, position-time graphs are parabolas, velocity-time graphs are straight lines with a slope equal to acceleration, and acceleration-time graphs are horizontal lines. The slope of a position-time graph gives the instantaneous velocity. The slope of a velocity-time graph gives acceleration, and the area under it gives the displacement. The area under an acceleration-time graph gives the change in velocity.",
+          "notes": "Graphs provide a visual way to understand motion. In uniform acceleration, the position-time graph is a parabola (since s is proportional to t\u00b2). The instantaneous velocity at any point is the slope of the tangent to this curve. The velocity-time graph is a straight line, where the slope equals the acceleration and the area under the line equals the displacement. The acceleration-time graph is a horizontal line parallel to the time axis (since acceleration is constant), and the area under it equals the change in velocity.",
+          "keywords": [
+            {
+              "keyword": "Position-time graph",
+              "definition": "A graph with position on the y-axis and time on the x-axis; its slope gives velocity."
+            },
+            {
+              "keyword": "Velocity-time graph",
+              "definition": "A graph with velocity on the y-axis and time on the x-axis; its slope gives acceleration and the area under it gives displacement."
+            },
+            {
+              "keyword": "Acceleration-time graph",
+              "definition": "A graph with acceleration on the y-axis and time on the x-axis; the area under it gives the change in velocity."
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Relative Velocity in One Dimension",
+          "summary": "Relative velocity is the velocity of an object as measured from a particular frame of reference. The relative velocity of A with respect to B is v_AB = v_A - v_B. If objects move in the same direction, the magnitude of relative velocity is the difference in speeds; if they move in opposite directions, it is the sum.",
+          "notes": "All velocities are measured relative to a reference frame. The relative velocity of object A with respect to object B is the rate at which A's position changes from B's perspective. It is calculated by subtracting the velocity vector of B from that of A. In one dimension, if two objects are moving in the same direction, the relative velocity is the difference of their speeds. If they are moving in opposite directions, the relative velocity is the sum of their speeds.",
+          "keywords": [
+            {
+              "keyword": "Relative velocity",
+              "definition": "The velocity of an object with respect to another object or frame of reference. v_AB = v_A - v_B."
+            },
+            {
+              "keyword": "Frame of reference",
+              "definition": "A coordinate system from which an observer measures position and motion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Elasticity and Static Equilibrium of Rigid Body",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "Elasticity and Plasticity",
+          "summary": "Elasticity is the property of a body to regain its original shape and size after the removal of a deforming force. Plasticity is the property of a body to retain its deformed shape permanently after the removal of the deforming force. The elastic limit is the maximum stress a material can withstand before becoming permanently deformed (plastic).",
+          "notes": "A rigid body is an idealization; all real solids can be deformed by force. A body that returns to its original form after a deforming force is removed is called elastic (e.g., a spring, rubber band). A body that stays deformed is plastic (e.g., clay, putty). The property is due to the microscopic structure of the material. The elastic limit is the threshold beyond which an elastic material becomes plastic and does not regain its original shape. Elastic behavior is crucial in many everyday applications, such as in the design of springs, bridges, and other structures.",
+          "keywords": [
+            {
+              "keyword": "Elasticity",
+              "definition": "The property of a body to regain its original shape and size after the removal of a deforming force."
+            },
+            {
+              "keyword": "Plasticity",
+              "definition": "The property of a body to retain its deformed shape permanently after the removal of a deforming force."
+            },
+            {
+              "keyword": "Elastic limit",
+              "definition": "The maximum deforming force up to which a body retains its property of elasticity. Beyond this limit, the body becomes plastic."
+            },
+            {
+              "keyword": "Deforming force",
+              "definition": "A force applied to a body that causes a change in its shape or size."
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Density and Specific Gravity",
+          "summary": "Density (\u03c1) is the mass per unit volume of a substance (\u03c1 = m/V). Specific gravity is the ratio of the density of a substance to the density of a reference substance (usually water at 4\u00b0C). It is a unitless quantity. Density is a characteristic property of a material.",
+          "notes": "Density measures how much mass is contained in a given volume. The SI unit is kg/m\u00b3. Specific gravity is a dimensionless number obtained by dividing the density of a substance by the density of water. It determines whether an object sinks (SG > 1) or floats (SG < 1) in water. The density of water is at a maximum at 4\u00b0C, which is why it is used as a standard. These properties are used to identify substances (e.g., pure gold has a known density) and in various applications like urinalysis and mineral identification.",
+          "keywords": [
+            {
+              "keyword": "Density (\u03c1)",
+              "definition": "The mass of a substance per unit volume. \u03c1 = m/V. Its SI unit is kg/m\u00b3."
+            },
+            {
+              "keyword": "Specific gravity",
+              "definition": "The ratio of the density of a substance to the density of a standard substance (usually water at 4\u00b0C). It is a unitless quantity."
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Stress and Strain",
+          "summary": "Stress is the force per unit area applied to a material (Stress = F/A). Strain is the fractional deformation of a material resulting from stress (e.g., tensile strain = \u0394L/L\u2080). Within the elastic limit, stress is directly proportional to strain (Hooke's Law). The proportionality constant is the elastic modulus.",
+          "notes": "When a force acts on a material, it undergoes deformation. Stress describes the magnitude of the internal forces between particles, defined as the force per unit area. Strain describes the resulting deformation. Different types of stress exist: tensile (stretching), compressive (squeezing), and shear (twisting). Corresponding strains are tensile/linear strain, volumetric strain, and shear strain. Hooke's Law states that, within the elastic limit, the stress is proportional to the strain (Stress = k \u00d7 Strain). The constant 'k' is the modulus of elasticity. A large elastic modulus means the material is stiff and deforms little under stress, while a small modulus indicates it is flexible.",
+          "keywords": [
+            {
+              "keyword": "Stress",
+              "definition": "The force applied per unit area of a material. Stress = F/A. Its SI unit is N/m\u00b2."
+            },
+            {
+              "keyword": "Strain",
+              "definition": "A measure of the fractional deformation of a material resulting from stress. It is a dimensionless number."
+            },
+            {
+              "keyword": "Hooke's Law",
+              "definition": "A law stating that within the elastic limit, stress is directly proportional to strain."
+            },
+            {
+              "keyword": "Tensile stress",
+              "definition": "Stress that causes an object to be stretched or elongated."
+            },
+            {
+              "keyword": "Compressive stress",
+              "definition": "Stress that causes an object to be compressed or shortened."
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "The Young Modulus",
+          "summary": "The Young Modulus (Y) is the elastic modulus for tensile or compressive stress. It is defined as the ratio of tensile stress to tensile strain: Y = (F/A) / (\u0394L/L\u2080). It is a property of the material, indicating its resistance to stretching or compression.",
+          "notes": "The Young Modulus is a specific type of elastic modulus that applies to changes in length. It quantifies the stiffness of a material. A high Young modulus (e.g., steel) indicates that a large force is required to stretch the material by a small amount, meaning the material is very elastic. The formula is Y = (F_\u22a5 / A) / (\u0394L / L\u2080), which can also be written as Y = (mg L\u2080) / (\u03c0 r\u00b2 \u0394L) for a wire of radius r with a mass m hanging from it. The SI unit is N/m\u00b2 (or Pa). It is relevant only for solids because they have a well-defined length and shape.",
+          "keywords": [
+            {
+              "keyword": "Young Modulus (Y)",
+              "definition": "The ratio of tensile stress to tensile strain. It measures a solid's resistance to change in its length. Y = (F/A) / (\u0394L/L\u2080)."
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Static Equilibrium",
+          "summary": "A body is in static equilibrium if it is at rest and the following two conditions are met: (1) The net force acting on it is zero (First Condition, \u03a3F = 0). (2) The net torque (rotational effect) acting on it is zero (Second Condition, \u03a3\u03c4 = 0).",
+          "notes": "Static equilibrium occurs when an object is at rest and remains at rest. Two conditions must be satisfied for this to happen. The first condition of equilibrium is translational: the vector sum of all forces in any direction must be zero (\u03a3F_x = 0, \u03a3F_y = 0). This prevents acceleration. The second condition is rotational: the sum of all torques about any point must be zero (\u03a3\u03c4 = 0). Torque is the tendency of a force to cause rotation, calculated as \u03c4 = F r sin\u03b8, where r is the distance from the pivot point. For the torque equation, clockwise torques are often considered negative and counterclockwise positive. Both conditions are essential; an object can have zero net force but still rotate, or have zero net torque but still accelerate.",
+          "keywords": [
+            {
+              "keyword": "Static equilibrium",
+              "definition": "A state where a body is at rest and the net force and net torque acting on it are both zero."
+            },
+            {
+              "keyword": "First condition of equilibrium",
+              "definition": "The net force acting on a body must be zero: \u03a3F = 0."
+            },
+            {
+              "keyword": "Second condition of equilibrium",
+              "definition": "The net torque acting on a body must be zero: \u03a3\u03c4 = 0."
+            },
+            {
+              "keyword": "Torque (\u03c4)",
+              "definition": "A measure of the force that causes rotation. \u03c4 = F r sin\u03b8, where r is the distance from the pivot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Static and Current Electricity",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "Charges in Nature",
+          "summary": "There are two types of electric charges: positive (protons) and negative (electrons). The SI unit of charge is the Coulomb (C). Charge is quantized (q = ne) and conserved (it can be transferred, not created or destroyed). Neutral objects have an equal number of positive and negative charges.",
+          "notes": "Electric charge is a fundamental property of matter. The smallest unit of charge is the charge of an electron or proton (e = 1.6 \u00d7 10\u207b\u00b9\u2079 C). Charge is quantized, meaning it always exists in integer multiples of 'e'. The law of conservation of charge states that the total electric charge in an isolated system remains constant. When objects are rubbed together, electrons are transferred from one to the other, leaving one with an excess of electrons (negative charge) and the other with a deficit (positive charge).",
+          "keywords": [
+            {
+              "keyword": "Electric charge",
+              "definition": "A fundamental property of matter that comes in two types, positive and negative."
+            },
+            {
+              "keyword": "Coulomb (C)",
+              "definition": "The SI unit of electric charge, defined as the charge carried by 6.25 \u00d7 10\u00b9\u2078 electrons."
+            },
+            {
+              "keyword": "Conservation of charge",
+              "definition": "The principle that the total electric charge in an isolated system is constant; charges can be transferred but not created or destroyed."
+            },
+            {
+              "keyword": "Quantization of charge",
+              "definition": "The principle that electric charge occurs in discrete amounts (integer multiples of the elementary charge, e)."
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "Methods of Charging a Body",
+          "summary": "A body can be charged through three methods: (1) Rubbing/Friction: transferring electrons by contact between two different materials. (2) Conduction: charging a neutral object by direct contact with a charged object. (3) Induction: charging a neutral object without direct contact, by bringing a charged object near it and providing a grounding path.",
+          "notes": "Charging is the process of adding or removing electrons from a body. Rubbing two different materials (like hair and a comb) causes electrons to transfer from one to the other, leaving them with opposite charges. Conduction involves physically touching a charged object to a neutral one, causing the charge to redistribute. The neutral object ends up with the same sign of charge as the charged one. Induction is a three-step process: a charged object is brought near a neutral conductor, the conductor is grounded (allowing electrons to flow in/out), the ground is removed, and finally the charged object is removed. This leaves the conductor with a charge opposite in sign to the inducing charge.",
+          "keywords": [
+            {
+              "keyword": "Charging by rubbing/friction",
+              "definition": "A charging process where two different neutral materials are rubbed together, causing electrons to transfer from one to the other."
+            },
+            {
+              "keyword": "Charging by conduction",
+              "definition": "A charging process where a charged object directly contacts a neutral object, resulting in both having the same sign of charge."
+            },
+            {
+              "keyword": "Charging by induction",
+              "definition": "A charging process where a charged object is brought near a neutral conductor, causing a redistribution of charge without direct contact, often involving grounding."
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The Electroscope",
+          "summary": "An electroscope is a device used to detect the presence and type of electric charge. When a charged object is brought near the electroscope's plate, charges are induced, causing the thin metal leaves to diverge due to like-charge repulsion. The leaves will collapse when the object is removed.",
+          "notes": "An electroscope consists of a metal rod with a plate at the top and thin gold or aluminum leaves at the bottom, housed in a glass container. When a charged object is brought near the plate, it induces opposite charges in the plate and like charges in the leaves, causing them to separate. The degree of separation indicates the amount of charge. If the object touches the plate, the electroscope is charged by conduction and retains the charge. The leaves will remain diverged. The device is used to qualitatively test for charge and its sign.",
+          "keywords": [
+            {
+              "keyword": "Electroscope",
+              "definition": "A device used to detect the presence and sign of an electric charge on a body."
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Electrical Discharge",
+          "summary": "Electrical discharge is the sudden flow of electric charge between two charged regions, neutralizing them. Lightning is a large-scale example of discharge. It occurs when a build-up of charge in a cloud induces an opposite charge on the ground and then the air breaks down, allowing current to flow. Grounding provides a safe path for excess charge to flow into the Earth.",
+          "notes": "Removing excess charge from a body is called discharging. This can happen slowly or quickly as a spark. Lightning is a dramatic natural discharge. In a thunderstorm, negative charge builds up in the bottom of a cloud, inducing positive charge on the ground. When the electric field becomes strong enough, the air ionizes and a current flows between the cloud and the ground. Grounding is a safety technique to provide a low-resistance path to the earth, preventing dangerous build-ups of charge (e.g., lightning rods).",
+          "keywords": [
+            {
+              "keyword": "Electrical discharge",
+              "definition": "The rapid transfer of electric charge from one charged body to another, often accompanied by a spark."
+            },
+            {
+              "keyword": "Lightning",
+              "definition": "A large-scale natural electrical discharge caused by a build-up of charge in a cloud, which is neutralized by a flow of current to the ground or between clouds."
+            },
+            {
+              "keyword": "Grounding",
+              "definition": "The process of providing a safe pathway for excess charge to flow into the Earth, preventing dangerous electrical build-ups."
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Coulomb's Law of Electrostatics",
+          "summary": "Coulomb's Law states that the magnitude of the electric force (F) between two point charges (q\u2081, q\u2082) is directly proportional to the product of the charges and inversely proportional to the square of the distance (r) between them: F = k |q\u2081 q\u2082| / r\u00b2. The force is attractive for opposite charges and repulsive for like charges.",
+          "notes": "This law quantifies the electrostatic force. The constant k is approximately 9.0 \u00d7 10\u2079 N m\u00b2/C\u00b2. The force acts along the line joining the charges. If the charges have opposite signs, the force is attractive; if they have the same sign, the force is repulsive. The law applies to point charges (charges whose size is negligible compared to the distance between them). The permittivity of free space (\u03b5\u2080 = 8.85 \u00d7 10\u207b\u00b9\u00b2 C\u00b2/N m\u00b2) is related to k by k = 1/(4\u03c0\u03b5\u2080).",
+          "keywords": [
+            {
+              "keyword": "Coulomb's Law",
+              "definition": "A law stating that the force between two point charges is proportional to the product of the charges and inversely proportional to the square of the distance between them: F = k |q\u2081 q\u2082| / r\u00b2."
+            },
+            {
+              "keyword": "Electrostatic force",
+              "definition": "The force exerted between electrically charged objects, described by Coulomb's Law."
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "The Electric Field",
+          "summary": "An electric field is a region of space where an electric charge experiences a force. The electric field strength (E) is defined as force per unit charge (E = F/q). Electric field lines are visual representations: they point away from positive charges and toward negative charges, and their density indicates field strength.",
+          "notes": "An electric field exists in the space around a charge distribution. A test charge (a small positive charge) can be used to detect and measure the field. The electric field strength E is a vector, with magnitude E = F/q and direction equal to the force on a positive charge. The field due to a point charge q at a distance r is E = k |q| / r\u00b2. Electric field lines are used to visualize the field. They never cross, originate on positive charges, and terminate on negative charges. The number of lines is proportional to the charge magnitude, and the line density indicates the field strength.",
+          "keywords": [
+            {
+              "keyword": "Electric field",
+              "definition": "A region around a charged object where another electric charge experiences a force."
+            },
+            {
+              "keyword": "Electric field strength (E)",
+              "definition": "The force per unit positive charge at a point in space: E = F/q. Its SI unit is N/C."
+            },
+            {
+              "keyword": "Test charge",
+              "definition": "A small, positive charge used to detect and measure an electric field without significantly disturbing it."
+            },
+            {
+              "keyword": "Electric field lines",
+              "definition": "Imaginary lines used to represent an electric field; they show the direction a positive charge would move."
+            }
+          ]
+        },
+        {
+          "section_number": "4.7",
+          "section_title": "Electric Circuits",
+          "summary": "An electric circuit is a closed path through which electric charge can flow. It typically consists of a source of potential difference (like a battery), a load (like a bulb), and conducting wires. A closed circuit allows current to flow, while an open circuit has a break and prevents flow.",
+          "notes": "For current to flow, there must be a complete, unbroken path. A simple circuit includes a battery (source of electrical energy), a load (like a light bulb that converts electrical energy to light), and wires (conductors). A switch can be used to open or close the circuit. An open circuit has a break in the path, so current cannot flow and the bulb does not light. A closed circuit is a complete, unbroken path. Circuit diagrams use standard symbols to represent components, making it easier to draw and understand circuits.",
+          "keywords": [
+            {
+              "keyword": "Electric circuit",
+              "definition": "A closed path through which electric charges can flow."
+            },
+            {
+              "keyword": "Closed circuit",
+              "definition": "A complete, unbroken path that allows electric current to flow."
+            },
+            {
+              "keyword": "Open circuit",
+              "definition": "A circuit with a break in the path, preventing the flow of current."
+            },
+            {
+              "keyword": "Load",
+              "definition": "Any device in a circuit that dissipates energy, converting electrical energy to other forms (e.g., a light bulb)."
+            }
+          ]
+        },
+        {
+          "section_number": "4.8",
+          "section_title": "Current, Voltage, and Ohm's Law",
+          "summary": "Current (I) is the rate of flow of charge (I = \u0394Q/\u0394t), measured in amperes. Voltage (V) is the potential difference or the work done per unit charge to move it between two points. Resistance (R) is the opposition to current flow. Ohm's Law states that V = IR for a conductor at constant temperature. Resistance is also given by R = \u03c1 (L/A), where \u03c1 is resistivity.",
+          "notes": "Electric current is the flow of charges. The conventional current direction is from positive to negative, although electrons flow from negative to positive. Voltage is the electrical potential energy difference per unit charge. A battery supplies energy by creating this voltage. Resistance is a property of materials that impedes the flow of current. Ohm's Law is a fundamental relationship: V = IR, meaning voltage is directly proportional to current for a constant resistance. A material obeying this law is ohmic. Resistance depends on the material's resistivity (\u03c1), length (L), and cross-sectional area (A): R = \u03c1 (L/A).",
+          "keywords": [
+            {
+              "keyword": "Electric current (I)",
+              "definition": "The rate of flow of electric charge through a point in a circuit. I = \u0394Q / \u0394t, measured in amperes (A)."
+            },
+            {
+              "keyword": "Voltage (V)",
+              "definition": "The electric potential difference between two points; the work done per unit charge to move a charge between them. Measured in volts (V)."
+            },
+            {
+              "keyword": "Resistance (R)",
+              "definition": "A measure of the opposition to the flow of current in a circuit. Measured in ohms (\u03a9)."
+            },
+            {
+              "keyword": "Ohm's Law",
+              "definition": "The relationship between voltage, current, and resistance in a circuit: V = IR, valid for a constant temperature."
+            },
+            {
+              "keyword": "Resistivity (\u03c1)",
+              "definition": "A material property that indicates its ability to resist electric current. It is the resistance per unit length for a given cross-sectional area."
+            },
+            {
+              "keyword": "Ohmic material",
+              "definition": "A material that obeys Ohm's Law, having a constant resistance over a wide range of voltages."
+            }
+          ]
+        },
+        {
+          "section_number": "4.9",
+          "section_title": "Combination of Resistors in a Circuit",
+          "summary": "Resistors can be connected in series or parallel. In a series circuit, the current is the same through all resistors, the total voltage is the sum of the individual voltage drops, and the equivalent resistance is R_eq = R\u2081 + R\u2082 + R\u2083 + ... . In a parallel circuit, the voltage is the same across all resistors, the total current is the sum of individual currents, and the equivalent resistance is given by 1/R_eq = 1/R\u2081 + 1/R\u2082 + 1/R\u2083 + ... .",
+          "notes": "Resistors in a circuit can be arranged to control current and voltage. In series, there is only one path for current, so the same current flows through each component. The voltage from the source is divided among the resistors, with larger resistors dropping more voltage. The equivalent series resistance is simply the sum of the individual resistances. In parallel, each component has its own path to the source, so the voltage across each is the same as the source voltage. The current from the source is divided among the branches, with smaller resistors drawing more current. The reciprocal of the equivalent parallel resistance is the sum of the reciprocals of each resistance. The equivalent resistance in parallel is always less than the smallest individual resistance.",
+          "keywords": [
+            {
+              "keyword": "Series circuit",
+              "definition": "A circuit where components are connected end-to-end, providing a single path for current. The current is the same through each component."
+            },
+            {
+              "keyword": "Parallel circuit",
+              "definition": "A circuit where components are connected across common points, providing multiple paths for current. The voltage is the same across each component."
+            },
+            {
+              "keyword": "Equivalent resistance",
+              "definition": "A single resistance that can replace a combination of resistors in a circuit without changing the overall effect."
+            }
+          ]
+        },
+        {
+          "section_number": "4.10",
+          "section_title": "Voltmeter and Ammeter Connection in a Circuit",
+          "summary": "A voltmeter measures the potential difference across a component and must be connected in parallel with that component. It has a very high resistance to minimize its effect on the circuit. An ammeter measures the current through a component and must be connected in series with it. It has a very low (almost zero) resistance to avoid altering the current.",
+          "notes": "Voltmeters and ammeters are measuring instruments used in circuits. To measure the voltage across a specific component, the voltmeter must be connected in parallel because components in parallel experience the same voltage. A voltmeter has a large internal resistance so it draws very little current, ensuring the circuit's voltage is not affected. An ammeter, on the other hand, measures the current flowing through a branch. It must be connected in series so that all the current in that branch passes through the meter. An ammeter has a very low resistance so it doesn't introduce a significant voltage drop or change the circuit's current. A multimeter can perform both functions.",
+          "keywords": [
+            {
+              "keyword": "Voltmeter",
+              "definition": "A device used to measure potential difference (voltage) across a component. It is connected in parallel."
+            },
+            {
+              "keyword": "Ammeter",
+              "definition": "A device used to measure electric current in a circuit. It is connected in series."
+            },
+            {
+              "keyword": "Multimeter",
+              "definition": "A device that can measure voltage, current, and resistance."
+            }
+          ]
+        },
+        {
+          "section_number": "4.11",
+          "section_title": "Electrical Safety in General and Local Context",
+          "summary": "Electricity can be dangerous. The human body is a conductor, and even small currents (10 mA or more) can be dangerous. Safety measures include using fuses and circuit breakers, grounding devices (three-prong plugs), using GFCI outlets in wet areas, avoiding frayed cords, and keeping away from water when using electrical appliances.",
+          "notes": "Personal safety is paramount when dealing with electricity. The severity of an electric shock depends on the current magnitude, duration, and path through the body. Even currents above 10 mA can cause muscles to contract, preventing you from letting go. Fuses and circuit breakers are safety devices that interrupt the circuit if the current becomes too high, preventing overheating and fire. A third wire in a plug provides a ground path to safely divert dangerous currents to the earth. GFCI outlets are designed to detect small current leaks to ground and shut off power almost instantly, offering protection against shock in areas with water. Simple safety rules include never using appliances with damaged cords and avoiding contact with electrical devices when your hands are wet.",
+          "keywords": [
+            {
+              "keyword": "Fuse",
+              "definition": "A safety device containing a metal wire that melts and breaks the circuit when the current exceeds a safe limit."
+            },
+            {
+              "keyword": "Circuit breaker",
+              "definition": "A reusable safety device that automatically switches off the circuit when the current is too high."
+            },
+            {
+              "keyword": "Ground-fault interrupter (GFCI)",
+              "definition": "A device that protects people from electric shock by sensing small currents leaking to ground and shutting off the power."
+            },
+            {
+              "keyword": "Grounding wire",
+              "definition": "A third wire in a power cord that provides a safe path for electric current to flow into the earth in case of a short circuit."
+            }
+          ]
+        },
+        {
+          "section_number": "4.12",
+          "section_title": "Electric Projects",
+          "summary": "This section provides hands-on guidance for building simple circuits. A series circuit has one path, so a failure in one component breaks the entire circuit, and the voltage is divided among components. A parallel circuit has multiple paths, so a failure in one component doesn't affect the others, and all components receive the full voltage.",
+          "notes": "This section describes practical projects to understand circuit principles. In a series circuit, components are connected end to end, creating a single current path. The current is the same everywhere, and the voltage is divided. If one bulb burns out, the circuit opens, and all bulbs go out. In a parallel circuit, components are connected across the same two points, creating multiple paths. The voltage is the same across each branch, and the current is divided. If one bulb burns out, the others remain lit because they have their own paths. The project instructions guide students through building these circuits and measuring voltage with a multimeter.",
+          "keywords": [
+            {
+              "keyword": "Series circuit",
+              "definition": "A circuit where components are connected in a single path; current is the same through all components."
+            },
+            {
+              "keyword": "Parallel circuit",
+              "definition": "A circuit where components are connected across common points, providing multiple paths for current."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Magnetism",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Magnet",
+          "summary": "A magnet is an object that produces a magnetic field, attracting ferromagnetic materials like iron. All magnets have two poles: a North pole and a South pole. Like poles repel, and unlike poles attract. Magnetic poles always exist in pairs. Permanent magnets retain their magnetism, while temporary magnets lose it easily, and electromagnets become magnetic only when current flows.",
+          "notes": "Magnets have been known for centuries. The fundamental property of a magnet is its ability to attract iron and steel. Every magnet has two poles where the magnetic force is strongest. If a bar magnet is broken in two, each piece becomes a new magnet with its own N and S poles, proving that poles cannot be isolated. Like magnetic poles (N-N, S-S) repel each other, while unlike poles (N-S) attract. Magnets can be classified as permanent (e.g., steel), temporary (e.g., iron), or electromagnets (magnetized by a current in a coil).",
+          "keywords": [
+            {
+              "keyword": "Magnet",
+              "definition": "An object that produces a magnetic field and is capable of attracting or repelling other magnets and materials like iron."
+            },
+            {
+              "keyword": "Magnetic pole",
+              "definition": "One of the two ends of a magnet (North or South) where the magnetic force is strongest."
+            },
+            {
+              "keyword": "Permanent magnet",
+              "definition": "A material, like steel, that retains its magnetic properties after being magnetized."
+            },
+            {
+              "keyword": "Electromagnet",
+              "definition": "A magnet created when a current flows through a coil of wire wrapped around a metal core."
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "Magnetic Field",
+          "summary": "A magnetic field is the region around a magnet where magnetic forces can be detected. Magnetic field lines are used to visualize the field. They form closed loops, point from the North pole to the South pole outside the magnet, and from South to North inside. The field is stronger where lines are closer together.",
+          "notes": "A magnetic field is a vector field. Its direction is the direction a compass needle points. Magnetic field lines are a conceptual tool to show the field's direction and strength. They emerge from the North pole and enter the South pole outside the magnet, forming continuous loops inside the magnet. The field is strongest at the poles, where the lines are densest. Unlike electric field lines, magnetic field lines never start or end; they form closed loops. They also never cross each other. The field of a bar magnet can be mapped using iron filings or a compass.",
+          "keywords": [
+            {
+              "keyword": "Magnetic field",
+              "definition": "A region in space where a magnetic force can be felt by a moving charge or another magnet."
+            },
+            {
+              "keyword": "Magnetic field lines",
+              "definition": "Imaginary lines that represent the direction and strength of a magnetic field. They form closed loops."
+            }
+          ]
+        },
+        {
+          "section_number": "5.3",
+          "section_title": "The Earth's Magnetic Field and the Compass",
+          "summary": "The Earth has a magnetic field similar to a bar magnet, with its magnetic South pole near the geographic North pole. A compass is a magnetized needle that aligns with the Earth's magnetic field, pointing towards magnetic North. The difference between geographic and magnetic poles is called declination.",
+          "notes": "The Earth acts like a giant magnet, with its magnetic field generated by the motion of molten iron in its outer core. The Earth's magnetic poles are not exactly aligned with its geographic poles; they are tilted by about 11.5 degrees. The magnetic pole near the geographic North pole is actually a magnetic South pole, which attracts the North pole of a compass needle. A compass uses a small, freely rotating magnetized needle to indicate the direction of the magnetic field. This principle is vital for navigation. Some animals also use the Earth's magnetic field for orientation.",
+          "keywords": [
+            {
+              "keyword": "Earth's magnetic field",
+              "definition": "The magnetic field generated by the Earth, extending from its interior into space."
+            },
+            {
+              "keyword": "Compass",
+              "definition": "A device with a magnetized needle that aligns with the Earth's magnetic field, used to find direction."
+            }
+          ]
+        },
+        {
+          "section_number": "5.4",
+          "section_title": "Magnetic Field of a Current-Carrying Conductor",
+          "summary": "A current-carrying wire generates a magnetic field in concentric circles around the wire. The field's strength (B) is given by B = \u03bc\u2080 I / (2\u03c0 d), where I is the current and d is the distance from the wire. The direction of the field is determined by the right-hand rule (thumb in direction of current, fingers curl in direction of field).",
+          "notes": "Oersted discovered that electricity and magnetism are related: a moving charge (current) produces a magnetic field. The field around a long, straight wire consists of circular loops centered on the wire. The strength of the field decreases with distance from the wire and is directly proportional to the current. The permeability of free space, \u03bc\u2080 = 4\u03c0 \u00d7 10\u207b\u2077 T m/A, is a constant. The right-hand rule provides the direction of the field: if you point your thumb in the direction of the current, your fingers curl in the direction of the magnetic field. This principle is fundamental to understanding electromagnetism.",
+          "keywords": [
+            {
+              "keyword": "Magnetic field around a wire",
+              "definition": "The magnetic field generated by a current-carrying wire, which forms concentric circles around the wire."
+            },
+            {
+              "keyword": "Right-hand rule (for a wire)",
+              "definition": "A rule to determine the direction of the magnetic field around a current-carrying wire: thumb points in current direction, fingers curl in field direction."
+            },
+            {
+              "keyword": "Permeability of free space (\u03bc\u2080)",
+              "definition": "A fundamental constant that describes the ability of a vacuum to support a magnetic field. \u03bc\u2080 = 4\u03c0 \u00d7 10\u207b\u2077 T m/A."
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Magnetic Force on a Moving Charge Placed in a Uniform Magnetic Field",
+          "summary": "A moving charged particle experiences a magnetic force when it enters a magnetic field. The magnitude of the force is F = qvB sin\u03b8, where \u03b8 is the angle between the velocity and the magnetic field. The force is maximum when v is perpendicular to B (sin\u03b8 = 1) and zero when they are parallel (sin\u03b8 = 0). The direction is given by the right-hand rule for a positive charge.",
+          "notes": "A charged particle must be moving to experience a force in a magnetic field. The force is perpendicular to both the particle's velocity and the magnetic field. The magnitude of the force depends on the charge (q), speed (v), field strength (B), and the sine of the angle between v and B. This force causes the charged particle's path to curve, which is the principle behind particle accelerators and mass spectrometers. The right-hand rule determines the force direction: thumb in direction of v (for positive charges), fingers in direction of B, and palm pushes in the direction of F.",
+          "keywords": [
+            {
+              "keyword": "Magnetic force on a charge",
+              "definition": "The force exerted on a moving electric charge by a magnetic field. F = qvB sin\u03b8."
+            }
+          ]
+        },
+        {
+          "section_number": "5.6",
+          "section_title": "Magnetic Force on a Current-Carrying Wire",
+          "summary": "A current-carrying wire in a magnetic field experiences a force because it contains moving charges. The force magnitude is F = ILB sin\u03b8, where I is the current, L is the wire's length, B is the field, and \u03b8 is the angle between the wire and the field. The direction is given by the right-hand rule.",
+          "notes": "Since a current is a flow of moving charges, a current-carrying wire in a magnetic field will experience a force. This force is the sum of the forces on the individual moving charges. The formula is analogous to the moving charge formula, with qv replaced by IL. The force is perpendicular to both the wire (current direction) and the magnetic field. The right-hand rule for a wire is: fingers in direction of B, thumb in direction of I, palm points in direction of F. This principle is the basis for electric motors.",
+          "keywords": [
+            {
+              "keyword": "Magnetic force on a wire",
+              "definition": "The force experienced by a current-carrying wire placed in a magnetic field. F = ILB sin\u03b8."
+            }
+          ]
+        },
+        {
+          "section_number": "5.7",
+          "section_title": "Magnetic Force Between Two Parallel Current-Carrying Wires",
+          "summary": "Two parallel wires carrying current exert forces on each other. If the currents are in the same direction, the wires attract each other. If the currents are in opposite directions, the wires repel each other. The force is due to the magnetic field produced by one wire acting on the current in the other.",
+          "notes": "This is a direct result of the principles of current-carrying wires creating magnetic fields and being acted upon by external magnetic fields. Wire 1 creates a magnetic field at the location of Wire 2. This field then exerts a force on the moving charges (current) in Wire 2. The direction of this force is determined by the right-hand rules. The analysis shows that parallel currents attract while anti-parallel currents repel. This is a fundamental interaction in electromagnetism and is the basis for the definition of the ampere.",
+          "keywords": [
+            {
+              "keyword": "Force between parallel wires",
+              "definition": "The force between two current-carrying wires; attractive for currents in the same direction and repulsive for currents in opposite directions."
+            }
+          ]
+        },
+        {
+          "section_number": "5.8",
+          "section_title": "Applications of Magnetism",
+          "summary": "Magnetism has a wide range of applications in modern life, including medicine (MRI), data storage (hard drives), electronics (speakers, motors), industry (generators, recycling, mining), and navigation (compasses).",
+          "notes": "The principles of magnetism are exploited in countless technologies. In medicine, MRI scanners use powerful magnetic fields to create detailed images of the body. In computing, hard drives use magnetism to store data. Electric motors and generators rely on the interaction between current and magnetic fields to convert mechanical energy to electrical energy and vice versa. In industry, magnets are used to lift heavy scrap metal, separate ores, and remove metal contaminants. Compasses, one of the oldest applications, remain essential for navigation. The section highlights the practical and essential role of magnetism in everyday life.",
+          "keywords": [
+            {
+              "keyword": "Magnetic Resonance Imaging (MRI)",
+              "definition": "A medical imaging technique that uses powerful magnetic fields and radio waves to produce detailed images of the inside of the body."
+            },
+            {
+              "keyword": "Electric motor",
+              "definition": "A device that converts electrical energy into mechanical energy using the magnetic force on a current-carrying coil."
+            },
+            {
+              "keyword": "Electric generator",
+              "definition": "A device that converts mechanical energy into electrical energy by moving a conductor in a magnetic field."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Electromagnetic Waves and Geometrical Optics",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Electromagnetic (EM) Waves",
+          "summary": "Electromagnetic waves are transverse waves that consist of oscillating electric and magnetic fields. They can travel through a vacuum (empty space) and through matter. EM waves are produced by vibrating charged particles and transfer energy from one place to another.",
+          "notes": "An EM wave is a disturbance in the electric and magnetic fields that propagates through space. Unlike mechanical waves (like sound), EM waves do not require a medium to travel; they can travel through a vacuum. They are transverse waves, meaning the oscillations of the electric and magnetic fields are perpendicular to the direction of wave propagation. The energy carried by these waves is called radiant energy. The Sun is a major source of EM radiation, providing the Earth with infrared (heat), visible (light), and ultraviolet waves, among others.",
+          "keywords": [
+            {
+              "keyword": "Electromagnetic (EM) wave",
+              "definition": "A transverse wave consisting of oscillating electric and magnetic fields that can travel through a vacuum."
+            },
+            {
+              "keyword": "Radiant energy",
+              "definition": "The energy carried by electromagnetic waves."
+            },
+            {
+              "keyword": "Transverse wave",
+              "definition": "A wave where the oscillations of the medium are perpendicular to the direction of wave propagation."
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "EM Spectrum",
+          "summary": "The EM spectrum is the entire range of EM wave frequencies and wavelengths. From lowest frequency/energy to highest, it includes: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. Each type has different properties, uses, and dangers.",
+          "notes": "All EM waves travel at the speed of light in a vacuum but differ in their frequency and wavelength, which determines their energy. Radio waves have the longest wavelengths and lowest energy; they are used for communication. Microwaves are used for cooking and radar. Infrared is felt as heat and used in remote controls. Visible light is the only part we can see. Ultraviolet can cause sunburn but is used for sterilization. X-rays are used for medical imaging. Gamma rays have the highest energy and are used in cancer treatment. Dangers range from heating (infrared) to cancer (UV, X-rays, gamma rays). The ozone layer protects us from much of the Sun's UV radiation.",
+          "keywords": [
+            {
+              "keyword": "Electromagnetic spectrum",
+              "definition": "The complete range of all types of electromagnetic radiation, ordered by frequency or wavelength."
+            },
+            {
+              "keyword": "Frequency",
+              "definition": "The number of wave cycles that pass a point per unit of time, measured in Hertz (Hz)."
+            },
+            {
+              "keyword": "Wavelength",
+              "definition": "The distance between successive crests or troughs of a wave."
+            },
+            {
+              "keyword": "Ozone layer",
+              "definition": "A region of Earth's atmosphere that absorbs most of the Sun's harmful ultraviolet radiation."
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Light as a Wave",
+          "summary": "Light is an electromagnetic wave. In a vacuum, all light travels at the same speed (c), which is approximately 3.00 \u00d7 10\u2078 m/s. Its speed depends on the medium it travels through (slower in denser media). The relationship between speed, wavelength, and frequency is c = \u03bb f. Light propagates in straight lines, and ray diagrams are used to represent its path.",
+          "notes": "Light is a form of energy that travels as a transverse wave. Its constant speed in a vacuum is one of the fundamental constants of physics. When light travels through a material like water or glass, it interacts with atoms and slows down. The general equation for wave speed, v = \u03bb f, applies to light, with v = c in a vacuum. This means that for a given speed, higher-frequency light has a shorter wavelength. Light travels in straight lines from a source. Ray diagrams use straight lines with arrows to show the direction of light, which is essential for understanding how we see objects and how mirrors and lenses work.",
+          "keywords": [
+            {
+              "keyword": "Speed of light (c)",
+              "definition": "The speed at which all electromagnetic waves travel in a vacuum, approximately 3.00 \u00d7 10\u2078 m/s."
+            },
+            {
+              "keyword": "Ray",
+              "definition": "A straight line with an arrowhead that represents the path and direction of a light wave."
+            },
+            {
+              "keyword": "Ray diagram",
+              "definition": "A drawing that uses rays to show the path of light and how images are formed."
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Laws of Reflection & Refraction",
+          "summary": "Reflection: The law of reflection states that the angle of incidence equals the angle of reflection, and the incident ray, reflected ray, and normal all lie in the same plane. Refraction: This is the bending of light when it passes from one medium to another, due to a change in speed. Snell's Law: n\u2081 sin\u03b8\u2081 = n\u2082 sin\u03b8\u2082. Total internal reflection occurs when light travels from a denser to a rarer medium at an angle greater than the critical angle.",
+          "notes": "Reflection and refraction are two key behaviors of light. Reflection occurs at a surface and obeys the law of reflection. Refraction happens as light passes from one transparent medium to another, causing it to change speed and bend. The amount of bending depends on the refractive indices (n) of the materials; a higher n means light travels slower in that medium. Snell's Law quantifies this bending. Total internal reflection is a special case where light is completely reflected back into the denser medium if the incident angle exceeds the critical angle. This principle is used in fiber optics and prisms. A prism also demonstrates dispersion, the splitting of white light into its constituent colors (VIBGYOR) because each color refracts by a different amount.",
+          "keywords": [
+            {
+              "keyword": "Reflection",
+              "definition": "The bouncing back of a light ray from a surface."
+            },
+            {
+              "keyword": "Refraction",
+              "definition": "The bending of light as it passes from one transparent medium to another, caused by a change in its speed."
+            },
+            {
+              "keyword": "Angle of incidence",
+              "definition": "The angle between an incident ray and the normal to the surface at the point of incidence."
+            },
+            {
+              "keyword": "Angle of reflection",
+              "definition": "The angle between a reflected ray and the normal to the surface at the point of reflection."
+            },
+            {
+              "keyword": "Snell's Law",
+              "definition": "A law describing the relationship between the angles of incidence and refraction when light passes between two media: n\u2081 sin\u03b8\u2081 = n\u2082 sin\u03b8\u2082."
+            },
+            {
+              "keyword": "Refractive index (n)",
+              "definition": "A measure of how much a material slows down light compared to its speed in a vacuum. n = c/v."
+            },
+            {
+              "keyword": "Critical angle",
+              "definition": "The angle of incidence that results in an angle of refraction of 90\u00b0. For angles greater than this, total internal reflection occurs."
+            },
+            {
+              "keyword": "Total internal reflection",
+              "definition": "The complete reflection of a light ray back into the medium from which it came when it meets the boundary of a less dense medium at an angle greater than the critical angle."
+            },
+            {
+              "keyword": "Dispersion",
+              "definition": "The splitting of white light into its component colors (a spectrum) when it is refracted, as through a prism."
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Mirrors and Lenses",
+          "summary": "Plane mirrors produce virtual, upright images of the same size and at the same distance behind the mirror as the object is in front. Spherical mirrors (concave and convex) have a focal point and obey the mirror equation: 1/f = 1/u + 1/v. Lenses (convex and concave) refract light. The lens equation is the same: 1/f = 1/u + 1/v. Magnification is m = -v/u. The nature of images formed depends on the type of mirror/lens and the object's position relative to the focus.",
+          "notes": "This section covers image formation by mirrors (reflection) and lenses (refraction). A plane mirror forms a virtual, upright image that is laterally inverted, the same size as the object, and located as far behind the mirror as the object is in front. Spherical mirrors include concave (converging) and convex (diverging) types. Key terms for mirrors include center of curvature (C), radius of curvature (R), principal focus (F), and focal length (f), with R = 2f. The mirror equation relates object distance (u), image distance (v), and focal length (f). Concave mirrors can form real or virtual images depending on object position; convex mirrors always form virtual, diminished images. For lenses, a convex lens is converging, and a concave lens is diverging. The lens equation has the same form as the mirror equation. The nature of the image formed by a convex lens depends on the object's position, while a concave lens always forms a virtual, upright, diminished image. Sign conventions are crucial for calculations.",
+          "keywords": [
+            {
+              "keyword": "Plane mirror",
+              "definition": "A flat reflective surface that produces a virtual, upright, and same-size image located behind the mirror."
+            },
+            {
+              "keyword": "Concave mirror",
+              "definition": "A spherical mirror with a reflective surface curved inward (like the inside of a bowl), causing light to converge."
+            },
+            {
+              "keyword": "Convex mirror",
+              "definition": "A spherical mirror with a reflective surface curved outward (like the back of a spoon), causing light to diverge."
+            },
+            {
+              "keyword": "Principal focus (F)",
+              "definition": "The point on the principal axis where parallel light rays converge after reflection (concave mirror) or appear to diverge from (convex mirror)."
+            },
+            {
+              "keyword": "Focal length (f)",
+              "definition": "The distance between the pole of a mirror or optical center of a lens and its principal focus."
+            },
+            {
+              "keyword": "Mirror equation",
+              "definition": "A formula relating the object distance (u), image distance (v), and focal length (f) for spherical mirrors: 1/f = 1/u + 1/v."
+            },
+            {
+              "keyword": "Convex lens (Converging lens)",
+              "definition": "A lens that is thicker in the middle than at the edges, causing parallel light rays to converge to a focal point."
+            },
+            {
+              "keyword": "Concave lens (Diverging lens)",
+              "definition": "A lens that is thinner in the middle than at the edges, causing parallel light rays to diverge."
+            },
+            {
+              "keyword": "Lens equation",
+              "definition": "A formula relating the object distance (u), image distance (v), and focal length (f) for lenses: 1/f = 1/u + 1/v."
+            },
+            {
+              "keyword": "Magnification (m)",
+              "definition": "The ratio of the image height to the object height, also equal to -v/u. A positive m indicates an upright image, and a negative m indicates an inverted image."
+            },
+            {
+              "keyword": "Virtual image",
+              "definition": "An image formed by diverging rays that only appear to originate from a point; it cannot be projected on a screen."
+            },
+            {
+              "keyword": "Real image",
+              "definition": "An image formed by converging rays that can be projected on a screen."
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Human Eye and Optical Instruments",
+          "summary": "The human eye forms an image on the retina using a lens system. Its ability to adjust focal length for different distances is called accommodation. Defects include myopia (near-sightedness, corrected with concave lenses), hypermetropia (far-sightedness, corrected with convex lenses), and presbyopia (age-related, corrected with bifocals). Optical instruments like magnifying glasses, compound microscopes, and telescopes use lenses (and mirrors) to magnify objects.",
+          "notes": "The human eye is like a camera: light enters through the cornea, passes through the lens (which focuses it), and forms an image on the retina. The ciliary muscles adjust the lens's shape to focus on near or far objects (accommodation). The near point (usually 25 cm) and far point (infinity) define the range of clear vision. Myopia (short-sightedness) is corrected with diverging (concave) lenses. Hypermetropia (long-sightedness) is corrected with converging (convex) lenses. Presbyopia is age-related loss of accommodation, often corrected with bifocal lenses. Magnifying glasses use a convex lens to create a magnified virtual image. Compound microscopes use an objective lens to form an enlarged real image, which is further magnified by an eyepiece. Refracting telescopes use an objective lens to gather light from distant objects and an eyepiece to magnify it. Reflecting telescopes use a large concave mirror to gather light.",
+          "keywords": [
+            {
+              "keyword": "Accommodation (eye)",
+              "definition": "The ability of the eye's lens to change its shape and focal length to focus on objects at different distances."
+            },
+            {
+              "keyword": "Myopia (Near-sightedness)",
+              "definition": "A vision defect where the eye focuses images in front of the retina, making distant objects appear blurry. Corrected by a concave lens."
+            },
+            {
+              "keyword": "Hypermetropia (Far-sightedness)",
+              "definition": "A vision defect where the eye focuses images behind the retina, making near objects appear blurry. Corrected by a convex lens."
+            },
+            {
+              "keyword": "Presbyopia",
+              "definition": "An age-related vision defect where the lens loses its flexibility, making it difficult to focus on close objects."
+            },
+            {
+              "keyword": "Compound microscope",
+              "definition": "An optical instrument that uses two convex lenses (objective and eyepiece) to magnify small objects."
+            },
+            {
+              "keyword": "Refracting telescope",
+              "definition": "An optical instrument that uses a large objective lens and an eyepiece to view distant objects."
+            },
+            {
+              "keyword": "Reflecting telescope",
+              "definition": "An optical instrument that uses a large concave mirror to gather and focus light from distant objects."
+            }
+          ]
+        },
+        {
+          "section_number": "6.7",
+          "section_title": "Primary Colors of Light and Human Vision",
+          "summary": "The retina of the human eye contains two types of photoreceptors: rods (for light intensity) and cones (for color). There are three types of cones, sensitive to red, green, and blue light. These are the primary colors of light. The brain combines signals from all three to produce the perception of the full color spectrum.",
+          "notes": "Human color vision is based on the principle that there are three types of color-sensitive cells (cones) in the retina. Each type is most sensitive to one of the three primary colors of light: red, green, and blue (RGB). When light of a specific wavelength enters the eye, it stimulates these cones to different degrees. The brain interprets the pattern of stimulation from the three cone types as a specific color. This is called additive color vision, as all colors are a combination of these three primary wavelengths. The primary colors are fundamental to human vision, not an inherent property of the light itself.",
+          "keywords": [
+            {
+              "keyword": "Primary colors (of light)",
+              "definition": "The three colors of light (red, green, and blue) that can be combined in various proportions to produce all other colors of the visible spectrum."
+            },
+            {
+              "keyword": "Rods",
+              "definition": "Photoreceptor cells in the retina that are sensitive to low light levels and are responsible for black-and-white vision."
+            },
+            {
+              "keyword": "Cones",
+              "definition": "Photoreceptor cells in the retina that are sensitive to color and are responsible for high-acuity vision."
+            }
+          ]
+        },
+        {
+          "section_number": "6.8",
+          "section_title": "Color Addition of Light",
+          "summary": "The additive color model describes how the primary colors of light (red, green, and blue) can be combined to create other colors. Combining two primary colors creates a secondary color: red + green = yellow, red + blue = magenta, blue + green = cyan. Adding all three primary colors equally produces white light.",
+          "notes": "Color addition is the process of creating new colors by overlapping different colored lights. The primary colors are red, green, and blue. When two primary colors are mixed in equal intensity, they produce a secondary color: cyan, magenta, or yellow. For example, a projector projecting red and green light on a screen creates yellow light. If red, green, and blue light are all projected together in equal amounts, the result is white light. This model is used in electronic displays such as televisions, computer monitors, and digital projectors.",
+          "keywords": [
+            {
+              "keyword": "Additive color system",
+              "definition": "A model where colors are created by combining different amounts of red, green, and blue light."
+            },
+            {
+              "keyword": "Secondary colors (of light)",
+              "definition": "Colors created by adding two primary colors of light: yellow, magenta, and cyan."
+            }
+          ]
+        },
+        {
+          "section_number": "6.9",
+          "section_title": "Color Subtraction of Light Using Filters",
+          "summary": "Color subtraction occurs when pigments or filters absorb (subtract) certain colors from white light and transmit or reflect others. The primary subtractive colors are cyan, magenta, and yellow. Each absorbs one primary color of light: cyan absorbs red, magenta absorbs green, and yellow absorbs blue.",
+          "notes": "Subtractive color mixing describes how pigments (like paints or dyes) or color filters create colors. A pigment absorbs some wavelengths of light and reflects others; its color is the wavelengths it reflects. A filter absorbs some colors and transmits others. The primary subtractive colors are cyan, magenta, and yellow. A cyan pigment absorbs red light and reflects green and blue; a magenta pigment absorbs green light; a yellow pigment absorbs blue light. The subtractive primaries are the complements of the additive primaries. When all three subtractive primary colors are mixed, they absorb all light, producing black.",
+          "keywords": [
+            {
+              "keyword": "Subtractive color system",
+              "definition": "A model where colors are created by absorbing (subtracting) certain wavelengths of light from white light using pigments or filters."
+            },
+            {
+              "keyword": "Primary subtractive colors",
+              "definition": "Cyan, magenta, and yellow; the pigments that absorb one primary color of light each."
+            },
+            {
+              "keyword": "Filter",
+              "definition": "A material that transmits only certain colors of light while absorbing the others."
+            },
+            {
+              "keyword": "Pigment",
+              "definition": "A substance that gives color to objects by absorbing certain wavelengths of light and reflecting others."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

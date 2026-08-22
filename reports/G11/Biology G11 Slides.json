@@ -1,0 +1,3822 @@
+{
+  "subject": "Biology",
+  "grade": 11,
+  "presentation_slides": [
+    {
+      "unit_number": 1,
+      "unit_title": "Biology and Technology",
+      "sections": [
+        {
+          "section_number": "1.1",
+          "section_title": "Learning from Nature",
+          "slides": [
+            {
+              "slide_number": 1,
+              "slide_title": "Learning from Nature",
+              "content": [
+                "Nature is the physical, natural, and material world of life that exists without human intervention",
+                "Includes landscapes, water and forest ecosystems, weather, organisms, geology, and inanimate objects",
+                "Organisms have well-adapted structures that allow them to survive in their immediate environment",
+                "Scientists and engineers learn from nature through imitation of physical structures, shapes, materials, and functional mechanisms"
+              ]
+            },
+            {
+              "slide_number": 2,
+              "slide_title": "What is Imitation?",
+              "content": [
+                "Imitation is the process of copying or mimicking biological structures and mechanisms",
+                "Scientists sketch biological structures and design functional mechanisms",
+                "They tune these into more efficient technologies at macro (large) and nano (very small) scales",
+                "The better the understanding of diverse biological materials, the better the ability to develop technologies"
+              ]
+            },
+            {
+              "slide_number": 3,
+              "slide_title": "Nature-Inspired Technologies and Architectures",
+              "content": [
+                "Nature serves as a reliable source of knowledge, ideas, and concepts for technology development",
+                "Swallow nests have inspired house building design",
+                "Weaving technologies developed by studying spider webs",
+                "Termite mound architecture inspired building designs with natural climate control"
+              ]
+            },
+            {
+              "slide_number": 4,
+              "slide_title": "Example: East Gate Center, Harare",
+              "content": [
+                "Building designed by imitating termite mound architecture",
+                "Termite mounds have chimneys that maintain constant temperature and humidity",
+                "The building mimics these natural ventilation and cooling systems",
+                "Demonstrates how biomimicry can create energy-efficient structures"
+              ]
+            },
+            {
+              "slide_number": 5,
+              "slide_title": "More Nature-Inspired Technologies",
+              "content": [
+                "Aircraft wings designed by imitating birds and bats",
+                "Photograph camera technology imitated from human eyes",
+                "Bio-robots designed from kangaroo movement",
+                "Injection needle technology copied from mosquito proboscis",
+                "Cutting saw imitated from sharp teeth of animals",
+                "Synthetic bulletproof vests imitate spider silk"
+              ]
+            },
+            {
+              "slide_number": 6,
+              "slide_title": "Biomimicry Examples",
+              "content": [
+                "Ceramics imitate crack-resistant shellfish exoskeleton",
+                "Robotic arms are imitated from elephant trunk",
+                "Sensors in electrical devices imitate biological neurons",
+                "These technologies show how nature provides solutions to human problems",
+                "Biomimicry is a growing field in engineering and design"
+              ]
+            },
+            {
+              "slide_number": 7,
+              "slide_title": "Lab Activity 1.1: Construct a Human Hand Model",
+              "content": [
+                "Objective: Construct a model of a human hand to imitate nature",
+                "Materials: Locally available resources",
+                "Procedure: Construct a human hand model with jointed finger structures and paint with pertinent color",
+                "Assessment questions: How closely does your model hand match a natural human hand? What is missing? What other technologies could be developed?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.2",
+          "section_title": "Biology and Technology",
+          "slides": [
+            {
+              "slide_number": 8,
+              "slide_title": "Biology and Technology",
+              "content": [
+                "Biology is the study of life: structures, functions, growth, origins, evolution, and distribution of living organisms",
+                "Technology is the application of scientific knowledge, skills, methods, and processes for production of devices and tools",
+                "The blend of biology and technology forms BIOTECHNOLOGY"
+              ]
+            },
+            {
+              "slide_number": 9,
+              "slide_title": "What is Biotechnology?",
+              "content": [
+                "Biotechnology is technology that utilizes biological systems to develop useful products",
+                "Integration of natural and engineering sciences to achieve application of organisms, cells, and molecular analogues for products and services",
+                "Examples: using yeasts to produce bread and beer",
+                "Benefits include medicinal plants, gene engineering, and biosynthetic materials"
+              ]
+            },
+            {
+              "slide_number": 10,
+              "slide_title": "Benefits of Biology to Technology",
+              "content": [
+                "Medicinal plants: biochemical substances used to develop medicines, artificial versions created through imitation",
+                "Gene engineering: imitating nature of human, animal, and plant genes to modify and improve organisms",
+                "Building design: termite mound architecture used to design buildings with constant temperature and humidity",
+                "Bullet train design: noses designed by imitating kingfisher beaks when diving into water"
+              ]
+            },
+            {
+              "slide_number": 11,
+              "slide_title": "Uses of Technology in Biology",
+              "content": [
+                "Biochemical studies: investigate carbohydrates, proteins, lipids, and nucleic acids",
+                "Biomedical studies: provide detailed information on chemical components of medicinal plants",
+                "Biophysical studies: use physical devices to gather biological information",
+                "Environmental studies: multidisciplinary system dealing with human-environment interactions"
+              ]
+            },
+            {
+              "slide_number": 12,
+              "slide_title": "Technological Devices in Biology",
+              "content": [
+                "Digital thermometer: measures body temperature",
+                "Pregnancy urine test: detects HCG hormone to confirm pregnancy",
+                "Diabetic blood test: measures blood sugar levels from finger tip sample",
+                "HIV test: detects infection with the virus",
+                "Computer Information Technology Scanning (CITS): investigates disease or cancerous areas"
+              ]
+            },
+            {
+              "slide_number": 13,
+              "slide_title": "Advanced Imaging and Data Technologies",
+              "content": [
+                "CT Scan (Computed Tomography Scan): sophisticated X-ray technology for detecting diseases",
+                "PET Scan (Positron Emission Tomography): imaging technology to check for diseases and cancer",
+                "GPS (Geographical Position System): collects biogeographical information on landscape, plants, animals, and human movements",
+                "Handheld Body Fat Calculator: measures body fat percentage"
+              ]
+            },
+            {
+              "slide_number": 14,
+              "slide_title": "Lab Activity 1.3: Uses of Technological Tools",
+              "content": [
+                "Objective: Practice using technological tools in learning biology",
+                "Materials: Thermometer",
+                "Procedure: Measure body temperatures of 10 students, record in table, make a graph showing highest and lowest temperature",
+                "Visit nearby health center to discuss uses of pregnancy tests, diabetic tests, and HIV tests"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.3",
+          "section_title": "Impacts of Biology and Technology on Society and the Natural World",
+          "slides": [
+            {
+              "slide_number": 15,
+              "slide_title": "Impacts of Biology on Society and Nature",
+              "content": [
+                "The impact of biology refers to effects arising from advancement of biological knowledge and innovations",
+                "Positive impacts include: ensuring food security through increased productivity, improved health and longevity through medicine, better supply of energy and clean water, increased industrial production through microbial action, and antibiotics to treat bacterial infections"
+              ]
+            },
+            {
+              "slide_number": 16,
+              "slide_title": "Negative Impacts of Biology",
+              "content": [
+                "Biological weapon production and use destroy the natural world",
+                "Predetermining child sex (selecting only XY males) leads to loss of females in society",
+                "Technological devices made from biological materials can influence and control society negatively",
+                "The misuse of biological information can have harmful effects on both society and the environment"
+              ]
+            },
+            {
+              "slide_number": 17,
+              "slide_title": "Impacts of Technology on Society and Nature",
+              "content": [
+                "Technology is part of everyone's life and has solved many societal problems",
+                "Industrialization and technological advancements have resulted in misuse and destruction of the environment",
+                "Technologies have damaged our world through: POLLUTION and DEPLETION OF NATURAL RESOURCES"
+              ]
+            },
+            {
+              "slide_number": 18,
+              "slide_title": "Examples of Negative Technology Impacts",
+              "content": [
+                "Industrial emissions and effluents pollute clean air and drinking water",
+                "Biochemical agents, pesticides, and fertilizers cause toxicity and biohazards",
+                "Resource depletion due to overconsumption and inefficient use",
+                "These impacts affect human health, biodiversity, and ecosystem function"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "1.4",
+          "section_title": "Ethical Issues in Biology",
+          "slides": [
+            {
+              "slide_number": 19,
+              "slide_title": "Ethical Issues in Biology",
+              "content": [
+                "Ethical issues concern the rightness or wrongness of using biological discoveries for health and wellbeing",
+                "Deals with concerns related to biotechnology, medicine, and the environment",
+                "Includes questions about the use of biotechnological information, products, or devices on human health",
+                "Also includes commercialization of human organs, assisted reproduction techniques, and manipulation of biological systems"
+              ]
+            },
+            {
+              "slide_number": 20,
+              "slide_title": "Ethical Treatment of Plants",
+              "content": [
+                "Plants are primary producers and feeders for all living organisms",
+                "Unethical treatment includes: destructive testing of seeds, cutting tree terminals, overconsumption without conservation, deforestation, burning forests, and restructuring trees for aesthetics",
+                "Care for plants is an ethical treatment and important for saving endangered species",
+                "It is ethical to plant trees and is a national responsibility"
+              ]
+            },
+            {
+              "slide_number": 21,
+              "slide_title": "Ethical Treatment of Animals",
+              "content": [
+                "Animals are sentient creatures with nervous systems, capable of feeling pain, stress, and having interests",
+                "It is unethical to harm animals during experiments or rigorous testing",
+                "Researchers must reduce impacts through the THREE R's PRINCIPLES: Reduction, Refinement, and Replacement"
+              ]
+            },
+            {
+              "slide_number": 22,
+              "slide_title": "The Three R's Principles",
+              "content": [
+                "Reduction: Minimize the number of animals used in experiments by improving techniques and sharing information",
+                "Refinement: Cleanse experiments to reduce animal suffering using less invasive techniques, better medical care, and better living conditions",
+                "Replacement: Substitute animal experiments with alternative techniques using cell cultures, biosynthesis, and computer simulated models"
+              ]
+            },
+            {
+              "slide_number": 23,
+              "slide_title": "Inquiry Activity 1.5-1.6",
+              "content": [
+                "Activity 1.5: Invite a forester to discuss unethical treatment of plants and importance of planting trees",
+                "Activity 1.6: Invite a zoologist to discuss conservation of animals as sentient creatures, reduction of suffering, and ecosystem balance",
+                "Goal: Understand the importance of ethical treatment of all living organisms"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Animals",
+      "sections": [
+        {
+          "section_number": "2.1",
+          "section_title": "Characteristics of Animals",
+          "slides": [
+            {
+              "slide_number": 24,
+              "slide_title": "Common Characteristics of Animals",
+              "content": [
+                "Animals are eukaryotic (cells contain a nucleus)",
+                "Animals are multicellular (composed of many cells)",
+                "Animals are heterotrophic (obtain food by consuming other organisms)",
+                "Animals are sensitive to stimuli and respond to their environment",
+                "Animals reproduce, protect themselves, move, respire, excrete, and grow"
+              ]
+            },
+            {
+              "slide_number": 25,
+              "slide_title": "Animal Body Symmetry",
+              "content": [
+                "Animals exhibit different types of body symmetry",
+                "Radial symmetry: body parts arranged around a central axis (e.g., starfish)",
+                "Bilateral symmetry: left and right sides are mirror images (e.g., humans)",
+                "Asymmetry: no symmetry (e.g., sponges)"
+              ]
+            },
+            {
+              "slide_number": 26,
+              "slide_title": "Classification of Animals",
+              "content": [
+                "Animals are categorized into two major groups based on presence or absence of a backbone",
+                "VERTEBRATES: Animals with a backbone (mammals, birds, reptiles, amphibians, fish)",
+                "INVERTEBRATES: Animals without a backbone (sponges, worms, insects, crustaceans, mollusks)"
+              ]
+            },
+            {
+              "slide_number": 27,
+              "slide_title": "Further Classification of Vertebrates",
+              "content": [
+                "Homeothermic (warm-blooded): can maintain constant body temperature (mammals and birds)",
+                "Poikilothermic (cold-blooded): body temperature varies with environment (fish, reptiles, amphibians)"
+              ]
+            },
+            {
+              "slide_number": 28,
+              "slide_title": "Invertebrate Phyla",
+              "content": [
+                "Porifera (sponges)",
+                "Cnidaria (jellyfish, corals)",
+                "Platyhelminthes (flatworms)",
+                "Annelida (segmented worms)",
+                "Mollusca (snails, clams, octopus)",
+                "Arthropoda (insects, spiders, crustaceans)",
+                "Echinodermata (starfish, sea urchins)"
+              ]
+            },
+            {
+              "slide_number": 29,
+              "slide_title": "Inquiry Activity 2.1",
+              "content": [
+                "Study characteristics of animals in your environment",
+                "Identify domestic and wild animals in your area",
+                "Discuss common characteristics: eukaryotic, respiration, protection, body symmetry, excretion, reproduction, multicellularity, sensitivity, motility, nutrition, growth",
+                "Share experiences with classmates"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.2",
+          "section_title": "Invertebrates and Vertebrates",
+          "slides": [
+            {
+              "slide_number": 30,
+              "slide_title": "Invertebrate Animals",
+              "content": [
+                "Animals that do not have a backbone or vertebral column",
+                "Most diverse group of animals in the world",
+                "Found almost everywhere: from hottest deserts to deepest seabeds",
+                "Lack a rigid internal skeletal system",
+                "Many have an external skeleton called an exoskeleton (made of chitin)",
+                "Are cold-blooded (do not regulate body temperature)"
+              ]
+            },
+            {
+              "slide_number": 31,
+              "slide_title": "Examples of Invertebrates",
+              "content": [
+                "Earthworms",
+                "Insects (beetles, butterflies, bees)",
+                "Spiders",
+                "Snails",
+                "Sponges",
+                "Jellyfish",
+                "Lobsters and crabs",
+                "Starfish and squid"
+              ]
+            },
+            {
+              "slide_number": 32,
+              "slide_title": "Vertebrate Animals",
+              "content": [
+                "Most advanced groups in the animal kingdom",
+                "Possess well-defined internal skeleton with cartilage and backbone",
+                "Axial skeleton: skull, vertebrae, ribs, and sternum",
+                "Appendicular skeleton: girdles and appendages (limbs)",
+                "Skull and vertebrae protect the brain and nerve cord"
+              ]
+            },
+            {
+              "slide_number": 33,
+              "slide_title": "Characteristics of Vertebrates",
+              "content": [
+                "More complex and specialized organ systems",
+                "Closed circulatory system with ventral heart (2-4 chambers)",
+                "Respiratory system consists of gills or lungs",
+                "Centralized nervous system with a brain and sensory organs (eyes, ears, nostrils)",
+                "Excretory system consists of paired kidneys",
+                "Bilaterally symmetrical"
+              ]
+            },
+            {
+              "slide_number": 34,
+              "slide_title": "Groups of Vertebrates",
+              "content": [
+                "Mammals (warm-blooded)",
+                "Birds (warm-blooded)",
+                "Fish (cold-blooded)",
+                "Reptiles (cold-blooded)",
+                "Amphibians (cold-blooded)",
+                "All vertebrates are chordates, but not all chordates are vertebrates"
+              ]
+            },
+            {
+              "slide_number": 35,
+              "slide_title": "Inquiry Activities 2.3-2.4",
+              "content": [
+                "Activity 2.3: Observe surroundings and identify vertebrate animals. Discuss common or unique characteristics other than the backbone.",
+                "Activity 2.4: Compare and contrast vertebrates and invertebrates using features such as backbone, exoskeleton, body symmetry, circulatory system, nervous system, mode of nutrition, and reproduction with examples using a table."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3",
+          "section_title": "Reproduction in Animals",
+          "slides": [
+            {
+              "slide_number": 36,
+              "slide_title": "Asexual Reproduction in Animals",
+              "content": [
+                "Involves a single individual and does not require fusion of gametes",
+                "More common in invertebrates than vertebrates",
+                "Budding: new individual grows from a parent (e.g., hydra)",
+                "Fragmentation: parent breaks into pieces, each piece grows into new individual (e.g., starfish)",
+                "Parthenogenesis: unfertilized eggs develop into new offspring (e.g., some insects, vertebrates)"
+              ]
+            },
+            {
+              "slide_number": 37,
+              "slide_title": "Sexual Reproduction in Animals",
+              "content": [
+                "Involves two individual parents and requires fusion of gametes from male and female",
+                "Produces offspring with genetic material from both parents",
+                "Parents are diploid organisms (2n) with complete set of chromosomes",
+                "Males produce haploid sperm in testes; females produce haploid eggs (ova) in ovaries"
+              ]
+            },
+            {
+              "slide_number": 38,
+              "slide_title": "Types of Fertilization",
+              "content": [
+                "EXTERNAL FERTILIZATION: Eggs are released into the aqueous environment and sperm fertilizes them outside the body (e.g., frogs, fish)",
+                "INTERNAL FERTILIZATION: Eggs are fertilized inside the female's body (e.g., mammals, birds, reptiles)",
+                "Fertilization of egg by sperm produces a diploid zygote (2n)"
+              ]
+            },
+            {
+              "slide_number": 39,
+              "slide_title": "Embryonic Development Stages",
+              "content": [
+                "Cleavage: series of mitotic cell divisions of the fertilized egg (zygote)",
+                "Eight-celled structure is formed, then a hollow structure called blastula",
+                "Gastrulation: further cell division and rearrangement, producing a gastrula with different germ layers",
+                "Organogenesis: formation of organs during embryonic development from germ layers",
+                "Embryo eventually develops into an adult with all tissues, organs, and organ systems"
+              ]
+            },
+            {
+              "slide_number": 40,
+              "slide_title": "Inquiry Activity 2.5-2.6",
+              "content": [
+                "Activity 2.5: Discuss forms of asexual reproduction: budding, fragmentation, parthenogenesis with specific examples. Identify common features in these forms.",
+                "Activity 2.6: Compare and contrast asexual and sexual reproduction. Compare internal and external fertilization. Define zygote, cleavage, blastula, and gastrula."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.3",
+          "section_title": "Reproduction in Insects",
+          "slides": [
+            {
+              "slide_number": 41,
+              "slide_title": "Reproduction in Insects",
+              "content": [
+                "Insects are the largest class of phylum Arthropoda",
+                "They have segmented bodies, jointed legs, and exoskeletons",
+                "Examples: flies, grasshoppers, lice, butterflies, bees, beetles",
+                "Undergo sexual reproduction with internal fertilization in most cases",
+                "Some insects undergo parthenogenesis (development from unfertilized eggs)"
+              ]
+            },
+            {
+              "slide_number": 42,
+              "slide_title": "Metamorphosis in Insects",
+              "content": [
+                "Series of major changes in body structure as insects develop",
+                "Controlled by chemical substances in the insects",
+                "Two types of metamorphosis: COMPLETE and INCOMPLETE"
+              ]
+            },
+            {
+              "slide_number": 43,
+              "slide_title": "Complete Metamorphosis",
+              "content": [
+                "Has FOUR stages: Egg → Larva → Pupa → Adult",
+                "Example: Honeybee, butterfly, beetle",
+                "Larva looks very different from the adult (e.g., caterpillar)",
+                "Pupa is a resting, inactive stage where transformation occurs",
+                "Adult emerges from the pupa"
+              ]
+            },
+            {
+              "slide_number": 44,
+              "slide_title": "Incomplete Metamorphosis",
+              "content": [
+                "Has THREE stages: Egg → Nymph → Adult",
+                "Example: Grasshopper, cockroach, cricket",
+                "Nymph resembles a small adult but lacks wings and reproductive organs",
+                "Nymph molts several times, growing larger and developing adult features"
+              ]
+            },
+            {
+              "slide_number": 45,
+              "slide_title": "Inquiry Activity 2.8",
+              "content": [
+                "Examine reproductive structures and functions of grasshopper",
+                "Define each stage of metamorphosis",
+                "Identify similarities and differences between the two types of metamorphosis",
+                "Investigate which chemical substance controls metamorphosis and how",
+                "Use a table to compare and contrast incomplete and complete metamorphosis"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.4",
+          "section_title": "Reproduction in Frog",
+          "slides": [
+            {
+              "slide_number": 46,
+              "slide_title": "Reproduction in Frogs",
+              "content": [
+                "Frogs undergo sexual reproduction with male and female reproductive structures",
+                "Common frog species include: Rana temoraria, Ptychadena goulenger, P. harenna, Leptopelis ragazzi",
+                "They do not produce amniotic eggs",
+                "Eggs are covered in jelly-like substance to protect them from drying out",
+                "Must lay eggs in water to prevent desiccation"
+              ]
+            },
+            {
+              "slide_number": 47,
+              "slide_title": "Fertilization in Frogs",
+              "content": [
+                "External fertilization is most common",
+                "Female releases eggs from her body into water",
+                "Male releases sperm to fertilize eggs",
+                "Internal fertilization occurs in a few species",
+                "Lay a large number of eggs in the same place at the same time"
+              ]
+            },
+            {
+              "slide_number": 48,
+              "slide_title": "Life Cycle of a Frog",
+              "content": [
+                "Eggs develop into a larval stage called TADPOLE",
+                "Tadpole is very different from the adult form",
+                "Metamorphosis: tadpole transforms into adult frog",
+                "Changes include: developing legs, losing tail, developing lungs",
+                "Metamorphosis is controlled by hormones"
+              ]
+            },
+            {
+              "slide_number": 49,
+              "slide_title": "Inquiry Activity 2.10-2.11",
+              "content": [
+                "Activity 2.10: Investigate disadvantages of external fertilization in frogs and how they overcome this disadvantage. What is the advantage of laying a large number of eggs?",
+                "Activity 2.11: Investigate metamorphosis in frog. How does it occur? What controls the process? What is the difference between a tadpole and an adult frog?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.5",
+          "section_title": "Reproduction in Crocodiles",
+          "slides": [
+            {
+              "slide_number": 50,
+              "slide_title": "Reproduction in Crocodiles",
+              "content": [
+                "Large semi-aquatic reptiles",
+                "Reproduce sexually involving both male and female parents",
+                "Internal fertilization",
+                "Mating season usually begins in July or August",
+                "Mating takes place under water"
+              ]
+            },
+            {
+              "slide_number": 51,
+              "slide_title": "Eggs and Development",
+              "content": [
+                "Lay eggs and bury them in sand or deposit in mound vegetation",
+                "Number of eggs varies from 10 to 100 depending on species",
+                "Hard, leathery eggs protect the young",
+                "This is an advancement over frogs' jelly-covered eggs",
+                "The leathery shell prevents desiccation and allows development on land"
+              ]
+            },
+            {
+              "slide_number": 52,
+              "slide_title": "Inquiry Activity 2.12-2.13",
+              "content": [
+                "Activity 2.12: Examine male and female reproductive structures of crocodiles. Search for functions of each structure.",
+                "Activity 2.13: Do you think all crocodile eggs will hatch and survive? Why? What advancements or adaptations do crocodiles' reproductive systems have over frogs?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.6",
+          "section_title": "Reproduction in Birds",
+          "slides": [
+            {
+              "slide_number": 53,
+              "slide_title": "Reproduction in Birds",
+              "content": [
+                "Reproduce sexually with internal fertilization",
+                "Most bird species are monogamous (single male and female for breeding season)",
+                "Some are polygamous (multiple partners during breeding season)",
+                "Male birds do not have external genital organs",
+                "Females have a single ovary"
+              ]
+            },
+            {
+              "slide_number": 54,
+              "slide_title": "Female Reproductive System of Birds",
+              "content": [
+                "Oviduct consists of several parts with specific functions:",
+                "Infundibulum: funnel-shaped upper portion, engulfs the yolk, site of fertilization",
+                "Magnum: longest part, secretes albumen (egg white)",
+                "Isthmus: forms inner and outer shell membranes",
+                "Uterus: forms the shell, egg spends most time here",
+                "Vagina: final section, where egg exits through the cloaca"
+              ]
+            },
+            {
+              "slide_number": 55,
+              "slide_title": "Egg Structure",
+              "content": [
+                "Yolk: contains nutrients for the developing embryo",
+                "Chalaza: twisted strands of albumen that anchor the yolk",
+                "Albumen (egg white): protein-rich fluid that protects the embryo",
+                "Shell membranes: inner and outer membranes",
+                "Air sac: provides oxygen for the embryo",
+                "Shell: hard, porous outer layer for protection"
+              ]
+            },
+            {
+              "slide_number": 56,
+              "slide_title": "Incubation and Hatching",
+              "content": [
+                "Incubation: keeping eggs warm while embryos develop",
+                "Females usually incubate, but males sometimes participate",
+                "Brood patch: area of skin with blood vessels for heat transfer",
+                "Birds rotate eggs periodically for even warmth distribution",
+                "Hatching: chick uses an egg tooth (hard tip at beak) to break the shell",
+                "Egg tooth is lost after hatching"
+              ]
+            },
+            {
+              "slide_number": 57,
+              "slide_title": "Parental Care in Birds",
+              "content": [
+                "Nest building in hidden areas to avoid predators",
+                "Some birds lay eggs on bare cliffs (no nest)",
+                "Camouflaged eggs help protect from predators",
+                "Parental care varies widely: from no care to extended care",
+                "In some species, care ends at hatching; in others, care continues for extended time"
+              ]
+            },
+            {
+              "slide_number": 58,
+              "slide_title": "Inquiry Activity 2.14-2.17",
+              "content": [
+                "Activity 2.14: What is the significance of the difference between monogamous and polygamous species?",
+                "Activity 2.15: Examine reproductive structures of birds and their functions.",
+                "Activity 2.16: Describe reproduction in chickens. Why do hens lay eggs without rooster? Examine egg structures.",
+                "Activity 2.17: Why are eggs laid in so many different colors? What are camouflaged eggs?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.3.7",
+          "section_title": "Reproduction in Rat",
+          "slides": [
+            {
+              "slide_number": 59,
+              "slide_title": "Reproduction in Rats",
+              "content": [
+                "Representative of mammalian sexual reproduction",
+                "Internal fertilization",
+                "Gestation (pregnancy) period varies: brown rat 22-24 days, black rat 22 days, giant mole rat 37-49 days",
+                "Fertilized zygote develops into blastocyst which implants in uterine horns"
+              ]
+            },
+            {
+              "slide_number": 60,
+              "slide_title": "Rat Reproductive Structures",
+              "content": [
+                "Male reproductive system: testes, scrotum, seminiferous tubules, epididymis, vas deferens, penis with bacula",
+                "Female reproductive system: two ovaries, oviducts, uterine horns, vagina with vulva"
+              ]
+            },
+            {
+              "slide_number": 61,
+              "slide_title": "Pregnancy and Development",
+              "content": [
+                "Umbilical cord: connects embryo to mother, transports nutrients and oxygen",
+                "Placenta: oxygen and waste exchange between mother and embryo",
+                "Amniotic sac: protects the embryo during pregnancy",
+                "Embryo develops neural plate (brain and spinal cord), arm and leg buds",
+                "Rats give birth to 7-12 offspring per litter (hairless, deaf, sealed eyelids)"
+              ]
+            },
+            {
+              "slide_number": 62,
+              "slide_title": "Parental Care in Rats",
+              "content": [
+                "Rats build nests to rear their young (pups or kittens)",
+                "Pups stay in the nest until they are weaned",
+                "Female rats care for pups regardless of their true mothers",
+                "If a mother dies, other females will nurse her pups",
+                "Male rats do not participate in parental care"
+              ]
+            },
+            {
+              "slide_number": 63,
+              "slide_title": "Inquiry Activity 2.18-2.19",
+              "content": [
+                "Activity 2.18: Examine reproductive structures of rats and their functions",
+                "Activity 2.19: Compare and contrast reproduction in frogs, crocodiles, birds, and rats. Discuss advancements from frogs to rats in terms of reproductive structure, fertilization, and development"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.4",
+          "section_title": "Economic Importance of Animals (Insects)",
+          "slides": [
+            {
+              "slide_number": 64,
+              "slide_title": "Economic Importance of Insects",
+              "content": [
+                "Insects are the most diverse animals in the world",
+                "Have both positive (beneficial) and negative (harmful) impacts",
+                "Beneficial aspects: agriculture, food, industry, health and medicine",
+                "Harmful aspects: crop pests, disease vectors"
+              ]
+            },
+            {
+              "slide_number": 65,
+              "slide_title": "Beneficial Insects: Agriculture",
+              "content": [
+                "Pollinators: essential for reproduction of flowering plants, 35% of crop production depends on insect pollination",
+                "Pest regulation: natural biological control using predators and parasitoids",
+                "Examples of pest regulators: mantis (eats grasshoppers), ladybird beetles (eat aphids), blister beetles (eat locust eggs)"
+              ]
+            },
+            {
+              "slide_number": 66,
+              "slide_title": "Beneficial Insects: Food and Industry",
+              "content": [
+                "Food: crickets, grasshoppers, beetles, moth larvae, termites are eaten in many countries",
+                "High protein content, sustainable source of animal protein",
+                "Industry: honey and beeswax from honeybees",
+                "Silk production from silkworms (Bombyx mori)",
+                "Shellac from lac insects (Laccifer lacca)",
+                "Cochineal pigment from scale insects (Dactylopius coccus)",
+                "Tannic acid from galls formed by tiny wasps"
+              ]
+            },
+            {
+              "slide_number": 67,
+              "slide_title": "Beneficial Insects: Health and Medicine",
+              "content": [
+                "Honey used to treat burns, wounds, and infections",
+                "Bee and ant venom used to treat joint pain",
+                "Cantharidan from blister beetles used to treat viral infections and cancer",
+                "Research confirms bee products promote healthy immune systems and reduce inflammation"
+              ]
+            },
+            {
+              "slide_number": 68,
+              "slide_title": "Harmful Aspects of Insects",
+              "content": [
+                "Pests of plants, fruits, and grains in fields and stores",
+                "Feed on leaves, stems, buds, flowers, fruits, and seeds",
+                "Examples: locusts, caterpillars, bugs, hoppers, aphids",
+                "Locusts: most destructive pests, migrate in huge swarms, devour entire crops",
+                "Common stored grain pests: rice weevil, lesser grain borer, rust red flour beetle, sawtooth grain beetle, flat grain beetle"
+              ]
+            },
+            {
+              "slide_number": 69,
+              "slide_title": "Insects as Disease Vectors",
+              "content": [
+                "Anopheles mosquito: transmits malaria parasites (Plasmodium)",
+                "Culex mosquito: transmits filariasis and filarial worms",
+                "Tsetse fly (Trypanosoma gambiense): spreads African sleeping sickness",
+                "Housefly (Musca domestica): spreads food and water-borne diseases"
+              ]
+            },
+            {
+              "slide_number": 70,
+              "slide_title": "Inquiry Activity 2.20-2.24",
+              "content": [
+                "Activity 2.20: Visit agricultural institutions, industries, health centers to collect evidence of beneficial and harmful insects.",
+                "Activity 2.22: Investigate silk production in Ethiopia.",
+                "Activity 2.23: Ask elders in your community about insects or insect products used to treat diseases.",
+                "Activity 2.24: Investigate methods to control desert locusts and calculate crop productivity loss."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.5",
+          "section_title": "Animal Behavior",
+          "slides": [
+            {
+              "slide_number": 71,
+              "slide_title": "What is Animal Behavior?",
+              "content": [
+                "The observable actions and responses of animals to stimuli",
+                "Includes movements, interactions within and with the environment",
+                "Also includes learning about their environment",
+                "Behavior can be categorized into two main types: INNATE and LEARNED"
+              ]
+            },
+            {
+              "slide_number": 72,
+              "slide_title": "Innate (Inherent) Behavior",
+              "content": [
+                "Inborn behavior that is determined by genes",
+                "Independent of experience",
+                "Specific to a species",
+                "Three types: INSTINCTIVE, REFLEXIVE, ORIENTATIVE"
+              ]
+            },
+            {
+              "slide_number": 73,
+              "slide_title": "Innate Behaviors: Instincts and Reflexes",
+              "content": [
+                "INSTINCTS: Complex behaviors specific to a species",
+                "Examples: web making in spiders, nest-building in birds, swimming in dolphins, chicks opening mouths for food, honeybee dance",
+                "REFLEXES: Simple, involuntary responses to stimuli",
+                "Examples: pulling hand away from hot object, blinking when something approaches eye, closing eyes when dust enters"
+              ]
+            },
+            {
+              "slide_number": 74,
+              "slide_title": "Innate Behaviors: Orientation",
+              "content": [
+                "TAXIS: Directed movement in response to a stimulus",
+                "Positive taxis: movement towards the stimulus",
+                "Negative taxis: movement away from the stimulus",
+                "Examples: phototaxis (light), chemotaxis (chemicals), thigmotaxis (touch), geotaxis (gravity)",
+                "KINESIS: Undirected, random movement in response to a stimulus",
+                "Example: movement of woodlice in response to temperature"
+              ]
+            },
+            {
+              "slide_number": 75,
+              "slide_title": "Learned (Acquired) Behavior",
+              "content": [
+                "Not inherited, not determined by genes",
+                "Acquired during the lifetime of an individual",
+                "Allows adaptation to changes in environment",
+                "Modified by previous experiences"
+              ]
+            },
+            {
+              "slide_number": 76,
+              "slide_title": "Types of Learned Behavior",
+              "content": [
+                "Habituation: stopping response to repeated stimulus (e.g., ignoring TV sound)",
+                "Classical conditioning: associating a neutral stimulus with a significant one (Pavlov's dogs)",
+                "Operant conditioning: learning through rewards and punishments (Skinner's experiments)",
+                "Sensitization: increased response to repeated stimulus",
+                "Latent learning: learning without immediate reward",
+                "Insight learning: using past experience and reasoning to solve problems"
+              ]
+            },
+            {
+              "slide_number": 77,
+              "slide_title": "Classical Conditioning (Pavlov)",
+              "content": [
+                "Stage 1 - Before conditioning: Unconditioned stimulus produces unconditioned response (food causes salivation)",
+                "Stage 2 - During conditioning: Conditioned stimulus (bell) paired with unconditioned stimulus (food)",
+                "Stage 3 - After conditioning: Conditioned stimulus alone produces conditioned response (bell causes salivation)"
+              ]
+            },
+            {
+              "slide_number": 78,
+              "slide_title": "Operant Conditioning (Skinner)",
+              "content": [
+                "Learning through consequences",
+                "Reinforcers: responses that increase the probability of behavior being repeated (positive or negative)",
+                "Punishers: responses that decrease the likelihood of behavior being repeated",
+                "Behavior likely to be repeated when reinforced, less likely when punished"
+              ]
+            },
+            {
+              "slide_number": 79,
+              "slide_title": "Inquiry Activity 2.25",
+              "content": [
+                "Find explanations of learned behaviors: habituation, classical conditioning, operant conditioning, insight learning, sensitization",
+                "Identify scientists who discovered the behaviors and how",
+                "Look at figures and identify the type of learned behavior each shows"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.5.2",
+          "section_title": "Patterns of Behavior",
+          "slides": [
+            {
+              "slide_number": 80,
+              "slide_title": "Patterns of Animal Behavior",
+              "content": [
+                "Common behavioral patterns exhibited by many species",
+                "Examples include: behavioral cycles, reproductive behavior, social behavior, competition, territory, communication"
+              ]
+            },
+            {
+              "slide_number": 81,
+              "slide_title": "Behavioral Cycles",
+              "content": [
+                "Animals respond to periodic changes in the environment",
+                "Can be daily or seasonal cycles",
+                "Seasonal migration: movement from one habitat to another due to food availability, temperature, breeding conditions",
+                "Circadian rhythms: 24-hour cycles (sleep-wake cycle), also called biological clocks"
+              ]
+            },
+            {
+              "slide_number": 82,
+              "slide_title": "Reproductive and Social Behavior",
+              "content": [
+                "Reproductive behavior: locating and selecting mates, producing offspring, rearing them to independence",
+                "Includes courtship displays (visual, sounds, chemicals)",
+                "Social behavior: commonly observed in animals that live in groups",
+                "Examples: ants, termites, bees (division of labor as workers and soldiers), elephants, penguins, humans"
+              ]
+            },
+            {
+              "slide_number": 83,
+              "slide_title": "Competition and Territoriality",
+              "content": [
+                "Competition: animals compete for resources (space, territory, water, mates, food)",
+                "Intraspecific competition: between individuals of the same species",
+                "Interspecific competition: between individuals of different species",
+                "Territoriality: defending a space containing resources needed for survival",
+                "Display behavior: used instead of fighting, safer and uses less energy"
+              ]
+            },
+            {
+              "slide_number": 84,
+              "slide_title": "Communication in Animals",
+              "content": [
+                "Vital for interaction between animals",
+                "Can communicate using: sight (visual displays), sound (birds singing, frogs croaking), touch (tactile), chemicals (pheromones)",
+                "Pheromones: special chemicals used for communication",
+                "Example: ants use pheromones to mark trails to food sources",
+                "Male dogs and lions use urine pheromones to mark territory"
+              ]
+            },
+            {
+              "slide_number": 85,
+              "slide_title": "Inquiry Activity 2.28-2.29",
+              "content": [
+                "Activity 2.28: Biological clock - What happens if you sleep at a different time than usual? Why?",
+                "Activity 2.29: What is the difference between intraspecific and interspecific competition? Discuss with examples."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2.6",
+          "section_title": "Homeostasis in Animals",
+          "slides": [
+            {
+              "slide_number": 86,
+              "slide_title": "What is Homeostasis?",
+              "content": [
+                "Homeostasis is the self-regulatory process by which animals maintain stable internal conditions in their bodies regardless of external conditions",
+                "Helps animals maintain equilibrium in the internal conditions of their bodies at a set point (normal conditions)",
+                "Body systems constantly adjust to internal and external changes"
+              ]
+            },
+            {
+              "slide_number": 87,
+              "slide_title": "Components of Homeostasis",
+              "content": [
+                "STIMULUS: A change in the environment that forces the organism to respond",
+                "RECEPTOR: Detects the change and sends a signal to the control center",
+                "CONTROL CENTER: Receives the signal, interprets it, and sends commands (hypothalamus in the brain)",
+                "EFFECTOR: Acts on the stimulus based on the command, counteracting the change"
+              ]
+            },
+            {
+              "slide_number": 88,
+              "slide_title": "Thermoregulation",
+              "content": [
+                "Thermoregulation is the process of maintaining internal body temperature constant",
+                "Organisms use behavior, physiology, and morphology to keep body temperatures within optimal level",
+                "Two groups based on temperature regulation: POIKILOTHERMIC and HOMEOTHERMIC"
+              ]
+            },
+            {
+              "slide_number": 89,
+              "slide_title": "Poikilothermic (Ectothermic) Animals",
+              "content": [
+                "Body temperature is the same as or similar to the environment",
+                "Lack internal control over body temperature",
+                "Use behavioral methods to regulate: burrowing into ground, sunning on rocks, swimming, group activity",
+                "Examples: fish, reptiles, amphibians"
+              ]
+            },
+            {
+              "slide_number": 90,
+              "slide_title": "Homeothermic (Endothermic) Animals",
+              "content": [
+                "Can generate internal heat to maintain constant body temperature",
+                "Cellular processes operate optimally even when environment is cold or hot",
+                "Use morphological, physiological, and behavioral methods",
+                "Methods for COLD: insulation (fur, fat, feathers), vasoconstriction, shivering",
+                "Methods for HOT: vasodilation, sweating"
+              ]
+            },
+            {
+              "slide_number": 91,
+              "slide_title": "Mechanisms of Heat Exchange",
+              "content": [
+                "RADIATION: Heat loss through electromagnetic waves",
+                "EVAPORATION: Heat loss through sweating",
+                "CONVECTION: Heat transfer through air or water currents",
+                "CONDUCTION: Heat transfer through direct contact"
+              ]
+            },
+            {
+              "slide_number": 92,
+              "slide_title": "Osmoregulation",
+              "content": [
+                "Osmoregulation is the process of regulating osmotic pressure of fluids and electrolytic balance",
+                "About 60% of the human body is composed of fluids",
+                "2/3 of water content is in intracellular fluids, 1/3 is extracellular fluid",
+                "Osmoreceptors in the hypothalamus detect changes in osmotic pressure",
+                "Kidneys are the main organ responsible for osmoregulation"
+              ]
+            },
+            {
+              "slide_number": 93,
+              "slide_title": "Blood Sugar Regulation",
+              "content": [
+                "Glucose is the main source of energy for normal body functioning",
+                "Two hormones from the pancreas control blood glucose: INSULIN and GLUCAGON",
+                "INSULIN: lowers blood glucose level by converting glucose to glycogen in the liver",
+                "GLUCAGON: raises blood glucose level by converting glycogen to glucose in the liver",
+                "Glycogen is stored in the liver and can be converted back to glucose when needed"
+              ]
+            },
+            {
+              "slide_number": 94,
+              "slide_title": "Control of Homeostasis",
+              "content": [
+                "NEGATIVE FEEDBACK: Reverses the direction of the stimulus, bringing the body back to the set point (most common)",
+                "POSITIVE FEEDBACK: Amplifies the change, pushing the body further away from homeostasis (e.g., childbirth contractions)",
+                "Negative feedback has three components: sensor (receptor), control center, effector"
+              ]
+            },
+            {
+              "slide_number": 95,
+              "slide_title": "Inquiry Activity 2.30-2.35",
+              "content": [
+                "Activity 2.30: Interpret the graph showing poikilothermic vs homeothermic animals.",
+                "Activity 2.31: Research how vasodilation, vasoconstriction, shivering, sweating, hibernation, and estivation help regulate temperature.",
+                "Activity 2.32: Identify physiological, behavioral, and morphological methods of temperature regulation.",
+                "Activity 2.34: What happens if salt and water balance is not maintained? What happens if blood glucose is not maintained?",
+                "Activity 2.35: Investigate feedback mechanisms in blood glucose regulation and osmoregulation."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "subject": "Biology",
+  "grade": 11,
+  "presentation_slides": [
+    {
+      "unit_number": 2,
+      "unit_title": "Animals",
+      "sections": [
+        {
+          "section_number": "2.7",
+          "section_title": "Renowned Zoologists in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 96,
+              "slide_title": "Renowned Zoologists in Ethiopia",
+              "content": [
+                "Zoology is the study of animals in relation to their evolution, anatomy, physiology, behavior, habitats, and health",
+                "Many zoologists from Ethiopian universities have studied animals found throughout the country",
+                "Some researchers have dedicated their entire lives to studying animals in Ethiopia",
+                "Their work contributes to the development of zoological science and the economic development of the country"
+              ]
+            },
+            {
+              "slide_number": 97,
+              "slide_title": "Patriotism Through Science",
+              "content": [
+                "Such researchers are patriots for their country",
+                "Patriotism is not only showing love to the country and defending it in times of difficulty",
+                "It is also exhibiting diligence to successfully carry out duties and tasks which epitomize hard work",
+                "Their research on Ethiopian fauna helps conserve biodiversity and promotes national pride"
+              ]
+            },
+            {
+              "slide_number": 98,
+              "slide_title": "Inquiry Activity 2.36",
+              "content": [
+                "Do you know any renowned Ethiopian zoologists in your area?",
+                "Describe the work of these professors",
+                "What lessons have you learned from them?",
+                "Reflect on what you could learn from their work",
+                "Understanding local scientists can inspire future careers in biology"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "Unit Two Summary",
+          "section_title": "Unit Two Summary",
+          "slides": [
+            {
+              "slide_number": 99,
+              "slide_title": "Unit Two Summary",
+              "content": [
+                "Animals are eukaryotic, multicellular, heterotrophic organisms sensitive to stimuli",
+                "Classified into vertebrates (with backbone) and invertebrates (without backbone)",
+                "Reproduction can be asexual (budding, fragmentation, parthenogenesis) or sexual (involving gametes)",
+                "Insects are economically important: beneficial as pollinators, food sources, and producers of honey and silk; harmful as pests and disease vectors"
+              ]
+            },
+            {
+              "slide_number": 100,
+              "slide_title": "Unit Two Summary (Continued)",
+              "content": [
+                "Animal behavior is categorized into INNATE (instinct, reflex, orientation) and LEARNED (habituation, conditioning, insight learning)",
+                "Homeostasis maintains stable internal conditions through thermoregulation, osmoregulation, and blood sugar regulation",
+                "Thermoregulation uses negative and positive feedback mechanisms",
+                "Renowned Ethiopian zoologists have made significant contributions to understanding animal diversity in Ethiopia"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "Unit Two Review Questions",
+          "section_title": "Unit Two Review Questions",
+          "slides": [
+            {
+              "slide_number": 101,
+              "slide_title": "Unit Two Review Questions",
+              "content": [
+                "Multiple-choice questions covering animal characteristics, symmetry, reproduction, metamorphosis, and homeostasis",
+                "Questions on the economic importance of insects and animal behavior",
+                "Questions on thermoregulation, osmoregulation, and feedback mechanisms",
+                "Short answer questions on reproduction differences, vertebrate vs invertebrate differences, and temperature regulation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Enzymes",
+      "sections": [
+        {
+          "section_number": "3.1",
+          "section_title": "What are Enzymes?",
+          "slides": [
+            {
+              "slide_number": 102,
+              "slide_title": "What are Enzymes?",
+              "content": [
+                "Enzymes are protein molecules that act as biological catalysts (biocatalysts)",
+                "They accelerate the rate of chemical reactions by lowering activation energy",
+                "Activation energy is the minimum amount of energy required for a reaction to occur",
+                "All enzymes are made up of chains of amino acids linked by peptide bonds",
+                "Enzymes are essential for metabolism (breakdown and synthesis of molecules)"
+              ]
+            },
+            {
+              "slide_number": 103,
+              "slide_title": "Enzyme Action",
+              "content": [
+                "Enzymes act upon molecules called SUBSTRATES",
+                "They convert substrates into products of different molecules",
+                "Enzymes remain unchanged after the reaction (can be reused)",
+                "The active site is where the substrate binds",
+                "The enzyme-substrate complex is formed during the reaction"
+              ]
+            },
+            {
+              "slide_number": 104,
+              "slide_title": "Lab Activity 3.1: Investigating Salivary Amylase",
+              "content": [
+                "Objective: Investigate the enzyme Salivary Amylase in the mouth",
+                "Material: White bread",
+                "Procedure: Chew a piece of bread slowly, notice the changing flavor (tastes sweeter)",
+                "Control experiment: Mix bread in water for 5 minutes and compare taste",
+                "Assessment: How does saliva convert starch into maltose? Where did the enzyme amylase come from?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.2",
+          "section_title": "Properties and Functions of Enzymes",
+          "slides": [
+            {
+              "slide_number": 105,
+              "slide_title": "Physical Properties of Enzymes",
+              "content": [
+                "DENATURATION: Breaking of non-covalent bonds, distorting shape and active site; caused by high heat, extreme pH, heavy metals, high salt concentrations",
+                "SOLUBILITY: Dissolve in water, salt solutions, dilute glycerol",
+                "COLLOIDAL NATURE: Large size prevents dialysis across semipermeable membrane",
+                "BIOCATALYST: Very small quantity converts large quantity of substrate",
+                "PRECIPITATION: Separated for analysis using aqueous or ethanol solvents",
+                "HIGH MOLECULAR WEIGHT: Large protein biomolecules"
+              ]
+            },
+            {
+              "slide_number": 106,
+              "slide_title": "Chemical Properties of Enzymes",
+              "content": [
+                "HEAT AND PH SENSITIVITY: Activated at optimum temperature and pH",
+                "REGULATION: Controlled by activator and inhibitor molecules",
+                "CATALYSIS: High catalytic efficiency; can transform 100-10,000 substrates per second",
+                "REVERSIBILITY: Can catalyze reactions in both forward and reverse directions",
+                "SPECIFICITY: Restrictive in choice of substrate (bond, group, substrate, optical, co-factor specificity)"
+              ]
+            },
+            {
+              "slide_number": 107,
+              "slide_title": "Functions of Enzymes",
+              "content": [
+                "Speed up chemical reactions in the human body",
+                "Essential for respiration, digestion, liver, muscle, and nerve function",
+                "Each cell contains thousands of enzymes",
+                "Turnover number: substrates converted by one enzyme molecule per second at saturated active sites",
+                "Enzymes are markers of diseases like myocardial infarction, jaundice, pancreatitis, cancer"
+              ]
+            },
+            {
+              "slide_number": 108,
+              "slide_title": "Examples of Enzymes and Their Functions",
+              "content": [
+                "Sucrase: breaks down sucrose into glucose and fructose",
+                "Lactase: breaks down lactose into glucose and galactose",
+                "Carbohydrase: breaks down carbohydrates into sugars",
+                "Lipase: breaks down fats into fatty acids",
+                "Protease: breaks down proteins into amino acids"
+              ]
+            },
+            {
+              "slide_number": 109,
+              "slide_title": "Enzyme Action Steps",
+              "content": [
+                "Step 1: Substrate (sucrose) consists of glucose and fructose bonded together",
+                "Step 2: Substrate binds to enzyme, forming enzyme-substrate complex",
+                "Step 3: Binding places stress on the bond and the bond breaks",
+                "Step 4: Products are released, enzyme is free to bind other substrates",
+                "Enzymes perform their function by lowering a reaction's activation energy"
+              ]
+            },
+            {
+              "slide_number": 110,
+              "slide_title": "Table 3.1: Enzymes in the Body",
+              "content": [
+                "Lipases: Split fats found in blood, gastric juices, pancreatic secretions, intestinal juices, adipose tissues",
+                "Amylase: Exists in saliva, changes starches into sugars",
+                "Maltase: Exists in foods like potatoes, pasta, beer; breaks maltose into glucose",
+                "Trypsin: Found in small intestine, breaks proteins into amino acids",
+                "Lactase: Found in small intestine, breaks lactose into glucose and galactose",
+                "Helicase: Unwinds DNA",
+                "DNA Polymerase: Forms new copies of DNA",
+                "Acetylcholinesterase: Breaks down neurotransmitter acetylcholine in nerves and muscles"
+              ]
+            },
+            {
+              "slide_number": 111,
+              "slide_title": "Lab Activity 3.3: Functions of Enzymes",
+              "content": [
+                "Objective: Learning by doing",
+                "Materials: Knife, Potatoes, Hydrogen peroxide",
+                "Procedure: Cut potatoes into two slices, drop hydrogen peroxide on the potato slice and observe bubbling",
+                "Assessment: What causes bubbling? How does metabolic decomposition take place? Which is the enzyme, substrate, and product?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.3",
+          "section_title": "Protein Structures",
+          "slides": [
+            {
+              "slide_number": 112,
+              "slide_title": "Introduction to Protein Structure",
+              "content": [
+                "Enzymes are proteins",
+                "Proteins are polymers of amino acids joined by peptide bonds",
+                "Proteins have four structural levels: PRIMARY, SECONDARY, TERTIARY, QUATERNARY",
+                "Humans require 20 amino acids: 10 synthesized in the body, 10 obtained from diet"
+              ]
+            },
+            {
+              "slide_number": 113,
+              "slide_title": "Primary Structure of Proteins",
+              "content": [
+                "Linear sequence of amino acids",
+                "Amino acids linked together to form a polypeptide chain through peptide bonds",
+                "Proteins with fewer than 50 sequences are peptides",
+                "Proteins with longer than 50 sequences are polypeptides",
+                "Sequence determines the protein's final structure and function"
+              ]
+            },
+            {
+              "slide_number": 114,
+              "slide_title": "Secondary Structure of Proteins",
+              "content": [
+                "Folded structure formed within a polypeptide due to interactions between atoms of the backbone",
+                "Stabilized by hydrogen bonding",
+                "Two main types: ALPHA-HELIX and BETA-PLEATED SHEET"
+              ]
+            },
+            {
+              "slide_number": 115,
+              "slide_title": "Alpha-Helix and Beta-Pleated Sheet",
+              "content": [
+                "ALPHA-HELIX: Right-handed coiled strand; side-chain substituents extend to the outside; hydrogen bonds between CO and NH groups stabilize the structure",
+                "BETA-PLEATED SHEET: Pairs of strands lying side-by-side; hydrogen bonding between inter-strands and intra-strands; chains stretch out to near maximum extension"
+              ]
+            },
+            {
+              "slide_number": 116,
+              "slide_title": "Tertiary Structure of Proteins",
+              "content": [
+                "Three-dimensional shape of protein molecules",
+                "Bend and twist to achieve maximum stability or lowest energy state",
+                "Fashioned by many stabilizing forces due to bonding interactions between side-chain groups of amino acids",
+                "Includes disulfide bonds, hydrogen bonds, ionic bonds, and hydrophobic interactions"
+              ]
+            },
+            {
+              "slide_number": 117,
+              "slide_title": "Quaternary Structure of Proteins",
+              "content": [
+                "Arrangement of multiple folded protein subunits in a multi-subunit complex",
+                "Association of several protein chains or subunits into closely packed arrangements",
+                "Each subunit has its own primary, secondary, or tertiary structure",
+                "Held together by hydrogen bonds and other interactions",
+                "Example: Hemoglobin (Figure 3.9)"
+              ]
+            },
+            {
+              "slide_number": 118,
+              "slide_title": "Table 3.2: Summary of Protein Structures",
+              "content": [
+                "PRIMARY: Basic linear sequence level of amino acids comprising one polypeptide chain",
+                "SECONDARY: Folding regions into specific structural patterns (alpha-helix, beta-sheet) within one polypeptide chain",
+                "TERTIARY: Three-dimensional arrangement of all amino acids in a single polypeptide chain",
+                "QUATERNARY: All polypeptide chains held together by a specific spatial arrangement and interactions"
+              ]
+            },
+            {
+              "slide_number": 119,
+              "slide_title": "Inquiry Activity 3.4",
+              "content": [
+                "Draw a large poster of the primary, secondary, tertiary, and quaternary protein structures and post it on the wall",
+                "Discuss in groups of five students the poster and present to the class",
+                "Assessment: Describe the differences in protein structural levels. What are the subunits of protein structures? How do protein subunits hold together?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.4",
+          "section_title": "Enzyme Substrate Models",
+          "slides": [
+            {
+              "slide_number": 120,
+              "slide_title": "Enzyme-Substrate Binding Models",
+              "content": [
+                "Enzyme-substrate models describe how enzymes and substrates interact",
+                "Two different models: LOCK AND KEY MODEL and INDUCED FIT MODEL"
+              ]
+            },
+            {
+              "slide_number": 121,
+              "slide_title": "Lock and Key Model",
+              "content": [
+                "Enzyme active site has a rigid shape that perfectly complements the substrate",
+                "Substrate fits into the active site like a key in a lock",
+                "Explains enzyme specificity",
+                "Once the reaction progresses to the transition state and forms products, the active site will not be able to accommodate changes"
+              ]
+            },
+            {
+              "slide_number": 122,
+              "slide_title": "Induced Fit Model",
+              "content": [
+                "Active site is flexible and changes shape upon substrate binding",
+                "Substrate binding induces a conformational change in the enzyme",
+                "Active site molds into precise positions to perform catalytic functions",
+                "Enhances or suppresses the activity of the enzyme",
+                "Enzyme-substrate complex is formed"
+              ]
+            },
+            {
+              "slide_number": 123,
+              "slide_title": "Enzymatic Transition State",
+              "content": [
+                "The reaction rates of elementary chemical reactions assume chemical equilibrium between reactants and activated transitions",
+                "Describes how chemical reactions are taking place qualitatively in the activated enzyme-substrate complex",
+                "E = Enzyme, S = Substrate, ES = Enzyme-substrate combined, ES* = Enzyme-substrate complexes, EP = Enzyme product"
+              ]
+            },
+            {
+              "slide_number": 124,
+              "slide_title": "Inquiry Activity 3.5",
+              "content": [
+                "Construct the shapes of the enzyme 'Lock and Key' and 'Induced Fit' substrates models from locally available materials",
+                "Post them on the walls of your class"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.5",
+          "section_title": "Enzyme Regulation",
+          "slides": [
+            {
+              "slide_number": 125,
+              "slide_title": "Enzyme Regulation",
+              "content": [
+                "A control system for enzymatic activities",
+                "Enzymes are turned 'on' or 'off' depending on the organism's need",
+                "Adapting enzymatic activities by other molecules or metabolic cells to either increase or decrease activities",
+                "Regulatory enzymes are found in biochemical pathways"
+              ]
+            },
+            {
+              "slide_number": 126,
+              "slide_title": "Allosteric Enzymes",
+              "content": [
+                "Enzymes that have additional binding sites for effector molecules other than the active site",
+                "Effector binding causes conformational changes, leading to changes in catalytic properties",
+                "Contains two binding sites: ACTIVE SITE/CATALYTIC SITE and ALLOSTERIC SITE/REGULATORY SITE",
+                "Effectors: small molecules (inhibitor or activator) that modulate enzyme activity"
+              ]
+            },
+            {
+              "slide_number": 127,
+              "slide_title": "Genetic and Covalent Modification",
+              "content": [
+                "GENETIC MODIFICATION: Improves the properties of enzymes; gains active and inactive forms",
+                "COVALENT MODIFICATION: Active and inactive forms altered due to covalent modification of structures catalyzed by other enzymes",
+                "Modifications: addition or removal of chemical groups",
+                "Can target a single type of amino acid or multiple amino acids"
+              ]
+            },
+            {
+              "slide_number": 128,
+              "slide_title": "Types of Inhibitors",
+              "content": [
+                "COMPETITIVE INHIBITOR: Blocks the binding of the substrate to the active site",
+                "NON-COMPETITIVE INHIBITOR: Binds to the enzyme already bound to the substrate; decreases efficacy of the enzyme",
+                "UNCOMPETITIVE INHIBITOR: Binds only to the enzyme-substrate complex, not to the free enzyme; slows enzyme reactions"
+              ]
+            },
+            {
+              "slide_number": 129,
+              "slide_title": "Inquiry Activity 3.6",
+              "content": [
+                "Discuss in pairs and present to the class:",
+                "Enzyme active site, passive site, allosteric site",
+                "Enzyme activators",
+                "Enzyme inhibitors",
+                "Binding and blocking of molecules"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.6",
+          "section_title": "Types of Enzymes",
+          "slides": [
+            {
+              "slide_number": 130,
+              "slide_title": "Structural Classification of Enzymes",
+              "content": [
+                "Simple proteins (active alone)",
+                "Conjugated proteins (holoenzymes): consist of protein part (apoenzyme) and non-protein part (cofactor)",
+                "Cofactor (non-protein part) further divided into:",
+                "PROSTHETIC GROUP: Firmly attached metal ion",
+                "COENZYME: Loosely attached vitamin B complex"
+              ]
+            },
+            {
+              "slide_number": 131,
+              "slide_title": "Basic Classification of Enzymes",
+              "content": [
+                "OXIDOREDUCTASES: Catalyze oxidation-reduction reactions; transfer electrons",
+                "TRANSFERASES: Transfer functional groups (e.g., methyl) from one molecule to another",
+                "HYDROLASES: Catalyze hydrolysis of various bonds",
+                "LYASES: Cleave bonds by means other than hydrolysis or oxidation",
+                "ISOMERASES: Convert molecules from one isomer to another",
+                "LIGASES: Join two molecules with hydrolysis of ATP"
+              ]
+            },
+            {
+              "slide_number": 132,
+              "slide_title": "Lab Activity 3.7: Tests for Enzyme Reactions",
+              "content": [
+                "Objective: Test the reaction of enzymes in apples",
+                "Materials: Apple or banana fruits, knife",
+                "Procedure: Cut an apple into two slices, wait 10 minutes, observe browning",
+                "Control: Cover one half with plastic sheet immediately, compare color change",
+                "Assessment: What gives the brownish color? What is the enzyme catalyzing? What is the name of the enzyme found in apples? Why did the covered slice not change pigments?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.7",
+          "section_title": "Factors Affecting Enzyme Action",
+          "slides": [
+            {
+              "slide_number": 133,
+              "slide_title": "Factors Affecting Enzyme Action",
+              "content": [
+                "Enzymes work best within specific temperature and pH ranges",
+                "Optimal conditions: particular enzyme is most active",
+                "Increase or decrease in conditions affects enzyme functions",
+                "Factors: temperature, pH, inhibitors, activators, radiation, water, enzyme, substrate, and end-product concentrations"
+              ]
+            },
+            {
+              "slide_number": 134,
+              "slide_title": "Temperature and pH Effects",
+              "content": [
+                "TEMPERATURE: Enzymes work best at optimum temperature; low or high temperature causes denaturation; once denatured, cannot be renatured",
+                "PH: Enzymes function at optimum pH; too low (strong acid) or too high (too alkaline) pH causes loss of ability to bind substrate"
+              ]
+            },
+            {
+              "slide_number": 135,
+              "slide_title": "Substrate Concentration and Other Factors",
+              "content": [
+                "SUBSTRATE CONCENTRATION: Enzymes require a maximum limit of substrate concentration",
+                "RADIATION: Damages enzyme activity, reduces enzymatic efficiency, creates disorders in macromolecules",
+                "WATER: Affects enzyme performance beyond its optimum level",
+                "END PRODUCT (FEEDBACK) INHIBITION: End product binds to allosteric site, changes active site structure, prevents enzyme activity"
+              ]
+            },
+            {
+              "slide_number": 136,
+              "slide_title": "Feedback Inhibition Example",
+              "content": [
+                "In feedback inhibition, the end product inhibits enzyme activity",
+                "Cellular control mechanism: cell knows whether the amount of a product is sufficient",
+                "Example: Drug Tipranivir used to treat HIV blocks the activity of a viral genome enzyme",
+                "Acts as a reversible inhibitor"
+              ]
+            },
+            {
+              "slide_number": 137,
+              "slide_title": "Lab Activity 3.8: Tests for Functions of Enzymes",
+              "content": [
+                "Objective: Test for enzyme sensitivity to heat",
+                "Materials: Hydrogen peroxide (H2O2), Potatoes, knife, cooking utensils",
+                "Procedure: Take two slices of potatoes, boil one slice and leave the other raw; drop hydrogen peroxide on both; observe and compare enzyme reactions",
+                "Assessment: Identify reaction differences between boiled and raw potato slices. In which is the enzyme denatured? Did high temperature affect enzyme activity?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.8",
+          "section_title": "Enzyme Kinetics",
+          "slides": [
+            {
+              "slide_number": 138,
+              "slide_title": "What is Enzyme Kinetics?",
+              "content": [
+                "Enzyme kinetics describes the rates of chemical reactions catalyzed by enzymes",
+                "Also describes the binding affinities of substrates and inhibitors",
+                "Explains that enzymes speed up reactions by lowering activation energy",
+                "Concentration of enzyme and substrates determines the rate of reactions"
+              ]
+            },
+            {
+              "slide_number": 139,
+              "slide_title": "Michaelis-Menten Equation",
+              "content": [
+                "Describes the relationship between reaction rate, substrate concentration, and two constants",
+                "Equation: V1 = Vmax [S] / (Km + [S])",
+                "V1 = initial velocity/rate reaction",
+                "Vmax = maximal velocity/maximum rate of reaction",
+                "[S] = substrate concentration",
+                "Km = substrate concentration at half-maximal velocity (Michaelis constant)"
+              ]
+            },
+            {
+              "slide_number": 140,
+              "slide_title": "Enzyme Kinetics Graph",
+              "content": [
+                "Graph shows reaction rate as a function of substrate concentration",
+                "At low substrate concentration, reaction rate increases rapidly",
+                "At high substrate concentration, reaction rate approaches Vmax",
+                "Enzyme is saturated with substrate at Vmax"
+              ]
+            },
+            {
+              "slide_number": 141,
+              "slide_title": "Lab Activity 3.10: Experiment on Enzyme Reaction Rates",
+              "content": [
+                "Objective: Test for enzyme reactions",
+                "Materials: Beef liver, Potato, Carrot, 3 Test tubes, H2O2, Knife",
+                "Procedure: Chop samples, place beef liver in A, potato in B, carrot in C; add 2ml H2O2 to each; observe rate of enzyme kinetic reactions and measure height of bubbles and speed",
+                "Assessment: What were the reaction rates? Which was fastest? Why was the reaction in A the highest?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.9",
+          "section_title": "Application of Enzymes in Industries and Their Benefits",
+          "slides": [
+            {
+              "slide_number": 142,
+              "slide_title": "Application of Enzymes",
+              "content": [
+                "Enzymes are used in food, feed, textile, papermaking, leather, detergents, pharmaceutical, and other industrial productions",
+                "Enzyme protein catalytic activity is 100s to 1000s of times higher than inorganic catalysts",
+                "Break down larger complex molecules into simpler molecules",
+                "Most enzymes now obtained by microbial fermentation"
+              ]
+            },
+            {
+              "slide_number": 143,
+              "slide_title": "Enzyme Applications in Industry",
+              "content": [
+                "Food industry: break down complex molecules; use in digestion",
+                "Animal feed: improve utilization of starch, protein, minerals; improve digestibility",
+                "Pharmaceutical industry: used in drugs, antibiotics, household products",
+                "Environment: powerful tools in sustaining clean environment",
+                "Washing powders: break down protein, starch, and fat stains"
+              ]
+            },
+            {
+              "slide_number": 144,
+              "slide_title": "Table 3.3: Enzymes and Their Applications",
+              "content": [
+                "Cellulases: Biofuel industry - breakdown cellulose into sugars",
+                "Ligninase: Biofuel industry - pre-treatment of biomass",
+                "Protease, Amylase, Lipase: Biological detergent - remove protein, starch, fat stains",
+                "Mannanase: Biological detergent - remove food stains",
+                "Betaglucanase: Brewing industry - improve beer filtration",
+                "Papain: Culinary uses - tenderize meat",
+                "Rennin: Dairy industry - hydrolyzes protein in cheese manufacture",
+                "Cellulases, Pectinase: Food processing - clarify fruit juices",
+                "Nuclease, DNA Ligase, Polymerase: Molecular biology - create recombinant DNA"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.10",
+          "section_title": "Malting in Ethiopian Tradition",
+          "slides": [
+            {
+              "slide_number": 145,
+              "slide_title": "What is Malting?",
+              "content": [
+                "Malting (sprouting) is a widely applied traditional technology",
+                "The process of steeping, germinating, and drying grain to convert it into malt",
+                "Limited controlled germination of grains in moist air",
+                "Results in mobilization of amylases, proteases, and other enzymes",
+                "These enzymes hydrolyze and modify the grain components and its structure"
+              ]
+            },
+            {
+              "slide_number": 146,
+              "slide_title": "Steps of Modern Malting",
+              "content": [
+                "STEP 1 - STEEPING: Cleaning grain kernels and bringing them to life with water and oxygen; activating existing enzymes and stimulating production; completes when barley reaches sufficient moisture level",
+                "STEP 2 - GERMINATING: Growth and modification of the grain; rootlets emerge; breakdown of protein and carbohydrates (modification); occurs over four to six days (Green Malt)",
+                "STEP 3 - KILNING (HEATING): Heating treatment to dry green malt and prevent further germination; removes moisture; achieves enzymatic activity, flavor, and color development"
+              ]
+            },
+            {
+              "slide_number": 147,
+              "slide_title": "Traditional Malting for Local Alcohol Production",
+              "content": [
+                "Barley is the most common cereal used for malting",
+                "Barley has high starch-to-protein ratio and adhering husk",
+                "Common enzymes used: beta-glucanase, alpha-amylase, protease, beta-amylase",
+                "Purpose: produce enzymes (alpha-amylase and beta-amylase) to convert starches into simple sugars",
+                "Yeast uses these sugars to produce alcohol by alcoholic fermentation"
+              ]
+            },
+            {
+              "slide_number": 148,
+              "slide_title": "Traditional Malting Process",
+              "content": [
+                "Steps: Soaking barley grains (steeping), Germinating (sprouting), Kilning (heating)",
+                "Commonly used grains: barley, maize, millet, sorghum",
+                "Purpose: produce alcoholic beverages (Tella, Booka, Cheka, Keribo, Korefe, Shameta, Borde, Teji)",
+                "Used for consumption and income generation"
+              ]
+            },
+            {
+              "slide_number": 149,
+              "slide_title": "Inquiry Activity 3.12",
+              "content": [
+                "Practice malting in the classroom",
+                "Materials: Barley seeds and Water",
+                "Procedure: Make a malt of barley seeds; present the steps of malting to the class",
+                "Assessment: What happened to the barley seeds? How did you halt the malt from further sprouting? What is the purpose of malting?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3.11",
+          "section_title": "Renowned Biochemists in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 150,
+              "slide_title": "Renowned Biochemists in Ethiopia",
+              "content": [
+                "A biochemist studies chemical processes and transformations in living organisms",
+                "Research on DNA, proteins, and cell parts",
+                "Conducts research on how chemical reactions happen in cells, tissues, and organisms",
+                "Records effects of products in food additives and medicines"
+              ]
+            },
+            {
+              "slide_number": 151,
+              "slide_title": "Work of Biochemists",
+              "content": [
+                "Study all aspects of immune systems, gene expression, isolation, analysis, and synthesis of products",
+                "Concerned with studying mutations that lead to cancers",
+                "Manage and monitor laboratory work",
+                "Conduct research in agriculture (herbicide interactions with plants)",
+                "Examine relationships between compounds that determine ability to inhibit growth",
+                "Evaluate toxicological effects"
+              ]
+            },
+            {
+              "slide_number": 152,
+              "slide_title": "Inquiry Activity 3.13",
+              "content": [
+                "List any renowned biochemists you know with pertinent biography",
+                "Discuss the roles of biochemists in research and take notes"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "Unit Three Summary",
+          "section_title": "Unit Three Summary",
+          "slides": [
+            {
+              "slide_number": 153,
+              "slide_title": "Unit Three Summary",
+              "content": [
+                "Enzymes are protein biochemical catalysts that speed up chemical reactions",
+                "They regulate the rate of chemical reactions and proceed unaffected in the process",
+                "Enzyme active sites increase reaction rates by lowering activation energy",
+                "Enzymes are inactive, destroyed, or denatured at very low and high temperatures and pH",
+                "Enzyme-substrate complex is a temporary molecule formed in perfect contact of enzymes with binding substrates"
+              ]
+            },
+            {
+              "slide_number": 154,
+              "slide_title": "Unit Three Summary (Continued)",
+              "content": [
+                "Many enzymes require cofactors (coenzymes) to become holoenzymes with apoenzymes before exerting catalytic activity",
+                "Apoenzyme + Coenzyme = Holoenzyme",
+                "Activators increase enzyme activity; inhibitors decrease enzyme activity",
+                "Regulatory enzymes exist at high concentrations and activity increases or decreases depending on changes in substrate concentration"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "Unit Three Review Questions",
+          "section_title": "Unit Three Review Questions",
+          "slides": [
+            {
+              "slide_number": 155,
+              "slide_title": "Unit Three Review Questions",
+              "content": [
+                "True/False items testing knowledge on enzyme properties and functions",
+                "Multiple-choice questions on optimum temperature, first discovered enzyme, optimum pH, enzyme specificity models, enzyme kinetics, molecular weight, allosteric enzymes, and the Michaelis-Menten equation",
+                "Questions on the steps of malting and types of enzymes (transferase)",
+                "Short answer questions on the five types of enzymes and their applications, and the difference between active site and allosteric site"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "subject": "Biology",
+  "grade": 11,
+  "presentation_slides": [
+    {
+      "unit_number": 4,
+      "unit_title": "Genetics",
+      "sections": [
+        {
+          "section_number": "4.1",
+          "section_title": "The Genetic Materials",
+          "slides": [
+            {
+              "slide_number": 156,
+              "slide_title": "Introduction to Genetics",
+              "content": [
+                "Genetics is the branch of biology concerned with the study of genetic material and how traits are passed from one generation to the next",
+                "The genetic material carries genetic information and passes it from one generation to the next",
+                "In almost all organisms, DNA is the genetic material",
+                "RNA serves as genetic material in some viruses (e.g., HIV, COVID-19)"
+              ]
+            },
+            {
+              "slide_number": 157,
+              "slide_title": "DNA and RNA Overview",
+              "content": [
+                "DNA (Deoxyribonucleic Acid): Hereditary material in humans and other organisms; exists in a double helix formed by base pairs attached to a sugar-phosphate backbone",
+                "RNA (Ribonucleic Acid): Serves as genetic code in some viruses; involved in protein synthesis in cells",
+                "Genes are sections of DNA that contain instructions for characteristics",
+                "Genes are located on chromosomes"
+              ]
+            },
+            {
+              "slide_number": 158,
+              "slide_title": "Inquiry Activity 4.1",
+              "content": [
+                "If all organisms are made of DNA, why do they differ?",
+                "Be in a group, search the library and the internet for DNA, discuss and present your findings to the class"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2",
+          "section_title": "The Structure and Function of DNA and RNA",
+          "slides": [
+            {
+              "slide_number": 159,
+              "slide_title": "Structure of DNA",
+              "content": [
+                "DNA has a ladder-like double helix structure twisted into a spiral shape",
+                "Sugar and phosphate groups form the two vertical sides of the ladder",
+                "Nitrogenous bases form the rungs",
+                "Consists of two long chains called polynucleotides"
+              ]
+            },
+            {
+              "slide_number": 160,
+              "slide_title": "Structure of a Nucleotide",
+              "content": [
+                "Nucleotides are the basic building blocks of DNA",
+                "Each nucleotide is composed of:",
+                "SUGAR: Deoxyribose",
+                "PHOSPHATE GROUP",
+                "NITROGENOUS BASE: One of four types"
+              ]
+            },
+            {
+              "slide_number": 161,
+              "slide_title": "Nitrogenous Bases in DNA",
+              "content": [
+                "Four types of nitrogenous bases:",
+                "Adenine (A)",
+                "Thymine (T)",
+                "Guanine (G)",
+                "Cytosine (C)",
+                "A and G are PURINES (double-ring structures)",
+                "C and T are PYRIMIDINES (single-ring structures)",
+                "Base pairing: A pairs with T, C pairs with G"
+              ]
+            },
+            {
+              "slide_number": 162,
+              "slide_title": "DNA Structure Details",
+              "content": [
+                "Sugar (deoxyribose) and phosphate form the backbone",
+                "Nitrogenous bases form hydrogen bonds between the two strands",
+                "Each strand has polarity: 5' end and 3' end",
+                "The two strands run in opposite directions (antiparallel)",
+                "James Watson and Francis Crick discovered the double helix structure"
+              ]
+            },
+            {
+              "slide_number": 163,
+              "slide_title": "Genes and Chromosomes",
+              "content": [
+                "GENES: Sections of DNA that contain instructions for characteristics; basic structural and functional units of inheritance",
+                "CHROMOSOMES: Threadlike structures made of protein (histone) and DNA molecules",
+                "Each chromosome may contain hundreds to thousands of genes",
+                "Locus (Loci): The specific position of a gene on a chromosome",
+                "Chromosomes exist in pairs in diploid organisms (one from each parent)"
+              ]
+            },
+            {
+              "slide_number": 164,
+              "slide_title": "Human Karyotype",
+              "content": [
+                "Human cells contain 46 chromosomes in 23 pairs",
+                "22 pairs are autosomes (non-sex chromosomes)",
+                "1 pair are sex chromosomes (XX for females, XY for males)",
+                "Karyotype: A picture of an individual's chromosomes arranged in pairs"
+              ]
+            },
+            {
+              "slide_number": 165,
+              "slide_title": "Functions of DNA",
+              "content": [
+                "Store all genetic information needed to grow, develop, reproduce, control the cell, and survive",
+                "Determines the characteristics of an organism",
+                "Carries and transmits hereditary material from parents to offspring",
+                "Transmission occurs through DNA replication during cell division"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2.3",
+          "section_title": "DNA Replication",
+          "slides": [
+            {
+              "slide_number": 166,
+              "slide_title": "DNA Replication",
+              "content": [
+                "DNA replication is the process by which DNA makes a copy of itself during cell division",
+                "Essential for transfer of genetic information from one cell to its daughters and from one generation to the next",
+                "DNA gives rise to RNAs through transcription",
+                "DNA replication is SEMICONSERVATIVE"
+              ]
+            },
+            {
+              "slide_number": 167,
+              "slide_title": "Semiconservative Replication",
+              "content": [
+                "Each strand in the DNA double helix acts as a template for the synthesis of a new, complementary strand",
+                "The two original DNA strands separate during replication",
+                "Each strand serves as a template for a new DNA strand",
+                "Each newly synthesized double helix is a combination of one old and one new DNA strand"
+              ]
+            },
+            {
+              "slide_number": 168,
+              "slide_title": "Enzymes in DNA Replication",
+              "content": [
+                "DNA HELICASE: Binds to double-stranded DNA and stimulates separation of the two strands",
+                "DNA POLYMERASE: Adds new nucleotides to a growing strand and links DNA bases in the correct sequence",
+                "RNA PRIMASE: Synthesizes RNA primers complementary to the DNA strand",
+                "DNA LIGASE: Links two fragments of DNA by forming a phosphodiester bond",
+                "TOPOISOMERASE: Prevents supercoiling at the region ahead of the replication fork"
+              ]
+            },
+            {
+              "slide_number": 169,
+              "slide_title": "Stages of DNA Replication",
+              "content": [
+                "STAGE 1: DNA helix is unwound and unzipped; hydrogen bonds between bases break; double helix separates into two strands",
+                "STAGE 2: The two separated strands act as templates; DNA polymerase adds free nucleotides using complementary base pairing (A-T and C-G)",
+                "STAGE 3: The two new strands twist to form a double helix; each is identical to the original strand"
+              ]
+            },
+            {
+              "slide_number": 170,
+              "slide_title": "Replication Fork",
+              "content": [
+                "Replication fork: The Y-shaped structure formed during DNA replication due to unwinding and separation of the two strands",
+                "LEADING STRAND: Synthesized continuously in the same direction as the growing replication fork",
+                "LAGGING STRAND: Synthesized discontinuously in the opposite direction of the growing replication fork"
+              ]
+            },
+            {
+              "slide_number": 171,
+              "slide_title": "Lab Activity 4.3: Extracting DNA from Banana",
+              "content": [
+                "Objective: Observing DNA",
+                "Materials: Banana, Salt, Warm water, Liquid soap, Blender, Toothpicks, Strainer, Glass jar, Rubbing alcohol, Knife",
+                "Procedure: Cut banana into tiny pieces; blend with salt and warm water; strain into jar; add liquid soap; pour cold rubbing alcohol; wait 5 minutes; extract DNA with toothpick",
+                "Result: Long, stringy DNA will be visible"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.2.2",
+          "section_title": "The Structure and Function of RNA",
+          "slides": [
+            {
+              "slide_number": 172,
+              "slide_title": "Structure of RNA",
+              "content": [
+                "RNA has a single-strand structure",
+                "Contains the sugar RIBOSE, phosphates, and nitrogenous bases",
+                "Bases in RNA: Adenine (A), Guanine (G), Cytosine (C), Uracil (U)",
+                "Uracil replaces Thymine found in DNA",
+                "Three types of RNA: mRNA, tRNA, rRNA"
+              ]
+            },
+            {
+              "slide_number": 173,
+              "slide_title": "Functions of RNA",
+              "content": [
+                "RNA is the most important molecule in all life forms",
+                "Functions:",
+                "PROTEIN SYNTHESIS: All types of RNA are involved in translating DNA into proteins",
+                "STORAGE OF GENETIC INFORMATION: In some viruses",
+                "Facilitates translation of DNA into different proteins",
+                "Serves as a messenger conveying instructions between DNA and ribosomes during protein synthesis"
+              ]
+            },
+            {
+              "slide_number": 174,
+              "slide_title": "Inquiry Activity 4.4",
+              "content": [
+                "Compare and contrast DNA and RNA in terms of:",
+                "Full name, definition, location, function, structure",
+                "Sugar, bases, base pairs",
+                "Create a comparison table"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3",
+          "section_title": "The Process of Cell Division",
+          "slides": [
+            {
+              "slide_number": 175,
+              "slide_title": "Introduction to Cell Division",
+              "content": [
+                "Cell division is the process by which cells reproduce and grow",
+                "Enables growth, repair of damaged tissues, and reproduction of organisms",
+                "Information stored in DNA transfers from one cell to another through cell division",
+                "DNA replicates during cell division"
+              ]
+            },
+            {
+              "slide_number": 176,
+              "slide_title": "The Cell Cycle",
+              "content": [
+                "The cell cycle is an ordered series of events involving cell growth and division",
+                "Two major phases:",
+                "INTERPHASE: Preparation for cell division (growth, nutrient gathering, DNA replication)",
+                "MITOTIC PHASE (M PHASE): Cell division itself"
+              ]
+            },
+            {
+              "slide_number": 177,
+              "slide_title": "Stages of Interphase",
+              "content": [
+                "G1 PHASE (First Gap): Cell accumulates building blocks of DNA and proteins; builds energy reserves",
+                "S PHASE (Synthesis): DNA replication proceeds; sister chromatids are formed",
+                "G2 PHASE (Second Gap): Cell replenishes energy; synthesizes proteins for chromosome manipulation; organelles duplicate"
+              ]
+            },
+            {
+              "slide_number": 178,
+              "slide_title": "Inquiry Activity 4.5-4.6",
+              "content": [
+                "Activity 4.5: Investigate the role of cell division in body growth, transfer of genetic materials, and DNA replication",
+                "Activity 4.6: Why do cells divide? How do cells know when to divide and when to stop? What is the significance of cell division?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.3.1",
+          "section_title": "Cell Division (Mitosis and Meiosis)",
+          "slides": [
+            {
+              "slide_number": 179,
+              "slide_title": "Mitosis - Overview",
+              "content": [
+                "Mitosis is the division of somatic cells (body cells)",
+                "Produces two genetically identical daughter cells",
+                "Occurs in growth, repair, and replacement of cells",
+                "Multistep process: Prophase, Metaphase, Anaphase, Telophase (PMAT)"
+              ]
+            },
+            {
+              "slide_number": 180,
+              "slide_title": "Stages of Mitosis",
+              "content": [
+                "PROPHASE: Nuclear envelope dissociates; chromosomes condense and become visible; centrosomes move to opposite poles",
+                "METAPHASE: Chromosomes align at the metaphase plate (equator); sister chromatids attached to microtubules",
+                "ANAPHASE: Sister chromatids separate and are pulled to opposite poles",
+                "TELOPHASE: Chromosomes reach poles and decondense; nuclear envelopes reform",
+                "CYTOKINESIS: Cytoplasmic division; two genetically identical daughter cells"
+              ]
+            },
+            {
+              "slide_number": 181,
+              "slide_title": "Meiosis - Overview",
+              "content": [
+                "Meiosis is the division that produces sex cells (gametes)",
+                "Has two phases: Meiosis I and Meiosis II",
+                "Produces four genetically different daughter cells with haploid number of chromosomes",
+                "Reduces chromosome number by half",
+                "Increases genetic variation through crossing over and independent assortment"
+              ]
+            },
+            {
+              "slide_number": 182,
+              "slide_title": "Meiosis I",
+              "content": [
+                "PROPHASE I: Chromosomes condense; homologous chromosomes pair (synapsis); crossing over occurs; nuclear envelope disintegrates",
+                "METAPHASE I: Homologous pairs align at the equator; spindle fibers attach to one chromosome of each pair",
+                "ANAPHASE I: Homologous chromosomes separate and are pulled to opposite poles",
+                "TELOPHASE I: Chromosomes complete move; nuclear envelopes reform; cytokinesis produces two daughter cells"
+              ]
+            },
+            {
+              "slide_number": 183,
+              "slide_title": "Crossing Over",
+              "content": [
+                "Crossing over occurs during Prophase I of meiosis",
+                "Non-sister chromatids of homologous chromosomes exchange segments of DNA",
+                "Results in new combinations of alleles (genetic variation)",
+                "Increases variability within a population"
+              ]
+            },
+            {
+              "slide_number": 184,
+              "slide_title": "Meiosis II",
+              "content": [
+                "PROPHASE II: Chromosomes condense again in each daughter cell; nuclear membrane dissolves; spindle forms",
+                "METAPHASE II: Sister chromatids line up end-to-end at the equator",
+                "ANAPHASE II: Sister chromatids separate and are pulled to opposite poles",
+                "TELOPHASE II: Chromosomes complete move; nuclear membranes reform; cytokinesis produces four haploid cells"
+              ]
+            },
+            {
+              "slide_number": 185,
+              "slide_title": "Comparison of Mitosis and Meiosis",
+              "content": [
+                "MITOSIS: One division; two daughter cells; diploid; genetically identical; somatic cells",
+                "MEIOSIS: Two divisions; four daughter cells; haploid; genetically different; gametes",
+                "Mitosis: no crossing over; Meiosis: crossing over occurs",
+                "Mitosis: growth and repair; Meiosis: reproduction"
+              ]
+            },
+            {
+              "slide_number": 186,
+              "slide_title": "Inquiry Activity 4.8-4.9",
+              "content": [
+                "Activity 4.8: What are the steps in mitosis? What happens at each step? What will happen if there is uncontrolled cell division?",
+                "Activity 4.9: What are the steps in meiosis I? What happens at each step? What is the difference between mitosis and meiosis I?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.4",
+          "section_title": "Protein Synthesis",
+          "slides": [
+            {
+              "slide_number": 187,
+              "slide_title": "Introduction to Protein Synthesis",
+              "content": [
+                "Protein synthesis is the stepwise production of proteins from amino acids",
+                "Involves DNA, RNA (mRNA, tRNA, rRNA), amino acids, enzymes, and ribosomes",
+                "DNA stores genetic information used to produce proteins",
+                "Two main processes: TRANSCRIPTION and TRANSLATION"
+              ]
+            },
+            {
+              "slide_number": 188,
+              "slide_title": "The Central Dogma",
+              "content": [
+                "The central dogma of molecular biology describes the flow of genetic information:",
+                "DNA → RNA → Protein",
+                "TRANSCRIPTION: DNA is transcribed into mRNA",
+                "TRANSLATION: mRNA is translated into protein",
+                "Reverse transcription: DNA synthesized from RNA (in some viruses)"
+              ]
+            },
+            {
+              "slide_number": 189,
+              "slide_title": "Transcription",
+              "content": [
+                "Transcription is the synthesis of mRNA from DNA in the nucleus",
+                "A segment of DNA unwinds and separates",
+                "Free RNA nucleotides attach to complementary bases on the DNA template",
+                "mRNA is formed with a code (triplets of nucleotides called CODONS)",
+                "mRNA leaves the nucleus and binds to ribosomes in the cytoplasm"
+              ]
+            },
+            {
+              "slide_number": 190,
+              "slide_title": "The Genetic Code",
+              "content": [
+                "A CODON is a sequence of three nucleotides on mRNA that specifies a particular amino acid",
+                "64 possible codons (4^3)",
+                "20 naturally existing amino acids",
+                "3 STOP CODONS: UAG, UAA, UGA",
+                "1 START CODON: AUG (initiates protein synthesis)"
+              ]
+            },
+            {
+              "slide_number": 191,
+              "slide_title": "Translation",
+              "content": [
+                "Translation is the synthesis of protein from amino acids based on the genetic information on mRNA",
+                "mRNA aligns on the ribosome in the cytoplasm",
+                "tRNA carries specific amino acids from the cytoplasm",
+                "ANTICODON on tRNA pairs with CODON on mRNA through complementary base pairing",
+                "Peptide bonds are formed between amino acids",
+                "A polypeptide chain of amino acids forms a protein"
+              ]
+            },
+            {
+              "slide_number": 192,
+              "slide_title": "Roles of RNA in Protein Synthesis",
+              "content": [
+                "mRNA: Carries the genetic code from DNA to the ribosome (messenger)",
+                "tRNA: Brings amino acids to the ribosome; translates codons into amino acids (adapter)",
+                "rRNA: Forms part of the ribosome; helps translate mRNA into protein",
+                "Ribosome: Site of protein synthesis; facilitates translation"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5",
+          "section_title": "Mendelian Inheritance",
+          "slides": [
+            {
+              "slide_number": 193,
+              "slide_title": "Introduction to Mendelian Genetics",
+              "content": [
+                "Gregor Mendel, an Austrian monk, is considered the father of genetics",
+                "He studied how traits are passed from one generation to the next using garden peas (Pisum sativum)",
+                "He discovered two foundational principles of inheritance:",
+                "LAW OF SEGREGATION",
+                "LAW OF INDEPENDENT ASSORTMENT"
+              ]
+            },
+            {
+              "slide_number": 194,
+              "slide_title": "Key Genetic Terms",
+              "content": [
+                "Gene: A segment of DNA that determines a trait",
+                "Allele: Alternative form of a gene (e.g., T for tall, t for short)",
+                "Dominant: The expressed trait in a heterozygote (represented by a capital letter)",
+                "Recessive: The masked trait in a heterozygote (represented by a lowercase letter)",
+                "Genotype: The genetic makeup of an organism (e.g., TT, Tt, tt)",
+                "Phenotype: The observable physical characteristics (e.g., tall, short)",
+                "Homozygous: Two identical alleles (e.g., TT or tt)",
+                "Heterozygous: Two different alleles (e.g., Tt)"
+              ]
+            },
+            {
+              "slide_number": 195,
+              "slide_title": "Mendel's Pea Plant Traits",
+              "content": [
+                "Mendel studied seven pairs of contrasting traits:",
+                "Seed form: Round (dominant) vs. Wrinkled (recessive)",
+                "Seed color: Yellow (dominant) vs. Green (recessive)",
+                "Pod form: Inflated (dominant) vs. Constricted (recessive)",
+                "Pod color: Green (dominant) vs. Yellow (recessive)",
+                "Flower color: Purple (dominant) vs. White (recessive)",
+                "Flower position: Axial (dominant) vs. Terminal (recessive)",
+                "Stem length: Tall (dominant) vs. Short (recessive)"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5.2",
+          "section_title": "Monohybrid Cross",
+          "slides": [
+            {
+              "slide_number": 196,
+              "slide_title": "Monohybrid Cross",
+              "content": [
+                "A cross between two parents to study the inheritance of a SINGLE trait",
+                "Mendel crossed true-breeding (pure) parents with contrasting traits",
+                "Example: Tall (TT) x Short (tt)",
+                "F1 GENERATION: All heterozygous (Tt), all tall (dominant trait expressed)",
+                "F1 self-cross (Tt x Tt) produces F2 GENERATION"
+              ]
+            },
+            {
+              "slide_number": 197,
+              "slide_title": "F2 Generation Ratios",
+              "content": [
+                "F2 generation from Tt x Tt:",
+                "GENOTYPIC RATIO: 1 TT : 2 Tt : 1 tt",
+                "PHENOTYPIC RATIO: 3 Tall : 1 Short",
+                "This demonstrates the LAW OF SEGREGATION",
+                "The 3:1 ratio was observed for all seven traits Mendel studied"
+              ]
+            },
+            {
+              "slide_number": 198,
+              "slide_title": "Law of Segregation",
+              "content": [
+                "Mendel's first law of heredity",
+                "States that copies of genes randomly separate or segregate during meiosis",
+                "Each gamete receives only one allele",
+                "The physical basis is the first division of meiosis",
+                "Homologous chromosomes with their different versions of each gene are segregated into daughter nuclei"
+              ]
+            },
+            {
+              "slide_number": 199,
+              "slide_title": "Inquiry Activity 4.14",
+              "content": [
+                "Show F1, F2, homozygous, heterozygous, dominant, recessive, genotype, phenotype using the Punnett square for pea plants with:",
+                "1. Round (RR) versus wrinkled (rr) seed shapes",
+                "2. Pure yellow seed versus pure green seed",
+                "Present in the class"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5.3",
+          "section_title": "Dihybrid Cross",
+          "slides": [
+            {
+              "slide_number": 200,
+              "slide_title": "Dihybrid Cross",
+              "content": [
+                "A cross between two parents to study the inheritance of TWO traits simultaneously",
+                "Example: Round Yellow (RRYY) x Wrinkled Green (rryy)",
+                "F1 GENERATION: All RrYy (Round Yellow)",
+                "F1 self-cross (RrYy x RrYy) produces F2 generation"
+              ]
+            },
+            {
+              "slide_number": 201,
+              "slide_title": "F2 Generation in Dihybrid Cross",
+              "content": [
+                "F2 generation from RrYy x RrYy:",
+                "PHENOTYPIC RATIO: 9:3:3:1",
+                "9 Round Yellow",
+                "3 Round Green",
+                "3 Wrinkled Yellow",
+                "1 Wrinkled Green",
+                "This demonstrates the LAW OF INDEPENDENT ASSORTMENT"
+              ]
+            },
+            {
+              "slide_number": 202,
+              "slide_title": "Law of Independent Assortment",
+              "content": [
+                "Mendel's second law of heredity",
+                "States that genes do not influence each other with regard to the sorting of alleles into gametes",
+                "Every possible combination of alleles for every gene is equally likely to occur",
+                "Separate genes for separate traits are passed independently of one another",
+                "Occurs in metaphase I of meiosis when pairs of chromosomes randomly align"
+              ]
+            },
+            {
+              "slide_number": 203,
+              "slide_title": "Inquiry Activity 4.15",
+              "content": [
+                "Using your knowledge of dihybrid crosses, create a Punnett square to show the cross between Green axial (GGAA) and yellow terminal (ggaa)",
+                "What are the gametes?",
+                "How can we get the gametes to cross between F1 generations (GgAa x GgAa)?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.5.4",
+          "section_title": "Test Crosses",
+          "slides": [
+            {
+              "slide_number": 204,
+              "slide_title": "Test Cross",
+              "content": [
+                "A test cross is used to determine the genotype of an organism with a dominant phenotype",
+                "Cross the unknown genotype with a KNOWN HOMOZYGOUS RECESSIVE (pp)",
+                "If all offspring show dominant trait: Unknown is HOMOZYGOUS DOMINANT (PP)",
+                "If any offspring show recessive trait: Unknown is HETEROZYGOUS (Pp)"
+              ]
+            },
+            {
+              "slide_number": 205,
+              "slide_title": "Test Cross Example",
+              "content": [
+                "Example: Purple flower (unknown genotype) crossed with white flower (pp)",
+                "If all F1 are purple: Unknown is PP",
+                "If F1 shows 1:1 ratio of purple to white: Unknown is Pp",
+                "The appearance of the recessive trait indicates heterozygosity"
+              ]
+            },
+            {
+              "slide_number": 206,
+              "slide_title": "Backcross",
+              "content": [
+                "A backcross is a cross between the F1 individual and either of its parents",
+                "F1 hybrid is crossed back with any of the parents, either recessive or dominant",
+                "Differs from a test cross, which always uses a homozygous recessive"
+              ]
+            },
+            {
+              "slide_number": 207,
+              "slide_title": "Inquiry Activity 4.17-4.18",
+              "content": [
+                "Activity 4.17: A breeder wants to know his/her dog's genotype. Black is dominant to yellow. The black dog is bred with a yellow dog and produces three black and three yellow puppies. What is the genotype of the parental black dog?",
+                "Activity 4.18: Investigate how to apply Mendelian genetics in humans using human single-gene traits (earlobes, albinism, hair style, eye color, tongue rolling). Show crosses using Punnett squares."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.6",
+          "section_title": "Sex Determination",
+          "slides": [
+            {
+              "slide_number": 208,
+              "slide_title": "Sex Determination in Humans",
+              "content": [
+                "In humans, sex is determined by sex chromosomes",
+                "Females: XX (two X chromosomes)",
+                "Males: XY (one X, one Y chromosome)",
+                "Autosomes: 22 pairs of non-sex chromosomes",
+                "Sex chromosomes: 1 pair (XX or XY)"
+              ]
+            },
+            {
+              "slide_number": 209,
+              "slide_title": "Mechanism of Sex Determination",
+              "content": [
+                "Female produces eggs that all contain an X chromosome",
+                "Male produces two types of sperm: X-bearing and Y-bearing",
+                "X sperm + X egg = XX (female)",
+                "Y sperm + X egg = XY (male)",
+                "The father's sperm determines the sex of the offspring",
+                "Probability: 50% male, 50% female"
+              ]
+            },
+            {
+              "slide_number": 210,
+              "slide_title": "Other Sex Determination Systems",
+              "content": [
+                "Hermaphroditism: Both male and female organs in the same individual (e.g., earthworms)",
+                "Haplodiploidy: Males develop from unfertilized eggs (haploid), females from fertilized eggs (diploid) (e.g., bees, ants)"
+              ]
+            },
+            {
+              "slide_number": 211,
+              "slide_title": "Inquiry Activity 4.19",
+              "content": [
+                "1. What is the difference between hermaphroditism and haplodiploidy?",
+                "2. How does sex determination occur in other organisms like insects, birds, fish, and reptiles?",
+                "3. What is the probability of being male and female in human reproduction?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.7",
+          "section_title": "Non-Mendelian Inheritance",
+          "slides": [
+            {
+              "slide_number": 212,
+              "slide_title": "Non-Mendelian Inheritance",
+              "content": [
+                "Non-Mendelian inheritance does not follow Mendel's laws",
+                "Includes:",
+                "CO-DOMINANCE: Both alleles expressed equally",
+                "INCOMPLETE DOMINANCE: Intermediate phenotype in heterozygote",
+                "MULTIPLE ALLELES: More than two alleles for a gene"
+              ]
+            },
+            {
+              "slide_number": 213,
+              "slide_title": "Co-dominance",
+              "content": [
+                "Both alleles in a heterozygote are fully expressed",
+                "Example: Cattle coat color",
+                "Red (RR) x White (WW) = Roan (RW)",
+                "Roan shows both red and white hairs",
+                "Phenotypic ratio: 1 Red : 2 Roan : 1 White"
+              ]
+            },
+            {
+              "slide_number": 214,
+              "slide_title": "Incomplete Dominance",
+              "content": [
+                "Heterozygote shows an intermediate phenotype",
+                "Example: Snapdragon flower color",
+                "Red (RR) x White (WW) = Pink (RW)",
+                "Pink is a blend of red and white",
+                "Phenotypic ratio: 1 Red : 2 Pink : 1 White"
+              ]
+            },
+            {
+              "slide_number": 215,
+              "slide_title": "ABO Blood Groups",
+              "content": [
+                "ABO blood groups are an example of multiple alleles and co-dominance",
+                "Three alleles: IA, IB, i",
+                "IA and IB are co-dominant",
+                "i is recessive",
+                "Genotypes and phenotypes:",
+                "IAIA or IAi = Type A",
+                "IBIB or IBi = Type B",
+                "IAIB = Type AB (co-dominant)",
+                "ii = Type O"
+              ]
+            },
+            {
+              "slide_number": 216,
+              "slide_title": "Blood Transfusion Compatibility",
+              "content": [
+                "Type A: Has A antigen, anti-B antibodies; can receive A or O",
+                "Type B: Has B antigen, anti-A antibodies; can receive B or O",
+                "Type AB: Has A and B antigens, no antibodies; universal recipient",
+                "Type O: No antigens, both antibodies; universal donor"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.7.2",
+          "section_title": "Rh Factor Inheritance",
+          "slides": [
+            {
+              "slide_number": 217,
+              "slide_title": "Rh Factor",
+              "content": [
+                "Rh factor is another blood group system independent of ABO",
+                "Two alleles: Rh+ (dominant) and Rh- (recessive)",
+                "Rh+ individuals have Rh antigen on red blood cells",
+                "Rh- individuals do not have Rh antigen"
+              ]
+            },
+            {
+              "slide_number": 218,
+              "slide_title": "Rh Incompatibility",
+              "content": [
+                "Rh incompatibility occurs when an Rh- mother carries an Rh+ baby",
+                "During pregnancy/delivery, mother may be exposed to Rh antigen",
+                "Mother produces anti-Rh antibodies",
+                "In subsequent pregnancy with Rh+ baby, antibodies attack fetal red blood cells",
+                "Can cause hemolytic disease of the newborn (erythroblastosis fetalis)",
+                "Prevented by administering RhoGAM to Rh- mothers"
+              ]
+            },
+            {
+              "slide_number": 219,
+              "slide_title": "Inquiry Activity 4.21-4.22",
+              "content": [
+                "Activity 4.21: Use Punnett squares to show co-dominance and blood type inheritance: blood group A with B, A with AB, B with AB. Show offspring blood types.",
+                "Activity 4.22: Show possible blood types when Rh+ man marries Rh+ woman, and Rh+ man marries Rh- woman. Investigate 'Shotelay' in your area and its relation to Rh factor."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.7.3-4.7.4",
+          "section_title": "Sex-Linked Inheritance and Environmental Effects",
+          "slides": [
+            {
+              "slide_number": 220,
+              "slide_title": "Sex-Linked Inheritance",
+              "content": [
+                "Sex-linked traits are controlled by genes on sex chromosomes (usually X chromosome)",
+                "Males are hemizygous (one X chromosome) - only one allele for X-linked genes",
+                "Females have two X chromosomes - two alleles for X-linked genes",
+                "X-linked recessive traits are more common in males",
+                "Examples: Hemophilia, Red-green color blindness"
+              ]
+            },
+            {
+              "slide_number": 221,
+              "slide_title": "Hemophilia Example",
+              "content": [
+                "Hemophilia is an X-linked recessive disorder",
+                "Carrier mother (XHXh) crossed with normal father (XHY)",
+                "Sons: 50% chance of inheriting the disease",
+                "Daughters: 50% chance of being carriers",
+                "A male cannot inherit an X-linked trait from his father"
+              ]
+            },
+            {
+              "slide_number": 222,
+              "slide_title": "Environmental Effects on Phenotype",
+              "content": [
+                "Phenotype is not solely determined by genotype",
+                "Environmental factors can also influence phenotype",
+                "Phenocopy: Environmentally induced phenotype that mimics a genotype",
+                "Example: Himalayan rabbits",
+                "Raised in moderate temperatures: white body with black nose, ears, tail",
+                "Raised in cold temperatures: entire coat turns black"
+              ]
+            },
+            {
+              "slide_number": 223,
+              "slide_title": "Inquiry Activity 4.23",
+              "content": [
+                "Search X-linked trait color blindness from reference books or the internet",
+                "Discuss how it can pass from parent to offspring",
+                "How does the environment affect the phenotype of organisms?"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.8",
+          "section_title": "Human Pedigree Analysis",
+          "slides": [
+            {
+              "slide_number": 224,
+              "slide_title": "Pedigree Analysis",
+              "content": [
+                "A pedigree is a family tree that shows the inheritance of a trait or disease",
+                "Used to study human traits because controlled crosses are not possible",
+                "Symbols: Circles = females, Squares = males",
+                "Shaded symbols = affected individuals",
+                "Unshaded symbols = unaffected individuals"
+              ]
+            },
+            {
+              "slide_number": 225,
+              "slide_title": "Autosomal Dominant Pedigree",
+              "content": [
+                "Traits appear in every generation",
+                "Affected individuals have at least one affected parent",
+                "Both males and females equally affected",
+                "Example: Huntington's disease"
+              ]
+            },
+            {
+              "slide_number": 226,
+              "slide_title": "Autosomal Recessive Pedigree",
+              "content": [
+                "Traits may skip generations",
+                "Affected individuals often have unaffected parents (carriers)",
+                "Both males and females equally affected",
+                "Example: Cystic fibrosis, albinism"
+              ]
+            },
+            {
+              "slide_number": 227,
+              "slide_title": "Inquiry Activity 4.24",
+              "content": [
+                "Find a pedigree that shows the transfer of a trait in a family",
+                "Determine whether it is autosomal dominant, autosomal recessive, or X-linked",
+                "Discuss how these can be shown in a pedigree and present to the class"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.9",
+          "section_title": "Genetic Disorders",
+          "slides": [
+            {
+              "slide_number": 228,
+              "slide_title": "Genetic Disorders",
+              "content": [
+                "A genetic disorder is a disease caused by changes (mutations) in DNA",
+                "Mutations can occur due to errors in DNA replication or environmental factors",
+                "Three main categories:",
+                "SINGLE-GENE DISORDERS: Mutations in one gene",
+                "CHROMOSOMAL DISORDERS: Changes in chromosome number or structure",
+                "MULTIFACTORIAL DISORDERS: Combination of genes and environment"
+              ]
+            },
+            {
+              "slide_number": 229,
+              "slide_title": "Single-Gene Disorders",
+              "content": [
+                "Autosomal Dominant: Huntington's disease (one copy causes disease)",
+                "Autosomal Recessive: Cystic fibrosis, albinism (two copies needed)",
+                "X-Linked Recessive: Hemophilia (more common in males)"
+              ]
+            },
+            {
+              "slide_number": 230,
+              "slide_title": "Chromosomal Disorders",
+              "content": [
+                "Down Syndrome (Trisomy 21): Extra copy of chromosome 21",
+                "Aneuploidy: Wrong number of chromosomes (2n+1, 2n-1)",
+                "Deletion: Part of a chromosome missing",
+                "Inversion: Segment of chromosome flipped and reinserted",
+                "Translocation: Segment moved from one chromosome to another"
+              ]
+            },
+            {
+              "slide_number": 231,
+              "slide_title": "Multifactorial Disorders",
+              "content": [
+                "Caused by changes in multiple genes and environmental factors",
+                "Examples: Diabetes, Cancer",
+                "Environmental factors: smoking, alcohol, poor diet, lack of sleep, air pollution"
+              ]
+            },
+            {
+              "slide_number": 232,
+              "slide_title": "Inquiry Activity 4.26-4.29",
+              "content": [
+                "Activity 4.26: Investigate albinism and cystic fibrosis (causes, symptoms, treatment)",
+                "Activity 4.27: Investigate hemophilia (cause, symptoms, treatment)",
+                "Activity 4.28: Investigate Down syndrome (cause, symptoms, treatment)",
+                "Activity 4.29: Investigate diabetes and cancer (cause, symptoms, treatment)"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.10-4.11",
+          "section_title": "Genetic Testing, Counseling, and Gene Therapy",
+          "slides": [
+            {
+              "slide_number": 233,
+              "slide_title": "Genetic Testing and Counseling",
+              "content": [
+                "GENETIC TESTING: Examines DNA to identify changes or mutations",
+                "Used for diagnosis, carrier screening, prenatal testing (amniocentesis, chorionic villus sampling)",
+                "GENETIC COUNSELING: Reviews family medical history, interprets test results, explains inheritance patterns",
+                "Helps individuals and families understand risks and make informed decisions"
+              ]
+            },
+            {
+              "slide_number": 234,
+              "slide_title": "Gene Therapy",
+              "content": [
+                "Gene therapy is a technique that introduces genes into cells to correct genetic disorders",
+                "Types:",
+                "VIRAL VECTORS: Modified viruses deliver therapeutic genes",
+                "BACTERIAL VECTORS: Modified bacteria deliver genes",
+                "GENE EDITING: Repair or disrupt harmful genes",
+                "PATIENT-DERIVED CELLULAR THERAPY: Cells removed, modified, and returned"
+              ]
+            },
+            {
+              "slide_number": 235,
+              "slide_title": "Challenges in Gene Therapy",
+              "content": [
+                "Delivering the gene to the right place",
+                "Switching the gene on at the right time",
+                "Avoiding immune responses",
+                "Ensuring the new gene doesn't disrupt other genes",
+                "High cost of treatment"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4.12-4.13",
+          "section_title": "Breeding and Bioinformatics",
+          "slides": [
+            {
+              "slide_number": 236,
+              "slide_title": "Breeding",
+              "content": [
+                "Breeding is the application of genetic principles in animal husbandry and agriculture",
+                "SELECTIVE BREEDING (Artificial Selection): Choosing parents with desirable traits",
+                "INBREEDING: Mating closely related individuals (increases homozygosity)",
+                "CROSSBREEDING: Mating different breeds or species (combines desirable traits)",
+                "PLANT BREEDING: Mass selection, pure line selection, bulk selection"
+              ]
+            },
+            {
+              "slide_number": 237,
+              "slide_title": "Indigenous Knowledge in Breeding",
+              "content": [
+                "Ethiopia has the largest livestock population in Africa",
+                "Ethiopia is a center of crop diversity (coffee, teff, enset, etc.)",
+                "Indigenous knowledge: selecting plants and animals based on growth rate, body size, disease resistance",
+                "Traditional practices have been developed over generations",
+                "Examples: selection of seeds, fruits, cattle, goats, and sheep"
+              ]
+            },
+            {
+              "slide_number": 238,
+              "slide_title": "Bioinformatics",
+              "content": [
+                "Bioinformatics combines biology, computer science, and information technology",
+                "Used to store, organize, analyze, and interpret biological data",
+                "Main areas: GENOMICS (DNA sequences), PROTEOMICS (protein function), SYSTEMS BIOLOGY (molecular interactions)",
+                "Applications: disease diagnosis, vaccine development, evolutionary studies, DNA sequencing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "subject": "Biology",
+  "grade": 11,
+  "presentation_slides": [
+    {
+      "unit_number": 5,
+      "unit_title": "The Human Body Systems",
+      "sections": [
+        {
+          "section_number": "5.1",
+          "section_title": "Human Musculoskeletal Systems",
+          "slides": [
+            {
+              "slide_number": 239,
+              "slide_title": "Introduction to Musculoskeletal System",
+              "content": [
+                "The human musculoskeletal system provides the body with shape, form, and the ability to move",
+                "Composed of the MUSCULAR SYSTEM and SKELETAL SYSTEM",
+                "Muscles keep bones in place and enable movements",
+                "Joints and cartilages connect bones and prevent friction",
+                "Tendons connect muscles to bones",
+                "Ligaments are fibrous connective tissues that attach bone to bone"
+              ]
+            },
+            {
+              "slide_number": 240,
+              "slide_title": "Functions of the Musculoskeletal System",
+              "content": [
+                "Provides support and shape to the body",
+                "Protects vital organs (brain, heart, lungs)",
+                "Enables movement and locomotion",
+                "Produces blood cells in bone marrow",
+                "Stores minerals (calcium, phosphorus) and releases them when needed",
+                "Stores and releases fat for energy"
+              ]
+            },
+            {
+              "slide_number": 241,
+              "slide_title": "Types of Muscles",
+              "content": [
+                "There are approximately 700 muscles in the human body",
+                "Three types of muscles:",
+                "1. CARDIAC MUSCLE: Found only in the heart; involuntary; striated; forms thick middle layer of heart wall",
+                "2. SKELETAL MUSCLE: Attached to bones; voluntary; striated; 30-40% of total body mass; allows movement",
+                "3. SMOOTH MUSCLE: Found in walls of hollow organs; involuntary; non-striated; controls flow of substances"
+              ]
+            },
+            {
+              "slide_number": 242,
+              "slide_title": "Smooth Muscle Locations",
+              "content": [
+                "Smooth muscles are found in the walls of:",
+                "Stomach, intestine, bladder, and uterus",
+                "Blood vessels and lymph vessels",
+                "Respiratory tracts",
+                "Urinary and reproductive systems",
+                "Eyes (ciliary muscles)",
+                "Skin (erector pili muscles that cause hair to stand erect)"
+              ]
+            },
+            {
+              "slide_number": 243,
+              "slide_title": "Mechanism of Skeletal Muscle Action",
+              "content": [
+                "Skeletal muscles are bundles of muscle fibers formed by fusion of many cells",
+                "MYOFIBRILS: Cylindrical bundles containing thick and thin filaments",
+                "THICK FILAMENTS: Made of MYOSIN",
+                "THIN FILAMENTS: Made of ACTIN",
+                "SARCOMERE: The contractile unit organized as a chain",
+                "Muscle contraction occurs when actin and myosin filaments slide past each other"
+              ]
+            },
+            {
+              "slide_number": 244,
+              "slide_title": "Steps of Muscle Contraction",
+              "content": [
+                "1. MUSCLE ACTIVATION: Motor nerve stimulates action potential; sarcoplasmic reticulum releases calcium",
+                "2. MUSCLE CONTRACTION: Calcium binds with troponin; actin and myosin bind; cross bridges form and contract using ATP",
+                "3. RECHARGING: ATP is re-synthesized; actin and myosin maintain strong binding state",
+                "4. RELAXATION: Nerve stimulation stops; calcium pumped back; actin and myosin return to unbound state"
+              ]
+            },
+            {
+              "slide_number": 245,
+              "slide_title": "Types of Muscle Contractions",
+              "content": [
+                "1. ISOMETRIC: Muscle length does not change (e.g., holding a weight)",
+                "2. CONCENTRIC: Muscle shortens (e.g., lifting a weight)",
+                "3. ECCENTRIC: Muscle lengthens (e.g., lowering a weight)"
+              ]
+            },
+            {
+              "slide_number": 246,
+              "slide_title": "Bone Structure",
+              "content": [
+                "Humans are born with over 300 bones; adults have 206 bones",
+                "Bones are composed of collagen (protein) and calcium phosphate",
+                "Four types of bone cells:",
+                "OSTEOBLASTS: Form new bone",
+                "OSTEOCYTES: Mature bone cells",
+                "OSTEOCLASTS: Break down bone",
+                "OSTEOPROGENITOR: Repair fractures"
+              ]
+            },
+            {
+              "slide_number": 247,
+              "slide_title": "Types of Bones",
+              "content": [
+                "1. LONG BONES: Longer than wide (femur, tibia)",
+                "2. SHORT BONES: Squat, cubed shape (carpals)",
+                "3. FLAT BONES: Flattened, broad surfaces (skull, sternum, ribs)",
+                "4. IRREGULAR BONES: Complex shapes (vertebrae)",
+                "5. SESAMOID BONES: Small, sesame seed-shaped, embedded in muscles"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.1.3",
+          "section_title": "Human Axial and Appendicular Skeletons",
+          "slides": [
+            {
+              "slide_number": 248,
+              "slide_title": "Axial Skeleton",
+              "content": [
+                "Forms the central axis of the body",
+                "Consists of 80 bones",
+                "SKULL: 22 bones (cranium 8 + facial 14) - protects the brain",
+                "OSSICLES: 6 bones (3 in each ear) - for hearing",
+                "HYOID: 1 bone in the neck - holds the head",
+                "RIB CAGE (THORACIC CAGE): 24 ribs - protects the heart and lungs",
+                "STERNUM (THORAX): 1 bone - binds and handles the abdomen",
+                "VERTEBRAL COLUMN: 26 bones - supports the body"
+              ]
+            },
+            {
+              "slide_number": 249,
+              "slide_title": "Appendicular Skeleton",
+              "content": [
+                "Consists of 126 bones",
+                "Includes the bones of the limbs and girdles",
+                "SHOULDER GIRDLES: 4 bones",
+                "PELVIS: 2 bones",
+                "ARMS AND FOREARMS: 6 bones",
+                "THIGHS AND LEGS: 8 bones",
+                "HANDS: 54 bones",
+                "FEET AND ANKLES: 52 bones",
+                "Total bones in human body: 80 + 126 = 206"
+              ]
+            },
+            {
+              "slide_number": 250,
+              "slide_title": "Inquiry Activity 5.2",
+              "content": [
+                "Visit a traditional bone healer (Wogesha)",
+                "Discuss traditional healing processes, techniques, and experience of bone fractures",
+                "Identify local materials used and care methods",
+                "Compare indigenous knowledge and orthopedic practices of healing",
+                "Present results to the class in groups of five"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.1.4",
+          "section_title": "Joints",
+          "slides": [
+            {
+              "slide_number": 251,
+              "slide_title": "Introduction to Joints",
+              "content": [
+                "Joints are the parts of the body where two or more bones meet",
+                "Allow the body to produce movements",
+                "Types of joints based on movement:"
+              ]
+            },
+            {
+              "slide_number": 252,
+              "slide_title": "Types of Joints",
+              "content": [
+                "1. BALL AND SOCKET JOINT: Rounded head fits in cup; movement in all directions (shoulder, hip)",
+                "2. HINGE JOINT: Opens and closes in one plane (elbow, knee)",
+                "3. CONDYLOID JOINT: Movement without rotation (finger, jaw)",
+                "4. PIVOT JOINT: Rotary movement; one bone swivels in a ring (neck, ulna-radius)",
+                "5. GLIDING JOINT: Limited movement by slipping smooth surfaces (wrist)",
+                "6. SADDLE JOINT: Movement back and forth, side to side; no rotation (thumb)"
+              ]
+            },
+            {
+              "slide_number": 253,
+              "slide_title": "Inquiry Activity 5.3",
+              "content": [
+                "Construct the human musculoskeletal system from locally available materials",
+                "Create a robotic system model",
+                "Label each part using scientific terms and count the bones",
+                "Define the following terms and present to class:",
+                "The muscular system",
+                "The skeletal system",
+                "The functions of the musculoskeletal system"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.2",
+          "section_title": "The Reproductive System",
+          "slides": [
+            {
+              "slide_number": 254,
+              "slide_title": "Introduction to Reproductive System",
+              "content": [
+                "The human reproductive system is responsible for producing offspring",
+                "Function of male reproductive system: produce and deposit sperms",
+                "Function of female reproductive system: produce egg cells, provide site for fertilization and fetal development",
+                "Internal fertilization occurs when sperm meets egg in the female reproductive tract"
+              ]
+            },
+            {
+              "slide_number": 255,
+              "slide_title": "Male Reproductive System",
+              "content": [
+                "External organs: Penis, Testes, Scrotum",
+                "Internal organs: Prostate gland, Vas deferens, Urethra",
+                "TESTES: Produce sperm and testosterone",
+                "SEMINIFEROUS TUBULES: Produce immature sperm",
+                "EPIDIDYMIS: Matures and stores sperm",
+                "VAS DEFERENS: Carries sperm from epididymis",
+                "PROSTATE GLAND: Secretes alkaline buffer to protect sperm",
+                "PENIS: Deposits sperm into vagina; contains the urethra"
+              ]
+            },
+            {
+              "slide_number": 256,
+              "slide_title": "Female Reproductive System",
+              "content": [
+                "Internal organs: Ovaries, Fallopian tubes, Uterus, Vagina",
+                "External organs: Labia majora, Labia minora, Clitoris, Bartholin's glands",
+                "OVARIES: Produce eggs (ova) and hormones (estrogen, progesterone)",
+                "FALLOPIAN TUBES (OVIDUCTS): Carry eggs to uterus; site of fertilization",
+                "UTERUS (WOMB): Pear-shaped organ where fetus develops",
+                "VAGINA: Birth canal; receives sperm"
+              ]
+            },
+            {
+              "slide_number": 257,
+              "slide_title": "Gametogenesis Overview",
+              "content": [
+                "Gametogenesis is the formation and development of gametes (sperm and eggs)",
+                "Haploid daughter cells (n) formed from diploid mother cells (2n) through meiosis",
+                "SPERMATOGENESIS: Formation of sperm in males",
+                "OOGENESIS: Formation of eggs (ova) in females"
+              ]
+            },
+            {
+              "slide_number": 258,
+              "slide_title": "Spermatogenesis",
+              "content": [
+                "Process in the seminiferous tubules of the testis",
+                "Primordial germ cells (PGCs) divide by mitosis to produce spermatogonia (diploid)",
+                "Spermatogonia undergo mitosis to form primary spermatocytes",
+                "Primary spermatocytes undergo meiosis I → two secondary spermatocytes (haploid)",
+                "Secondary spermatocytes undergo meiosis II → four spermatids (haploid)",
+                "Spermatids undergo spermiogenesis → mature spermatozoa (sperm)",
+                "Maturation occurs in the epididymis"
+              ]
+            },
+            {
+              "slide_number": 259,
+              "slide_title": "Oogenesis",
+              "content": [
+                "Process in the ovaries",
+                "Oogonia (diploid) undergo mitosis and then meiosis to form primary oocytes",
+                "Primary oocytes are arrested in prophase I until puberty",
+                "At puberty, primary oocyte completes meiosis I → secondary oocyte + polar body",
+                "Secondary oocyte is arrested in metaphase II; released during ovulation",
+                "If fertilization occurs, completes meiosis II → mature ovum + second polar body",
+                "Result: 1 mature egg and 3 polar bodies (which degenerate)"
+              ]
+            },
+            {
+              "slide_number": 260,
+              "slide_title": "Menstrual Cycle Phases",
+              "content": [
+                "Menstrual cycle averages about 28 days (can range from 20-45 days)",
+                "FOLLICULAR PHASE (Days 5-13): FSH stimulates follicle growth; estrogen is produced",
+                "OVULATION PHASE (Day 14): LH surge triggers release of a mature egg (secondary oocyte)",
+                "LUTEAL PHASE (Days 15-28): Corpus luteum forms and produces progesterone",
+                "MENSTRUATION PHASE (Days 1-4): If fertilization doesn't occur, uterine lining sheds"
+              ]
+            },
+            {
+              "slide_number": 261,
+              "slide_title": "Positive and Negative Feedback in Menstrual Cycle",
+              "content": [
+                "POSITIVE FEEDBACK: Estrogen stimulates hypothalamus to release GnRH → LH surge → ovulation",
+                "NEGATIVE FEEDBACK: High estrogen and progesterone inhibit FSH and LH release",
+                "LH (Luteinizing Hormone): Triggers ovulation; stimulates testosterone in males",
+                "FSH (Follicle Stimulating Hormone): Stimulates follicle development; regulates sperm production"
+              ]
+            },
+            {
+              "slide_number": 262,
+              "slide_title": "Fertilization and Pregnancy",
+              "content": [
+                "FERTILIZATION: Union of sperm and egg in the ampulla of the fallopian tube",
+                "Zygote (2n) formed with 46 chromosomes (23 from each parent)",
+                "Zygote divides as it moves to the uterus",
+                "IMPLANTATION: Embryo attaches to the uterine lining (about 6 days after fertilization)",
+                "PREGNANCY (GESTATION): Lasts about 40 weeks (280 days)",
+                "Signs of pregnancy: Missed periods, tender breasts, morning sickness, frequent urination"
+              ]
+            },
+            {
+              "slide_number": 263,
+              "slide_title": "Contraceptive Methods",
+              "content": [
+                "BARRIER METHODS: Condoms, Diaphragm, Cervical cap (physical barrier)",
+                "HORMONAL METHODS: Oral pills, Implants, Injections, Vaginal ring (prevent ovulation)",
+                "INTRAUTERINE DEVICES (IUD): Prevent fertilization and implantation",
+                "STERILIZATION: Vasectomy (male), Tubal ligation (female) - permanent",
+                "EMERGENCY CONTRACEPTION: Post-pill (taken within 72 hours)"
+              ]
+            },
+            {
+              "slide_number": 264,
+              "slide_title": "Causes of Infertility",
+              "content": [
+                "FEMALE INFERTILITY: Ovulatory problems, thyroid issues, pelvic surgery, endometriosis, fibroids, pelvic inflammatory disease",
+                "MALE INFERTILITY: Low sperm production, abnormal sperm function, blockages, varicocele, hormonal imbalances",
+                "Risk factors: Smoking, alcohol, drug use, obesity, STIs, exposure to toxins"
+              ]
+            },
+            {
+              "slide_number": 265,
+              "slide_title": "Sexually Transmitted Infections (STIs)",
+              "content": [
+                "BACTERIAL: Chlamydia, Syphilis, Gonorrhea, Chancroid, Bacterial Vaginosis",
+                "VIRAL: Genital Herpes (HSV), Genital Warts (HPV), HIV/AIDS, Hepatitis B, Molluscum Contagiosum",
+                "PARASITIC: Pubic Lice (Crabs), Trichomoniasis, Scabies",
+                "Prevention: Condom use, limiting partners, regular testing",
+                "HIV has three stages: Acute, Chronic, AIDS (CD4 count < 200 cells/mm3)"
+              ]
+            },
+            {
+              "slide_number": 266,
+              "slide_title": "HIV/AIDS",
+              "content": [
+                "HIV attacks CD4 helper T cells of the immune system",
+                "STAGE 1 (Acute): 2-4 weeks after infection; flu-like symptoms",
+                "STAGE 2 (Chronic): 1-7 years; asymptomatic; HIV multiplies",
+                "STAGE 3 (AIDS): CD4 count < 200 cells/mm3; severe immune damage",
+                "Transmission: Unprotected sex, blood, mother to child, contaminated needles",
+                "Treatment: Antiretroviral therapy (ART), no cure yet"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.3-5.4",
+          "section_title": "Harmful Practices and Family Planning",
+          "slides": [
+            {
+              "slide_number": 267,
+              "slide_title": "Harmful Traditional Practices",
+              "content": [
+                "Harmful traditional practices affect physical and mental health",
+                "Examples in Ethiopia:",
+                "1. EARLY MARRIAGE: Forcing underage girls to marry; causes drop out of school, health risks",
+                "2. KIDNAPPING (ABDUCTION): Forcing a girl into marriage unwillingly",
+                "3. GENDER-BASED VIOLENCE: Sexual abuse, harassment, violence",
+                "4. FEMALE GENITAL MUTILATION (FGM): Partial or total removal of external female genitalia (73% of practices)"
+              ]
+            },
+            {
+              "slide_number": 268,
+              "slide_title": "Family Planning",
+              "content": [
+                "Family planning is the ability to anticipate and attain a desired number of children and spacing of births",
+                "Benefits: Prevents unwanted pregnancies, reduces maternal mortality, empowers women",
+                "Risks of lack of family planning: Maternal health complications, teenage pregnancies, unsafe abortions",
+                "Family planning actions: Safe family from STIs, counseling, waiting after miscarriage",
+                "Family planning services: Pregnancy testing and counseling, infertility counseling, STI counseling, cancer screening"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5.5",
+          "section_title": "Effects of Alcohol, Khat, and Drug Use",
+          "slides": [
+            {
+              "slide_number": 269,
+              "slide_title": "Effects of Alcohol Use",
+              "content": [
+                "Alcohol impairs brain function, coordination, and judgment",
+                "Short-term effects: Sleepiness, confusion, euphoria",
+                "Long-term effects: Liver damage (cirrhosis), brain damage, heart disease",
+                "Alcohol is associated with risky sexual behavior and increased STI transmission",
+                "Heavy drinking can cause coma and death",
+                "Alcohol causes 6.2% of male and 1.1% of female deaths globally"
+              ]
+            },
+            {
+              "slide_number": 270,
+              "slide_title": "Effects of Chewing Khat",
+              "content": [
+                "Khat (Catha edulis) contains cathinone, a stimulant drug",
+                "Affects approximately 20 million people worldwide",
+                "Short-term effects: Alertness, euphoria, increased blood pressure, appetite suppression, insomnia",
+                "Long-term effects: Depression, hypertension, gastritis, constipation, metabolic disorders",
+                "Regular use can cause tooth decay, gum disease, ulcers, and impotency in males"
+              ]
+            },
+            {
+              "slide_number": 271,
+              "slide_title": "Effects of Drug Use",
+              "content": [
+                "MARIJUANA (Cannabis): Harms brain, breathing, heart, and muscular coordination",
+                "COCAINE: Addictive stimulant; harms cardiovascular, respiratory, and nervous systems",
+                "HEROIN: Addictive opioid; causes severe health problems",
+                "INHALANTS: Household chemicals inhaled; can cause brain damage",
+                "Long-term effects: Heart attacks, liver damage, seizures, stroke, brain damage, weight loss",
+                "Drug use increases risk of STIs through unprotected sex"
+              ]
+            },
+            {
+              "slide_number": 272,
+              "slide_title": "Inquiry Activity 5.17-5.20",
+              "content": [
+                "Activity 5.17: Visit health center and discuss FGM, early marriage, sex abuse, and marriage by abduction",
+                "Activity 5.18: Visit family planning unit to discuss family planning and reproductive health",
+                "Activity 5.19: Debate on benefits and harms of drinking alcohol and chewing khat",
+                "Activity 5.20: Investigate short-term and long-term effects of marijuana, cocaine, heroin, and inhalants"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "Unit Five Summary",
+          "section_title": "Unit Five Summary",
+          "slides": [
+            {
+              "slide_number": 273,
+              "slide_title": "Unit Five Summary",
+              "content": [
+                "Musculoskeletal system: Provides shape, support, protection, and movement; consists of 206 bones and 700 muscles",
+                "Muscles: Skeletal (voluntary), Smooth (involuntary), Cardiac (involuntary)",
+                "Reproductive system: Male (testes, penis) and Female (ovaries, uterus) structures; gametogenesis produces sperm and eggs",
+                "Menstrual cycle: Regulated by hormones (FSH, LH, estrogen, progesterone); positive and negative feedback mechanisms"
+              ]
+            },
+            {
+              "slide_number": 274,
+              "slide_title": "Unit Five Summary (Continued)",
+              "content": [
+                "Contraception: Barrier and non-barrier methods prevent pregnancy; some prevent STIs",
+                "STIs: Bacterial, viral, and parasitic; HIV is a major concern with three stages of progression",
+                "Harmful traditional practices: Early marriage, FGM, gender-based violence affect reproductive health",
+                "Family planning: Essential for maternal health and reducing poverty",
+                "Substance use: Alcohol, khat, cannabis, and other drugs impair judgment and increase STI risk"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "Unit Five Review Questions",
+          "section_title": "Unit Five Review Questions",
+          "slides": [
+            {
+              "slide_number": 275,
+              "slide_title": "Unit Five Review Questions",
+              "content": [
+                "True/False items on musculoskeletal system, muscle types, bone function, joints, and bone composition",
+                "Multiple-choice questions on bone minerals, bones in lower arm, white blood cell function, joint types, and muscle attachments",
+                "Questions on male and female reproductive systems, sex cells, menstrual cycle, ovulation, gestation",
+                "STI questions on prevalence, causes, symptoms, preventive measures",
+                "Contraceptive questions on birth control pills, condoms, IUDs, sterilization",
+                "Questions on FGM, early marriage, substance use, and health hazards"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Population and Natural Resources",
+      "sections": [
+        {
+          "section_number": "6.1",
+          "section_title": "Population Ecology",
+          "slides": [
+            {
+              "slide_number": 276,
+              "slide_title": "Introduction to Population Ecology",
+              "content": [
+                "Population ecology is the study of how populations interact with their environment",
+                "Examines distribution, abundance, and changes in populations over time",
+                "A POPULATION is a group of individuals of the same species living and interbreeding in a given area",
+                "Ecological organization: Individual → Population → Community → Ecosystem → Biome → Biosphere"
+              ]
+            },
+            {
+              "slide_number": 277,
+              "slide_title": "Population Size and Density",
+              "content": [
+                "POPULATION SIZE (N): Total number of individuals present in a particular habitat",
+                "POPULATION DENSITY: Number of individuals per unit area or volume",
+                "Formula: Density = N / Area",
+                "Counting all individuals is often difficult; SAMPLING methods are used",
+                "Important for understanding resource needs and environmental impact"
+              ]
+            },
+            {
+              "slide_number": 278,
+              "slide_title": "Population Dispersion Patterns",
+              "content": [
+                "CLUMPED DISPERSION: Individuals clustered in groups (most common)",
+                "RANDOM DISPERSION: Individuals distributed randomly, no predictable pattern (rare)",
+                "UNIFORM DISPERSION: Individuals spaced more or less evenly",
+                "Dispersion provides information about interactions and resource distribution"
+              ]
+            },
+            {
+              "slide_number": 279,
+              "slide_title": "Population Study Methods",
+              "content": [
+                "QUADRAT METHOD: Used for plants and immobile organisms",
+                "A square frame is placed randomly; organisms within are counted",
+                "Formula: Estimated population = (Total area / Sample area) × Number counted",
+                "MARK-RECAPTURE METHOD: Used for mobile animals",
+                "Formula: N = (M × n) / X",
+                "M = number marked in first capture; n = number recaptured; X = number marked in recapture"
+              ]
+            },
+            {
+              "slide_number": 280,
+              "slide_title": "Studying Human Population",
+              "content": [
+                "CENSUS: Systematic collection of information from all individuals in a population",
+                "DE FACTO METHOD: Census conducted on a fixed date (e.g., full-moon night)",
+                "DE JURE METHOD: Census conducted over 2-3 weeks; only permanent residents counted",
+                "Data collected: Age, sex, ethnic group, religion, marital status, household size, occupation"
+              ]
+            },
+            {
+              "slide_number": 281,
+              "slide_title": "Inquiry Activity 6.2-6.3",
+              "content": [
+                "Activity 6.2: Prepare a quadrat (50cm x 50cm) and study plant population in your school compound",
+                "When do you stop locating the quadrat?",
+                "What happens if the size of quadrants decreases or increases?",
+                "Activity 6.3: Use collected data to calculate population density"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.1.2",
+          "section_title": "Exponential and Logistic Growth",
+          "slides": [
+            {
+              "slide_number": 282,
+              "slide_title": "Exponential Growth Model",
+              "content": [
+                "Describes population growth in an environment with unlimited resources",
+                "Population increases at a constant rate (r)",
+                "r = B - D (Birth rate - Death rate)",
+                "r > 0: Population increasing; r = 0: No change; r < 0: Population decreasing",
+                "Growth rate: dN/dt = rN",
+                "Results in a J-SHAPED CURVE"
+              ]
+            },
+            {
+              "slide_number": 283,
+              "slide_title": "Logistic Growth Model",
+              "content": [
+                "Describes population growth with limited resources",
+                "CARRYING CAPACITY (K): Maximum population size the environment can sustain",
+                "Growth rate slows as population approaches K",
+                "Equation: dN/dt = rN (K-N)/K",
+                "Results in an S-SHAPED (SIGMOID) CURVE"
+              ]
+            },
+            {
+              "slide_number": 284,
+              "slide_title": "Comparison of Growth Models",
+              "content": [
+                "EXPONENTIAL: Unlimited resources; J-shaped curve; no carrying capacity",
+                "LOGISTIC: Limited resources; S-shaped curve; has carrying capacity (K)",
+                "Real populations show logistic growth due to resource limitations",
+                "Exponential growth is theoretical and not sustainable"
+              ]
+            },
+            {
+              "slide_number": 285,
+              "slide_title": "Inquiry Activity 6.5-6.6",
+              "content": [
+                "Activity 6.5: Calculate exponential growth rate for ten generations with r=1 and r=0.6; draw graphs",
+                "Activity 6.6: Calculate logistic growth rate with r=1, K=250; draw graph; try different values (r=0.6, 0.9, 1.4, 2 and K=100, 150, 200, 300)",
+                "Visit Ethiopian Central Statistics Agency or use website to get census data and calculate growth rates"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.1.3",
+          "section_title": "Demographic Structure",
+          "slides": [
+            {
+              "slide_number": 286,
+              "slide_title": "Demographic Parameters",
+              "content": [
+                "CRUDE BIRTH RATE: Live births per 1,000 people per year",
+                "CRUDE DEATH RATE: Deaths per 1,000 people per year",
+                "INFANT MORTALITY RATE: Deaths of children under 1 year per 1,000 live births",
+                "FERTILITY RATE: Average number of children born to a woman",
+                "LIFE EXPECTANCY: Average years a person is expected to live",
+                "MIGRATION: Immigration (movement in) and Emigration (movement out)"
+              ]
+            },
+            {
+              "slide_number": 287,
+              "slide_title": "Population Pyramid",
+              "content": [
+                "A graphical representation of age and sex composition of a population",
+                "EXPANSIVE PYRAMID: Broad base, high growth (developing countries)",
+                "CONSTRICTIVE PYRAMID: Narrow base, population decline (developed countries)",
+                "STATIONARY PYRAMID: Equal proportions, stable growth",
+                "Shows dependency ratios and future population trends"
+              ]
+            },
+            {
+              "slide_number": 288,
+              "slide_title": "Population Pyramids in Ethiopia",
+              "content": [
+                "Ethiopia has a young population: 45% under age 15",
+                "Only 4.8% aged 60 years or older",
+                "Population pyramids from 1984 to 2017 show changes",
+                "Current population estimated at over 110 million",
+                "Ethiopia's pyramid is EXPANSIVE (broad base, narrow top)"
+              ]
+            },
+            {
+              "slide_number": 289,
+              "slide_title": "Survivorship Curves",
+              "content": [
+                "Graph showing number of individuals surviving at each age",
+                "TYPE I: High survival to old age; low juvenile mortality (humans, mammals)",
+                "TYPE II: Constant mortality rate throughout life (some birds)",
+                "TYPE III: High juvenile mortality; few survive to adulthood (plants, fish, invertebrates)"
+              ]
+            },
+            {
+              "slide_number": 290,
+              "slide_title": "Inquiry Activity 6.8-6.10",
+              "content": [
+                "Activity 6.8: Why do bars become narrower from younger to older ages? What does a large base represent?",
+                "Activity 6.9: Compare population pyramids of Ethiopia from 1984 and 2017; interpret differences",
+                "Activity 6.10: Conduct a debate on advantages and disadvantages of population growth in humans and other organisms"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.1.4",
+          "section_title": "Population Regulation",
+          "slides": [
+            {
+              "slide_number": 291,
+              "slide_title": "Density-Dependent Factors",
+              "content": [
+                "Factors whose effect increases as population density increases",
+                "COMPETITION: Intraspecific (same species) and Interspecific (different species)",
+                "PREDATION: Predators have greater impact in dense populations",
+                "DISEASE: Spreads more quickly in dense populations",
+                "ACCUMULATION OF WASTE: Toxic buildup in dense populations",
+                "These factors create negative feedback loops, stabilizing populations"
+              ]
+            },
+            {
+              "slide_number": 292,
+              "slide_title": "Density-Independent Factors",
+              "content": [
+                "Factors that affect population regardless of density",
+                "WEATHER: Droughts, floods, storms",
+                "NATURAL DISASTERS: Earthquakes, volcanic eruptions, fires",
+                "POLLUTION: Affects populations equally at any density",
+                "HUMAN ACTIVITIES: Habitat destruction, deforestation"
+              ]
+            },
+            {
+              "slide_number": 293,
+              "slide_title": "Inquiry Activity 6.11",
+              "content": [
+                "Be in a group and investigate density-dependent and density-independent factors that limit population growth",
+                "Give examples for both factors",
+                "Discuss how these factors regulate population size"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.2",
+          "section_title": "Natural Resources",
+          "slides": [
+            {
+              "slide_number": 294,
+              "slide_title": "Natural Resources",
+              "content": [
+                "Natural resources are substances or materials that exist naturally in the environment and are used by humans",
+                "Examples: Oil, coal, natural gas, metals, stone, air, sunlight, soil, water, animals, plants",
+                "CLASSIFICATION: Renewable vs. Non-renewable, Inexhaustible vs. Exhaustible"
+              ]
+            },
+            {
+              "slide_number": 295,
+              "slide_title": "Renewable Resources",
+              "content": [
+                "Resources that can be replaced after utilization",
+                "Cannot be exhausted even after continuous use",
+                "Examples: Sunlight, air, trees, water, wind, tidal energy, solar energy, wind energy, biomass energy, hydropower",
+                "Can be depleted if overused or not properly managed"
+              ]
+            },
+            {
+              "slide_number": 296,
+              "slide_title": "Non-Renewable Resources",
+              "content": [
+                "Resources that do not naturally replenish at the same speed they are used",
+                "Take millions of years to form",
+                "Examples: Minerals, fossil fuels (coal, oil, natural gas)",
+                "Consumption exceeds recovery rate",
+                "Will eventually be depleted"
+              ]
+            },
+            {
+              "slide_number": 297,
+              "slide_title": "Inquiry Activity 6.12",
+              "content": [
+                "Identify natural resources in your area",
+                "Explain why some natural resources are renewable and some are non-renewable",
+                "Mention examples of renewable and non-renewable natural resources",
+                "Identify exhaustible and non-exhaustible natural resources"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.3",
+          "section_title": "Conservation of Natural Resources in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 298,
+              "slide_title": "Conservation Introduction",
+              "content": [
+                "CONSERVATION: Care, protection, and wise use of natural resources for future generations",
+                "Ethiopia has diverse natural resources: wildlife, plants, water, soil",
+                "Resources face threats from natural disasters and human activities",
+                "Need for appropriate conservation mechanisms"
+              ]
+            },
+            {
+              "slide_number": 299,
+              "slide_title": "Wildlife in Ethiopia",
+              "content": [
+                "Ethiopia has huge wildlife resource potential",
+                "Importance: Maintain ecological processes, store genetic material, tourism, contribute to economy",
+                "Examples: Lion, Walia Ibex, Ethiopian Mountain Chameleon, Stresemann's Bushcrow",
+                "Causes of loss: Natural disasters, deforestation, poaching, habitat change, climate change",
+                "Conservation: 24 national parks, 2 sanctuaries, 6 wildlife reserves, 5 community conservation areas"
+              ]
+            },
+            {
+              "slide_number": 300,
+              "slide_title": "Plants in Ethiopia",
+              "content": [
+                "Ethiopia is a center for crop genetic diversity",
+                "Examples: Mekmeko (Rumex abyssinicus), African juniper (Juniperus procera), Moringa (Moringa stenopetala), Kosso (Hagenia abyssinica)",
+                "Causes of loss: Deforestation, climate change, invasive species, overexploitation, pollution",
+                "INDIGENOUS CONSERVATION: Taboos, domestication, sacred groves, church/mosque compounds, graveyards",
+                "MODERN CONSERVATION: Botanical gardens, gene banks, seed preservation"
+              ]
+            },
+            {
+              "slide_number": 301,
+              "slide_title": "Soil and Water Conservation",
+              "content": [
+                "Ethiopia has large soil and water resources",
+                "MECHANICAL MEASURES: Bunds, terraces, diversion ditches, check dams, micro-basins, hillside terraces",
+                "BIOLOGICAL MEASURES: Enclosures, tree seedling production, agroforestry, afforestation",
+                "Green Legacy Initiative: Launched 2019, building a green and climate resilient Ethiopia",
+                "GERD: Grand Ethiopian Renaissance Dam on Abay River for hydropower"
+              ]
+            },
+            {
+              "slide_number": 302,
+              "slide_title": "Inquiry Activity 6.13-6.18",
+              "content": [
+                "Activity 6.13: Visit wildlife conservation offices, biodiversity institute, agricultural offices to learn about conservation mechanisms",
+                "Activity 6.15: Visit wildlife conservation area; explain difference between National Parks, Sanctuaries, Reserves, and Community Conservation",
+                "Activity 6.17: Discuss GERD's electricity generation and benefits",
+                "Activity 6.18: Identify indigenous knowledge for conservation of animals, plants, soil, and water in your area"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.4",
+          "section_title": "Impact of Traffic Accidents on Animals",
+          "slides": [
+            {
+              "slide_number": 303,
+              "slide_title": "Impact of Traffic Accidents on Animals",
+              "content": [
+                "Road traffic accidents are a major cause of death for both wild and domestic animals",
+                "Road ecology studies show vehicle collisions are a major cause of wildlife population decline",
+                "In Ethiopia, 29% of wildlife mortality in Geralle National Park was due to car accidents",
+                "Animals living in or near conservation areas are often killed while crossing roads"
+              ]
+            },
+            {
+              "slide_number": 304,
+              "slide_title": "Mitigation Strategies",
+              "content": [
+                "Design structures for safe animal passage (underpasses, overpasses)",
+                "Promote habitat connectivity",
+                "Construct wildlife corridors",
+                "Consider natural wildlife habitats when constructing roads",
+                "Educate drivers to drive slowly in wildlife areas"
+              ]
+            },
+            {
+              "slide_number": 305,
+              "slide_title": "Inquiry Activity 6.19",
+              "content": [
+                "Visit transport and wildlife management offices or invite a traffic police to your school",
+                "Obtain data on car accidents and damages to human beings, wild and domestic animals, and properties",
+                "Discuss frequency and severity of car accidents",
+                "Identify mechanisms to minimize them"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.5",
+          "section_title": "Impact of Human Activities on the Environment",
+          "slides": [
+            {
+              "slide_number": 306,
+              "slide_title": "Human Activities Affecting the Environment",
+              "content": [
+                "Human activities have far-reaching side effects on the entire ecosystem",
+                "Major activities: Burning fossil fuels, using refrigerants, applying pesticides, waste disposal, agricultural activities, industrial discharges, urban development, mining",
+                "Environmental consequences: Pollution, climate change, global warming, acid rain, ozone depletion, biodiversity loss, toxic bioaccumulation, resource depletion"
+              ]
+            },
+            {
+              "slide_number": 307,
+              "slide_title": "Environmental Pollution",
+              "content": [
+                "Environmental pollution is the contamination of environmental components",
+                "AIR POLLUTION: Contamination by harmful gases, dust, and smoke; causes respiratory diseases, acid rain",
+                "WATER POLLUTION: Contamination of water bodies; caused by industrial waste, agricultural runoff, sewage; harms aquatic life and human health",
+                "LAND POLLUTION: Degradation of soil; caused by waste, deforestation, mining"
+              ]
+            },
+            {
+              "slide_number": 308,
+              "slide_title": "Climate Change and Global Warming",
+              "content": [
+                "CLIMATE CHANGE: Change in usual weather patterns (rain, temperature) over time",
+                "GREENHOUSE EFFECT: Trapping of heat by greenhouse gases (CO2, methane, nitrous oxide)",
+                "GLOBAL WARMING: Average rise in Earth's temperature due to enhanced greenhouse effect",
+                "Effects: Flooding, melting ice caps, rising sea levels, loss of species, extreme weather, health problems"
+              ]
+            },
+            {
+              "slide_number": 309,
+              "slide_title": "Ozone Layer Depletion",
+              "content": [
+                "OZONE LAYER: In the stratosphere; absorbs harmful UV radiation",
+                "CAUSE: Release of CFCs (chlorofluorocarbons), HCFCs, and halons",
+                "Effects of UV exposure: Skin cancer, cataracts, immune system weakening, respiratory diseases",
+                "Effects on ecosystems: Harm to terrestrial and aquatic animals and plants",
+                "International efforts: Montreal Protocol to phase out ozone-depleting substances"
+              ]
+            },
+            {
+              "slide_number": 310,
+              "slide_title": "Acid Rain and Biodiversity Loss",
+              "content": [
+                "ACID RAIN: Rain with acidic content (low pH) caused by SO2 and NOx emissions",
+                "Effects: Damages plants, leaches nutrients from soil, dissolves aluminum, affects aquatic life, corrodes buildings",
+                "BIODIVERSITY LOSS: Decrease in variety of life on Earth",
+                "Causes: Habitat loss, overexploitation, pollution, climate change, invasive species",
+                "Effects: Threatens food security, medicine, ecosystem services"
+              ]
+            },
+            {
+              "slide_number": 311,
+              "slide_title": "Toxic Bioaccumulation and Resource Depletion",
+              "content": [
+                "BIOACCUMULATION: Accumulation of chemicals in living organisms' tissues",
+                "Biomagnification: Concentration increases at each trophic level of the food chain",
+                "Examples: DDT, mercury, lead",
+                "Effects: Neurological toxicity, cancer, reproductive toxicity, immune system damage",
+                "RESOURCE DEPLETION: Consumption exceeds recovery rate",
+                "Causes: Overpopulation, poor farming practices, overconsumption, industrial development"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6.6",
+          "section_title": "Indigenous Conservation Practices in Ethiopia",
+          "slides": [
+            {
+              "slide_number": 312,
+              "slide_title": "Indigenous Conservation Knowledge",
+              "content": [
+                "Indigenous knowledge is a body of knowledge built over generations by local communities",
+                "Ethiopia has strong indigenous culture, tradition, religion, and knowledge",
+                "Includes knowledge of astronomy, resource use, weather prediction, and seasonal conditions",
+                "Developed through observation of sun, moon, stars, animal behavior, winds, and temperatures"
+              ]
+            },
+            {
+              "slide_number": 313,
+              "slide_title": "Konso People's Conservation Practices",
+              "content": [
+                "Konso Cultural Landscape is a UNESCO World Heritage site (over 400 years old)",
+                "Terraces: Dry stone terraces to prevent erosion, collect water, and create agricultural saddles",
+                "Contour ploughing: Ploughing along contours to reduce runoff and erosion",
+                "Crop rotation: Alternating crops to improve soil fertility and reduce pests",
+                "Mixed cropping: Growing multiple species together",
+                "Surface mulching: Applying organic material to conserve moisture",
+                "Agroforestry: Integrating trees with crops"
+              ]
+            },
+            {
+              "slide_number": 314,
+              "slide_title": "Guassa Community Conservation",
+              "content": [
+                "Guassa community conservation area in Menz, central Ethiopia (over 400 years old)",
+                "Qero System: Communal management system",
+                "Area closed from use for 3-5 years to allow recovery",
+                "Opening and closing determined by elected headmen",
+                "Based on grass growth, community needs, crop harvest, and drought frequency",
+                "Protects endemic animals and plant species"
+              ]
+            },
+            {
+              "slide_number": 315,
+              "slide_title": "Inquiry Activity 6.27",
+              "content": [
+                "What are the indigenous conservation practices practiced in your area?",
+                "Be in groups; ask elders about indigenous knowledge and practices for conserving:",
+                "Plants, animals, crops, medicinal plants, forests, etc.",
+                "Share findings with the class"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "Unit Six Summary",
+          "section_title": "Unit Six Summary",
+          "slides": [
+            {
+              "slide_number": 316,
+              "slide_title": "Unit Six Summary",
+              "content": [
+                "Population ecology studies populations in terms of size, density, dispersal, and growth (exponential and logistic)",
+                "Population growth is regulated by density-dependent and density-independent factors",
+                "Natural resources are classified as renewable and non-renewable",
+                "Conservation is essential for sustainable use of natural resources"
+              ]
+            },
+            {
+              "slide_number": 317,
+              "slide_title": "Unit Six Summary (Continued)",
+              "content": [
+                "Ethiopia has rich wildlife, plant, soil, and water resources",
+                "Wildlife conservation through national parks, sanctuaries, and community conservation areas",
+                "Indigenous conservation practices like Konso terracing and Guassa Qero system are valuable",
+                "Human activities cause environmental problems: pollution, climate change, ozone depletion, acid rain, biodiversity loss, bioaccumulation, resource depletion",
+                "Sustainable practices and indigenous knowledge are key to conservation"
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "Unit Six Review Questions",
+          "section_title": "Unit Six Review Questions",
+          "slides": [
+            {
+              "slide_number": 318,
+              "slide_title": "Unit Six Review Questions",
+              "content": [
+                "Multiple-choice questions on population ecology, population density, dispersion patterns, population growth models",
+                "Questions on natural resources (renewable vs non-renewable), conservation, and environmental issues",
+                "Questions on greenhouse gases, ozone depletion, acid rain, eutrophication, and bioaccumulation",
+                "Short answer questions on greenhouse effect, logistic vs exponential growth, invasive species, age-sex structure, and birth rate calculations"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1037 @@
+{
+  "subject": "Biology",
+  "grade": 9,
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_title": "Introduction to Biology",
+      "sections": [
+        {
+          "section_title": "1.1 Definition of Biology",
+          "section_summary": "Biology is the scientific study of life or living things. It comes from the Greek words 'bios' (life) and 'logos' (study). Living things are recognized by common characteristics: they are composed of one or more cells, can grow, reproduce, transmit genetic information, need energy, maintain homeostasis, and are capable of evolutionary adaptation. Biologists study living things using the scientific method, which involves asking questions, suggesting possible answers, and testing for validity through experimentation. This study can be done directly or indirectly with tools like microscopes.",
+          "notes": "Biology is defined as the scientific study of life. The key characteristics that distinguish living things from non-living things include: being made of cells, growth, reproduction, genetic transmission, energy needs, homeostasis (maintaining stable internal conditions), and evolutionary adaptation. The scientific method is a systematic approach used by biologists to study life, involving observation, questioning, and experimentation. Biology relates to other natural sciences like chemistry and physics, as it incorporates their tools and principles to understand life processes.",
+          "keywords": [
+            {
+              "term": "Biology",
+              "definition": "The scientific study of life or living things."
+            },
+            {
+              "term": "Homeostasis",
+              "definition": "The maintenance of relatively constant internal conditions by an organism."
+            }
+          ]
+        },
+        {
+          "section_title": "1.2 Why do we study Biology?",
+          "section_summary": "Studying biology helps us understand how living things work, function, and interact with their environment. Biological knowledge is applied in our daily lives in many ways, including the production of food and beverages (fermentation), the development of medicines (antibiotics), the treatment of diseases (AIDS, tuberculosis, cancer), the discovery of DNA structure, and forensic analysis. It also helps us evaluate environmental issues and understand how ecosystems work.",
+          "notes": "Biology is studied because it is fundamental to understanding life. Its applications are vast and impact our everyday life. For example, fermentation by yeasts and bacteria is essential for making wine, beer, bread, and cheese. Antibiotics like penicillin are produced by fungi. Biological knowledge is used to develop drugs for treating diseases, and to investigate crimes using forensic DNA analysis. It also helps us understand and solve critical problems like global warming and the functioning of our own bodies.",
+          "keywords": [
+            {
+              "term": "Fermentation",
+              "definition": "A process brought about by yeasts, other fungi, and bacteria, used in producing wine, beer, bread, and cheese."
+            },
+            {
+              "term": "Antibiotics",
+              "definition": "Substances produced by mould fungi or bacteria that are used to treat bacterial infections."
+            }
+          ]
+        },
+        {
+          "section_title": "1.3 The Scientific Method",
+          "section_summary": "The scientific method is a series of steps that guide scientists through investigations. It begins with careful observation, which leads to a question. A hypothesis, a proposed scientific explanation, is then formed and tested through experimentation. The results are used to make conclusions, and the findings are communicated to the scientific community. A hypothesis is a testable possible answer to a scientific question. An example activity involves germinating bean seeds at different temperatures to test a hypothesis about the effect of temperature on germination.",
+          "notes": "The scientific method is a process of inquiry used by biologists to understand the world. The general steps are: 1) Observation, leading to a question; 2) Forming a hypothesis, which is a testable explanation; 3) Testing the hypothesis through experiments; 4) Making conclusions about the findings; and 5) Communicating the results. A well-designed experiment should be repeatable to verify results. If a hypothesis is not supported, scientists propose a new one. A practical example is designing an experiment to test the effect of temperature on seed germination, by growing seeds at different temperatures and measuring their growth.",
+          "keywords": [
+            {
+              "term": "Hypothesis",
+              "definition": "A proposed scientific explanation for a set of questions; a testable possible answer."
+            }
+          ]
+        },
+        {
+          "section_title": "1.4 Tools of a Biologist",
+          "section_summary": "Biologists use various tools in the laboratory and field for scientific investigations. These tools are used for measuring, observation, and culturing microorganisms. Important laboratory tools include the hand lens for magnification and the microscope for observing very small objects. Other tools are used for culturing (autoclave, incubator, Petri dishes, culture tubes, flasks), measuring (balance, pH meter, thermometer), and handling specimens (dissecting kit, forceps, spatula). Field tools include insect nets and fishing nets.",
+          "notes": "Biologists use a variety of specialized tools. A hand lens provides a magnified image of an object. The most important tool is the microscope, which magnifies small objects. Microscopes are classified as light or electron microscopes. Other essential tools include: Autoclave for sterilizing materials; Incubator for providing a controlled growth environment; Petri dishes and culture tubes for growing microorganisms; Flasks for growing large cultures; Balance for weighing; Droppers for adding liquids; Tongs for handling hot objects; Dissecting kits for studying anatomy; and field tools like insect nets for collecting specimens.",
+          "keywords": [
+            {
+              "term": "Microscope",
+              "definition": "An instrument used to observe and study objects that are too small to be seen by the naked eye."
+            },
+            {
+              "term": "Light microscope",
+              "definition": "A microscope that uses a beam of light to view specimens."
+            },
+            {
+              "term": "Electron microscope",
+              "definition": "A microscope that uses a beam of electrons and electromagnets to enlarge the image of an object, providing higher magnification than light microscopes."
+            },
+            {
+              "term": "Magnification",
+              "definition": "The number of times larger an image is than the real size of the object."
+            },
+            {
+              "term": "Resolution",
+              "definition": "The ability to distinguish between two separate points."
+            },
+            {
+              "term": "Culturing",
+              "definition": "The procedure used to grow microorganisms in a controlled environment."
+            }
+          ]
+        },
+        {
+          "section_title": "1.5 The Light Microscope",
+          "section_summary": "The light microscope is a fundamental tool for biologists, used to observe specimens by focusing light rays. It has structural parts for support (arm, base, stage) and optical parts for magnification (eyepiece, objective lenses). Key parts include the eyepiece (ocular lens), body tube, objective lenses (with varying magnification), arm, stage, stage clips, aperture, illuminator, condenser, and diaphragm. The total magnification is the product of the eyepiece and objective lens magnifications. Proper handling and focusing techniques are crucial for effective use.",
+          "notes": "The compound light microscope is the most common microscope used in biology. It uses two lens systems (eyepiece and objective) to magnify the image. Total magnification is calculated by multiplying the magnification of the eyepiece by that of the objective lens. Proper handling is important: carry the microscope by the arm and support the base, use the coarse focus first and fine focus for sharpness, always start with low power, and clean lenses with lens paper. The key parts include: Eyepiece for viewing; Objective lenses for magnification; Arm for support; Body tube connecting eyepiece and objectives; Nose piece for rotating objectives; Adjustment knobs for focusing; Stage for the specimen; and Diaphragm for controlling light.",
+          "keywords": [
+            {
+              "term": "Eyepiece (Ocular)",
+              "definition": "The part at the top of the microscope that is used to look through."
+            },
+            {
+              "term": "Objective lenses",
+              "definition": "The major lenses that further magnify the specimen. They are attached to a rotating nose piece."
+            },
+            {
+              "term": "Stage",
+              "definition": "The platform on which the specimen is placed for viewing."
+            },
+            {
+              "term": "Diaphragm",
+              "definition": "An adjustable apparatus under the stage that controls the amount of light reaching the specimen."
+            }
+          ]
+        },
+        {
+          "section_title": "1.6 General Laboratory Safety Rules",
+          "section_summary": "Laboratory safety is essential to prevent harm and control hazards. Key rules include: following instructions carefully, knowing the location and use of safety equipment (fire extinguisher, first-aid kit), dressing properly (lab coat, goggles, gloves), never eating or drinking in the lab, never tasting or sniffing chemicals, acting responsibly, cleaning up properly, handling chemicals with care, knowing how to deal with accidents, and maintaining a focus on safety and chemical hygiene at all times.",
+          "notes": "Safety in the laboratory is paramount. Important general rules include reading and following all instructions; knowing where safety equipment is and how to use it; wearing appropriate protective clothing; not eating, drinking, or storing food in the lab; never tasting or sniffing chemicals; acting responsibly; cleaning up the work area; handling chemicals properly; and knowing emergency procedures. These rules help to ensure a safe working environment and prevent accidents.",
+          "keywords": [
+            {
+              "term": "Safety",
+              "definition": "The condition of being protected from harm or other danger, involving the control of recognized hazards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "unit_title": "Characteristics and Classification of Organisms",
+      "sections": [
+        {
+          "section_title": "2.1 Characteristics of living things",
+          "section_summary": "Living things share a set of characteristics that distinguish them from non-living things. They are made up of one or more cells (unicellular or multicellular). They require energy for metabolic activities, obtainable from sunlight (autotrophs) or from consuming others (heterotrophs). They respond to stimuli in their environment. They grow, increasing in size and mass. They reproduce to create more of their own kind. They excrete metabolic wastes. They display ordered complexity in their organization. They maintain homeostasis, regulating their internal environment. They also possess adaptations that evolve over time.",
+          "notes": "The key characteristics of life are: 1) Made of cells (unicellular or multicellular). 2) Require energy (autotrophs like plants make their own food, heterotrophs like animals consume it). 3) Respond to stimuli (e.g., plants growing toward light). 4) Grow (increase in size and mass). 5) Reproduce (sexually or asexually). 6) Excrete (remove metabolic wastes like carbon dioxide). 7) Display ordered complexity (atoms to molecules to cells to tissues, etc.). 8) Maintain homeostasis (e.g., constant body temperature). 9) Evolve adaptations over time to survive in their environment.",
+          "keywords": [
+            {
+              "term": "Autotrophs (Producers)",
+              "definition": "Organisms that make their own food, typically through photosynthesis."
+            },
+            {
+              "term": "Heterotrophs (Consumers)",
+              "definition": "Organisms that cannot make their own food and consume other organisms."
+            },
+            {
+              "term": "Excretion",
+              "definition": "The removal of metabolic wastes produced in cells as a result of chemical reactions."
+            },
+            {
+              "term": "Homeostasis",
+              "definition": "The regulation of an organism's internal conditions to maintain stability."
+            }
+          ]
+        },
+        {
+          "section_title": "2.2 Taxonomy of living things",
+          "section_summary": "Taxonomy is the science of naming, identifying, and classifying organisms. It involves grouping things based on their similarities. The assumption is that the greater the physical similarity, the closer the biological relationship. Taxonomists use morphological, physiological, molecular, behavioural, and ecological characteristics for classification. The first widely accepted system was by Aristotle, but the modern system was developed by Carolus Linnaeus. Linnaeus introduced a taxonomic hierarchy, a system of ranked levels. The modern hierarchy from broadest to most specific is: Domain, Kingdom, Phylum (or Division for plants), Class, Order, Family, Genus, and Species.",
+          "notes": "Classification is a way of organizing living things based on similarities. The science of classification is called taxonomy. Carolus Linnaeus, the 'father of taxonomy', developed the hierarchical system used today. This system arranges organisms into a series of taxonomic ranks. The major taxa (from broad to specific) are: Domain, Kingdom, Phylum, Class, Order, Family, Genus, and Species. The three domains are Bacteria, Archaea, and Eukarya. Organisms in the Bacteria and Archaea domains are prokaryotic, while those in the Eukarya domain (protists, fungi, plants, animals) have eukaryotic cells.",
+          "keywords": [
+            {
+              "term": "Taxonomy",
+              "definition": "The science of naming, identifying, and classifying organisms."
+            },
+            {
+              "term": "Taxon (pl. Taxa)",
+              "definition": "A group of organisms that share a unique set of traits; a rank in a taxonomic hierarchy."
+            },
+            {
+              "term": "Prokaryotic cells",
+              "definition": "Cells that lack a nucleus and other membrane-bound organelles."
+            },
+            {
+              "term": "Eukaryotic cells",
+              "definition": "Cells that contain a nucleus and other membrane-enclosed organelles."
+            },
+            {
+              "term": "Bacteria",
+              "definition": "A diverse and well-known group of single-celled organisms that lack a nucleus (prokaryotes)."
+            },
+            {
+              "term": "Archaea",
+              "definition": "Prokaryotic organisms that are genetically distinct from bacteria and often inhabit extreme environments."
+            }
+          ]
+        },
+        {
+          "section_title": "2.3 Relevance of classification",
+          "section_summary": "Biological classification has many applications. It allows for the identification of harmful and beneficial organisms. It reduces the time and energy needed to study organisms by organizing them. It helps us understand the relationships between organisms, including evolutionary links. Taxonomy is a useful tool in fields like agriculture, forestry, and medicine. It can also aid the economy by discovering new sources of lumber, foods, and medicines.",
+          "notes": "Classification is important for several reasons. It provides a framework to study the relationships between organisms (e.g., birds and dinosaurs). It can help in identifying useful or harmful species. It is a valuable tool for agriculture, forestry, and medicine, aiding in the discovery of new resources, such as sources of lumber, food, and medicines. For example, knowing that one plant species has a medicinal property can lead to the discovery of similar compounds in its relatives.",
+          "keywords": []
+        },
+        {
+          "section_title": "2.4 Linnaean system of nomenclature",
+          "section_summary": "Linnaeus refined the binomial system of naming organisms. This is an internationally agreed system where the scientific name of an organism is made up of two parts: the genus and the specific epithet. The genus is capitalized, and the specific epithet is written in lowercase. When printed, the name is italicized, and when handwritten, it is underlined. This system prevents confusion caused by local or common names and allows for universal recognition.",
+          "notes": "The binomial system, developed by Linnaeus, is the standard for naming organisms. The scientific name has two parts: the Genus name (capitalized) and the specific epithet (lowercase), e.g., Homo sapiens. This system is used globally to avoid confusion from different languages and common names. The name is always printed in italics or underlined when handwritten. For example, the scientific name for maize is Zea mays, and for the human is Homo sapiens.",
+          "keywords": [
+            {
+              "term": "Binomial nomenclature",
+              "definition": "An internationally agreed system in which the scientific name of an organism is made up of two parts (genus and specific epithet)."
+            },
+            {
+              "term": "Genus (Genera)",
+              "definition": "A taxon consisting of a group of similar species."
+            },
+            {
+              "term": "Specific epithet",
+              "definition": "The second part of a scientific name, which describes a characteristic of the organism."
+            }
+          ]
+        },
+        {
+          "section_title": "2.5 Common Ethiopian animals and plants",
+          "section_summary": "Ethiopia is rich in biodiversity due to its diverse geography and climate, and is a center of diversity for crops like tef, noog, and Ethiopian mustard. The country also has many endemic animal species. Dichotomous keys are tools used to identify unfamiliar organisms. They consist of a series of paired choices, starting with general characteristics and progressing to specific ones, allowing users to determine the identity of an organism.",
+          "notes": "Ethiopia is a hotspot for biodiversity with high levels of endemic species. It is a primary center of diversity for many crops such as tef (Eragrostis tef) and noog (Guizotia abyssinica). Common animals include the Ethiopian wolf (Canis simensis), Gelada baboon (Theropithecus gelada), Walia ibex (Capra walie), and the Watched ibis (Bostrychia carunculata). Dichotomous keys are practical tools used to identify organisms. They present a series of two choices that lead to the correct identification. For example, a key might first ask if the animal is cold-blooded or warm-blooded, narrowing down the possibilities.",
+          "keywords": [
+            {
+              "term": "Dichotomous keys",
+              "definition": "Identification tools made up of pairs of contrasting features (two branches) that lead to a correct identification."
+            }
+          ]
+        },
+        {
+          "section_title": "2.6 The five-kingdom system of classification",
+          "section_summary": "The two-kingdom (plant and animal) system was found inadequate for many organisms, leading to Whittaker's five-kingdom classification. The five kingdoms are Monera, Protista, Fungi, Plantae, and Animalia. This system is based on criteria like cell structure, body organization, mode of nutrition, reproduction, and evolutionary relationships. Viruses are not included in any kingdom because they are not considered living; they lack key characteristics of life and require a host cell to replicate.",
+          "notes": "The five-kingdom system proposed by Whittaker (1969) includes: Monera (prokaryotic, unicellular), Protista (eukaryotic, mostly unicellular, diverse), Fungi (eukaryotic, heterotrophic, with a chitin cell wall), Plantae (eukaryotic, autotrophic, with a cellulose cell wall), and Animalia (eukaryotic, heterotrophic, without cell walls). Viruses are not considered living because they cannot grow, develop, or carry out respiration on their own. They are particles of nucleic acid (DNA or RNA) surrounded by a protein coat and can only replicate inside a host cell.",
+          "keywords": [
+            {
+              "term": "Viruses",
+              "definition": "Non-living particles made up of nucleic acids (DNA or RNA) surrounded by a protein coat; they replicate inside a host cell."
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.1. Kingdom Monera",
+          "section_summary": "Kingdom Monera includes eubacteria (true bacteria) and archaebacteria (archaea). They are prokaryotic, simple, and lack a nucleus. Eubacteria have strong cell walls and exist in various shapes; they can be autotrophic or heterotrophic and are found in most habitats. Archaea have different cell walls and live in extreme environments. Bacteria have various modes of nutrition (photosynthetic, chemosynthetic, heterotrophic) and play vital roles as decomposers, mineralizers, and pathogens. While some bacteria cause diseases, many are harmless and beneficial.",
+          "notes": "Monerans are prokaryotes. Eubacteria are the common bacteria that have cell walls. Their shapes can be rod-shaped (bacilli), spherical (cocci), or spiral (spirilla). Some are autotrophs (photosynthetic or chemosynthetic), while others are heterotrophs (decomposers or parasites). They are found in most environments. Archaebacteria live in extreme environments like hot springs, swamps, and salt lakes. They have unique cell wall compositions and are chemosynthetic. Bacteria are crucial for decomposition, nitrogen fixation, and are also used in food production (cheese, yogurt). Disease-causing bacteria, like Mycobacterium tuberculosis, are relatively few.",
+          "keywords": [
+            {
+              "term": "Archaea",
+              "definition": "A group of microorganisms that are prokaryotic and often live in extreme environments."
+            },
+            {
+              "term": "Chemosynthetic",
+              "definition": "A mode of nutrition where an organism synthesizes food using chemical reactions."
+            },
+            {
+              "term": "Eubacteria",
+              "definition": "'True bacteria' that have strong cell walls and live in most habitats."
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.2. Kingdom Protista",
+          "section_summary": "Kingdom Protista is the most diverse kingdom, containing organisms that are eukaryotic and do not fit into the other kingdoms. They can be unicellular, colonial, or multicellular. They include animal-like protists (protozoa) and plant-like protists (algae). Algae are photosynthetic and form the basis of many aquatic food chains. The only common feature among all protists is that they are eukaryotes.",
+          "notes": "Protists are a diverse group of eukaryotes. They may be unicellular (like Paramecium) or multicellular (like some seaweeds). They are classified into three groups: animal-like protists (protozoa) that are heterotrophs; plant-like protists (algae) that are autotrophic and produce a large amount of Earth's oxygen; and fungus-like protists that are decomposers. The key unifying feature of all protists is that they have eukaryotic cells with a nucleus and membrane-bound organelles.",
+          "keywords": [
+            {
+              "term": "Protozoans",
+              "definition": "Animal-like, single-celled protists that are heterotrophs."
+            },
+            {
+              "term": "Algae",
+              "definition": "Plant-like, photosynthetic protists that form the basis of aquatic food chains."
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.3. Kingdom Fungi",
+          "section_summary": "Fungi are eukaryotic organisms that can be unicellular (yeasts) or multicellular (moulds and mushrooms). They are heterotrophs that do not ingest food but absorb nutrients after secreting digestive enzymes (extracellular digestion). Their bodies are made of thread-like structures called hyphae, which form a mycelium. Fungal cell walls are made of chitin. They can be decomposers (saprophytes), parasites, or mutualists (e.g., in lichens or mycorrhizae). They reproduce asexually by fragmentation, budding, or spore formation.",
+          "notes": "Fungi are eukaryotic heterotrophs. They are composed of hyphae, which form a network called a mycelium. They perform extracellular digestion, absorbing nutrients from their surroundings. They are classified based on their mode of nutrition: saprophytes decompose dead matter, parasites harm their host, and mutualists benefit their host (like lichens and mycorrhizae). Fungi reproduce asexually through fragmentation, budding (in yeast), or spores. Important examples include yeasts for baking and brewing, and mushrooms.",
+          "keywords": [
+            {
+              "term": "Hyphae",
+              "definition": "Long, slender thread-like structures that make up the body of a fungus."
+            },
+            {
+              "term": "Saprophytes (Decomposers)",
+              "definition": "Fungi that absorb nutrients from non-living organic material."
+            },
+            {
+              "term": "Parasitism",
+              "definition": "A symbiotic relationship in which one organism benefits at the expense of another."
+            },
+            {
+              "term": "Mutualism",
+              "definition": "A symbiotic relationship in which both species benefit."
+            },
+            {
+              "term": "Symbiosis",
+              "definition": "A permanent, close association between two or more organisms of different species."
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.4. Kingdom Plantae",
+          "section_summary": "Kingdom Plantae includes all eukaryotic, multicellular autotrophs. They have cell walls made of cellulose and contain chloroplasts for photosynthesis. They are mostly stationary and live on land. Plants reproduce asexually by vegetative propagation or sexually. Major groups include bryophytes (no vascular tissue, e.g., mosses), gymnosperms (vascular, seeds not enclosed in fruits), and angiosperms (vascular, flowering plants with seeds in fruits). Angiosperms are the most diverse and are further divided into monocots and dicots.",
+          "notes": "Plants are multicellular eukaryotes that are autotrophic, using photosynthesis. Their cells have a rigid cell wall made of cellulose. They do not move from place to place. Major divisions include: Bryophytes (mosses, liverworts), which lack vascular tissue; Gymnosperms (conifers, cycads), which produce 'naked' seeds; and Angiosperms (flowering plants), which produce seeds enclosed in fruits. Angiosperms are divided into monocots (one seed leaf, parallel leaf veins, e.g., grasses) and dicots (two seed leaves, branching veins, e.g., beans).",
+          "keywords": [
+            {
+              "term": "Angiosperms",
+              "definition": "The most diverse seed plant group; they make flowers and fruits and enclose their seeds in an ovary."
+            },
+            {
+              "term": "Gymnosperm",
+              "definition": "A seed plant that does not make flowers or fruits; its seeds are 'naked'."
+            },
+            {
+              "term": "Bryophyte",
+              "definition": "A lineage of plants (mosses, liverworts, hornworts) that lack vascular tissue."
+            },
+            {
+              "term": "Vascular plant",
+              "definition": "A plant having specialized tissues (xylem and phloem) that transport water and sugar."
+            },
+            {
+              "term": "Monocots/Dicots",
+              "definition": "The two major groups of angiosperms. Monocots have one seed leaf, dicots have two."
+            }
+          ]
+        },
+        {
+          "section_title": "2.6.5 Kingdom Animalia",
+          "section_summary": "Kingdom Animalia includes all multicellular, heterotrophic, eukaryotic organisms. Unlike plants and fungi, animals ingest their food and digest it internally. They lack cell walls and have structural proteins like collagen. Many have specialized muscle and nerve cells. Most animals reproduce sexually. They are divided into two main groups: invertebrates (no backbone) and vertebrates (with a backbone). Invertebrates include sponges, flatworms, roundworms, annelids, molluscs, and arthropods. Vertebrates include fish, amphibians, reptiles, birds, and mammals.",
+          "notes": "Animals are multicellular heterotrophs that ingest their food. They have no cell walls. Key features include muscle cells for movement and nerve cells for conducting impulses. They are classified as invertebrates (no backbone) or vertebrates (have a backbone). Invertebrates are the most diverse group, including phyla like Porifera (sponges), Cnidaria, Platyhelminthes (flatworms), Nematoda (roundworms), Annelida (segmented worms), Mollusca (snails, squids), and Arthropoda (insects, spiders). Vertebrates belong to the phylum Chordata and include classes like Pisces (fish), Amphibia, Reptilia, Aves (birds), and Mammalia (mammals).",
+          "keywords": [
+            {
+              "term": "Invertebrates",
+              "definition": "Animals without a backbone."
+            },
+            {
+              "term": "Vertebrates",
+              "definition": "Animals with a backbone."
+            },
+            {
+              "term": "Anatomy",
+              "definition": "The study of internal structure, as revealed by dissection."
+            },
+            {
+              "term": "Morphology",
+              "definition": "The study of the form or outward appearance of organisms."
+            }
+          ]
+        },
+        {
+          "section_title": "2.7 Renowned Taxonomists in Ethiopia",
+          "section_summary": "Despite Ethiopia's rich biodiversity, few taxonomists have been trained. Notable Ethiopian taxonomists have made significant contributions to the study of the country's flora and fauna. Professors Sebsebe Demissew, Mesfin Taddese, Ensermu Kelbessa, and Silesh Nemomissa are renowned botanists, and Professor Abebe Getahun is a notable zoologist. Their work has included publishing volumes on the Flora of Ethiopia and contributing to international scientific organizations.",
+          "notes": "Ethiopia's biodiversity is immense, but the number of trained taxonomists is limited. Several Ethiopian scientists have made significant contributions to the field. These include Dr. Mesfin Taddese, Professor Sebsebe Demissew, Professor Ensermu Kelbessa, and Professor Silesh Nemomissa (botanists) and Professor Abebe Getahun (zoologist). Their work includes publishing books on Ethiopian flora and participating in international scientific bodies.",
+          "keywords": []
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "unit_title": "Cells",
+      "sections": [
+        {
+          "section_title": "3.1. What is a cell?",
+          "section_summary": "The cell is the smallest and basic unit of living things. All living things are composed of cells. Some living things are unicellular (consisting of a single cell, e.g., Paramecium), while others are multicellular (composed of many specialized cells, e.g., plants and animals). The activities of a multicellular organism, from muscle contraction to thought, are the result of cooperative work among different specialized cell types.",
+          "notes": "A cell is the fundamental unit of life. Organisms can be unicellular, like bacteria and Paramecium, or multicellular, like plants, animals, and humans. In multicellular organisms, cells are specialized to perform specific functions. For instance, muscle cells are for movement, and nerve cells are for transmitting messages. The cooperative work of these various cells allows the organism to function as a whole.",
+          "keywords": [
+            {
+              "term": "Cell",
+              "definition": "The smallest and basic unit of living things."
+            },
+            {
+              "term": "Unicellular organisms",
+              "definition": "Living things that consist of a single cell."
+            },
+            {
+              "term": "Multicellular organisms",
+              "definition": "Living things composed of many cells."
+            }
+          ]
+        },
+        {
+          "section_title": "3.2. Cell theory",
+          "section_summary": "The cell theory is a unifying foundation in biology. Its three main tenets are: 1) All living organisms are composed of one or more cells. 2) The cell is the smallest unit of life. 3) Cells arise only by the division of a pre-existing cell. Key scientists involved in its development include Robert Hooke (who first observed and named cells), Anton van Leeuwenhoek (who observed protozoa and bacteria), and Matthias Schleiden and Theodor Schwann (who formally proposed the cell theory).",
+          "notes": "The cell theory, developed in the 19th century, is a fundamental concept in biology. Robert Hooke (1665) was the first to observe cells in cork. Anton van Leeuwenhoek (1674) was the first to observe living cells, including protozoa and bacteria. Matthias Schleiden (1838), a botanist, stated that plants are made of cells. Theodor Schwann (1839), a zoologist, extended this to animals. The cell theory states that all living things are composed of cells, cells are the basic units of structure and function, and new cells arise from existing cells.",
+          "keywords": [
+            {
+              "term": "Cell theory",
+              "definition": "The unifying foundation of cell biology that states: 1) Organisms are made of cells; 2) Cells are the smallest unit of life; 3) Cells arise from pre-existing cells."
+            }
+          ]
+        },
+        {
+          "section_title": "3.3. Cell structure and function",
+          "section_summary": "Cells have common structural features: the cell membrane, cytoplasm, and nucleus. The cell membrane is a selectively permeable barrier that controls what enters and leaves the cell. The cytoplasm is the fluid-filled region containing organelles, which are distinct structures with specific functions. The nucleus is the largest organelle, containing DNA that controls cell activities and cell division. Other organelles include ribosomes (protein synthesis), endoplasmic reticulum (transport and lipid synthesis), Golgi apparatus (packaging and distribution), mitochondria (energy production), lysosomes (digestion), and vacuoles (storage and water balance). Plant cells also have chloroplasts (photosynthesis) and a cell wall (support).",
+          "notes": "The key structures of a cell and their functions are: Cell Membrane: Selectively permeable outer boundary controlling transport. Cytoplasm: Jelly-like substance where organelles are suspended and many chemical reactions occur. Nucleus: The control center; contains DNA and directs cell activities and division. Ribosomes: Sites of protein synthesis. Endoplasmic Reticulum (ER): System of membranes; Rough ER has ribosomes for protein synthesis, Smooth ER makes lipids. Golgi Apparatus: Modifies, packages, and distributes proteins and lipids. Mitochondria: The 'powerhouse' of the cell; site of respiration and energy production. Lysosomes: Sacs of digestive enzymes for breaking down waste and bacteria. Vacuoles: Storage sacs (large in plant cells, small in animal cells). Centrioles: Involved in cell division in animal cells. Cell Wall: Rigid outer layer in plant cells, fungi, and some protists, providing support. Chloroplasts: Site of photosynthesis in plant cells (contains chlorophyll). Cilia and flagella: Used for locomotion.",
+          "keywords": [
+            {
+              "term": "Organelles",
+              "definition": "Small structures found in plant and animal cells with specific functions."
+            },
+            {
+              "term": "Nucleus",
+              "definition": "The largest organelle containing DNA, which controls all cell activity."
+            },
+            {
+              "term": "Ribosomes",
+              "definition": "Small cellular structures responsible for synthesizing proteins."
+            },
+            {
+              "term": "Rough Endoplasmic Reticulum",
+              "definition": "A part of the ER that is studded with ribosomes and involved in protein synthesis."
+            },
+            {
+              "term": "Mitochondria",
+              "definition": "Organelles that are the sites of respiration and produce energy, known as the 'powerhouse' of the cell."
+            },
+            {
+              "term": "Lysosomes",
+              "definition": "Membrane-bound packages of digestive enzymes that break down unwanted substances or bacteria."
+            },
+            {
+              "term": "Chloroplasts",
+              "definition": "Organelles containing chlorophyll, where photosynthesis takes place."
+            }
+          ]
+        },
+        {
+          "section_title": "3.4 Types of cells",
+          "section_summary": "Cells are classified into two main types based on structure: prokaryotic and eukaryotic. Prokaryotic cells are simple, small, and lack a nucleus and membrane-bound organelles (e.g., bacteria and archaea). They are always unicellular. Eukaryotic cells are larger and more complex, containing a nucleus and other membrane-bound organelles (e.g., plant and animal cells). They are usually multicellular. The key differences include the presence of a nucleus and organelles in eukaryotes, and differences in the size of ribosomes, the structure of chromosomes, and cell wall composition.",
+          "notes": "Prokaryotic cells are simpler and evolved earlier than eukaryotic cells. They lack a nucleus and membrane-bound organelles. They have a cell wall, and their DNA is present in a nucleoid region. Bacteria and Archaea are prokaryotes. Eukaryotic cells have a true nucleus and membrane-bound organelles. They are larger and more complex. Plants, animals, fungi, and protists are eukaryotes. Key differences are: the presence of membrane-bound organelles (Eukaryotes) and their absence (Prokaryotes); ribosomes are smaller in prokaryotes; eukaryotic DNA is linear and associated with proteins, while prokaryotic DNA is circular and not associated with proteins.",
+          "keywords": [
+            {
+              "term": "Prokaryotic cells",
+              "definition": "Unicellular organisms without a separate nucleus or membrane-bound organelles."
+            },
+            {
+              "term": "Eukaryotic cells",
+              "definition": "Cells with a nucleus and membrane-bound organelles."
+            }
+          ]
+        },
+        {
+          "section_title": "3.5. Animal and plant cells",
+          "section_summary": "Animal and plant cells share common structures like the cell membrane, nucleus, cytoplasm, mitochondria, and Golgi apparatus. However, they also have key differences. Plant cells have a rigid cell wall, chloroplasts for photosynthesis, and a large permanent central vacuole, which are absent in animal cells. Animal cells have centrioles and lysosomes, which are not found in plant cells. Plant cells are generally larger than animal cells.",
+          "notes": "Animal and plant cells are both eukaryotic and have many organelles in common. The unique structures of plant cells are: Cell Wall: Provides structural support. Chloroplasts: For photosynthesis. Large Central Vacuole: For storage and maintaining turgor pressure. Structures unique to animal cells are: Centrioles: Involved in cell division. Lysosomes: Contain digestive enzymes (though some plant cells also have them, they are more common in animal cells).",
+          "keywords": [
+            {
+              "term": "Centrioles",
+              "definition": "Organelles in animal cells that anchor to microtubules during cell division."
+            }
+          ]
+        },
+        {
+          "section_title": "3.6 Observing cells under a microscope",
+          "section_summary": "A microscope is essential for observing cells. To prepare a slide, a thin specimen (e.g., onion epidermal tissue or cheek cells) is placed on a slide, stained to make structures visible, and covered with a coverslip. The slide is then placed on the microscope stage and viewed, starting with low power and increasing magnification. Staining highlights key structures like the nucleus. Proper slide preparation is crucial for clear viewing.",
+          "notes": "Observing cells requires skill in using a microscope. To view an onion cell, a thin layer of epidermal tissue is peeled, placed on a slide, stained with iodine, and a cover slip is gently placed to avoid air bubbles. Iodine stains the cell and makes the nucleus more visible. For animal cells (cheek cells), a sample is collected with a cotton swab, stained with methylene blue, and viewed. Following safety protocols, such as disinfecting used slides, is important. The procedure includes focusing with low power first, then moving to higher magnification.",
+          "keywords": [
+            {
+              "term": "Staining",
+              "definition": "The process of adding a dye to a specimen to make cellular structures more visible under a microscope."
+            }
+          ]
+        },
+        {
+          "section_title": "3.7 The cell and its environment",
+          "section_summary": "The cell membrane is selectively permeable, controlling the movement of substances in and out of the cell. Movement can be passive (without energy) or active (with energy). Passive transport includes diffusion (movement of molecules from high to low concentration) and osmosis (the diffusion of water across a semi-permeable membrane from high to low water concentration). Active transport moves molecules against their concentration gradient, requiring energy. This process is vital for maintaining internal concentrations of solutes different from the environment.",
+          "notes": "The cell membrane controls what enters and leaves the cell. Passive Transport: Movement down a concentration gradient without energy. Types: Diffusion and Osmosis. Factors affecting diffusion: concentration gradient, temperature, mass of molecule, distance, surface area. Osmosis: The diffusion of water from a region of higher water concentration (dilute) to lower water concentration (concentrated) through a semipermeable membrane. The direction of water movement depends on the solution type (hypotonic, isotonic, hypertonic). Active Transport: Movement against a concentration gradient requiring energy (ATP). It allows cells to take up needed substances even when they are already in higher concentration inside. Examples include ion uptake by root hairs and glucose uptake by epithelial cells.",
+          "keywords": [
+            {
+              "term": "Diffusion",
+              "definition": "The net movement of molecules or ions from a region of high concentration to a region of low concentration."
+            },
+            {
+              "term": "Osmosis",
+              "definition": "The diffusion of water molecules from a region of higher water concentration (dilute solution) to a region of lower water concentration (concentrated solution)."
+            },
+            {
+              "term": "Active transport",
+              "definition": "The movement of ions or molecules across the cell membrane against a concentration gradient, using energy."
+            },
+            {
+              "term": "Hypertonic solution",
+              "definition": "A solution with a high concentration of solute and a low concentration of water."
+            },
+            {
+              "term": "Hypotonic solution",
+              "definition": "A solution with a low concentration of solute and a high concentration of water."
+            },
+            {
+              "term": "Isotonic solution",
+              "definition": "A solution where the concentration of solute and water is equal on both sides of a membrane."
+            }
+          ]
+        },
+        {
+          "section_title": "3.8. Levels of Biological Organization",
+          "section_summary": "Life is organized hierarchically, from atoms to the biosphere. The key levels are: atoms -> molecules -> organelles -> cells -> tissues -> organs -> organ systems -> organisms -> populations -> communities -> ecosystems -> biosphere. A tissue is a group of similar cells performing a specific function. An organ is a structure made of different tissues working together. An organ system is a group of organs that work together to perform a body function.",
+          "notes": "Biological organization is hierarchical. The cellular level: Atoms make molecules, which assemble into organelles within a cell. The organism level: Cells are specialized into tissues (e.g., muscle tissue). Tissues form organs (e.g., heart). Organs work together in organ systems (e.g., circulatory system). Beyond the organism: Populations are groups of the same species; communities are all populations in an area; ecosystems include communities and abiotic factors; and the biosphere is all life on Earth.",
+          "keywords": [
+            {
+              "term": "Tissues",
+              "definition": "Groups of cells that have a similar structure and function."
+            },
+            {
+              "term": "Organs",
+              "definition": "Body structures composed of several different tissues that act as functional units."
+            },
+            {
+              "term": "Systems",
+              "definition": "Groups of different organs working together to perform a major function."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Reproduction",
+      "sections": [
+        {
+          "section_title": "4.1 Introduction to reproduction",
+          "section_summary": "Reproduction is a defining characteristic of life, enabling the continuation of a species. There are two main modes: asexual and sexual. Asexual reproduction involves one parent and produces genetically identical offspring. Sexual reproduction involves the fusion of gametes from two parents, producing genetically different offspring.",
+          "notes": "Reproduction is essential for the continuity of life. Asexual reproduction is efficient, creating identical copies. Sexual reproduction introduces genetic variation, which can be beneficial for adaptation. The key difference is the number of parents and whether gametes (sex cells) are involved.",
+          "keywords": []
+        },
+        {
+          "section_title": "4.2 Asexual reproduction",
+          "section_summary": "Asexual reproduction is the production of individuals without the fusion of gametes. It involves a single parent and results in offspring that are genetically identical. It is common in bacteria, unicellular eukaryotes, fungi, many plants, and some invertebrates, but absent in vertebrates. Advantages include not needing a mate, passing on all favorable characteristics, and rapid reproduction. Disadvantages include little genetic variation, making adaptation to changing environments difficult.",
+          "notes": "Asexual reproduction is efficient and rapid. It occurs in various organisms. Key advantages: no mate required; all good traits are passed on; offspring are adapted to the same environment. Key disadvantages: lack of genetic variation; makes the population vulnerable to environmental change or diseases; there is also competition for resources.",
+          "keywords": []
+        },
+        {
+          "section_title": "4.3 Types of asexual reproduction",
+          "section_summary": "Several forms of asexual reproduction include fission, fragmentation, budding, vegetative propagation, and sporulation. Fission is the division of a parent into two (binary) or more (multiple) equal parts. Fragmentation involves breaking into pieces, each regenerating into a new organism. Budding creates a new organism as an outgrowth from the parent. Vegetative propagation is the creation of new plants from vegetative parts like roots, stems, and leaves. Sporulation involves the production of spores that can develop into new individuals.",
+          "notes": "Asexual reproduction occurs through several mechanisms: Fission: Common in bacteria and some protists (binary fission). Fragmentation: Common in fungi, algae, and some worms (e.g., Spirogyra). Budding: Common in yeast and Hydra. Vegetative Propagation: Natural methods (stolons, rhizomes, corms, tubers, bulbs) and artificial methods (grafting, cutting, layering). Sporulation: Common in fungi (e.g., Mucor), producing spores that are dispersed. This form is ideal for colonizing new habitats.",
+          "keywords": [
+            {
+              "term": "Fission",
+              "definition": "A form of asexual reproduction where an organism divides into two (binary) or more (multiple) equal parts."
+            },
+            {
+              "term": "Fragmentation",
+              "definition": "Asexual reproduction where a parent organism breaks into parts that develop into a whole organism."
+            },
+            {
+              "term": "Budding",
+              "definition": "Asexual reproduction where a new organism develops as an outgrowth (bud) on the parent and eventually detaches."
+            },
+            {
+              "term": "Vegetative propagation",
+              "definition": "A method of asexual reproduction in plants where structures like roots, stems, and leaves give rise to new plants."
+            },
+            {
+              "term": "Spore",
+              "definition": "A reproductive cell produced by fungi and some plants that can develop into a new organism."
+            },
+            {
+              "term": "Chromosome",
+              "definition": "The hereditary material that carries biological information."
+            },
+            {
+              "term": "Hypha (pl. Hyphae)",
+              "definition": "The long filamentous branches found in fungi."
+            }
+          ]
+        },
+        {
+          "section_title": "4.4 Sexual reproduction in Humans",
+          "section_summary": "Sexual reproduction involves two parents and the fusion of male and female gametes (sperm and egg). Gametes are produced through meiosis. Fertilization results in a single-celled zygote, which then develops into a new individual. Sexual reproduction produces offspring with genetic variation. The male gamete is small and motile, while the female gamete is larger and non-motile.",
+          "notes": "Sexual reproduction is the formation of a new organism from the union of two sex cells or gametes. In humans, the male gamete is the sperm, produced in the testes, and the female gamete is the egg, produced in the ovaries. Fertilization occurs when the sperm and egg unite, forming a zygote. The zygote contains a mix of genetic material from both parents, leading to genetic variation in the offspring. This process involves meiosis, which produces haploid gametes.",
+          "keywords": [
+            {
+              "term": "Gametes",
+              "definition": "Reproductive cells (sex cells - egg or sperm) that are produced through meiosis."
+            },
+            {
+              "term": "Sperm",
+              "definition": "The male gamete, which is small and mobile."
+            },
+            {
+              "term": "Egg",
+              "definition": "The female gamete, which is larger and non-motile."
+            },
+            {
+              "term": "Meiosis",
+              "definition": "A type of cell division whereby gametes are produced."
+            },
+            {
+              "term": "Zygote",
+              "definition": "The fertilized egg, formed by the union of sperm and egg."
+            }
+          ]
+        },
+        {
+          "section_title": "4.5 Primary and secondary sexual characteristics",
+          "section_summary": "Primary sexual characteristics are the reproductive organs present at birth (penis, testicles, vagina, ovaries, etc.). Secondary sexual characteristics are features that develop during puberty, triggered by hormones, and are not directly involved in reproduction. In males, these include growth of facial and body hair, deepening of voice, and increased muscle mass. In females, they include breast development, widening of hips, and the start of the menstrual cycle. Puberty also brings psychological and social changes.",
+          "notes": "At birth, males and females have primary sexual characteristics: the reproductive organs. At puberty, sex hormones (testosterone in males, estrogen in females) trigger the development of secondary sexual characteristics. In males: broader shoulders, muscle growth, facial and body hair, and a deeper voice. In females: breast development, widened hips, more body hair, and menarche (start of menstruation). Adolescence is a period of significant physical, psychological, and social changes. Young people may feel anxious about their development, and it is important to understand that there is a wide range of 'normal' development.",
+          "keywords": [
+            {
+              "term": "Puberty",
+              "definition": "The time when secondary sex characteristics begin to develop and sexual maturity is reached."
+            },
+            {
+              "term": "Hormones",
+              "definition": "Chemical messengers secreted by endocrine glands that regulate bodily functions and development."
+            },
+            {
+              "term": "Secondary sex characteristics",
+              "definition": "Characteristics that are not directly involved in reproduction but develop during puberty."
+            }
+          ]
+        },
+        {
+          "section_title": "4.6 Male reproductive structures",
+          "section_summary": "The male reproductive system produces and delivers sperm. It includes testes (sperm production), epididymis (sperm maturation), vas deferens (sperm transport), seminal vesicles, prostate gland, and bulbourethral glands (produce semen), and the penis. The testes are located in the scrotum, which maintains a lower temperature needed for sperm development. Sperm have a head (with genetic material), a midpiece (with mitochondria for energy), and a tail (flagellum for motility).",
+          "notes": "Key male reproductive structures and their functions: Testes: Produce sperm and testosterone. Scrotum: Holds the testes outside the body for temperature regulation. Epididymis: Where sperm mature and are stored. Vas Deferens: Tube that carries sperm from the epididymis to the urethra. Seminal Vesicles: Produce a fructose-rich fluid for sperm nutrition and motility. Prostate Gland: Secretes an alkaline fluid that helps protect sperm in the female reproductive tract. Bulbourethral Glands: Produce a lubricating mucus. Penis: The organ for sexual intercourse. Sperm structure relates to its function: the head contains the DNA and an enzyme to penetrate the egg, the midpiece has mitochondria for energy, and the tail is a flagellum for swimming.",
+          "keywords": [
+            {
+              "term": "Scrotum",
+              "definition": "A pouch of skin that encloses the testes and keeps them at a slightly lower temperature."
+            },
+            {
+              "term": "Epididymis",
+              "definition": "A pair of ducts in which sperm formed in the testes mature."
+            },
+            {
+              "term": "Vas deferens",
+              "definition": "One of a pair of long ducts that convey mature sperm toward the body surface."
+            },
+            {
+              "term": "Prostate gland",
+              "definition": "A gland that produces alkaline secretions that help raise the pH of the female reproductive tract."
+            },
+            {
+              "term": "Seminal vesicles",
+              "definition": "Exocrine glands that secrete a fructose-rich fluid into the vasa deferentia."
+            },
+            {
+              "term": "Testosterone",
+              "definition": "The main hormone produced by testes, required for sperm production and male secondary sexual traits."
+            }
+          ]
+        },
+        {
+          "section_title": "4.7. Female reproductive structures",
+          "section_summary": "The female reproductive system produces eggs and provides a place for fertilization and fetal development. It includes ovaries (egg production), oviducts (fertilization site, transport egg to uterus), uterus (where embryo implants and develops), cervix (opening of the uterus), and vagina (birth canal and organ of intercourse). The external genitals include the labia and clitoris. The ovaries also secrete estrogen and progesterone. Ovulation is the release of a mature egg from an ovary.",
+          "notes": "Key female reproductive structures and their functions: Ovaries: Produce eggs and secrete estrogen and progesterone. Oviducts (Fallopian tubes): Transport the egg from the ovary to the uterus; the site of fertilization. Uterus: A hollow, pear-shaped organ where the embryo implants and develops during pregnancy. Cervix: The narrowed lower end of the uterus that opens into the vagina. Vagina: The organ of intercourse and the birth canal. Ovulation is the release of an egg from a mature follicle in the ovary. A female is born with millions of eggs, but only a few hundred mature during her lifetime.",
+          "keywords": [
+            {
+              "term": "Corpus luteum",
+              "definition": "A hormone-secreting structure that develops from the ruptured ovarian follicle after ovulation."
+            },
+            {
+              "term": "Menstrual cycle",
+              "definition": "The series of changes in the female reproductive cycle that occur each month, producing an egg and preparing the uterus."
+            }
+          ]
+        },
+        {
+          "section_title": "4.8 The Menstrual cycle",
+          "section_summary": "The menstrual cycle is a monthly cycle of changes in the uterus and ovaries, lasting about 28 days. It is divided into three phases: the flow phase (menstruation), the follicular phase (maturation of the follicle and thickening of the uterine lining), and the luteal phase (after ovulation, where the corpus luteum secretes progesterone). Menopause marks the end of the menstrual cycle when the ovaries stop releasing eggs. Good menstrual hygiene, including regular changing of products and genital hygiene, is essential for health.",
+          "notes": "The menstrual cycle is controlled by hormones. The flow phase is menstruation (shedding of the uterine lining). The follicular phase is when FSH stimulates a follicle to mature, and the uterine lining thickens. Ovulation occurs mid-cycle. The luteal phase begins after ovulation; the corpus luteum secretes progesterone and estrogen, preparing the uterus for pregnancy. If fertilization does not occur, hormone levels drop, and the uterine lining sheds during menstruation. Menopause is when a woman's reproductive cycles end. Menstrual hygiene is vital to prevent infections, and includes regular changing of menstrual products, proper washing, and monitoring for irregularities.",
+          "keywords": [
+            {
+              "term": "Flow phase",
+              "definition": "The first phase of the menstrual cycle, marked by menstruation."
+            },
+            {
+              "term": "Follicular phase",
+              "definition": "The second phase of the menstrual cycle, where an ovarian follicle matures."
+            },
+            {
+              "term": "Luteal phase",
+              "definition": "The third phase of the menstrual cycle, following ovulation."
+            }
+          ]
+        },
+        {
+          "section_title": "4.9 Fertilization and pregnancy",
+          "section_summary": "Fertilization is the fusion of a sperm and egg. It usually occurs in the oviduct. The resulting zygote undergoes cell division and travels to the uterus, where it implants in the uterine lining. The developing embryo is nourished by the placenta, which provides oxygen and nutrients from the mother's blood and removes waste. After 8 weeks, the developing organism is called a fetus. Twins can be identical (monozygotic, from one zygote) or fraternal (dizygotic, from two zygotes).",
+          "notes": "Fertilization occurs when a sperm penetrates an egg in the oviduct. The sperm and egg nuclei fuse, forming a diploid zygote. The zygote divides to form a ball of cells (morula), which becomes a blastocyst that implants in the uterus (implantation). The embryo is surrounded by amniotic fluid for protection. The placenta forms from the embryo and the uterine lining, and connects to the embryo via the umbilical cord. The placenta allows for the exchange of nutrients, oxygen, and waste between mother and embryo without their blood mixing. Identical twins come from one fertilized egg that splits, while fraternal twins come from two separate eggs and sperm.",
+          "keywords": [
+            {
+              "term": "Implantation",
+              "definition": "The process where the embryo sinks into the lining of the uterus."
+            },
+            {
+              "term": "Placenta",
+              "definition": "A structure that connects the embryo to the uterus, allowing for nutrient, oxygen, and waste exchange with the mother."
+            },
+            {
+              "term": "Umbilical cord",
+              "definition": "A tube that connects the embryo to the placenta."
+            }
+          ]
+        },
+        {
+          "section_title": "4.10 Methods of birth control",
+          "section_summary": "Birth control (contraception) aims to prevent pregnancy. Methods can be natural or artificial. Natural methods include abstinence, fertility awareness (calendar, temperature, mucus methods), and withdrawal. Artificial methods include barrier methods (male and female condoms, diaphragm, spermicides), hormonal methods (contraceptive pill, implant, injection, IUS), intrauterine devices (IUD), and surgical methods (vasectomy for men, laparotomy for women). Each method has different effectiveness rates, advantages, and disadvantages. Some methods, like condoms, also offer protection against STIs.",
+          "notes": "Contraception allows individuals to control fertility. Natural Methods: Abstinence (most effective), Fertility Awareness (avoiding sex during fertile periods, but less reliable), Withdrawal (high failure rate). Barrier Methods: Male Condom (effective, protects against STIs), Female Condom, Diaphragm (less effective against STIs), Spermicides. Hormonal Methods: Pill, Implant, Injection (all highly effective, but may have side effects and do not protect against STIs). Intrauterine Devices (IUD/IUS): Prevents implantation, long-term but may have side effects. Surgical Methods: Vasectomy (male sterilization) and Laparotomy (female sterilization) are permanent and very effective.",
+          "keywords": []
+        },
+        {
+          "section_title": "4.11 Sexually transmitted infections (STIs): Transmission and prevention",
+          "section_summary": "Sexually transmitted infections (STIs) are spread through sexual contact. Common STIs in Ethiopia include trichomoniasis (protozoan), chlamydia, gonorrhea, syphilis (bacterial), and HIV/AIDS (viral). They can cause symptoms ranging from discharge and pain to infertility and systemic disease. Prevention includes abstinence, using condoms, and being in a monogamous relationship. Bacterial STIs are treatable with antibiotics, but viral STIs like HIV/AIDS have no cure, though their progression can be slowed with antiretroviral drugs.",
+          "notes": "STIs are caused by pathogens transmitted through sexual activity. Trichomoniasis: Caused by a protozoan. Chlamydia, Gonorrhea, Syphilis: Caused by bacteria, all treatable with antibiotics. HIV/AIDS: Caused by a virus, transmitted through bodily fluids. There is no cure, but it can be managed. Prevention: Abstinence is the most effective method. Condoms provide good protection. Avoiding multiple sexual partners reduces risk. Prevention and control also involve education, early testing, and seeking treatment to stop the spread.",
+          "keywords": [
+            {
+              "term": "Trichomoniasis",
+              "definition": "A sexually transmitted infection caused by the flagellated protozoan Trichomonas vaginalis."
+            },
+            {
+              "term": "Chlamydia",
+              "definition": "A bacterial STI caused by Chlamydia trachomatis, which can lead to infertility if untreated."
+            },
+            {
+              "term": "Gonorrhea",
+              "definition": "A bacterial STI caused by Neisseria gonorrhoeae, which can damage reproductive ducts and cause sterility."
+            },
+            {
+              "term": "Syphilis",
+              "definition": "A bacterial STI caused by Treponema pallidum, which can become a systemic disease if untreated."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Human Health, Nutrition, and Disease",
+      "sections": [
+        {
+          "section_title": "5.1. What is food?",
+          "section_summary": "Food is any beneficial substance consumed to provide nutritional support for the body. Its importance includes providing energy for biological activities, supplying materials for growth and the replacement of damaged tissues, and protecting the body from deficiency diseases. Food is usually derived from plants, animals, or fungi and contains essential nutrients.",
+          "notes": "Food is essential for life. It provides energy for all bodily functions like running, thinking, and growing. It provides raw materials (nutrients) for building and repairing cells and tissues. It also contains substances that protect the body from diseases. Without food, the body cannot maintain itself, grow, or perform its functions.",
+          "keywords": []
+        },
+        {
+          "section_title": "5.2 Nutrition",
+          "section_summary": "Nutrition is the process of taking in food and converting it into energy and vital nutrients required for life. It is essential for growth, repair of cells, and maintaining good health. The nutrients obtained from food are used by the body to carry out all its functions.",
+          "notes": "Nutrition is the overall process by which an organism obtains and uses food. It involves ingestion, digestion, absorption, and assimilation of nutrients. Good nutrition is fundamental for survival, health, growth, and the proper functioning of the body's systems.",
+          "keywords": []
+        },
+        {
+          "section_title": "5.3. Nutrients",
+          "section_summary": "Nutrients are chemical substances in food needed for growth, energy, and health. The five major classes are carbohydrates, proteins, lipids (fats and oils), vitamins, and minerals. Water and fiber are also essential. Carbohydrates, proteins, and lipids are macronutrients (needed in large quantities), while vitamins and minerals are micronutrients (needed in small quantities). Carbohydrates provide energy, proteins are for growth and repair, lipids provide energy and insulation, vitamins and minerals regulate body processes.",
+          "notes": "Nutrients are the building blocks of a healthy diet. Carbohydrates: Provide the main source of energy. Proteins: Essential for growth, repair, and making enzymes and hormones. Lipids (Fats and Oils): Provide a concentrated source of energy, insulation, and help absorb fat-soluble vitamins. Vitamins: Organic compounds needed in small amounts for various metabolic processes. Minerals: Inorganic elements needed for various body functions (e.g., iron for blood, calcium for bones). Water: Essential for all life processes. Fiber (Roughage): Indigestible carbohydrates that help prevent constipation and maintain colon health.",
+          "keywords": [
+            {
+              "term": "Nutrients",
+              "definition": "Chemical substances found in food that are used by the body for growth, energy, and good health."
+            },
+            {
+              "term": "Carbohydrates",
+              "definition": "Nutrients that provide energy for the human body (e.g., starches and sugars)."
+            },
+            {
+              "term": "Fats and oils",
+              "definition": "Nutrients that provide a concentrated source of energy. Fats are solid at room temperature; oils are liquid."
+            },
+            {
+              "term": "Proteins",
+              "definition": "Nutrients used for the growth and repair of body tissues and to build new cells."
+            },
+            {
+              "term": "Vitamins",
+              "definition": "Organic nutrients that are essential in small quantities for various chemical reactions in the body."
+            },
+            {
+              "term": "Minerals",
+              "definition": "Inorganic substances that are essential in small quantities for various body functions."
+            },
+            {
+              "term": "Fiber",
+              "definition": "The indigestible part of plant material that helps prevent constipation and keeps the colon healthy."
+            }
+          ]
+        },
+        {
+          "section_title": "5.4. Balanced diets",
+          "section_summary": "A balanced diet contains all nutrients in the correct amounts and proportions to meet the body's requirements. A balanced diet must provide enough carbohydrates and fats for energy, enough protein for growth and repair, and adequate vitamins, minerals, fiber, and water. A person's dietary needs depend on factors such as age, sex, activity level, and physiological state (e.g., pregnancy, lactation).",
+          "notes": "A balanced diet is essential for maintaining health and preventing disease. The specific requirements of a balanced diet vary among individuals. A growing child needs more protein and energy per kilogram of body weight than an adult. A pregnant or nursing woman has increased nutritional needs to support fetal growth and milk production. People with physically demanding jobs require more energy than those with sedentary jobs. A balanced diet should include a variety of foods from all food groups.",
+          "keywords": [
+            {
+              "term": "Diet",
+              "definition": "The food that a person eats."
+            },
+            {
+              "term": "Balanced diet",
+              "definition": "A diet that contains all the nutrients in the correct amounts and proportions."
+            }
+          ]
+        },
+        {
+          "section_title": "5.5 Deficiency diseases",
+          "section_summary": "Deficiency diseases occur when a person does not have enough of a particular nutrient. Examples include Marasmus (energy deficiency), Kwashiorkor (protein deficiency), Anemia (iron deficiency), Rickets (vitamin D deficiency), and Scurvy (vitamin C deficiency). These diseases cause a range of symptoms and can be treated or prevented by consuming foods rich in the missing nutrient.",
+          "notes": "Deficiency diseases result from a lack of specific nutrients. Marasmus: Caused by severe energy deficiency (lack of carbohydrates and fats). Symptoms include severe weight loss and muscle wasting. Kwashiorkor: Caused by protein deficiency. Symptoms include swelling (edema), dry skin, and changes in hair color. Anemia: Caused by iron deficiency, leading to fatigue and weakness. Rickets: Caused by vitamin D deficiency, leading to soft and deformed bones in children. Scurvy: Caused by vitamin C deficiency, leading to bleeding gums and poor wound healing.",
+          "keywords": [
+            {
+              "term": "Deficiency disease",
+              "definition": "A disease that occurs when a person does not have enough of one particular nutrient."
+            }
+          ]
+        },
+        {
+          "section_title": "5.6 Malnutrition",
+          "section_summary": "Malnutrition refers to the insufficient, excessive, or imbalanced consumption of nutrients. It includes both undernutrition (wasting, stunting, underweight, and micronutrient deficiencies) and overnutrition (obesity). Malnutrition can be caused by poverty, famine, disease, and lack of knowledge about proper nutrition. Obesity is caused by an energy imbalance and is a risk factor for health problems like heart disease, diabetes, and high blood pressure. BMI is a tool to estimate healthy weight.",
+          "notes": "Malnutrition is a broad term that covers both under- and over-nutrition. Undernutrition: Leads to conditions like stunting (low height for age) and wasting (low weight for height), and nutrient deficiencies. Overnutrition: Leads to obesity, which is a risk factor for non-communicable diseases. Body Mass Index (BMI) is a tool used to assess whether a person is underweight, normal weight, overweight, or obese. Obesity can be controlled by eating a balanced diet with lower energy intake and increasing physical activity.",
+          "keywords": [
+            {
+              "term": "Malnutrition",
+              "definition": "The insufficient, excessive, or imbalanced consumption of nutrients, leading to health problems."
+            },
+            {
+              "term": "Wasting",
+              "definition": "Low weight-for-height, indicating recent and severe weight loss."
+            },
+            {
+              "term": "Stunting",
+              "definition": "Low height-for-age, indicating chronic or recurrent undernutrition."
+            },
+            {
+              "term": "Underweight",
+              "definition": "Low weight-for-age."
+            },
+            {
+              "term": "Obesity",
+              "definition": "An excessive amount of body fat, often caused by an energy imbalance and consuming too many high-energy foods."
+            },
+            {
+              "term": "Body Mass Index (BMI)",
+              "definition": "A measure of body fat based on height and weight, used to screen for weight categories."
+            }
+          ]
+        },
+        {
+          "section_title": "5.7. Substance abuse",
+          "section_summary": "Substance abuse is using legal or illegal drugs in the wrong way or in excess. It includes the misuse of drugs like tobacco, alcohol, khat, heroin, and cannabis. These substances can have severe health, social, and economic consequences. Tobacco smoke contains tar, carbon monoxide, and nicotine, leading to lung diseases and cardiovascular problems. Alcohol is a depressant that can cause liver cirrhosis and addiction. Khat contains cathinone and has stimulant effects but can lead to addiction, gastritis, and social problems. Doping is the use of prohibited substances in sports to gain an unfair advantage, which has serious health and ethical implications.",
+          "notes": "Substance abuse is a major public health issue. Tobacco: Tar causes lung cancer and chronic bronchitis; Carbon monoxide reduces oxygen delivery; Nicotine is highly addictive. Alcohol: A depressant that slows the brain; long-term use damages the liver (cirrhosis). Khat: A stimulant containing cathinone, leading to alertness but also depression, appetite loss, and social issues. Cannabis: A psychoactive drug containing THC, associated with mental health risks. Heroin: A powerful depressant and highly addictive. Doping: The use of performance-enhancing drugs in sports is banned due to unfair advantage and severe health risks (cardiac, hormonal, psychological). Prevention involves education, counseling, and social support.",
+          "keywords": [
+            {
+              "term": "Drugs",
+              "definition": "Any substance taken into the body that modifies or affects chemical reactions in the body."
+            },
+            {
+              "term": "Nicotine",
+              "definition": "A stimulant compound found in tobacco that is highly addictive."
+            },
+            {
+              "term": "Carbon monoxide",
+              "definition": "A poisonous gas in tobacco smoke that irreversibly binds to hemoglobin, reducing the blood's oxygen-carrying capacity."
+            },
+            {
+              "term": "Emphysema",
+              "definition": "A lung condition where alveoli walls are destroyed, reducing the lung's surface area for gas exchange."
+            },
+            {
+              "term": "Cathinone",
+              "definition": "A chemical compound found in khat that affects the central nervous system and has stimulant effects."
+            },
+            {
+              "term": "Doping",
+              "definition": "The use of prohibited medications, drugs, or treatments in competitive sports to enhance performance."
+            }
+          ]
+        },
+        {
+          "section_title": "5.8. Infectious and noninfectious diseases",
+          "section_summary": "A disease is a condition in which the body does not function normally, causing symptoms. Diseases are classified as infectious or non-infectious. Infectious diseases are caused by pathogens (bacteria, viruses, protozoa, fungi) and can be transmitted from person to person (e.g., HIV/AIDS, TB, malaria, COVID-19). Prevention includes vaccination, hygiene, and controlling vectors. Non-infectious diseases are not caused by pathogens, but by factors like genetics, malnutrition, lifestyle, or environmental factors (e.g., kwashiorkor, lung cancer, diabetes).",
+          "notes": "Infectious diseases are communicable and caused by pathogens. Transmission can occur through direct contact, air (droplets), water, food, or vectors (like mosquitoes). Prevention methods include vaccination, sanitation, personal hygiene, safe food preparation, and vector control. Examples include HIV/AIDS (virus), Tuberculosis (bacterium), Malaria (protozoan). COVID-19 is a viral respiratory disease that spread as a pandemic, with prevention involving masks, social distancing, and vaccination. Non-infectious diseases are non-communicable. They can be caused by dietary deficiencies (kwashiorkor), lifestyle factors (smoking causing lung cancer), or genetic disorders.",
+          "keywords": [
+            {
+              "term": "Infectious diseases",
+              "definition": "Diseases caused by pathogenic organisms that can be transmitted from one person to another."
+            },
+            {
+              "term": "Non-infectious diseases",
+              "definition": "Diseases not caused by pathogens, often resulting from genetic factors, malnutrition, or lifestyle choices."
+            },
+            {
+              "term": "Vector",
+              "definition": "An organism that carries and transmits a disease-causing organism from one host to another."
+            },
+            {
+              "term": "Endemic",
+              "definition": "A disease that exists permanently in a specific place or population."
+            },
+            {
+              "term": "Epidemic",
+              "definition": "A disease that occurs suddenly and spreads in a specific area or among a specific population."
+            },
+            {
+              "term": "Pandemic",
+              "definition": "An epidemic that spreads over a wide geographic area, often affecting a huge number of people."
+            }
+          ]
+        },
+        {
+          "section_title": "5.9 Renowned Nutritionists in Ethiopia",
+          "section_summary": "This section highlights the contributions of renowned Ethiopian nutritionists. They are researchers or scientists who study nutrition and have contributed to the field through research and policy advice to improve public health and fight malnutrition in Ethiopia. The textbook mentions that students can research and write about these individuals.",
+          "notes": "Ethiopia has a number of professionals who work in the field of nutrition, contributing to our understanding of nutritional challenges and solutions. Their work is vital for addressing public health issues like malnutrition and food insecurity. The textbook encourages students to research and appreciate the contributions of these scientists.",
+          "keywords": [
+            {
+              "term": "Nutritionists",
+              "definition": "Researchers or scientists who study nutrition and its effects on health."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Ecology",
+      "sections": [
+        {
+          "section_title": "6.1 Ecology",
+          "section_summary": "Ecology is the branch of biology that studies the interactions among organisms and with their environment. It involves the study of ecosystems, which include living (biotic) and non-living (abiotic) factors. A habitat is the place where an organism lives, and a niche is its role within the ecosystem. Ecologists use both qualitative observations and quantitative measurements to study these relationships.",
+          "notes": "Ecology is the scientific study of interactions between organisms and their environment. It includes the study of individuals, populations, communities, ecosystems, and the biosphere. A habitat is the physical area where an organism lives, while its niche is its functional role in the ecosystem, including what it eats, where it lives, and its relationship with other organisms. Ecologists gather information through observation (qualitative) and measurements and experiments (quantitative).",
+          "keywords": [
+            {
+              "term": "Ecology",
+              "definition": "The branch of biology that deals with the study of interactions among organisms and with their environment."
+            },
+            {
+              "term": "Ecosystem",
+              "definition": "A community of living organisms (biotic) interacting with their non-living environment (abiotic)."
+            },
+            {
+              "term": "Habitat",
+              "definition": "The place where an organism lives."
+            },
+            {
+              "term": "Niche",
+              "definition": "The job an organism does and the place in which it lives; its ecological role."
+            },
+            {
+              "term": "Biotic factors",
+              "definition": "The living components of an ecosystem that influence the distribution of organisms."
+            },
+            {
+              "term": "Abiotic factors",
+              "definition": "The non-living components of an ecosystem that influence the distribution of organisms."
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.2. Biotic and abiotic components",
+          "section_summary": "The distribution of organisms is influenced by both abiotic and biotic factors. Important abiotic factors include solar energy, temperature, water, nutrients, salinity, and oxygen. Biotic factors include the interactions with other species, such as predators, herbivores, parasites, and competitors. These factors act as limitations on where and how organisms can live.",
+          "notes": "The environment is composed of a complex interplay of factors. Abiotic factors: Solar energy powers most ecosystems; Temperature affects metabolism; Water is essential for all life; Nutrients like nitrogen and phosphorus are vital for plant growth; Salinity is important for aquatic organisms; Wind and fire can also shape terrestrial ecosystems. Biotic factors: Predation and herbivory affect prey and plant distribution; Parasites and pathogens can limit host populations; Competition for resources (food, water, light) is a key interaction. The combination of these factors determines the distribution and abundance of species.",
+          "keywords": []
+        },
+        {
+          "section_title": "6.1.3. Ecological levels",
+          "section_summary": "Ecologists study life at different levels of organization. The levels are: organism (individual), population (group of same species), community (all different species in an area), ecosystem (community + abiotic factors), and biosphere (all life on Earth). A population is a group of interbreeding organisms of the same species. A community consists of all the populations of different species living together.",
+          "notes": "The study of ecology is organized into distinct levels: Organism: An individual living thing. Population: A group of individuals of the same species living in the same area and interbreeding. Community: All the populations of different species that live in the same area. Ecosystem: The community of organisms in a habitat, plus the non-living part of the environment. Biosphere: The entire part of the Earth that contains living organisms.",
+          "keywords": [
+            {
+              "term": "Population",
+              "definition": "A group of interbreeding organisms that are members of the same species living in the same area at the same time."
+            },
+            {
+              "term": "Biological community",
+              "definition": "A group of different species within an area and the interactions within and among these species."
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.4. Ecosystems",
+          "section_summary": "An ecosystem is a self-supporting unit consisting of a biological community and its abiotic environment. It is a system where energy flows and matter is recycled. There are two main types of ecosystems: terrestrial (on land, e.g., forests, grasslands) and aquatic (in water, e.g., freshwater lakes and streams, marine oceans). The biosphere is the sum of all ecosystems.",
+          "notes": "An ecosystem is a self-supporting system where living organisms interact with each other and with their non-living environment. Energy enters the ecosystem as sunlight and is captured by producers (plants). Energy flows through the food chain, and matter is recycled by decomposers (bacteria and fungi). Terrestrial ecosystems are land-based, such as forests, grasslands, and deserts. Aquatic ecosystems include freshwater (ponds, lakes, rivers) and marine (oceans, coral reefs).",
+          "keywords": [
+            {
+              "term": "Biosphere",
+              "definition": "The part of the Earth's surface and atmosphere that contains living organisms."
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.5 Biomes",
+          "section_summary": "A biome is a large geographic area characterized by specific plant life (in terrestrial biomes) and physical conditions (in aquatic biomes). Major terrestrial biomes include tropical rainforests, deserts, savannas, temperate grasslands, boreal forests (taiga), temperate forests, and tundra. Aquatic biomes include freshwater (lakes, rivers, wetlands) and marine (oceans, coral reefs, estuaries). Climate (especially temperature and precipitation) is the main factor determining the distribution of terrestrial biomes.",
+          "notes": "Biomes are broad ecological zones. Terrestrial Biomes: Tropical Rainforest: High biodiversity, near equator, high rainfall. Desert: Very low rainfall, extreme temperatures, water-conserving species. Savanna: Grassland with scattered trees, seasonal rainfall, large herbivores. Temperate Grassland (Prairie): Seasonal temperature extremes, fertile soil, few trees. Temperate Broadleaf Forest: Deciduous trees, moderate climate. Boreal Forest (Taiga): Cold, coniferous forest. Tundra: Extremely cold, permafrost, low-growing vegetation. Aquatic Biomes: Freshwater (Lakes, Rivers, Wetlands): Low salinity, high biodiversity in some areas. Marine (Oceans, Coral Reefs, Estuaries): High salinity, vast zones (photic/aphotic), productive areas like coral reefs and estuaries.",
+          "keywords": [
+            {
+              "term": "Biome",
+              "definition": "A major terrestrial or aquatic life zone characterized by its vegetation and/or physical environment."
+            },
+            {
+              "term": "Photic zone",
+              "definition": "The zone in an aquatic environment with sufficient light for photosynthesis."
+            },
+            {
+              "term": "Aphotic zone",
+              "definition": "The zone in an aquatic environment with little light penetration."
+            }
+          ]
+        },
+        {
+          "section_title": "6.1.6 Ecological succession",
+          "section_summary": "Ecological succession is the orderly, natural change in the composition of communities over time. Primary succession begins in a lifeless area with no soil (e.g., after a volcanic eruption), and pioneer species (lichens, mosses) colonize and gradually build soil. Secondary succession occurs after a disturbance (e.g., a fire or clear-cutting) that leaves the soil intact. The process eventually leads to a stable climax community.",
+          "notes": "Succession is the process of community change. Primary Succession: Starts from bare rock. Pioneer species (lichens and mosses) break down rock to create soil. This is followed by grasses, shrubs, and eventually trees, culminating in a climax community. This process can take hundreds of years. Secondary Succession: Occurs when a disturbance (fire, flood, farming) destroys a community but leaves the soil. Pioneer species are often fast-growing weeds and grasses, followed by shrubs and trees, eventually leading back to a climax community. This process is typically faster than primary succession.",
+          "keywords": [
+            {
+              "term": "Primary succession",
+              "definition": "Colonization of barren land by pioneer organisms, starting on a lifeless area with no soil."
+            },
+            {
+              "term": "Secondary succession",
+              "definition": "The sequence of changes that take place after a community is disrupted by natural disasters or human actions, but the soil remains intact."
+            },
+            {
+              "term": "Pioneer species",
+              "definition": "The first organisms to grow on a new patch of cooled lava or other barren land."
+            },
+            {
+              "term": "Climax community",
+              "definition": "A stable community that undergoes little or no change and is the final stage of succession."
+            }
+          ]
+        },
+        {
+          "section_title": "6.2. Ecological relationships",
+          "section_summary": "Organisms in a community interact in various ways. These interactions are categorized as competition (-/-), predation (+/-), herbivory (+/-), parasitism (+/-), mutualism (+/+), and commensalism (+/0). Competition occurs when organisms use the same resource. Predation and herbivory are exploitative, with one species benefiting and the other harmed. Parasitism is similar, with the parasite benefiting and the host harmed. Mutualism benefits both species, and commensalism benefits one without affecting the other.",
+          "notes": "Ecological interactions are key to community structure. Competition (-/-): Two species or individuals compete for the same resource (e.g., lions competing for prey). Predation (+/-): A predator kills and eats its prey (e.g., owl eating a mouse). Herbivory (+/-): An animal eats parts of a plant (e.g., a goat eating grass). Parasitism (+/-): A parasite lives on or in a host, harming it (e.g., a tick on a dog). Mutualism (+/+): Both species benefit (e.g., pollination, mycorrhizae). Commensalism (+/0): One species benefits while the other is neither helped nor harmed (e.g., cattle egrets following grazing animals).",
+          "keywords": [
+            {
+              "term": "Competition",
+              "definition": "Interaction that occurs when individuals of different or the same species use a resource that limits the survival and reproduction of both."
+            },
+            {
+              "term": "Predation",
+              "definition": "An interaction in which an individual of one species (predator) kills and eats an individual of another species (prey)."
+            },
+            {
+              "term": "Herbivory",
+              "definition": "An exploitative interaction in which an organism (herbivore) eats parts of a plant or alga, harming it."
+            },
+            {
+              "term": "Parasitism",
+              "definition": "An exploitative interaction in which one organism (parasite) derives nourishment from another (host), which is harmed."
+            },
+            {
+              "term": "Mutualism",
+              "definition": "An interaction that benefits individuals of both interacting species."
+            },
+            {
+              "term": "Commensalism",
+              "definition": "An interaction that benefits individuals of one species but neither harms nor helps the individuals of the other species."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
