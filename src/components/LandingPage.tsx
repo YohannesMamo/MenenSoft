@@ -1,6 +1,7 @@
 // pages/LandingPage.tsx
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { useAuth } from '../context/AuthContext';
 import { 
   ArrowRight, 
   BookOpen, 
@@ -19,6 +20,7 @@ import {
 
 const LandingPage: React.FC = () => {
   const navigate = useNavigate();
+  const { user } = useAuth();
   const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false);
 
   const features = [
@@ -377,10 +379,10 @@ const LandingPage: React.FC = () => {
               </div>
 
               <button 
-                onClick={() => navigate('/register')}
+                onClick={() => navigate(user ? '/payment' : '/register')}
                 className="w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-semibold rounded-2xl hover:shadow-lg hover:shadow-indigo-100 transition-all duration-200 flex items-center justify-center gap-2"
               >
-                Upgrade to Premium
+                {user ? 'Subscribe to Premium' : 'Upgrade to Premium'}
                 <ArrowRight className="w-4 h-4" />
               </button>
             </div>
