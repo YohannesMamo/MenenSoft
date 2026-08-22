@@ -1,5 +1,5 @@
--- Migration: Add payment verification support
--- Run this against the MERP_OSHS database
+-- Migration: Payment system tables
+-- Run this against the Pxxl production database
 
 -- 1. Add is_paid column to users table
 DO $$
@@ -12,7 +12,18 @@ BEGIN
     END IF;
 END $$;
 
--- 2. Create payment_verifications table
+-- 2. Ensure SubscriptionStatus column on StudentInfo
+DO $$
+BEGIN
+    IF NOT EXISTS (
+        SELECT 1 FROM information_schema.columns
+        WHERE table_name = 'StudentInfo' AND column_name = 'SubscriptionStatus'
+    ) THEN
+        ALTER TABLE "StudentInfo" ADD COLUMN "SubscriptionStatus" VARCHAR(20) DEFAULT 'Free';
+    END IF;
+END $$;
+
+-- 3. Create payment_verifications table
 CREATE TABLE IF NOT EXISTS payment_verifications (
     id SERIAL PRIMARY KEY,
     user_id VARCHAR(10) NOT NULL,
@@ -30,3 +41,16 @@ CREATE TABLE IF NOT EXISTS payment_verifications (
 
 CREATE INDEX IF NOT EXISTS idx_pv_user_id ON payment_verifications(user_id);
 CREATE INDEX IF NOT EXISTS idx_pv_reference ON payment_verifications(reference);
+
+-- 4. Create StuSubscription table (if not exists)
+CREATE TABLE IF NOT EXISTS "StuSubscription" (
+    "RecordID" UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    "StudentID" VARCHAR(10) NOT NULL,
+    "SubscriptionDate" TIMESTAMP NOT NULL,
+    "PaymentAmount" NUMERIC(10, 2) NOT NULL,
+    "SubscriptionDocumentID" VARCHAR(10) NOT NULL,
+    "CreatedAt" TIMESTAMP,
+    "PaymentType" VARCHAR(50)
+);
+
+CREATE INDEX IF NOT EXISTS idx_stusub_student ON "StuSubscription"("StudentID");
