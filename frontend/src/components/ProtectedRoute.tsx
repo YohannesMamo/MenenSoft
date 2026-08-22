@@ -1,8 +1,13 @@
-import { Navigate, Outlet } from 'react-router-dom';
+import { Navigate, Outlet, useLocation } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 
-const ProtectedRoute = () => {
+interface ProtectedRouteProps {
+  requirePremium?: boolean;
+}
+
+const ProtectedRoute = ({ requirePremium = false }: ProtectedRouteProps) => {
   const { user, token, loading } = useAuth();
+  const location = useLocation();
 
   if (loading) {
     return (
@@ -14,6 +19,10 @@ const ProtectedRoute = () => {
 
   if (!token || !user) {
     return <Navigate to="/login" replace />;
+  }
+
+  if (requirePremium && user.subscriptionStatus !== 'Premium') {
+    return <Navigate to="/payment" state={{ from: location.pathname }} replace />;
   }
 
   return <Outlet />;

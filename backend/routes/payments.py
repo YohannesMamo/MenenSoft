@@ -1,6 +1,5 @@
-import httpx
 import logging
-from fastapi import APIRouter, Depends, HTTPException, Request
+from fastapi import APIRouter, Depends, HTTPException
 from fastapi.security import OAuth2PasswordBearer
 from jose import JWTError, jwt
 from pydantic import BaseModel
@@ -11,6 +10,14 @@ from database import get_db
 from core.config import settings
 from models.user import user as userModel
 from models.PaymentVerification import PaymentVerification
+from services.payment_service import (
+    verify_transaction,
+    upgrade_to_premium,
+    record_payment,
+    check_subscription_status,
+    get_payment_history,
+    VALID_PLANS,
+)
 
 router = APIRouter()
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="api/auth/token")
@@ -37,12 +44,12 @@ def get_current_user_id(
         raise HTTPException(status_code=401, detail="Invalid authentication credentials")
 
 
-# ── Request / Response schemas ──
+# ── Schemas ──
 
 class VerifyRequest(BaseModel):
     reference: str
     suffix: Optional[str] = None
-    provider: Optional[str] = None
+    plan: Optional[str] = None
 
 
 class WebhookPayload(BaseModel):
@@ -57,99 +64,79 @@ class WebhookPayload(BaseModel):
 # ── POST /api/payments/verify ──
 
 @router.post("/verify")
-async def verify_payment(
+async def verify_and_upgrade(
     body: VerifyRequest,
     db: Session = Depends(get_db),
     user_id: str = Depends(get_current_user_id),
 ):
-    if not settings.VERIFIER_API_KEY:
-        raise HTTPException(status_code=500, detail="Verifier API key not configured")
-
     if not body.reference or not body.reference.strip():
         raise HTTPException(status_code=400, detail="Payment reference is required")
 
-    payload = {"reference": body.reference.strip()}
-    if body.suffix:
-        payload["suffix"] = body.suffix.strip()
+    reference = body.reference.strip()
 
-    try:
-        async with httpx.AsyncClient(timeout=settings.VERIFIER_TIMEOUT) as client:
-            resp = await client.post(
-                f"{settings.VERIFIER_BASE_URL}/verify",
-                json=payload,
-                headers={
-                    "x-api-key": settings.VERIFIER_API_KEY,
-                    "Content-Type": "application/json",
-                },
-            )
+    existing = (
+        db.query(PaymentVerification)
+        .filter(
+            PaymentVerification.user_id == user_id,
+            PaymentVerification.reference == reference,
+            PaymentVerification.status == "verified",
+        )
+        .first()
+    )
+    if existing:
+        return {
+            "success": True,
+            "alreadyVerified": True,
+            "message": "This reference has already been verified.",
+            "reference": reference,
+            "subscriptionStatus": "Premium",
+        }
 
-        if resp.status_code == 429:
-            retry_after = resp.headers.get("retry-after", "60")
-            raise HTTPException(
-                status_code=429,
-                detail=f"Rate limited by Verifier API. Retry after {retry_after}s",
-            )
+    result = verify_transaction(reference)
 
-        if resp.status_code == 401:
-            raise HTTPException(status_code=500, detail="Invalid Verifier API key")
+    if not result["ok"]:
+        record = PaymentVerification(
+            user_id=user_id,
+            reference=reference,
+            provider=result.get("provider"),
+            status="failed",
+            raw_response={"error": result["error"]},
+        )
+        db.add(record)
+        db.commit()
+        raise HTTPException(status_code=400, detail=result["error"] or "Payment verification failed")
 
-        if resp.status_code >= 500:
-            raise HTTPException(status_code=502, detail="Verifier API server error")
-
-        data = resp.json()
-
-    except httpx.TimeoutException:
-        raise HTTPException(status_code=504, detail="Verifier API request timed out")
-    except httpx.ConnectError:
-        raise HTTPException(status_code=502, detail="Cannot connect to Verifier API")
-    except HTTPException:
-        raise
-    except Exception as e:
-        logger.exception("Unexpected error during payment verification")
-        raise HTTPException(status_code=500, detail=f"Verification error: {str(e)}")
-
-    verified = data.get("ok", False)
-    provider = data.get("provider", body.provider or "unknown")
-    tx_data = data.get("data", {})
-    error_msg = data.get("error")
-
+    tx_data = result["data"] or {}
     amount = tx_data.get("amount") or tx_data.get("totalAmount")
     payer_name = tx_data.get("payerName") or tx_data.get("senderName")
     receiver_name = tx_data.get("receiverName")
     currency = tx_data.get("currency", "ETB")
+    provider = result["provider"]
 
-    status = "verified" if verified else "failed"
+    upgrade_to_premium(user_id, db)
 
-    record = PaymentVerification(
+    record_payment(
         user_id=user_id,
-        reference=body.reference.strip(),
+        reference=reference,
         provider=provider,
-        status=status,
         amount=amount,
-        currency=currency,
+        status="verified",
+        raw_response=tx_data,
         payer_name=payer_name,
         receiver_name=receiver_name,
-        raw_response=data,
+        currency=currency,
+        db=db,
     )
-    db.add(record)
-
-    if verified:
-        user = db.query(userModel).filter(userModel.UserID == user_id).first()
-        if user:
-            user.is_paid = True
-
-    db.commit()
-    db.refresh(record)
 
     return {
-        "success": verified,
-        "status": status,
+        "success": True,
+        "message": "Payment verified! Welcome to Premium.",
+        "reference": reference,
         "amount": float(amount) if amount else None,
         "provider": provider,
         "payerName": payer_name,
         "receiverName": receiver_name,
-        "reference": body.reference.strip(),
-        "error": error_msg if not verified else None,
+        "subscriptionStatus": "Premium",
     }
 
 
@@ -190,17 +177,38 @@ async def payment_webhook(
         db.add(record)
 
     if body.status in ("verified", "success", "completed"):
-        user = (
-            db.query(userModel)
-            .filter(userModel.UserID == record.user_id)
-            .first()
-        )
-        if user:
-            user.is_paid = True
+        upgrade_to_premium(record.user_id, db)
 
     db.commit()
 
     return {"received": True, "reference": body.reference}
+
+
+# ── GET /api/payments/subscription ──
+
+@router.get("/subscription")
+async def get_subscription(
+    db: Session = Depends(get_db),
+    user_id: str = Depends(get_current_user_id),
+):
+    return check_subscription_status(user_id, db)
+
+
+# ── GET /api/payments/plans ──
+
+@router.get("/plans")
+async def get_plans():
+    return {"plans": VALID_PLANS}
+
+
+# ── GET /api/payments/history ──
+
+@router.get("/history")
+async def get_history(
+    db: Session = Depends(get_db),
+    user_id: str = Depends(get_current_user_id),
+):
+    return {"payments": get_payment_history(user_id, db)}
 
 
 # ── GET /api/payments/status/{reference} ──

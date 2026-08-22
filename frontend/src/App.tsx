@@ -31,6 +31,7 @@ import EslceProgress from './components/eslce/EslceProgress';
 import EslceSessionDetail from './components/eslce/EslceSessionDetail';
 import StudentReportPage from './components/StudentReportPage';
 import DetailedReportPage from './components/DetailedReportPage';
+import PaymentPage from './components/PaymentPage';
 import { EvaluationProvider } from './context/EvaluationContext';
 
 function App() {
@@ -82,6 +83,7 @@ function App() {
             <Route path="/exam-review" element={<ExamReviewPage />} />
             <Route path="/chat" element={<ChatHub />} />
             <Route path="/complete-profile" element={<CompleteProfile />} />
+            <Route path="/payment" element={<PaymentPage />} />
 
             {/* ESLCE Integration Routes */}
             <Route path="/eslce" element={<EslceExamLibrary />} />
