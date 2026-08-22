@@ -1,0 +1,14 @@
+.env
+__pycache__
+*.pyc
+*.pyo
+node_modules
+.git
+.gitignore
+*.txt
+!requirements.txt
+Dockerfile
+.dockerignore
+migration_dump
+*.bat
+*.sh
