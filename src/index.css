@@ -1,0 +1,361 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --text: #6b6375;
+  --text-h: #08060d;
+  --bg: #fff;
+  --border: #e5e4e7;
+  --code-bg: #f4f3ec;
+  --accent: #aa3bff;
+  --accent-bg: rgba(170, 59, 255, 0.1);
+  --accent-border: rgba(170, 59, 255, 0.5);
+  --social-bg: rgba(244, 243, 236, 0.5);
+  --shadow:
+    rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, Consolas, monospace;
+
+  font-family: var(--sans);
+  letter-spacing: 0.18px;
+  color-scheme: light dark;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #9ca3af;
+    --text-h: #f3f4f6;
+    --bg: #16171d;
+    --border: #2e303a;
+    --code-bg: #1f2028;
+    --accent: #c084fc;
+    --accent-bg: rgba(192, 132, 252, 0.15);
+    --accent-border: rgba(192, 132, 252, 0.5);
+    --social-bg: rgba(47, 48, 58, 0.5);
+    --shadow:
+      rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
+  }
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+/* Hide scrollbars but keep functionality - clean look */
+.custom-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.custom-scroll {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+/* PDF.js Text Layer Styles */
+.textLayer {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  opacity: 0.2;
+  line-height: 1;
+  pointer-events: none;
+}
+
+.textLayer > div {
+  color: transparent;
+  position: absolute;
+  white-space: pre;
+  cursor: text;
+  transform-origin: 0% 0%;
+  pointer-events: auto;
+}
+
+.textLayer > div::selection {
+  background: rgba(99, 102, 241, 0.5);
+  color: transparent;
+}
+
+.textLayer > div:hover {
+  background: rgba(99, 102, 241, 0.15);
+}
+
+::selection {
+  background: rgba(99, 102, 241, 0.3);
+}
+.textLayer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.textLayer span {
+  position: absolute;
+  white-space: pre;
+  cursor: text;
+  pointer-events: all;
+}
+.textLayer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+
+.textLayer span {
+  position: absolute;
+  white-space: pre;
+  cursor: text;
+}
+.textLayer {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: auto;
+}
+
+.textLayer span {
+  position: absolute;
+  white-space: pre;
+  cursor: text;
+  user-select: text;
+}
+/* PDF.js text layer styles */
+.pdf-text-layer {
+  opacity: 1;
+  line-height: 1;
+  user-select: text;
+  -webkit-user-select: text;
+}
+
+.pdf-text-layer span {
+  color: transparent;
+  position: absolute;
+  white-space: pre;
+  cursor: text;
+  transform-origin: 0% 0%;
+  pointer-events: auto;
+  user-select: text;
+  -webkit-user-select: text;
+}
+
+/* Highlight selected text */
+.pdf-text-layer span::selection {
+  background: rgba(0, 100, 255, 0.3);
+}
+
+.pdf-text-layer span::-moz-selection {
+  background: rgba(0, 100, 255, 0.3);
+}
+
+/* Ensure canvas doesn't block text selection */
+canvas {
+  user-select: none;
+  -webkit-user-select: none;
+  pointer-events: none;
+}
+/* Text layer styles */
+.pdf-text-layer {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.pdf-text-layer div {
+  color: transparent;
+  background-color: transparent;
+  pointer-events: auto;
+  user-select: text;
+  -webkit-user-select: text;
+}
+
+.pdf-text-layer span {
+  color: transparent;
+  background-color: transparent;
+  user-select: text;
+  -webkit-user-select: text;
+}
+
+/* Selection highlight */
+.pdf-text-layer span::selection {
+  background: rgba(0, 100, 255, 0.3);
+  color: transparent;
+}
+
+.pdf-text-layer div::selection {
+  background: transparent;
+}
+
+canvas {
+  user-select: none;
+  -webkit-user-select: none;
+  pointer-events: none;
+}
+/* Drawer Overlay */
+.drawer-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+/* Drawer Container */
+.drawer {
+  position: fixed;
+  top: 0;
+  right: -100%;  /* Hidden off-screen */
+  width: 500px;
+  max-width: 80vw;
+  height: 100vh;
+  background: white;
+  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+  transition: right 0.3s ease-in-out;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.drawer.open {
+  right: 0;  /* Slide in */
+}
+
+/* Drawer Header */
+.drawer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid #e0e0e0;
+  background: #f5f5f5;
+}
+
+.close-drawer {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+/* Drawer Content */
+.drawer-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+/* Slideshow Styles */
+.slideshow-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.slide-area {
+  flex: 1;
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  min-height: 300px;
+}
+
+.slide-area img {
+  max-width: 100%;
+  height: auto;
+}
+
+.slideshow-container button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+.slideshow-container button:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+/* Open Drawer Button */
+.open-drawer-btn {
+  padding: 0.75rem 1.5rem;
+  background: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+/* Helpers Grid */
+.helpers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.card {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+/* Custom scrollbar - clean and subtle */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 #f1f5f9;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 10px;
+  margin: 8px 0;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* For Firefox - make it even cleaner */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 #f1f5f9;
+}
+
+/* Print / PDF styles */
+@media print {
+  .no-print { display: none !important; }
+  body { background: white !important; }
+  .print-content { max-width: 100% !important; padding: 0 !important; }
+  .page-break-inside-avoid { page-break-inside: avoid; }
+  table { page-break-inside: avoid; }
+  tr { page-break-inside: avoid; }
+  * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+}

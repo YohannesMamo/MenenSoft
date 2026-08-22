@@ -1,0 +1,7 @@
+version: 1
+services:
+  frontend:
+    root: frontend
+    framework: react
+    build: npm install && npm run build
+    publish: dist

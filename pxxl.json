@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "rootDirectory": ".",
+  "framework": "vite",
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist"
+}
