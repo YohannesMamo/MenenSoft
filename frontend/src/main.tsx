@@ -4,7 +4,10 @@ import { BrowserRouter } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
 import { ThemeProvider } from './context/ThemeContext';
 import App from './App';
+import { initializeNativePlugins } from './utils/capacitor';
 import './index.css';
+
+initializeNativePlugins();
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
