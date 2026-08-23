@@ -7,12 +7,10 @@ import {
   CheckCircle2,
   AlertCircle,
   Loader2,
-  Smartphone,
-  Building2,
   Shield,
   ArrowLeft,
-  Copy,
-  Check
+  Crown,
+  Sparkles,
 } from 'lucide-react';
 
 const PLANS = [
@@ -34,6 +32,13 @@ const PLANS = [
   },
 ];
 
+const FEATURES = [
+  'ESLCE Practice Exams',
+  'Advanced Performance Analytics',
+  'Personalized Study Plans',
+  'Priority Support',
+];
+
 const PaymentPage = () => {
   const { user, refreshUser } = useAuth();
   const navigate = useNavigate();
@@ -42,16 +47,10 @@ const PaymentPage = () => {
   const [reference, setReference] = useState('');
   const [status, setStatus] = useState<'idle' | 'verifying' | 'success' | 'error'>('idle');
   const [message, setMessage] = useState('');
-  const [copied, setCopied] = useState<string | null>(null);
   const [paymentData, setPaymentData] = useState<any>(null);
 
   const isPremium = user?.subscriptionStatus === 'Premium';
-
-  const handleCopy = (text: string, field: string) => {
-    navigator.clipboard.writeText(text);
-    setCopied(field);
-    setTimeout(() => setCopied(null), 2000);
-  };
+  const selectedPlanData = PLANS.find((p) => p.id === selectedPlan);
 
   const handleVerify = async () => {
     if (!reference.trim()) return;
@@ -93,8 +92,8 @@ const PaymentPage = () => {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex items-center justify-center p-4">
         <div className="max-w-md w-full bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-8 text-center">
-          <div className="w-16 h-16 bg-green-100 dark:bg-green-900/30 rounded-full flex items-center justify-center mx-auto mb-4">
-            <CheckCircle2 className="w-8 h-8 text-green-600 dark:text-green-400" />
+          <div className="w-16 h-16 bg-gradient-to-br from-amber-400 to-orange-500 rounded-full flex items-center justify-center mx-auto mb-4">
+            <Crown className="w-8 h-8 text-white" />
           </div>
           <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">You're Premium!</h2>
           <p className="text-gray-600 dark:text-gray-400 mb-6">
@@ -156,86 +155,34 @@ const PaymentPage = () => {
           ))}
         </div>
 
-        {/* Payment Instructions */}
+        {/* Features included */}
         <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-200 dark:border-gray-700 p-6 mb-6">
           <h3 className="font-semibold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
+            <Sparkles className="w-5 h-5 text-indigo-500" />
+            What you get with Premium
+          </h3>
+          <ul className="space-y-3">
+            {FEATURES.map((feature) => (
+              <li key={feature} className="flex items-center gap-3 text-sm text-gray-700 dark:text-gray-300">
+                <CheckCircle2 className="w-4 h-4 text-green-500 flex-shrink-0" />
+                {feature}
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Payment Instructions */}
+        <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-200 dark:border-gray-700 p-6 mb-6">
+          <h3 className="font-semibold text-gray-900 dark:text-white mb-2 flex items-center gap-2">
             <CreditCard className="w-5 h-5" />
             How to Pay
           </h3>
-
-          <div className="space-y-4">
-            {/* Telebirr */}
-            <div className="flex items-start gap-3 p-4 bg-gray-50 dark:bg-gray-700/50 rounded-xl">
-              <div className="w-10 h-10 bg-blue-100 dark:bg-blue-900/30 rounded-lg flex items-center justify-center flex-shrink-0">
-                <Smartphone className="w-5 h-5 text-blue-600 dark:text-blue-400" />
-              </div>
-              <div className="flex-1 min-w-0">
-                <div className="font-medium text-gray-900 dark:text-white text-sm">Telebirr</div>
-                <div className="text-xs text-gray-500 dark:text-gray-400 mb-2">
-                  Send <strong>{selectedPlan === 'yearly' ? '1,000' : '100'} ETB</strong> via Telebirr
-                </div>
-                <div className="flex items-center gap-2">
-                  <code className="px-2 py-1 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-600 rounded text-sm font-mono text-gray-900 dark:text-white">
-                    0912345678
-                  </code>
-                  <button
-                    onClick={() => handleCopy('0912345678', 'telebirr')}
-                    className="p-1 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors"
-                  >
-                    {copied === 'telebirr' ? (
-                      <Check className="w-4 h-4 text-green-500" />
-                    ) : (
-                      <Copy className="w-4 h-4 text-gray-400" />
-                    )}
-                  </button>
-                </div>
-                <div className="text-xs text-gray-500 dark:text-gray-400 mt-2">
-                  Name: <strong>Yohannes Mamo</strong>
-                  <button
-                    onClick={() => handleCopy('Yohannes Mamo', 'name')}
-                    className="ml-1 p-0.5 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors inline-flex"
-                  >
-                    {copied === 'name' ? (
-                      <Check className="w-3 h-3 text-green-500" />
-                    ) : (
-                      <Copy className="w-3 h-3 text-gray-400" />
-                    )}
-                  </button>
-                </div>
-              </div>
-            </div>
-
-            {/* CBE */}
-            <div className="flex items-start gap-3 p-4 bg-gray-50 dark:bg-gray-700/50 rounded-xl">
-              <div className="w-10 h-10 bg-green-100 dark:bg-green-900/30 rounded-lg flex items-center justify-center flex-shrink-0">
-                <Building2 className="w-5 h-5 text-green-600 dark:text-green-400" />
-              </div>
-              <div className="flex-1 min-w-0">
-                <div className="font-medium text-gray-900 dark:text-white text-sm">CBE (Commercial Bank of Ethiopia)</div>
-                <div className="text-xs text-gray-500 dark:text-gray-400 mb-2">
-                  Send <strong>{selectedPlan === 'yearly' ? '1,000' : '100'} ETB</strong> via CBE
-                </div>
-                <div className="flex items-center gap-2">
-                  <code className="px-2 py-1 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-600 rounded text-sm font-mono text-gray-900 dark:text-white">
-                    1000123456789
-                  </code>
-                  <button
-                    onClick={() => handleCopy('1000123456789', 'cbe')}
-                    className="p-1 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors"
-                  >
-                    {copied === 'cbe' ? (
-                      <Check className="w-4 h-4 text-green-500" />
-                    ) : (
-                      <Copy className="w-4 h-4 text-gray-400" />
-                    )}
-                  </button>
-                </div>
-                <div className="text-xs text-gray-500 dark:text-gray-400 mt-2">
-                  Name: <strong>Yohannes Mamo</strong>
-                </div>
-              </div>
-            </div>
-          </div>
+          <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">
+            After making a payment of <strong>{selectedPlanData?.price} ETB</strong> ({selectedPlanData?.label}), enter the transaction reference from your receipt below.
+          </p>
+          <p className="text-sm text-gray-500 dark:text-gray-400">
+            Contact your school administrator for available payment methods and account details.
+          </p>
         </div>
 
         {/* Reference Input */}
@@ -245,7 +192,7 @@ const PaymentPage = () => {
             Enter Payment Reference
           </h3>
           <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">
-            After sending payment, enter the transaction reference number shown in your receipt.
+            Enter the transaction reference number shown in your payment receipt.
           </p>
           <input
             type="text"

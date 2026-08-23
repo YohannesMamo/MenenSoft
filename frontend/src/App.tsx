@@ -32,6 +32,7 @@ import EslceSessionDetail from './components/eslce/EslceSessionDetail';
 import StudentReportPage from './components/StudentReportPage';
 import DetailedReportPage from './components/DetailedReportPage';
 import PaymentPage from './components/PaymentPage';
+import SettingsPage from './components/SettingsPage';
 import { EvaluationProvider } from './context/EvaluationContext';
 
 function App() {
@@ -84,6 +85,7 @@ function App() {
             <Route path="/chat" element={<ChatHub />} />
             <Route path="/complete-profile" element={<CompleteProfile />} />
             <Route path="/payment" element={<PaymentPage />} />
+            <Route path="/settings" element={<SettingsPage />} />
 
             {/* ESLCE Integration Routes */}
             <Route path="/eslce" element={<EslceExamLibrary />} />
