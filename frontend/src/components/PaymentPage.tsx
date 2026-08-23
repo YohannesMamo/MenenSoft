@@ -10,18 +10,13 @@ import {
   Crown,
   CreditCard,
   Shield,
+  Copy,
+  Check,
 } from 'lucide-react';
 
 const PLANS = [
-  { id: 'yearly', label: 'Yearly', price: '1,000', perMonth: '~83/mo', badge: 'Best Value' },
-  { id: 'monthly', label: 'Monthly', price: '100', perMonth: '100/mo', badge: null },
-];
-
-const FEATURES = [
-  'ESLCE Practice Exams',
-  'Advanced Performance Analytics',
-  'Personalized Study Plans',
-  'Priority Support',
+  { id: 'yearly', label: 'Yearly', price: '1,000', priceNum: 1000, badge: 'Best Value' },
+  { id: 'monthly', label: 'Monthly', price: '100', priceNum: 100, badge: null },
 ];
 
 const PaymentPage = () => {
@@ -33,9 +28,21 @@ const PaymentPage = () => {
   const [status, setStatus] = useState<'idle' | 'verifying' | 'success' | 'error'>('idle');
   const [message, setMessage] = useState('');
   const [paymentData, setPaymentData] = useState<any>(null);
+  const [copied, setCopied] = useState('');
+
+  const [telebirrPhone, setTelebirrPhone] = useState('0912345678');
+  const [telebirrName, setTelebirrName] = useState('Yohannes Mamo');
+  const [cbeAccount, setCbeAccount] = useState('1000123456789');
+  const [cbeName, setCbeName] = useState('Yohannes Mamo');
 
   const isPremium = user?.subscriptionStatus === 'Premium';
   const plan = PLANS.find((p) => p.id === selectedPlan);
+
+  const copyToClipboard = (text: string, label: string) => {
+    navigator.clipboard.writeText(text);
+    setCopied(label);
+    setTimeout(() => setCopied(''), 2000);
+  };
 
   const handleVerify = async () => {
     if (!reference.trim()) return;
@@ -99,7 +106,7 @@ const PaymentPage = () => {
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">Upgrade to Premium</h1>
         <p className="text-gray-600 dark:text-gray-400 mb-8">Pay externally, then verify your payment here.</p>
 
-        {/* 1. Plan */}
+        {/* 1. Choose Plan */}
         <div className="mb-6">
           <h2 className="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-3">1. Choose your plan</h2>
           <div className="grid grid-cols-2 gap-4">
@@ -111,23 +118,80 @@ const PaymentPage = () => {
                   <span className="text-3xl font-bold text-gray-900 dark:text-white">{p.price}</span>
                   <span className="text-sm text-gray-500">ETB</span>
                 </div>
-                <div className="text-xs text-gray-400 mt-1">{p.perMonth}</div>
               </button>
             ))}
           </div>
         </div>
 
-        {/* 2. Pay externally */}
-        <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-6 mb-6">
-          <h3 className="font-semibold text-gray-900 dark:text-white mb-2 flex items-center gap-2">
-            <CreditCard className="w-5 h-5" /> 2. Pay via Telebirr or CBE Birr
-          </h3>
-          <p className="text-sm text-gray-500 dark:text-gray-400 mb-3">
-            Send <strong>{plan?.price} ETB</strong> ({plan?.label}) to your school's Telebirr or CBE Birr account.
-          </p>
-          <p className="text-sm text-gray-500 dark:text-gray-400">
-            Contact your school administrator for the payment account details.
-          </p>
+        {/* 2. How to Pay */}
+        <div className="mb-6">
+          <h2 className="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-3">2. How to Pay</h2>
+
+          {/* Telebirr */}
+          <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-5 mb-4">
+            <div className="flex items-center gap-2 mb-3">
+              <CreditCard className="w-5 h-5 text-blue-600" />
+              <h3 className="font-semibold text-gray-900 dark:text-white">Telebirr</h3>
+            </div>
+            <p className="text-sm text-gray-600 dark:text-gray-300 mb-3">
+              Send <strong>{plan?.price} ETB</strong> via Telebirr
+            </p>
+            <div className="space-y-2">
+              <div className="flex items-center gap-2">
+                <input
+                  type="text"
+                  value={telebirrPhone}
+                  onChange={(e) => setTelebirrPhone(e.target.value)}
+                  className="flex-1 px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white font-mono text-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none"
+                />
+                <button onClick={() => copyToClipboard(telebirrPhone, 'phone')} className="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors" title="Copy">
+                  {copied === 'phone' ? <Check className="w-4 h-4 text-green-600" /> : <Copy className="w-4 h-4 text-gray-400" />}
+                </button>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="text-sm text-gray-500 dark:text-gray-400">Name:</span>
+                <input
+                  type="text"
+                  value={telebirrName}
+                  onChange={(e) => setTelebirrName(e.target.value)}
+                  className="flex-1 px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white text-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none"
+                />
+              </div>
+            </div>
+          </div>
+
+          {/* CBE */}
+          <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-5">
+            <div className="flex items-center gap-2 mb-3">
+              <CreditCard className="w-5 h-5 text-green-600" />
+              <h3 className="font-semibold text-gray-900 dark:text-white">CBE (Commercial Bank of Ethiopia)</h3>
+            </div>
+            <p className="text-sm text-gray-600 dark:text-gray-300 mb-3">
+              Send <strong>{plan?.price} ETB</strong> via CBE
+            </p>
+            <div className="space-y-2">
+              <div className="flex items-center gap-2">
+                <input
+                  type="text"
+                  value={cbeAccount}
+                  onChange={(e) => setCbeAccount(e.target.value)}
+                  className="flex-1 px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white font-mono text-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none"
+                />
+                <button onClick={() => copyToClipboard(cbeAccount, 'account')} className="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors" title="Copy">
+                  {copied === 'account' ? <Check className="w-4 h-4 text-green-600" /> : <Copy className="w-4 h-4 text-gray-400" />}
+                </button>
+              </div>
+              <div className="flex items-center gap-2">
+                <span className="text-sm text-gray-500 dark:text-gray-400">Name:</span>
+                <input
+                  type="text"
+                  value={cbeName}
+                  onChange={(e) => setCbeName(e.target.value)}
+                  className="flex-1 px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white text-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none"
+                />
+              </div>
+            </div>
+          </div>
         </div>
 
         {/* 3. Enter reference */}
@@ -136,7 +200,7 @@ const PaymentPage = () => {
             <Shield className="w-5 h-5" /> 3. Verify your payment
           </h3>
           <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">
-            Enter the transaction reference from your payment receipt.
+            After paying, enter the transaction reference from your payment receipt.
           </p>
           <input
             type="text"
