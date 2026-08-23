@@ -1,6 +1,5 @@
 import logging
-from datetime import datetime
-from fastapi import APIRouter, Depends, HTTPException, Request
+from fastapi import APIRouter, Depends, HTTPException
 from fastapi.security import OAuth2PasswordBearer
 from jose import JWTError, jwt
 from pydantic import BaseModel
@@ -18,12 +17,6 @@ from services.payment_service import (
     check_subscription_status,
     get_payment_history,
     VALID_PLANS,
-)
-from services.gateway_service import (
-    generate_reference,
-    initiate_telebirr_payment,
-    initiate_cbe_payment,
-    handle_gateway_callback,
 )
 
 router = APIRouter()
@@ -51,18 +44,9 @@ def get_current_user_id(
         raise HTTPException(status_code=401, detail="Invalid authentication credentials")
 
 
-# -- Schemas --
-
 class VerifyRequest(BaseModel):
     reference: str
-    suffix: Optional[str] = None
     plan: Optional[str] = None
-
-
-class InitiatePaymentRequest(BaseModel):
-    provider: str
-    plan: str
-    phoneNumber: Optional[str] = None
 
 
 class WebhookPayload(BaseModel):
@@ -72,123 +56,6 @@ class WebhookPayload(BaseModel):
     provider: Optional[str] = None
     suffix: Optional[str] = None
     signature: Optional[str] = None
-
-
-# -- POST /api/payments/initiate --
-
-@router.post("/initiate")
-async def initiate_payment(
-    body: InitiatePaymentRequest,
-    db: Session = Depends(get_db),
-    user_id: str = Depends(get_current_user_id),
-):
-    plan = body.plan.lower()
-    if plan not in VALID_PLANS:
-        raise HTTPException(status_code=400, detail="Invalid plan selected")
-
-    amount = VALID_PLANS[plan]["amount"]
-    reference = generate_reference()
-
-    record = PaymentVerification(
-        user_id=user_id,
-        reference=reference,
-        provider=body.provider.lower(),
-        status="pending",
-        amount=amount,
-        currency="ETB",
-        raw_response={"plan": plan, "amount": amount, "initiatedAt": str(datetime.utcnow())},
-    )
-    db.add(record)
-    db.commit()
-
-    provider = body.provider.lower()
-    description = f"Premium {VALID_PLANS[plan]['label']} Subscription"
-
-    if provider == "telebirr":
-        result = await initiate_telebirr_payment(
-            amount=amount,
-            reference=reference,
-            user_id=user_id,
-            phone_number=body.phoneNumber or "",
-            description=description,
-        )
-    elif provider == "cbe":
-        result = await initiate_cbe_payment(
-            amount=amount,
-            reference=reference,
-            user_id=user_id,
-            phone_number=body.phoneNumber or "",
-            description=description,
-        )
-    else:
-        raise HTTPException(status_code=400, detail="Unsupported payment provider")
-
-    if not result["success"]:
-        record.status = "failed"
-        record.raw_response = {**(record.raw_response or {}), "error": result["error"]}
-        db.commit()
-        raise HTTPException(status_code=400, detail=result["error"])
-
-    return {
-        "success": True,
-        "reference": reference,
-        "paymentUrl": result["paymentUrl"],
-        "provider": provider,
-        "amount": amount,
-        "plan": plan,
-    }
-
-
-# -- POST /api/payments/callback/telebirr --
-
-@router.post("/callback/telebirr")
-async def telebirr_callback(request: Request, db: Session = Depends(get_db)):
-    try:
-        body = await request.json()
-    except Exception:
-        body = {}
-
-    logger.info(f"Telebirr callback: {body}")
-
-    result = handle_gateway_callback("telebirr", body, db)
-
-    if result["success"]:
-        user = (
-            db.query(userModel)
-            .join(PaymentVerification, PaymentVerification.user_id == userModel.UserID)
-            .filter(PaymentVerification.reference == result["reference"])
-            .first()
-        )
-        if user:
-            upgrade_to_premium(user.UserID, db)
-
-    return {"code": 200, "message": "received"}
-
-
-# -- POST /api/payments/callback/cbe --
-
-@router.post("/callback/cbe")
-async def cbe_callback(request: Request, db: Session = Depends(get_db)):
-    try:
-        body = await request.json()
-    except Exception:
-        body = {}
-
-    logger.info(f"CBE callback: {body}")
-
-    result = handle_gateway_callback("cbe", body, db)
-
-    if result["success"]:
-        user = (
-            db.query(userModel)
-            .join(PaymentVerification, PaymentVerification.user_id == userModel.UserID)
-            .filter(PaymentVerification.reference == result["reference"])
-            .first()
-        )
-        if user:
-            upgrade_to_premium(user.UserID, db)
-
-    return {"code": 200, "message": "received"}
 
 
 # -- POST /api/payments/verify --
@@ -374,14 +241,4 @@ async def get_payment_status(
         "payerName": record.payer_name,
         "receiverName": record.receiver_name,
         "verified_at": record.created_at.isoformat() if record.created_at else None,
-    }
-
-
-# -- GET /api/payments/providers --
-
-@router.get("/providers")
-async def get_providers():
-    return {
-        "telebirr": bool(settings.TELEBIRR_APP_ID),
-        "cbe": bool(settings.CBE_MERCHANT_CODE),
     }

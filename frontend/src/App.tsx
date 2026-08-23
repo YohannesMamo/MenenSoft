@@ -32,7 +32,7 @@ import EslceSessionDetail from './components/eslce/EslceSessionDetail';
 import StudentReportPage from './components/StudentReportPage';
 import DetailedReportPage from './components/DetailedReportPage';
 import PaymentPage from './components/PaymentPage';
-import PaymentResultPage from './components/PaymentResultPage';
+
 import SettingsPage from './components/SettingsPage';
 import { EvaluationProvider } from './context/EvaluationContext';
 
@@ -60,7 +60,7 @@ function App() {
         <Route path="/forgot-password" element={<AuthManager />} />
         <Route path="/reset-password" element={<AuthManager />} />
         <Route path="/verify-email" element={<AuthManager />} />
-        <Route path="/payment/result" element={<PaymentResultPage />} />
+
         
         {/* ✅ ADD THIS: Change Password Route */}
         <Route path="/change-password" element={<AuthManager />} />
