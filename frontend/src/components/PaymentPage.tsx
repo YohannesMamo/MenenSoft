@@ -15,8 +15,8 @@ import {
 } from 'lucide-react';
 
 const PLANS = [
-  { id: 'yearly', label: 'Yearly', price: '1,000', priceNum: 1000, badge: 'Best Value' },
-  { id: 'monthly', label: 'Monthly', price: '100', priceNum: 100, badge: null },
+  { id: 'yearly', label: 'Yearly', price: '1,350', priceNum: 1350, badge: 'Best Value' },
+  { id: 'monthly', label: 'Monthly', price: '110', priceNum: 110, badge: null },
 ];
 
 const PaymentPage = () => {
@@ -30,7 +30,7 @@ const PaymentPage = () => {
   const [paymentData, setPaymentData] = useState<any>(null);
   const [copied, setCopied] = useState('');
 
-  const [telebirrPhone, setTelebirrPhone] = useState('0912345678');
+  const [telebirrPhone, setTelebirrPhone] = useState('0977815579');
   const [telebirrName, setTelebirrName] = useState('Menen Amare');
   const [cbeAccount, setCbeAccount] = useState('1000123456789');
   const [cbeName, setCbeName] = useState('Menen Amare');
