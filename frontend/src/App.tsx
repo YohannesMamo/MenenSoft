@@ -36,6 +36,16 @@ import PaymentPage from './components/PaymentPage';
 import SettingsPage from './components/SettingsPage';
 import { EvaluationProvider } from './context/EvaluationContext';
 
+// Offline Mode
+import { OfflineProvider } from './context/OfflineContext';
+import OfflineDashboard from './components/offline/OfflineDashboard';
+import OfflineStudyPage from './pages/OfflineStudyPage';
+import OfflineQuizGateway from './components/offline/OfflineQuizGateway';
+import OfflineQuizPage from './components/offline/OfflineQuizPage';
+import OfflineExamPage from './components/offline/OfflineExamPage';
+import OfflineEslceLibrary from './components/offline/OfflineEslceLibrary';
+import OfflineEslceSession from './components/offline/OfflineEslceSession';
+
 function App() {
   const { loading } = useAuth();
 
@@ -98,6 +108,17 @@ function App() {
             <Route path="/eslce/progress" element={<EslceProgress />} />
             <Route path="/eslce/history/:sessionId" element={<EslceSessionDetail />} />
           </Route>
+        </Route>
+
+        {/* Offline Mode Routes (no auth required) */}
+        <Route element={<OfflineProvider />}>
+          <Route path="/offline" element={<OfflineDashboard />} />
+          <Route path="/offline/study" element={<OfflineStudyPage />} />
+          <Route path="/offline/quiz" element={<OfflineQuizGateway />} />
+          <Route path="/offline/quiz/:stbId/:chapterId/:sectionId" element={<OfflineQuizPage />} />
+          <Route path="/offline/exam" element={<OfflineExamPage />} />
+          <Route path="/offline/eslce" element={<OfflineEslceLibrary />} />
+          <Route path="/offline/eslce/session" element={<OfflineEslceSession />} />
         </Route>
 
         {/* Fallback */}

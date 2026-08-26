@@ -3,11 +3,7 @@
  * Handles loading bundled SQLite database into the Capacitor SQLite store.
  * On first launch, copies the pre-built .db file from assets to SQLite.
  */
-import { Capacitor } from '@capacitor/core';
-import { CapacitorSQLite, SQLiteDBConnection, SQLiteConnection } from '@capacitor-community/sqlite';
 import { getDb, executeQuery, ensureInitialized } from './offlineDb';
-
-const DB_NAME = 'menen_offline';
 
 interface ContentManifest {
   grade_id: string;
@@ -76,14 +72,18 @@ export async function loadBundledJsonContent(gradeId: string): Promise<void> {
     const contentFilesResp = await fetch(`${basePath}/content_files.json`);
     if (contentFilesResp.ok) {
       const contentFiles = await contentFilesResp.json();
-      for (const [stbId, filename] of Object.entries(contentFiles)) {
+      for (const [_stbId, filename] of Object.entries(contentFiles)) {
         const resp = await fetch(`${basePath}/content/${filename}`);
         if (!resp.ok) continue;
         const contentMap = await resp.json();
         for (const [key, content] of Object.entries(contentMap)) {
-          const parts = (key as string).rsplit('-', 2);
-          if (parts.length === 3) {
-            const [sId, chId, secId] = parts;
+          // key format: "{stb_id}-{chapter_id}-{section_id}" where stb_id has dashes (e.g. GR12-AGR)
+          const lastDash = (key as string).lastIndexOf('-');
+          const secondLastDash = (key as string).lastIndexOf('-', lastDash - 1);
+          if (lastDash > 0 && secondLastDash > 0) {
+            const sId = (key as string).substring(0, secondLastDash);
+            const chId = (key as string).substring(secondLastDash + 1, lastDash);
+            const secId = (key as string).substring(lastDash + 1);
             await executeQuery(
               'UPDATE textbook_sections SET section_content = ? WHERE stb_id = ? AND chapter_id = ? AND section_id = ?',
               [content, sId, parseInt(chId), secId]
@@ -100,8 +100,9 @@ export async function loadBundledJsonContent(gradeId: string): Promise<void> {
   }
 }
 
-async function importJsonTable(tableName: string, data: any[]): Promise<void> {
-  if (!data || data.length === 0) return;
+async function importJsonTable(tableName: string, data: any): Promise<void> {
+  if (!data) return;
+  if (tableName !== 'eslce' && Array.isArray(data) && data.length === 0) return;
 
   const conn = getDb();
 

@@ -2,9 +2,10 @@
  * Offline Mode Context
  * Provides online/offline mode switching and manages the offline database lifecycle.
  */
-import React, { createContext, useContext, useState, useEffect, useCallback, ReactNode } from 'react';
+import { createContext, useContext, useState, useEffect, useCallback, type ReactNode } from 'react';
+import { Outlet } from 'react-router-dom';
 import { isContentLoaded, loadBundledJsonContent } from '../services/contentLoader';
-import { ensureInitialized, closeOfflineDb, getTextbooks, getOverviewStats } from '../services/offlineDb';
+import { ensureInitialized, getTextbooks, getOverviewStats } from '../services/offlineDb';
 
 interface OfflineContextType {
   isOfflineMode: boolean;
@@ -37,7 +38,7 @@ export function useOfflineMode() {
 }
 
 interface OfflineProviderProps {
-  children: ReactNode;
+  children?: ReactNode;
 }
 
 export function OfflineProvider({ children }: OfflineProviderProps) {
@@ -122,7 +123,7 @@ export function OfflineProvider({ children }: OfflineProviderProps) {
       stats,
       refreshStats,
     }}>
-      {children}
+      {children ?? <Outlet />}
     </OfflineContext.Provider>
   );
 }

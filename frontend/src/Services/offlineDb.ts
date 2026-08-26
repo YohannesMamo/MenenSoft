@@ -56,10 +56,10 @@ export async function executeQuery<T = any>(
   const conn = getDb();
   if (values && values.length > 0) {
     const result = await conn.query(sql, values);
-    return { values: (result.values as any[]) as T[], changes: result.changes ?? 0 };
+    return { values: (result.values || []) as T[], changes: (result as any).changes ?? 0 };
   }
   const result = await conn.query(sql);
-  return { values: (result.values as any[]) as T[], changes: result.changes ?? 0 };
+  return { values: (result.values || []) as T[], changes: (result as any).changes ?? 0 };
 }
 
 export async function executeRun(
@@ -70,18 +70,30 @@ export async function executeRun(
   const result = values && values.length > 0
     ? await conn.run(sql, values)
     : await conn.run(sql);
-  return { changes: result.changes ?? 0, lastId: result.lastId ?? 0 };
+  const changes = (result as any).changes ?? 0;
+  const lastId = (result as any).lastId ?? (result as any).lastInsertRowId ?? 0;
+  return { changes, lastId };
 }
 
 export async function executeBatch(statements: { sql: string; values?: any[] }[]): Promise<void> {
-  const conn = getDb();
+  const conn = getDb() as any;
   const sqls = statements.map(s => {
     if (s.values && s.values.length > 0) {
       return { sql: s.sql, values: s.values };
     }
     return { sql: s.sql };
   });
-  await conn.executeBatch(sqls);
+  if (conn.executeBatch) {
+    await conn.executeBatch(sqls);
+  } else {
+    for (const s of sqls) {
+      if (s.values) {
+        await conn.run(s.sql, s.values);
+      } else {
+        await conn.run(s.sql);
+      }
+    }
+  }
 }
 
 // ============================================================================
