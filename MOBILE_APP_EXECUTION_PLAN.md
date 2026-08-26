@@ -442,4 +442,35 @@ Android APK (Capacitor Shell)
 ---
 
 *Document created: August 23, 2026*
+*Updated: August 26, 2026*
 *Project: MERP Student Assistant (Menen Soft)*
+
+---
+
+## PHASE 2 PROGRESS
+
+### Completed (August 26, 2026)
+
+**Step 6: Offline Data Architecture** ✅
+- SQLite schema: 30 tables (content + user), 30 indexes (`offline-app/schema/001_offline_schema.sql`)
+- Content tables: textbooks, chapters, sections, basic_notes, presentations, quizzes, exam_questions, ESLCE (all bundled read-only)
+- User tables: local_user, study_sessions, section_progress, quiz/exam sessions, highlights, bookmarks, study_notes (all local read-write)
+- Content versioning for in-app updates
+
+**Step 7: Content Extraction** ✅
+- Export script: `offline-app/scripts/export_content.py` — connects to PostgreSQL, exports per-grade
+- Import script: `offline-app/scripts/import_to_sqlite.py` — imports JSON into SQLite
+- **Grade 12 exported**: 10 textbooks, 69 chapters, 480 sections, 1,605 quizzes, 4,397 exam questions, 6,192 ESLCE questions
+- **SQLite DB**: `menen_offline_HIG12A.db` — 17 MB, 62,932 rows
+
+**Step 8 (Partial): Offline App Shell** ✅
+- `frontend/src/services/offlineDb.ts` — SQLite service layer (all CRUD operations)
+- `frontend/src/services/contentLoader.ts` — Loads bundled content into SQLite
+- `frontend/src/context/OfflineContext.tsx` — Online/offline mode switching
+- `frontend/src/pages/OfflineStudyPage.tsx` — Offline study page (textbooks → chapters → sections)
+- Installed `@capacitor-community/sqlite` and `jeep-sqlite`
+
+### Remaining
+- Step 9: Adapt more pages for offline (Quiz, Exam, ESLCE pages)
+- Step 10: Content bundling and APK build pipeline
+- Step 11: Testing and polish
