@@ -2,6 +2,9 @@
  * Offline Database Service
  * Handles SQLite operations for the offline app mode.
  * Uses @capacitor-community/sqlite for native SQLite access.
+ *
+ * On Android: loads pre-bundled menen_offline.db from assets.
+ * On Web: uses jeep-sqlite in-memory or from JSON content.
  */
 import { CapacitorSQLite, SQLiteConnection, SQLiteDBConnection } from '@capacitor-community/sqlite';
 import { Capacitor } from '@capacitor/core';
@@ -24,6 +27,11 @@ export async function initOfflineDb(): Promise<void> {
     await sqlite.initWebStore();
   }
 
+  // On native, import the bundled database from assets BEFORE opening connections
+  if (!isWeb) {
+    await importBundledDatabaseFromAssets();
+  }
+
   const ret = await sqlite.checkConnectionsConsistency();
   const isConn = (await sqlite.isConnection(DB_NAME, false)).result;
 
@@ -35,6 +43,31 @@ export async function initOfflineDb(): Promise<void> {
 
   await db.open();
   await db.execute('PRAGMA foreign_keys = ON;');
+}
+
+/**
+ * Import the bundled SQLite database from Android assets on first launch.
+ * Uses copyFromAssets() to copy menen_offline.db from the assets folder
+ * into the app's internal storage.
+ */
+async function importBundledDatabaseFromAssets(): Promise<void> {
+  if (!sqlite) return;
+
+  try {
+    // Check if database already exists in internal storage
+    const dbExists = await sqlite.isDatabase(DB_NAME);
+    if (dbExists.result) {
+      console.log('Offline DB already exists, skipping asset copy.');
+      return;
+    }
+
+    // Database not found — copy from bundled assets
+    console.log('Copying offline database from bundled assets...');
+    await sqlite.copyFromAssets(false);
+    console.log('Offline database copied from assets successfully.');
+  } catch (err) {
+    console.log('Bundled database copy skipped (expected on web):', err);
+  }
 }
 
 export async function closeOfflineDb(): Promise<void> {

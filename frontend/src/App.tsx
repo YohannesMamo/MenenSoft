@@ -48,8 +48,9 @@ import OfflineEslceSession from './components/offline/OfflineEslceSession';
 
 function App() {
   const { loading } = useAuth();
+  const isOfflineBuild = import.meta.env.VITE_OFFLINE_BUILD === 'true';
 
-  if (loading) {
+  if (loading && !isOfflineBuild) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600"></div>
@@ -61,7 +62,7 @@ function App() {
     <ChatProvider>
       <Routes>
         {/* Public Routes */}
-        <Route path="/" element={<LandingPage />} />
+        <Route path="/" element={isOfflineBuild ? <Navigate to="/offline" replace /> : <LandingPage />} />
         <Route path="/about" element={<About />} />
         
         {/* Auth Routes - All handled by AuthManager */}
