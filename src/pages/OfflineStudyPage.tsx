@@ -3,19 +3,17 @@
  * Replaces the online StudyPage when in offline mode.
  * Loads all content from local SQLite database.
  */
-import React, { useState, useEffect, useCallback } from 'react';
-import { useNavigate } from 'react-router-dom';
-import { useOfflineMode } from '../../context/OfflineContext';
+import { useState, useEffect, useCallback } from 'react';
+import { useOfflineMode } from '../context/OfflineContext';
 import {
-  getTextbooks, getChapters, getSections, getSectionContent,
+  getChapters, getSections, getSectionContent,
   getBasicNotes, getPresentations, getQuizzes,
   markSectionCompleted, getSectionProgress,
-} from '../../services/offlineDb';
-import LatexText from '../LatexText';
-import ChemicalText from '../ChemicalText';
-import BasicNotesView from '../BasicNotesView';
-import SlidesPlayer from '../SlidesPlayer';
-import QuizSession from '../QuizSession';
+} from '../services/offlineDb';
+import { ChemicalText } from '../lib/chemical';
+import BasicNotesView from '../components/BasicNotesView';
+import SlidesPlayer from '../components/SlidesPlayer';
+import QuizSession from '../components/offline/QuizSession';
 
 type StudyMode = 'content' | 'notes' | 'slides' | 'quiz';
 
@@ -26,8 +24,7 @@ interface ChapterGroup {
 }
 
 export default function OfflineStudyPage() {
-  const navigate = useNavigate();
-  const { textbooks, gradeId } = useOfflineMode();
+  const { textbooks } = useOfflineMode();
 
   const [selectedTextbook, setSelectedTextbook] = useState<string | null>(null);
   const [chapters, setChapters] = useState<ChapterGroup[]>([]);
@@ -211,7 +208,7 @@ export default function OfflineStudyPage() {
             {studyMode === 'slides' && (
               <div className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow">
                 {presentations.length > 0 ? (
-                  <SlidesPlayer slides={presentations} />
+                  <SlidesPlayer title={selectedSection.title} slides={presentations} />
                 ) : (
                   <p className="text-gray-500 italic">No slides available for this section.</p>
                 )}
@@ -234,8 +231,8 @@ export default function OfflineStudyPage() {
                         explanation: o.explanation,
                       })),
                     }))}
-                    onComplete={(result) => {
-                      console.log('Quiz result:', result);
+                    onComplete={(_result: any) => {
+                      // Quiz recorded in QuizSession component
                     }}
                   />
                 ) : (
