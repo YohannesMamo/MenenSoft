@@ -470,7 +470,24 @@ Android APK (Capacitor Shell)
 - `frontend/src/pages/OfflineStudyPage.tsx` — Offline study page (textbooks → chapters → sections)
 - Installed `@capacitor-community/sqlite` and `jeep-sqlite`
 
+**Step 9: Offline Pages (Quiz, Exam, ESLCE, Dashboard)** ✅
+- `QuizSession.tsx` — Reusable quiz component with per-question feedback
+- `OfflineQuizGateway.tsx` — Textbook → Chapter → Section selection for quizzes
+- `OfflineQuizPage.tsx` — Quiz session with results and local recording
+- `OfflineExamPage.tsx` — Exam section chooser, practice/exam mode, exam session with timer
+- `OfflineEslceLibrary.tsx` — ESLCE exam listing with subject/year/type filters
+- `OfflineEslceSession.tsx` — ESLCE practice/exam with passages, question navigator, flagging
+- `OfflineDashboard.tsx` — Stats overview, textbook progress, feature entry points
+- Routes added to `App.tsx` under `<Route element={<OfflineProvider />}>`
+
+**Step 10: Content Bundling and APK Build** ✅
+- `offline-app/scripts/build-grade.js` — Automated build script (DB copy → Vite build → cap sync → Gradle)
+- SQLite plugin (`@capacitor-community/sqlite`) wired into Android project (7 plugins total)
+- `offlineDb.ts` updated: `copyFromAssets()` imports bundled DB on first launch
+- `OfflineContext.tsx`: auto-detects offline build via `VITE_OFFLINE_BUILD` env var
+- `App.tsx`: redirects to `/offline` when `VITE_OFFLINE_BUILD=true`
+- **Grade 12 debug APK built**: 34.4 MB (17 MB DB bundled in assets)
+- APK path: `frontend/android/app/build/outputs/apk/debug/app-debug.apk`
+
 ### Remaining
-- Step 9: Adapt more pages for offline (Quiz, Exam, ESLCE pages)
-- Step 10: Content bundling and APK build pipeline
 - Step 11: Testing and polish

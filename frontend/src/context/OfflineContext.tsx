@@ -101,8 +101,17 @@ export function OfflineProvider({ children }: OfflineProviderProps) {
     localStorage.removeItem('offlineGrade');
   }, []);
 
-  // Check for previously enabled offline mode on mount
+  // Auto-enter offline mode for bundled APKs (built with VITE_OFFLINE_BUILD=true).
+  // Also restore previously-enabled offline mode from localStorage.
   useEffect(() => {
+    // Bundled mode: VITE_OFFLINE_BUILD is set at build time
+    if (import.meta.env.VITE_OFFLINE_BUILD === 'true') {
+      const savedGrade = localStorage.getItem('offlineGrade') || 'HIG12A';
+      enableOfflineMode(savedGrade).catch(console.error);
+      return;
+    }
+
+    // Online mode: restore previously-enabled offline mode if user chose it
     const wasOffline = localStorage.getItem('offlineMode');
     const savedGrade = localStorage.getItem('offlineGrade');
     if (wasOffline === 'true' && savedGrade) {
