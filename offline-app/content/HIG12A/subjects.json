@@ -1,0 +1,692 @@
+[
+  {
+    "subject_id": "PHYSIC",
+    "subject_desc": "Physics",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CHEMIS",
+    "subject_desc": "Chemistry",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "BIOLOGY",
+    "subject_desc": "Biology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "EARTHSC",
+    "subject_desc": "Earth Sciences",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ASTRON",
+    "subject_desc": "Astronomy",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MATH",
+    "subject_desc": "Mathematics",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "LOGIC",
+    "subject_desc": "Logic",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "STATIS",
+    "subject_desc": "Statistics",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "COMPSCI",
+    "subject_desc": "Computer Science",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "SYSTHEO",
+    "subject_desc": "Systems Theory",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "INFOTHEO",
+    "subject_desc": "Information Theory",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "SOCIO",
+    "subject_desc": "Sociology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "PSYCHO",
+    "subject_desc": "Psychology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ANTHRO",
+    "subject_desc": "Anthropology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ECONO",
+    "subject_desc": "Economics",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "POLSCI",
+    "subject_desc": "Political Science",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "HUMGEO",
+    "subject_desc": "Human Geography",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "DEMOG",
+    "subject_desc": "Demography",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ARCHEO",
+    "subject_desc": "Archaeology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CRIMINO",
+    "subject_desc": "Criminology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "HISTOR",
+    "subject_desc": "History",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "PHILO",
+    "subject_desc": "Philosophy",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "LITERA",
+    "subject_desc": "Literature",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "LANGUA",
+    "subject_desc": "Languages",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "RELSTUD",
+    "subject_desc": "Religious Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CULTST",
+    "subject_desc": "Cultural Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MEDIAST",
+    "subject_desc": "Media Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "VISART",
+    "subject_desc": "Visual Arts",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "PERFART",
+    "subject_desc": "Performing Arts",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MUSIC",
+    "subject_desc": "Music",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "FILMART",
+    "subject_desc": "Film",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "PHOTO",
+    "subject_desc": "Photography",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ARCHIT",
+    "subject_desc": "Architecture",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "GRAPHIC",
+    "subject_desc": "Graphic Design",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MEDSCI",
+    "subject_desc": "Medicine",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "NURSING",
+    "subject_desc": "Nursing",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "PHARMA",
+    "subject_desc": "Pharmacology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "DENTAL",
+    "subject_desc": "Dentistry",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "VETSCI",
+    "subject_desc": "Veterinary Science",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "AGRISC",
+    "subject_desc": "Agriculture",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "BIOTECH",
+    "subject_desc": "Biotechnology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "PUBHLTH",
+    "subject_desc": "Public Health",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "INFOTECH",
+    "subject_desc": "Information Tech",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "SOFTENG",
+    "subject_desc": "Software Eng.",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CYBERSEC",
+    "subject_desc": "Cybersecurity",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ELECENG",
+    "subject_desc": "Electrical Eng.",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MECHENG",
+    "subject_desc": "Mechanical Eng.",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CIVILENG",
+    "subject_desc": "Civil Engineering",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ROBOTIC",
+    "subject_desc": "Robotics",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "TELECOM",
+    "subject_desc": "Telecom",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MANUFAC",
+    "subject_desc": "Manufacturing",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "BUSADMIN",
+    "subject_desc": "Business Admin",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ACCOUNT",
+    "subject_desc": "Accounting",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "FINANCE",
+    "subject_desc": "Finance",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MARKET",
+    "subject_desc": "Marketing",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MANAGE",
+    "subject_desc": "Management",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "HRMGT",
+    "subject_desc": "HR",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "LOGIST",
+    "subject_desc": "Logistics",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "TOURISM",
+    "subject_desc": "Tourism",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ESTATE",
+    "subject_desc": "Real Estate",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "LAWSTUD",
+    "subject_desc": "Law",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "INTREL",
+    "subject_desc": "International Relations",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "PUBADM",
+    "subject_desc": "Public Admin",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MILSTUD",
+    "subject_desc": "Military Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "SECSTUD",
+    "subject_desc": "Security Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "HUMRIGHT",
+    "subject_desc": "Human Rights",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CURR",
+    "subject_desc": "Curriculum",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "EDPSY",
+    "subject_desc": "Ed. Psychology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "EDTECH",
+    "subject_desc": "Instructional Tech",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "TEACHTR",
+    "subject_desc": "Teacher Training",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "SPECED",
+    "subject_desc": "Special Education",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ASTRO",
+    "subject_desc": "Astrology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "HOMEO",
+    "subject_desc": "Homeopathy",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "NUMERO",
+    "subject_desc": "Numerology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ANCIENT",
+    "subject_desc": "Ancient Aliens",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "FLATER",
+    "subject_desc": "Flat Earth",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CRYPTOZ",
+    "subject_desc": "Cryptozoology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "HERMETIC",
+    "subject_desc": "Hermeticism",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "KABBAL",
+    "subject_desc": "Kabbalah",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "GNOSTIC",
+    "subject_desc": "Gnosticism",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "SHAMAN",
+    "subject_desc": "Shamanism",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MYTHO",
+    "subject_desc": "Mythology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ESOSTUD",
+    "subject_desc": "Esoteric Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "OCCULT",
+    "subject_desc": "Occult Practices",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "DATSCI",
+    "subject_desc": "Data Science",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "AIML",
+    "subject_desc": "AI & ML",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "NEURO",
+    "subject_desc": "Neuroscience",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "COGSCI",
+    "subject_desc": "Cognitive Science",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "NANOTECH",
+    "subject_desc": "Nanotechnology",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "SUSTAIN",
+    "subject_desc": "Sustainability",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "URBANST",
+    "subject_desc": "Urban Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "DIGHUM",
+    "subject_desc": "Digital Humanities",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "AFRIST",
+    "subject_desc": "African Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MIDEAST",
+    "subject_desc": "Middle Eastern",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ASISTUD",
+    "subject_desc": "Asian Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "EUROST",
+    "subject_desc": "European Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "INDIGEN",
+    "subject_desc": "Indigenous Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "DIASP",
+    "subject_desc": "Diaspora Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ISLAMST",
+    "subject_desc": "Islamic Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ETHIOST",
+    "subject_desc": "Ethiopian Studies",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CULART",
+    "subject_desc": "Culinary",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CARPENT",
+    "subject_desc": "Carpentry",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "METALWK",
+    "subject_desc": "Metalwork",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ELECWRK",
+    "subject_desc": "Electric Work",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "PLUMB",
+    "subject_desc": "Plumbing",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "TAILOR",
+    "subject_desc": "Tailoring",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "MECHDRV",
+    "subject_desc": "Driving & Mechanics",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "HOMEC",
+    "subject_desc": "Home Economics",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "LIFESK",
+    "subject_desc": "Life Skills",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "AMHAR",
+    "subject_desc": "Amharic",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "ENGLISH",
+    "subject_desc": "English",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "CIVICS",
+    "subject_desc": "Civics/Citizenship",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "GEOGR",
+    "subject_desc": "Geography",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "NATSCI",
+    "subject_desc": "Health Education",
+    "category_id": null,
+    "category_desc": null
+  },
+  {
+    "subject_id": "HEALTH",
+    "subject_desc": "Health science",
+    "category_id": null,
+    "category_desc": null
+  }
+]

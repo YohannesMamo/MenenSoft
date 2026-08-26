@@ -1,0 +1,62 @@
+[
+  {
+    "quiz_type_id": "MCQ",
+    "quiz_type_desc": "Multiple Choice Question"
+  },
+  {
+    "quiz_type_id": "TRUEFALSE",
+    "quiz_type_desc": "True or False Question"
+  },
+  {
+    "quiz_type_id": "FILLBLANK",
+    "quiz_type_desc": "Fill in the Blank Question"
+  },
+  {
+    "quiz_type_id": "SHORTANS",
+    "quiz_type_desc": "Short Answer Question"
+  },
+  {
+    "quiz_type_id": "ESSAYLONG",
+    "quiz_type_desc": "Essay / Long Answer Question"
+  },
+  {
+    "quiz_type_id": "MATCHPAIR",
+    "quiz_type_desc": "Matching / Pairing Question"
+  },
+  {
+    "quiz_type_id": "REORDER",
+    "quiz_type_desc": "Arrange in Correct Order"
+  },
+  {
+    "quiz_type_id": "NUMERIC",
+    "quiz_type_desc": "Numerical Question"
+  },
+  {
+    "quiz_type_id": "DIAGRAM",
+    "quiz_type_desc": "Diagram / Drawing Response"
+  },
+  {
+    "quiz_type_id": "ORALRESP",
+    "quiz_type_desc": "Oral / Spoken Response"
+  },
+  {
+    "quiz_type_id": "ASSIGNMT",
+    "quiz_type_desc": "Assignment Question"
+  },
+  {
+    "quiz_type_id": "PROJECTWK",
+    "quiz_type_desc": "Project Work Question"
+  },
+  {
+    "quiz_type_id": "QUIZQUES",
+    "quiz_type_desc": "Quiz Question"
+  },
+  {
+    "quiz_type_id": "HOMEWORK",
+    "quiz_type_desc": "Homework Question"
+  },
+  {
+    "quiz_type_id": "PRACTICE",
+    "quiz_type_desc": "Practice / Revision Question"
+  }
+]
