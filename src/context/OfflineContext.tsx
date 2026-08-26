@@ -1,0 +1,128 @@
+/**
+ * Offline Mode Context
+ * Provides online/offline mode switching and manages the offline database lifecycle.
+ */
+import React, { createContext, useContext, useState, useEffect, useCallback, ReactNode } from 'react';
+import { isContentLoaded, loadBundledJsonContent } from '../services/contentLoader';
+import { ensureInitialized, closeOfflineDb, getTextbooks, getOverviewStats } from '../services/offlineDb';
+
+interface OfflineContextType {
+  isOfflineMode: boolean;
+  isContentReady: boolean;
+  isLoadingContent: boolean;
+  loadError: string | null;
+  gradeId: string;
+  enableOfflineMode: (gradeId: string) => Promise<void>;
+  disableOfflineMode: () => void;
+  textbooks: any[];
+  stats: any;
+  refreshStats: () => Promise<void>;
+}
+
+const OfflineContext = createContext<OfflineContextType>({
+  isOfflineMode: false,
+  isContentReady: false,
+  isLoadingContent: false,
+  loadError: null,
+  gradeId: 'HIG12A',
+  enableOfflineMode: async () => {},
+  disableOfflineMode: () => {},
+  textbooks: [],
+  stats: {},
+  refreshStats: async () => {},
+});
+
+export function useOfflineMode() {
+  return useContext(OfflineContext);
+}
+
+interface OfflineProviderProps {
+  children: ReactNode;
+}
+
+export function OfflineProvider({ children }: OfflineProviderProps) {
+  const [isOfflineMode, setIsOfflineMode] = useState(false);
+  const [isContentReady, setIsContentReady] = useState(false);
+  const [isLoadingContent, setIsLoadingContent] = useState(false);
+  const [loadError, setLoadError] = useState<string | null>(null);
+  const [gradeId, setGradeId] = useState('HIG12A');
+  const [textbooks, setTextbooks] = useState<any[]>([]);
+  const [stats, setStats] = useState<any>({});
+
+  const refreshStats = useCallback(async () => {
+    if (!isOfflineMode || !isContentReady) return;
+    try {
+      const s = await getOverviewStats(gradeId);
+      setStats(s);
+    } catch (e) {
+      console.error('Failed to refresh stats:', e);
+    }
+  }, [isOfflineMode, isContentReady, gradeId]);
+
+  const enableOfflineMode = useCallback(async (selectedGradeId: string) => {
+    setIsLoadingContent(true);
+    setLoadError(null);
+    try {
+      setGradeId(selectedGradeId);
+      await ensureInitialized();
+
+      const hasContent = await isContentLoaded();
+      if (!hasContent) {
+        // Load bundled JSON content
+        await loadBundledJsonContent(selectedGradeId);
+      }
+
+      const tb = await getTextbooks(selectedGradeId);
+      setTextbooks(tb);
+      setIsContentReady(true);
+      setIsOfflineMode(true);
+
+      const s = await getOverviewStats(selectedGradeId);
+      setStats(s);
+
+      localStorage.setItem('offlineMode', 'true');
+      localStorage.setItem('offlineGrade', selectedGradeId);
+    } catch (error: any) {
+      console.error('Failed to enable offline mode:', error);
+      setLoadError(error.message || 'Failed to load content');
+      throw error;
+    } finally {
+      setIsLoadingContent(false);
+    }
+  }, []);
+
+  const disableOfflineMode = useCallback(() => {
+    setIsOfflineMode(false);
+    setIsContentReady(false);
+    setTextbooks([]);
+    setStats({});
+    localStorage.removeItem('offlineMode');
+    localStorage.removeItem('offlineGrade');
+  }, []);
+
+  // Check for previously enabled offline mode on mount
+  useEffect(() => {
+    const wasOffline = localStorage.getItem('offlineMode');
+    const savedGrade = localStorage.getItem('offlineGrade');
+    if (wasOffline === 'true' && savedGrade) {
+      enableOfflineMode(savedGrade).catch(console.error);
+    }
+  }, []);
+
+  return (
+    <OfflineContext.Provider value={{
+      isOfflineMode,
+      isContentReady,
+      isLoadingContent,
+      loadError,
+      gradeId,
+      enableOfflineMode,
+      disableOfflineMode,
+      textbooks,
+      stats,
+      refreshStats,
+    }}>
+      {children}
+    </OfflineContext.Provider>
+  );
+}
