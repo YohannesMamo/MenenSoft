@@ -23,27 +23,30 @@ export default function OfflineQuizGateway() {
     setLoading(true);
     getQuizTextbooks().then(data => {
       setTextbooks(data);
-      setLoading(false);
-    });
+    }).catch(console.error).finally(() => setLoading(false));
   }, []);
 
   const handleTextbookSelect = async (stbId: string, title: string) => {
     setSelectedTextbook(stbId);
     setSelectedTextbookTitle(title);
     setLoading(true);
-    const chaps = await getQuizChapters(stbId);
-    setChapters(chaps);
-    setStep('chapters');
-    setLoading(false);
+    try {
+      const chaps = await getQuizChapters(stbId);
+      setChapters(chaps);
+      setStep('chapters');
+    } catch (e) { console.error(e); }
+    finally { setLoading(false); }
   };
 
   const handleChapterSelect = async (chapterId: number) => {
     setSelectedChapter(chapterId);
     setLoading(true);
-    const secs = await getQuizSections(selectedTextbook, chapterId);
-    setSections(secs);
-    setStep('sections');
-    setLoading(false);
+    try {
+      const secs = await getQuizSections(selectedTextbook, chapterId);
+      setSections(secs);
+      setStep('sections');
+    } catch (e) { console.error(e); }
+    finally { setLoading(false); }
   };
 
   const handleSectionSelect = (sectionId: string) => {

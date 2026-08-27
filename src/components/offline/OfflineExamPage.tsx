@@ -2,7 +2,7 @@
  * Offline Exam Page
  * Exam section chooser, mode selector, and exam/practice session using local SQLite.
  */
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useOfflineMode } from '../../context/OfflineContext';
 import {
@@ -39,6 +39,8 @@ interface ExamSessionProps {
 function ExamSession({ questions, mode, sectionInfo: _sectionInfo, onComplete }: ExamSessionProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<string, string>>({});
+  const answersRef = useRef<Record<string, string>>({});
+  const handleFinishRef = useRef<() => void>(() => {});
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [showFeedback, setShowFeedback] = useState(false);
   const [startTime] = useState(Date.now());
@@ -54,8 +56,7 @@ function ExamSession({ questions, mode, sectionInfo: _sectionInfo, onComplete }:
       setTimeLeft(prev => {
         if (prev <= 1) {
           clearInterval(timer);
-          // Auto-finish
-          handleFinish();
+          handleFinishRef.current();
           return 0;
         }
         return prev - 1;
@@ -65,12 +66,13 @@ function ExamSession({ questions, mode, sectionInfo: _sectionInfo, onComplete }:
   }, [mode, timeLeft > 0]);
 
   const handleFinish = useCallback(() => {
+    const currentAnswers = answersRef.current;
     const elapsed = Math.floor((Date.now() - startTime) / 1000);
     let correctCount = 0;
     let totalScore = 0;
 
     const results = questions.map(q => {
-      const selectedId = answers[q.questionId];
+      const selectedId = currentAnswers[q.questionId];
       const correctOpt = q.options.find(o => o.isCorrect);
       const isCorrect = selectedId === correctOpt?.optionLabel;
       if (isCorrect) correctCount++;
@@ -103,7 +105,14 @@ function ExamSession({ questions, mode, sectionInfo: _sectionInfo, onComplete }:
       mode,
       results,
     });
-  }, [questions, answers, startTime, mode, onComplete]);
+  }, [questions, startTime, mode, onComplete]);
+
+  handleFinishRef.current = handleFinish;
+
+  // Keep answersRef in sync
+  useEffect(() => {
+    answersRef.current = answers;
+  }, [answers]);
 
   const handleSelectOption = (optionLabel: string) => {
     if (showFeedback && mode === 'practice') return;
@@ -288,8 +297,7 @@ export default function OfflineExamPage() {
     setLoading(true);
     getExamSections(selectedTextbook).then(data => {
       setSections(data);
-      setLoading(false);
-    });
+    }).catch(console.error).finally(() => setLoading(false));
   }, [selectedTextbook]);
 
   // Load questions when exam starts
@@ -316,8 +324,7 @@ export default function OfflineExamPage() {
         }
       }
       setQuestions(mapped);
-      setLoading(false);
-    });
+    }).catch(console.error).finally(() => setLoading(false));
   }, [examStarted, selectedSection, selectedTextbook, mode]);
 
   const handleExamComplete = useCallback(async (result: any) => {
@@ -476,7 +483,7 @@ export default function OfflineExamPage() {
             >
               <div className="font-semibold text-gray-800 dark:text-white">{tb.title}</div>
               <div className="text-sm text-gray-500 mt-1">
-                {sections.length} sections available
+                {tb.section_count || 0} sections available
               </div>
             </button>
           ))}
