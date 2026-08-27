@@ -18,8 +18,7 @@ export default function OfflineEslceLibrary() {
     Promise.all([getEslceSubjects(), getEslceExams()]).then(([subjs, exs]) => {
       setSubjects(subjs);
       setExams(exs);
-      setLoading(false);
-    });
+    }).catch(console.error).finally(() => setLoading(false));
   }, []);
 
   const filteredExams = exams.filter(e => {
@@ -39,28 +38,34 @@ export default function OfflineEslceLibrary() {
 
   const handleStartExam = async (exam: any, mode: 'exam' | 'practice') => {
     setLoading(true);
-    const questions = await getEslceQuestions(exam.id);
-    navigate('/offline/eslce/session', {
-      state: {
-        questions: questions.map((q: any) => ({
-          id: q.id,
-          code: q.code,
-          text: q.question_text,
-          marks: q.marks,
-          question_number: q.question_number,
-          options: q.options.map((o: any) => ({
-            id: o.id,
-            label: o.label,
-            text: o.option_text,
+    try {
+      const questions = await getEslceQuestions(exam.id);
+      navigate('/offline/eslce/session', {
+        state: {
+          questions: questions.map((q: any) => ({
+            id: q.id,
+            code: q.code,
+            text: q.question_text,
+            marks: q.marks_allocated || q.marks || 1,
+            question_number: q.question_number,
+            options: q.options.map((o: any) => ({
+              id: o.id,
+              label: o.label,
+              text: o.option_text,
+              isCorrect: !!o.is_correct,
+            })),
+            passage: q.passage || null,
+            images: q.images || [],
           })),
-          passage: q.passage || null,
-          images: q.images || [],
-        })),
-        exam: { id: exam.id, subject_name: exam.subject_name, title: exam.title, year: exam.year, semester: exam.semester },
-        mode,
-      },
-    });
-    setLoading(false);
+          exam: { id: exam.id, subject_name: exam.subject_name, title: exam.title, year: exam.year, semester: exam.semester },
+          mode,
+        },
+      });
+    } catch (e) {
+      console.error('Failed to load ESLCE questions:', e);
+    } finally {
+      setLoading(false);
+    }
   };
 
   if (loading) {

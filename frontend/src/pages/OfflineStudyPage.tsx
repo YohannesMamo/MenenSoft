@@ -8,7 +8,7 @@ import { useOfflineMode } from '../context/OfflineContext';
 import {
   getChapters, getSections, getSectionContent,
   getBasicNotes, getPresentations, getQuizzes,
-  markSectionCompleted, getSectionProgress,
+  markSectionCompleted, getSectionProgress, recordQuizSession,
 } from '../services/offlineDb';
 import { ChemicalText } from '../lib/chemical';
 import BasicNotesView from '../components/BasicNotesView';
@@ -229,10 +229,23 @@ export default function OfflineStudyPage() {
                         optionId: o.record_id,
                         text: o.option_text,
                         explanation: o.explanation,
+                        isCorrect: !!o.is_correct,
+                        label: o.option_label,
                       })),
                     }))}
-                    onComplete={(_result: any) => {
-                      // Quiz recorded in QuizSession component
+                    onComplete={(result: any) => {
+                      recordQuizSession({
+                        session_type: 'practice',
+                        total_questions: result.totalQuestions,
+                        total_points: result.totalScore,
+                        time_spent_seconds: 0,
+                        answers: result.results.map((r: any) => ({
+                          quiz_id: r.questionId,
+                          answer_text: r.yourAnswer,
+                          points: r.pointsEarned,
+                          is_correct: r.isCorrect,
+                        })),
+                      });
                     }}
                   />
                 ) : (

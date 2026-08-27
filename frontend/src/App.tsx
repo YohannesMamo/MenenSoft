@@ -59,6 +59,20 @@ function App() {
   }
 
   return (
+    <>{isOfflineBuild ? (
+      <Routes>
+        <Route path="/offline" element={<OfflineProvider />}>
+          <Route index element={<OfflineDashboard />} />
+          <Route path="study" element={<OfflineStudyPage />} />
+          <Route path="quiz" element={<OfflineQuizGateway />} />
+          <Route path="quiz/:stbId/:chapterId/:sectionId" element={<OfflineQuizPage />} />
+          <Route path="exam" element={<OfflineExamPage />} />
+          <Route path="eslce" element={<OfflineEslceLibrary />} />
+          <Route path="eslce/session" element={<OfflineEslceSession />} />
+        </Route>
+        <Route path="*" element={<Navigate to="/offline" replace />} />
+      </Routes>
+    ) : (
     <ChatProvider>
       <Routes>
         {/* Public Routes */}
@@ -111,7 +125,7 @@ function App() {
           </Route>
         </Route>
 
-        {/* Offline Mode Routes (no auth required) */}
+        {/* Offline routes only available in online mode (for testing) */}
         <Route element={<OfflineProvider />}>
           <Route path="/offline" element={<OfflineDashboard />} />
           <Route path="/offline/study" element={<OfflineStudyPage />} />
@@ -126,6 +140,7 @@ function App() {
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </ChatProvider>
+    )}</>
   );
 }
 

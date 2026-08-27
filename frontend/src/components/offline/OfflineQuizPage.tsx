@@ -26,8 +26,7 @@ export default function OfflineQuizPage() {
     setLoading(true);
     getQuizzes(stbId, parseInt(chapterId), sectionId).then(data => {
       setQuizzes(data);
-      setLoading(false);
-    });
+    }).catch(console.error).finally(() => setLoading(false));
   }, [stbId, chapterId, sectionId]);
 
   const handleQuizComplete = useCallback(async (result: any) => {

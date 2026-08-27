@@ -13,21 +13,22 @@ export default function OfflineDashboard() {
   const [progressData, setProgressData] = useState<any[]>([]);
 
   useEffect(() => {
-    refreshStats();
-    // Load progress per textbook
+    refreshStats().catch(console.error);
     const loadProgress = async () => {
-      const allProgress: any[] = [];
-      for (const tb of textbooks) {
-        const prog = await getSectionProgress(tb.stb_id);
-        allProgress.push({
-          stb_id: tb.stb_id,
-          title: tb.title,
-          subject: tb.subject_id,
-          total: tb.section_count || 0,
-          completed: prog.filter((p: any) => p.is_completed).length,
-        });
-      }
-      setProgressData(allProgress);
+      try {
+        const allProgress: any[] = [];
+        for (const tb of textbooks) {
+          const prog = await getSectionProgress(tb.stb_id);
+          allProgress.push({
+            stb_id: tb.stb_id,
+            title: tb.title,
+            subject: tb.subject_id,
+            total: tb.section_count || 0,
+            completed: prog.filter((p: any) => p.is_completed).length,
+          });
+        }
+        setProgressData(allProgress);
+      } catch (e) { console.error(e); }
     };
     if (textbooks.length > 0) loadProgress();
   }, [textbooks, refreshStats]);

@@ -3,7 +3,7 @@
  * Handles loading bundled SQLite database into the Capacitor SQLite store.
  * On first launch, copies the pre-built .db file from assets to SQLite.
  */
-import { getDb, executeQuery, ensureInitialized } from './offlineDb';
+import { getDb, executeQuery, executeRun, ensureInitialized } from './offlineDb';
 
 interface ContentManifest {
   grade_id: string;
@@ -84,7 +84,7 @@ export async function loadBundledJsonContent(gradeId: string): Promise<void> {
             const sId = (key as string).substring(0, secondLastDash);
             const chId = (key as string).substring(secondLastDash + 1, lastDash);
             const secId = (key as string).substring(lastDash + 1);
-            await executeQuery(
+            await executeRun(
               'UPDATE textbook_sections SET section_content = ? WHERE stb_id = ? AND chapter_id = ? AND section_id = ?',
               [content, sId, parseInt(chId), secId]
             );
