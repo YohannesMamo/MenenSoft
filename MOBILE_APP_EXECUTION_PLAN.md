@@ -347,18 +347,21 @@ Android APK (Capacitor Shell)
 - `offline-app/scripts/build-grade.js`
 - `offline-app/android/app/build.gradle` (asset pack config)
 
-#### Step 11: Testing and Polish
-**Time: 8-10 hours**
+#### Step 11: Testing and Polish ✅ COMPLETE
+**Completed: Aug 27, 2026**
 
-1. Test on low-end Android devices (2GB RAM, Android 8+)
-2. Test first-launch experience (content loading)
-3. Test all study flows offline
-4. Test quiz/exam scoring accuracy
-5. Test progress tracking
-6. Test highlights and notes
-7. Performance optimization (lazy loading, memory management)
-8. Battery usage optimization
-9. Storage management (clear cache, etc.)
+Fixes applied:
+1. Race condition in `offlineDb.ts ensureInitialized` (promise-based lock)
+2. Score overflow in `recordQuizSession`/`recordExamSession` (capped at 100%)
+3. ESLCE grading logic: uses `isCorrect` field, shows correct/wrong indicators
+4. Quiz results now recorded in `OfflineStudyPage`
+5. ChatProvider removed from offline routes (prevents WebSocket errors)
+6. `contentLoader.ts` UPDATE: `executeQuery` → `executeRun`
+7. Stale closure in `OfflineExamPage` timer (useRef)
+8. Textbook card section count uses `tb.section_count` instead of empty state
+9. Crash on empty questions in `OfflineEslceSession` guarded
+10. `.catch/.finally` error handling on all async DB calls
+11. `.gitignore` null-byte corruption fixed
 
 ### Phase 2 Total Estimated Time: 50-78 hours
 
