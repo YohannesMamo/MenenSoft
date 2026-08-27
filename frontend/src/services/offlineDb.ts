@@ -443,11 +443,13 @@ export async function recordQuizSession(session: {
   section_id?: string;
   session_type?: string;
   total_questions: number;
+  total_points?: number;
   time_spent_seconds: number;
   answers: { quiz_id: string; answer_text: string; points: number; is_correct: boolean }[];
 }) {
   const sessionId = crypto.randomUUID();
   let totalScore = 0;
+  let maxPoints = session.total_points ?? session.total_questions;
   const stmts: { sql: string; values?: any[] }[] = [];
 
   stmts.push({
@@ -470,8 +472,8 @@ export async function recordQuizSession(session: {
 
   await executeBatch(stmts);
 
-  // Update score
-  const percentage = session.total_questions > 0 ? (totalScore / session.total_questions) * 100 : 0;
+  // Update score (use total_points if available, otherwise fall back to question count)
+  const percentage = maxPoints > 0 ? Math.min((totalScore / maxPoints) * 100, 100) : 0;
   await executeRun('UPDATE quiz_sessions SET overall_score = ? WHERE session_id = ?',
     [percentage, sessionId]);
 
@@ -484,6 +486,7 @@ export async function recordExamSession(session: {
   section_id?: string;
   session_type?: string;
   total_questions: number;
+  total_points?: number;
   time_spent_seconds: number;
   answers: { question_id: string; answer_text: string; points: number; is_correct: boolean }[];
 }) {
@@ -502,7 +505,8 @@ export async function recordExamSession(session: {
     });
   }
 
-  const percentage = session.total_questions > 0 ? (totalScore / session.total_questions) * 100 : 0;
+  const maxPoints = session.total_points ?? session.total_questions;
+  const percentage = maxPoints > 0 ? Math.min((totalScore / maxPoints) * 100, 100) : 0;
   stmts.unshift({
     sql: `INSERT INTO exam_sessions
           (session_id, stb_id, chapter_id, section_id, session_type, total_questions,
@@ -627,10 +631,10 @@ export async function updateContentManifest(contentType: string, contentId: stri
 }
 
 // Initialize on module load for web testing
-let initialized = false;
+let initPromise: Promise<void> | null = null;
 export async function ensureInitialized(): Promise<void> {
-  if (!initialized) {
-    await initOfflineDb();
-    initialized = true;
+  if (!initPromise) {
+    initPromise = initOfflineDb();
   }
+  await initPromise;
 }
