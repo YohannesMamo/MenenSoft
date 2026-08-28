@@ -5,7 +5,7 @@ const config: CapacitorConfig = {
   appName: 'Menen OSHS',
   webDir: 'dist',
   server: {
-    url: 'https://menen-oshd-app.pxxl.click',
+    url: 'https://menen-oshs-app.pxxl.click',
     cleartext: false,
     androidScheme: 'https'
   },

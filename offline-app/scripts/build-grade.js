@@ -103,7 +103,7 @@ export default config;
     execSync('npm run build', {
       cwd: FRONTEND_DIR,
       stdio: 'inherit',
-      timeout: 120000,
+      timeout: 300000,
       env: { ...process.env, VITE_OFFLINE_BUILD: 'true' },
     });
     log('Vite build done.');
@@ -129,7 +129,7 @@ export default config;
 
     // ── Step 7: Cap sync ──
     log('Running Capacitor sync...');
-    execSync('npx cap sync android', { cwd: FRONTEND_DIR, stdio: 'inherit', timeout: 120000 });
+    execSync('npx cap sync android', { cwd: FRONTEND_DIR, stdio: 'inherit', timeout: 180000 });
     log('Capacitor sync done.');
 
     // ── Step 8: Gradle build ──
@@ -137,7 +137,7 @@ export default config;
     execSync('gradlew.bat assembleDebug', {
       cwd: path.join(FRONTEND_DIR, 'android'),
       stdio: 'inherit',
-      timeout: 300000,
+      timeout: 900000,
       env: { ...process.env, JAVA_HOME },
     });
 
