@@ -66,47 +66,62 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
   const selectConversation = async (conv: Conversation) => {
     setSelectedConversation(conv);
     selectedConversationRef.current = conv;
+    setMessages([]);
     await fetchMessages(conv.ConversationID);
     joinConversation(conv.ConversationID);
   };
 
   const fetchConversations = async () => {
     if (!userId) return;
-    
+
     try {
       const token = localStorage.getItem('token');
       const res = await axios.get(`/api/chat/conversations/${userId}`, {
         headers: { Authorization: `Bearer ${token}` }
       });
+
       setConversations(res.data);
+
+      if (socketRef.current?.connected && userId) {
+        const uniqueConversationIds = Array.from(new Set((res.data || []).map((conv: Conversation) => conv.ConversationID).filter(Boolean)));
+        uniqueConversationIds.forEach((conversationId: string) => {
+          socketRef.current?.emit('join_conversation', {
+            conversation_id: conversationId,
+            user_id: userId
+          });
+        });
+      }
     } catch (error) {
       console.error('Failed to fetch conversations', error);
     }
   };
 
   const fetchMessages = async (conversationId: string) => {
-  if (!userId) return;
-  
-  setLoading(true);
-  try {
-    const token = localStorage.getItem('token');
-    const res = await axios.get(`/api/chat/messages/${conversationId}?user_id=${userId}`, {
-      headers: { Authorization: `Bearer ${token}` }
-    });
-    
-    // Map DB fields to frontend-friendly if needed
-    const mappedMessages = res.data.map((msg: any) => ({
-      ...msg,
-      ConversationID: msg.MConversationID,   // alias for easier use
-      Content: msg.MContent
-    }));
-    
-    setMessages(mappedMessages);
-  } catch (error) {
-    console.error('Failed to fetch messages', error);
-  }
-  setLoading(false);
-};
+    if (!userId) return;
+
+    setLoading(true);
+    setMessages([]);
+
+    try {
+      const token = localStorage.getItem('token');
+      const res = await axios.get(`/api/chat/messages/${conversationId}?user_id=${userId}`, {
+        headers: { Authorization: `Bearer ${token}` }
+      });
+
+      const mappedMessages = res.data.map((msg: any) => ({
+        ...msg,
+        ConversationID: msg.MConversationID,
+        Content: msg.MContent
+      }));
+
+      setMessages(mappedMessages);
+    } catch (error) {
+      console.error('Failed to fetch messages', error);
+      setMessages([]);
+    } finally {
+      setLoading(false);
+    }
+  };
 
   
 
@@ -158,47 +173,48 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
   const uploadFile = async (file: File): Promise<{ FileURL: string; FileName: string }> => {
     const formData = new FormData();
     formData.append('file', file);
-    
+
     const token = localStorage.getItem('token');
     const res = await axios.post('/api/chat/upload', formData, {
-      headers: { 
+      headers: {
         Authorization: `Bearer ${token}`,
         'Content-Type': 'multipart/form-data'
       }
     });
     return res.data;
   };
-useEffect(() => {
-  const checkUserId = () => {
-    const studentData = localStorage.getItem('student');
-    let studentId = null;
 
-    if (studentData) {
-      try {
-        const parsed = JSON.parse(studentData);
-        studentId = parsed.StudentID;
-      } catch (e) {
-        console.error('Failed to parse student data', e);
+  useEffect(() => {
+    const checkUserId = () => {
+      const studentData = localStorage.getItem('student');
+      let studentId = null;
+
+      if (studentData) {
+        try {
+          const parsed = JSON.parse(studentData);
+          studentId = parsed.StudentID || parsed.studentId || parsed.UserID;
+        } catch (e) {
+          console.error('Failed to parse student data', e);
+        }
       }
-    }
 
-    if (!studentId) {
-      studentId = localStorage.getItem('studentId');
-    }
+      if (!studentId) {
+        studentId = localStorage.getItem('studentId') || localStorage.getItem('userId');
+      }
 
-    if (studentId) {
-      console.log('[ChatContext] Setting StudentID:', studentId);
-      setUserId(studentId);
-    } else {
-      console.log('[ChatContext] No StudentID found in localStorage');
-    }
-  };
+      if (studentId) {
+        console.log('[ChatContext] Setting StudentID:', studentId);
+        setUserId(String(studentId));
+      } else {
+        console.log('[ChatContext] No StudentID found in localStorage');
+      }
+    };
 
-  checkUserId();
-  const interval = setInterval(checkUserId, 2000);
+    checkUserId();
+    const interval = setInterval(checkUserId, 2000);
 
-  return () => clearInterval(interval);
-}, []);
+    return () => clearInterval(interval);
+  }, []);
 
   useEffect(() => {
     if (!userId) {
@@ -218,6 +234,16 @@ useEffect(() => {
       socketRef.current = newSocket;
       newSocket.emit('register_user', { user_id: userId });
 
+      const joinAllStoredConversations = () => {
+        const conversationIds = Array.from(new Set((conversations || []).map((conv: Conversation) => conv.ConversationID).filter(Boolean)));
+        conversationIds.forEach((conversationId: string) => {
+          newSocket.emit('join_conversation', {
+            conversation_id: conversationId,
+            user_id: userId
+          });
+        });
+      };
+
       if (pendingConversationRef.current) {
         newSocket.emit('join_conversation', {
           conversation_id: pendingConversationRef.current,
@@ -230,6 +256,8 @@ useEffect(() => {
           user_id: userId
         });
       }
+
+      joinAllStoredConversations();
     });
 
     newSocket.on('disconnect', () => {
@@ -254,6 +282,11 @@ useEffect(() => {
         }).catch(console.error);
       }
 
+      fetchConversations();
+    });
+
+    newSocket.on('conversation_updated', () => {
+      console.log('[ChatContext] Conversation updated signal received');
       fetchConversations();
     });
 
