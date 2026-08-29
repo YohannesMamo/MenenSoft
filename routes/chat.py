@@ -42,6 +42,7 @@ os.makedirs(UPLOAD_DIR, exist_ok=True)
 # Online users tracking
 online_users = set()  # Store user IDs
 user_sessions = {}  # Map user ID to socket IDs
+last_seen = {}  # Map user ID to last-seen datetime (ISO string)
 
 
 def get_message_rooms(conversation_id: str, participant_ids: List[str]) -> List[str]:
@@ -198,14 +199,30 @@ def mark_as_read(conversation_id: str, user_id: str, db: Session = Depends(get_d
     return {"MarkedAsRead": read_count}
 
 @router.get("/api/chat/students")
-def get_all_students(db: Session = Depends(get_db)):
+def get_all_students(exclude_user_id: str = None, db: Session = Depends(get_db)):
+    from datetime import timedelta
     students = db.query(StudentInfo).all()
-    return [{
-        "StudentID": s.StudentID,
-        "FirstName": s.StuFirstName,
-        "LastName": s.StuLastName,
-        "DisplayName": f"{s.StuFirstName} {s.StuLastName}"
-    } for s in students]
+    result = []
+    for s in students:
+        if exclude_user_id and s.StudentID == exclude_user_id:
+            continue
+        sid = s.StudentID
+        last = last_seen.get(sid)
+        # A user is "online" if they have a live socket registered
+        is_online = sid in online_users
+        # Only show a last-seen time reflecting a real session in the past;
+        # if currently online, mark them as active now.
+        result.append({
+            "StudentID": sid,
+            "FirstName": s.StuFirstName,
+            "LastName": s.StuLastName,
+            "DisplayName": f"{s.StuFirstName} {s.StuLastName}",
+            "IsOnline": is_online,
+            "LastSeen": last or (datetime.utcnow().isoformat() + "Z" if is_online else None),
+        })
+    # Sort: online users first, then by DisplayName
+    result.sort(key=lambda r: (not r["IsOnline"], (r["DisplayName"] or "").lower()))
+    return result
 
 def init_socketio(sio):
     
@@ -223,6 +240,7 @@ def init_socketio(sio):
                 if not sids:
                     online_users.remove(user_id)
                     del user_sessions[user_id]
+                    last_seen[user_id] = datetime.utcnow().isoformat() + "Z"
                     # Notify all clients that user went offline
                     await sio.emit('user_offline', {'user_id': user_id})
                 break
@@ -389,6 +407,7 @@ def init_socketio(sio):
             user_sessions[user_id] = set()
         user_sessions[user_id].add(sid)
         online_users.add(user_id)
+        last_seen[user_id] = datetime.utcnow().isoformat() + "Z"
         
         await sio.emit('registered', {'user_id': user_id, 'sid': sid})
         # Send current online users list
