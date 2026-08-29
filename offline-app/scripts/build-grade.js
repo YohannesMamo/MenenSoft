@@ -116,23 +116,19 @@ export default config;
     fs.copyFileSync(dbFile, destDb);
     log(`Copied SQLite DB to assets (${(fs.statSync(destDb).size / 1024 / 1024).toFixed(1)} MB)`);
 
-    // ── Step 6: Copy JSON content files to assets (web fallback) ──
-    const contentDestDir = path.join(ANDROID_ASSETS, 'content', GRADE_ID);
-    if (!fs.existsSync(contentDestDir)) {
-      fs.mkdirSync(contentDestDir, { recursive: true });
-    }
-    const jsonFiles = fs.readdirSync(CONTENT_DIR).filter(f => f.endsWith('.json'));
-    for (const file of jsonFiles) {
-      fs.copyFileSync(path.join(CONTENT_DIR, file), path.join(contentDestDir, file));
-    }
-    log(`Copied ${jsonFiles.length} JSON files to assets/content/${GRADE_ID}/`);
+    // Note: The JSON content files are intentionally NOT bundled into the APK.
+    // The SQLite DB is the single source of content. Bundling the plaintext JSON
+    // would expose duplicate, unencrypted copies of the same content (notes,
+    // quizzes, exams, ESLCE) alongside the database. In the Android build the DB
+    // is copied locally via copyFromAssets() on first launch, so the JSON fallback
+    // is unnecessary and is excluded for security.
 
-    // ── Step 7: Cap sync ──
+    // ── Step 6: Cap sync ──
     log('Running Capacitor sync...');
     execSync('npx cap sync android', { cwd: FRONTEND_DIR, stdio: 'inherit', timeout: 180000 });
     log('Capacitor sync done.');
 
-    // ── Step 8: Gradle build ──
+    // ── Step 7: Gradle build ──
     log('Building APK with Gradle...');
     execSync('gradlew.bat assembleDebug', {
       cwd: path.join(FRONTEND_DIR, 'android'),
@@ -141,7 +137,7 @@ export default config;
       env: { ...process.env, JAVA_HOME },
     });
 
-    // ── Step 9: Report ──
+    // ── Step 8: Report ──
     const apkPath = path.join(FRONTEND_DIR, 'android', 'app', 'build', 'outputs', 'apk', 'debug', 'app-debug.apk');
     if (fs.existsSync(apkPath)) {
       const apkSize = fs.statSync(apkPath).size;
@@ -158,7 +154,7 @@ export default config;
     console.error(`\n  BUILD FAILED: ${e.message}\n`);
     process.exit(1);
   } finally {
-    // ── Step 10: Always restore original config ──
+    // ── Step 9: Always restore original config ──
     if (fs.existsSync(backupPath)) {
       fs.copyFileSync(backupPath, CAP_CONFIG);
       fs.unlinkSync(backupPath);
