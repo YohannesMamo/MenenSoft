@@ -20,8 +20,13 @@ UPLOAD_DIR = "uploads/chat_files"
 
 class ConversationCreate(BaseModel):
     Name: Optional[str] = None
+    CName: Optional[str] = None
     IsGroup: bool = False
     ParticipantIDs: List[str]
+
+    @property
+    def effective_name(self) -> Optional[str]:
+        return self.Name or self.CName
 
 class MessageCreate(BaseModel):
     ConversationID: str
@@ -53,18 +58,18 @@ def get_message_rooms(conversation_id: str, participant_ids: List[str]) -> List[
 
 @router.post("/api/chat/conversations")
 def create_conversation(data: ConversationCreate, db: Session = Depends(get_db)):
-    # Create conversation without manually setting UUID (let model handle it)
+    participant_ids = list(dict.fromkeys(str(user_id) for user_id in (data.ParticipantIDs or [])))
     conversation = Conversation(
-        CName=data.Name,
+        CName=data.effective_name,
         IsGroup=data.IsGroup,
         CreatedAt=datetime.now(),
-        CreatedBy=data.ParticipantIDs[0] if data.ParticipantIDs else None
+        CreatedBy=participant_ids[0] if participant_ids else None
     )
     db.add(conversation)
     db.flush()  # Flush to get the generated UUID
     
     # Add participants
-    for user_id in data.ParticipantIDs:
+    for user_id in participant_ids:
         participant = ConversationParticipant(
             CPConversationID=conversation.ConversationID,
             CPUserID=user_id,
@@ -77,9 +82,10 @@ def create_conversation(data: ConversationCreate, db: Session = Depends(get_db))
     
     return {
         "ConversationID": str(conversation.ConversationID),
-        "Name": data.Name,
+        "Name": data.effective_name,
+        "CName": data.effective_name,
         "IsGroup": data.IsGroup,
-        "ParticipantIDs": data.ParticipantIDs
+        "ParticipantIDs": participant_ids
     }
 
 @router.get("/api/chat/conversations/{user_id}")

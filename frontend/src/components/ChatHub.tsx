@@ -302,17 +302,19 @@ export const ChatHub = () => {
   const chat = useChat();
   const { userId: contextUserId } = chat;   // This should now be StudentID
 
-  const currentUserId = contextUserId || 
-                       localStorage.getItem('studentId') || 
-                       (() => {
-                         const student = localStorage.getItem('student');
-                         if (student) {
-                           try {
-                             return JSON.parse(student).StudentID;
-                           } catch {}
-                         }
-                         return null;
-                       })();
+  const currentUserId = contextUserId ||
+    localStorage.getItem('studentId') ||
+    localStorage.getItem('userId') ||
+    (() => {
+      const student = localStorage.getItem('student');
+      if (student) {
+        try {
+          const parsed = JSON.parse(student);
+          return parsed.StudentID || parsed.studentId || parsed.UserID || null;
+        } catch {}
+      }
+      return null;
+    })();
 
   console.log('[ChatHub] Context StudentID:', contextUserId);
   console.log('[ChatHub] Final currentUserId (StudentID):', currentUserId);
@@ -484,10 +486,10 @@ const loadAvailableUsers = async () => {
       const token = localStorage.getItem('token');
       
       const conversationData = {
+        Name: isCreatingGroup ? groupName || `Group Chat (${selectedUsers.length + 1})` : null,
         CName: isCreatingGroup ? groupName || `Group Chat (${selectedUsers.length + 1})` : null,
         IsGroup: isCreatingGroup && selectedUsers.length > 1,
-        ParticipantIDs: [currentUserId, ...selectedUsers],
-        CreatedAt: new Date().toISOString(),
+        ParticipantIDs: Array.from(new Set([currentUserId, ...selectedUsers]))
       };
 
       console.log('✅ Using currentUserId:', currentUserId);
@@ -500,26 +502,24 @@ const loadAvailableUsers = async () => {
       // ==================== SUCCESS HANDLING ====================
       if (res.data && res.data.ConversationID) {
         const conversations = JSON.parse(localStorage.getItem('conversations') || '[]');
-        
+
         const newConversation = {
           ...res.data,
-          Participants: [currentUserId, ...selectedUsers],
+          Participants: Array.from(new Set([currentUserId, ...selectedUsers])),
           CreatedAt: new Date().toISOString()
         };
-        
+
         conversations.push(newConversation);
         localStorage.setItem('conversations', JSON.stringify(conversations));
 
-        // Close modal using your existing handler
         handleModalClose();
-
         await fetchConversations();
-        ParticipantIDs: [currentUserId, ...selectedUsers];
+
         const newConv = {
           ConversationID: res.data.ConversationID,
           CName: res.data.Name || res.data.CName,
           IsGroup: res.data.IsGroup,
-          Participants: res.data.ParticipantIDs || [currentUserId, ...selectedUsers],
+          Participants: res.data.ParticipantIDs || Array.from(new Set([currentUserId, ...selectedUsers])),
         };
 
         selectConversation(newConv);
@@ -542,6 +542,7 @@ const loadAvailableUsers = async () => {
   // ===== Select Room =====
   const handleSelectRoom = (conv: any) => {
     if (!conv || !conv.ConversationID) return;
+    setSelectedUsers([]);
     selectConversation(conv);
   };
 
