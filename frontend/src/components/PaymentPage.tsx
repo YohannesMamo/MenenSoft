@@ -15,8 +15,8 @@ import {
 } from 'lucide-react';
 
 const PLANS = [
-  { id: 'yearly', label: 'Yearly', price: '1,350', priceNum: 1350, badge: 'Best Value' },
-  { id: 'monthly', label: 'Monthly', price: '110', priceNum: 110, badge: null },
+  { id: 'yearly', label: 'Yearly', price: '1,550', priceNum: 1550, badge: 'Best Value' },
+  { id: 'monthly', label: 'Monthly', price: 'See Yearly', priceNum: 'See Yearly', badge: null },
 ];
 
 const PaymentPage = () => {

@@ -8,6 +8,7 @@ interface LetterGrade { grade: string; min: number; color: string; label: string
 
 interface SubjectStudy {
   subject: string; sectionsStudied: number; sectionsCompleted: number;
+  gradeTotalSections?: number;
   completionRate: number; studyMinutes: number; textbookCount: number;
 }
 interface SubjectQuiz {
@@ -35,6 +36,7 @@ interface ReportData {
   reportGeneratedAt: string;
   study: {
     totalSessions: number; totalSectionsStudied: number; totalSectionsCompleted: number;
+    gradeTotalSections?: number; targetStudyHours?: number;
     totalStudyHours: number; totalStudyMinutes: number; textbookCount: number;
     textbooksStudied: string[]; averageSessionMinutes: number; completionRate: number;
     description: string; bySubject: SubjectStudy[];
@@ -363,7 +365,7 @@ export default function DetailedReportPage() {
               <p className="text-xs text-gray-500">Sessions</p>
             </div>
             <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-3 text-center">
-              <p className="text-2xl font-black text-indigo-600">{report.study.totalSectionsCompleted}/{report.study.totalSectionsStudied}</p>
+              <p className="text-2xl font-black text-indigo-600">{report.study.totalSectionsCompleted}/{report.study.gradeTotalSections ?? report.study.totalSectionsStudied}</p>
               <p className="text-xs text-gray-500">Sections Done</p>
             </div>
             <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-3 text-center">
