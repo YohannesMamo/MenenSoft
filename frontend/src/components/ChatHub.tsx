@@ -10,6 +10,8 @@ import axios from 'axios';
 interface Student {
   StudentID: string;
   DisplayName: string;
+  IsOnline?: boolean;
+  LastSeen?: string | null;
 }
 
 interface Message {
@@ -62,8 +64,17 @@ const ConversationItem = ({
   );
 };
 
-// ===================== ONLINE USER ITEM COMPONENT =====================
-const OnlineUserItem = ({ user, onClick }: { user: Student; onClick: () => void }) => {
+// ===================== STUDENT ITEM COMPONENT =====================
+const formatLastSeen = (iso?: string | null): string => {
+  if (!iso) return 'Offline';
+  const diff = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (diff < 60) return 'Active just now';
+  if (diff < 3600) return `Active ${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400) return `Active ${Math.floor(diff / 3600)}h ago`;
+  return `Active ${Math.floor(diff / 86400)}d ago`;
+};
+
+const OnlineUserItem = ({ user, isOnline, lastSeen, onClick }: { user: Student; isOnline: boolean; lastSeen?: string | null; onClick: () => void }) => {
   return (
     <button
       onClick={onClick}
@@ -73,11 +84,14 @@ const OnlineUserItem = ({ user, onClick }: { user: Student; onClick: () => void 
         <div className="w-10 h-10 rounded-2xl bg-white/10 flex items-center justify-center text-lg font-bold group-hover:bg-indigo-600 transition-colors">
           {user.DisplayName[0]?.toUpperCase()}
         </div>
-        <div className="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 bg-emerald-500 rounded-full border-2 border-slate-900" />
+        {isOnline && <div className="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 bg-emerald-500 rounded-full border-2 border-slate-900" />}
+        {!isOnline && <div className="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 bg-slate-500 rounded-full border-2 border-slate-900" />}
       </div>
-      <div className="text-left">
-        <p className="font-semibold tracking-tight">{user.DisplayName}</p>
-        <p className="text-xs opacity-50">Student</p>
+      <div className="text-left min-w-0">
+        <p className="font-semibold tracking-tight truncate">{user.DisplayName}</p>
+        <p className={`text-xs ${isOnline ? 'text-emerald-400' : 'opacity-50'}`}>
+          {isOnline ? 'Online now' : formatLastSeen(lastSeen)}
+        </p>
       </div>
     </button>
   );
@@ -309,6 +323,7 @@ export const ChatHub = () => {
     messages: contextMessages,
     loading,
     onlineUsers,
+    lastSeenByUser,
     selectConversation,
     sendMessage,
     uploadFile,
@@ -325,6 +340,7 @@ export const ChatHub = () => {
   const [groupName, setGroupName] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
   const [newChatSearch, setNewChatSearch] = useState('');
+  const [studentsSearch, setStudentsSearch] = useState('');
   const [isLoadingUsers, setIsLoadingUsers] = useState(false);
   const [isUploading, setIsUploading] = useState(false);
 
@@ -550,6 +566,23 @@ const filteredUsers = useMemo(() => {
   );
 }, [availableUsers, newChatSearch]);
 
+// Students for the side panel: merge live presence, sort online-first, filter by search
+const panelStudents = useMemo(() => {
+  if (!Array.isArray(availableUsers)) return [];
+  const query = studentsSearch.toLowerCase();
+  return availableUsers
+    .map(user => ({
+      ...user,
+      IsOnline: onlineUsers instanceof Set ? onlineUsers.has(user.StudentID) : !!user.IsOnline,
+      LastSeen: lastSeenByUser[user.StudentID] || user.LastSeen || null,
+    }))
+    .filter(user => (user?.DisplayName || '').toLowerCase().includes(query))
+    .sort((a, b) => {
+      if (a.IsOnline !== b.IsOnline) return a.IsOnline ? -1 : 1;
+      return (a.DisplayName || '').localeCompare(b.DisplayName || '');
+    });
+}, [availableUsers, studentsSearch, onlineUsers, lastSeenByUser]);
+
   // ===== RENDER =====
   return (
     <div className="flex h-[calc(100vh-64px)] bg-slate-100 dark:bg-gray-900 gap-6 p-6 overflow-hidden">
@@ -629,35 +662,50 @@ const filteredUsers = useMemo(() => {
           </div>
         </div>
 
-        {/* Online Students */}
+        {/* Students */}
         <div className="bg-slate-900 rounded-3xl p-6 text-white shadow-2xl h-80 flex flex-col overflow-hidden relative">
           <div className="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500 rounded-full blur-3xl opacity-10 pointer-events-none" />
           <div className="relative z-10 flex flex-col h-full">
-            <div className="flex items-center gap-2 mb-6">
-              <Users className="w-5 h-5 text-indigo-400" />
-              <h3 className="text-xs font-black uppercase tracking-widest opacity-70">Online Students</h3>
+            <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center gap-2">
+                <Users className="w-5 h-5 text-indigo-400" />
+                <h3 className="text-xs font-black uppercase tracking-widest opacity-70">
+                  Students <span className="text-emerald-400">({panelStudents.filter(s => s.IsOnline).length} online)</span>
+                </h3>
+              </div>
             </div>
 
-            <div className="flex-1 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 space-y-2">
-              {Array.from(onlineUsers).filter(id => id !== currentUserId).length === 0 ? (
-                <div className="text-center text-white/50 py-10">No other students online</div>
+            <div className="relative z-10 mb-3">
+              <input
+                value={studentsSearch}
+                onChange={(e) => setStudentsSearch(e.target.value)}
+                placeholder="Search students..."
+                className="w-full px-3 py-2 rounded-xl bg-white/10 border border-white/10 text-sm placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-indigo-500/50"
+              />
+            </div>
+
+            <div className="flex-1 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 space-y-1">
+              {panelStudents.length === 0 ? (
+                <div className="text-center text-white/50 py-10">No students found</div>
               ) : (
-                Array.from(onlineUsers)
-                  .filter(id => id !== currentUserId)
-                  .map(userId => {
-                    const user = availableUsers.find(u => u.StudentID === userId);
-                    if (!user) return null;
-                    return <OnlineUserItem key={userId} user={user} onClick={() => {
-                      const existing = conversations.find(c => 
-                        !c.IsGroup && c.Participants?.includes(userId) && c.Participants?.includes(currentUserId)
+                panelStudents.map(user => (
+                  <OnlineUserItem
+                    key={user.StudentID}
+                    user={user}
+                    isOnline={!!user.IsOnline}
+                    lastSeen={user.LastSeen}
+                    onClick={() => {
+                      const existing = conversations.find(c =>
+                        !c.IsGroup && c.Participants?.includes(user.StudentID) && c.Participants?.includes(currentUserId)
                       );
                       if (existing) handleSelectRoom(existing);
                       else {
                         setShowNewChatModal(true);
-                        setSelectedUsers([userId]);
+                        setSelectedUsers([user.StudentID]);
                       }
-                    }} />;
-                  })
+                    }}
+                  />
+                ))
               )}
             </div>
           </div>
