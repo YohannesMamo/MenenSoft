@@ -35,6 +35,7 @@ interface ChatContextType {
   socket: Socket | null;
   userId: string | null;
   onlineUsers: Set<string>;
+  lastSeenByUser: Record<string, string>;
   selectConversation: (conv: Conversation) => void;
   joinConversation: (conversationId: string) => void;
   fetchConversations: () => Promise<void>;
@@ -56,6 +57,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
   const [socket, setSocket] = useState<Socket | null>(null);
   const [userId, setUserId] = useState<string | null>(null);
   const [onlineUsers, setOnlineUsers] = useState<Set<string>>(new Set());
+  const [lastSeenByUser, setLastSeenByUser] = useState<Record<string, string>>({});
 
   useEffect(() => {
     selectedConversationRef.current = selectedConversation;
@@ -272,6 +274,7 @@ useEffect(() => {
     newSocket.on('user_online', (data: { user_id: string }) => {
       console.log('[ChatContext] User came online:', data.user_id);
       setOnlineUsers(prev => new Set(prev).add(data.user_id));
+      setLastSeenByUser(prev => ({ ...prev, [data.user_id]: new Date().toISOString() }));
     });
 
     newSocket.on('user_offline', (data: { user_id: string }) => {
@@ -281,12 +284,21 @@ useEffect(() => {
         newSet.delete(data.user_id);
         return newSet;
       });
+      setLastSeenByUser(prev => ({ ...prev, [data.user_id]: new Date().toISOString() }));
     });
+
+    // Heartbeat: keep this tab registered as online and refresh last_seen server-side
+    const heartbeat = setInterval(() => {
+      if (newSocket.connected && userId) {
+        newSocket.emit('register_user', { user_id: userId });
+      }
+    }, 30000);
 
     setSocket(newSocket);
     socketRef.current = newSocket;
 
     return () => {
+      clearInterval(heartbeat);
       if (socketRef.current === newSocket) {
         socketRef.current = null;
       }
@@ -324,6 +336,7 @@ useEffect(() => {
       socket,
       userId,
       onlineUsers,
+      lastSeenByUser,
       selectConversation,
       joinConversation,
       fetchConversations,
