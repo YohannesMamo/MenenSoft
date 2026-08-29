@@ -208,7 +208,9 @@ export default function OfflineStudyPage() {
             {studyMode === 'slides' && (
               <div className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow">
                 {presentations.length > 0 ? (
-                  <SlidesPlayer title={selectedSection.title} slides={presentations} />
+                  <div className="h-[65vh] overflow-hidden rounded-lg">
+                    <SlidesPlayer title={selectedSection.title} slides={presentations} />
+                  </div>
                 ) : (
                   <p className="text-gray-500 italic">No slides available for this section.</p>
                 )}
