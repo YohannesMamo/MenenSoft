@@ -83,7 +83,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
       setConversations(res.data);
 
       if (socketRef.current?.connected && userId) {
-        const uniqueConversationIds = Array.from(new Set((res.data || []).map((conv: Conversation) => conv.ConversationID).filter(Boolean)));
+        const uniqueConversationIds = Array.from(new Set((res.data as Conversation[] || []).map((conv: Conversation) => conv.ConversationID).filter(Boolean))) as string[];
         uniqueConversationIds.forEach((conversationId: string) => {
           socketRef.current?.emit('join_conversation', {
             conversation_id: conversationId,
@@ -142,9 +142,29 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
   const sendMessage = async (conversationId: string, content: string, fileUrl?: string) => {
     if (!socket || !userId) {
+      console.error('[ChatContext] Socket not connected or userId missing', { socket: !!socket, userId });
       throw new Error('Socket is not connected or userId is missing');
     }
 
+    console.log('[ChatContext] Sending message:', { conversationId, contentLength: content.length, fileUrl, socket_id: socket.id, socket_connected: socket.connected });
+
+    // Create optimistic message object for immediate UI display
+    const tempMessageId = `temp_${Date.now()}_${Math.random()}`;
+    const optimisticMessage: Message = {
+      MessageID: tempMessageId,
+      MConversationID: conversationId,
+      SenderID: userId,
+      MContent: content,
+      SentAt: new Date().toISOString(),
+      IsRead: false,
+      FileURL: fileUrl
+    };
+
+    // Add to state immediately (optimistic update)
+    console.log('[ChatContext] Adding optimistic message:', tempMessageId);
+    setMessages((prev) => [...prev, optimisticMessage]);
+
+    // Send via Socket.IO
     const payload: any = {
       conversation_id: conversationId,
       sender_id: userId,
@@ -153,8 +173,90 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
     if (fileUrl) payload.file_url = fileUrl;
 
-    socket.emit('send_message', payload);
-    return payload;
+    return new Promise<Message>((resolve, reject) => {
+      let resolved = false;
+
+      // Set up listener for server confirmation (success)
+      const handleMessageSent = (data: any) => {
+        if (resolved) return;
+        resolved = true;
+        console.log('[ChatContext] message_sent received from server:', data);
+        
+        if (data.success && data.message) {
+          console.log('[ChatContext] Message confirmed, replacing temp ID with real ID');
+          // Replace temp message with server's confirmed message
+          setMessages((prev) =>
+            prev.map((msg) =>
+              msg.MessageID === tempMessageId 
+                ? { 
+                    ...msg, 
+                    MessageID: data.message.MessageID,
+                    SentAt: data.message.SentAt || msg.SentAt
+                  } 
+                : msg
+            )
+          );
+          resolve(data.message);
+        } else {
+          console.error('[ChatContext] message_sent but no success flag');
+          throw new Error('Server did not confirm message');
+        }
+      };
+
+      // Set up listener for server errors
+      const handleSocketError = (data: any) => {
+        if (resolved) return;
+        resolved = true;
+        console.error('[ChatContext] Socket error event:', data);
+        
+        // Remove failed optimistic message
+        setMessages((prev) => prev.filter((msg) => msg.MessageID !== tempMessageId));
+        
+        const errorMsg = data?.message || 'Failed to send message';
+        reject(new Error(errorMsg));
+      };
+
+      // Listen for confirmation or error - use once since we expect exactly one response
+      socket?.once('message_sent', handleMessageSent);
+      socket?.once('error', handleSocketError);
+
+      // Emit the message
+      console.log('[ChatContext] Emitting send_message event with payload:', payload);
+      socket?.emit('send_message', payload);
+
+      // Timeout after 20 seconds - gives backend time to process
+      const timeoutId = setTimeout(() => {
+        if (resolved) return;
+        resolved = true;
+        
+        console.error('[ChatContext] Message send timeout after 20s');
+        socket?.off('message_sent', handleMessageSent);
+        socket?.off('error', handleSocketError);
+        
+        // Remove optimistic message if no confirmation
+        setMessages((prev) => prev.filter((msg) => msg.MessageID !== tempMessageId));
+        
+        reject(new Error('Message send timeout - no response from server after 20 seconds'));
+      }, 20000);
+
+      // Clear timeout if message is confirmed
+      const origResolve = resolve;
+      const origReject = reject;
+      
+      resolve = ((msg: Message) => {
+        clearTimeout(timeoutId);
+        socket?.off('message_sent', handleMessageSent);
+        socket?.off('error', handleSocketError);
+        origResolve(msg);
+      }) as any;
+      
+      reject = ((err: Error) => {
+        clearTimeout(timeoutId);
+        socket?.off('message_sent', handleMessageSent);
+        socket?.off('error', handleSocketError);
+        origReject(err);
+      }) as any;
+    });
   };
   const markAsRead = async (conversationId: string) => {
     if (!userId) return;
@@ -268,20 +370,49 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
       console.log('[ChatContext] New message received:', data);
 
       const activeConversationId = selectedConversationRef.current?.ConversationID;
+      
+      // Handle message from any sender (including self)
       if (activeConversationId === data.MConversationID) {
         setMessages((prev) => {
-          if (prev.some((msg) => msg.MessageID === data.MessageID)) {
+          // Check if message already exists (avoid duplicates)
+          const isDuplicate = prev.some((msg) => msg.MessageID === data.MessageID);
+          
+          if (isDuplicate) {
+            console.log('[ChatContext] Message already in list, skipping duplicate');
             return prev;
           }
-          return [...prev, data];
+
+          // Remove any temp message with matching content from same sender
+          // (optimistic message that's being replaced by server's confirmed message)
+          let filtered = prev;
+          if (data.SenderID === userId) {
+            filtered = prev.filter((msg) => {
+              const isTemp = msg.MessageID.startsWith('temp_');
+              const sameContent = msg.MContent === data.MContent;
+              if (isTemp && sameContent && msg.SenderID === data.SenderID) {
+                console.log('[ChatContext] Removing temporary message, replaced by server confirmation');
+                return false;  // Remove temp message
+              }
+              return true;
+            });
+          }
+
+          console.log('[ChatContext] Adding message to active conversation');
+          return [...filtered, data];
         });
 
-        axios.post(`/api/chat/conversations/${data.MConversationID}/read`, {}, {
-          params: { user_id: userId },
-          headers: { Authorization: `Bearer ${localStorage.getItem('token')}` }
-        }).catch(console.error);
+        // Mark messages as read for current user (but not for sender's own messages)
+        if (data.SenderID !== userId) {
+          axios.post(`/api/chat/conversations/${data.MConversationID}/read`, {}, {
+            params: { user_id: userId },
+            headers: { Authorization: `Bearer ${localStorage.getItem('token')}` }
+          }).catch(console.error);
+        }
+      } else {
+        console.log('[ChatContext] Message is for different conversation, not updating current view');
       }
 
+      // Always update conversation list (for last message preview, etc.)
       fetchConversations();
     });
 
@@ -293,6 +424,11 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     newSocket.on('message_notification', (data: any) => {
       console.log('[ChatContext] Message notification:', data);
       fetchConversations();
+    });
+
+    newSocket.on('error', (data: any) => {
+      console.error('[ChatContext] Socket.IO error:', data);
+      // Errors are handled in sendMessage's error listener
     });
 
     newSocket.on('user_typing', (data: any) => {

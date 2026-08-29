@@ -345,6 +345,7 @@ export const ChatHub = () => {
   const [studentsSearch, setStudentsSearch] = useState('');
   const [isLoadingUsers, setIsLoadingUsers] = useState(false);
   const [isUploading, setIsUploading] = useState(false);
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
   // ===== Refs =====
   const fileInputRef = useRef<HTMLInputElement>(null);
@@ -423,29 +424,60 @@ const loadAvailableUsers = async () => {
   // ===== Send Message =====
   const handleSendMessage = async (e?: React.FormEvent) => {
     if (e) e.preventDefault();
-    if ((!newMessage.trim() && !selectedFile) || !selectedConversation || !currentUserId) return;
+    
+    setErrorMessage(null);
+    
+    // Validate prerequisites
+    if (!selectedConversation || !currentUserId) {
+      const msg = 'Cannot send message: Missing conversation or user ID';
+      console.warn(msg);
+      setErrorMessage(msg);
+      return;
+    }
+    
+    // Validate message content
+    const trimmedMessage = newMessage.trim();
+    if (!trimmedMessage && !selectedFile) {
+      const msg = 'Message cannot be empty. Please type a message or select a file.';
+      console.warn(msg);
+      setErrorMessage(msg);
+      return;
+    }
 
     let fileUrl = undefined;
+
+    // Upload file if selected
     if (selectedFile && fileInputRef.current?.files?.[0]) {
       setIsUploading(true);
       try {
         const result = await uploadFile(fileInputRef.current.files[0]);
         fileUrl = result.FileURL;
+        console.log('File uploaded successfully:', fileUrl);
       } catch (err) {
-        console.error(err);
+        console.error('File upload failed:', err);
+        const errorMsg = err instanceof Error ? err.message : 'File upload failed. Please try again.';
+        setErrorMessage(errorMsg);
+        setIsUploading(false);
+        return;
       }
       setIsUploading(false);
     }
 
+    // Send message
     try {
-      await sendMessage(selectedConversation.ConversationID, newMessage.trim(), fileUrl);
+      await sendMessage(selectedConversation.ConversationID, trimmedMessage, fileUrl);
+      console.log('Message sent successfully');
+      
+      // Clear form after successful send
+      setNewMessage('');
+      setSelectedFile(null);
+      if (fileInputRef.current) fileInputRef.current.value = '';
     } catch (error) {
       console.error('Failed to send message:', error);
+      const errorMsg = error instanceof Error ? error.message : 'Failed to send message. Please try again.';
+      setErrorMessage(errorMsg);
+      // Message stays in input for user to retry
     }
-
-    setNewMessage('');
-    setSelectedFile(null);
-    if (fileInputRef.current) fileInputRef.current.value = '';
   };
 
   // ===== File Handling =====
@@ -590,7 +622,7 @@ const panelStudents = useMemo(() => {
       {/* Left Sidebar */}
       <div className="w-80 flex flex-col gap-6 h-full">
         {/* Conversations List */}
-        <div className="bg-white dark:bg-gray-800 rounded-3xl p-6 border border-slate-200 dark:border-gray-700 shadow-sm flex-1 flex flex-col overflow-hidden">
+        <div className="bg-white dark:bg-gray-800 rounded-3xl p-6 border border-slate-200 dark:border-gray-700 shadow-sm flex-[7] min-h-0 flex flex-col overflow-hidden">
           {/* Header */}
           <div className="flex items-center justify-between mb-6 px-2">
             <div className="flex items-center gap-2">
@@ -620,7 +652,7 @@ const panelStudents = useMemo(() => {
           </div>
 
           {/* Conversation List */}
-          <div className="flex-1 overflow-y-auto pr-2 space-y-1 scrollbar-thin scrollbar-thumb-slate-200">
+          <div className="flex-1 min-h-0 overflow-y-auto pr-2 space-y-1 scrollbar-thin scrollbar-thumb-slate-200">
             {filteredConversations.length === 0 ? (
               <div className="text-center py-12 text-slate-400 dark:text-slate-500">No conversations yet</div>
             ) : (
@@ -664,7 +696,7 @@ const panelStudents = useMemo(() => {
         </div>
 
         {/* Students */}
-        <div className="bg-slate-900 rounded-3xl p-6 text-white shadow-2xl h-80 flex flex-col overflow-hidden relative">
+        <div className="bg-slate-900 rounded-3xl p-6 text-white shadow-2xl flex-[3] min-h-0 flex flex-col overflow-hidden relative">
           <div className="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500 rounded-full blur-3xl opacity-10 pointer-events-none" />
           <div className="relative z-10 flex flex-col h-full">
             <div className="flex items-center justify-between mb-3">
@@ -685,7 +717,7 @@ const panelStudents = useMemo(() => {
               />
             </div>
 
-            <div className="flex-1 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 space-y-1">
+            <div className="flex-1 min-h-0 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 space-y-1">
               {panelStudents.length === 0 ? (
                 <div className="text-center text-white/50 py-10">No students found</div>
               ) : (
@@ -794,6 +826,21 @@ const panelStudents = useMemo(() => {
                     className="text-slate-400 hover:text-red-500 p-1"
                   >
                     <X className="w-5 h-5" />
+                  </button>
+                </div>
+              )}
+              {errorMessage && (
+                <div className="bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-2xl p-3 flex items-start gap-3">
+                  <div className="text-red-600 dark:text-red-400 font-bold text-lg leading-none mt-0.5">⚠️</div>
+                  <div>
+                    <p className="text-sm font-semibold text-red-800 dark:text-red-200">Message Error</p>
+                    <p className="text-xs text-red-700 dark:text-red-300 mt-1">{errorMessage}</p>
+                  </div>
+                  <button
+                    onClick={() => setErrorMessage(null)}
+                    className="text-red-400 hover:text-red-600 ml-auto flex-shrink-0 mt-0.5"
+                  >
+                    <X className="w-4 h-4" />
                   </button>
                 </div>
               )}
