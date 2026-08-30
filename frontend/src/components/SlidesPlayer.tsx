@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { ChevronLeft, ChevronRight, Play, Pause, Maximize2, Minimize2, MonitorPlay } from 'lucide-react';
 import { ChemicalText } from '../lib/chemical';
 
@@ -21,52 +21,91 @@ interface SlidesPlayerProps {
   isCompleted?: boolean;
 }
 
-// Full screen slides player that takes the center study column.
-// Slides are the primary alternative to reading the textbook PDF.
-const SlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, onFinish, isCompleted }) => {
+// Content is one point per line — render as a bullet list.
+function parseContent(text: string): string[] {
+  if (!text) return [];
+  return text.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
+}
+
+// Delay (ms) between each successive fade-in within a slide.
+const REVEAL_OFFSET = 350;
+
+const FullScreenSlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, onFinish, isCompleted }) => {
   const [current, setCurrent] = useState(0);
   const [isPlaying, setIsPlaying] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
+  const [revealed, setRevealed] = useState<string[]>([]);
+  const [isDone, setIsDone] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
   const total = slides.length;
 
-  useEffect(() => setCurrent(0), [slides]);
+  const slide = slides[current];
+  const content = slide?.basicPresentation || slide?.advancedPresentation || slide?.aiPresentation || '';
+  const hasNotes = !!slide?.notes;
 
-  // Optional timed auto-advance when playing.
+  // Steps that will reveal in order on this slide.
+  const steps = useMemo(() => {
+    if (!slide) return [];
+    return hasNotes ? ['title', 'content', 'notes'] : ['title', 'content'];
+  }, [slide, hasNotes]);
+
+  useEffect(() => { setCurrent(0); setIsDone(false); }, [slides]);
+
+  // Reset on slide change.
   useEffect(() => {
-    if (!isPlaying || total === 0) return;
-    const duration = (slides[current]?.durationSeconds || 10) * 1000;
-    const t = setTimeout(() => {
-      if (current < total - 1) {
-        setCurrent(c => c + 1);
-      } else {
-        setIsPlaying(false);
-        onFinish?.();
-      }
-    }, duration);
-    return () => clearTimeout(t);
-  }, [isPlaying, current, slides, total, onFinish]);
+    setRevealed([]);
+    setIsDone(false);
+    setIsPlaying(prev => prev && true);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [current, slide?.slideId]);
 
-  // Keyboard navigation while slides mode is active.
+  // Sequential fade-in: title, then content, then notes appear one at a time.
+  useEffect(() => {
+    const timers: ReturnType<typeof setTimeout>[] = [];
+    if (steps.length > 0) {
+      steps.forEach((s, i) => {
+        timers.push(setTimeout(() => {
+          setRevealed(prev => prev.includes(s) ? prev : [...prev, s]);
+        }, i * REVEAL_OFFSET));
+      });
+    }
+    return () => timers.forEach(clearTimeout);
+  }, [current, steps]);
+
+  // Auto-advance timer (starts after the reveal sequence so each build is seen).
+  useEffect(() => {
+    if (!isPlaying || steps.length === 0) return;
+    const t = setTimeout(() => {
+      if (current < total - 1) setCurrent(c => c + 1);
+      else { setIsPlaying(false); setIsDone(true); onFinish?.(); }
+    }, (slide?.durationSeconds || 10) * 1000);
+    return () => clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isPlaying, current, steps.length]);
+
+  // Keyboard navigation.
   useEffect(() => {
     const handleKey = (e: KeyboardEvent) => {
-      if (e.key === 'ArrowLeft') setCurrent(c => Math.max(0, c - 1));
-      else if (e.key === 'ArrowRight') setCurrent(c => Math.min(total - 1, c + 1));
+      if (e.key === 'ArrowLeft') goPrev();
+      else if (e.key === 'ArrowRight') gotoNext();
       else if (e.key === ' ') { e.preventDefault(); gotoNext(); }
     };
     window.addEventListener('keydown', handleKey);
     return () => window.removeEventListener('keydown', handleKey);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [total, current]);
+  }, [current, steps.length]);
 
   const gotoNext = () => {
     if (current >= total - 1) {
       setIsPlaying(false);
+      setIsDone(true);
       onFinish?.();
     } else {
       setCurrent(c => c + 1);
     }
   };
+
+  const goPrev = () => setCurrent(c => Math.max(0, c - 1));
 
   const toggleFullscreen = () => {
     if (!document.fullscreenElement) {
@@ -74,6 +113,12 @@ const SlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, onFinish, is
     } else {
       document.exitFullscreen?.().then(() => setIsFullscreen(false)).catch(() => {});
     }
+  };
+
+  const fade = (active: boolean) => {
+    return active
+      ? 'opacity-100 translate-y-0'
+      : 'opacity-0 translate-y-2';
   };
 
   if (total === 0) {
@@ -85,13 +130,16 @@ const SlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, onFinish, is
     );
   }
 
-  const slide = slides[current];
-  const content = slide?.basicPresentation || slide?.advancedPresentation || slide?.aiPresentation || '';
+  const bodyPad = isFullscreen ? 'p-8 lg:p-16' : 'p-6 lg:p-10';
+  const cardMax = isFullscreen ? '' : 'max-w-4xl';
+  const titleSize = isFullscreen ? 'text-3xl lg:text-5xl' : 'text-lg lg:text-2xl';
+  const contentSize = isFullscreen ? 'text-xl lg:text-3xl' : 'text-base';
+  const notesSize = isFullscreen ? 'text-base lg:text-xl' : 'text-sm';
 
   return (
     <div ref={containerRef} className="flex flex-col h-full bg-slate-100 dark:bg-gray-900">
       {/* Slides top bar */}
-      <div className="flex items-center justify-between px-4 py-2 bg-gradient-to-r from-purple-500 to-indigo-600 text-white">
+      <div className="flex items-center justify-between px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 text-white">
         <div className="flex items-center gap-2 min-w-0">
           <MonitorPlay className="h-4 w-4 shrink-0" />
           <span className="font-medium text-sm truncate">{title}</span>
@@ -110,19 +158,44 @@ const SlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, onFinish, is
         </div>
       </div>
 
-      {/* Slide body */}
-      <div className="flex-1 overflow-auto p-6 lg:p-10">
-        <div className="max-w-4xl mx-auto bg-white dark:bg-gray-800 rounded-2xl shadow-xl border border-slate-200 dark:border-gray-700 p-6 lg:p-10 min-h-[300px]">
-          {slide?.slideTitle && (
-            <h3 className="text-lg lg:text-xl font-bold text-indigo-700 dark:text-indigo-300 mb-4">{slide.slideTitle}</h3>
-          )}
-          <p className="text-slate-700 dark:text-gray-300 text-sm lg:text-base whitespace-pre-wrap leading-relaxed">
-            <ChemicalText text={content || 'No slide content available.'} />
-          </p>
-          {slide?.notes && (
-            <div className="mt-6 pt-4 border-t border-slate-200 dark:border-gray-700">
-              <p className="text-xs font-semibold uppercase tracking-wide text-slate-400 mb-2">Speaker Notes</p>
-              <p className="text-slate-500 dark:text-slate-400 text-sm whitespace-pre-wrap"><ChemicalText text={slide.notes} /></p>
+      {/* Slide body — blank until Title/Content/Notes fade in sequentially */}
+      <div className={`flex-1 overflow-auto ${bodyPad}`}>
+        <div className={`mx-auto bg-white dark:bg-gray-800 rounded-2xl shadow-xl border border-slate-200 dark:border-gray-700 ${bodyPad} min-h-[320px] ${cardMax}`}>
+          {/* Title: white text on blue */}
+          <div className={`transition-opacity duration-500 ease-out ${fade(revealed.includes('title'))}`}>
+            <div className={`rounded-xl bg-blue-600 text-white px-6 py-5 mb-5 ${titleSize}`}>
+              <h3 className="font-bold leading-snug">
+                <ChemicalText text={slide?.slideTitle || 'Untitled Slide'} />
+              </h3>
+            </div>
+          </div>
+
+          {/* Content: black text on white */}
+          <div className={`transition-opacity duration-500 ease-out ${fade(revealed.includes('content'))}`}>
+            <div className="rounded-xl bg-white text-gray-900 px-2">
+              {content ? (
+                <ul className="space-y-2.5 list-disc pl-5">
+                  {parseContent(content).map((line, i) => (
+                    <li key={i} className={`leading-relaxed ${contentSize}`}>
+                      <ChemicalText text={line} />
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="text-slate-500 text-base">No slide content available.</p>
+              )}
+            </div>
+          </div>
+
+          {/* Notes: white text on emerald */}
+          {hasNotes && (
+            <div className={`mt-5 transition-opacity duration-500 ease-out ${fade(revealed.includes('notes'))}`}>
+              <div className="rounded-xl bg-emerald-600 text-white px-5 py-4">
+                <p className={`font-semibold mb-1 ${notesSize}`}>Notes</p>
+                <p className={`leading-relaxed ${notesSize}`}>
+                  <ChemicalText text={slide?.notes || ''} />
+                </p>
+              </div>
             </div>
           )}
         </div>
@@ -131,7 +204,7 @@ const SlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, onFinish, is
       {/* Bottom navigation */}
       <div className="flex items-center justify-between px-6 py-3 bg-white dark:bg-gray-800 border-t border-slate-200 dark:border-gray-700">
         <button
-          onClick={() => setCurrent(c => Math.max(0, c - 1))}
+          onClick={goPrev}
           disabled={current === 0}
           className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl border border-slate-300 dark:border-gray-600 text-sm font-medium disabled:opacity-40 hover:bg-slate-100 dark:hover:bg-gray-700 transition-colors"
         >
@@ -142,20 +215,20 @@ const SlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, onFinish, is
             <button
               key={s.slideId || i}
               onClick={() => setCurrent(i)}
-              className={`h-2 rounded-full transition-all ${i === current ? 'w-6 bg-indigo-600' : 'w-2 bg-slate-300 dark:bg-gray-600 hover:bg-slate-400'}`}
+              className={`h-2 rounded-full transition-all ${i === current ? 'w-6 bg-blue-600' : 'w-2 bg-slate-300 dark:bg-gray-600 hover:bg-slate-400'}`}
               title={`Slide ${i + 1}`}
             />
           ))}
         </div>
         <button
           onClick={gotoNext}
-          className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-indigo-600 text-white text-sm font-semibold hover:bg-indigo-700 transition-colors"
+          className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700 transition-colors"
         >
-          {current >= total - 1 ? (isCompleted ? 'Done' : 'Finish') : <>Next <ChevronRight className="h-4 w-4" /></>}
+          {current >= total - 1 ? (isCompleted || isDone ? 'Done' : 'Finish') : <>Next <ChevronRight className="h-4 w-4" /></>}
         </button>
       </div>
     </div>
   );
 };
 
-export default SlidesPlayer;
+export default FullScreenSlidesPlayer;
