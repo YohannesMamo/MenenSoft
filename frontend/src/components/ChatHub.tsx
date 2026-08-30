@@ -343,6 +343,7 @@ export const ChatHub = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [newChatSearch, setNewChatSearch] = useState('');
   const [studentsSearch, setStudentsSearch] = useState('');
+  const [leftTab, setLeftTab] = useState<'channels' | 'students'>('channels');
   const [isLoadingUsers, setIsLoadingUsers] = useState(false);
   const [isUploading, setIsUploading] = useState(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
@@ -620,48 +621,91 @@ const panelStudents = useMemo(() => {
   return (
     <div className="flex h-[calc(100vh-64px)] bg-slate-100 dark:bg-gray-900 gap-6 p-6 overflow-hidden">
       {/* Left Sidebar */}
-      <div className="w-80 flex flex-col gap-6 h-full">
-        {/* Conversations List */}
-        <div className="bg-white dark:bg-gray-800 rounded-3xl p-6 border border-slate-200 dark:border-gray-700 shadow-sm flex-[7] min-h-0 flex flex-col overflow-hidden">
-          {/* Header */}
-          <div className="flex items-center justify-between mb-6 px-2">
-            <div className="flex items-center gap-2">
-              <MessageSquare className="w-5 h-5 text-indigo-600 dark:text-indigo-400" />
-              <h3 className="text-xs font-black uppercase tracking-widest text-slate-800 dark:text-white">Study Channels</h3>
-            </div>
-            <button
-              onClick={() => setShowNewChatModal(true)}
-              className="p-2 hover:bg-slate-100 dark:hover:bg-gray-700 rounded-xl text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 transition-all"
-            >
-              <Plus className="w-5 h-5" />
-            </button>
-          </div>
+      <div className="w-80 flex flex-col gap-3 h-full">
+        {/* Accordion Tabs */}
+        <div className="flex gap-2 shrink-0">
+          <button
+            onClick={() => setLeftTab('channels')}
+            className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-2xl text-sm font-bold transition-all ${
+              leftTab === 'channels'
+                ? 'bg-white dark:bg-gray-800 text-indigo-600 dark:text-indigo-400 shadow-sm border border-slate-200 dark:border-gray-700'
+                : 'bg-white/50 dark:bg-gray-800/40 text-slate-500 dark:text-gray-400 hover:bg-white dark:hover:bg-gray-800'
+            }`}
+          >
+            <MessageSquare className="w-4 h-4" /> Channels
+          </button>
+          <button
+            onClick={() => setLeftTab('students')}
+            className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-2xl text-sm font-bold transition-all ${
+              leftTab === 'students'
+                ? 'bg-white dark:bg-gray-800 text-indigo-600 dark:text-indigo-400 shadow-sm border border-slate-200 dark:border-gray-700'
+                : 'bg-white/50 dark:bg-gray-800/40 text-slate-500 dark:text-gray-400 hover:bg-white dark:hover:bg-gray-800'
+            }`}
+          >
+            <Users className="w-4 h-4" /> Students
+            <span className="text-[10px] bg-emerald-500 text-white rounded-full px-1.5 py-0.5">{panelStudents.filter(s => s.IsOnline).length}</span>
+          </button>
+        </div>
 
-          {/* Search */}
-          <div className="mb-4 px-2">
-            <div className="relative">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 w-4 h-4" />
-              <input
-                type="text"
-                placeholder="Search conversations..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-10 pr-4 py-3 bg-slate-50 dark:bg-gray-900 border border-slate-200 dark:border-gray-700 rounded-2xl focus:outline-none focus:ring-2 focus:ring-indigo-500/30 text-sm"
-              />
+        {/* Channels panel (accordion) */}
+        {leftTab === 'channels' && (
+          <div className="bg-white dark:bg-gray-800 rounded-3xl p-6 border border-slate-200 dark:border-gray-700 shadow-sm flex-1 min-h-0 flex flex-col overflow-hidden">
+            {/* Header */}
+            <div className="flex items-center justify-between mb-6 px-2">
+              <div className="flex items-center gap-2">
+                <MessageSquare className="w-5 h-5 text-indigo-600 dark:text-indigo-400" />
+                <h3 className="text-xs font-black uppercase tracking-widest text-slate-800 dark:text-white">Study Channels</h3>
+              </div>
+              <button
+                onClick={() => setShowNewChatModal(true)}
+                className="p-2 hover:bg-slate-100 dark:hover:bg-gray-700 rounded-xl text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 transition-all"
+              >
+                <Plus className="w-5 h-5" />
+              </button>
             </div>
-          </div>
 
-          {/* Conversation List */}
-          <div className="flex-1 min-h-0 overflow-y-auto pr-2 space-y-1 scrollbar-thin scrollbar-thumb-slate-200">
-            {filteredConversations.length === 0 ? (
-              <div className="text-center py-12 text-slate-400 dark:text-slate-500">No conversations yet</div>
-            ) : (
-              <>
-                {/* Groups */}
-                {filteredConversations.filter(c => c.IsGroup).length > 0 && (
-                  <>
-                    <div className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-3 px-2">Groups</div>
-                    {filteredConversations.filter(c => c.IsGroup).map(conv => (
+            {/* Search */}
+            <div className="mb-4 px-2">
+              <div className="relative">
+                <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 w-4 h-4" />
+                <input
+                  type="text"
+                  placeholder="Search conversations..."
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  className="w-full pl-10 pr-4 py-3 bg-slate-50 dark:bg-gray-900 border border-slate-200 dark:border-gray-700 rounded-2xl focus:outline-none focus:ring-2 focus:ring-indigo-500/30 text-sm"
+                />
+              </div>
+            </div>
+
+            {/* Conversation List */}
+            <div className="flex-1 min-h-0 overflow-y-auto pr-2 space-y-1 scrollbar-thin scrollbar-thumb-slate-200">
+              {filteredConversations.length === 0 ? (
+                <div className="text-center py-12 text-slate-400 dark:text-slate-500">No conversations yet</div>
+              ) : (
+                <>
+                  {/* Groups */}
+                  {filteredConversations.filter(c => c.IsGroup).length > 0 && (
+                    <>
+                      <div className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-3 px-2">Groups</div>
+                      {filteredConversations.filter(c => c.IsGroup).map(conv => (
+                        <ConversationItem
+                          key={conv.ConversationID}
+                          conv={conv}
+                          isActive={selectedConversation?.ConversationID === conv.ConversationID}
+                          onClick={() => handleSelectRoom(conv)}
+                          getConversationName={getConversationName}
+                          currentUserId={currentUserId}
+                        />
+                      ))}
+                    </>
+                  )}
+
+                  {/* Recent Chats */}
+                  <div className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mt-8 mb-3 px-2">Recent Chats</div>
+                  {filteredConversations.filter(c => !c.IsGroup).map(conv => {
+                    const otherId = conv.Participants?.find((p: string) => p !== currentUserId);
+                    return (
                       <ConversationItem
                         key={conv.ConversationID}
                         conv={conv}
@@ -669,80 +713,67 @@ const panelStudents = useMemo(() => {
                         onClick={() => handleSelectRoom(conv)}
                         getConversationName={getConversationName}
                         currentUserId={currentUserId}
+                        isOnline={isUserOnline(otherId || '')}
                       />
-                    ))}
-                  </>
-                )}
-
-                {/* Recent Chats */}
-                <div className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mt-8 mb-3 px-2">Recent Chats</div>
-                {filteredConversations.filter(c => !c.IsGroup).map(conv => {
-                  const otherId = conv.Participants?.find((p: string) => p !== currentUserId);
-                  return (
-                    <ConversationItem
-                      key={conv.ConversationID}
-                      conv={conv}
-                      isActive={selectedConversation?.ConversationID === conv.ConversationID}
-                      onClick={() => handleSelectRoom(conv)}
-                      getConversationName={getConversationName}
-                      currentUserId={currentUserId}
-                      isOnline={isUserOnline(otherId || '')}
-                    />
-                  );
-                })}
-              </>
-            )}
-          </div>
-        </div>
-
-        {/* Students */}
-        <div className="bg-slate-900 rounded-3xl p-6 text-white shadow-2xl flex-[3] min-h-0 flex flex-col overflow-hidden relative">
-          <div className="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500 rounded-full blur-3xl opacity-10 pointer-events-none" />
-          <div className="relative z-10 flex flex-col h-full">
-            <div className="flex items-center justify-between mb-3">
-              <div className="flex items-center gap-2">
-                <Users className="w-5 h-5 text-indigo-400" />
-                <h3 className="text-xs font-black uppercase tracking-widest opacity-70">
-                  Students <span className="text-emerald-400">({panelStudents.filter(s => s.IsOnline).length} online)</span>
-                </h3>
-              </div>
-            </div>
-
-            <div className="relative z-10 mb-3">
-              <input
-                value={studentsSearch}
-                onChange={(e) => setStudentsSearch(e.target.value)}
-                placeholder="Search students..."
-                className="w-full px-3 py-2 rounded-xl bg-white/10 border border-white/10 text-sm placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-indigo-500/50"
-              />
-            </div>
-
-            <div className="flex-1 min-h-0 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 space-y-1">
-              {panelStudents.length === 0 ? (
-                <div className="text-center text-white/50 py-10">No students found</div>
-              ) : (
-                panelStudents.map(user => (
-                  <OnlineUserItem
-                    key={user.StudentID}
-                    user={user}
-                    isOnline={!!user.IsOnline}
-                    lastSeen={user.LastSeen}
-                    onClick={() => {
-                      const existing = conversations.find(c =>
-                        !c.IsGroup && c.Participants?.includes(user.StudentID) && c.Participants?.includes(currentUserId)
-                      );
-                      if (existing) handleSelectRoom(existing);
-                      else {
-                        setShowNewChatModal(true);
-                        setSelectedUsers([user.StudentID]);
-                      }
-                    }}
-                  />
-                ))
+                    );
+                  })}
+                </>
               )}
             </div>
           </div>
-        </div>
+        )}
+
+        {/* Students panel (accordion) */}
+        {leftTab === 'students' && (
+          <div className="bg-slate-900 rounded-3xl p-6 text-white shadow-2xl flex-1 min-h-0 flex flex-col overflow-hidden relative">
+            <div className="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500 rounded-full blur-3xl opacity-10 pointer-events-none" />
+            <div className="relative z-10 flex flex-col h-full">
+              <div className="flex items-center justify-between mb-3">
+                <div className="flex items-center gap-2">
+                  <Users className="w-5 h-5 text-indigo-400" />
+                  <h3 className="text-xs font-black uppercase tracking-widest opacity-70">
+                    Students <span className="text-emerald-400">({panelStudents.filter(s => s.IsOnline).length} online)</span>
+                  </h3>
+                </div>
+              </div>
+
+              <div className="relative z-10 mb-3">
+                <input
+                  value={studentsSearch}
+                  onChange={(e) => setStudentsSearch(e.target.value)}
+                  placeholder="Search students..."
+                  className="w-full px-3 py-2 rounded-xl bg-white/10 border border-white/10 text-sm placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-indigo-500/50"
+                />
+              </div>
+
+              <div className="flex-1 min-h-0 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 space-y-1">
+                {panelStudents.length === 0 ? (
+                  <div className="text-center text-white/50 py-10">No students found</div>
+                ) : (
+                  panelStudents.map(user => (
+                    <OnlineUserItem
+                      key={user.StudentID}
+                      user={user}
+                      isOnline={!!user.IsOnline}
+                      lastSeen={user.LastSeen}
+                      onClick={() => {
+                        const existing = conversations.find(c =>
+                          !c.IsGroup && c.Participants?.includes(user.StudentID) && c.Participants?.includes(currentUserId)
+                        );
+                        if (existing) handleSelectRoom(existing);
+                        else {
+                          setShowNewChatModal(true);
+                          setSelectedUsers([user.StudentID]);
+                        }
+                        setLeftTab('channels');
+                      }}
+                    />
+                  ))
+                )}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Main Chat Area */}
