@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Menen OSHS</string>
+    <string name="title_activity_main">Menen OSHS</string>
+    <string name="package_name">com.menen.oshs</string>
+    <string name="custom_url_scheme">com.menen.oshs</string>
+</resources>

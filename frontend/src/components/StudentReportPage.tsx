@@ -47,7 +47,9 @@ interface ReportData {
   reportGeneratedAt: string;
   study: {
     totalSessions: number; totalSectionsStudied: number; totalSectionsCompleted: number;
+    gradeTotalSections?: number;
     totalStudyHours: number; totalStudyMinutes: number; textbookCount: number; textbooksStudied: string[];
+    targetStudyHours?: number;
     averageSessionMinutes: number; completionRate: number; description: string;
     recentSessions: Array<{ textbookId: string; chapterId: number; startedAt: string; endedAt: string; pagesCovered: string }>;
   };
@@ -212,10 +214,10 @@ export default function StudentReportPage() {
         {/* ═══ OVERVIEW ═══ */}
         <ReportSection title="Overall Performance Summary" icon="LayoutDashboard" expanded={expandedSections.has('overview')} onToggle={() => toggleSection('overview')}>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-            <StatCard label="Overall Grade" value={overallGrade.grade} color={overallGrade.color} />
-            <StatCard label="Study Hours" value={`${study.totalStudyHours}h`} color="blue" />
-            <StatCard label="Quizzes Done" value={quizzes.totalSessions} color="indigo" />
-            <StatCard label="Risk Status" value={metrics.status === 'OnTrack' ? 'On Track' : metrics.status === 'AtRisk' ? 'At Risk' : 'High Risk'} color={metrics.status === 'OnTrack' ? 'emerald' : metrics.status === 'AtRisk' ? 'amber' : 'rose'} />
+            <StatCard label="Overall Grade" value={overallGrade.grade} color={overallGrade.color} explain="Your overall letter grade, calculated from all your quiz, exam, and study activity. It is a single summary of how strong your performance is right now across the platform. Aim to move it up by focusing on your weaker areas." />
+            <StatCard label="Study Hours" value={`${study.totalStudyHours}h`} color="blue" explain="The total real time you have spent actively studying, measured from your study sessions. It reflects your effort and consistency. Compare it with the target hours shown in the Study Activity section to see if you are investing enough time in the curriculum." />
+            <StatCard label="Quizzes Done" value={quizzes.totalSessions} color="indigo" explain="The total number of quizzes you have finished. Each completed quiz is a chance to test what you know and reinforce your memory. Regular quizzing is one of the best ways to make sure you actually remember the material." />
+            <StatCard label="Risk Status" value={metrics.status === 'OnTrack' ? 'On Track' : metrics.status === 'AtRisk' ? 'At Risk' : 'High Risk'} color={metrics.status === 'OnTrack' ? 'emerald' : metrics.status === 'AtRisk' ? 'amber' : 'rose'} explain="A prediction of how likely you are to fall behind if you continue as you are. It blends your accuracy, consistency, mastery, and how many quizzes you finish. 'On Track' means you are doing well; 'At Risk' or 'High Risk' means you should act on the recommendations below." />
           </div>
           <div className="bg-slate-50 dark:bg-gray-800 rounded-2xl p-5 border border-slate-200 dark:border-gray-700">
             <p className="text-sm text-slate-700 dark:text-slate-300 leading-relaxed">{metrics.description}</p>
@@ -230,31 +232,43 @@ export default function StudentReportPage() {
         {/* ═══ STUDY ═══ */}
         <ReportSection title="Study Activity" icon="BookOpen" expanded={expandedSections.has('study')} onToggle={() => toggleSection('study')}>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-            <StatCard label="Study Sessions" value={study.totalSessions} color="blue" />
-            <StatCard label="Sections Completed" value={`${study.totalSectionsCompleted}/${study.totalSectionsStudied}`} color="emerald" />
-            <StatCard label="Textbooks Used" value={study.textbookCount} color="indigo" />
-            <StatCard label="Avg Session" value={`${study.averageSessionMinutes}m`} color="purple" />
+            <StatCard label="Study Sessions" value={study.totalSessions} color="blue" explain="The number of times you opened the app to study. Each session is a separate study block. More sessions generally mean a more consistent study habit, which helps you remember the material over the long term." />
+            <StatCard label="Sections Completed" value={`${study.totalSectionsCompleted}/${study.gradeTotalSections ?? study.totalSectionsStudied}`} color="emerald" explain="How many textbook sections you have finished versus the total sections across every subject in your grade. This shows your overall progress through the full year's curriculum, not just the parts you have touched." />
+            <StatCard label="Textbooks Used" value={study.textbookCount} color="indigo" explain="The number of different textbooks you have studied from. Studying across more subjects gives you a balanced coverage of the whole curriculum rather than focusing on only one or two books." />
+            <StatCard label="Avg Session" value={`${study.averageSessionMinutes}m`} color="purple" explain="Your average study time in one sitting. Short, focused sessions of around 25-45 minutes are often the most effective for concentration and memory, so a reasonable average here is a healthy sign." />
           </div>
           <div className="bg-slate-50 dark:bg-gray-800 rounded-2xl p-5 border border-slate-200 dark:border-gray-700 mb-4">
             <p className="text-xs font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-wide mb-2">Summary</p>
             <p className="text-sm text-slate-700 dark:text-slate-300 leading-relaxed">{study.description}</p>
           </div>
           <div className="bg-slate-50 dark:bg-gray-800 rounded-2xl p-5 border border-slate-200 dark:border-gray-700">
-            <p className="text-xs font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-wide mb-3">Section Completion</p>
+            <p className="text-xs font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-wide mb-3">Section Completion (vs. your grade's full curriculum)</p>
             <div className="w-full bg-slate-200 dark:bg-gray-700 rounded-full h-3 mb-2">
-              <div className="bg-indigo-600 h-3 rounded-full transition-all" style={{ width: `${study.completionRate}%` }} />
+              <div className="bg-indigo-600 h-3 rounded-full transition-all" style={{ width: `${Math.min(study.completionRate, 100)}%` }} />
             </div>
-            <p className="text-xs text-slate-500 dark:text-slate-400">{study.completionRate}% completed ({study.totalSectionsCompleted} of {study.totalSectionsStudied} sections)</p>
+            <p className="text-xs text-slate-500 dark:text-slate-400">You completed {study.totalSectionsCompleted} of {study.gradeTotalSections ?? study.totalSectionsStudied} sections across all subjects in your grade ({study.completionRate}%).</p>
+          </div>
+          <div className="mt-4 bg-slate-50 dark:bg-gray-800 rounded-2xl p-5 border border-slate-200 dark:border-gray-700">
+            <p className="text-xs font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-wide mb-3">Academic Study Hours</p>
+            <div className="w-full bg-slate-200 dark:bg-gray-700 rounded-full h-3 mb-2">
+              <div className="bg-indigo-600 h-3 rounded-full transition-all" style={{ width: `${study.targetStudyHours ? Math.min((study.totalStudyHours / study.targetStudyHours) * 100, 100) : 0}%` }} />
+            </div>
+            <p className="text-xs text-slate-500 dark:text-slate-400">
+              You have studied {study.totalStudyHours} hours so far. &nbsp;
+              {study.targetStudyHours
+                ? `Your grade's curriculum typically takes about ${study.targetStudyHours} hours of focused study to complete. ${study.totalStudyHours >= study.targetStudyHours ? 'Great job — you are right on track!' : `Keep going — you are ${(study.targetStudyHours - study.totalStudyHours).toFixed(1)} hours away from the target.`}`
+                : 'Set a weekly goal and track your time to stay on schedule.'}
+            </p>
           </div>
         </ReportSection>
 
         {/* ═══ QUIZZES ═══ */}
         <ReportSection title="Quiz Performance" icon="ClipboardCheck" expanded={expandedSections.has('quizzes')} onToggle={() => toggleSection('quizzes')}>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-            <StatCard label="Total Quizzes" value={quizzes.totalSessions} color="indigo" />
-            <StatCard label="Average Score" value={`${quizzes.averageScore}%`} color={evalCtx.getScoreLabel(quizzes.averageScore).color} />
-            <StatCard label="Best Score" value={`${quizzes.bestScore}%`} color="emerald" />
-            <StatCard label="Questions Answered" value={quizzes.totalQuestionsAnswered} color="blue" />
+            <StatCard label="Total Quizzes" value={quizzes.totalSessions} color="indigo" explain="The total quizzes you have completed. Taking more quizzes reinforces learning and exposes gaps in your understanding, making you more confident and accurate over time." />
+            <StatCard label="Average Score" value={`${quizzes.averageScore}%`} color={evalCtx.getScoreLabel(quizzes.averageScore).color} explain="The average percentage you score across all your quizzes. It is a good overall measure of how well you know the material you have been tested on. Scores at or above 70% usually mean you are handling the content well." />
+            <StatCard label="Best Score" value={`${quizzes.bestScore}%`} color="emerald" explain="Your highest single quiz score. It shows the level you are capable of when everything clicks, and it is a useful goal to try to reach more consistently on future quizzes." />
+            <StatCard label="Questions Answered" value={quizzes.totalQuestionsAnswered} color="blue" explain="The total number of quiz questions you have answered. More questions answered generally means more practice and stronger recall. It also gives the platform more data to judge how well you truly understand each subject." />
           </div>
           {quizzes.averageLetterGrade && (
             <div className="flex items-center gap-4 mb-6 bg-slate-50 dark:bg-gray-800 rounded-2xl p-5 border border-slate-200 dark:border-gray-700">
@@ -341,9 +355,9 @@ export default function StudentReportPage() {
           ) : (
             <>
               <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
-                <StatCard label="Total Exams" value={exams.totalSessions} color="indigo" />
-                <StatCard label="Average Score" value={`${exams.averageScore}%`} color={evalCtx.getScoreLabel(exams.averageScore).color} />
-                <StatCard label="Best Score" value={`${exams.bestScore}%`} color="emerald" />
+                <StatCard label="Total Exams" value={exams.totalSessions} color="indigo" explain="The number of practice and formal exams you have taken. Doing exam-style questions under realistic conditions helps you get comfortable with the format and timing of real assessments." />
+                <StatCard label="Average Score" value={`${exams.averageScore}%`} color={evalCtx.getScoreLabel(exams.averageScore).color} explain="Your average percentage across all exams. Exams pull together multiple sections, so this reflects how well you can combine and apply what you have learned in an exam setting rather than in small quizzes." />
+                <StatCard label="Best Score" value={`${exams.bestScore}%`} color="emerald" explain="Your highest exam score. It shows your best performance under exam conditions and is a realistic target to aim for consistently as the real exam approaches." />
               </div>
               {exams.averageLetterGrade && (
                 <div className="flex items-center gap-4 mb-6 bg-slate-50 dark:bg-gray-800 rounded-2xl p-5 border border-slate-200 dark:border-gray-700">
@@ -393,10 +407,10 @@ export default function StudentReportPage() {
         {eslce && (
           <ReportSection title="ESLCE Readiness" icon="Award" expanded={expandedSections.has('eslce')} onToggle={() => toggleSection('eslce')}>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-              <StatCard label="Sessions" value={eslce.totalSessions} color="indigo" />
-              <StatCard label="Average" value={`${eslce.averageScore}%`} color={evalCtx.getScoreLabel(eslce.averageScore).color} />
-              <StatCard label="Pass Rate" value={`${eslce.passRate}%`} color="emerald" />
-              <StatCard label="Best Score" value={`${eslce.bestScore}%`} color="purple" />
+              <StatCard label="Sessions" value={eslce.totalSessions} color="indigo" explain="The number of national exam (ESLCE) practice sessions you have completed. Practicing past national questions is the most direct way to prepare for the real exam format and build your confidence under pressure." />
+              <StatCard label="Average" value={`${eslce.averageScore}%`} color={evalCtx.getScoreLabel(eslce.averageScore).color} explain="Your average mark across all ESLCE practice sessions. The national exam requires 70% to pass, so this tells you how close you are to being exam-ready on the real national pass standard." />
+              <StatCard label="Pass Rate" value={`${eslce.passRate}%`} color="emerald" explain="The percentage of your ESLCE practice sessions that reached the national pass mark of 70%. A high pass rate means you are consistently performing at a passing level on national-style questions." />
+              <StatCard label="Best Score" value={`${eslce.bestScore}%`} color="purple" explain="Your best score on any national exam practice session. It proves the level you are capable of when you are well-prepared, and it is a strong target to chase in every session as exam day approaches." />
             </div>
             {eslce.bySubject.length > 0 && (
               <div className="bg-slate-50 dark:bg-gray-800 rounded-2xl p-5 border border-slate-200 dark:border-gray-700 mb-4">
@@ -635,11 +649,12 @@ function ReportSection({ title, icon, expanded, onToggle, children }: {
   );
 }
 
-function StatCard({ label, value, color }: { label: string; value: React.ReactNode; color: string }) {
+function StatCard({ label, value, color, explain }: { label: string; value: React.ReactNode; color: string; explain?: string }) {
   return (
     <div className={`rounded-2xl p-4 border ${colorMap[color] || colorMap.slate}`}>
       <p className="text-[10px] font-bold uppercase tracking-wider opacity-70">{label}</p>
       <p className="text-xl font-black mt-1">{value}</p>
+      {explain && <p className="text-[11px] leading-relaxed mt-2 opacity-80">{explain}</p>}
     </div>
   );
 }

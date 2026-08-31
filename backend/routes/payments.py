@@ -44,11 +44,8 @@ def get_current_user_id(
         raise HTTPException(status_code=401, detail="Invalid authentication credentials")
 
 
-# ── Schemas ──
-
 class VerifyRequest(BaseModel):
     reference: str
-    suffix: Optional[str] = None
     plan: Optional[str] = None
 
 
@@ -61,7 +58,7 @@ class WebhookPayload(BaseModel):
     signature: Optional[str] = None
 
 
-# ── POST /api/payments/verify ──
+# -- POST /api/payments/verify --
 
 @router.post("/verify")
 async def verify_and_upgrade(
@@ -140,7 +137,7 @@ async def verify_and_upgrade(
     }
 
 
-# ── POST /api/payments/webhook ──
+# -- POST /api/payments/webhook --
 
 @router.post("/webhook")
 async def payment_webhook(
@@ -184,7 +181,7 @@ async def payment_webhook(
     return {"received": True, "reference": body.reference}
 
 
-# ── GET /api/payments/subscription ──
+# -- GET /api/payments/subscription --
 
 @router.get("/subscription")
 async def get_subscription(
@@ -194,14 +191,14 @@ async def get_subscription(
     return check_subscription_status(user_id, db)
 
 
-# ── GET /api/payments/plans ──
+# -- GET /api/payments/plans --
 
 @router.get("/plans")
 async def get_plans():
     return {"plans": VALID_PLANS}
 
 
-# ── GET /api/payments/history ──
+# -- GET /api/payments/history --
 
 @router.get("/history")
 async def get_history(
@@ -211,7 +208,7 @@ async def get_history(
     return {"payments": get_payment_history(user_id, db)}
 
 
-# ── GET /api/payments/status/{reference} ──
+# -- GET /api/payments/status/{reference} --
 
 @router.get("/status/{reference}")
 async def get_payment_status(

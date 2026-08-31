@@ -7,9 +7,22 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "cap:sync": "npx cap sync android",
+    "cap:open": "npx cap open android",
+    "android": "npm run build && npx cap sync android && npx cap open android"
   },
   "dependencies": {
+    "@capacitor-community/sqlite": "^8.1.1",
+    "@capacitor/android": "^8.5.0",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/cli": "^8.5.0",
+    "@capacitor/core": "^8.5.0",
+    "@capacitor/haptics": "^8.0.2",
+    "@capacitor/keyboard": "^8.0.5",
+    "@capacitor/push-notifications": "^8.1.2",
+    "@capacitor/splash-screen": "^8.0.2",
+    "@capacitor/status-bar": "^8.0.3",
     "@react-pdf-viewer/bookmark": "^3.12.0",
     "@react-pdf-viewer/core": "^3.12.0",
     "@react-pdf-viewer/default-layout": "^3.12.0",
@@ -24,6 +37,7 @@
     "@types/katex": "^0.16.8",
     "autoprefixer": "^10.4.18",
     "axios": "^1.16.0",
+    "jeep-sqlite": "^2.8.0",
     "katex": "^0.18.4",
     "lucide-react": "^1.7.0",
     "megajs": "^1.1.0",
@@ -40,6 +54,8 @@
     "slideskit": "^0.1.1",
     "socket.io-client": "^4.7.4",
     "tailwindcss": "^3.4.1",
+    "vite-plugin-pwa": "^1.3.0",
+    "workbox-window": "^7.4.1",
     "zustand": "^5.0.13"
   },
   "devDependencies": {

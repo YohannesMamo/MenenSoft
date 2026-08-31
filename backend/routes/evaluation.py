@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 from typing import Optional
 import json
 
+
 from database import get_db
 from models.EvaluationConfig import EvaluationConfig
 from models.StudentInfo import StudentInfo
@@ -22,7 +23,6 @@ from models.SubjectsInfo import SubjectsInfo
 router = APIRouter()
 
 DEFAULT_CONFIGS_PATH = "routes/evaluation_defaults.json"
-
 
 def _load_defaults():
     import json, os
@@ -162,6 +162,17 @@ def get_student_report(request: Request, db: Session = Depends(get_db)):
     # ── Subject lookup ──
     stb_to_subject = _build_subject_map(db)
 
+    # ── Grade-wide totals (all textbooks for this student's grade) ──
+    grade_books = db.query(STextBook).filter(STextBook.STBGradeID == grade_level).all()
+    total_sections_in_grade = sum(b.SectionCount or 0 for b in grade_books if getattr(b, 'SectionCount', None))
+
+    # Per-subject grade-wide section totals
+    subject_grade_totals = {}
+    for b in grade_books:
+        subj = stb_to_subject.get(b.STBID, "Unknown")
+        subject_grade_totals[subj] = subject_grade_totals.get(subj, 0) + (b.SectionCount or 0)
+    subject_grade_completed = {}
+
     # ── 1. STUDY SECTION ──
     study_sessions = db.query(StudySession).filter(
         StudySession.StudentID == student_id,
@@ -173,8 +184,14 @@ def get_student_report(request: Request, db: Session = Depends(get_db)):
     ).all()
 
     completed_sections = [s for s in section_progress if s.IsCompleted]
-    total_study_seconds = sum((s.TimeSpentSeconds or 0) for s in completed_sections)
+    # Total recorded study time across ALL studied sections (not only completed)
+    total_study_seconds = sum((s.TimeSpentSeconds or 0) for s in section_progress)
     textbooks_studied = list(set(s.STBID for s in section_progress if s.STBID))
+
+    for s in section_progress:
+        subj = stb_to_subject.get(s.STBID, "Unknown")
+        if s.IsCompleted:
+            subject_grade_completed[subj] = subject_grade_completed.get(subj, 0) + 1
 
     # Study by subject
     study_by_subject = {}
@@ -192,11 +209,13 @@ def get_student_report(request: Request, db: Session = Depends(get_db)):
     for subj, data in study_by_subject.items():
         secs = data["sectionsCompleted"]
         total_secs = data["sectionsStudied"]
+        grade_total = subject_grade_totals.get(subj, total_secs) or 1
         study_subject_summary.append({
             "subject": subj,
             "sectionsStudied": total_secs,
             "sectionsCompleted": secs,
-            "completionRate": round(secs / max(total_secs, 1) * 100, 1),
+            "gradeTotalSections": grade_total,
+            "completionRate": round(secs / grade_total * 100, 1),
             "studyMinutes": round(data["studySeconds"] / 60, 1),
             "textbookCount": len(data["textbooks"]),
         })
@@ -205,7 +224,9 @@ def get_student_report(request: Request, db: Session = Depends(get_db)):
         "totalSessions": len(study_sessions),
         "totalSectionsStudied": len(section_progress),
         "totalSectionsCompleted": len(completed_sections),
+        "gradeTotalSections": total_sections_in_grade,
         "totalStudyHours": round(total_study_seconds / 3600, 1),
+        "targetStudyHours": round(total_sections_in_grade * 0.75, 1),
         "totalStudyMinutes": round(total_study_seconds / 60, 1),
         "textbookCount": len(textbooks_studied),
         "textbooksStudied": textbooks_studied,
@@ -223,12 +244,12 @@ def get_student_report(request: Request, db: Session = Depends(get_db)):
             for s in sorted(study_sessions, key=lambda x: x.StartedAt or datetime.min, reverse=True)[:10]
         ],
         "completionRate": round(
-            len(completed_sections) / max(len(section_progress), 1) * 100, 1
+            len(completed_sections) / max(total_sections_in_grade, 1) * 100, 1
         ),
         "bySubject": sorted(study_subject_summary, key=lambda x: x["completionRate"], reverse=True),
         "description": f"You have studied {len(textbooks_studied)} textbook(s), "
-                       f"completing {len(completed_sections)} out of {len(section_progress)} sections "
-                       f"across {len(study_sessions)} study sessions."
+                       f"completing {len(completed_sections)} out of {total_sections_in_grade} sections "
+                       f"across your grade's curriculum, over {len(study_sessions)} study session(s)."
     }
 
     # ── 2. QUIZ SECTION ──

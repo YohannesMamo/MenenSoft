@@ -6,6 +6,7 @@ class Settings(BaseSettings):
     DATABASE_URL: str
     SECRET_KEY: str
     BACKEND_URL: str = "http://localhost:8000"
+    FRONTEND_URL: str = "http://localhost:5173"
     TEXTBOOKS_PATH: str = "Textbooks"
 
     VERIFIER_API_KEY: str = ""

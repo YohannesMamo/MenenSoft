@@ -20,28 +20,56 @@ UPLOAD_DIR = "uploads/chat_files"
 
 class ConversationCreate(BaseModel):
     Name: Optional[str] = None
+    CName: Optional[str] = None
     IsGroup: bool = False
     ParticipantIDs: List[str]
 
+    @property
+    def effective_name(self) -> Optional[str]:
+        return self.Name or self.CName
+
 class MessageCreate(BaseModel):
     ConversationID: str
-    MContent: str
+    MContent: str = ""  # Allow empty string for file-only messages
     FileURL: Optional[str] = None
+    
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "ConversationID": "550e8400-e29b-41d4-a716-446655440000",
+                "MContent": "Hello, this is a test message!",
+                "FileURL": None
+            }
+        }
 
 class MessageResponse(BaseModel):
     MessageID: str
-    ConversationID: str
+    MConversationID: str
     SenderID: str
     MContent: str
-    SentAt: datetime
+    SentAt: str
     IsRead: bool
     FileURL: Optional[str] = None
+    
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "MessageID": "550e8400-e29b-41d4-a716-446655440000",
+                "MConversationID": "550e8400-e29b-41d4-a716-446655440000",
+                "SenderID": "STU001",
+                "MContent": "Hello, this is a test message!",
+                "SentAt": "2024-01-15T10:30:00",
+                "IsRead": False,
+                "FileURL": "/files/chat_files/uuid.pdf"
+            }
+        }
 
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
 # Online users tracking
 online_users = set()  # Store user IDs
 user_sessions = {}  # Map user ID to socket IDs
+last_seen = {}  # Map user ID to last-seen datetime (ISO string)
 
 
 def get_message_rooms(conversation_id: str, participant_ids: List[str]) -> List[str]:
@@ -52,18 +80,18 @@ def get_message_rooms(conversation_id: str, participant_ids: List[str]) -> List[
 
 @router.post("/api/chat/conversations")
 def create_conversation(data: ConversationCreate, db: Session = Depends(get_db)):
-    # Create conversation without manually setting UUID (let model handle it)
+    participant_ids = list(dict.fromkeys(str(user_id) for user_id in (data.ParticipantIDs or [])))
     conversation = Conversation(
-        CName=data.Name,
+        CName=data.effective_name,
         IsGroup=data.IsGroup,
         CreatedAt=datetime.now(),
-        CreatedBy=data.ParticipantIDs[0] if data.ParticipantIDs else None
+        CreatedBy=participant_ids[0] if participant_ids else None
     )
     db.add(conversation)
     db.flush()  # Flush to get the generated UUID
     
     # Add participants
-    for user_id in data.ParticipantIDs:
+    for user_id in participant_ids:
         participant = ConversationParticipant(
             CPConversationID=conversation.ConversationID,
             CPUserID=user_id,
@@ -76,9 +104,10 @@ def create_conversation(data: ConversationCreate, db: Session = Depends(get_db))
     
     return {
         "ConversationID": str(conversation.ConversationID),
-        "Name": data.Name,
+        "Name": data.effective_name,
+        "CName": data.effective_name,
         "IsGroup": data.IsGroup,
-        "ParticipantIDs": data.ParticipantIDs
+        "ParticipantIDs": participant_ids
     }
 
 @router.get("/api/chat/conversations/{user_id}")
@@ -120,13 +149,30 @@ def get_user_conversations(user_id: str, db: Session = Depends(get_db)):
 
 @router.get("/api/chat/messages/{conversation_id}")
 def get_messages(conversation_id: str, user_id: str, limit: int = 50, offset: int = 0, db: Session = Depends(get_db)):
-    # Convert string back to UUID
-    conv_uuid = uuid.UUID(conversation_id)
+    """
+    Retrieve messages for a conversation with proper read status from MessageRead table.
+    Returns messages in chronological order (oldest first).
+    """
+    try:
+        conv_uuid = uuid.UUID(conversation_id)
+    except ValueError:
+        raise HTTPException(status_code=400, detail="Invalid conversation ID format")
     
+    # Verify user is in the conversation
+    participant = db.query(ConversationParticipant).filter(
+        ConversationParticipant.CPConversationID == conv_uuid,
+        ConversationParticipant.CPUserID == user_id
+    ).first()
+    
+    if not participant:
+        raise HTTPException(status_code=403, detail="User not in conversation")
+    
+    # Get messages in reverse chronological order, then reverse for display
     messages = db.query(Message).filter(
         Message.MConversationID == conv_uuid
     ).order_by(Message.SentAt.desc()).limit(limit).offset(offset).all()
     
+    # Get read status from MessageRead table (source of truth)
     message_reads = db.query(MessageRead).filter(
         MessageRead.MRUserID == user_id,
         MessageRead.MRMessageID.in_([msg.MessageID for msg in messages])
@@ -139,10 +185,10 @@ def get_messages(conversation_id: str, user_id: str, limit: int = 50, offset: in
             "MessageID": str(msg.MessageID),
             "MConversationID": str(msg.MConversationID),
             "SenderID": msg.SenderID,
-            "MContent": msg.MContent,
+            "MContent": msg.MContent if msg.MContent else "",
             "SentAt": msg.SentAt.isoformat() if msg.SentAt else None,
             "IsRead": str(msg.MessageID) in read_message_ids,
-            "FileURL": msg.MContent if msg.MContent.startswith('/files/') else None
+            "FileURL": msg.FileURL if msg.FileURL else None
         }
         for msg in reversed(messages)
     ]
@@ -168,6 +214,54 @@ def get_participants(conversation_id: str, db: Session = Depends(get_db)):
     ).all()
     
     return [{"UserID": p.CPUserID, "JoinedAt": p.JoinedAt.isoformat() if p.JoinedAt else None} for p in participants]
+
+@router.post("/api/chat/conversations/{conversation_id}/participants")
+def add_participants(conversation_id: str, participant_ids: List[str], db: Session = Depends(get_db)):
+    """Add new participants to an existing conversation."""
+    try:
+        conv_uuid = uuid.UUID(conversation_id)
+    except ValueError:
+        raise HTTPException(status_code=400, detail="Invalid conversation ID format")
+    
+    # Verify conversation exists
+    conversation = db.query(Conversation).filter(
+        Conversation.ConversationID == conv_uuid
+    ).first()
+    
+    if not conversation:
+        raise HTTPException(status_code=404, detail="Conversation not found")
+    
+    if not participant_ids:
+        raise HTTPException(status_code=400, detail="At least one participant ID is required")
+    
+    added_participants = []
+    skipped_participants = []
+    
+    for user_id in participant_ids:
+        # Check if participant already exists
+        existing = db.query(ConversationParticipant).filter(
+            ConversationParticipant.CPConversationID == conv_uuid,
+            ConversationParticipant.CPUserID == user_id
+        ).first()
+        
+        if existing:
+            skipped_participants.append(user_id)
+        else:
+            participant = ConversationParticipant(
+                CPConversationID=conv_uuid,
+                CPUserID=user_id,
+                JoinedAt=datetime.now()
+            )
+            db.add(participant)
+            added_participants.append(user_id)
+    
+    db.commit()
+    
+    return {
+        "AddedParticipants": added_participants,
+        "SkippedParticipants": skipped_participants,
+        "Message": f"Added {len(added_participants)} participant(s)"
+    }
 
 @router.post("/api/chat/conversations/{conversation_id}/read")
 def mark_as_read(conversation_id: str, user_id: str, db: Session = Depends(get_db)):
@@ -198,14 +292,30 @@ def mark_as_read(conversation_id: str, user_id: str, db: Session = Depends(get_d
     return {"MarkedAsRead": read_count}
 
 @router.get("/api/chat/students")
-def get_all_students(db: Session = Depends(get_db)):
+def get_all_students(exclude_user_id: str = None, db: Session = Depends(get_db)):
+    from datetime import timedelta
     students = db.query(StudentInfo).all()
-    return [{
-        "StudentID": s.StudentID,
-        "FirstName": s.StuFirstName,
-        "LastName": s.StuLastName,
-        "DisplayName": f"{s.StuFirstName} {s.StuLastName}"
-    } for s in students]
+    result = []
+    for s in students:
+        if exclude_user_id and s.StudentID == exclude_user_id:
+            continue
+        sid = s.StudentID
+        last = last_seen.get(sid)
+        # A user is "online" if they have a live socket registered
+        is_online = sid in online_users
+        # Only show a last-seen time reflecting a real session in the past;
+        # if currently online, mark them as active now.
+        result.append({
+            "StudentID": sid,
+            "FirstName": s.StuFirstName,
+            "LastName": s.StuLastName,
+            "DisplayName": f"{s.StuFirstName} {s.StuLastName}",
+            "IsOnline": is_online,
+            "LastSeen": last or (datetime.utcnow().isoformat() + "Z" if is_online else None),
+        })
+    # Sort: online users first, then by DisplayName
+    result.sort(key=lambda r: (not r["IsOnline"], (r["DisplayName"] or "").lower()))
+    return result
 
 def init_socketio(sio):
     
@@ -223,6 +333,7 @@ def init_socketio(sio):
                 if not sids:
                     online_users.remove(user_id)
                     del user_sessions[user_id]
+                    last_seen[user_id] = datetime.utcnow().isoformat() + "Z"
                     # Notify all clients that user went offline
                     await sio.emit('user_offline', {'user_id': user_id})
                 break
@@ -253,36 +364,36 @@ def init_socketio(sio):
    #################################################### 
     @sio.event
     async def send_message(sid, data):
-        """Handle sending a new message"""
-        db = None  # Initialize db variable
+        """Handle sending a new message with proper validation and separation of content/file."""
+        db = None
         try:
-            # Debug prints
-            print(f"📩 Received data: {data}")
+            print(f"📩 Received message data: {data}")
             
+            # Extract fields with case-insensitive fallback
             conversation_id = data.get('conversation_id') or data.get('conversationId')
             sender_id = data.get('sender_id') or data.get('senderId')
-            content = data.get('content')
+            content = data.get('content') or data.get('MContent') or ""
             file_url = data.get('file_url') or data.get('fileUrl')
-            sender_type = data.get('senderType', 'student')
             
-            # Debug content
-            print(f"📝 Content: '{content}' (type: {type(content)}) file_url: '{file_url}'")
-            
+            # Validate required fields
             if not conversation_id or not sender_id:
-                await sio.emit('error', {'message': 'Missing conversation ID or sender ID'}, room=sid)
+                await sio.emit('error', {'message': 'Missing required fields: conversation_id and sender_id'}, room=sid)
                 return
             
-            if content is None and not file_url:
-                print("❌ Message payload missing content and file_url")
+            # Validate at least content or file_url exists
+            content = (content or "").strip() if isinstance(content, str) else ""
+            if not content and not file_url:
                 await sio.emit('error', {'message': 'Message content or file URL is required'}, room=sid)
                 return
             
+            # Get database session
             db = next(get_db())
             
+            # Validate conversation_id format
             try:
                 conv_uuid = uuid.UUID(conversation_id)
-            except ValueError:
-                await sio.emit('error', {'message': 'Invalid conversation ID'}, room=sid)
+            except (ValueError, TypeError):
+                await sio.emit('error', {'message': 'Invalid conversation ID format'}, room=sid)
                 if db:
                     db.close()
                 return
@@ -298,62 +409,65 @@ def init_socketio(sio):
                     db.close()
                 return
             
-            # Verify user is in the conversation
+            # Verify user is a participant in the conversation
             participant = db.query(ConversationParticipant).filter(
                 ConversationParticipant.CPConversationID == conv_uuid,
                 ConversationParticipant.CPUserID == sender_id
             ).first()
+            
             if not participant:
-                await sio.emit('error', {'message': 'User not in conversation'}, room=sid)
+                await sio.emit('error', {'message': 'User is not a participant in this conversation'}, room=sid)
                 if db:
                     db.close()
                 return
             
-            # Use file_url if no text content was provided
-            message_content = content if content else file_url
-            
-            # CREATE MESSAGE
+            # Create message with proper field separation
             message = Message(
-                MessageID=str(uuid.uuid4()),
+                MessageID=uuid.uuid4(),
                 MConversationID=conv_uuid,
                 SenderID=sender_id,
-                MContent=message_content,
-                SentAt=datetime.utcnow(),
-                IsRead=False
+                MContent=content if content else "",  # Text content (can be empty if file-only)
+                FileURL=file_url if file_url else None,  # File URL in separate column
+                SentAt=datetime.utcnow()
             )
             
             db.add(message)
             db.commit()
             db.refresh(message)
             
-            print(f"✅ Message created with content: {message_content[:50]}...")
+            print(f"✅ Message created: ID={message.MessageID}, Content length={len(content)}, FileURL={bool(file_url)}")
             
-            # Prepare response
+            # Prepare broadcast message
             message_data = {
                 'MessageID': str(message.MessageID),
                 'MConversationID': str(message.MConversationID),
                 'SenderID': message.SenderID,
                 'MContent': message.MContent,
                 'SentAt': message.SentAt.isoformat() if message.SentAt else None,
-                'IsRead': message.IsRead,
-                'FileURL': file_url if file_url else (message.MContent if isinstance(message.MContent, str) and message.MContent.startswith('/files/') else None)
+                'IsRead': False,
+                'FileURL': message.FileURL
             }
             
+            # Get all participants for room names
             participant_records = db.query(ConversationParticipant).filter(
                 ConversationParticipant.CPConversationID == conv_uuid
             ).all()
-
-            participant_ids = [str(participant.CPUserID) for participant in participant_records]
+            
+            participant_ids = [p.CPUserID for p in participant_records]
+            
+            # Broadcast to all participants
             for room_name in get_message_rooms(str(conv_uuid), participant_ids):
                 await sio.emit('new_message', message_data, room=room_name)
-
+            
+            # Confirm to sender
             await sio.emit('message_sent', {'success': True, 'message': message_data}, room=sid)
-
-            # Update conversation timestamp if column exists
+            
+            # Update conversation's last message reference
             try:
                 conversation.LastMessageID = message.MessageID
                 db.commit()
-            except Exception:
+            except Exception as e:
+                print(f"⚠️ Warning: Could not update LastMessageID: {str(e)}")
                 db.rollback()
             
         except Exception as e:
@@ -389,6 +503,7 @@ def init_socketio(sio):
             user_sessions[user_id] = set()
         user_sessions[user_id].add(sid)
         online_users.add(user_id)
+        last_seen[user_id] = datetime.utcnow().isoformat() + "Z"
         
         await sio.emit('registered', {'user_id': user_id, 'sid': sid})
         # Send current online users list

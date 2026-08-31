@@ -32,12 +32,25 @@ import EslceSessionDetail from './components/eslce/EslceSessionDetail';
 import StudentReportPage from './components/StudentReportPage';
 import DetailedReportPage from './components/DetailedReportPage';
 import PaymentPage from './components/PaymentPage';
+
+import SettingsPage from './components/SettingsPage';
 import { EvaluationProvider } from './context/EvaluationContext';
+
+// Offline Mode
+import { OfflineProvider } from './context/OfflineContext';
+import OfflineDashboard from './components/offline/OfflineDashboard';
+import OfflineStudyPage from './pages/OfflineStudyPage';
+import OfflineQuizGateway from './components/offline/OfflineQuizGateway';
+import OfflineQuizPage from './components/offline/OfflineQuizPage';
+import OfflineExamPage from './components/offline/OfflineExamPage';
+import OfflineEslceLibrary from './components/offline/OfflineEslceLibrary';
+import OfflineEslceSession from './components/offline/OfflineEslceSession';
 
 function App() {
   const { loading } = useAuth();
+  const isOfflineBuild = import.meta.env.VITE_OFFLINE_BUILD === 'true';
 
-  if (loading) {
+  if (loading && !isOfflineBuild) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600"></div>
@@ -46,10 +59,24 @@ function App() {
   }
 
   return (
+    <>{isOfflineBuild ? (
+      <Routes>
+        <Route path="/offline" element={<OfflineProvider />}>
+          <Route index element={<OfflineDashboard />} />
+          <Route path="study" element={<OfflineStudyPage />} />
+          <Route path="quiz" element={<OfflineQuizGateway />} />
+          <Route path="quiz/:stbId/:chapterId/:sectionId" element={<OfflineQuizPage />} />
+          <Route path="exam" element={<OfflineExamPage />} />
+          <Route path="eslce" element={<OfflineEslceLibrary />} />
+          <Route path="eslce/session" element={<OfflineEslceSession />} />
+        </Route>
+        <Route path="*" element={<Navigate to="/offline" replace />} />
+      </Routes>
+    ) : (
     <ChatProvider>
       <Routes>
         {/* Public Routes */}
-        <Route path="/" element={<LandingPage />} />
+        <Route path="/" element={isOfflineBuild ? <Navigate to="/offline" replace /> : <LandingPage />} />
         <Route path="/about" element={<About />} />
         
         {/* Auth Routes - All handled by AuthManager */}
@@ -58,6 +85,7 @@ function App() {
         <Route path="/forgot-password" element={<AuthManager />} />
         <Route path="/reset-password" element={<AuthManager />} />
         <Route path="/verify-email" element={<AuthManager />} />
+
         
         {/* ✅ ADD THIS: Change Password Route */}
         <Route path="/change-password" element={<AuthManager />} />
@@ -84,6 +112,7 @@ function App() {
             <Route path="/chat" element={<ChatHub />} />
             <Route path="/complete-profile" element={<CompleteProfile />} />
             <Route path="/payment" element={<PaymentPage />} />
+            <Route path="/settings" element={<SettingsPage />} />
 
             {/* ESLCE Integration Routes */}
             <Route path="/eslce" element={<EslceExamLibrary />} />
@@ -96,10 +125,22 @@ function App() {
           </Route>
         </Route>
 
+        {/* Offline routes only available in online mode (for testing) */}
+        <Route element={<OfflineProvider />}>
+          <Route path="/offline" element={<OfflineDashboard />} />
+          <Route path="/offline/study" element={<OfflineStudyPage />} />
+          <Route path="/offline/quiz" element={<OfflineQuizGateway />} />
+          <Route path="/offline/quiz/:stbId/:chapterId/:sectionId" element={<OfflineQuizPage />} />
+          <Route path="/offline/exam" element={<OfflineExamPage />} />
+          <Route path="/offline/eslce" element={<OfflineEslceLibrary />} />
+          <Route path="/offline/eslce/session" element={<OfflineEslceSession />} />
+        </Route>
+
         {/* Fallback */}
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </ChatProvider>
+    )}</>
   );
 }
 

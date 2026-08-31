@@ -23,7 +23,8 @@ import {
   Sun,
   Moon,
   Monitor,
-  Award
+  Award,
+  Crown
 } from 'lucide-react';
 import { useState, useEffect, useRef } from 'react';
 import NavigationMenu from './NavigationMenu';
@@ -272,6 +273,22 @@ const Layout = () => {
                 <Bell className="w-5 h-5" />
                 <span className="absolute top-1.5 right-1.5 w-2 h-2 bg-red-500 rounded-full border-2 border-white animate-pulse" />
               </button>
+
+              {/* Upgrade / Pro Badge */}
+              {!isPremium ? (
+                <button
+                  onClick={() => navigate('/payment')}
+                  className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 bg-gradient-to-r from-amber-500 to-orange-500 text-white text-xs font-semibold rounded-lg hover:from-amber-600 hover:to-orange-600 transition-all shadow-sm"
+                >
+                  <Crown className="w-3.5 h-3.5" />
+                  Upgrade
+                </button>
+              ) : (
+                <span className="hidden sm:flex items-center gap-1 px-2.5 py-1 bg-gradient-to-r from-indigo-500 to-purple-500 text-white text-xs font-semibold rounded-lg">
+                  <Crown className="w-3 h-3" />
+                  Pro
+                </span>
+              )}
 
               {/* Theme Toggle */}
               <div className="relative" ref={themeMenuRef}>
