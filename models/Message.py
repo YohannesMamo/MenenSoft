@@ -8,6 +8,7 @@ class Message(Base):
     MessageID = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     MConversationID = Column(UUID(as_uuid=True))
     SenderID = Column(String(10))
-    MContent = Column(String)
+    MContent = Column(String)  # Text message content only (or empty string if file-only)
+    FileURL = Column(String, nullable=True)  # NEW: Separate file URL storage
     SentAt = Column(DateTime)
-    IsRead = Column(Boolean, default=False)
+    # Note: IsRead is deprecated - use MessageRead table for read status (source of truth)
