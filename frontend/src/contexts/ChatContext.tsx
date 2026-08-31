@@ -2,6 +2,7 @@ import { createContext, useContext, useState, useEffect, useRef, type ReactNode 
 import { io, Socket } from 'socket.io-client';
 import axios from 'axios';
 
+
 const SOCKET_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
 interface Conversation {
@@ -18,7 +19,7 @@ interface Conversation {
 
 interface Message {
   MessageID: string;
-  MConversationID: string;     // Match DB
+  MConversationID: string;     // Match DBvvv
   SenderID: string;
   MContent: string;            // Match DB
   SentAt: string;
