@@ -6,7 +6,8 @@ import {
 import { useChat } from '../contexts/ChatContext';
 import axios from 'axios';
 
-// ===================== TYPES =====================
+
+// =q==================== TYPES =====================
 interface Student {
   StudentID: string;
   DisplayName: string;

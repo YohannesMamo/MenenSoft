@@ -7,6 +7,7 @@ import SlidesPlayer, { type PresentationSlideData } from './SlidesPlayer';
 import QuickNotesView from './QuickNotesView';
 import { ChemicalText } from '../lib/chemical';
 
+
 import {
   FileText, CheckCircle, ChevronLeft, Loader2,
   ChevronDown, ChevronRight, Search, Volume2, VolumeX,

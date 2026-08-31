@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { ChevronLeft, ChevronRight, Play, Pause, Maximize2, Minimize2, MonitorPlay } from 'lucide-react';
 import { ChemicalText } from '../lib/chemical';
 
+
 export interface PresentationSlideData {
   slideId: string;
   slideNumber: number;
