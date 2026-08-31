@@ -4,6 +4,7 @@ import { useAuth } from '../context/AuthContext';
 import { LogOut, BookOpen } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
+
 const StudyLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const { logout } = useAuth();
   const navigate = useNavigate();

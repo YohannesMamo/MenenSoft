@@ -1,0 +1,554 @@
+[
+  {
+    "record_id": "68888d7f-1062-4117-9472-ff5cdc7ddd01",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 1,
+    "chapter_title": "Vegetable Crops Production and Management",
+    "start_page": 10,
+    "end_page": 30
+  },
+  {
+    "record_id": "e12fd384-f317-4799-8eac-2d4b9ed445bf",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 2,
+    "chapter_title": "Fruit Crops Production and Management",
+    "start_page": 31,
+    "end_page": 54
+  },
+  {
+    "record_id": "a9f3fc6d-0224-4928-9b8a-01e39e558e03",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 3,
+    "chapter_title": "Root and Tuber Crops Production and Management",
+    "start_page": 55,
+    "end_page": 71
+  },
+  {
+    "record_id": "09d69d2f-149d-423d-bc4f-df2c9e202d9e",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 4,
+    "chapter_title": "Coffee, Tea And Spices Production and Management",
+    "start_page": 72,
+    "end_page": 105
+  },
+  {
+    "record_id": "5d4d21f9-b979-47be-9ef5-10a15b6474b3",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 5,
+    "chapter_title": "Introduction to Plant Biotechnology",
+    "start_page": 106,
+    "end_page": 115
+  },
+  {
+    "record_id": "bdc2ac6f-4e38-4667-959b-daae7000de34",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 6,
+    "chapter_title": "Beef Cattle Production and Management",
+    "start_page": 116,
+    "end_page": 137
+  },
+  {
+    "record_id": "6a4651da-44e1-48b8-bf85-7b029d0800bb",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 7,
+    "chapter_title": "Sheep and Goat Production and Management",
+    "start_page": 138,
+    "end_page": 159
+  },
+  {
+    "record_id": "a7977c5b-2faf-4120-b5da-9a7581136ffd",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 8,
+    "chapter_title": "Camel Production and Management",
+    "start_page": 160,
+    "end_page": 175
+  },
+  {
+    "record_id": "52d24650-0f99-406f-b889-c9da2eef1099",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 9,
+    "chapter_title": "Poultry Production and Management",
+    "start_page": 176,
+    "end_page": 191
+  },
+  {
+    "record_id": "475a1e3c-d486-44c6-8377-8f6241869625",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 10,
+    "chapter_title": "Fishery Production and Management",
+    "start_page": 192,
+    "end_page": 210
+  },
+  {
+    "record_id": "1f6cc6fa-e7a5-496f-929a-883da8b55ed3",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 11,
+    "chapter_title": "Apiculture",
+    "start_page": 211,
+    "end_page": 226
+  },
+  {
+    "record_id": "413f7b81-84d6-4f04-b76a-8d9db6de94a2",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 12,
+    "chapter_title": "Nursery and Plantation Technology",
+    "start_page": 227,
+    "end_page": 235
+  },
+  {
+    "record_id": "54796de1-61e3-41a6-b6f2-3f34a956fd6f",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 13,
+    "chapter_title": "Basics of Agro-Forestry Systems and Practices",
+    "start_page": 236,
+    "end_page": 252
+  },
+  {
+    "record_id": "5c1e760a-6c17-468e-8bee-c5e4388c8b22",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 14,
+    "chapter_title": "Soil and Water Conservation",
+    "start_page": 253,
+    "end_page": 266
+  },
+  {
+    "record_id": "f013eaed-52ce-444e-8217-cfb15c55add5",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 15,
+    "chapter_title": "Gender and Human Nutrition",
+    "start_page": 267,
+    "end_page": 277
+  },
+  {
+    "record_id": "804bfb71-2a87-49e7-bc99-28ad75064eff",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 16,
+    "chapter_title": "Safe Food Production and Postharvest Handling",
+    "start_page": 278,
+    "end_page": 290
+  },
+  {
+    "record_id": "d24a5803-9e48-404a-ad5b-86510e32be36",
+    "stb_id": "GR12-AGR",
+    "chapter_id": 17,
+    "chapter_title": "Application of Information and Communication Technologies (ICT) in Agriculture",
+    "start_page": 291,
+    "end_page": 302
+  },
+  {
+    "record_id": "b6c2f4c0-fea7-44b7-bc43-fa190a8522bd",
+    "stb_id": "GR12-BIO",
+    "chapter_id": 1,
+    "chapter_title": "Application of Biology ",
+    "start_page": 10,
+    "end_page": 43
+  },
+  {
+    "record_id": "cea6e542-d22b-467e-8818-e0dde817eaf8",
+    "stb_id": "GR12-BIO",
+    "chapter_id": 2,
+    "chapter_title": "Microorganisms ",
+    "start_page": 44,
+    "end_page": 117
+  },
+  {
+    "record_id": "13f2cbf5-891d-4bbc-b779-f78dd945284d",
+    "stb_id": "GR12-BIO",
+    "chapter_id": 3,
+    "chapter_title": "Energy Transformation ",
+    "start_page": 118,
+    "end_page": 164
+  },
+  {
+    "record_id": "d632604d-2fce-4ea0-8011-7e2bde193200",
+    "stb_id": "GR12-BIO",
+    "chapter_id": 4,
+    "chapter_title": "Evolution ",
+    "start_page": 165,
+    "end_page": 239
+  },
+  {
+    "record_id": "011bb670-7dde-4e8e-8f75-09a8c57a3677",
+    "stb_id": "GR12-BIO",
+    "chapter_id": 5,
+    "chapter_title": "Human Body System ",
+    "start_page": 240,
+    "end_page": 336
+  },
+  {
+    "record_id": "37e7a260-efd2-4975-a188-bd7e85d1e1fc",
+    "stb_id": "GR12-BIO",
+    "chapter_id": 6,
+    "chapter_title": "Climate Change ",
+    "start_page": 337,
+    "end_page": 357
+  },
+  {
+    "record_id": "de9711d2-b255-4ce1-a161-2bb37837268f",
+    "stb_id": "GR12-CHE",
+    "chapter_id": 1,
+    "chapter_title": "Acid-Base Equilibria",
+    "start_page": 9,
+    "end_page": 63
+  },
+  {
+    "record_id": "4ec2eaa9-702f-4edb-9d0d-b4b207cd1989",
+    "stb_id": "GR12-CHE",
+    "chapter_id": 2,
+    "chapter_title": "Electrochemistry",
+    "start_page": 64,
+    "end_page": 142
+  },
+  {
+    "record_id": "412a4509-a03b-49d6-80fb-12014846c231",
+    "stb_id": "GR12-CHE",
+    "chapter_id": 3,
+    "chapter_title": "Industrial Chemistry",
+    "start_page": 143,
+    "end_page": 220
+  },
+  {
+    "record_id": "8c9b48e9-31d0-4a37-a8f9-10fda94d3fcd",
+    "stb_id": "GR12-CHE",
+    "chapter_id": 4,
+    "chapter_title": "Polymers",
+    "start_page": 221,
+    "end_page": 239
+  },
+  {
+    "record_id": "5684c4a0-0a0e-450d-adee-f8c3d416d6a7",
+    "stb_id": "GR12-CHE",
+    "chapter_id": 5,
+    "chapter_title": "Introduction to Environmental Chemistry",
+    "start_page": 240,
+    "end_page": 295
+  },
+  {
+    "record_id": "a86f239b-e9ac-458a-a438-abe61b5aeb21",
+    "stb_id": "GR12-ECO",
+    "chapter_id": 1,
+    "chapter_title": "The Fundamental Concepts of Macroeconomics",
+    "start_page": 11,
+    "end_page": 34
+  },
+  {
+    "record_id": "d4d33c07-5f9e-4233-bde8-89025fd0cf68",
+    "stb_id": "GR12-ECO",
+    "chapter_id": 2,
+    "chapter_title": "Aggregate Demand and Aggregate Supply Analysis",
+    "start_page": 35,
+    "end_page": 57
+  },
+  {
+    "record_id": "28d89965-be13-4a25-b278-84bcd01f240c",
+    "stb_id": "GR12-ECO",
+    "chapter_id": 3,
+    "chapter_title": "Market Failure and Consumer Protection",
+    "start_page": 58,
+    "end_page": 80
+  },
+  {
+    "record_id": "fa68e08f-adf3-428d-a685-76b06d40ff44",
+    "stb_id": "GR12-ECO",
+    "chapter_id": 4,
+    "chapter_title": "Macroeconomic Policy Instruments",
+    "start_page": 81,
+    "end_page": 110
+  },
+  {
+    "record_id": "4dea8470-3915-4254-984a-fcb896ffbc33",
+    "stb_id": "GR12-ECO",
+    "chapter_id": 5,
+    "chapter_title": "Tax Theory and Practice",
+    "start_page": 111,
+    "end_page": 130
+  },
+  {
+    "record_id": "58bcbb0f-39dc-4b8b-8c9b-1bc99bd98841",
+    "stb_id": "GR12-ECO",
+    "chapter_id": 6,
+    "chapter_title": "Poverty and Inequality",
+    "start_page": 131,
+    "end_page": 156
+  },
+  {
+    "record_id": "6170fea0-6ca4-487b-ada1-42f28baa1032",
+    "stb_id": "GR12-ECO",
+    "chapter_id": 7,
+    "chapter_title": "Macroeconomic Reforms in Ethiopia",
+    "start_page": 157,
+    "end_page": 189
+  },
+  {
+    "record_id": "58ca857d-febe-4675-b06d-e385c67c2364",
+    "stb_id": "GR12-ECO",
+    "chapter_id": 8,
+    "chapter_title": "Economy, Environment and Climate Change",
+    "start_page": 190,
+    "end_page": 212
+  },
+  {
+    "record_id": "99322d3e-2706-493e-99b4-c9981100cc0b",
+    "stb_id": "GR12-GEO",
+    "chapter_id": 1,
+    "chapter_title": "Major Geological Processes Associated With Plate Tectonics",
+    "start_page": 10,
+    "end_page": 42
+  },
+  {
+    "record_id": "7503e85c-6653-40b8-b309-700e3b18646e",
+    "stb_id": "GR12-GEO",
+    "chapter_id": 2,
+    "chapter_title": "Climate Change",
+    "start_page": 43,
+    "end_page": 70
+  },
+  {
+    "record_id": "e02fbdf7-bb21-4aef-af90-1706507d7088",
+    "stb_id": "GR12-GEO",
+    "chapter_id": 3,
+    "chapter_title": "Issues in Sustainable Development I: Management of Conflict Over Resources",
+    "start_page": 71,
+    "end_page": 100
+  },
+  {
+    "record_id": "9273fb53-ab8b-4f06-9974-636c5818dc4c",
+    "stb_id": "GR12-GEO",
+    "chapter_id": 4,
+    "chapter_title": "Issues in Sustainable Development II: Population Policies, Programs and The Environment",
+    "start_page": 101,
+    "end_page": 132
+  },
+  {
+    "record_id": "75fa76e7-0062-4def-9c70-f18b515b26fa",
+    "stb_id": "GR12-GEO",
+    "chapter_id": 5,
+    "chapter_title": "Issues in Sustainable Development III: Challenges of Economic Development",
+    "start_page": 133,
+    "end_page": 160
+  },
+  {
+    "record_id": "ae7819de-574f-4bdb-8bec-0b56efd222a8",
+    "stb_id": "GR12-GEO",
+    "chapter_id": 6,
+    "chapter_title": "Issues in Sustainable Development IV: Solutions to Environmental and Sustainability Problems",
+    "start_page": 0,
+    "end_page": 0
+  },
+  {
+    "record_id": "610b3be3-3fce-40d4-b2f3-001a1041e12e",
+    "stb_id": "GR12-GEO",
+    "chapter_id": 7,
+    "chapter_title": "Contemporary Global Geographic Issues and Concerns",
+    "start_page": 0,
+    "end_page": 0
+  },
+  {
+    "record_id": "550eda29-853b-4003-aa02-3c543aef4146",
+    "stb_id": "GR12-GEO",
+    "chapter_id": 8,
+    "chapter_title": "Geographical Enquiry and Map Making",
+    "start_page": 0,
+    "end_page": 0
+  },
+  {
+    "record_id": "f2a064a5-4835-4784-b252-cac42a412a9e",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 1,
+    "chapter_title": "Development of Capitalism and Nationalism from 1815 to 1914",
+    "start_page": 8,
+    "end_page": 33
+  },
+  {
+    "record_id": "06984aff-6213-41de-a33f-f82f0a622784",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 2,
+    "chapter_title": "Africa and the Colonial Experience (1880s - 1960s)",
+    "start_page": 34,
+    "end_page": 52
+  },
+  {
+    "record_id": "c6eb2ed0-2b2e-4baf-92bb-43667563639e",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 3,
+    "chapter_title": "Social, Economic and Political Developments in Ethiopia, Mid, 19th C. to 1941",
+    "start_page": 53,
+    "end_page": 98
+  },
+  {
+    "record_id": "91076104-c641-4774-a236-43e37ea6bd78",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 4,
+    "chapter_title": "Society and Politics in the Age of World Wars, 1914 - 1945",
+    "start_page": 99,
+    "end_page": 126
+  },
+  {
+    "record_id": "643f7387-b071-487e-9d3e-0d8eb4447bc5",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 5,
+    "chapter_title": "Global and Regional Developments Since 1945",
+    "start_page": 127,
+    "end_page": 163
+  },
+  {
+    "record_id": "bd03e7de-da9b-4c48-8721-8095f889aa78",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 6,
+    "chapter_title": "Ethiopia: Internal Developments and External Influences from 1941 to 1991",
+    "start_page": 164,
+    "end_page": 215
+  },
+  {
+    "record_id": "2d02f052-727f-4dd5-ba7b-313d12620c88",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 7,
+    "chapter_title": "Africa since the 1960s",
+    "start_page": 216,
+    "end_page": 247
+  },
+  {
+    "record_id": "59e66ce8-bb16-4b95-a4f2-82c456356794",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 8,
+    "chapter_title": "Post 1991 Developments in Ethiopia",
+    "start_page": 248,
+    "end_page": 260
+  },
+  {
+    "record_id": "69fe3130-a6f0-4bcb-a9f9-3162f87b1b46",
+    "stb_id": "GR12-HIS",
+    "chapter_id": 9,
+    "chapter_title": "Indigenous Knowledge Systems and Heritages of Ethiopia",
+    "start_page": 261,
+    "end_page": 289
+  },
+  {
+    "record_id": "1f83c409-fede-44e6-be2b-5c9f24ccac6a",
+    "stb_id": "GR12-ICT",
+    "chapter_id": 1,
+    "chapter_title": "Information Systems and their Applications",
+    "start_page": 8,
+    "end_page": 35
+  },
+  {
+    "record_id": "95d17be3-303f-49e0-80ea-4b47a68346e7",
+    "stb_id": "GR12-ICT",
+    "chapter_id": 2,
+    "chapter_title": "Emerging Technologies",
+    "start_page": 36,
+    "end_page": 66
+  },
+  {
+    "record_id": "bb7fa78a-fb2c-42c1-96c9-fae524e2e457",
+    "stb_id": "GR12-ICT",
+    "chapter_id": 3,
+    "chapter_title": "Database Management System",
+    "start_page": 67,
+    "end_page": 106
+  },
+  {
+    "record_id": "5f3873e0-2f2f-43ab-babf-6f74fba3c629",
+    "stb_id": "GR12-ICT",
+    "chapter_id": 4,
+    "chapter_title": "Web Authoring",
+    "start_page": 107,
+    "end_page": 141
+  },
+  {
+    "record_id": "d4eb54ea-d694-48bf-89ee-4c736238edab",
+    "stb_id": "GR12-ICT",
+    "chapter_id": 5,
+    "chapter_title": "Maintenance and Troubleshooting",
+    "start_page": 142,
+    "end_page": 170
+  },
+  {
+    "record_id": "427a1333-0e01-4e8d-b335-d88d3da320d1",
+    "stb_id": "GR12-ICT",
+    "chapter_id": 6,
+    "chapter_title": "Fundamentals of Programming",
+    "start_page": 171,
+    "end_page": 207
+  },
+  {
+    "record_id": "57921815-dc58-4452-939a-781e571162ae",
+    "stb_id": "GR12-MAT",
+    "chapter_id": 1,
+    "chapter_title": "SEQUENCES AND SERIES",
+    "start_page": 1,
+    "end_page": 60
+  },
+  {
+    "record_id": "85072c18-fa57-4326-b4e1-93bbbfdac28c",
+    "stb_id": "GR12-MAT",
+    "chapter_id": 2,
+    "chapter_title": "INTRODUCTIONS TO CALCULUS",
+    "start_page": 61,
+    "end_page": 158
+  },
+  {
+    "record_id": "9e4d7b5b-abfa-4b2e-8be3-95b8a6121afe",
+    "stb_id": "GR12-MAT",
+    "chapter_id": 3,
+    "chapter_title": "STATISTICS",
+    "start_page": 159,
+    "end_page": 236
+  },
+  {
+    "record_id": "e8db0a6c-25ec-45e6-b8a9-01c917d90538",
+    "stb_id": "GR12-MAT",
+    "chapter_id": 4,
+    "chapter_title": "INTRODUCTION TO LINEAR PROGRAMMING",
+    "start_page": 237,
+    "end_page": 302
+  },
+  {
+    "record_id": "84028402-2d16-4616-ac9f-00cfc89a5bf9",
+    "stb_id": "GR12-MAT",
+    "chapter_id": 5,
+    "chapter_title": "MATHEMATICAL APPLICATIONS IN BUSINESS",
+    "start_page": 303,
+    "end_page": 413
+  },
+  {
+    "record_id": "eab5aa65-783a-4fbe-b40b-e697d600f6e4",
+    "stb_id": "GR12-PHY",
+    "chapter_id": 1,
+    "chapter_title": "Application of physics in other fields",
+    "start_page": 7,
+    "end_page": 29
+  },
+  {
+    "record_id": "a3dde133-8f36-486c-9918-e1cd1f25ae1f",
+    "stb_id": "GR12-PHY",
+    "chapter_id": 2,
+    "chapter_title": "Two-dimensional motion",
+    "start_page": 30,
+    "end_page": 74
+  },
+  {
+    "record_id": "57e80a93-b365-406f-842c-a55bcd8efc21",
+    "stb_id": "GR12-PHY",
+    "chapter_id": 3,
+    "chapter_title": "Fluid Mechanics",
+    "start_page": 75,
+    "end_page": 122
+  },
+  {
+    "record_id": "a3e617c7-c49f-4a3c-a73a-83c70d373efa",
+    "stb_id": "GR12-PHY",
+    "chapter_id": 4,
+    "chapter_title": "Electromagnetism",
+    "start_page": 123,
+    "end_page": 147
+  },
+  {
+    "record_id": "edf9cba4-6e69-4520-b0c9-b161999847a7",
+    "stb_id": "GR12-PHY",
+    "chapter_id": 5,
+    "chapter_title": "Basics of electronics",
+    "start_page": 148,
+    "end_page": 185
+  }
+]

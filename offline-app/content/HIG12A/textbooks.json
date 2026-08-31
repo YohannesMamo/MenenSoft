@@ -1,0 +1,122 @@
+[
+  {
+    "stb_id": "GR12-AGR",
+    "title": "Grade 12 Agriculture Textbook",
+    "subject_id": "AGRISC",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12AGRICULTURE.pdf",
+    "size": "39.74 MB",
+    "format": "PDF",
+    "chapter_count": 17,
+    "section_count": 93
+  },
+  {
+    "stb_id": "GR12-BIO",
+    "title": "Grade 12 Biology Textbook",
+    "subject_id": "BIOLOGY",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12BIOLOGY.pdf",
+    "size": "30.48 MB",
+    "format": "PDF",
+    "chapter_count": 6,
+    "section_count": 76
+  },
+  {
+    "stb_id": "GR12-CHE",
+    "title": "Grade 12 Chemistry Textbook",
+    "subject_id": "CHEMIS",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12CHEMISTRY.pdf",
+    "size": "8.61 MB",
+    "format": "PDF",
+    "chapter_count": 5,
+    "section_count": 71
+  },
+  {
+    "stb_id": "GR12-ECO",
+    "title": "Grade 12 Economics Textbook",
+    "subject_id": "ECONO",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12ECONOMICS.pdf",
+    "size": "5.32 MB",
+    "format": "PDF",
+    "chapter_count": 8,
+    "section_count": 34
+  },
+  {
+    "stb_id": "GR12-ENG",
+    "title": "Grade 12 English Textbook",
+    "subject_id": "ENGLISH",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12ENGLISH.pdf",
+    "size": "15.90 MB",
+    "format": "PDF",
+    "chapter_count": 0,
+    "section_count": 0
+  },
+  {
+    "stb_id": "GR12-GEO",
+    "title": "Grade 12 Geography Textbook",
+    "subject_id": "GEOGR",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12GEOGRAPHY.pdf",
+    "size": "11.34 MB",
+    "format": "PDF",
+    "chapter_count": 5,
+    "section_count": 25
+  },
+  {
+    "stb_id": "GR12-HIS",
+    "title": "Grade 12 History Textbook",
+    "subject_id": "HISTOR",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12HISTORY.pdf",
+    "size": "8.28 MB",
+    "format": "PDF",
+    "chapter_count": 9,
+    "section_count": 45
+  },
+  {
+    "stb_id": "GR12-ICT",
+    "title": "Grade 12 ICT Textbook",
+    "subject_id": "INFOTECH",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12ICT.pdf",
+    "size": "9.96 MB",
+    "format": "PDF",
+    "chapter_count": 6,
+    "section_count": 22
+  },
+  {
+    "stb_id": "GR12-MAT",
+    "title": "Grade 12 Mathematics Textbook",
+    "subject_id": "MATH",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12MATHEMATICS.pdf",
+    "size": "71.88 MB",
+    "format": "PDF",
+    "chapter_count": 5,
+    "section_count": 19
+  },
+  {
+    "stb_id": "GR12-PHY",
+    "title": "Grade 12 Physics Textbook",
+    "subject_id": "PHYSIC",
+    "grade_id": "HIG12A",
+    "published_year": 2025,
+    "pdf_url": "/Textbooks/G12/GR12PHYSICS.pdf",
+    "size": "11.16 MB",
+    "format": "PDF",
+    "chapter_count": 5,
+    "section_count": 22
+  }
+]

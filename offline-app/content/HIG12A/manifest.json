@@ -1,0 +1,13 @@
+{
+  "grade_id": "HIG12A",
+  "exported_at": "2026-08-26T20:39:23.545896",
+  "total_size_bytes": 27968083,
+  "textbooks": 10,
+  "chapters": 69,
+  "sections": 480,
+  "quizzes": 1605,
+  "exam_questions": 4397,
+  "eslce_questions": 6192,
+  "eslce_exams": 74,
+  "content_checksum": "59d7ee1ce3af"
+}

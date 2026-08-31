@@ -7,6 +7,7 @@ import SlidesPlayer, { type PresentationSlideData } from './SlidesPlayer';
 import QuickNotesView from './QuickNotesView';
 import { ChemicalText } from '../lib/chemical';
 
+
 import {
   FileText, CheckCircle, ChevronLeft, Loader2,
   ChevronDown, ChevronRight, Search, Volume2, VolumeX,
@@ -955,7 +956,7 @@ useEffect(() => {
   
   // ==================== RENDER (JSX) ====================
   return (
-    <div className={`flex ${isFullscreen ? 'fixed inset-0 z-50' : 'h-screen'} bg-gradient-to-br from-slate-50 to-indigo-50/20 dark:from-gray-900 dark:to-gray-800 overflow-hidden`}>
+    <div className={`flex ${isFullscreen ? 'fixed inset-0 z-50' : 'h-[100dvh]'} bg-gradient-to-br from-slate-50 to-indigo-50/20 dark:from-gray-900 dark:to-gray-800 overflow-hidden`}>
 
       {/* ==================== LEFT SIDEBAR - Navigation ==================== */}
       <div className="w-72 border-r border-slate-200 dark:border-gray-700 flex flex-col bg-white dark:bg-gray-900 shadow-xl overflow-hidden">

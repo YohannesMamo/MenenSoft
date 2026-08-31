@@ -1,0 +1,162 @@
+[
+  {
+    "grade_id": "PRENU",
+    "grade_desc": "Pre-Nursery"
+  },
+  {
+    "grade_id": "NURSO",
+    "grade_desc": "Nursery"
+  },
+  {
+    "grade_id": "KIND1",
+    "grade_desc": "Kindergarten (KG1)"
+  },
+  {
+    "grade_id": "KIND2",
+    "grade_desc": "Kindergarten (KG2)"
+  },
+  {
+    "grade_id": "PREPRA",
+    "grade_desc": "Preparatory / Pre-Primary"
+  },
+  {
+    "grade_id": "GRAD1",
+    "grade_desc": "Grade 1"
+  },
+  {
+    "grade_id": "GRAD2",
+    "grade_desc": "Grade 2"
+  },
+  {
+    "grade_id": "GRAD3",
+    "grade_desc": "Grade 3 "
+  },
+  {
+    "grade_id": "GRAD4",
+    "grade_desc": "Grade 4"
+  },
+  {
+    "grade_id": "GRAD5",
+    "grade_desc": "Grade 5 "
+  },
+  {
+    "grade_id": "GRAD6",
+    "grade_desc": "Grade 6 "
+  },
+  {
+    "grade_id": "MID7A",
+    "grade_desc": "Grade 7 "
+  },
+  {
+    "grade_id": "MID8A",
+    "grade_desc": "Grade 8 "
+  },
+  {
+    "grade_id": "MID9A",
+    "grade_desc": "Grade 9 "
+  },
+  {
+    "grade_id": "HIG10A",
+    "grade_desc": "Grade 10 "
+  },
+  {
+    "grade_id": "HIG11A",
+    "grade_desc": "Grade 11 "
+  },
+  {
+    "grade_id": "HIG12A",
+    "grade_desc": "Grade 12"
+  },
+  {
+    "grade_id": "ASLEV",
+    "grade_desc": "A-Level AS (Lower 6th)"
+  },
+  {
+    "grade_id": "A2LEV",
+    "grade_desc": "A-Level A2 (Upper 6th)"
+  },
+  {
+    "grade_id": "VOCL1A",
+    "grade_desc": "Certificate Level 1"
+  },
+  {
+    "grade_id": "VOCL2A",
+    "grade_desc": "Certificate Level 2"
+  },
+  {
+    "grade_id": "VOCL3A",
+    "grade_desc": "Certificate Level 3"
+  },
+  {
+    "grade_id": "DIPLON",
+    "grade_desc": "Diploma Level"
+  },
+  {
+    "grade_id": "HIDIPO",
+    "grade_desc": "Higher Diploma"
+  },
+  {
+    "grade_id": "TRADEX",
+    "grade_desc": "Technical Training / Trade School"
+  },
+  {
+    "grade_id": "ASSODEG",
+    "grade_desc": "Associate Degree"
+  },
+  {
+    "grade_id": "BACH1",
+    "grade_desc": "Bachelor’s Year 1"
+  },
+  {
+    "grade_id": "BACH2",
+    "grade_desc": "Bachelor’s Year 2"
+  },
+  {
+    "grade_id": "BACH3",
+    "grade_desc": "Bachelor’s Year 3"
+  },
+  {
+    "grade_id": "BACH4",
+    "grade_desc": "Bachelor’s Year 4"
+  },
+  {
+    "grade_id": "HONRAY",
+    "grade_desc": "Honours Year"
+  },
+  {
+    "grade_id": "MAST1",
+    "grade_desc": "Master’s (Year 1)"
+  },
+  {
+    "grade_id": "MAST2",
+    "grade_desc": "Master’s (Year 2)"
+  },
+  {
+    "grade_id": "DOCSTA",
+    "grade_desc": "Doctoral Coursework Stage"
+  },
+  {
+    "grade_id": "PHDCAN",
+    "grade_desc": "PhD Candidate Stage"
+  },
+  {
+    "grade_id": "POSTDOC",
+    "grade_desc": "Postdoctoral Level"
+  },
+  {
+    "grade_id": "ADLITA",
+    "grade_desc": "Adult Literacy"
+  },
+  {
+    "grade_id": "CONEDU",
+    "grade_desc": "Continuing Education"
+  },
+  {
+    "grade_id": "PROCER",
+    "grade_desc": "Professional Certificate"
+  },
+  {
+    "grade_id": "EXECED",
+    "grade_desc": "Executive Education"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "question_type_id": "MCQ",
+    "question_type_desc": "MCQ"
+  },
+  {
+    "question_type_id": "SHORTANS",
+    "question_type_desc": "SHORTANS"
+  },
+  {
+    "question_type_id": "ESSAYLONG",
+    "question_type_desc": "ESSAYLONG"
+  },
+  {
+    "question_type_id": "TRUEFALSE",
+    "question_type_desc": "TRUEFALSE"
+  },
+  {
+    "question_type_id": "FILLBLANK",
+    "question_type_desc": "FILLBLANK"
+  },
+  {
+    "question_type_id": "MATCHPAIR",
+    "question_type_desc": "MATCHPAIR"
+  }
+]

@@ -6,10 +6,13 @@ import {
 import { useChat } from '../contexts/ChatContext';
 import axios from 'axios';
 
-// ===================== TYPES =====================
+
+// =q==================== TYPES =====================
 interface Student {
   StudentID: string;
   DisplayName: string;
+  IsOnline?: boolean;
+  LastSeen?: string | null;
 }
 
 interface Message {
@@ -62,8 +65,17 @@ const ConversationItem = ({
   );
 };
 
-// ===================== ONLINE USER ITEM COMPONENT =====================
-const OnlineUserItem = ({ user, onClick }: { user: Student; onClick: () => void }) => {
+// ===================== STUDENT ITEM COMPONENT =====================
+const formatLastSeen = (iso?: string | null): string => {
+  if (!iso) return 'Offline';
+  const diff = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (diff < 60) return 'Active just now';
+  if (diff < 3600) return `Active ${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400) return `Active ${Math.floor(diff / 3600)}h ago`;
+  return `Active ${Math.floor(diff / 86400)}d ago`;
+};
+
+const OnlineUserItem = ({ user, isOnline, lastSeen, onClick }: { user: Student; isOnline: boolean; lastSeen?: string | null; onClick: () => void }) => {
   return (
     <button
       onClick={onClick}
@@ -73,11 +85,14 @@ const OnlineUserItem = ({ user, onClick }: { user: Student; onClick: () => void 
         <div className="w-10 h-10 rounded-2xl bg-white/10 flex items-center justify-center text-lg font-bold group-hover:bg-indigo-600 transition-colors">
           {user.DisplayName[0]?.toUpperCase()}
         </div>
-        <div className="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 bg-emerald-500 rounded-full border-2 border-slate-900" />
+        {isOnline && <div className="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 bg-emerald-500 rounded-full border-2 border-slate-900" />}
+        {!isOnline && <div className="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 bg-slate-500 rounded-full border-2 border-slate-900" />}
       </div>
-      <div className="text-left">
-        <p className="font-semibold tracking-tight">{user.DisplayName}</p>
-        <p className="text-xs opacity-50">Student</p>
+      <div className="text-left min-w-0">
+        <p className="font-semibold tracking-tight truncate">{user.DisplayName}</p>
+        <p className={`text-xs ${isOnline ? 'text-emerald-400' : 'opacity-50'}`}>
+          {isOnline ? 'Online now' : formatLastSeen(lastSeen)}
+        </p>
       </div>
     </button>
   );
@@ -288,17 +303,19 @@ export const ChatHub = () => {
   const chat = useChat();
   const { userId: contextUserId } = chat;   // This should now be StudentID
 
-  const currentUserId = contextUserId || 
-                       localStorage.getItem('studentId') || 
-                       (() => {
-                         const student = localStorage.getItem('student');
-                         if (student) {
-                           try {
-                             return JSON.parse(student).StudentID;
-                           } catch {}
-                         }
-                         return null;
-                       })();
+  const currentUserId = contextUserId ||
+    localStorage.getItem('studentId') ||
+    localStorage.getItem('userId') ||
+    (() => {
+      const student = localStorage.getItem('student');
+      if (student) {
+        try {
+          const parsed = JSON.parse(student);
+          return parsed.StudentID || parsed.studentId || parsed.UserID || null;
+        } catch {}
+      }
+      return null;
+    })();
 
   console.log('[ChatHub] Context StudentID:', contextUserId);
   console.log('[ChatHub] Final currentUserId (StudentID):', currentUserId);
@@ -309,6 +326,7 @@ export const ChatHub = () => {
     messages: contextMessages,
     loading,
     onlineUsers,
+    lastSeenByUser,
     selectConversation,
     sendMessage,
     uploadFile,
@@ -325,8 +343,11 @@ export const ChatHub = () => {
   const [groupName, setGroupName] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
   const [newChatSearch, setNewChatSearch] = useState('');
+  const [studentsSearch, setStudentsSearch] = useState('');
+  const [leftTab, setLeftTab] = useState<'channels' | 'students'>('channels');
   const [isLoadingUsers, setIsLoadingUsers] = useState(false);
   const [isUploading, setIsUploading] = useState(false);
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
   // ===== Refs =====
   const fileInputRef = useRef<HTMLInputElement>(null);
@@ -405,29 +426,60 @@ const loadAvailableUsers = async () => {
   // ===== Send Message =====
   const handleSendMessage = async (e?: React.FormEvent) => {
     if (e) e.preventDefault();
-    if ((!newMessage.trim() && !selectedFile) || !selectedConversation || !currentUserId) return;
+    
+    setErrorMessage(null);
+    
+    // Validate prerequisites
+    if (!selectedConversation || !currentUserId) {
+      const msg = 'Cannot send message: Missing conversation or user ID';
+      console.warn(msg);
+      setErrorMessage(msg);
+      return;
+    }
+    
+    // Validate message content
+    const trimmedMessage = newMessage.trim();
+    if (!trimmedMessage && !selectedFile) {
+      const msg = 'Message cannot be empty. Please type a message or select a file.';
+      console.warn(msg);
+      setErrorMessage(msg);
+      return;
+    }
 
     let fileUrl = undefined;
+
+    // Upload file if selected
     if (selectedFile && fileInputRef.current?.files?.[0]) {
       setIsUploading(true);
       try {
         const result = await uploadFile(fileInputRef.current.files[0]);
         fileUrl = result.FileURL;
+        console.log('File uploaded successfully:', fileUrl);
       } catch (err) {
-        console.error(err);
+        console.error('File upload failed:', err);
+        const errorMsg = err instanceof Error ? err.message : 'File upload failed. Please try again.';
+        setErrorMessage(errorMsg);
+        setIsUploading(false);
+        return;
       }
       setIsUploading(false);
     }
 
+    // Send message
     try {
-      await sendMessage(selectedConversation.ConversationID, newMessage.trim(), fileUrl);
+      await sendMessage(selectedConversation.ConversationID, trimmedMessage, fileUrl);
+      console.log('Message sent successfully');
+      
+      // Clear form after successful send
+      setNewMessage('');
+      setSelectedFile(null);
+      if (fileInputRef.current) fileInputRef.current.value = '';
     } catch (error) {
       console.error('Failed to send message:', error);
+      const errorMsg = error instanceof Error ? error.message : 'Failed to send message. Please try again.';
+      setErrorMessage(errorMsg);
+      // Message stays in input for user to retry
     }
-
-    setNewMessage('');
-    setSelectedFile(null);
-    if (fileInputRef.current) fileInputRef.current.value = '';
   };
 
   // ===== File Handling =====
@@ -468,10 +520,10 @@ const loadAvailableUsers = async () => {
       const token = localStorage.getItem('token');
       
       const conversationData = {
+        Name: isCreatingGroup ? groupName || `Group Chat (${selectedUsers.length + 1})` : null,
         CName: isCreatingGroup ? groupName || `Group Chat (${selectedUsers.length + 1})` : null,
         IsGroup: isCreatingGroup && selectedUsers.length > 1,
-        ParticipantIDs: [currentUserId, ...selectedUsers],
-        CreatedAt: new Date().toISOString(),
+        ParticipantIDs: Array.from(new Set([currentUserId, ...selectedUsers]))
       };
 
       console.log('✅ Using currentUserId:', currentUserId);
@@ -484,26 +536,24 @@ const loadAvailableUsers = async () => {
       // ==================== SUCCESS HANDLING ====================
       if (res.data && res.data.ConversationID) {
         const conversations = JSON.parse(localStorage.getItem('conversations') || '[]');
-        
+
         const newConversation = {
           ...res.data,
-          Participants: [currentUserId, ...selectedUsers],
+          Participants: Array.from(new Set([currentUserId, ...selectedUsers])),
           CreatedAt: new Date().toISOString()
         };
-        
+
         conversations.push(newConversation);
         localStorage.setItem('conversations', JSON.stringify(conversations));
 
-        // Close modal using your existing handler
         handleModalClose();
-
         await fetchConversations();
-        ParticipantIDs: [currentUserId, ...selectedUsers];
+
         const newConv = {
           ConversationID: res.data.ConversationID,
           CName: res.data.Name || res.data.CName,
           IsGroup: res.data.IsGroup,
-          Participants: res.data.ParticipantIDs || [currentUserId, ...selectedUsers],
+          Participants: res.data.ParticipantIDs || Array.from(new Set([currentUserId, ...selectedUsers])),
         };
 
         selectConversation(newConv);
@@ -526,6 +576,7 @@ const loadAvailableUsers = async () => {
   // ===== Select Room =====
   const handleSelectRoom = (conv: any) => {
     if (!conv || !conv.ConversationID) return;
+    setSelectedUsers([]);
     selectConversation(conv);
   };
 
@@ -550,52 +601,112 @@ const filteredUsers = useMemo(() => {
   );
 }, [availableUsers, newChatSearch]);
 
+// Students for the side panel: merge live presence, sort online-first, filter by search
+const panelStudents = useMemo(() => {
+  if (!Array.isArray(availableUsers)) return [];
+  const query = studentsSearch.toLowerCase();
+  return availableUsers
+    .map(user => ({
+      ...user,
+      IsOnline: onlineUsers instanceof Set ? onlineUsers.has(user.StudentID) : !!user.IsOnline,
+      LastSeen: lastSeenByUser[user.StudentID] || user.LastSeen || null,
+    }))
+    .filter(user => (user?.DisplayName || '').toLowerCase().includes(query))
+    .sort((a, b) => {
+      if (a.IsOnline !== b.IsOnline) return a.IsOnline ? -1 : 1;
+      return (a.DisplayName || '').localeCompare(b.DisplayName || '');
+    });
+}, [availableUsers, studentsSearch, onlineUsers, lastSeenByUser]);
+
   // ===== RENDER =====
   return (
     <div className="flex h-[calc(100vh-64px)] bg-slate-100 dark:bg-gray-900 gap-6 p-6 overflow-hidden">
       {/* Left Sidebar */}
-      <div className="w-80 flex flex-col gap-6 h-full">
-        {/* Conversations List */}
-        <div className="bg-white dark:bg-gray-800 rounded-3xl p-6 border border-slate-200 dark:border-gray-700 shadow-sm flex-1 flex flex-col overflow-hidden">
-          {/* Header */}
-          <div className="flex items-center justify-between mb-6 px-2">
-            <div className="flex items-center gap-2">
-              <MessageSquare className="w-5 h-5 text-indigo-600 dark:text-indigo-400" />
-              <h3 className="text-xs font-black uppercase tracking-widest text-slate-800 dark:text-white">Study Channels</h3>
-            </div>
-            <button
-              onClick={() => setShowNewChatModal(true)}
-              className="p-2 hover:bg-slate-100 dark:hover:bg-gray-700 rounded-xl text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 transition-all"
-            >
-              <Plus className="w-5 h-5" />
-            </button>
-          </div>
+      <div className="w-80 flex flex-col gap-3 h-full">
+        {/* Accordion Tabs */}
+        <div className="flex gap-2 shrink-0">
+          <button
+            onClick={() => setLeftTab('channels')}
+            className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-2xl text-sm font-bold transition-all ${
+              leftTab === 'channels'
+                ? 'bg-white dark:bg-gray-800 text-indigo-600 dark:text-indigo-400 shadow-sm border border-slate-200 dark:border-gray-700'
+                : 'bg-white/50 dark:bg-gray-800/40 text-slate-500 dark:text-gray-400 hover:bg-white dark:hover:bg-gray-800'
+            }`}
+          >
+            <MessageSquare className="w-4 h-4" /> Channels
+          </button>
+          <button
+            onClick={() => setLeftTab('students')}
+            className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-2xl text-sm font-bold transition-all ${
+              leftTab === 'students'
+                ? 'bg-white dark:bg-gray-800 text-indigo-600 dark:text-indigo-400 shadow-sm border border-slate-200 dark:border-gray-700'
+                : 'bg-white/50 dark:bg-gray-800/40 text-slate-500 dark:text-gray-400 hover:bg-white dark:hover:bg-gray-800'
+            }`}
+          >
+            <Users className="w-4 h-4" /> Students
+            <span className="text-[10px] bg-emerald-500 text-white rounded-full px-1.5 py-0.5">{panelStudents.filter(s => s.IsOnline).length}</span>
+          </button>
+        </div>
 
-          {/* Search */}
-          <div className="mb-4 px-2">
-            <div className="relative">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 w-4 h-4" />
-              <input
-                type="text"
-                placeholder="Search conversations..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-10 pr-4 py-3 bg-slate-50 dark:bg-gray-900 border border-slate-200 dark:border-gray-700 rounded-2xl focus:outline-none focus:ring-2 focus:ring-indigo-500/30 text-sm"
-              />
+        {/* Channels panel (accordion) */}
+        {leftTab === 'channels' && (
+          <div className="bg-white dark:bg-gray-800 rounded-3xl p-6 border border-slate-200 dark:border-gray-700 shadow-sm flex-1 min-h-0 flex flex-col overflow-hidden">
+            {/* Header */}
+            <div className="flex items-center justify-between mb-6 px-2">
+              <div className="flex items-center gap-2">
+                <MessageSquare className="w-5 h-5 text-indigo-600 dark:text-indigo-400" />
+                <h3 className="text-xs font-black uppercase tracking-widest text-slate-800 dark:text-white">Study Channels</h3>
+              </div>
+              <button
+                onClick={() => setShowNewChatModal(true)}
+                className="p-2 hover:bg-slate-100 dark:hover:bg-gray-700 rounded-xl text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 transition-all"
+              >
+                <Plus className="w-5 h-5" />
+              </button>
             </div>
-          </div>
 
-          {/* Conversation List */}
-          <div className="flex-1 overflow-y-auto pr-2 space-y-1 scrollbar-thin scrollbar-thumb-slate-200">
-            {filteredConversations.length === 0 ? (
-              <div className="text-center py-12 text-slate-400 dark:text-slate-500">No conversations yet</div>
-            ) : (
-              <>
-                {/* Groups */}
-                {filteredConversations.filter(c => c.IsGroup).length > 0 && (
-                  <>
-                    <div className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-3 px-2">Groups</div>
-                    {filteredConversations.filter(c => c.IsGroup).map(conv => (
+            {/* Search */}
+            <div className="mb-4 px-2">
+              <div className="relative">
+                <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 w-4 h-4" />
+                <input
+                  type="text"
+                  placeholder="Search conversations..."
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  className="w-full pl-10 pr-4 py-3 bg-slate-50 dark:bg-gray-900 border border-slate-200 dark:border-gray-700 rounded-2xl focus:outline-none focus:ring-2 focus:ring-indigo-500/30 text-sm"
+                />
+              </div>
+            </div>
+
+            {/* Conversation List */}
+            <div className="flex-1 min-h-0 overflow-y-auto pr-2 space-y-1 scrollbar-thin scrollbar-thumb-slate-200">
+              {filteredConversations.length === 0 ? (
+                <div className="text-center py-12 text-slate-400 dark:text-slate-500">No conversations yet</div>
+              ) : (
+                <>
+                  {/* Groups */}
+                  {filteredConversations.filter(c => c.IsGroup).length > 0 && (
+                    <>
+                      <div className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mb-3 px-2">Groups</div>
+                      {filteredConversations.filter(c => c.IsGroup).map(conv => (
+                        <ConversationItem
+                          key={conv.ConversationID}
+                          conv={conv}
+                          isActive={selectedConversation?.ConversationID === conv.ConversationID}
+                          onClick={() => handleSelectRoom(conv)}
+                          getConversationName={getConversationName}
+                          currentUserId={currentUserId}
+                        />
+                      ))}
+                    </>
+                  )}
+
+                  {/* Recent Chats */}
+                  <div className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mt-8 mb-3 px-2">Recent Chats</div>
+                  {filteredConversations.filter(c => !c.IsGroup).map(conv => {
+                    const otherId = conv.Participants?.find((p: string) => p !== currentUserId);
+                    return (
                       <ConversationItem
                         key={conv.ConversationID}
                         conv={conv}
@@ -603,65 +714,67 @@ const filteredUsers = useMemo(() => {
                         onClick={() => handleSelectRoom(conv)}
                         getConversationName={getConversationName}
                         currentUserId={currentUserId}
+                        isOnline={isUserOnline(otherId || '')}
                       />
-                    ))}
-                  </>
-                )}
-
-                {/* Recent Chats */}
-                <div className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest mt-8 mb-3 px-2">Recent Chats</div>
-                {filteredConversations.filter(c => !c.IsGroup).map(conv => {
-                  const otherId = conv.Participants?.find((p: string) => p !== currentUserId);
-                  return (
-                    <ConversationItem
-                      key={conv.ConversationID}
-                      conv={conv}
-                      isActive={selectedConversation?.ConversationID === conv.ConversationID}
-                      onClick={() => handleSelectRoom(conv)}
-                      getConversationName={getConversationName}
-                      currentUserId={currentUserId}
-                      isOnline={isUserOnline(otherId || '')}
-                    />
-                  );
-                })}
-              </>
-            )}
-          </div>
-        </div>
-
-        {/* Online Students */}
-        <div className="bg-slate-900 rounded-3xl p-6 text-white shadow-2xl h-80 flex flex-col overflow-hidden relative">
-          <div className="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500 rounded-full blur-3xl opacity-10 pointer-events-none" />
-          <div className="relative z-10 flex flex-col h-full">
-            <div className="flex items-center gap-2 mb-6">
-              <Users className="w-5 h-5 text-indigo-400" />
-              <h3 className="text-xs font-black uppercase tracking-widest opacity-70">Online Students</h3>
-            </div>
-
-            <div className="flex-1 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 space-y-2">
-              {Array.from(onlineUsers).filter(id => id !== currentUserId).length === 0 ? (
-                <div className="text-center text-white/50 py-10">No other students online</div>
-              ) : (
-                Array.from(onlineUsers)
-                  .filter(id => id !== currentUserId)
-                  .map(userId => {
-                    const user = availableUsers.find(u => u.StudentID === userId);
-                    if (!user) return null;
-                    return <OnlineUserItem key={userId} user={user} onClick={() => {
-                      const existing = conversations.find(c => 
-                        !c.IsGroup && c.Participants?.includes(userId) && c.Participants?.includes(currentUserId)
-                      );
-                      if (existing) handleSelectRoom(existing);
-                      else {
-                        setShowNewChatModal(true);
-                        setSelectedUsers([userId]);
-                      }
-                    }} />;
-                  })
+                    );
+                  })}
+                </>
               )}
             </div>
           </div>
-        </div>
+        )}
+
+        {/* Students panel (accordion) */}
+        {leftTab === 'students' && (
+          <div className="bg-slate-900 rounded-3xl p-6 text-white shadow-2xl flex-1 min-h-0 flex flex-col overflow-hidden relative">
+            <div className="absolute -right-20 -bottom-20 w-64 h-64 bg-indigo-500 rounded-full blur-3xl opacity-10 pointer-events-none" />
+            <div className="relative z-10 flex flex-col h-full">
+              <div className="flex items-center justify-between mb-3">
+                <div className="flex items-center gap-2">
+                  <Users className="w-5 h-5 text-indigo-400" />
+                  <h3 className="text-xs font-black uppercase tracking-widest opacity-70">
+                    Students <span className="text-emerald-400">({panelStudents.filter(s => s.IsOnline).length} online)</span>
+                  </h3>
+                </div>
+              </div>
+
+              <div className="relative z-10 mb-3">
+                <input
+                  value={studentsSearch}
+                  onChange={(e) => setStudentsSearch(e.target.value)}
+                  placeholder="Search students..."
+                  className="w-full px-3 py-2 rounded-xl bg-white/10 border border-white/10 text-sm placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-indigo-500/50"
+                />
+              </div>
+
+              <div className="flex-1 min-h-0 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 space-y-1">
+                {panelStudents.length === 0 ? (
+                  <div className="text-center text-white/50 py-10">No students found</div>
+                ) : (
+                  panelStudents.map(user => (
+                    <OnlineUserItem
+                      key={user.StudentID}
+                      user={user}
+                      isOnline={!!user.IsOnline}
+                      lastSeen={user.LastSeen}
+                      onClick={() => {
+                        const existing = conversations.find(c =>
+                          !c.IsGroup && c.Participants?.includes(user.StudentID) && c.Participants?.includes(currentUserId)
+                        );
+                        if (existing) handleSelectRoom(existing);
+                        else {
+                          setShowNewChatModal(true);
+                          setSelectedUsers([user.StudentID]);
+                        }
+                        setLeftTab('channels');
+                      }}
+                    />
+                  ))
+                )}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Main Chat Area */}
@@ -745,6 +858,21 @@ const filteredUsers = useMemo(() => {
                     className="text-slate-400 hover:text-red-500 p-1"
                   >
                     <X className="w-5 h-5" />
+                  </button>
+                </div>
+              )}
+              {errorMessage && (
+                <div className="bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-2xl p-3 flex items-start gap-3">
+                  <div className="text-red-600 dark:text-red-400 font-bold text-lg leading-none mt-0.5">⚠️</div>
+                  <div>
+                    <p className="text-sm font-semibold text-red-800 dark:text-red-200">Message Error</p>
+                    <p className="text-xs text-red-700 dark:text-red-300 mt-1">{errorMessage}</p>
+                  </div>
+                  <button
+                    onClick={() => setErrorMessage(null)}
+                    className="text-red-400 hover:text-red-600 ml-auto flex-shrink-0 mt-0.5"
+                  >
+                    <X className="w-4 h-4" />
                   </button>
                 </div>
               )}
