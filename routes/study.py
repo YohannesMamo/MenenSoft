@@ -24,7 +24,8 @@ from pydantic import BaseModel
 
 router = APIRouter()
 
-# Test endpoint to verify PDF accessibility
+
+# Test endpoint to verify PDF accessibility*************************
 @router.get("/api/study/test-pdf/{stb_id}")
 def test_pdf_access(stb_id: str):
     print(f"[Study API] /api/study/test-pdf/{stb_id} called")

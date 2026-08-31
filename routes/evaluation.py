@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 from typing import Optional
 import json
 
+
 from database import get_db
 from models.EvaluationConfig import EvaluationConfig
 from models.StudentInfo import StudentInfo
@@ -22,7 +23,6 @@ from models.SubjectsInfo import SubjectsInfo
 router = APIRouter()
 
 DEFAULT_CONFIGS_PATH = "routes/evaluation_defaults.json"
-
 
 def _load_defaults():
     import json, os
