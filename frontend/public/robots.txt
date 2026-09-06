@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /settings
+Disallow: /chat
+Disallow: /payment
+Disallow: /complete-profile
+Disallow: /student-report
+Disallow: /report-detailed
+Disallow: /student-status
+
+Sitemap: https://menen-oshs-app.pxxl.click/sitemap.xml

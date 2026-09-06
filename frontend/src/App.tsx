@@ -4,6 +4,7 @@ import { useAuth } from './context/AuthContext';
 import ProtectedRoute from './components/ProtectedRoute';
 import Layout from './components/Layout';
 import AuthManager from './components/AuthManager';
+import Seo from './components/Seo';
 
 import LandingPage from './components/LandingPage';
 import Dashboard from './components/Dashboard';
@@ -76,8 +77,14 @@ function App() {
     <ChatProvider>
       <Routes>
         {/* Public Routes */}
-        <Route path="/" element={isOfflineBuild ? <Navigate to="/offline" replace /> : <LandingPage />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/" element={<><Seo
+          title="Menen Student Assistant — Ethiopian High School Study, Quiz & ESLCE Exam Prep"
+          description="Menen is the Ethiopian high school learning platform. Study full subject notes, practice quizzes, take ESLCE & national exam past papers, and track your progress—online or fully offline."
+          path="/" /><LandingPage /></>} />
+        <Route path="/about" element={<><Seo
+          title="About — Menen Student Assistant"
+          description="Learn about Menen Student Assistant — our mission, vision, values, contact information, and how to reach us in Addis Ababa, Ethiopia."
+          path="/about" /><About /></>} />
         
         {/* Auth Routes - All handled by AuthManager */}
         <Route path="/login" element={<AuthManager />} />

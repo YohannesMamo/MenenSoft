@@ -1,0 +1,41 @@
+# Menen Student Assistant
+
+Menen is the Ethiopian high-school learning platform. Study full subject notes, practice quizzes, take ESLCE and national exam past papers, and track your progress — online or fully offline.
+
+## What it is
+
+- Study guides and subject notes for Ethiopian high school students.
+- Section-level quizzes and full practice exams.
+- ESLCE national exam past papers and modules (premium).
+- Progress tracking and report cards.
+- Works in the browser, as an Android APK, or 100% offline after one-time content download.
+
+## Key pages
+
+- Home: https://menen-oshs-app.pxxl.click/
+- About / contact: https://menen-oshs-app.pxxl.click/about
+
+## Access modes
+
+- **Browser**: open the site, no install needed.
+- **APK**: native Android app.
+- **Offline**: download the app + content once (~300–500 MB), then study anywhere without internet.
+
+## FAQ
+
+- Q: How much storage does offline mode need?
+  A: About 300–500 MB including the app and your grade's notes and basic quizzes. Everything then works without an internet connection.
+
+- Q: Will I lose my progress if I study offline?
+  A: No. Progress is stored locally and syncs with your account when you are back online.
+
+- Q: How do I get updates?
+  A: Browser and APK versions update automatically online; offline content ships via periodic app updates.
+
+- Q: Is my data secure?
+  A: Accounts use secure sign-in. Offline study data stays on your device. Premium exam/ESLCE content is delivered separately after purchase.
+
+## Contact
+
+- Address: Bole Road, Addis Ababa, Ethiopia
+- Working hours: Mon–Fri 8:00 AM–6:00 PM, Sat 9:00 AM–2:00 PM, Sun closed
