@@ -1,6 +1,6 @@
 import React from 'react';
 import { Lightbulb, ListChecks, Hash, CheckCircle } from 'lucide-react';
-import { ChemicalText } from '../lib/chemical';
+import { RichText } from '../lib/content';
 
 export interface QuickNotesData {
   notes?: string;
@@ -50,7 +50,7 @@ const QuickNotesView: React.FC<QuickNotesViewProps> = ({ data, sectionTitle }) =
             <h3 className="flex items-center gap-2 text-indigo-600 dark:text-indigo-400 text-sm font-semibold mb-3">
               <ListChecks className="h-4 w-4" /> Section Summary
             </h3>
-            <p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap leading-relaxed"><ChemicalText text={summary} /></p>
+            <p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap leading-relaxed"><RichText text={summary} /></p>
           </section>
         )}
 
@@ -59,7 +59,7 @@ const QuickNotesView: React.FC<QuickNotesViewProps> = ({ data, sectionTitle }) =
             <h3 className="flex items-center gap-2 text-indigo-600 dark:text-indigo-400 text-sm font-semibold mb-3">
               <Lightbulb className="h-4 w-4" /> Study Notes
             </h3>
-            <p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap leading-relaxed"><ChemicalText text={notes} /></p>
+            <p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap leading-relaxed"><RichText text={notes} /></p>
           </section>
         )}
 
@@ -76,7 +76,7 @@ const QuickNotesView: React.FC<QuickNotesViewProps> = ({ data, sectionTitle }) =
                 return (
                   <div key={idx} className="flex gap-2 text-sm">
                     <span className="text-indigo-500 dark:text-indigo-400 font-semibold">{term}</span>
-                    {definition && <span className="text-slate-700 dark:text-gray-300">— {definition}</span>}
+                    {definition && <span className="text-slate-700 dark:text-gray-300">— <RichText text={definition} /></span>}
                   </div>
                 );
               })}
@@ -92,7 +92,7 @@ const QuickNotesView: React.FC<QuickNotesViewProps> = ({ data, sectionTitle }) =
             <div className="space-y-3">
               {exampleBlocks.map((example, idx) => (
                 <div key={idx} className="bg-slate-50 dark:bg-gray-900 rounded-xl p-4 border border-slate-200 dark:border-gray-700">
-                  <p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap"><ChemicalText text={example} /></p>
+                  <p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap"><RichText text={example} /></p>
                 </div>
               ))}
             </div>

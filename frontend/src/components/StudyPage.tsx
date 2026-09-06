@@ -5,7 +5,7 @@ import PdfViewer from './PdfViewer';
 import ButtonGroup from './ButtonGroup';
 import SlidesPlayer, { type PresentationSlideData } from './SlidesPlayer';
 import QuickNotesView from './QuickNotesView';
-import { ChemicalText } from '../lib/chemical';
+import { RichText } from '../lib/content';
 
 
 import {
@@ -1214,13 +1214,17 @@ useEffect(() => {
             </div>
           )}
           {resolvedMode === 'slides' ? (
-            <SlidesPlayer
-              title={presentation?.title || `${activeSection?.title || ''} Presentation`}
-              slides={presentation?.slides || []}
-              isCompleted={isCurrentSectionCompleted}
-            />
+            <div className="flex-1 min-h-0 flex flex-col">
+              <SlidesPlayer
+                title={presentation?.title || `${activeSection?.title || ''} Presentation`}
+                slides={presentation?.slides || []}
+                isCompleted={isCurrentSectionCompleted}
+              />
+            </div>
           ) : resolvedMode === 'notes' ? (
-            <QuickNotesView data={basicNotes} sectionTitle={activeSection ? `${activeSection.title}` : undefined} />
+            <div className="flex-1 min-h-0 flex flex-col">
+              <QuickNotesView data={basicNotes} sectionTitle={activeSection ? `${activeSection.title}` : undefined} />
+            </div>
           ) : pdfError ? (
             <div className="flex items-center justify-center h-full">
               <div className="bg-white dark:bg-gray-800 rounded-lg p-4 text-center">
@@ -1279,10 +1283,10 @@ useEffect(() => {
               ) : (
                 <>
                   {activeHelperTab === 'notes' && (
-                    <div><h4 className="text-indigo-600 dark:text-indigo-400 text-sm font-semibold mb-2">📖 Study Notes</h4><div className="bg-slate-50 dark:bg-gray-800 p-3 rounded-lg border border-slate-200 dark:border-gray-700"><p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap"><ChemicalText text={basicNotes?.notes || 'No notes available.'} /></p></div></div>
+                    <div><h4 className="text-indigo-600 dark:text-indigo-400 text-sm font-semibold mb-2">📖 Study Notes</h4><div className="bg-slate-50 dark:bg-gray-800 p-3 rounded-lg border border-slate-200 dark:border-gray-700"><p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap"><RichText text={basicNotes?.notes || 'No notes available.'} /></p></div></div>
                   )}
                   {activeHelperTab === 'summary' && (
-                    <div><h4 className="text-indigo-600 dark:text-indigo-400 text-sm font-semibold mb-2">📋 Section Summary</h4><div className="bg-slate-50 dark:bg-gray-800 p-3 rounded-lg border border-slate-200 dark:border-gray-700"><p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap"><ChemicalText text={basicNotes?.summary || 'No summary available.'} /></p></div></div>
+                    <div><h4 className="text-indigo-600 dark:text-indigo-400 text-sm font-semibold mb-2">📋 Section Summary</h4><div className="bg-slate-50 dark:bg-gray-800 p-3 rounded-lg border border-slate-200 dark:border-gray-700"><p className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap"><RichText text={basicNotes?.summary || 'No summary available.'} /></p></div></div>
                   )}
                   {activeHelperTab === 'keywords' && (
                     <div>
@@ -1296,7 +1300,7 @@ useEffect(() => {
                             <div key={idx} className="bg-slate-50 dark:bg-gray-800 p-3 rounded-lg border border-slate-200 dark:border-gray-700">
                               <div className="text-sm">
                                 <span className="font-semibold text-indigo-700 dark:text-indigo-300">{term}</span>
-                                {definition && <span className="text-slate-700 dark:text-gray-300">: <ChemicalText text={definition} /></span>}
+                                {definition && <span className="text-slate-700 dark:text-gray-300">: <RichText text={definition} /></span>}
                               </div>
                             </div>
                           );
@@ -1311,7 +1315,7 @@ useEffect(() => {
                         {basicNotes?.solvedExamples ? (
                           basicNotes.solvedExamples.split('\n\n').filter(Boolean).map((example, idx) => (
                             <div key={idx} className="bg-slate-50 dark:bg-gray-800 p-4 rounded-lg border border-slate-200 dark:border-gray-700">
-                              <div className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap"><ChemicalText text={example} /></div>
+                              <div className="text-slate-700 dark:text-gray-300 text-sm whitespace-pre-wrap"><RichText text={example} /></div>
                             </div>
                           ))
                         ) : (
