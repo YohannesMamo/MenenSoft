@@ -4,11 +4,10 @@ const config: CapacitorConfig = {
   appId: 'com.menen.oshs',
   appName: 'Menen OSHS',
   webDir: 'dist',
-  server: {
-    url: 'https://menen-oshs-app.pxxl.click',
-    cleartext: false,
-    androidScheme: 'https'
-  },
+  // Bundled mode: the SPA is packed into the APK and loads from local assets.
+  // The app's API layer resolves the reachable backend host at runtime
+  // (Pxxl API -> Render API) for resilience. No server.url is used so the
+  // UI always opens even if both app-front hosts are down.
   plugins: {
     SplashScreen: {
       launchAutoHide: true,
