@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { ChevronLeft, ChevronRight, Play, Pause, Maximize2, Minimize2, MonitorPlay } from 'lucide-react';
-import { ChemicalText } from '../lib/chemical';
+import { RichText } from '../lib/content';
 
 
 export interface PresentationSlideData {
@@ -166,7 +166,7 @@ const FullScreenSlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, on
           <div className={`transition-opacity duration-500 ease-out ${fade(revealed.includes('title'))}`}>
             <div className={`rounded-xl bg-blue-600 text-white px-6 py-5 mb-5 ${titleSize}`}>
               <h3 className="font-bold leading-snug">
-                <ChemicalText text={slide?.slideTitle || 'Untitled Slide'} />
+                <RichText text={slide?.slideTitle || 'Untitled Slide'} />
               </h3>
             </div>
           </div>
@@ -178,7 +178,7 @@ const FullScreenSlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, on
                 <ul className="space-y-2.5 list-disc pl-5">
                   {parseContent(content).map((line, i) => (
                     <li key={i} className={`leading-relaxed ${contentSize}`}>
-                      <ChemicalText text={line} />
+                      <RichText text={line} />
                     </li>
                   ))}
                 </ul>
@@ -194,7 +194,7 @@ const FullScreenSlidesPlayer: React.FC<SlidesPlayerProps> = ({ title, slides, on
               <div className="rounded-xl bg-emerald-600 text-white px-5 py-4">
                 <p className={`font-semibold mb-1 ${notesSize}`}>Notes</p>
                 <p className={`leading-relaxed ${notesSize}`}>
-                  <ChemicalText text={slide?.notes || ''} />
+                  <RichText text={slide?.notes || ''} />
                 </p>
               </div>
             </div>

@@ -10,7 +10,7 @@ import {
   getBasicNotes, getPresentations, getQuizzes,
   markSectionCompleted, getSectionProgress, recordQuizSession,
 } from '../services/offlineDb';
-import { ChemicalText } from '../lib/chemical';
+import { RichText } from '../lib/content';
 import BasicNotesView from '../components/BasicNotesView';
 import SlidesPlayer from '../components/SlidesPlayer';
 import QuizSession from '../components/offline/QuizSession';
@@ -173,7 +173,7 @@ export default function OfflineStudyPage() {
               <div className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow">
                 {sectionContent ? (
                   <div className="prose dark:prose-invert max-w-none">
-                    <ChemicalText text={sectionContent} />
+                    <RichText text={sectionContent} />
                   </div>
                 ) : (
                   <p className="text-gray-500 italic">No content available for this section.</p>
