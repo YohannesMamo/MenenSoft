@@ -1,9 +1,7 @@
 import { createContext, useContext, useState, useEffect, useRef, type ReactNode } from 'react';
 import { io, Socket } from 'socket.io-client';
 import axios from 'axios';
-
-
-const SOCKET_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+import { resolveApiBase } from '../config/api';
 
 interface Conversation {
   ConversationID: string;
@@ -325,14 +323,18 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
       return;
     }
 
-    console.log('[ChatContext] Socket.IO: Starting connection to:', SOCKET_URL);
-    
-    const newSocket = io(SOCKET_URL, {
-      transports: ['websocket', 'polling'],
-      auth: { token: localStorage.getItem('token') }
-    });
+    let cleanupFn: (() => void) | null = null;
 
-    newSocket.on('connect', () => {
+    (async () => {
+      const SOCKET_URL = await resolveApiBase();
+      console.log('[ChatContext] Socket.IO: Starting connection to:', SOCKET_URL);
+    
+      const newSocket = io(SOCKET_URL, {
+        transports: ['websocket', 'polling'],
+        auth: { token: localStorage.getItem('token') }
+      });
+
+      newSocket.on('connect', () => {
       console.log('[ChatContext] Socket.IO connected:', newSocket.id);
       socketRef.current = newSocket;
       newSocket.emit('register_user', { user_id: userId });
@@ -467,13 +469,16 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     setSocket(newSocket);
     socketRef.current = newSocket;
 
-    return () => {
+    cleanupFn = () => {
       clearInterval(heartbeat);
       if (socketRef.current === newSocket) {
         socketRef.current = null;
       }
       newSocket.disconnect();
     };
+    })();
+
+    return () => { if (cleanupFn) cleanupFn(); };
   }, [userId]);
 
   // NEW: Re-register user when userId becomes available AFTER socket was already connected

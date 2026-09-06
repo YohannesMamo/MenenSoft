@@ -1,6 +1,4 @@
-//const API_BASE = '/api';
-
-const API_BASE = import.meta.env.VITE_API_URL || '/api';
+import { resolveApiBase } from '../config/api';
 
 export interface LoginRequest {
   Email: string;
@@ -45,7 +43,8 @@ export interface ProfileResponse {
 
 export const authApi = {
   login: async (data: LoginRequest): Promise<AuthResponse> => {
-    const response = await fetch(`${API_BASE}/api/auth/login`, {
+    const base = await resolveApiBase();
+    const response = await fetch(`${base}/api/auth/login`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(data),
@@ -58,7 +57,8 @@ export const authApi = {
   },
 
   register: async (data: RegisterRequest): Promise<AuthResponse> => {
-    const response = await fetch(`${API_BASE}/api/auth/register`, {
+    const base = await resolveApiBase();
+    const response = await fetch(`${base}/api/auth/register`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(data),
@@ -71,7 +71,8 @@ export const authApi = {
   },
 
   getProfile: async (token: string): Promise<ProfileResponse> => {
-    const response = await fetch(`${API_BASE}/api/auth/profile`, {
+    const base = await resolveApiBase();
+    const response = await fetch(`${base}/api/auth/profile`, {
       headers: { Authorization: `Bearer ${token}` },
     });
     if (!response.ok) {

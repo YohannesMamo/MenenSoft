@@ -1,7 +1,8 @@
-const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+import { resolveApiBase } from '../config/api';
 
 export const apiFetch = async (endpoint: string, options: RequestInit = {}) => {
   const token = localStorage.getItem('token');
+  const base = await resolveApiBase();
 
   const config: RequestInit = {
     headers: {
@@ -11,7 +12,7 @@ export const apiFetch = async (endpoint: string, options: RequestInit = {}) => {
     ...options,
   };
 
-  const response = await fetch(`${API_BASE}${endpoint}`, config);
+  const response = await fetch(`${base}${endpoint}`, config);
 
   if (response.status === 401) {
     const AUTH_KEYS = ['token', 'userId', 'userEmail', 'userRole', 'studentId', 'userName', 'subscriptionStatus'];

@@ -72,8 +72,10 @@ sio = socketio.AsyncServer(
         "http://127.0.0.1:5173",
         "https://menen-oshs-app.pxxl.click",
         "https://menen-oshs-api.pxxl.click",
-		"https://menenoshs-api.onrender.com",
-		"https://menenoshs.onrender.com",
+        "https://menenoshs-api.onrender.com",
+        "https://menenoshs.onrender.com",
+        "https://menenoshs-api.onrender.com/",
+        "https://menenoshs.onrender.com/",
     ]
 )
 socket_app = socketio.ASGIApp(sio, app)
@@ -93,8 +95,10 @@ app.add_middleware(
         "http://127.0.0.1:3000",
         "https://menen-oshs-app.pxxl.click",
         "https://menen-oshs-api.pxxl.click",
-		"https://menenoshs-api.onrender.com",
-		"https://menenoshs.onrender.com",
+        "https://menenoshs-api.onrender.com",
+        "https://menenoshs.onrender.com",
+        "https://menenoshs-api.onrender.com/",
+        "https://menenoshs.onrender.com/",
     ],
     allow_credentials=True,
     allow_methods=["*"],
