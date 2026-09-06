@@ -103,7 +103,7 @@ export default config;
     execSync('npm run build', {
       cwd: FRONTEND_DIR,
       stdio: 'inherit',
-      timeout: 300000,
+      timeout: 900000,
       env: { ...process.env, VITE_OFFLINE_BUILD: 'true' },
     });
     log('Vite build done.');

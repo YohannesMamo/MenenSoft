@@ -1,11 +1,11 @@
 // services/auth.service.ts
 import type { LoginCredentials, RegisterData, AuthResponse } from '../types/auth.types';
-
-const API_BASE = import.meta.env.VITE_API_URL || '';
+import { resolveApiBase } from '../config/api';
 
 export class AuthService {
   static async login(credentials: LoginCredentials): Promise<AuthResponse> {
-    const response = await fetch(`${API_BASE}/api/auth/login`, {
+    const base = await resolveApiBase();
+    const response = await fetch(`${base}/api/auth/login`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(credentials)
@@ -20,7 +20,8 @@ export class AuthService {
   }
 
   static async register(data: RegisterData): Promise<AuthResponse> {
-    const response = await fetch(`${API_BASE}/api/auth/register`, {
+    const base = await resolveApiBase();
+    const response = await fetch(`${base}/api/auth/register`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(data)
@@ -35,7 +36,8 @@ export class AuthService {
   }
 
   static async forgotPassword(email: string): Promise<{ message: string }> {
-    const response = await fetch(`${API_BASE}/api/auth/forgot-password`, {
+    const base = await resolveApiBase();
+    const response = await fetch(`${base}/api/auth/forgot-password`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ email })
@@ -50,7 +52,8 @@ export class AuthService {
   }
 
   static async resetPassword(token: string, newPassword: string): Promise<{ message: string }> {
-    const response = await fetch(`${API_BASE}/api/auth/reset-password`, {
+    const base = await resolveApiBase();
+    const response = await fetch(`${base}/api/auth/reset-password`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ token, newPassword })

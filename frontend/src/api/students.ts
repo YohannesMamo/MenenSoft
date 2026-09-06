@@ -1,4 +1,4 @@
-const API_BASE = import.meta.env.VITE_API_URL ||'/api';
+import { resolveApiBase } from '../config/api';
 
 export interface Grade {
   gradeId: string;
@@ -7,7 +7,8 @@ export interface Grade {
 
 export const studentsApi = {
   getGrades: async (): Promise<Grade[]> => {
-    const response = await fetch(`${API_BASE}/api/students/grades`);
+    const base = await resolveApiBase();
+    const response = await fetch(`${base}/api/students/grades`);
     if (!response.ok) {
       throw new Error('Failed to fetch grades');
     }
