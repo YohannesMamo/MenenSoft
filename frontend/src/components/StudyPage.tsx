@@ -6,6 +6,7 @@ import ButtonGroup from './ButtonGroup';
 import SlidesPlayer, { type PresentationSlideData } from './SlidesPlayer';
 import QuickNotesView from './QuickNotesView';
 import { RichText } from '../lib/content';
+import { megaPipeline } from '../services/megaPipeline';
 
 
 import {
@@ -654,131 +655,89 @@ const [pdfSourceAttempt, setPdfSourceAttempt] = useState<'local' | 'mega'>('loca
   // ==================== EFFECTS ====================
 
   // Cascading Cloud / Local Fallover Pipeline for the textbook PDF.
-  // Choice 1 (PRIMARY): MEGA Cloud — decrypt + stream the file into memory.
-  // Choice 2 (SECONDARY): Local backend-hosted mirror of the same file.
+  // Choice 1 (PRIMARY): MEGA Cloud — pre-warmed index + 60s timeout, 3-attempt
+  //   retry with 2s/5s backoff. Timeouts retry MEGA and never cascade to local.
+  // Choice 2 (SECONDARY): Local backend-hosted mirror — only reached on a
+  //   definitive MEGA failure (notfound / auth / decrypt after retries).
   const loadPdfSource = async (bookData: any) => {
-    if (bookData?.pdfUrl) {
-      try {
-        let securePdfBlobUrl = '';
-        let sourceAttempted: 'mega' | 'local' = 'mega';
-        const targetFileName = bookData.pdfUrl.split('/').pop();
-
-        try {
-          // ====================================================================
-          // CHOICE 1 (PRIMARY): Try downloading and decrypting from MEGA Cloud First
-          // ====================================================================
-          console.log(`[Asset Pipeline] Priority 1: Hunting MEGA Cloud Directory for [${targetFileName}]...`);
-
-          const megaModule = await import('megajs');
-          const FileEngine = megaModule.File || (megaModule as any).default?.File;
-
-          if (!FileEngine) {
-            throw new Error("Could not extract the File constructor from the megajs library bundle context.");
-          }
-
-          const PUBLIC_MEGA_FOLDER_URL = "https://mega.nz/folder/EMdRGZBJ#L814x1beExJxZYAloNdD5w";
-
-          const megaFolder = FileEngine.fromURL(PUBLIC_MEGA_FOLDER_URL);
-          await megaFolder.loadAttributes();
-
-          const findFileRecursive = (folder: any, name: string): any => {
-            const directMatch = folder.children?.find(
-              (item: any) => !item.children && item.name.toLowerCase() === name.toLowerCase()
-            );
-            if (directMatch) return directMatch;
-
-            const subFolders = folder.children?.filter((item: any) => item.children) || [];
-            for (const sub of subFolders) {
-              const nestedMatch = findFileRecursive(sub, name);
-              if (nestedMatch) return nestedMatch;
-            }
-            return null;
-          };
-
-          const targetCloudFile = findFileRecursive(megaFolder, targetFileName || '');
-
-          if (!targetCloudFile) {
-            throw new Error(`File matching name [${targetFileName}] is not uploaded anywhere within this MEGA cloud folder hierarchy.`);
-          }
-
-          console.log(`[Asset Pipeline] Cloud target confirmed: ${targetCloudFile.name}. Starting decryption stream...`);
-
-          const downloadWithTimeout = async (): Promise<Uint8Array[]> => {
-            const chunks: Uint8Array[] = [];
-            for await (const chunk of targetCloudFile.download({})) {
-              chunks.push(new Uint8Array(chunk));
-            }
-            return chunks;
-          };
-          const MEGA_DOWNLOAD_TIMEOUT_MS = 15000;
-          let downloadTimer: ReturnType<typeof setTimeout> | undefined;
-          const chunks: Uint8Array[] = await Promise.race([
-            downloadWithTimeout(),
-            new Promise<never>((_, reject) => {
-              downloadTimer = setTimeout(
-                () => reject(new Error(`MEGA download for [${targetFileName}] timed out after ${MEGA_DOWNLOAD_TIMEOUT_MS / 1000}s`)),
-                MEGA_DOWNLOAD_TIMEOUT_MS
-              );
-            }),
-          ]).finally(() => downloadTimer && clearTimeout(downloadTimer));
-
-          const pdfBlob = new Blob(chunks as BlobPart[], { type: 'application/pdf' });
-          securePdfBlobUrl = URL.createObjectURL(pdfBlob);
-          setPdfSourceAttempt('mega');
-          console.log(`[Asset Pipeline] Success! ${targetFileName} completely decrypted via client browser memory.`);
-
-        } catch (megaCloudError) {
-          // ====================================================================
-          // CHOICE 2 (FALLBACK): Cloud failed. Fallback to Local Host Residence
-          // ====================================================================
-          console.warn(`[Asset Pipeline] Priority 1 (MEGA) failed. Cascading down to Priority 2 (Local)...`, megaCloudError);
-          sourceAttempted = 'local';
-
-          let backendOrigin = API_BASE && API_BASE.startsWith('http')
-            ? new URL(API_BASE).origin
-            : (window.location.hostname === 'localhost' ? 'http://localhost:8000' : window.location.origin);
-
-          const dynamicStorageUrl = `${backendOrigin}${bookData.pdfUrl}`.replace(/([^:]\/)\/+/g, "$1");
-          console.log(`[Asset Pipeline] Requesting local fallback backup route: ${dynamicStorageUrl}`);
-
-          const token = localStorage.getItem('token');
-          const pdfBlobResponse = await fetch(dynamicStorageUrl, {
-            headers: { 'Authorization': `Bearer ${token}` }
-          });
-
-          if (!pdfBlobResponse.ok) {
-            throw new Error(`Local mirror backup also failed with status code ${pdfBlobResponse.status}`);
-          }
-
-          const contentType = pdfBlobResponse.headers.get('content-type');
-          if (!contentType || !contentType.includes('application/pdf')) {
-            throw new Error('Local fallback server response did not resolve to a valid PDF binary stream.');
-          }
-
-          const pdfBlob = await pdfBlobResponse.blob();
-          securePdfBlobUrl = URL.createObjectURL(pdfBlob);
-          setPdfSourceAttempt('local');
-        }
-
-        // Bind successfully loaded asset into memory straight to the viewer state canvas
-        setPdfUrl(securePdfBlobUrl);
-        setBook(prev => {
-          if (!prev) return null;
-          return {
-            ...prev,
-            localPdfUrl: securePdfBlobUrl,
-            megaPdfUrl: sourceAttempted === 'mega' ? bookData.pdfUrl : `https://mega.nz${bookData.pdfUrl}`
-          };
-        });
-
-      } catch (pipelineFinalErr: any) {
-        console.error("[Asset Pipeline] Critical Fault: Both storage vectors failed:", pipelineFinalErr);
-        setPdfUrl(null);
-      }
-    } else {
+    if (!bookData?.pdfUrl) {
       setPdfUrl(null);
       console.warn('No valid document identification path present inside textbook properties.');
+      return;
     }
+
+    const targetFileName = bookData.pdfUrl.split('/').pop() || '';
+    const token = localStorage.getItem('token');
+    let securePdfBlobUrl = '';
+    let sourceAttempted: 'mega' | 'local' = 'mega';
+
+    try {
+      // ========================================================================
+      // CHOICE 1 (PRIMARY): MEGA Cloud
+      // ========================================================================
+      const mega = await megaPipeline.fetchPdf(targetFileName);
+
+      if (mega.ok) {
+        const pdfBlob = new Blob(mega.chunks as BlobPart[], { type: 'application/pdf' });
+        securePdfBlobUrl = URL.createObjectURL(pdfBlob);
+        setPdfSourceAttempt('mega');
+        console.log(`[Asset Pipeline] Success! ${targetFileName} completely decrypted via client browser memory (attempt ${mega.attempt}).`);
+      } else if (!mega.shouldCascade) {
+        // Final MEGA timeout after 3 attempts: MEGA is simply slow/unreachable.
+        // Do NOT fall through to a likely-missing local mirror.
+        console.error(`[Asset Pipeline] MEGA exhausted for [${targetFileName}]. Not cascading to local mirror.`, mega);
+        setPdfUrl(null);
+        return;
+      }
+
+      if (!mega.ok && mega.shouldCascade) {
+        // ======================================================================
+        // CHOICE 2 (FALLBACK): Cloud definitively failed (notfound/auth/decrypt).
+        // Cascade to Local Host Residence.
+        // ======================================================================
+        console.warn(`[Asset Pipeline] MEGA (${mega.reason}) for [${targetFileName}]. Cascading down to Priority 2 (Local)...`);
+        sourceAttempted = 'local';
+
+        const backendOrigin = API_BASE && API_BASE.startsWith('http')
+          ? new URL(API_BASE).origin
+          : (window.location.hostname === 'localhost' ? 'http://localhost:8000' : window.location.origin);
+
+        const dynamicStorageUrl = `${backendOrigin}${bookData.pdfUrl}`.replace(/([^:]\/)\/+/g, "$1");
+        console.log(`[Asset Pipeline] Requesting local fallback backup route: ${dynamicStorageUrl}`);
+
+        const pdfBlobResponse = await fetch(dynamicStorageUrl, {
+          headers: { 'Authorization': `Bearer ${token}` }
+        });
+
+        if (!pdfBlobResponse.ok) {
+          throw new Error(`Local mirror backup also failed with status code ${pdfBlobResponse.status}`);
+        }
+
+        const contentType = pdfBlobResponse.headers.get('content-type');
+        if (!contentType || !contentType.includes('application/pdf')) {
+          throw new Error('Local fallback server response did not resolve to a valid PDF binary stream.');
+        }
+
+        const pdfBlob = await pdfBlobResponse.blob();
+        securePdfBlobUrl = URL.createObjectURL(pdfBlob);
+        setPdfSourceAttempt('local');
+      }
+    } catch (pipelineFinalErr: any) {
+      console.error("[Asset Pipeline] Critical Fault: Both storage vectors failed:", pipelineFinalErr);
+      setPdfUrl(null);
+      return;
+    }
+
+    // Bind successfully loaded asset into memory straight to the viewer state canvas
+    setPdfUrl(securePdfBlobUrl);
+    setBook(prev => {
+      if (!prev) return null;
+      return {
+        ...prev,
+        localPdfUrl: securePdfBlobUrl,
+        megaPdfUrl: sourceAttempted === 'mega' ? bookData.pdfUrl : `https://mega.nz${bookData.pdfUrl}`
+      };
+    });
   };
 
   // Re-run the primary (MEGA) → secondary (local) textbook source pipeline on demand.

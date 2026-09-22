@@ -5,9 +5,11 @@ import { AuthProvider } from './context/AuthContext';
 import { ThemeProvider } from './context/ThemeContext';
 import App from './App';
 import { initializeNativePlugins } from './utils/capacitor';
+import { prewarmMegaAssets } from './services/megaPipeline';
 import './index.css';
 
 initializeNativePlugins();
+prewarmMegaAssets();
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
