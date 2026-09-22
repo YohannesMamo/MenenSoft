@@ -31,9 +31,9 @@ const PaymentPage = () => {
   const [copied, setCopied] = useState('');
 
   const [telebirrPhone, setTelebirrPhone] = useState('0977815579');
-  const [telebirrName, setTelebirrName] = useState('Menen Amare');
-  const [cbeAccount, setCbeAccount] = useState('1000123456789');
-  const [cbeName, setCbeName] = useState('Menen Amare');
+  const [telebirrName, setTelebirrName] = useState('Ghion Mamo Asfaw');
+  const [cbeAccount, setCbeAccount] = useState('1000239386443');
+  const [cbeName, setCbeName] = useState('Ghion Mamo Asfaw');
 
   const isPremium = user?.subscriptionStatus === 'Premium';
   const plan = PLANS.find((p) => p.id === selectedPlan);
