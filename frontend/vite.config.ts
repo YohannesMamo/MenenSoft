@@ -13,6 +13,8 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,ico,png,svg,woff,woff2,ttf,eot}'],
         globIgnores: ['**/students*.png', '**/students*.jpg', '**/*.pdf'],
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
+        navigateFallback: 'index.html',
+        navigateFallbackDenylist: [/\.(?:pdf)$/i, /^blob:/i],
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/menen-oshd-api\.pxxl\.click\/api\/.*/i,

@@ -30,6 +30,7 @@ export interface HighlightData {
 
 interface PdfViewerProps {
   fileUrl: string;
+  fileData?: Uint8Array;
   scale?: number;
   onLoad?: (pageCount: number) => void;
   onPageChange?: (pageNumber: number) => void;
@@ -51,9 +52,11 @@ export interface PdfViewerRef {
 
 const PdfViewer = React.forwardRef<PdfViewerRef, PdfViewerProps>(({
   fileUrl,
+  fileData,
   scale = 1.1,
   onLoad,
   onPageChange,
+  onError,
   onTextSelection,
   onRenderHighlightTarget,
 }, ref) => {
@@ -84,10 +87,12 @@ const PdfViewer = React.forwardRef<PdfViewerRef, PdfViewerProps>(({
 
   const getPdfDocument = async () => {
     try {
-      if (!fileUrl) return null;
+      if (!fileUrl && !fileData) return null;
       if (docRef.current && docUrlRef.current === fileUrl) return docRef.current;
       pdfjsLib.GlobalWorkerOptions.workerSrc = '/pdf.worker.min.js';
-      const loadingTask = pdfjsLib.getDocument({ url: fileUrl });
+      const loadingTask = fileData
+        ? pdfjsLib.getDocument({ data: fileData })
+        : pdfjsLib.getDocument({ url: fileUrl });
       const doc = await loadingTask.promise;
       docRef.current = doc;
       docUrlRef.current = fileUrl;
@@ -167,7 +172,7 @@ const PdfViewer = React.forwardRef<PdfViewerRef, PdfViewerProps>(({
       docRef.current = null;
       docUrlRef.current = null;
     };
-  }, [fileUrl]);
+  }, [fileUrl, fileData]);
 
   return (
     <div className="pdf-viewer-container h-full flex flex-col bg-gray-100 dark:bg-gray-900 rounded-lg overflow-hidden shadow-inner">
@@ -175,8 +180,8 @@ const PdfViewer = React.forwardRef<PdfViewerRef, PdfViewerProps>(({
       <div className="flex-1 overflow-hidden relative">
         <Worker workerUrl="/pdf.worker.min.js">
           <Viewer
-            key={`${fileUrl}-${currentScale}`}
-            fileUrl={fileUrl}
+            key={`${fileUrl}-${fileData ? 'data' : 'url'}-${currentScale}`}
+            fileUrl={fileData ?? fileUrl}
             plugins={[
               pageNavigationPluginInstance,
               highlightPluginInstance,
@@ -185,6 +190,16 @@ const PdfViewer = React.forwardRef<PdfViewerRef, PdfViewerProps>(({
             ]}
             onDocumentLoad={handleDocumentLoad}
             onPageChange={handlePageChange}
+            renderError={(error: { message?: string; name?: string }) => {
+              if (onError) {
+                onError(error?.message || error?.name || 'Unknown PDF render error');
+              }
+              return (
+                <div className="flex h-full items-center justify-center p-6 text-center text-sm text-red-600 dark:text-red-400">
+                  PDF failed to render after downloading successfully.
+                </div>
+              );
+            }}
             defaultScale={currentScale}
             theme="light"
           />

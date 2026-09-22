@@ -70,13 +70,13 @@ const StudyPage: React.FC = () => {
   const navigate = useNavigate();
 
 
-const [pdfSourceAttempt, setPdfSourceAttempt] = useState<'local' | 'mega'>('local');
-  const [refreshingPdf, setRefreshingPdf] = useState(false);
+const [refreshingPdf, setRefreshingPdf] = useState(false);
   // ==================== REFS ====================
   const pdfViewerRef = useRef<any>(null);
 
   // ==================== PDF STATE ====================
   const [pdfUrl, setPdfUrl] = useState<string | null>(null);
+  const [pdfData, setPdfData] = useState<Uint8Array | null>(null);
   const [pdfLoading] = useState(false);
   const [pdfError, setPdfError] = useState<string | null>(null);
   const [, setError] = useState<string | null>(null);
@@ -662,6 +662,7 @@ const [pdfSourceAttempt, setPdfSourceAttempt] = useState<'local' | 'mega'>('loca
   const loadPdfSource = async (bookData: any) => {
     if (!bookData?.pdfUrl) {
       setPdfUrl(null);
+      setPdfData(null);
       console.warn('No valid document identification path present inside textbook properties.');
       return;
     }
@@ -680,13 +681,20 @@ const [pdfSourceAttempt, setPdfSourceAttempt] = useState<'local' | 'mega'>('loca
       if (mega.ok) {
         const pdfBlob = new Blob(mega.chunks as BlobPart[], { type: 'application/pdf' });
         securePdfBlobUrl = URL.createObjectURL(pdfBlob);
-        setPdfSourceAttempt('mega');
+        const pdfBytes = new Uint8Array(mega.chunks.reduce((n: number, c: Uint8Array) => n + c.length, 0));
+        let byteOffset = 0;
+        for (const chunk of mega.chunks) {
+          pdfBytes.set(chunk, byteOffset);
+          byteOffset += chunk.length;
+        }
+        setPdfData(pdfBytes);
         console.log(`[Asset Pipeline] Success! ${targetFileName} completely decrypted via client browser memory (attempt ${mega.attempt}).`);
       } else if (!mega.shouldCascade) {
         // Final MEGA timeout after 3 attempts: MEGA is simply slow/unreachable.
         // Do NOT fall through to a likely-missing local mirror.
         console.error(`[Asset Pipeline] MEGA exhausted for [${targetFileName}]. Not cascading to local mirror.`, mega);
         setPdfUrl(null);
+        setPdfData(null);
         return;
       }
 
@@ -720,11 +728,12 @@ const [pdfSourceAttempt, setPdfSourceAttempt] = useState<'local' | 'mega'>('loca
 
         const pdfBlob = await pdfBlobResponse.blob();
         securePdfBlobUrl = URL.createObjectURL(pdfBlob);
-        setPdfSourceAttempt('local');
+        setPdfData(new Uint8Array(await pdfBlob.arrayBuffer()));
       }
     } catch (pipelineFinalErr: any) {
       console.error("[Asset Pipeline] Critical Fault: Both storage vectors failed:", pipelineFinalErr);
       setPdfUrl(null);
+      setPdfData(null);
       return;
     }
 
@@ -749,6 +758,7 @@ const [pdfSourceAttempt, setPdfSourceAttempt] = useState<'local' | 'mega'>('loca
       try { URL.revokeObjectURL(pdfUrl); } catch (_) { /* best effort */ }
     }
     setPdfUrl(null);
+    setPdfData(null);
     try {
       await loadPdfSource(book);
     } finally {
@@ -905,14 +915,6 @@ useEffect(() => {
   return () => window.removeEventListener('keydown', handleKeyPress);
 }, [activeHelperTab, presentation?.slides?.length]);
 
-  // Temporarily add this before rendering PdfViewer
-useEffect(() => {
-  if (pdfUrl) {
-    fetch(pdfUrl, { method: 'HEAD' })
-      .then(res => console.log('PDF URL status:', res.status, res.headers.get('content-type')))
-      .catch(err => console.error('PDF fetch error:', err));
-  }
-}, [pdfUrl]);
   // ==================== LOADING STATE ====================
   if (loading) {
     return (
@@ -1228,17 +1230,14 @@ useEffect(() => {
             <PdfViewer
               ref={pdfViewerRef}
               fileUrl={pdfUrl}
+              fileData={pdfData ?? undefined}
               onLoad={updatePageInfo}
-              onError={() => {
-                // If local source fails and we haven't tried MEGA yet
-                if (pdfSourceAttempt === 'local' && book?.megaPdfUrl) {
-                  console.log('Local PDF failed, trying MEGA...');
-                  setPdfUrl(book.megaPdfUrl);
-                  setPdfSourceAttempt('mega');
-                  setPdfError(null); // clear previous error
-                } else {
-                  setPdfError('PDF failed to load from both sources.');
-                }
+              onError={(err) => {
+                // Rendering failure after a SUCCESSFUL download: log and stop.
+                // Do NOT re-try MEGA or flip sources here — retries belong only
+                // to the download layer (megaPipeline), not the render layer.
+                console.error('[Asset Pipeline] Render failed after download succeeded. Not retrying.', err);
+                setPdfError('PDF failed to render. The file downloaded but could not be displayed.');
               }}
             />
             )
