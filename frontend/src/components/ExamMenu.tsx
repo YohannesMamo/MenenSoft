@@ -78,7 +78,7 @@ const isPremium = user?.subscriptionStatus === 'Premium';
   
   const getGradeLabel = (grade: string): string => {
     const gradeMap: Record<string, string> = {
-      'HIG9A': 'Grade 9',
+      'MID9A': 'Grade 9',
       'HIG10A': 'Grade 10',
       'HIG11A': 'Grade 11',
       'HIG12A': 'Grade 12'
