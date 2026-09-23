@@ -26,6 +26,13 @@ interface Grade {
   gradeDescription: string;
 }
 
+const FALLBACK_GRADES: Grade[] = [
+  { gradeId: 'MID9A', gradeDescription: 'Grade 9' },
+  { gradeId: 'HIG10A', gradeDescription: 'Grade 10' },
+  { gradeId: 'HIG11A', gradeDescription: 'Grade 11' },
+  { gradeId: 'HIG12A', gradeDescription: 'Grade 12' },
+];
+
 type AuthView = 'login' | 'register' | 'forgot-password' | 'reset-password' | 'verify-email';
 
 const AuthManager: React.FC = () => {
@@ -107,12 +114,17 @@ const AuthManager: React.FC = () => {
         const response = await fetch(`${API_BASE}/api/students/grades`);
         if (!response.ok) throw new Error(`Failed to fetch grades: ${response.status}`);
         const data = await response.json();
-        setGrades(data || []);
-        if (data?.length > 0) {
+        if (data && data.length > 0) {
+          setGrades(data);
           setRegisterForm(prev => ({ ...prev, gradeId: data[0].gradeId }));
+        } else {
+          setGrades(FALLBACK_GRADES);
+          setRegisterForm(prev => ({ ...prev, gradeId: FALLBACK_GRADES[0].gradeId }));
         }
       } catch (err: any) {
-        setError('Could not load academic grades. Please refresh the page.');
+        console.warn('Could not load academic grades; using built-in fallback grades.', err);
+        setGrades(FALLBACK_GRADES);
+        setRegisterForm(prev => ({ ...prev, gradeId: FALLBACK_GRADES[0].gradeId }));
       } finally {
         setLoadingGrades(false);
       }

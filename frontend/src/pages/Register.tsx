@@ -2,6 +2,13 @@ import { useState, useEffect } from 'react';
 import { authApi, type RegisterRequest } from '../api/auth';
 import { studentsApi, type Grade } from '../api/students';
 
+const FALLBACK_GRADES: Grade[] = [
+  { gradeId: 'MID9A', gradeDescription: 'Grade 9' },
+  { gradeId: 'HIG10A', gradeDescription: 'Grade 10' },
+  { gradeId: 'HIG11A', gradeDescription: 'Grade 11' },
+  { gradeId: 'HIG12A', gradeDescription: 'Grade 12' },
+];
+
 interface RegisterProps {
   setToken: (token: string) => void;
 }
@@ -26,13 +33,17 @@ export default function Register({ setToken }: RegisterProps) {
     const fetchGrades = async () => {
       try {
         const data = await studentsApi.getGrades();
-        setGrades(data);
-        // Default to first grade if available
-        if (data.length > 0) {
+        if (data && data.length > 0) {
+          setGrades(data);
           setFormData(prev => ({ ...prev, GradeId: data[0].gradeId }));
+        } else {
+          setGrades(FALLBACK_GRADES);
+          setFormData(prev => ({ ...prev, GradeId: FALLBACK_GRADES[0].gradeId }));
         }
       } catch (err) {
-        setError(err instanceof Error ? err.message : 'Failed to load grades');
+        console.warn('Failed to load grades from server; using built-in fallback grades.', err);
+        setGrades(FALLBACK_GRADES);
+        setFormData(prev => ({ ...prev, GradeId: FALLBACK_GRADES[0].gradeId }));
       } finally {
         setLoadingGrades(false);
       }
