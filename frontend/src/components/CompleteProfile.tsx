@@ -117,7 +117,7 @@ const CompleteProfile: React.FC = () => {
         } else {
           // Fallback grades
           setAvailableGrades([
-            {gradeId: 'HIG9A', gradeDescription: 'Grade 9'},
+            {gradeId: 'MID9A', gradeDescription: 'Grade 9'},
             {gradeId: 'HIG10A', gradeDescription: 'Grade 10'},
             {gradeId: 'HIG11A', gradeDescription: 'Grade 11'},
             {gradeId: 'HIG12A', gradeDescription: 'Grade 12'}
@@ -126,7 +126,7 @@ const CompleteProfile: React.FC = () => {
       } catch (error) {
 
         setAvailableGrades([
-          {gradeId: 'HIG9A', gradeDescription: 'Grade 9'},
+          {gradeId: 'MID9A', gradeDescription: 'Grade 9'},
           {gradeId: 'HIG10A', gradeDescription: 'Grade 10'},
           {gradeId: 'HIG11A', gradeDescription: 'Grade 11'},
           {gradeId: 'HIG12A', gradeDescription: 'Grade 12'}

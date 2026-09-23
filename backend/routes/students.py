@@ -297,7 +297,7 @@ def get_grades(db: Session = Depends(get_db)):
   # If no grades found, return default grades (fallback)
   if not filtered_grades:
     return [
-      {"gradeId": "HIG9A", "gradeDescription": "Grade 9"},
+      {"gradeId": "MID9A", "gradeDescription": "Grade 9"},
       {"gradeId": "HIG10A", "gradeDescription": "Grade 10"},
       {"gradeId": "HIG11A", "gradeDescription": "Grade 11"},
       {"gradeId": "HIG12A", "gradeDescription": "Grade 12"}

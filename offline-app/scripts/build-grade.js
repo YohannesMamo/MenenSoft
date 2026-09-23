@@ -27,14 +27,14 @@ const CAP_CONFIG = path.join(FRONTEND_DIR, 'capacitor.config.ts');
 const JAVA_HOME = 'C:\\Users\\HP\\.jdks\\jdk-21\\jdk-21.0.2';
 
 const GRADE_APP_IDS = {
-  'HIG9A': 'com.menen.oshs.g9',
+  'MID9A': 'com.menen.oshs.g9',
   'HIG10A': 'com.menen.oshs.g10',
   'HIG11A': 'com.menen.oshs.g11',
   'HIG12A': 'com.menen.oshs.g12',
 };
 
 const GRADE_NAMES = {
-  'HIG9A': 'Menen Grade 9',
+  'MID9A': 'Menen Grade 9',
   'HIG10A': 'Menen Grade 10',
   'HIG11A': 'Menen Grade 11',
   'HIG12A': 'Menen Grade 12',
