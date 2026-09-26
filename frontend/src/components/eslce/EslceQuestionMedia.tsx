@@ -29,9 +29,9 @@ function resolveImageUrl(rawUrl: string): string {
   if (API_BASE_URL && API_BASE_URL.startsWith('http')) {
     origin = new URL(API_BASE_URL).origin
   } else {
-    origin = window.location.hostname === 'localhost'
-      ? 'http://localhost:8000'
-      : window.location.origin
+    // Bundled APK: fall back to the primary backend origin, never a localhost
+    // dev server that doesn't exist on device.
+    origin = window.location.origin
   }
   return `${origin}${rawUrl.startsWith('/') ? rawUrl : '/' + rawUrl}`
 }

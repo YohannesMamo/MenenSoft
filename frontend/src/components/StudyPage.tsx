@@ -708,7 +708,7 @@ const [refreshingPdf, setRefreshingPdf] = useState(false);
 
         const backendOrigin = API_BASE && API_BASE.startsWith('http')
           ? new URL(API_BASE).origin
-          : (window.location.hostname === 'localhost' ? 'http://localhost:8000' : window.location.origin);
+          : window.location.origin;
 
         const dynamicStorageUrl = `${backendOrigin}${bookData.pdfUrl}`.replace(/([^:]\/)\/+/g, "$1");
         console.log(`[Asset Pipeline] Requesting local fallback backup route: ${dynamicStorageUrl}`);

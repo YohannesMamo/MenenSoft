@@ -76,6 +76,11 @@ sio = socketio.AsyncServer(
         "https://menenoshs.onrender.com",
         "https://menenoshs-api.onrender.com/",
         "https://menenoshs.onrender.com/",
+        # Capacitor Android WebView serves the bundled SPA from https://localhost
+        # (and emulators like BlueStacks reproduce that origin), so allow it.
+        "https://localhost",
+        "http://localhost",
+        "capacitor://localhost",
     ]
 )
 socket_app = socketio.ASGIApp(sio, app)
@@ -99,6 +104,11 @@ app.add_middleware(
         "https://menenoshs.onrender.com",
         "https://menenoshs-api.onrender.com/",
         "https://menenoshs.onrender.com/",
+        # Capacitor Android WebView serves the bundled SPA from https://localhost
+        # (and emulators like BlueStacks reproduce that origin), so allow it.
+        "https://localhost",
+        "http://localhost",
+        "capacitor://localhost",
     ],
     allow_credentials=True,
     allow_methods=["*"],

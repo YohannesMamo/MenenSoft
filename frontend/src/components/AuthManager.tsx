@@ -18,8 +18,12 @@ import {
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import ChangePasswordModal from './ChangePasswordModal'; // ✅ Import the separate modal
+import { getApiBase } from '../config/api';
 
-const API_BASE = import.meta.env.VITE_API_URL || '';
+// Use the centralized API base (env override first, then the primary backend),
+// never an empty string — inside the packaged APK an empty base would target
+// the WebView origin (https://localhost) where there is no backend.
+const API_BASE = getApiBase();
 
 interface Grade {
   gradeId: string;
