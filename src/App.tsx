@@ -20,6 +20,7 @@ import StudentStatusDashboard from "./components/StudentStatusDashboard";
 import { ChatHub } from './components/ChatHub';
 import CompleteProfile from "./components/CompleteProfile";
 import About from './components/About';
+import DownloadsPage from './components/DownloadsPage';
 import { ChatProvider } from './contexts/ChatContext';
 
 // ESLCE Integration
@@ -37,15 +38,8 @@ import PaymentPage from './components/PaymentPage';
 import SettingsPage from './components/SettingsPage';
 import { EvaluationProvider } from './context/EvaluationContext';
 
-// Offline Mode
-import { OfflineProvider } from './context/OfflineContext';
-import OfflineDashboard from './components/offline/OfflineDashboard';
-import OfflineStudyPage from './pages/OfflineStudyPage';
-import OfflineQuizGateway from './components/offline/OfflineQuizGateway';
-import OfflineQuizPage from './components/offline/OfflineQuizPage';
-import OfflineExamPage from './components/offline/OfflineExamPage';
-import OfflineEslceLibrary from './components/offline/OfflineEslceLibrary';
-import OfflineEslceSession from './components/offline/OfflineEslceSession';
+// Offline Mode (native APK shell)
+import OfflineAppRoot from './offline/OfflineAppRoot';
 
 function App() {
   const { loading } = useAuth();
@@ -61,18 +55,7 @@ function App() {
 
   return (
     <>{isOfflineBuild ? (
-      <Routes>
-        <Route path="/offline" element={<OfflineProvider />}>
-          <Route index element={<OfflineDashboard />} />
-          <Route path="study" element={<OfflineStudyPage />} />
-          <Route path="quiz" element={<OfflineQuizGateway />} />
-          <Route path="quiz/:stbId/:chapterId/:sectionId" element={<OfflineQuizPage />} />
-          <Route path="exam" element={<OfflineExamPage />} />
-          <Route path="eslce" element={<OfflineEslceLibrary />} />
-          <Route path="eslce/session" element={<OfflineEslceSession />} />
-        </Route>
-        <Route path="*" element={<Navigate to="/offline" replace />} />
-      </Routes>
+      <OfflineAppRoot />
     ) : (
     <ChatProvider>
       <Routes>
@@ -85,6 +68,10 @@ function App() {
           title="About — Menen Student Assistant"
           description="Learn about Menen Student Assistant — our mission, vision, values, contact information, and how to reach us in Addis Ababa, Ethiopia."
           path="/about" /><About /></>} />
+        <Route path="/downloads" element={<><Seo
+          title="Download the App — Menen Student Assistant APKs"
+          description="Download the Menen OSHS Android app for free: offline APKs for Grade 9, 10, 11 and 12, plus the online app for every grade. Study Ethiopian high school notes with or without internet."
+          path="/downloads" /><DownloadsPage /></>} />
         
         {/* Auth Routes - All handled by AuthManager */}
         <Route path="/login" element={<AuthManager />} />
@@ -130,17 +117,6 @@ function App() {
             <Route path="/eslce/progress" element={<EslceProgress />} />
             <Route path="/eslce/history/:sessionId" element={<EslceSessionDetail />} />
           </Route>
-        </Route>
-
-        {/* Offline routes only available in online mode (for testing) */}
-        <Route element={<OfflineProvider />}>
-          <Route path="/offline" element={<OfflineDashboard />} />
-          <Route path="/offline/study" element={<OfflineStudyPage />} />
-          <Route path="/offline/quiz" element={<OfflineQuizGateway />} />
-          <Route path="/offline/quiz/:stbId/:chapterId/:sectionId" element={<OfflineQuizPage />} />
-          <Route path="/offline/exam" element={<OfflineExamPage />} />
-          <Route path="/offline/eslce" element={<OfflineEslceLibrary />} />
-          <Route path="/offline/eslce/session" element={<OfflineEslceSession />} />
         </Route>
 
         {/* Fallback */}

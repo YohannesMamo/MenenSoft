@@ -10,10 +10,29 @@ import { CapacitorSQLite, SQLiteConnection, SQLiteDBConnection } from '@capacito
 import { Capacitor } from '@capacitor/core';
 
 const DB_NAME = 'menen_offline';
+/** Bump when the bundled DB content changes so upgrades re-import it. */
+const DB_ASSET_VERSION = 'HIG12A-20260925-2';
+const DB_VERSION_KEY = 'msa_db_asset_version';
 
 let db: SQLiteDBConnection | null = null;
 let sqlite: SQLiteConnection | null = null;
 let isWeb = false;
+
+function readDbAssetVersion(): string | null {
+  try {
+    return localStorage.getItem(DB_VERSION_KEY);
+  } catch {
+    return null;
+  }
+}
+
+function markDbAssetVersion(): void {
+  try {
+    localStorage.setItem(DB_VERSION_KEY, DB_ASSET_VERSION);
+  } catch {
+    // localStorage unavailable — next launch just re-imports.
+  }
+}
 
 export async function initOfflineDb(): Promise<void> {
   const platform = Capacitor.getPlatform();
@@ -54,19 +73,37 @@ async function importBundledDatabaseFromAssets(): Promise<void> {
   if (!sqlite) return;
 
   try {
-    // Check if database already exists in internal storage
-    const dbExists = await sqlite.isDatabase(DB_NAME);
-    if (dbExists.result) {
+    const dbExists = (await sqlite.isDatabase(DB_NAME)).result;
+    const versionOk = readDbAssetVersion() === DB_ASSET_VERSION;
+
+    if (dbExists && versionOk) {
       console.log('Offline DB already exists, skipping asset copy.');
       return;
     }
 
-    // Database not found — copy from bundled assets
-    console.log('Copying offline database from bundled assets...');
-    await sqlite.copyFromAssets(false);
+    console.log('Copying offline database from bundled assets...', { dbExists, versionOk });
+
+    if (!dbExists) {
+      // First launch: plugin copies public/assets/databases/*.db into app storage.
+      await sqlite.copyFromAssets(false);
+    } else {
+      // Existing DB is stale (older content or a previous failed import):
+      // overwrite in place, falling back to delete + copy.
+      try {
+        await sqlite.copyFromAssets(true);
+      } catch (e) {
+        console.warn('Overwrite copy failed, deleting stale DB first', e);
+        try {
+          await CapacitorSQLite.deleteDatabase({ database: DB_NAME });
+        } catch { /* may not exist */ }
+        await sqlite.copyFromAssets(true);
+      }
+    }
+
+    markDbAssetVersion();
     console.log('Offline database copied from assets successfully.');
   } catch (err) {
-    console.log('Bundled database copy skipped (expected on web):', err);
+    console.error('Bundled database copy failed (plugin will use an empty DB):', err);
   }
 }
 

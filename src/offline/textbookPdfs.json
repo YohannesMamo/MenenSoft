@@ -1,0 +1,66 @@
+{
+  "MID9A": {
+    "folder": "G9",
+    "pdfs": {
+      "GR9-AMH": "GR9AMHARIC.pdf",
+      "GR9-BIO": "GR9BIOLOGY.pdf",
+      "GR9-CHE": "GR9CHEMISTRY.pdf",
+      "GR9-CIT": "GR9CITIZENSHIP.pdf",
+      "GR9-ECO": "GR9ECONOMICS.pdf",
+      "GR9-ENG": "GR9ENGLISH.pdf",
+      "GR9-GEO": "GR9GEOGRAPHY.pdf",
+      "GR9-HIS": "GR9HISTORY.pdf",
+      "GR9-HLT": "GR9HEALTH.pdf",
+      "GR9-ICT": "GR9ICT.pdf",
+      "GR9-MAT": "GR9MATHEMATICS.pdf",
+      "GR9-PHY": "GR9PHYSICS.pdf"
+    }
+  },
+  "HIG10A": {
+    "folder": "G10",
+    "pdfs": {
+      "GR10-AMH": "GR10AMHARIC.pdf",
+      "GR10-BIO": "GR10BIOLOGY.pdf",
+      "GR10-CHE": "GR10CHEMISTRY.pdf",
+      "GR10-CIT": "GR10CITIZENSHIP.pdf",
+      "GR10-ECO": "GR10ECONOMICS.pdf",
+      "GR10-ENG": "GR10ENGLISH.pdf",
+      "GR10-GEO": "GR10GEOGRAPHY.pdf",
+      "GR10-HIS": "GR10HISTORY.pdf",
+      "GR10-HLT": "GR10HEALTH.pdf",
+      "GR10-ICT": "GR10ICT.pdf",
+      "GR10-MAT": "GR10MATHEMATICS.pdf",
+      "GR10-PHY": "GR10PHYSICS.pdf"
+    }
+  },
+  "HIG11A": {
+    "folder": "G11",
+    "pdfs": {
+      "GR11-AGR": "GR11AGRICULTURE.pdf",
+      "GR11-BIO": "GR11BIOLOGY.pdf",
+      "GR11-CHE": "GR11CHEMISTRY.pdf",
+      "GR11-ECO": "GR11ECONOMICS.pdf",
+      "GR11-ENG": "GR11ENGLISH.pdf",
+      "GR11-GEO": "GR11GEOGRAPHY.pdf",
+      "GR11-HIS": "GR11HISTORY.pdf",
+      "GR11-ICT": "GR11ICT.pdf",
+      "GR11-MAT": "GR11MATHEMATICS.pdf",
+      "GR11-PHY": "GR11PHYSICS.pdf"
+    }
+  },
+  "HIG12A": {
+    "folder": "G12",
+    "pdfs": {
+      "GR12-AGR": "GR12AGRICULTURE.pdf",
+      "GR12-BIO": "GR12BIOLOGY.pdf",
+      "GR12-CHE": "GR12CHEMISTRY.pdf",
+      "GR12-ECO": "GR12ECONOMICS.pdf",
+      "GR12-ENG": "GR12ENGLISH.pdf",
+      "GR12-GEO": "GR12GEOGRAPHY.pdf",
+      "GR12-HIS": "GR12HISTORY.pdf",
+      "GR12-ICT": "GR12ICT.pdf",
+      "GR12-MAT": "GR12MATHEMATICS.pdf",
+      "GR12-PHY": "GR12PHYSICS.pdf"
+    }
+  }
+}

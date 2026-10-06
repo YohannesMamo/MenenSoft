@@ -3,6 +3,14 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
+  // Android WebViews shipped with Android 7/8 (minSdk 24) can be years behind
+  // Chrome and throw a SyntaxError on modern syntax such as `??` (Chrome 80) or
+  // optional catch binding (Chrome 66). A SyntaxError kills the entry module
+  // before React mounts, which presents as a silent white screen in the APK.
+  // es2019 keeps the output parseable on WebViews back to Chrome 66.
+  build: {
+    target: 'es2019'
+  },
   plugins: [
     react(),
     VitePWA({

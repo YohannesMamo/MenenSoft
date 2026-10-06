@@ -75,3 +75,20 @@ const noScript = indexHtml
 mkdirSync(join(dist, 'about'), { recursive: true });
 writeFileSync(join(dist, 'about', 'index.html'), noScript);
 console.log('[prerender] Generated dist/about/index.html');
+
+// Same shell for the public APK download page so /downloads resolves on
+// static hosts without an SPA fallback rule.
+const downloadsHtml = indexHtml
+  .replace(
+    '<title>Menen Student Assistant — Ethiopian High School Study, Quiz & ESLCE Exam Prep</title>',
+    '<title>Download the App — Menen Student Assistant APKs</title>'
+  )
+  .replace(
+    `<meta name="description" content="Menen is the Ethiopian high school learning platform. Study full subject notes, practice quizzes, take ESLCE & national exam past papers, and track your progress—online or fully offline." />`,
+    `<meta name="description" content="Download the Menen OSHS Android app for free: offline APKs for Grade 9, 10, 11 and 12, plus the online app for every grade." />`
+  )
+  .replace('<div id="root"></div>', `<div id="root"></div>`);
+
+mkdirSync(join(dist, 'downloads'), { recursive: true });
+writeFileSync(join(dist, 'downloads', 'index.html'), downloadsHtml);
+console.log('[prerender] Generated dist/downloads/index.html');
