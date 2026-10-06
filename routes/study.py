@@ -238,7 +238,7 @@ def get_textbooks_by_grade(grade: str, db: Session = Depends(get_db)):
             # Fallback: construct from grade and STBID (no hard-coded mapping)
             grade_str = ""
             if grade:
-                # Extract grade number from grade parameter (e.g., "HIG9A" → "G9")
+                # Extract grade number from grade parameter (e.g., "HIG12A" → "G12")
                 if grade.startswith("HIG"):
                     grade_num = grade[3:5]
                     grade_str = f"G{grade_num}"
@@ -285,9 +285,9 @@ def get_study_textbook(stb_id: str, db: Session = Depends(get_db)):
         # Determine grade folder from STBGradeID which should be in the database
         grade_str = ""
         if textbook.STBGradeID:
-            # If STBGradeID is like "HIG9A" or "GR9", extract the grade number
+            # If STBGradeID starts with "HIG" (grades 10-12), extract the grade number
             if textbook.STBGradeID.startswith("HIG"):
-                grade_num = textbook.STBGradeID[3:5]  # "HIG9A" → "9"
+                grade_num = textbook.STBGradeID[3:5]  # "HIG12A" → "12"
                 grade_str = f"G{grade_num}"
             elif textbook.STBGradeID.startswith("GR"):
                 grade_num = textbook.STBGradeID[2:4]  # "GR9" → "9"
