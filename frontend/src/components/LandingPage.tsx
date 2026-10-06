@@ -24,7 +24,7 @@ const accessCards = [
     desc: 'Install the full Android app for a faster, more native experience. Log in and study on the go.',
     points: ['Native mobile app', 'Fast & responsive', 'Seamless with internet'],
     cta: 'Get APK',
-    action: 'register',
+    action: 'downloads',
   },
   {
     icon: WifiOff,
@@ -32,7 +32,7 @@ const accessCards = [
     desc: 'No internet? No problem. Download the app and content once, then study 100% offline — anywhere, anytime.',
     points: ['Works fully offline', '~300–500 MB once', 'Updated via new releases'],
     cta: 'Download Free',
-    action: 'register',
+    action: 'downloads',
   },
 ];
 
@@ -86,6 +86,8 @@ export default function LandingPage() {
   const handleAction = (action: string) => {
     if (action === 'start') {
       navigate(user ? '/dashboard' : '/register');
+    } else if (action === 'downloads') {
+      navigate('/downloads');
     } else if (action === 'register') {
       navigate(user && !isPremium ? '/payment' : user ? '/dashboard' : '/register');
     }
@@ -117,6 +119,7 @@ export default function LandingPage() {
             </button>
             <div className="hidden md:flex items-center gap-7 text-sm">
               <button onClick={() => navigate('/about')} className="text-gray-600 hover:text-gray-900 transition-colors">About</button>
+              <button onClick={() => navigate('/downloads')} className="text-gray-600 hover:text-gray-900 transition-colors">Downloads</button>
               <a href="#plans" className="text-gray-600 hover:text-gray-900 transition-colors">Premium</a>
               <a href="#faq" className="text-gray-600 hover:text-gray-900 transition-colors">FAQ</a>
             </div>
@@ -150,6 +153,7 @@ export default function LandingPage() {
           {isMenuOpen && (
             <div className="md:hidden pb-4 space-y-3 text-sm">
               <button onClick={() => navigate('/about')} className="block text-gray-700 hover:text-gray-900">About</button>
+              <button onClick={() => navigate('/downloads')} className="block text-gray-700 hover:text-gray-900">Downloads</button>
               <a href="#plans" onClick={() => setIsMenuOpen(false)} className="block text-gray-700 hover:text-gray-900">Premium</a>
               <a href="#faq" onClick={() => setIsMenuOpen(false)} className="block text-gray-700 hover:text-gray-900">FAQ</a>
               <hr className="border-gray-100" />

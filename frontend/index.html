@@ -14,6 +14,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#4F46E5" />
 
+    <script>
+      // Startup error harness.
+      // NOTE: liveness must NOT be judged by #root contents — prerender.mjs injects
+      // static landing HTML into #root for SEO, so #root is never empty even when
+      // the bundle never boots (which is exactly the silent white-screen case).
+      // main.tsx sets window.__APP_MOUNTED once React has committed a tree.
+      (function () {
+        var errs = [];
+        var shown = false;
+        function fmt(e) {
+          var r = e && e.reason ? e.reason : e && e.error ? e.error : e;
+          if (!r) return String(e);
+          if (r && r.stack) return r.stack;
+          if (r && r.message) return r.message;
+          return String(r);
+        }
+        function show(kind, text) {
+          if (shown) return;
+          shown = true;
+          var d = document.createElement('div');
+          d.id = 'startup-error-overlay';
+          d.style.cssText = 'position:fixed;inset:0;background:#0f172a;color:#f87171;font:12px/1.5 ui-monospace,Consolas,monospace;padding:20px;overflow:auto;z-index:2147483647;white-space:pre-wrap';
+          d.textContent = kind + '\n\n' + text;
+          document.body.appendChild(d);
+        }
+        function bootStage() {
+          var b = window.__BOOT || '(not set)';
+          var m = document.querySelector('script[type="module"]');
+          return 'boot stage: ' + b
+            + '\nmodule script: ' + (m ? m.getAttribute('src') : 'NONE')
+            + '\nmodule loaded: ' + (m ? String(!!m.sheet || document.readyState) : 'n/a')
+            + '\nreadyState: ' + document.readyState;
+        }
+        window.addEventListener('error', function (e) {
+          if (e && e.target && e.target !== window && e.target.tagName === 'SCRIPT') {
+            errs.push('SCRIPT LOAD FAILED: ' + (e.target.src || '(inline)') + '\n' + bootStage());
+          } else {
+            errs.push(fmt(e));
+          }
+        }, true);
+        window.addEventListener('unhandledrejection', function (e) { errs.push('Unhandled rejection: ' + fmt(e.reason)); });
+
+        // Show any boot error as soon as it happens, so a crash is never silent.
+        function flushOnError() {
+          if (errs.length) show('App failed to start:\n\n' + errs.join('\n\n') + '\n\n' + bootStage());
+        }
+        setInterval(flushOnError, 500);
+
+        // If nothing mounted, report the stall even without a captured error.
+        window.setTimeout(function () {
+          flushOnError();
+          if (!window.__APP_MOUNTED) {
+            show('App failed to start:', errs.length
+              ? errs.join('\n\n')
+              : 'No JavaScript error was captured, but the React app never mounted within 15s.'
+              + '\n\n' + bootStage());
+          }
+        }, 15000);
+      })();
+    </script>
+
     <!-- Primary meta -->
     <title>Menen Student Assistant — Ethiopian High School Study, Quiz & ESLCE Exam Prep</title>
     <meta name="description" content="Menen is the Ethiopian high school learning platform. Study full subject notes, practice quizzes, take ESLCE & national exam past papers, and track your progress—online or fully offline." />
@@ -145,6 +206,9 @@
   </head>
   <body>
     <div id="root"></div>
+    <!-- jeep-sqlite web component: required by @capacitor-community/sqlite on the web platform -->
+    <jeep-sqlite></jeep-sqlite>
+    <script>window.__BOOT = 'html-parsed';</script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
