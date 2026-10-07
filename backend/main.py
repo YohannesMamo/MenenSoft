@@ -56,11 +56,13 @@ else:
         print(f"⚠️ Could not find Textbooks folder. PDF serving will not work.")
 
 # Mount uploads folder for user files
-uploads_path = current_dir / "uploads"
-os.makedirs(uploads_path, exist_ok=True)
-os.makedirs(uploads_path / "chat_files", exist_ok=True)
-app.mount("/files", StaticFiles(directory=str(uploads_path)), name="uploads")
-print(f"✅ Mounted uploads directory at /files (path: {uploads_path})")
+from core.storage import UPLOAD_ROOT
+try:
+    (UPLOAD_ROOT / "chat_files").mkdir(parents=True, exist_ok=True)
+    app.mount("/files", StaticFiles(directory=str(UPLOAD_ROOT)), name="uploads")
+    print(f"✅ Mounted uploads directory at /files (path: {UPLOAD_ROOT})")
+except OSError as exc:
+    print(f"⚠️ Uploads directory unavailable ({exc}); file uploads are disabled.")
 
 # ==================== SOCKET.IO SETUP ====================
 

@@ -195,3 +195,45 @@ frontend/src/components/DownloadsPage.tsx
   Releases / R2 / B2) or be proxied through the backend.
 
 ## NEXT = nothing pending.
+
+---
+
+# Session 4 - Pxxl deploy crash: read-only filesystem (DONE)
+
+## Symptom
+Pxxl build succeeded, then the container died on startup and the rollover
+aborted, keeping the previous deployment active:
+    File "/app/routes/chat.py", line 67, in <module>
+        os.makedirs(UPLOAD_DIR, exist_ok=True)
+    OSError: [Errno 30] Read-only file system: 'uploads'
+
+## Cause
+Pxxl runs the container with a read-only root filesystem. main.py and
+routes/chat.py created the uploads directory at *import* time, so the failure
+took down the whole process before it served anything. Render's filesystem was
+writable, so the same code deployed fine there. PORT was NOT the problem - the
+traceback only appears after uvicorn has already imported the app.
+
+## Fix
+New backend/core/storage.py resolves a writable upload root without ever
+raising, trying in order:
+  1. $UPLOAD_DIR                    (explicit override, use a mounted volume)
+  2. <backend>/uploads              (Render / local - preserves existing files)
+  3. <system temp>/menen-uploads    (read-only-root hosts such as Pxxl)
+main.py mounts /files at that root inside a try/except; routes/chat.py uses
+the absolute CHAT_UPLOAD_DIR and guards its makedirs. The upload endpoint now
+returns HTTP 503 instead of crashing if the disk is unavailable. The public
+URL layout is unchanged (/files/chat_files/<name>), so no frontend change.
+
+## Verified
+- py_compile on all three files: EXIT=0
+- Probe: an impossible path reports unwritable (no raise); $UPLOAD_DIR is
+  honoured when writable; with EVERY candidate forced unwritable the resolver
+  still returns a path and does not raise; CHAT_UPLOAD_DIR stays under the root.
+- backend/.env is not tracked; backend/uploads/ is already gitignored.
+
+## Note
+On Pxxl uploads land in /tmp and are lost on restart, same as Render's
+ephemeral disk. For persistence, mount a volume and set UPLOAD_DIR to it.
+
+## NEXT = nothing pending.
