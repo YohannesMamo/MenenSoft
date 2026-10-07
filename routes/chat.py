@@ -13,10 +13,11 @@ from models.Conversation import Conversation
 from models.ConversationParticipant import ConversationParticipant
 from models.StudentInfo import StudentInfo
 from fastapi import Request  # ✅ Add this import
+from core.storage import CHAT_UPLOAD_DIR
 
 router = APIRouter()
 
-UPLOAD_DIR = "uploads/chat_files"
+UPLOAD_DIR = str(CHAT_UPLOAD_DIR)
 
 class ConversationCreate(BaseModel):
     Name: Optional[str] = None
@@ -64,7 +65,11 @@ class MessageResponse(BaseModel):
             }
         }
 
-os.makedirs(UPLOAD_DIR, exist_ok=True)
+try:
+    os.makedirs(UPLOAD_DIR, exist_ok=True)
+except OSError as exc:
+    # Read-only filesystem: keep importing so the rest of the API stays up.
+    print(f"⚠️ Chat upload directory unavailable ({exc}); uploads will fail.")
 
 # Online users tracking
 online_users = set()  # Store user IDs
@@ -200,10 +205,13 @@ async def upload_file(file: UploadFile = File(...)):
     file_name = f"{file_id}{file_ext}"
     file_path = os.path.join(UPLOAD_DIR, file_name)
     
-    async with aiofiles.open(file_path, 'wb') as f:
-        MContent = await file.read()
-        await f.write(MContent)
-    
+    try:
+        async with aiofiles.open(file_path, 'wb') as f:
+            MContent = await file.read()
+            await f.write(MContent)
+    except OSError as exc:
+        raise HTTPException(status_code=503, detail="File uploads are temporarily unavailable.") from exc
+
     return {"FileURL": f"/files/chat_files/{file_name}", "FileName": file.filename}
 
 @router.get("/api/chat/conversations/{conversation_id}/participants")
