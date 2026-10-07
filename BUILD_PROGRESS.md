@@ -237,3 +237,33 @@ On Pxxl uploads land in /tmp and are lost on restart, same as Render's
 ephemeral disk. For persistence, mount a volume and set UPLOAD_DIR to it.
 
 ## NEXT = nothing pending.
+
+---
+
+# Session 5 - offline-app moved to a private repo (DONE)
+
+## Why
+The repo is public. offline-app/ holds the offline dataset (per-grade JSON +
+SQLite content DBs), the offline schema and the APK build scripts. It is not
+used by the web app or by the backend, but it shipped a hardcoded Postgres
+password (scripts/check_types.py, scripts/export_content.py) in the public
+history. The public deploy branches (frontend-deploy, backend-deploy) were
+never affected.
+
+## What happened
+1. Full-history bundle backup: menensoft-all-backup.bundle (all refs).
+2. offline-app history extracted with `git filter-repo --subdirectory-filter`
+   and pushed to the private repo YohannesMamo/MenenSoft-Offline (branch main,
+   7 commits, 107 files, ~112 MB).
+3. offline-app/ untracked here (`git rm -r --cached`, added to .gitignore) so
+   local builds keep working.
+4. offline-app removed from this repo's dev+main history with
+   `git filter-repo --path offline-app --invert-paths` and force-pushed, so the
+   password is no longer retrievable from the public history.
+
+## To build APKs now
+Clone the private repo back into this path:
+    git clone https://github.com/YohannesMamo/MenenSoft-Offline.git offline-app
+It is gitignored here, and build-grade.js/build-online.js work unchanged.
+
+## NEXT = nothing pending.

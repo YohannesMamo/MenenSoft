@@ -61,6 +61,11 @@ apk-builds/
 /*.apk
 frontend/public/pdfs/
 frontend/android/app/build.gradle.grade-backup
-offline-app/build.log
 *.db.bak
+
+# offline-app (content data, DB schema and the APK build scripts) lives in a
+# separate PRIVATE repo: https://github.com/YohannesMamo/MenenSoft-Offline
+# Clone it back into this path to run the APK builds. It is intentionally
+# untracked here so its content never ships in this public repository again.
+offline-app/
 
