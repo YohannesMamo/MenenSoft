@@ -127,11 +127,18 @@ interface MegaNode {
   downloadId?: string | string[];
   children?: MegaNode[];
   loadAttributes?: () => Promise<void>;
+  download?: (options?: Record<string, unknown>) => AsyncIterable<Uint8Array<ArrayBuffer>>;
 }
 
 interface MegaEngine {
   fromURL: (url: string) => MegaNode;
 }
+
+/**
+ * The resolved megajs nodes, keyed by build. Kept so a download can stream
+ * straight from MEGA without exposing the folder to the visitor.
+ */
+let nodeCache: Map<string, MegaNode> | null = null;
 
 async function resolveApkLinks(): Promise<ResolvedApk[]> {
   const results = new Map<string, ResolvedApk>();
@@ -156,6 +163,8 @@ async function resolveApkLinks(): Promise<ResolvedApk[]> {
     };
     walk(folder);
 
+    const nodes = new Map<string, MegaNode>();
+
     // The folder itself resolved, so anything still unmatched is simply not
     // uploaded yet rather than a lookup failure.
     for (const build of APK_BUILDS) {
@@ -163,6 +172,7 @@ async function resolveApkLinks(): Promise<ResolvedApk[]> {
         String(f?.name ?? '').toLowerCase().includes(build.match)
       );
       const link = match ? buildFileLink(MEGA_APK_FOLDER_URL, match.downloadId) : null;
+      if (match) nodes.set(build.match, match);
       results.set(build.match, {
         ...build,
         url: link ?? MEGA_APK_FOLDER_URL,
@@ -170,6 +180,8 @@ async function resolveApkLinks(): Promise<ResolvedApk[]> {
         status: link ? 'ready' : 'missing',
       });
     }
+
+    nodeCache = nodes;
   } catch {
     return fallbackBuilds();
   }
@@ -183,4 +195,108 @@ let cached: Promise<ResolvedApk[]> | null = null;
 export function getApkLinks(): Promise<ResolvedApk[]> {
   if (!cached) cached = resolveApkLinks();
   return cached;
+}
+
+/* ------------------------------------------------------------------ *
+ * In-page download
+ *
+ * A MEGA link cannot be handed to the browser as a plain file: the bytes
+ * on MEGA's servers are ciphertext (verified: they start 0e94fe07..., not
+ * "PK"). Decryption has to happen client-side, so we do it here rather
+ * than sending the visitor to mega.nz. Consequence: the visitor never
+ * sees, or can browse, the source folder.
+ * ------------------------------------------------------------------ */
+
+const APK_MIME = 'application/vnd.android.package-archive';
+
+export interface ApkDownloadProgress {
+  received: number;
+  total: number;
+  percent: number;
+}
+
+/** File System Access API bits, typed locally to avoid `any`. */
+interface WritableFileStream {
+  write(data: Uint8Array): Promise<void>;
+  close(): Promise<void>;
+}
+interface SavedFileHandle {
+  createWritable(): Promise<WritableFileStream>;
+}
+type SaveFilePicker = (options: {
+  suggestedName?: string;
+  types?: Array<{ description: string; accept: Record<string, string[]> }>;
+}) => Promise<SavedFileHandle>;
+
+/**
+ * Stream the build out of MEGA, decrypting it in the browser, and save it.
+ *
+ * Uses the File System Access API to write straight to disk where available
+ * (desktop Chromium). Elsewhere — including Android, which lacks the picker —
+ * the decrypted bytes are buffered and handed to the browser as a blob, which
+ * lands in the normal Downloads flow.
+ */
+export async function downloadApk(
+  match: string,
+  onProgress?: (progress: ApkDownloadProgress) => void
+): Promise<void> {
+  await getApkLinks();
+
+  if (!nodeCache) {
+    throw new Error('Could not reach the download server. Check your connection and try again.');
+  }
+  const node = nodeCache.get(match);
+  if (!node?.download) {
+    throw new Error('That build is not available for download yet.');
+  }
+
+  const build = APK_BUILDS.find((b) => b.match === match);
+  const filename = build?.filename ?? 'menen.apk';
+  const total = typeof node.size === 'number' ? node.size : 0;
+  const report = (received: number) =>
+    onProgress?.({
+      received,
+      total,
+      percent: total > 0 ? Math.min(100, Math.round((received / total) * 100)) : 0,
+    });
+
+  const picker = (window as unknown as { showSaveFilePicker?: SaveFilePicker }).showSaveFilePicker;
+
+  if (typeof picker === 'function') {
+    const handle = await picker({
+      suggestedName: filename,
+      types: [{ description: 'Android app package', accept: { [APK_MIME]: ['.apk'] } }],
+    });
+    const writable = await handle.createWritable();
+    let received = 0;
+    report(0);
+    try {
+      for await (const chunk of node.download()) {
+        await writable.write(chunk);
+        received += chunk.length;
+        report(received);
+      }
+    } finally {
+      await writable.close();
+    }
+    return;
+  }
+
+  const parts: BlobPart[] = [];
+  let received = 0;
+  report(0);
+  for await (const chunk of node.download()) {
+    parts.push(chunk);
+    received += chunk.length;
+    report(received);
+  }
+  const blob = new Blob(parts, { type: APK_MIME });
+  const objectUrl = URL.createObjectURL(blob);
+  const anchor = document.createElement('a');
+  anchor.href = objectUrl;
+  anchor.download = filename;
+  document.body.appendChild(anchor);
+  anchor.click();
+  anchor.remove();
+  setTimeout(() => URL.revokeObjectURL(objectUrl), 60_000);
 }
