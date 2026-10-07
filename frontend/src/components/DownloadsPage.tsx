@@ -3,13 +3,21 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import {
-  ArrowLeft, Download, HardDrive, Globe, ShieldCheck,
-  Smartphone, WifiOff, X, PackageOpen,
+  ArrowLeft, CheckCircle2, Download, HardDrive, Globe, ShieldCheck,
+  Smartphone, WifiOff, X, PackageOpen, Loader2,
 } from 'lucide-react';
-import { APK_BUILDS, MEGA_APK_FOLDER_URL, formatSize, getApkLinks } from '../services/apkDownloads';
+import { APK_BUILDS, MEGA_APK_FOLDER_URL, formatSize, getApkLinks, downloadApk } from '../services/apkDownloads';
 import type { ResolvedApk } from '../services/apkDownloads';
 
 const BRAND = '#2563eb';
+
+type DownloadState = 'idle' | 'downloading' | 'done' | 'error';
+
+interface DownloadStatus {
+  state: DownloadState;
+  percent: number;
+  message?: string;
+}
 
 export default function DownloadsPage() {
   const navigate = useNavigate();
@@ -25,11 +33,80 @@ export default function DownloadsPage() {
     return () => { alive = false; };
   }, []);
 
+  const [progress, setProgress] = useState<Record<string, DownloadStatus>>({});
+
+  const startDownload = async (apk: ResolvedApk) => {
+    if (progress[apk.match]?.state === 'downloading') return;
+    const set = (status: DownloadStatus) =>
+      setProgress((prev) => ({ ...prev, [apk.match]: status }));
+
+    set({ state: 'downloading', percent: 0 });
+    try {
+      await downloadApk(apk.match, (p) => set({ state: 'downloading', percent: p.percent }));
+      set({ state: 'done', percent: 100 });
+    } catch (err) {
+      set({
+        state: 'error',
+        percent: 0,
+        message: err instanceof Error ? err.message : 'Download failed. Please try again.',
+      });
+    }
+  };
+
+  const renderAction = (apk: ResolvedApk) => {
+    if (apk.status === 'missing') {
+      return (
+        <span className="inline-flex w-full items-center justify-center gap-2 px-5 py-3 rounded-xl font-semibold text-gray-400 bg-gray-100 cursor-not-allowed">
+          <PackageOpen className="h-4 w-4" /> Coming soon
+        </span>
+      );
+    }
+
+    const status = progress[apk.match];
+
+    if (status?.state === 'downloading') {
+      return (
+        <div>
+          <div className="flex items-center justify-between text-xs font-medium text-gray-600 mb-2">
+            <span className="inline-flex items-center gap-1.5">
+              <Loader2 className="h-3.5 w-3.5 animate-spin" /> Downloading…
+            </span>
+            <span>{status.percent}%</span>
+          </div>
+          <div className="h-2 rounded-full bg-gray-100 overflow-hidden">
+            <div
+              className="h-full rounded-full transition-all"
+              style={{ width: `${Math.max(status.percent, 2)}%`, backgroundColor: BRAND }}
+            />
+          </div>
+          <p className="mt-2 text-xs text-gray-500">Keep this page open until it finishes.</p>
+        </div>
+      );
+    }
+
+    const label = apk.kind === 'online' ? 'Download App' : `Download Grade ${apk.grade.replace('G', '')}`;
+
+    return (
+      <>
+        <button
+          onClick={() => startDownload(apk)}
+          className="inline-flex w-full items-center justify-center gap-2 px-5 py-3 rounded-xl font-semibold text-white transition-shadow hover:shadow-md cursor-pointer"
+          style={{ backgroundColor: status?.state === 'done' ? '#059669' : BRAND }}
+        >
+          {status?.state === 'done' ? <CheckCircle2 className="h-4 w-4" /> : <Download className="h-4 w-4" />}
+          {status?.state === 'done' ? 'Downloaded — tap to save again' : label}
+        </button>
+        {status?.state === 'error' && (
+          <p className="mt-2 text-xs text-red-600">{status.message}</p>
+        )}
+      </>
+    );
+  };
+
   const offline = apks.filter((a) => a.kind === 'offline');
   const online = apks.filter((a) => a.kind === 'online');
 
   const renderCard = (apk: ResolvedApk) => {
-    const isMissing = apk.status === 'missing';
     const size = formatSize(apk.size);
     return (
       <div
@@ -73,22 +150,7 @@ export default function DownloadsPage() {
             {apk.status === 'missing' && 'Not uploaded yet'}
           </div>
 
-          {isMissing ? (
-            <span className="inline-flex w-full items-center justify-center gap-2 px-5 py-3 rounded-xl font-semibold text-gray-400 bg-gray-100 cursor-not-allowed">
-              <PackageOpen className="h-4 w-4" /> Coming soon
-            </span>
-          ) : (
-            <a
-              href={apk.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex w-full items-center justify-center gap-2 px-5 py-3 rounded-xl font-semibold text-white transition-shadow hover:shadow-md"
-              style={{ backgroundColor: BRAND }}
-            >
-              <Download className="h-4 w-4" />
-              {apk.kind === 'online' ? 'Download App' : `Download Grade ${apk.grade.replace('G', '')}`}
-            </a>
-          )}
+          {renderAction(apk)}
         </div>
       </div>
     );
@@ -190,15 +252,15 @@ export default function DownloadsPage() {
         <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">{online.map(renderCard)}</div>
       </section>
 
-      {/* ── Install help + browse ── */}
+      {/* ── Install help ── */}
       <section className="max-w-6xl mx-auto px-5 sm:px-8 pb-16">
         <div className="rounded-2xl border border-gray-200 bg-white p-6 sm:p-8">
           <div className="grid gap-8 md:grid-cols-2">
             <div>
               <h3 className="font-bold mb-3">How to install</h3>
               <ol className="space-y-2 text-sm text-gray-600 list-decimal list-inside">
-                <li>Tap a Download button above — the file opens on MEGA.</li>
-                <li>On MEGA tap <strong>Download</strong>, then <strong>Standard download</strong>.</li>
+                <li>Tap a Download button above — the transfer starts straight away.</li>
+                <li>Keep this page open and wait for the progress bar to reach 100%.</li>
                 <li>Open the downloaded .apk file from your notification or Files app.</li>
                 <li>If Android blocks it, allow installs from your browser when prompted.</li>
               </ol>
@@ -206,19 +268,13 @@ export default function DownloadsPage() {
             <div>
               <h3 className="font-bold mb-3">Storage &amp; updates</h3>
               <ul className="space-y-2 text-sm text-gray-600">
-                <li>Offline builds are roughly 110–180&nbsp;MB each, plus subject content.</li>
+                <li>Offline builds are roughly 110–385&nbsp;MB, so use Wi-Fi where you can.</li>
                 <li>Only install the APK for your own grade — offline builds do not share content.</li>
                 <li>Updates are published as new builds; install over the old version to update.</li>
               </ul>
-              <a
-                href={MEGA_APK_FOLDER_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 mt-4 text-sm font-semibold hover:underline"
-                style={{ color: BRAND }}
-              >
-                Browse every file on MEGA <Download className="h-4 w-4" />
-              </a>
+              <p className="mt-4 text-sm text-gray-500">
+                Downloads run through your browser and finish right here — no extra apps or accounts needed.
+              </p>
             </div>
           </div>
         </div>

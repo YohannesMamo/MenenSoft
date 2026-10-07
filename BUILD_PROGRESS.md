@@ -146,3 +146,52 @@ Deep-link format (verified against real MEGA links):
 ## NEXT = nothing pending.
 Optional follow-ups (not started): `prerender.mjs` line 67 `/about` description
 replace is broken (searches for `&amp;` but index.html has a raw `&`) — pre-existing.
+
+---
+
+# Session 3 - In-page download (no MEGA page for visitors) (DONE)
+
+## Why
+Owner's concern: visitors must not land on / browse the MEGA folder. A MEGA
+folder link is read-only and folder-scoped (it never exposes the account,
+email or other folders), but it DOES open mega.nz and show the folder listing.
+
+## The hard constraint (verified)
+MEGA is end-to-end encrypted, so the bytes on their CDN are ciphertext.
+Probe: raw CDN bytes start 0e94fe07... (not a ZIP); the same bytes decrypted
+client-side with the key start 504b0304 = "PK\x03\x04".
+=> No URL can hand the browser a ready APK. Something holding the key must
+   decrypt client-side: either mega.nz (old behaviour) or our own page.
+
+## What changed
+frontend/src/services/apkDownloads.ts
+- resolveApkLinks() now also caches the megajs nodes in nodeCache.
+- New downloadApk(match, onProgress): streams node.download(), reports
+  progress, and saves. Uses the File System Access API when present
+  (desktop Chromium); otherwise buffers to a Blob and clicks a download
+  anchor, which on Android routes through the normal Downloads flow.
+
+frontend/src/components/DownloadsPage.tsx
+- Card button is now an in-page download with a % progress bar, a
+  "downloaded" state, and an inline error line with retry.
+- Removed the "Browse every file on MEGA" link and the MEGA install steps.
+  The visitor is never sent to mega.nz.
+
+## Verified
+- npx tsc -b EXIT=0 (needed AsyncIterable<Uint8Array<ArrayBuffer>> for
+  BlobPart assignability under TS 5.7 generic typed arrays)
+- npx eslint on both files EXIT=0
+- npm run build EXIT=0, dist/downloads/index.html still prerenders
+- Full download+decrypt run of the online APK: 29,627,008 bytes received ==
+  expected, starts "PK", ZIP EOCD present, 625 entries.
+
+## Known trade-offs (accepted)
+- The transfer runs in the browser tab: no resume/pause, tab must stay
+  foreground, and the 385 MB G11 build decrypts in JS on the device.
+- MEGA's anonymous per-IP transfer quota still applies (509 errors). Unchanged
+  from before, since de/encryption was always client-side.
+- The folder URL still exists inside the JS bundle, so a determined user could
+  extract it. To remove that too, the APKs have to move off MEGA (GitHub
+  Releases / R2 / B2) or be proxied through the backend.
+
+## NEXT = nothing pending.
