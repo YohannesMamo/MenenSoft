@@ -52,15 +52,22 @@ const About: React.FC = () => {
       });
 
       if (!response.ok) {
-        throw new Error('Failed to send message.');
+        let detail = 'Failed to send message.';
+        try {
+          const data = await response.json();
+          detail = data.detail || data.message || detail;
+        } catch {
+          // response had no JSON body
+        }
+        throw new Error(detail);
       }
 
       setSuccess(true);
       setFormData({ name: '', email: '', subject: '', message: '' });
       setTimeout(() => setSuccess(false), 5000);
       
-    } catch (err) {
-      setError('Failed to send message. Please try again later.');
+    } catch (err: any) {
+      setError(err?.message || 'Failed to send message. Please try again later.');
     } finally {
       setLoading(false);
     }
