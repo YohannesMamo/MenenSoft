@@ -19,6 +19,7 @@ import bcrypt
 from slowapi import Limiter
 from slowapi.util import get_remote_address
 from fastapi import Request  # ✅ Add this import
+from starlette.concurrency import run_in_threadpool  # ✅ Email sending off the event loop
 
 
 
@@ -221,26 +222,39 @@ async def register(
         print(f"   UserID: {new_user.UserID} | StudentID: {student.StudentID}")
 
         # 4. Send verification email ONLY after successful commit
+        #    Sent synchronously so we can report the real delivery result.
+        email_sent = False
         try:
-            token_to_send = str(verification_token) 
-
             email_service = EmailService()
-            background_tasks.add_task(
+            email_sent = await run_in_threadpool(
                 email_service.send_verification_email,
                 register_data.Email,
-                verification_token
+                verification_token,
             )
-            print(f"📧 Verification email queued for: {register_data.Email}")
+            print(
+                f"📧 Verification email for {register_data.Email}: "
+                f"{'sent' if email_sent else 'FAILED'}"
+            )
         except Exception as e:
-            print(f"⚠️ Failed to queue verification email: {str(e)}")
+            print(f"⚠️ Verification email could not be sent: {str(e)}")
             # Do NOT rollback here - registration already succeeded
 
         print("=" * 60)
         print("✅ FULL REGISTRATION COMPLETED")
         print("=" * 60)
 
+        message = (
+            "Registration successful! Please check your email to verify your account."
+            if email_sent
+            else (
+                "Registration successful, but we couldn't send the verification "
+                "email. Please contact support so we can verify your account."
+            )
+        )
+
         return {
-            "message": "Registration successful! Please check your email to verify your account.",
+            "message": message,
+            "emailSent": email_sent,
             "userId": new_user.UserID,
             "studentId": student.StudentID,
             "email": new_user.Email,
@@ -492,14 +506,22 @@ async def forgot_password(
     db.commit()
     
     print(f"📧 Sending reset email to: {request.Email}")
-    
+
     email_service = EmailService()
-    background_tasks.add_task(
-        email_service.send_password_reset_email,
-        request.Email,
-        reset_token
-    )
-    
+    try:
+        email_sent = await run_in_threadpool(
+            email_service.send_password_reset_email,
+            request.Email,
+            reset_token,
+        )
+        print(
+            f"📧 Password reset email for {request.Email}: "
+            f"{'sent' if email_sent else 'FAILED'}"
+        )
+    except Exception as e:
+        print(f"⚠️ Password reset email could not be sent: {str(e)}")
+
+    # Same response either way, so the endpoint does not reveal account existence.
     return {"message": "If this email exists, a reset link has been sent"}
 
 # ---------- RESET PASSWORD ----------
