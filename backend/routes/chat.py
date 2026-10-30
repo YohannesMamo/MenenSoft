@@ -14,8 +14,12 @@ from models.ConversationParticipant import ConversationParticipant
 from models.StudentInfo import StudentInfo
 from fastapi import Request  # ✅ Add this import
 from core.storage import CHAT_UPLOAD_DIR
+from routes.auth import get_current_user
 
 router = APIRouter()
+
+# Set by init_socketio so REST handlers can broadcast over Socket.IO.
+_sio = None
 
 UPLOAD_DIR = str(CHAT_UPLOAD_DIR)
 
@@ -33,13 +37,17 @@ class MessageCreate(BaseModel):
     ConversationID: str
     MContent: str = ""  # Allow empty string for file-only messages
     FileURL: Optional[str] = None
+    # Client-generated id used to reconcile the optimistic bubble with the
+    # server's stored message (echoed back on every response/broadcast).
+    ClientID: Optional[str] = None
     
     class Config:
         json_schema_extra = {
             "example": {
                 "ConversationID": "550e8400-e29b-41d4-a716-446655440000",
                 "MContent": "Hello, this is a test message!",
-                "FileURL": None
+                "FileURL": None,
+                "ClientID": "temp_1730000000000_0.123"
             }
         }
 
@@ -51,6 +59,7 @@ class MessageResponse(BaseModel):
     SentAt: str
     IsRead: bool
     FileURL: Optional[str] = None
+    ClientID: Optional[str] = None
     
     class Config:
         json_schema_extra = {
@@ -198,6 +207,96 @@ def get_messages(conversation_id: str, user_id: str, limit: int = 50, offset: in
         for msg in reversed(messages)
     ]
 
+@router.post("/api/chat/messages", response_model=MessageResponse)
+async def send_message_http(
+    payload: MessageCreate,
+    current_user=Depends(get_current_user),
+    db: Session = Depends(get_db),
+):
+    """HTTP fallback for sending a message when the socket is unavailable.
+
+    Mirrors the validation performed by the Socket.IO ``send_message`` handler
+    so behaviour is identical regardless of transport.
+    """
+    # Map the authenticated user account to the student identity used by chat.
+    student = db.query(StudentInfo).filter(
+        StudentInfo.UserID == current_user.UserID
+    ).first()
+    sender_id = student.StudentID if student else None
+    if not sender_id:
+        raise HTTPException(status_code=403, detail="No student profile linked to this account")
+
+    try:
+        conv_uuid = uuid.UUID(payload.ConversationID)
+    except (ValueError, TypeError):
+        raise HTTPException(status_code=400, detail="Invalid conversation ID format")
+
+    conversation = db.query(Conversation).filter(
+        Conversation.ConversationID == conv_uuid
+    ).first()
+    if not conversation:
+        raise HTTPException(status_code=404, detail="Conversation not found")
+
+    participant = db.query(ConversationParticipant).filter(
+        ConversationParticipant.CPConversationID == conv_uuid,
+        ConversationParticipant.CPUserID == sender_id,
+    ).first()
+    if not participant:
+        raise HTTPException(status_code=403, detail="User is not a participant in this conversation")
+
+    content = (payload.MContent or "").strip()
+    file_url = payload.FileURL or None
+    if not content and not file_url:
+        raise HTTPException(status_code=400, detail="Message content or file URL is required")
+
+    message = Message(
+        MessageID=uuid.uuid4(),
+        MConversationID=conv_uuid,
+        SenderID=sender_id,
+        MContent=content,
+        FileURL=file_url,
+        SentAt=datetime.utcnow(),
+    )
+    db.add(message)
+    db.commit()
+    db.refresh(message)
+
+    try:
+        conversation.LastMessageID = message.MessageID
+        db.commit()
+    except Exception as exc:  # pragma: no cover - best effort
+        print(f"⚠️ Warning: Could not update LastMessageID: {exc}")
+        db.rollback()
+
+    message_data = {
+        "MessageID": str(message.MessageID),
+        "MConversationID": str(message.MConversationID),
+        "SenderID": message.SenderID,
+        "MContent": message.MContent,
+        "SentAt": message.SentAt.isoformat() if message.SentAt else None,
+        "IsRead": False,
+        "FileURL": message.FileURL,
+        "ClientID": payload.ClientID,
+    }
+
+    # Broadcast to everyone in the conversation (including the sender's own
+    # sockets) so live clients update without a refresh.
+    if _sio is not None:
+        participant_ids = [
+            p.CPUserID
+            for p in db.query(ConversationParticipant).filter(
+                ConversationParticipant.CPConversationID == conv_uuid
+            ).all()
+        ]
+        try:
+            for room_name in get_message_rooms(str(conv_uuid), participant_ids):
+                await _sio.emit("new_message", message_data, room=room_name)
+        except Exception as exc:  # pragma: no cover - broadcast must not fail the send
+            print(f"⚠️ Warning: Could not broadcast message: {exc}")
+
+    return message_data
+
+
 @router.post("/api/chat/upload")
 async def upload_file(file: UploadFile = File(...)):
     file_id = str(uuid.uuid4())
@@ -326,7 +425,9 @@ def get_all_students(exclude_user_id: str = None, db: Session = Depends(get_db))
     return result
 
 def init_socketio(sio):
-    
+    global _sio
+    _sio = sio
+
     @sio.event
     async def connect(sid, environ, *args):
         print(f"[SocketIO] Client connected: {sid}")
@@ -382,6 +483,7 @@ def init_socketio(sio):
             sender_id = data.get('sender_id') or data.get('senderId')
             content = data.get('content') or data.get('MContent') or ""
             file_url = data.get('file_url') or data.get('fileUrl')
+            client_id = data.get('client_id') or data.get('clientId') or data.get('ClientID')
             
             # Validate required fields
             if not conversation_id or not sender_id:
@@ -453,7 +555,8 @@ def init_socketio(sio):
                 'MContent': message.MContent,
                 'SentAt': message.SentAt.isoformat() if message.SentAt else None,
                 'IsRead': False,
-                'FileURL': message.FileURL
+                'FileURL': message.FileURL,
+                'ClientID': client_id
             }
             
             # Get all participants for room names
