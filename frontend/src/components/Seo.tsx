@@ -3,7 +3,7 @@
 // without adding a dependency.
 import { useEffect } from 'react';
 
-const APP_BASE = 'https://menen-oshs-app.pxxl.click';
+const APP_BASE = 'https://menenoshs.onrender.com';
 
 interface SeoProps {
   title?: string;

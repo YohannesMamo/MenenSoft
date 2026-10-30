@@ -9,4 +9,4 @@ Disallow: /student-report
 Disallow: /report-detailed
 Disallow: /student-status
 
-Sitemap: https://menen-oshs-app.pxxl.click/sitemap.xml
+Sitemap: https://menenoshs.onrender.com/sitemap.xml

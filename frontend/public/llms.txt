@@ -12,8 +12,8 @@ Menen is the Ethiopian high-school learning platform. Study full subject notes, 
 
 ## Key pages
 
-- Home: https://menen-oshs-app.pxxl.click/
-- About / contact: https://menen-oshs-app.pxxl.click/about
+- Home: https://menenoshs.onrender.com/
+- About / contact: https://menenoshs.onrender.com/about
 
 ## Access modes
 

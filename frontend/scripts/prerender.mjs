@@ -8,7 +8,7 @@ import { dirname, join } from 'node:path';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const dist = join(__dirname, '..', 'dist');
-const appBase = 'https://menen-oshs-app.pxxl.click';
+const appBase = 'https://menenoshs.onrender.com';
 
 const landingContent = `
 <div style="max-width:1200px;margin:0 auto;padding:2rem 1rem;font-family:system-ui,sans-serif;color:#1f2937;line-height:1.6">
@@ -92,3 +92,58 @@ const downloadsHtml = indexHtml
 mkdirSync(join(dist, 'downloads'), { recursive: true });
 writeFileSync(join(dist, 'downloads', 'index.html'), downloadsHtml);
 console.log('[prerender] Generated dist/downloads/index.html');
+
+// Auth routes need a real HTML shell as well: verification and password-reset
+// emails link straight to /verify-email and /reset-password, and this host has
+// no SPA fallback rule, so without these files the recipient would land on a
+// 404 instead of the form. The SPA mounts on top and reads the token from the
+// query string.
+const authPages = [
+  {
+    path: 'login',
+    title: 'Sign In — Menen Student Assistant',
+    description:
+      'Sign in to Menen Student Assistant to continue your Ethiopian high school study, quizzes and ESLCE exam preparation.',
+  },
+  {
+    path: 'register',
+    title: 'Create an Account — Menen Student Assistant',
+    description:
+      'Create a free Menen Student Assistant account to study full subject notes, practice quizzes and ESLCE past papers online or offline.',
+  },
+  {
+    path: 'verify-email',
+    title: 'Verify Your Email — Menen Student Assistant',
+    description:
+      'Confirm your email address to finish creating your Menen Student Assistant account.',
+  },
+  {
+    path: 'reset-password',
+    title: 'Reset Your Password — Menen Student Assistant',
+    description:
+      'Choose a new password for your Menen Student Assistant account.',
+  },
+];
+
+for (const page of authPages) {
+  let pageHtml = indexHtml.replace(
+    /<title>[\s\S]*?<\/title>/,
+    `<title>${page.title}</title>`
+  );
+  pageHtml = pageHtml.replace(
+    /<meta name="description" content="[^"]*"\s*\/?>/,
+    `<meta name="description" content="${page.description}" />`
+  );
+
+  // Fail loudly if the template markup changed, instead of shipping a shell
+  // that still carries the landing-page title/description.
+  if (!pageHtml.includes(page.title) || !pageHtml.includes(page.description)) {
+    throw new Error(
+      `[prerender] Could not customise head for /${page.path}; index.html template changed.`
+    );
+  }
+
+  mkdirSync(join(dist, page.path), { recursive: true });
+  writeFileSync(join(dist, page.path, 'index.html'), pageHtml);
+  console.log(`[prerender] Generated dist/${page.path}/index.html`);
+}
