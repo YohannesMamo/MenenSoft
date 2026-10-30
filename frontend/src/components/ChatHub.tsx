@@ -4,7 +4,7 @@ import {
   X, Plus, Search, Check
 } from 'lucide-react';
 import { useChat } from '../contexts/ChatContext';
-import axios from 'axios';
+import { chatApi, chatFileUrl } from '../services/chatApi';
 
 
 // =q==================== TYPES =====================
@@ -369,10 +369,7 @@ export const ChatHub = () => {
 const loadAvailableUsers = async () => {
   setIsLoadingUsers(true);
   try {
-    const token = localStorage.getItem('token');
-    const res = await axios.get('/api/chat/students', { 
-      headers: { Authorization: `Bearer ${token}` }
-    });
+    const res = await chatApi.get<Student[]>('/api/chat/students');
     
     // Safeguard: Ensure res.data is an array before filtering
     const dataArray = Array.isArray(res.data) ? res.data : [];
@@ -517,8 +514,6 @@ const loadAvailableUsers = async () => {
     }
 
     try {
-      const token = localStorage.getItem('token');
-      
       const conversationData = {
         Name: isCreatingGroup ? groupName || `Group Chat (${selectedUsers.length + 1})` : null,
         CName: isCreatingGroup ? groupName || `Group Chat (${selectedUsers.length + 1})` : null,
@@ -529,9 +524,7 @@ const loadAvailableUsers = async () => {
       console.log('✅ Using currentUserId:', currentUserId);
       console.log('📤 Sending:', JSON.stringify(conversationData, null, 2));
 
-      const res = await axios.post('/api/chat/conversations', conversationData, {
-        headers: { Authorization: `Bearer ${token}` }
-      });
+      const res = await chatApi.post('/api/chat/conversations', conversationData);
 
       // ==================== SUCCESS HANDLING ====================
       if (res.data && res.data.ConversationID) {
@@ -813,9 +806,9 @@ const panelStudents = useMemo(() => {
                         isMine ? 'bg-slate-900 text-white' : 'bg-slate-100 dark:bg-gray-900 text-slate-800 dark:text-gray-200'
                       }`}>
                         <p>{msg.MContent}</p>
-                        {msg.FileURL && !isMine && (
+                        {msg.FileURL && (
                           <a
-                            href={msg.FileURL}
+                            href={chatFileUrl(msg.FileURL)}
                             target="_blank"
                             rel="noopener noreferrer"
                             download
