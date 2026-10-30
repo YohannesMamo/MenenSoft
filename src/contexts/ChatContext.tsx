@@ -1,7 +1,7 @@
 import { createContext, useContext, useState, useEffect, useRef, type ReactNode } from 'react';
 import { io, Socket } from 'socket.io-client';
-import axios from 'axios';
 import { resolveApiBase } from '../config/api';
+import { chatApi } from '../services/chatApi';
 
 interface Conversation {
   ConversationID: string;
@@ -74,10 +74,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     if (!userId) return;
 
     try {
-      const token = localStorage.getItem('token');
-      const res = await axios.get(`/api/chat/conversations/${userId}`, {
-        headers: { Authorization: `Bearer ${token}` }
-      });
+      const res = await chatApi.get<Conversation[]>(`/api/chat/conversations/${userId}`);
 
       setConversations(res.data);
 
@@ -102,10 +99,9 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     setMessages([]);
 
     try {
-      const token = localStorage.getItem('token');
-      const res = await axios.get(`/api/chat/messages/${conversationId}?user_id=${userId}`, {
-        headers: { Authorization: `Bearer ${token}` }
-      });
+      const res = await chatApi.get<Message[]>(
+        `/api/chat/messages/${conversationId}?user_id=${userId}`
+      );
 
       const mappedMessages = res.data.map((msg: any) => ({
         ...msg,
@@ -261,10 +257,8 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     if (!userId) return;
     
     try {
-      const token = localStorage.getItem('token');
-      await axios.post(`/api/chat/conversations/${conversationId}/read`, {}, {
+      await chatApi.post(`/api/chat/conversations/${conversationId}/read`, undefined, {
         params: { user_id: userId },
-        headers: { Authorization: `Bearer ${token}` }
       });
     } catch (error) {
       console.error('Failed to mark as read', error);
@@ -275,13 +269,11 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     const formData = new FormData();
     formData.append('file', file);
 
-    const token = localStorage.getItem('token');
-    const res = await axios.post('/api/chat/upload', formData, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-        'Content-Type': 'multipart/form-data'
-      }
-    });
+    const res = await chatApi.post<{ FileURL: string; FileName: string }>(
+      '/api/chat/upload',
+      formData,
+      { headers: { 'Content-Type': 'multipart/form-data' } }
+    );
     return res.data;
   };
 
@@ -406,10 +398,11 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
         // Mark messages as read for current user (but not for sender's own messages)
         if (data.SenderID !== userId) {
-          axios.post(`/api/chat/conversations/${data.MConversationID}/read`, {}, {
-            params: { user_id: userId },
-            headers: { Authorization: `Bearer ${localStorage.getItem('token')}` }
-          }).catch(console.error);
+          chatApi
+            .post(`/api/chat/conversations/${data.MConversationID}/read`, undefined, {
+              params: { user_id: userId },
+            })
+            .catch(console.error);
         }
       } else {
         console.log('[ChatContext] Message is for different conversation, not updating current view');
