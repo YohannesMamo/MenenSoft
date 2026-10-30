@@ -24,6 +24,7 @@ interface Message {
   IsRead: boolean;
   FileURL?: string;
   FileName?: string;
+  ClientID?: string;
 }
 
 // ===================== CONVERSATION ITEM COMPONENT =====================
