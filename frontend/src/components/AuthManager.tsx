@@ -208,7 +208,8 @@ const AuthManager: React.FC = () => {
         subscriptionStatus: data.subscriptionStatus 
       });
 
-      navigate(data.isProfileComplete ? '/dashboard' : '/complete-profile');
+      // Always land on the dashboard; profile editing is reachable from there.
+      navigate('/dashboard');
     } catch (err: any) {
       setError(err.message);
     } finally {

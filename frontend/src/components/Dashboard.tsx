@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
-import { LogOut, X } from 'lucide-react';
+import { LogOut, X, User, Crown } from 'lucide-react';
+import { useAuth } from '../context/AuthContext';
 
 // Import the wizard component (put it in the same folder or adjust path)
 import TextbookToQuizWizard from './TextbookToQuizWizard';
@@ -42,6 +43,8 @@ type QuizWizardTextbook = {
 
 const CombinedDashboard = () => {
   const navigate = useNavigate();
+  const { user } = useAuth();
+  const isPremium = user?.subscriptionStatus === 'Premium';
   const [data, setData] = useState<DashboardData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -122,13 +125,33 @@ const CombinedDashboard = () => {
           </p>
         </div>
 
-        <button
-          onClick={handleLogout}
-          className="flex items-center gap-2 px-4 py-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-600 dark:text-gray-400 rounded-xl hover:bg-red-50 dark:hover:bg-red-900/20 hover:text-red-600 transition-all shadow-sm"
-        >
-          <LogOut size={18} />
-          <span className="font-semibold">Logout</span>
-        </button>
+        <div className="flex items-center gap-2 flex-wrap">
+          <button
+            onClick={() => navigate('/complete-profile')}
+            className="flex items-center gap-2 px-4 py-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-200 rounded-xl hover:bg-indigo-50 dark:hover:bg-indigo-900/20 hover:text-indigo-600 dark:hover:text-indigo-300 transition-all shadow-sm"
+          >
+            <User size={18} />
+            <span className="font-semibold">Update Profile</span>
+          </button>
+
+          {!isPremium && (
+            <button
+              onClick={() => navigate('/payment')}
+              className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-amber-500 to-orange-500 text-white rounded-xl hover:from-amber-600 hover:to-orange-600 transition-all shadow-sm"
+            >
+              <Crown size={18} />
+              <span className="font-semibold">Upgrade</span>
+            </button>
+          )}
+
+          <button
+            onClick={handleLogout}
+            className="flex items-center gap-2 px-4 py-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-600 dark:text-gray-400 rounded-xl hover:bg-red-50 dark:hover:bg-red-900/20 hover:text-red-600 transition-all shadow-sm"
+          >
+            <LogOut size={18} />
+            <span className="font-semibold">Logout</span>
+          </button>
+        </div>
       </header>
 
       {/* Subscription Status */}
