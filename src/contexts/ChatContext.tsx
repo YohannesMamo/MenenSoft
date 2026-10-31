@@ -115,7 +115,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     if (!userId) return;
 
     try {
-      const res = await chatApi.get<Conversation[]>(`/api/chat/conversations/${userId}`);
+      const res = await chatApi.get<Conversation[]>('/api/chat/conversations');
 
       // The API sends the last message as `MContent`; the UI reads `Content`.
       // Normalise here so previews render for every caller.
@@ -153,7 +153,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
     try {
       const res = await chatApi.get<Message[]>(
-        `/api/chat/messages/${conversationId}?user_id=${userId}`
+        `/api/chat/messages/${conversationId}`
       );
 
       const mappedMessages = res.data.map((msg: any) => ({
@@ -310,9 +310,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     if (!userId) return;
     
     try {
-      await chatApi.post(`/api/chat/conversations/${conversationId}/read`, undefined, {
-        params: { user_id: userId },
-      });
+      await chatApi.post(`/api/chat/conversations/${conversationId}/read`);
     } catch (error) {
       console.error('Failed to mark as read', error);
     }
@@ -426,9 +424,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
         // Mark messages as read for current user (but not for sender's own messages)
         if (data.SenderID !== userId) {
           chatApi
-            .post(`/api/chat/conversations/${data.MConversationID}/read`, undefined, {
-              params: { user_id: userId },
-            })
+            .post(`/api/chat/conversations/${data.MConversationID}/read`)
             .catch(console.error);
         }
       } else {
