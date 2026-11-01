@@ -370,12 +370,18 @@ const AuthManager: React.FC = () => {
         {/* LEFT SIDE - STUDENT ASSIST PROMO */}
         <div className="hidden lg:flex lg:w-1/2 bg-gradient-to-br from-indigo-600 via-purple-600 to-violet-700 relative overflow-hidden items-center justify-center">
           
-           {/* Background Image */}
+           {/* Background Image (darkened around the periphery so the copy stays readable) */}
         <div className="absolute inset-0" style={{ 
-          backgroundImage: "url('students4.jpg')", 
-          backgroundSize: "cover", 
+          backgroundImage:
+            "radial-gradient(ellipse at 50% 42%, rgba(2,6,23,0) 20%, rgba(2,6,23,0.38) 58%, rgba(2,6,23,0.86) 100%), url('StudentsLogin.jpg')",
+          backgroundSize: "cover",
           backgroundPosition: "center" 
         }}></div>
+
+          {/* Extra edge shading: keeps only the centre of the photo bright */}
+          <div className="absolute inset-0 pointer-events-none" style={{
+            boxShadow: "inset 0 0 140px 55px rgba(2,6,23,0.9)"
+          }}></div>
           
           <div className="absolute inset-0 bg-[radial-gradient(at_40%_30%,rgba(255,255,255,0.15)_0%,transparent_60%)]"></div>
           

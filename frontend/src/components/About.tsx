@@ -299,10 +299,6 @@ const About: React.FC = () => {
                       <a href="tel:+251977815579" className="text-gray-600 dark:text-gray-400 text-sm hover:text-indigo-600 transition-colors">
                         +251 977 815 579
                       </a>
-                      <br />
-                      <a href="tel:+251913067854" className="text-gray-600 dark:text-gray-400 text-sm hover:text-indigo-600 transition-colors">
-                        +251 913 067 854
-                      </a>
                     </div>
                   </div>
 
