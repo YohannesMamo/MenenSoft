@@ -31,9 +31,7 @@ const PaymentPage = () => {
   const [copied, setCopied] = useState('');
 
   const [telebirrPhone, setTelebirrPhone] = useState('0977815579');
-  const [telebirrName, setTelebirrName] = useState('Ghion Mamo Asfaw');
   const [cbeAccount, setCbeAccount] = useState('1000239386443');
-  const [cbeName, setCbeName] = useState('Ghion Mamo Asfaw');
 
   const isPremium = user?.subscriptionStatus === 'Premium';
   const plan = PLANS.find((p) => p.id === selectedPlan);
@@ -148,15 +146,6 @@ const PaymentPage = () => {
                   {copied === 'phone' ? <Check className="w-4 h-4 text-green-600" /> : <Copy className="w-4 h-4 text-gray-400" />}
                 </button>
               </div>
-              <div className="flex items-center gap-2">
-                <span className="text-sm text-gray-500 dark:text-gray-400">Name:</span>
-                <input
-                  type="text"
-                  value={telebirrName}
-                  onChange={(e) => setTelebirrName(e.target.value)}
-                  className="flex-1 px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white text-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none"
-                />
-              </div>
             </div>
           </div>
 
@@ -180,15 +169,6 @@ const PaymentPage = () => {
                 <button onClick={() => copyToClipboard(cbeAccount, 'account')} className="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors" title="Copy">
                   {copied === 'account' ? <Check className="w-4 h-4 text-green-600" /> : <Copy className="w-4 h-4 text-gray-400" />}
                 </button>
-              </div>
-              <div className="flex items-center gap-2">
-                <span className="text-sm text-gray-500 dark:text-gray-400">Name:</span>
-                <input
-                  type="text"
-                  value={cbeName}
-                  onChange={(e) => setCbeName(e.target.value)}
-                  className="flex-1 px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white text-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none"
-                />
               </div>
             </div>
           </div>
